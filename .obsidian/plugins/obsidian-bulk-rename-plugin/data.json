@@ -1,13 +1,13 @@
 {
-  "folderName": "classes",
+  "folderName": "C",
   "fileNames": [],
-  "existingSymbol": "",
-  "replacePattern": "\\u$1",
+  "existingSymbol": "- The Coppermind",
+  "replacePattern": " ",
   "regExpState": {
-    "regExp": "\\b(\\w)",
+    "regExp": "",
     "flags": [],
     "withRegExpForReplaceSymbols": true
   },
   "tags": [],
-  "viewType": "regexp"
+  "viewType": "folder"
 }

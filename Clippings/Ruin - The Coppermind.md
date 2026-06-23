@@ -14,7 +14,7 @@ tags:
 > 
 > —Kelsier [^2]
 
-**Ruin**, also known as **Herr** in [Southern Scadrial](https://coppermind.net/wiki/Southern_Scadrial "Southern Scadrial"), is one of the [Shards](https://coppermind.net/wiki/Shard "Shard") of [Adonalsium](https://coppermind.net/wiki/Adonalsium "Adonalsium").[^3] Its original [Vessel](https://coppermind.net/wiki/Vessel "Vessel") was [Ati](https://coppermind.net/wiki/Ati "Ati"), but it's currently held by [Sazed](https://coppermind.net/wiki/Sazed "Sazed") alongside [Preservation](https://coppermind.net/wiki/Preservation "Preservation"), forming [Harmony](https://coppermind.net/wiki/Harmony "Harmony").[^4] Ruin's [Investiture](https://coppermind.net/wiki/Investiture "Investiture") is typically associated with the color black.[^5] [^6]
+**Ruin**, also known as **Herr** in [Southern Scadrial](https://coppermind.net/wiki/Southern_Scadrial "Southern Scadrial"), is one of the [Shards]("Shard - The Coppermind") of [Adonalsium](https://coppermind.net/wiki/Adonalsium "Adonalsium").[^3] Its original [Vessel](https://coppermind.net/wiki/Vessel "Vessel") was [Ati](https://coppermind.net/wiki/Ati "Ati"), but it's currently held by [Sazed](https://coppermind.net/wiki/Sazed "Sazed") alongside [Preservation](https://coppermind.net/wiki/Preservation "Preservation"), forming [Harmony](https://coppermind.net/wiki/Harmony "Harmony").[^4] Ruin's [Investiture](https://coppermind.net/wiki/Investiture "Investiture") is typically associated with the color black.[^5] [^6]
 
 ## Intent
 
