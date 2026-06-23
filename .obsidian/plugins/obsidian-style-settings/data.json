@@ -1,0 +1,21 @@
+{
+  "Components@@tab-autohide": true,
+  "Components@@status-bar-autohide": true,
+  "Components@@Ribbon-autohide": true,
+  "Components@@nav-header-autohide": true,
+  "Components@@tab-title-bar-autohide": true,
+  "Components@@vault-profile-autohide": true,
+  "Components@@CTA-BTN-enable": true,
+  "Components@@folder-font-bold": true,
+  "Components@@colorful-folder": true,
+  "Components@@outline-enhanced": true,
+  "cupertino@@colorful-frame": true,
+  "cupertino@@tab-floating": true,
+  "cupertino@@hover-ribbon": true,
+  "cupertino@@hover-sidedock": true,
+  "cupertino@@focus-view": true,
+  "cupertino@@adaptive-mode-off": false,
+  "cupertino@@nav-action-center": false,
+  "cupertino@@zoom-off": false,
+  "cupertino@@active-line-off": false
+}

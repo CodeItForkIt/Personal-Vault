@@ -1,0 +1,13 @@
+{
+  "folderName": "classes",
+  "fileNames": [],
+  "existingSymbol": "",
+  "replacePattern": "\\u$1",
+  "regExpState": {
+    "regExp": "\\b(\\w)",
+    "flags": [],
+    "withRegExpForReplaceSymbols": true
+  },
+  "tags": [],
+  "viewType": "regexp"
+}

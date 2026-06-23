@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "3acc90b1c897752c",
+    "type": "split",
+    "children": [
+      {
+        "id": "55528f465ea598fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "460217d9abc0cdc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Ruin - The Coppermind.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ruin - The Coppermind"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4dc23bdaa7ba9b3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e149be523c47db34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b46ca2aa6bf32b13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2522ce66b2c9b1df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aa8ce3fc4417ddd1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "924c8cac3b44cad9",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.5
+  },
+  "right": {
+    "id": "fec9c62883330444",
+    "type": "split",
+    "children": [
+      {
+        "id": "27c29abbc20ed116",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ef5694902afb67f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9801952ec1dafeda",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "7d6accbf20ad7534",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "12b3e5ced94d0bd7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f5ef82f2ca4973ed",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4e2fdf5cd0f57784",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "565d456f552cda04",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "e3b9269fd218cc68",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "pseudo-mica:Change vibrancy": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "460217d9abc0cdc3",
+  "lastOpenFiles": [
+    "Clippings/Shard - The Coppermind.md",
+    "Clippings/Whimsy - The Coppermind.md",
+    "Clippings/Order of Lightweavers - The Coppermind.md",
+    "Clippings/Odium - The Coppermind.md",
+    "Clippings/Order of Truthwatchers - The Coppermind.md",
+    "Clippings/Order of Edgedancers - The Coppermind.md",
+    "Clippings/Order of Dustbringers - The Coppermind.md",
+    "Clippings/Order of Skybreakers - The Coppermind.md",
+    "Clippings/Order of Windrunners - The Coppermind.md",
+    "Clippings/Reason - The Coppermind.md",
+    "Clippings/Virtuosity - The Coppermind.md",
+    "Clippings/Valor - The Coppermind.md",
+    "Clippings/Mercy - The Coppermind.md",
+    "Clippings/Invention - The Coppermind.md",
+    "Clippings/Ambition - The Coppermind.md",
+    "Clippings/Autonomy - The Coppermind.md",
+    "Clippings/Endowment - The Coppermind.md",
+    "Clippings/Cultivation - The Coppermind.md",
+    "Clippings/Odium - The Coppermind 1.md",
+    "Clippings/Ruin - The Coppermind.md",
+    "Clippings/Preservation - The Coppermind.md",
+    "Clippings/Dominion - The Coppermind.md",
+    "Clippings/Devotion - The Coppermind.md",
+    "Clippings/Taravangian - The Coppermind.md",
+    "Clippings/Retribution - The Coppermind.md",
+    "Clippings/Honor - The Coppermind.md",
+    "Clippings",
+    "Speed, Distance and Time",
+    "Reference",
+    "Tags"
+  ]
+}
