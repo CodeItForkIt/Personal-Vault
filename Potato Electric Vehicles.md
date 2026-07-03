@@ -1,0 +1,5 @@
+---
+sticker: emoji//1f954
+banner_y: "78.5"
+---
+It takes 40000 watthours of power to power an EV(Electric Vehicle). Potatoes produce 2.5 watthours of energy per potato. Therefore $40,000/2.5=16,000$ and so it takes 16,000 potatoes to power an EV. A potato weights 369 grams so 16,000 potatoes weigh 5,904,000 grams or 13,016.09 pounds. Potatoes cost $0.89 per pound so 13016.09 pounds of potatoes would cost $11,584.32011. The volume of an average potato is 350 cubic centimeters so therefore 16,000 potatoes would have a volume of 5,600,000 cubic centimeters or 1,479.363 gallons. (Side note: As a bonus, burning a potato produces 0.127844 watt-hours of energy per potato while using them as a battery produces 2.5 watt-hours per potato. There's an almost 20 times difference in efficiency. Don't burn potatoes.)
