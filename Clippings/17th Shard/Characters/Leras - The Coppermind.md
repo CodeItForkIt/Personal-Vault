@@ -20,7 +20,7 @@ favicon: /favicon.ico
 > 
 > —Leras [^4]
 
-**Leras** is the first [Vessel](https://coppermind.net/wiki/Vessel "Vessel") of the [[Shards|Shard]] [[Preservation - The Coppermind|Preservation]], originally from [[Yolen - The Coppermind|Yolen]]. Along with [[Ati - The Coppermind|Ati]], the Vessel of [[Ruin - The Coppermind|Ruin]], he created [[Scadrial - The Coppermind|Scadrial]], although he later betrayed Ati and imprisoned him in the [[Well of Ascension - The Coppermind|Well of Ascension]], at the cost of his own life. He is nicknamed **Fuzz** by [[Kelsier - The Coppermind|Kelsier]].[^5]
+**Leras** is the first [[Shards|Vessel]] of the [[Shards|Shard]] [[Preservation - The Coppermind|Preservation]], originally from [[Yolen - The Coppermind|Yolen]]. Along with [[Ati - The Coppermind|Ati]], the Vessel of [[Ruin - The Coppermind|Ruin]], he created [[Scadrial - The Coppermind|Scadrial]], although he later betrayed Ati and imprisoned him in the [[Well of Ascension - The Coppermind|Well of Ascension]], at the cost of his own life. He is nicknamed **Fuzz** by [[Kelsier - The Coppermind|Kelsier]].[^5]
 
 ## Appearance and Personality
 
@@ -42,7 +42,7 @@ by [Elisgardor](https://coppermind.net/wiki/Coppermind:Artists/Elisgardor "Coppe
 
 > “ *The hearts of men are NOT YOUR TOYS.* ”
 
-When he is cognizant, Leras is often sarcastic and sardonic. He gets easily excited over things he adores, like the [Lord Ruler](https://coppermind.net/wiki/Lord_Ruler "Lord Ruler"), and will often pace when thinking, full of energy. He likes people who accomplish the impossible, especially when it involves their own survival.[^5] He was once able to be cunning, and even deceitful, when needed, but seems to have lost this capacity over time.[^3]
+When he is cognizant, Leras is often sarcastic and sardonic. He gets easily excited over things he adores, like the [[Rashek - The Coppermind|Lord Ruler]], and will often pace when thinking, full of energy. He likes people who accomplish the impossible, especially when it involves their own survival.[^5] He was once able to be cunning, and even deceitful, when needed, but seems to have lost this capacity over time.[^3]
 
 Leras has a strong sense of duty towards Scadrial and its people, and continues to maintain his appointed tasks, such as welcoming the recently deceased, even as he is dying.[^5] He treats his divinity seriously, and attempts to impart this seriousness upon others.[^9] The same means he dislikes being mocked, and is highly offended when suggested to act in a way opposing to his Intent.[^10] He can also get incensed when people do not follow their roles, and gets angry when his function as Scadrial's god is questioned or usurped.[^3]
 
@@ -62,7 +62,7 @@ by [automaticmoon](https://coppermind.net/wiki/Coppermind:Artists/automaticmoon 
 
 The death of Leras
 
-Leras is a [Vessel](https://coppermind.net/wiki/Vessel "Vessel") of a [[Shards|Shard]]; as such, he is unaging, nigh-omniscient within his sphere of influence, and lacking a distinct form in the [[Physical Realm - The Coppermind|Physical Realm]]. During the events immediately before the [[Catacendre - The Coppermind|Catacendre]] he is, however, functionally dead, having been mortally wounded and dying for millennia. As such, he is slowly unraveling. He lacks significant fragments of his memories, has trouble focusing, and is only lucid for short periods of time.[^5] He has trouble keeping a humanoid appearance even in the [[Cognitive Realm - The Coppermind|Cognitive Realm]], and parts of him can only appear as tendrils of mist.[^11] He's also technically a [[The Coppermind Wiki - 17th Shard, the Official Brandon Sanderson Fansite 1|Cognitive Shadow]], a fading imprint of mind and memory on the power of [[Preservation - The Coppermind|Preservation]].[^12] [^13]
+Leras is a [[Shards|Vessel]] of a [[Shards|Shard]]; as such, he is unaging, nigh-omniscient within his sphere of influence, and lacking a distinct form in the [[Physical Realm - The Coppermind|Physical Realm]]. During the events immediately before the [[Catacendre - The Coppermind|Catacendre]] he is, however, functionally dead, having been mortally wounded and dying for millennia. As such, he is slowly unraveling. He lacks significant fragments of his memories, has trouble focusing, and is only lucid for short periods of time.[^5] He has trouble keeping a humanoid appearance even in the [[Cognitive Realm - The Coppermind|Cognitive Realm]], and parts of him can only appear as tendrils of mist.[^11] He's also technically a [[The Coppermind Wiki - 17th Shard, the Official Brandon Sanderson Fansite 1|Cognitive Shadow]], a fading imprint of mind and memory on the power of [[Preservation - The Coppermind|Preservation]].[^12] [^13]
 
 As the Vessel of Preservation, Leras processed some of the best future sight in the [[17th Shard|cosmere]]. He was able to accurately predict events for thousands of years in the future, even with interference from [[Ruin - The Coppermind|Ruin]]. This allowed him to make long-term, large-scale plans and trust them to work out properly, even if he himself forgets what the plan was in the first place.[^14] [^11]
 
@@ -74,7 +74,7 @@ The form he takes in the Cognitive Realm carries on it a knife.[^5] He refers to
 
 by [zoethatcher\_art](https://coppermind.net/wiki/Coppermind:Artists/zoethatcher_art "Coppermind:Artists/zoethatcher art")
 
-Like all original [Vessels](https://coppermind.net/wiki/Vessel "Vessel"), Leras is a native of [[Yolen - The Coppermind|Yolen]].[^15] He participated in the [[Shattering - The Coppermind|Shattering of Adonalsium]], and took up one of the [[Shards]], [[Preservation - The Coppermind|Preservation]], before departing Yolen along with [[Ati - The Coppermind|Ati]], the Vessel of [[Ruin - The Coppermind|Ruin]].[^13]
+Like all original [[Shards|Vessels]], Leras is a native of [[Yolen - The Coppermind|Yolen]].[^15] He participated in the [[Shattering - The Coppermind|Shattering of Adonalsium]], and took up one of the [[Shards]], [[Preservation - The Coppermind|Preservation]], before departing Yolen along with [[Ati - The Coppermind|Ati]], the Vessel of [[Ruin - The Coppermind|Ruin]].[^13]
 
 ## Relationships
 
@@ -96,7 +96,7 @@ Leras turning Kelsier into a [[The Coppermind Wiki - 17th Shard, the Official Br
 
 > “ *You're not only the first to punch me, you’re also the first to try to recruit me. You are a distinctively strange man.* ”
 
-Leras and [[Kelsier - The Coppermind|Kelsier]] meet when the latter dies, though Leras himself has been following Kelsier's actions for some time. He dislikes him, and initially wants to push him onward to the [[The Coppermind Wiki - 17th Shard, the Official Brandon Sanderson Fansite 2|Beyond]], but Kelsier is able to trick him into explaining how to become a [[The Coppermind Wiki - 17th Shard, the Official Brandon Sanderson Fansite 1|Cognitive Shadow]]. Kelsier nicknames him **Fuzz**, due to his fuzzy, half-unraveled appearance, and attempts to recruit him to his schemes, which Leras eventually agrees to go along with, mostly out of curiosity.[^5] He is briefly furious when he realizes that Kelsier's actions led to [Lord Ruler's](https://coppermind.net/wiki/Lord_Ruler "Lord Ruler") death, and often ribs Kelsier over his unwillingness to move on to the Beyond and the way his actions played into Ruin's hand.[^11]
+Leras and [[Kelsier - The Coppermind|Kelsier]] meet when the latter dies, though Leras himself has been following Kelsier's actions for some time. He dislikes him, and initially wants to push him onward to the [[The Coppermind Wiki - 17th Shard, the Official Brandon Sanderson Fansite 2|Beyond]], but Kelsier is able to trick him into explaining how to become a [[The Coppermind Wiki - 17th Shard, the Official Brandon Sanderson Fansite 1|Cognitive Shadow]]. Kelsier nicknames him **Fuzz**, due to his fuzzy, half-unraveled appearance, and attempts to recruit him to his schemes, which Leras eventually agrees to go along with, mostly out of curiosity.[^5] He is briefly furious when he realizes that Kelsier's actions led to [[Rashek - The Coppermind|Lord Ruler's]] death, and often ribs Kelsier over his unwillingness to move on to the Beyond and the way his actions played into Ruin's hand.[^11]
 
 As the Well of Ascension fills up, the two eventually do begin to cooperate, with Leras telling Kelsier more and Kelsier being more willing to listen to and respect Leras' divinity.[^10] Though still angry about Kelsier and his veneration as "the Survivor", Leras eventually trusts Kelsier enough to point him towards the [[Ire - The Coppermind|Ire]].[^3] [^17] As Leras continues to unravel, Kelsier tries to keep up his spirits.[^18] At the moment of his death, the two are cordial, with Kelsier comforting Leras and Leras giving Kelsier tacit blessing to use his power and imploring him to keep on surviving.[^9]
 

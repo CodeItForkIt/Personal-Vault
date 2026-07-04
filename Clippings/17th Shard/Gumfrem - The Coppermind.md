@@ -18,7 +18,7 @@ favicon: "/favicon.ico"
 
 **The Coppermind has spoilers for all of Brandon's published works, now including *Isles of the Emberdark* and Cosmere RPG books. Information about books that have not yet been released, like *Mistborn* Era 3, is allowed *only* on meta-pages for the books themselves. For more details, see [our spoiler policy](https://coppermind.net/wiki/Help:Spoilers "Help:Spoilers"). To view an earlier version of the wiki without spoilers for a book, go to the [Time Machine](https://coppermind.net/wiki/Special:TimeMachine "Special:TimeMachine")!**
 
-**Gumfrems** are domesticated animals on [[Roshar - The Coppermind|Roshar]]. They are described as pasture animals that are similar to [[Chull - The Coppermind|chulls]], although gumfrems are relatively uncommon. They are raised in [Alethkar](https://coppermind.net/wiki/Alethkar "Alethkar") for their [[Gemheart - The Coppermind|gemhearts]], presumably heliodors, which are small but can be used to [Soulcast](https://coppermind.net/wiki/Soulcast "Soulcast") meat.[^1]
+**Gumfrems** are domesticated animals on [[Roshar - The Coppermind|Roshar]]. They are described as pasture animals that are similar to [[Chull - The Coppermind|chulls]], although gumfrems are relatively uncommon. They are raised in [Alethkar](https://coppermind.net/wiki/Alethkar "Alethkar") for their [[Gemheart - The Coppermind|gemhearts]], presumably heliodors, which are small but can be used to [[Soulcasting - The Coppermind|Soulcast]] meat.[^1]
 
 Gumfrem farms existed in the [Akanny](https://coppermind.net/wiki/Akanny "Akanny") region of the [Sadeas princedom](https://coppermind.net/wiki/Sadeas_princedom "Sadeas princedom").[^1] Enough gumfrems to clog multiple rooms were taken to [[Urithiru - The Coppermind|Urithiru]].[^1]
 

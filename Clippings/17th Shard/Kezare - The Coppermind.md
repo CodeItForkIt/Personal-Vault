@@ -12,7 +12,7 @@ favicon: "/favicon.ico"
 ---
 ## Kezare
 
-**Kezare** is the capital city of [[Lossand - The Coppermind|Lossand]], one of the more prominent countries on the [Dayside](https://coppermind.net/wiki/Dayside "Dayside") of [[Taldain - The Coppermind|Taldain]].
+**Kezare** is the capital city of [[Lossand - The Coppermind|Lossand]], one of the more prominent countries on the [[Taldain - The Coppermind|Dayside]] of [[Taldain - The Coppermind|Taldain]].
 
 ## Geography
 
@@ -24,8 +24,8 @@ The city consists of permanent structure,s many of which were constructed with t
 
 - **The Diem** - The [[Diem - The Coppermind|Diem]] is the building which houses the [[Sand mastery - The Coppermind|sand masters]] and also serves as headquarters for the [[Lossand - The Coppermind#Politics|Profession]] whose name it shares. The building was carved from a single block of white sandstone and
 - **The Hall of Judgement** - The [Hall of Judgement](https://coppermind.net/wiki/Hall_of_Judgement "Hall of Judgement") is the headquarters of the Profession whose name it shares. The Taisha meeting chambers are inside the Hall of Judgement.[^3]
-- **The Tower** - The [Tower](https://coppermind.net/wiki/Tower_\(Taldain\) "Tower (Taldain)") is the headquarters of the Profession whose name it shares. It houses the soldiers of Lossand and is the dwelling of the [Lord General](https://coppermind.net/wiki/Lord_General "Lord General").
-- **Lonzare** - Lonzare is the city's [Darksider](https://coppermind.net/wiki/Darksider "Darksider") quarter.[^2]
+- **The Tower** - The [Tower](https://coppermind.net/wiki/Tower_\(Taldain\) "Tower (Taldain)") is the headquarters of the Profession whose name it shares. It houses the soldiers of Lossand and is the dwelling of the [[Taishin - The Coppermind|Lord General]].
+- **Lonzare** - Lonzare is the city's [[Taldain - The Coppermind|Darksider]] quarter.[^2]
 
 ## Politics
 

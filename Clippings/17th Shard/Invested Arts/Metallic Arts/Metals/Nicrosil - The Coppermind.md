@@ -20,7 +20,7 @@ favicon: /favicon.ico
 
 ## Allomantic Use
 
-A nicrosil [Misting](https://coppermind.net/wiki/Misting "Misting") is known as a **Nicroburst**. A Nicroburst burning nicrosil and touching another Allomancer will cause the latter's reserves of the metals that are currently burning to disappear and give a huge burst of power to the recipient.[^1] This could be used either to enhance an ally Allomancer or to hinder an enemy Allomancer.[^2]
+A nicrosil [[Allomancy - The Coppermind|Misting]] is known as a **Nicroburst**. A Nicroburst burning nicrosil and touching another Allomancer will cause the latter's reserves of the metals that are currently burning to disappear and give a huge burst of power to the recipient.[^1] This could be used either to enhance an ally Allomancer or to hinder an enemy Allomancer.[^2]
 
 - [[Iron - The Coppermind|Iron]] / [[Steel - The Coppermind|Steel]]: While Pulling or Pushing with nicrosil, an Allomancer gains an explosion of power, but grants them a far greater base strength, allowing them to Pull or Push on objects far heavier or [[Investiture - The Coppermind|Invested]] than normal.[^3] [^4] [^5] [^6] These Pulls/Pushes could become so strong it can feel like the Allomancer is being torn apart.[^4] A Coinshot could also launch incredibly far with a single Push.[^7]
 - [[Tin - The Coppermind|Tin]]: While burning tin, a Tineye risks being shocked by the sensory overload and becoming temporarily numb, blind, and deaf.[^8]
@@ -34,7 +34,7 @@ Burning nicrosil could potentially be used to gain a burst of power from other f
 
 ## Feruchemical Use
 
-A nicrosil [Ferring](https://coppermind.net/wiki/Ferring "Ferring") is known as a **Soulbearer**. Nicrosil is used to store [[Investiture - The Coppermind|Investiture]]. This ability is not understood (even by those who utilize it).[^1] A Soulbearer storing Investiture stores their ability to use their Investiture. Therefore, a Soulbearer could store their ability to use Feruchemy and another person tapping it would be turned into a temporary Feruchemist who has the ability to fill a metalmind (assuming the nicrosilmind was [[Feruchemy - The Coppermind#Unkeyed Metalminds|unkeyed]]).[^27] Among other things, a nicrosilmind can be used to store the [divine Breath](https://coppermind.net/wiki/Divine_Breath "Divine Breath") of the [[Returned - The Coppermind|Returned]] and the ability to use various [[Surgebinding - The Coppermind|surges]] of the [[Knights Radiant - The Coppermind|Knights Radiant]].[^28] Filling a nicrosilmind as fast as possible hides a person from an [Awakener's](https://coppermind.net/wiki/Awakener "Awakener") life sense.[^29]
+A nicrosil [[Feruchemy - The Coppermind|Ferring]] is known as a **Soulbearer**. Nicrosil is used to store [[Investiture - The Coppermind|Investiture]]. This ability is not understood (even by those who utilize it).[^1] A Soulbearer storing Investiture stores their ability to use their Investiture. Therefore, a Soulbearer could store their ability to use Feruchemy and another person tapping it would be turned into a temporary Feruchemist who has the ability to fill a metalmind (assuming the nicrosilmind was [[Feruchemy - The Coppermind#Unkeyed Metalminds|unkeyed]]).[^27] Among other things, a nicrosilmind can be used to store the [[BioChromatic Breath - The Coppermind|divine Breath]] of the [[Returned - The Coppermind|Returned]] and the ability to use various [[Surgebinding - The Coppermind|surges]] of the [[Knights Radiant - The Coppermind|Knights Radiant]].[^28] Filling a nicrosilmind as fast as possible hides a person from an [[Awakening - The Coppermind|Awakener's]] life sense.[^29]
 
 ### Compounding
 
@@ -44,11 +44,11 @@ Next to nothing is known about the possible applications of [[Compounding - The 
 
 When used as a Hemalurgic spike, nicrosil steals [[Investiture - The Coppermind|Investiture]].[^31] This does not steal powers—the ability to use Invested Arts like Allomancy or [[Sand mastery - The Coppermind|sand mastery]] —but rather general Investiture, such as a piece of a person's soul or [[BioChromatic Breath - The Coppermind|BioChromatic Breaths]].[^32] [^33]
 
-If a [Scadrian](https://coppermind.net/wiki/Scadrian "Scadrian") is stabbed with a spike Invested with stolen Investiture from another Scadrian, they may temporarily gain Allomantic powers.[^32]
+If a [[Scadrial - The Coppermind|Scadrian]] is stabbed with a spike Invested with stolen Investiture from another Scadrian, they may temporarily gain Allomantic powers.[^32]
 
 ## Trivia
 
-- In the [Mistborn Adventure Game](https://coppermind.net/wiki/Mistborn_Adventure_Game "Mistborn Adventure Game") nicrosil can be used to convert between forms of [[Investiture - The Coppermind|Investiture]]. This allows for a [Feruchemist](https://coppermind.net/wiki/Feruchemist "Feruchemist") to convert between attributes stored in their [metalminds](https://coppermind.net/wiki/Metalmind "Metalmind") (i.e. converting the mental speed in a zincmind into the strength in a pewtermind).
+- In the [Mistborn Adventure Game](https://coppermind.net/wiki/Mistborn_Adventure_Game "Mistborn Adventure Game") nicrosil can be used to convert between forms of [[Investiture - The Coppermind|Investiture]]. This allows for a [[Feruchemy - The Coppermind|Feruchemist]] to convert between attributes stored in their [[Feruchemy - The Coppermind|metalminds]] (i.e. converting the mental speed in a zincmind into the strength in a pewtermind).
 
 ## Notes
 

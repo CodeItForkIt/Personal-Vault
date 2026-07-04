@@ -18,7 +18,7 @@ It gives Highprince [[Valam - The Coppermind|Valam]] its fealty, but his health 
 
 ## History
 
-The Davar family live on an estate in Valam princedom and are known for mining. After their father's death, the Davar children learned that their father had been creating new quarries using a [Soulcaster](https://coppermind.net/wiki/Soulcaster "Soulcaster") until the [[Fabrial - The Coppermind|fabrial]] broke.[^2]
+The Davar family live on an estate in Valam princedom and are known for mining. After their father's death, the Davar children learned that their father had been creating new quarries using a [[Soulcasting - The Coppermind|Soulcaster]] until the [[Fabrial - The Coppermind|fabrial]] broke.[^2]
 
 [Lin Davar](https://coppermind.net/wiki/Lin_Davar "Lin Davar") and [Lady Davar](https://coppermind.net/wiki/Shallan%27s_mother "Shallan's mother") had five children; [[Helaran Davar - The Coppermind|Helaran]], [[Balat Davar - The Coppermind|Balat]], [[Jushu Davar - The Coppermind|Jushu]], [[Wikim Davar - The Coppermind|Wikim]] and [[Shallan Davar - The Coppermind|Shallan]].
 

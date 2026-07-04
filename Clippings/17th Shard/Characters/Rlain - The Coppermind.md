@@ -21,7 +21,7 @@ favicon: /favicon.ico
 > 
 > —Rlain reflecting on the loneliness of his situation [^4]
 
-**Rlain** is a [[Listener - The Coppermind|listener]] and member of [[Bridge Four - The Coppermind|Bridge Four]],[^5] as well as the second-ever Enlightened Truthwatcher.[^6] He is sent by the listeners to the [warcamps](https://coppermind.net/wiki/Warcamp "Warcamp") to spy on the [Alethi](https://coppermind.net/wiki/Alethi "Alethi") and is given the name "Shen" while running bridges with Bridge Four. He reveals himself after discovering that [[Eshonai - The Coppermind|Eshonai]] and the other listeners have transformed into [stormform](https://coppermind.net/wiki/Stormform "Stormform"), and he later takes a place as a soldier in Bridge Four's new incarnation as a military unit. In recognition of his heroism during the occupation of Urithiru, he is offered a bond by the mistspren Tumi, who names him Bridger of Minds.[^7]
+**Rlain** is a [[Listener - The Coppermind|listener]] and member of [[Bridge Four - The Coppermind|Bridge Four]],[^5] as well as the second-ever Enlightened Truthwatcher.[^6] He is sent by the listeners to the [[Shattered Plains - The Coppermind|warcamps]] to spy on the [Alethi](https://coppermind.net/wiki/Alethi "Alethi") and is given the name "Shen" while running bridges with Bridge Four. He reveals himself after discovering that [[Eshonai - The Coppermind|Eshonai]] and the other listeners have transformed into [[Regal - The Coppermind|stormform]], and he later takes a place as a soldier in Bridge Four's new incarnation as a military unit. In recognition of his heroism during the occupation of Urithiru, he is offered a bond by the mistspren Tumi, who names him Bridger of Minds.[^7]
 
 ## Appearance and Personality
 
@@ -39,7 +39,7 @@ Rlain has the marbling characteristic of [[Singer - The Coppermind|singers]]; hi
 
 Dullform
 
-While in [dullform](https://coppermind.net/wiki/Dullform "Dullform"), Rlain looks very much like a singer in [slaveform](https://coppermind.net/wiki/Slaveform "Slaveform") (a "parshman"): his face is round, plump, and hairless, and the parts of his body are generally thicker and stouter than those of humans. He is taller than the typical parshman, but not conspicuously so, and still short by [Alethi](https://coppermind.net/wiki/Alethi "Alethi") standards.[^5]
+While in [[Singer - The Coppermind|dullform]], Rlain looks very much like a singer in [[Singer - The Coppermind|slaveform]] (a "parshman"): his face is round, plump, and hairless, and the parts of his body are generally thicker and stouter than those of humans. He is taller than the typical parshman, but not conspicuously so, and still short by [Alethi](https://coppermind.net/wiki/Alethi "Alethi") standards.[^5]
 
 Dullform is characterized by low intelligence and low capacity, though Rlain is on the higher end of this bell curve. He is capable enough at mental math to solve a problem that stumps his human overseer, responding before the man's wife can furnish an answer, though taking too long to register that he shouldn't have responded at all.[^8]
 
@@ -49,7 +49,7 @@ Dullforms also have a harder time hearing the rhythms [^13] [^4] and rarely spea
 
 Warform
 
-In [warform](https://coppermind.net/wiki/Warform "Warform"), he becomes as tall as and more muscular than an Alethi, and also gains an orange-red skullplate and armored carapace growing out of his body at the chest, thighs, and outer arms. He becomes able to think with normal intelligence, he displays a very soldierly attitude toward Dalinar.[^17]
+In [[Singer - The Coppermind|warform]], he becomes as tall as and more muscular than an Alethi, and also gains an orange-red skullplate and armored carapace growing out of his body at the chest, thighs, and outer arms. He becomes able to think with normal intelligence, he displays a very soldierly attitude toward Dalinar.[^17]
 
 From his earliest times taking warform, he displays unusual adeptness at resisting its inclinations to violence and taking risks, preferring a more cautious and pacifistic approach.[^18] He avoids engaging in physical violence in his resistance of Odium’s forces, and it concerns him that he hears the Rhythms more loudly in this form.[^18]
 
@@ -79,7 +79,7 @@ by [rspixart](https://coppermind.net/wiki/Coppermind:Artists/rspixart "Coppermin
 
 Sja-Anat and her Enlightened Truthwatchers
 
-As a singer, Rlain can take on different physical forms by bonding with certain [[Spren - The Coppermind|spren]]. He uses dullform for a time, which hampers his physical and mental abilities but allows him to hide among parshmen to infiltrate the Alethi [warcamps](https://coppermind.net/wiki/Warcamp "Warcamp"). He later changes to warform, gaining the ability to think normally, a much stronger body, and natural skill in combat.[^4]
+As a singer, Rlain can take on different physical forms by bonding with certain [[Spren - The Coppermind|spren]]. He uses dullform for a time, which hampers his physical and mental abilities but allows him to hide among parshmen to infiltrate the Alethi [[Shattered Plains - The Coppermind|warcamps]]. He later changes to warform, gaining the ability to think normally, a much stronger body, and natural skill in combat.[^4]
 
 Like all singers, Rlain is asexual when in a non-procreative malen form,[^28] though he is surprised to discover the first times he takes mateform that he is exclusively attracted to men.[^26]
 
@@ -129,7 +129,7 @@ Most members of Bridge Four vociferously distrusted him from the beginning, susp
 > 
 > —Lopen [^33]
 
-[Teft](https://coppermind.net/wiki/Teft "Teft") in particular was inclined to worry about his loyalties,[^5] as Rlain's addition to Bridge Four occurred in the middle of their secret plan to train in spear fighting and escape from the warcamps. Even Kaladin, despite his relative acceptance of Rlain, didn't feel comfortable giving him a spear. Instead, he assigned Rlain and the other non-combatants ([Rock](https://coppermind.net/wiki/Rock "Rock"), [Lopen](https://coppermind.net/wiki/Lopen "Lopen"), and [Dabbid](https://coppermind.net/wiki/Dabbid "Dabbid")) to scavenge through the chasms with [Syl's](https://coppermind.net/wiki/Syl "Syl") aid while everyone else trained.[^34]
+[Teft](https://coppermind.net/wiki/Teft "Teft") in particular was inclined to worry about his loyalties,[^5] as Rlain's addition to Bridge Four occurred in the middle of their secret plan to train in spear fighting and escape from the warcamps. Even Kaladin, despite his relative acceptance of Rlain, didn't feel comfortable giving him a spear. Instead, he assigned Rlain and the other non-combatants ([Rock](https://coppermind.net/wiki/Rock "Rock"), [Lopen](https://coppermind.net/wiki/Lopen "Lopen"), and [Dabbid](https://coppermind.net/wiki/Dabbid "Dabbid")) to scavenge through the chasms with [[Sylphrena - The Coppermind|Syl's]] aid while everyone else trained.[^34]
 
 Rlain went on bridge runs and chasm duty several times without issue, just as Kaladin had expected, even joining the other bridgemen standing at parade rest as Sadeas' armies crossed the chasms.[^35] However, Teft, and likely much of the crew, continued to distrust him. During one chasm duty session, Kaladin began to scavenge from a listener corpse, and Rlain's attempt to stop him prompted Teft and Moash to restrain him in a chokehold. Curious, Kaladin ordered him freed, and Rlain gently but firmly pushed Kaladin away and took up a defensive position over the corpse. Rock and Lopen reported that he had done similarly before during their scavenging efforts.
 
@@ -157,7 +157,7 @@ Eventually, after admiring the practice swords in the training area earlier in t
 
 After four more weeks of navigating lighteyed society, Kaladin's conscience got the better of him, and he asked Dalinar for permission to arm Rlain and add him to the guard rotation. Dalinar asked if Kaladin trusted him, and upon Kaladin's affirmation that he did,[^15] Dalinar allowed it out of curiosity.[^44] Kaladin apologized for being frightened before. Reverently holding the spear, Rlain told Kaladin he is a good man, and he began to say more, but was interrupted by Moash's arrival and declined to say more.
 
-Rlain's first day as a guardsman, he was given basic spear training with [Natam](https://coppermind.net/wiki/Natam "Natam") and [Leyten](https://coppermind.net/wiki/Leyten "Leyten"), then later that day, he was part of Renarin and Dalinar’s guard when Renarin’s "thirty-two days, seek the center" warning message was found. His second day, Rlain was part of [[Adolin Kholin - The Coppermind|Adolin's]] guard during the meeting with [[Eshonai - The Coppermind|Eshonai]], Rlain's former commander,[^17] out on the [[Shattered Plains - The Coppermind|Shattered Plains]]. He noticed that something was very wrong with Eshonai's voice--she had changed into [stormform](https://coppermind.net/wiki/Stormform "Stormform") --and he left the warcamps that night to try to warn his people of the danger. On his way out, he notified Kaladin that he was leaving, thanked Kaladin for teaching him, and revealed his true name for the first time.[^16]
+Rlain's first day as a guardsman, he was given basic spear training with [Natam](https://coppermind.net/wiki/Natam "Natam") and [Leyten](https://coppermind.net/wiki/Leyten "Leyten"), then later that day, he was part of Renarin and Dalinar’s guard when Renarin’s "thirty-two days, seek the center" warning message was found. His second day, Rlain was part of [[Adolin Kholin - The Coppermind|Adolin's]] guard during the meeting with [[Eshonai - The Coppermind|Eshonai]], Rlain's former commander,[^17] out on the [[Shattered Plains - The Coppermind|Shattered Plains]]. He noticed that something was very wrong with Eshonai's voice--she had changed into [[Regal - The Coppermind|stormform]] --and he left the warcamps that night to try to warn his people of the danger. On his way out, he notified Kaladin that he was leaving, thanked Kaladin for teaching him, and revealed his true name for the first time.[^16]
 
 #### Battle of Narak
 
@@ -165,7 +165,7 @@ Rlain's first day as a guardsman, he was given basic spear training with [Natam]
 > 
 > —Rlain regarding the lost listeners [^17]
 
-Rlain approached [Narak](https://coppermind.net/wiki/Narak "Narak") and observed the army of ten thousand stormforms that had been made out of the listener population.[^17] By then, Thude had already escaped with the defectors, elderly, and children,[^45] explaining why Rlain did not see any during his surveillance. Rlain left them again, realizing that the change in Eshonai had corrupted his people and effectively killed everyone he knew. He retook warform in his first opportunity, two weeks after his departure from the warcamps, and made his way back to the Alethi armies shortly before the [[Battle of Narak - The Coppermind|Battle of Narak]], a few weeks after his departure. His warform appearance led to a tense standoff with the Alethi troops, but Rlain spotted [Skar](https://coppermind.net/wiki/Skar "Skar") among them, who vouched for his identity. Rlain was peacefully taken into custody,[^46] though Dalinar charges [Teleb](https://coppermind.net/wiki/Teleb "Teleb") and his personal guard with watching him, as Dalinar worried about how defensive the bridgemen were of him.
+Rlain approached [[Stormseat - The Coppermind|Narak]] and observed the army of ten thousand stormforms that had been made out of the listener population.[^17] By then, Thude had already escaped with the defectors, elderly, and children,[^45] explaining why Rlain did not see any during his surveillance. Rlain left them again, realizing that the change in Eshonai had corrupted his people and effectively killed everyone he knew. He retook warform in his first opportunity, two weeks after his departure from the warcamps, and made his way back to the Alethi armies shortly before the [[Battle of Narak - The Coppermind|Battle of Narak]], a few weeks after his departure. His warform appearance led to a tense standoff with the Alethi troops, but Rlain spotted [Skar](https://coppermind.net/wiki/Skar "Skar") among them, who vouched for his identity. Rlain was peacefully taken into custody,[^46] though Dalinar charges [Teleb](https://coppermind.net/wiki/Teleb "Teleb") and his personal guard with watching him, as Dalinar worried about how defensive the bridgemen were of him.
 
 > **Skar**: " *You’re Bridge Four.* *"  
 > ***Rlain**: " *I'm a traitor.* *"  

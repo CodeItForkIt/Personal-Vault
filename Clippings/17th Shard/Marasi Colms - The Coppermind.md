@@ -16,7 +16,7 @@ favicon: "/favicon.ico"
 > 
 > —Marasi [^4]
 
-**Marasi Colms** is a [Pulser](https://coppermind.net/wiki/Pulser "Pulser") [^5] on [[Scadrial - The Coppermind|Scadrial]]. Marasi is a constable in the [[Elendel - The Coppermind|Elendel]] constabulary under Constable-General [Reddi](https://coppermind.net/wiki/Reddi "Reddi").[^6] Marasi previously studied law and is a friend of [Wax](https://coppermind.net/wiki/Wax "Wax"), [Wayne](https://coppermind.net/wiki/Wayne "Wayne"), and [MeLaan](https://coppermind.net/wiki/MeLaan "MeLaan"), among other important cultural figures of the time. She is sometimes called **Mara** by Wayne.[^7]
+**Marasi Colms** is a [[Cadmium - The Coppermind|Pulser]] [^5] on [[Scadrial - The Coppermind|Scadrial]]. Marasi is a constable in the [[Elendel - The Coppermind|Elendel]] constabulary under Constable-General [Reddi](https://coppermind.net/wiki/Reddi "Reddi").[^6] Marasi previously studied law and is a friend of [Wax](https://coppermind.net/wiki/Wax "Wax"), [Wayne](https://coppermind.net/wiki/Wayne "Wayne"), and [MeLaan](https://coppermind.net/wiki/MeLaan "MeLaan"), among other important cultural figures of the time. She is sometimes called **Mara** by Wayne.[^7]
 
 ## Appearance and Personality
 

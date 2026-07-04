@@ -15,11 +15,11 @@ favicon: /favicon.ico
 
 **Dakhor** is a manifestation of [[Investiture - The Coppermind|Investiture]] on [[Sel - The Coppermind|Sel]], independent from [[AonDor - The Coppermind|AonDor]].[^4] [^5] [^6]
 
-Users of this system are the monks of [Dakhor Monastery](https://coppermind.net/wiki/Dakhor_Monastery "Dakhor Monastery") in [[Fjorden - The Coppermind|Fjorden]]. The Dakhor monks themselves are a newer development than [Elantrians](https://coppermind.net/wiki/Elantrian "Elantrian").[^7] In fact, [Wulfden the Fourth](https://coppermind.net/wiki/Wulfden_the_Fourth "Wulfden the Fourth") was preparing to use them against Elantris before [the city fell on its own](https://coppermind.net/wiki/The_Reod "The Reod").
+Users of this system are the monks of [[Shu-Dereth - The Coppermind|Dakhor Monastery]] in [[Fjorden - The Coppermind|Fjorden]]. The Dakhor monks themselves are a newer development than [Elantrians](https://coppermind.net/wiki/Elantrian "Elantrian").[^7] In fact, [Wulfden the Fourth](https://coppermind.net/wiki/Wulfden_the_Fourth "Wulfden the Fourth") was preparing to use them against Elantris before [[Reod - The Coppermind|the city fell on its own]].
 
 ## Prerequisites
 
-In order to access the [[Dor - The Coppermind|Dor]] through the Dakhor magic system, a few things have to occur. It appears that the practitioners of Dakhor have to be [Fjordell](https://coppermind.net/wiki/Fjordell "Fjordell"). Chanting is also used and the chants are likely used to determine how the person is changed, and what type of bone growths form.[^8] [^9]
+In order to access the [[Dor - The Coppermind|Dor]] through the Dakhor magic system, a few things have to occur. It appears that the practitioners of Dakhor have to be [[Fjorden - The Coppermind|Fjordell]]. Chanting is also used and the chants are likely used to determine how the person is changed, and what type of bone growths form.[^8] [^9]
 
 ### Bone growth
 
@@ -35,7 +35,7 @@ Regardless of how the Dakhor system is accessed, there are some constant effects
 
 Another ability granted by Dakhor can change a person's appearance, such as race.[^14] This could presumably be used to change any aspect of a person's appearance. Dakhor can also grant the ability to negate [[Aon - The Coppermind|Aons]] drawn by [Elantrians](https://coppermind.net/wiki/Elantrian "Elantrian"),[^19] though it is also possible for Dakhor to be negated by [[AonDor - The Coppermind|AonDor]].[^20] Another Dakhor ability is resistance to attacks from the Dor.[^16] This power requires the deaths of fifty people and thus is rarely given. It is unknown if the ability to negate Aons and the resistance to Dor attacks are two separate abilities or both tied to the same type of bone shape. Dakhor users live longer than regular humans.[^9]
 
-If a [Bloodsealer](https://coppermind.net/wiki/Bloodsealer "Bloodsealer") were to use Bloodsealing on the bones of someone who used Dakhor, the bones would still be able to access the Dor.[^21] It would take more than just the bones of a Dakhor monk for a [[Kandra - The Coppermind|kandra]] to get Dakhor abilities.[^22]
+If a [[Bloodsealing - The Coppermind|Bloodsealer]] were to use Bloodsealing on the bones of someone who used Dakhor, the bones would still be able to access the Dor.[^21] It would take more than just the bones of a Dakhor monk for a [[Kandra - The Coppermind|kandra]] to get Dakhor abilities.[^22]
 
 ## Relationship To Fjorden
 

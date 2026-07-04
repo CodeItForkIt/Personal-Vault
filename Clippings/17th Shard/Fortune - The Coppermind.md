@@ -32,7 +32,7 @@ Chromium can be used by a Feruchemist to store and tap Fortune. When used Hemalu
 
 When the [[Ire - The Coppermind|Ire]] spotted an agent--who happened to be [[Kelsier - The Coppermind|Kelsier]] -- [Alonoe](https://coppermind.net/wiki/Alonoe "Alonoe") thought the sighting was not a coincidence, but [Elrao](https://coppermind.net/wiki/Elrao "Elrao"), another member of the Ire, said the use of Fortune was not related to every coincidence.[^7]
 
-[Azure](https://coppermind.net/wiki/Azure "Azure") said to [[Shallan Davar - The Coppermind|Shallan]] that, during their trip into the [[Cognitive Realm - The Coppermind|Cognitive Realm]], [[Kaladin - The Coppermind|Kaladin]] had foreseen danger by Fortune. [[Shallan Davar - The Coppermind|Shallan]] had been suspicious, as she was told by Hoid to trust no one who sees the future--even [[Hoid - The Coppermind|Hoid]].[^12]
+[[Vivenna - The Coppermind|Azure]] said to [[Shallan Davar - The Coppermind|Shallan]] that, during their trip into the [[Cognitive Realm - The Coppermind|Cognitive Realm]], [[Kaladin - The Coppermind|Kaladin]] had foreseen danger by Fortune. [[Shallan Davar - The Coppermind|Shallan]] had been suspicious, as she was told by Hoid to trust no one who sees the future--even [[Hoid - The Coppermind|Hoid]].[^12]
 
 [[Odium - The Coppermind|Odium]] remarked to [[Taravangian - The Coppermind|Taravangian]] that the [Diagram](https://coppermind.net/wiki/Diagram_\(literature\) "Diagram (literature)") was impressive, considering he created it without access to Fortune, or the Spiritual Realm.[^6]
 

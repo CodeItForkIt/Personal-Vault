@@ -30,7 +30,7 @@ Arsteel is an incredibly skilled swordsman.[^3] Since Lifeless retain some of th
 
 Arsteel was born on Nalthis, very little is known about his life during this time, it is known however that he had a brother, who would return as [[Yesteel - The Coppermind|Yesteel]]. He eventually died and Returned. Like other [[Returned - The Coppermind|Returned]], he cannot remember anything of his life from before his Return. After he Returned, the Cult of the Returned gave him an unknown name and kept him alive by giving him Breath.
 
-He formed the Five Scholars, along with the other Returned [[Denth - The Coppermind|Denth]], [Talaxin](https://coppermind.net/wiki/Talaxin "Talaxin"), [Shashara](https://coppermind.net/wiki/Shashara "Shashara"), and [[Yesteel - The Coppermind|Yesteel]]. During this time he probably studied awakening and gained an understanding of its mechanics.[^7]
+He formed the Five Scholars, along with the other Returned [[Denth - The Coppermind|Denth]], [[Vasher - The Coppermind|Talaxin]], [Shashara](https://coppermind.net/wiki/Shashara "Shashara"), and [[Yesteel - The Coppermind|Yesteel]]. During this time he probably studied awakening and gained an understanding of its mechanics.[^7]
 
 After the [[Manywar - The Coppermind|Manywar]] began Arsteel and his brother Yesteel joined the Pahn Unity and began aiding them using their knowledge of awakening.[^8]
 
@@ -38,7 +38,7 @@ After the [[Manywar - The Coppermind|Manywar]] began Arsteel and his brother Yes
 
 Three hundred years later Arsteel joined [Denth's crew](https://coppermind.net/wiki/Denth%27s_crew "Denth's crew") in the hopes of bringing [[Denth - The Coppermind|Denth]] around and orchestrating a reconciliation between him and [[Vasher - The Coppermind|Vasher]].[^1]
 
-Though Arsteel was the better swordsman, he was killed in a duel with Vasher several months before the events of the [[Pahn Kahl rebellion - The Coppermind|Pahn Kahl rebellion]] in Yarn Dred.[^3] Arsteel never intended to kill Vasher, instead wanting to beat some sense into him, Vasher misinterpreted him however. Vasher defeated him by suddenly giving him a large quantity of [Breath](https://coppermind.net/wiki/Breath "Breath"). The arrival of that Breath sent Arsteel into a brief moment of deep pleasure, which distracted him long enough for Vasher to kill him.[^9]
+Though Arsteel was the better swordsman, he was killed in a duel with Vasher several months before the events of the [[Pahn Kahl rebellion - The Coppermind|Pahn Kahl rebellion]] in Yarn Dred.[^3] Arsteel never intended to kill Vasher, instead wanting to beat some sense into him, Vasher misinterpreted him however. Vasher defeated him by suddenly giving him a large quantity of [[BioChromatic Breath - The Coppermind|Breath]]. The arrival of that Breath sent Arsteel into a brief moment of deep pleasure, which distracted him long enough for Vasher to kill him.[^9]
 
 After a time he was found by Denth. Denth, still interested in awakening, wondered how a [[Returned - The Coppermind|Returned]] would make as a [[Lifeless - The Coppermind|lifeless]]. They took the body to an awakener and paid to have Arsteel awakened. After this he received the name “Clod”. Denth gave [[Jewels - The Coppermind|Jewels]] the task to care for Clod.[^10]
 

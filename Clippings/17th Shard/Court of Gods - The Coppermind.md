@@ -28,7 +28,7 @@ Because the God king represents all colors, the rooms where the God King stays a
 
 An exception to this is the conception chamber, this room technically lies in the servants part of the palace, with a window to the outside, from which a person can see the sea.[^11] The room has a large imposing door, which is completely plated with gold.[^8] The hallway in front of the door has four lamps without coloured glass.[^8] There are lots of storage rooms in the palace.[^10] There is also a large library.[^12] [^9] The God Kings palace is attached to the tunnel complex beneath the Court.[^6]
 
-There is always food available, so that when the [God King](https://coppermind.net/wiki/God_King "God King") asks for it, he doesn’t have to wait.[^13]
+There is always food available, so that when the [[Susebron - The Coppermind|God King]] asks for it, he doesn’t have to wait.[^13]
 
 The Palace was first created by the shipmates of Vo, as a residence for their Queen. Before the [[Manywar - The Coppermind|Manywar]] the fortress was stark,[^14] built with odd twists and turns to confuse an invading foe.[^14] After the Manywar, while the stonework remained the same, The open dining halls or garrison rooms were split into many, smaller rooms,[^14] colorfully decorated in the mode of the Hallandren upper class.
 
@@ -46,7 +46,7 @@ Due to Hallandren’s climate the palaces don’t have actual walls, and are sep
 
 ### Arena
 
-Just outside of the ring of palaces, at the back of the Court, is an arena.[^15] This arena has a circular shape and is very ornate, although not to large.[^15] The Arena lacks a roof and its floor is made out of sand.[^15] There are four rows of benches for the common people to sit on, while the gods enjoy clefts carved into the building.[^15] These boxes are located at the tops of the arena, so everyone have to look up at them, they also have holes in them for the canopy of a [[Returned - The Coppermind|God]].[^15] The [God King](https://coppermind.net/wiki/God_King "God King") also has a box, and on top of this box is a golden throne.[^18] this box is located at the very top of the arena.[^18] The arena has a stone pathway running in a circle around it.[^19]
+Just outside of the ring of palaces, at the back of the Court, is an arena.[^15] This arena has a circular shape and is very ornate, although not to large.[^15] The Arena lacks a roof and its floor is made out of sand.[^15] There are four rows of benches for the common people to sit on, while the gods enjoy clefts carved into the building.[^15] These boxes are located at the tops of the arena, so everyone have to look up at them, they also have holes in them for the canopy of a [[Returned - The Coppermind|God]].[^15] The [[Susebron - The Coppermind|God King]] also has a box, and on top of this box is a golden throne.[^18] this box is located at the very top of the arena.[^18] The arena has a stone pathway running in a circle around it.[^19]
 
 ![[Clippings/17th Shard/attachments/Court-of-Gods---The-Coppermind-1.jpg]]
 
@@ -92,7 +92,7 @@ The Court Assembly is a standing commission of the Court of Gods that provides d
 
 The regular Court Assembly is not empowered to make major decisions such as a declaration of war; instead, all of the Returned must attend a gathering known as a "main" or "general" assembly so they can all cast a vote.[^21]
 
-[Bluefingers](https://coppermind.net/wiki/Bluefingers "Bluefingers") is the head scribe and keeps the Court running.[^8]
+[[Havarseth - The Coppermind|Bluefingers]] is the head scribe and keeps the Court running.[^8]
 
 ### Religious
 
@@ -110,7 +110,7 @@ The Court is the religious center of Hallandren, therefore it has a large amount
 
 The main job of the priests is to care for the [[Returned - The Coppermind|Returned]].[^2] This includes making sure that the Returned have enough food and drinks to enjoy, dressing then etc. The more important priests have jobs like writing down the dreams of a Returned or writing down their review.[^2] Each high priest also argues in the arena in order to keep the gods informed of the common people’s opinions.[^1]
 
-There seems to be a clear ranking system in the Priesthood, at the top is the High priest of the [God King](https://coppermind.net/wiki/God_King "God King") [^3] below him or her are probably the high priests of the Returned.
+There seems to be a clear ranking system in the Priesthood, at the top is the High priest of the [[Susebron - The Coppermind|God King]] [^3] below him or her are probably the high priests of the Returned.
 
 Priests aren’t paid for their services.[^23]
 
@@ -118,7 +118,7 @@ Priests aren’t paid for their services.[^23]
 
 There are two kinds of servants in the Court of Gods.[^8]
 
-The first type are the [[Hallandren - The Coppermind|Hallandren]] servants.[^3] The [God King](https://coppermind.net/wiki/God_King "God King") ’s servants are all Hallandren,[^3] these servants are dressed in different colors each day,[^9] likely because the God King represents all colors. Servants are responsible for many things, from opening doors to delivering food and washing the God King and Queen.[^8] It seems the [[Returned - The Coppermind|Returned]] also employ Hallandren servants, these servants dress in the colours of their god and seem to have much of the same jobs.[^2] The servants duty is to be as efficient as possible without being distracting,[^8] therefore they rarely speak while working.
+The first type are the [[Hallandren - The Coppermind|Hallandren]] servants.[^3] The [[Susebron - The Coppermind|God King]] ’s servants are all Hallandren,[^3] these servants are dressed in different colors each day,[^9] likely because the God King represents all colors. Servants are responsible for many things, from opening doors to delivering food and washing the God King and Queen.[^8] It seems the [[Returned - The Coppermind|Returned]] also employ Hallandren servants, these servants dress in the colours of their god and seem to have much of the same jobs.[^2] The servants duty is to be as efficient as possible without being distracting,[^8] therefore they rarely speak while working.
 
 The second type are the Pahn Kahl servants.[^8] These servants are considered second class by most. They aren’t allowed to serve the god king, and most of them have worse jobs then the [[Hallandren - The Coppermind|Hallandren]]. The Pahn Kahl servants have to wear brown.[^8]
 
@@ -136,7 +136,7 @@ Some of the priests are [[Awakening - The Coppermind|awakeners]] and there are s
 
 ### The God Kings
 
-After Peacegiver stopped the war he gave his [Breaths](https://coppermind.net/wiki/Breath "Breath") to a priest in T’Telir,[^7] this priest would go on and become the first God king. With the Royals driven out, the [Cult of the Returned](https://coppermind.net/wiki/Cult_of_the_Returned "Cult of the Returned") took over and the Court of Gods was formed.[^25]
+After Peacegiver stopped the war he gave his [[BioChromatic Breath - The Coppermind|Breaths]] to a priest in T’Telir,[^7] this priest would go on and become the first God king. With the Royals driven out, the [Cult of the Returned](https://coppermind.net/wiki/Cult_of_the_Returned "Cult of the Returned") took over and the Court of Gods was formed.[^25]
 
 Four more children would become God kings, all of them would be called Susebron. Susebron the third died giving away his breath to save the children in a raided village [^12] while Susebron the fourth died to heal a plague of Distrentia.[^12] Eventually [[Susebron - The Coppermind|Susebron]] the fifth returned and became king.
 
@@ -152,11 +152,11 @@ by [CarloswkArt](https://coppermind.net/wiki/Coppermind:Artists/CarloswkArt "Cop
 
 In the year 327, the Court of Gods was challenged by the [[Pahn Kahl - The Coppermind|Pahn Kahl]] rebellion. The people of Hallandren were mad at the Gods, who had become complacent and apathetic towards the needs of the people. It had been 3 years since a God had sacrificed their divine Breath to heal someone.[^11] This rebellion was supported by [[Idris - The Coppermind|Idris]] via their spy [Lemex](https://coppermind.net/wiki/Lemex "Lemex"), along with several slumlords.[^27]
 
-The rebellion was quelled when [Bluefingers](https://coppermind.net/wiki/Bluefingers "Bluefingers") informed the court of [Vahr's](https://coppermind.net/wiki/Vahr "Vahr") location, after which he was captured and tortured in one of their dungeons. He was kept alive as the court desired his breath.[^28] His capture and eventual death at the hands of [[Vasher - The Coppermind|Vasher]] effectively ended the rebellion.
+The rebellion was quelled when [[Havarseth - The Coppermind|Bluefingers]] informed the court of [Vahr's](https://coppermind.net/wiki/Vahr "Vahr") location, after which he was captured and tortured in one of their dungeons. He was kept alive as the court desired his breath.[^28] His capture and eventual death at the hands of [[Vasher - The Coppermind|Vasher]] effectively ended the rebellion.
 
 ### A new Queen
 
-Around this time, Dedelin decided to send his youngest daughter, [Siri](https://coppermind.net/wiki/Siri "Siri"), instead of his oldest daughter [[Vivenna - The Coppermind|Vivenna]], as the treaty had not stipulated which daughter would be married to [[Susebron - The Coppermind|Susebron]]. This agitated the court, spurring more talk of war.[^29]
+Around this time, Dedelin decided to send his youngest daughter, [[Sisirinah - The Coppermind|Siri]], instead of his oldest daughter [[Vivenna - The Coppermind|Vivenna]], as the treaty had not stipulated which daughter would be married to [[Susebron - The Coppermind|Susebron]]. This agitated the court, spurring more talk of war.[^29]
 
 Had Idris sent nobody, it would have meant all out war.[^8] The argument against the war was the lands held by the Idrians was undesirable and cold. The main argument for the war was to claim and protect the trade routes, as being cut off from them would lead to full economic collapse in [[T'Telir - The Coppermind|T'Telir]].[^30]
 

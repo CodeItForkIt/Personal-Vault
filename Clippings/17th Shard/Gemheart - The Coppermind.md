@@ -28,9 +28,9 @@ In general, the bigger the animal, the bigger the gemheart. Those found in chasm
 
 ## Singer Gemhearts
 
-Singer gemhearts are cloudy white.[^10] It is possible for [singers](https://coppermind.net/wiki/Singers "Singers") to hold more than one [[Spren - The Coppermind|spren]] in their gemhearts simultaneously, including both Radiant and Voidspren.[^7]
+Singer gemhearts are cloudy white.[^10] It is possible for [[Singer - The Coppermind|singers]] to hold more than one [[Spren - The Coppermind|spren]] in their gemhearts simultaneously, including both Radiant and Voidspren.[^7]
 
-[[Venli - The Coppermind|Venli]] utilizing [Envoyform](https://coppermind.net/wiki/Envoyform "Envoyform"), advises new [singers](https://coppermind.net/wiki/Singers "Singers") that if they don't "want" the new power offered, it won't be able to take place in their gemheart.[^5] [Listeners](https://coppermind.net/wiki/Listeners "Listeners") consider gemhearts sacred and personal, however a [[Fused - The Coppermind|Fused]] mocks this, saying that gemhearts were just another part of a singer body.[^10]
+[[Venli - The Coppermind|Venli]] utilizing [[Regal - The Coppermind|Envoyform]], advises new [[Singer - The Coppermind|singers]] that if they don't "want" the new power offered, it won't be able to take place in their gemheart.[^5] [[Listener - The Coppermind|Listeners]] consider gemhearts sacred and personal, however a [[Fused - The Coppermind|Fused]] mocks this, saying that gemhearts were just another part of a singer body.[^10]
 
 ## Gemheart Harvesting
 
@@ -38,19 +38,19 @@ Just as Soulcasters are considered valuable by the people on Roshar, so are the 
 
 Some species have gemhearts that are of just one gemstone type, while others vary. Species that only have one type of gemheart are considered more ideal for harvesting.[^11] [Kevah](https://coppermind.net/edit/Kevah?redlink=1 "Kevah (page does not exist)"), for example, have gemhearts consistently made of heliodor for the soulcasting of meat.[^12]
 
-[Gumfrems](https://coppermind.net/wiki/Gumfrems "Gumfrems"), small chull-like animals, are raised by some farmers in [Alethkar](https://coppermind.net/wiki/Alethkar "Alethkar") for their small heliodor gemhearts that can be harvested and used to [Soulcast](https://coppermind.net/wiki/Soulcast "Soulcast") meat.[^13]
+[[Gumfrem - The Coppermind|Gumfrems]], small chull-like animals, are raised by some farmers in [Alethkar](https://coppermind.net/wiki/Alethkar "Alethkar") for their small heliodor gemhearts that can be harvested and used to [[Soulcasting - The Coppermind|Soulcast]] meat.[^13]
 
 Chasmfiends have emerald gemhearts. The ability to Soulcast grain from them, combined with their relatively large size, makes chasmfiend gemhearts extremely valuable. Because chasmfiends are aggressive and extremely dangerous greatshells that cannot be domesticated, humans resort to hunting for their chrysalises on the [[Shattered Plains - The Coppermind|Shattered Plains]] most of the time.
 
 ### The War of Reckoning
 
-The discovery of chasmfiends containing such valuable gemhearts completely altered the [[War of Reckoning - The Coppermind|War of Reckoning]]. Attempting to directly assault the [Parshendi](https://coppermind.net/wiki/Parshendi "Parshendi") home, located far into the [[Shattered Plains - The Coppermind|Shattered Plains]], was risky and expensive. However, when a chasmfiend climbed onto a plateau to pupate, the [[Highprince - The Coppermind|highprinces]] and Parshendi alike would extend themselves to attempt to retrieve the gemheart of the resulting chrysalis. The [[Highprince - The Coppermind|highprinces]] all agreed that these periodic clashes suitably upheld the [Vengeance Pact](https://coppermind.net/wiki/Vengeance_Pact "Vengeance Pact"), and the War of Reckoning effectively devolved into little more than a competition spanning half a decade.
+The discovery of chasmfiends containing such valuable gemhearts completely altered the [[War of Reckoning - The Coppermind|War of Reckoning]]. Attempting to directly assault the [[Listener - The Coppermind|Parshendi]] home, located far into the [[Shattered Plains - The Coppermind|Shattered Plains]], was risky and expensive. However, when a chasmfiend climbed onto a plateau to pupate, the [[Highprince - The Coppermind|highprinces]] and Parshendi alike would extend themselves to attempt to retrieve the gemheart of the resulting chrysalis. The [[Highprince - The Coppermind|highprinces]] all agreed that these periodic clashes suitably upheld the [[War of Reckoning - The Coppermind|Vengeance Pact]], and the War of Reckoning effectively devolved into little more than a competition spanning half a decade.
 
 During the War of Reckoning, Highprince [Roion](https://coppermind.net/wiki/Roion "Roion") was the one who captured the fewest gemhearts.
 
 ### Ecological Effect
 
-The hunting for chasmfiends to gain gemhearts will harm [[Roshar - The Coppermind|Roshar's]] ecology in the long run.[^14] The extinction or near-extinction of a greatshell species due to excessive hunting has happened before, as in the case of the [lanceryn](https://coppermind.net/wiki/Lanceryn "Lanceryn"). In the case of the chasmfiends, the sudden drop in the number of juveniles that reach maturity, due to the hunting of chrysalises, have led to fewer chrysalises appearing over time. This is because the chrysalises are being hunted almost at a faster rate than the chasmfiend population could recover from given their slow growth and slow reproduction rate.[^15]
+The hunting for chasmfiends to gain gemhearts will harm [[Roshar - The Coppermind|Roshar's]] ecology in the long run.[^14] The extinction or near-extinction of a greatshell species due to excessive hunting has happened before, as in the case of the [[Lancer - The Coppermind|lanceryn]]. In the case of the chasmfiends, the sudden drop in the number of juveniles that reach maturity, due to the hunting of chrysalises, have led to fewer chrysalises appearing over time. This is because the chrysalises are being hunted almost at a faster rate than the chasmfiend population could recover from given their slow growth and slow reproduction rate.[^15]
 
 ## Known Species With Gemhearts
 

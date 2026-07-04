@@ -23,7 +23,7 @@ favicon: /favicon.ico
 > 
 > —Sarene thinking about Teod [^3]
 
-Teod is located on the northern continent, although it is one of the more southern nations on this continent. Teod is separated from the southern continent, called [Opelon](https://coppermind.net/wiki/Opelon "Opelon") or [Sycla](https://coppermind.net/wiki/Sycla "Sycla"), by the [Sea of Fjorden](https://coppermind.net/wiki/Sea_of_Fjorden "Sea of Fjorden"). There are large mountain ranges both in the north and in the south of the nation.[^4] These mountains contain a number of passes that lead to the [[Rose Empire - The Coppermind|Rose Empire]].[^5] The nation is also filled with forests.[^3]
+Teod is located on the northern continent, although it is one of the more southern nations on this continent. Teod is separated from the southern continent, called [[Sel - The Coppermind|Opelon]] or [[Sel - The Coppermind|Sycla]], by the [Sea of Fjorden](https://coppermind.net/wiki/Sea_of_Fjorden "Sea of Fjorden"). There are large mountain ranges both in the north and in the south of the nation.[^4] These mountains contain a number of passes that lead to the [[Rose Empire - The Coppermind|Rose Empire]].[^5] The nation is also filled with forests.[^3]
 
 Teod’s climate is relatively cold, although not insufferably so.[^6] Due to this cold it snows and freezes often.[^3]
 
@@ -45,9 +45,9 @@ The Teo, or at least the ones who are pure [Aonic](https://coppermind.net/wiki/A
 
 #### Arelon
 
-The Teo have great relations with the [[Arelon - The Coppermind|Arelenes]], this is mainly because of their similarities. The Arelene and Teo peoples are both [[Shu-Korath - The Coppermind|Korathi]], meaning that they both worship [Domi](https://coppermind.net/wiki/Domi "Domi").[^12] They are also both ethnically Aonic, further connecting them together.[^13]
+The Teo have great relations with the [[Arelon - The Coppermind|Arelenes]], this is mainly because of their similarities. The Arelene and Teo peoples are both [[Shu-Korath - The Coppermind|Korathi]], meaning that they both worship [[Shu-Korath - The Coppermind|Domi]].[^12] They are also both ethnically Aonic, further connecting them together.[^13]
 
-After the Arelene revolution happened relations between Teod and Arelon decreased, with king Eventeo never bothering to forge stronger ties to the new Arelene government. With the [Fjordell Empire](https://coppermind.net/wiki/Fjordell_Empire "Fjordell Empire") putting pressure on Teod and Arelon, kings Eventeo and [[Iadon - The Coppermind|Iadon]] eventually attempted to strengthen their alliance again, marrying their children [[Raoden - The Coppermind|Raoden]] and [[Sarene - The Coppermind|Sarene]].[^2]
+After the Arelene revolution happened relations between Teod and Arelon decreased, with king Eventeo never bothering to forge stronger ties to the new Arelene government. With the [[Fjorden - The Coppermind|Fjordell Empire]] putting pressure on Teod and Arelon, kings Eventeo and [[Iadon - The Coppermind|Iadon]] eventually attempted to strengthen their alliance again, marrying their children [[Raoden - The Coppermind|Raoden]] and [[Sarene - The Coppermind|Sarene]].[^2]
 
 After the Fjordell invasion of Teod and the restoration of [Elantris](https://coppermind.net/wiki/Elantris_\(city\) "Elantris (city)") a number of [Elantrians](https://coppermind.net/wiki/Elantrian "Elantrian") went to [Teoras](https://coppermind.net/wiki/Teoras "Teoras"), saving the city from Fjordell invaders.[^9] This, along with the aforementioned marriage pact, probably increased Teod’s relations with Arelon.
 
@@ -71,7 +71,7 @@ The Teo, as Korathi, follow the marriage rituals of [[Shu-Korath - The Coppermin
 
 #### Religion
 
-Teod’s state religion is called [[Shu-Korath - The Coppermind|Shu-Korath]].[^12] The Korathi worship a merciful and benevolent god called [Domi](https://coppermind.net/wiki/Domi "Domi"). The central tenet of this faith is the **unifying power of love.** [^16]
+Teod’s state religion is called [[Shu-Korath - The Coppermind|Shu-Korath]].[^12] The Korathi worship a merciful and benevolent god called [[Shu-Korath - The Coppermind|Domi]]. The central tenet of this faith is the **unifying power of love.** [^16]
 
 #### Sports
 
@@ -89,7 +89,7 @@ Teod also has a number of academies, one of which is owned by their king, [[Even
 
 After the previous ruler died, [[Eventeo - The Coppermind|Eventeo]] took the throne against the rightful line of succession, which would have led his brother [[Kiin - The Coppermind|Kiin]] ascending.[^8] [^17]
 
-With the rise of the [Fjordell Empire](https://coppermind.net/wiki/Fjordell_Empire "Fjordell Empire") putting pressure on Teod and [[Arelon - The Coppermind|Arelon]], kings Eventeo and [[Iadon - The Coppermind|Iadon]] attempted to strengthen their alliance by marrying their children [[Raoden - The Coppermind|Raoden]] and [[Sarene - The Coppermind|Sarene]]. The deal eventually fell through after Raoden succumbed to the [[Reod - The Coppermind|Reod]], and some trickery by [[Hrathen - The Coppermind|Hrathen]] lead to Eventeo converting to [[Shu-Dereth - The Coppermind|Shu-Dereth]].
+With the rise of the [[Fjorden - The Coppermind|Fjordell Empire]] putting pressure on Teod and [[Arelon - The Coppermind|Arelon]], kings Eventeo and [[Iadon - The Coppermind|Iadon]] attempted to strengthen their alliance by marrying their children [[Raoden - The Coppermind|Raoden]] and [[Sarene - The Coppermind|Sarene]]. The deal eventually fell through after Raoden succumbed to the [[Reod - The Coppermind|Reod]], and some trickery by [[Hrathen - The Coppermind|Hrathen]] lead to Eventeo converting to [[Shu-Dereth - The Coppermind|Shu-Dereth]].
 
 ## Trivia
 

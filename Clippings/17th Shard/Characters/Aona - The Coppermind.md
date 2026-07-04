@@ -16,7 +16,7 @@ favicon: /favicon.ico
 ---
 ## Aona
 
-**Aona** was the original [Vessel](https://coppermind.net/wiki/Vessel "Vessel") of the [[Shards|Shard]] [[Devotion - The Coppermind|Devotion]].[^2] Sometime after the [[Shattering - The Coppermind|Shattering]], she and [[Skai - The Coppermind|Skai]] took up residence on [[Sel - The Coppermind|Sel]].[^1] [[Edgli - The Coppermind|Edgli]] believes that, by doing so, they violated the original Vessels' pact to not settle on the same world as another Shard,[^3] [^4] though the exact terms of that agreement are somewhat unclear.[^5] They were both [[Splinter - The Coppermind|Splintered]] by [[Odium - The Coppermind|Odium]] and their combined power forms the [[Dor - The Coppermind|Dor]].[^1] [^6] [^7]
+**Aona** was the original [[Shards|Vessel]] of the [[Shards|Shard]] [[Devotion - The Coppermind|Devotion]].[^2] Sometime after the [[Shattering - The Coppermind|Shattering]], she and [[Skai - The Coppermind|Skai]] took up residence on [[Sel - The Coppermind|Sel]].[^1] [[Edgli - The Coppermind|Edgli]] believes that, by doing so, they violated the original Vessels' pact to not settle on the same world as another Shard,[^3] [^4] though the exact terms of that agreement are somewhat unclear.[^5] They were both [[Splinter - The Coppermind|Splintered]] by [[Odium - The Coppermind|Odium]] and their combined power forms the [[Dor - The Coppermind|Dor]].[^1] [^6] [^7]
 
 ## Abilities and Attributes
 

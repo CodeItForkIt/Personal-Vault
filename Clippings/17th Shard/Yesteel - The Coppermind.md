@@ -34,7 +34,7 @@ Yesteel's current Heightening is unclear, but if he discovered advanced Lifeless
 
 Like all of the Five Scholars, Yesteel was a [[Returned - The Coppermind|Returned]].[^10] It's unclear how both he and his brother, Arsteel, Returned and how they know that they are brothers. Since Returning, they lack memories of their past life.
 
-He joined the Five Scholars, and there was a golden age in discovering [[Awakening - The Coppermind|Awakening]] Commands for several years. Among them, Yesteel was considered a master of Lifeless Commands.[^1] Unfortunately, these discoveries were part of the reason for the [[Manywar - The Coppermind|Manywar]], such as [Shashara's](https://coppermind.net/wiki/Shashara "Shashara") discovery of a Command that could create a Lifeless with a single [Breath](https://coppermind.net/wiki/Breath "Breath").[^11] [^8]
+He joined the Five Scholars, and there was a golden age in discovering [[Awakening - The Coppermind|Awakening]] Commands for several years. Among them, Yesteel was considered a master of Lifeless Commands.[^1] Unfortunately, these discoveries were part of the reason for the [[Manywar - The Coppermind|Manywar]], such as [Shashara's](https://coppermind.net/wiki/Shashara "Shashara") discovery of a Command that could create a Lifeless with a single [[BioChromatic Breath - The Coppermind|Breath]].[^11] [^8]
 
 ### Involvement in the Manywar
 

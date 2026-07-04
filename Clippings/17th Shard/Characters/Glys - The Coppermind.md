@@ -42,7 +42,7 @@ Little is known of his personality, other than that he is excitable and optimist
 
 ### Nahel bond
 
-Even as a corrupt mistspren, Glys is able to grant Renarin access to the Surges of [Progression](https://coppermind.net/wiki/Progression "Progression") and [Illumination](https://coppermind.net/wiki/Illumination "Illumination"). It is not known how many Ideals Renarin has spoken, but their bond has progressed to the point where he is able to summon Glys as a Shardblade.[^9]
+Even as a corrupt mistspren, Glys is able to grant Renarin access to the Surges of [[Surgebinding - The Coppermind|Progression]] and [[Surgebinding - The Coppermind|Illumination]]. It is not known how many Ideals Renarin has spoken, but their bond has progressed to the point where he is able to summon Glys as a Shardblade.[^9]
 
 ### Other abilities
 
@@ -66,7 +66,7 @@ Glys was corrupted by [[Sja-anat - The Coppermind|Sja-anat]] before bonding Rena
 
 Although it is unclear precisely when Glys and [[Renarin Kholin - The Coppermind|Renarin]] formed the Nahel bond, the process was already underway when [[Adolin Kholin - The Coppermind|Adolin]] gifted Renarin with the [Shardblade](https://coppermind.net/wiki/Shardblade "Shardblade") he won from [Salinor Eved](https://coppermind.net/wiki/Salinor_Eved "Salinor Eved"). The bond was also strong enough around this time for Renarin to be able to see visions of the [[Everstorm - The Coppermind|Everstorm's]] imminent arrival.[^9] [^13]
 
-Renarin initially thought something was wrong with him when he was able to hear dead Shardblades screaming,[^9] but eventually Glys explained to him that he was a [Truthwatcher](https://coppermind.net/wiki/Truthwatcher "Truthwatcher").[^14]
+Renarin initially thought something was wrong with him when he was able to hear dead Shardblades screaming,[^9] but eventually Glys explained to him that he was a [[Order of Truthwatchers - The Coppermind|Truthwatcher]].[^14]
 
 ### Refounding of the Knights Radiant
 
@@ -78,15 +78,15 @@ While initially Glys was unsure if it was possible, he was able to manifest as a
 
 by [ShiroXIX](https://coppermind.net/wiki/Coppermind:Artists/ShiroXIX "Coppermind:Artists/ShiroXIX")
 
-Renarin and Glys in the Temple of [Pailiah'Elin](https://coppermind.net/wiki/Pailiah "Pailiah")
+Renarin and Glys in the Temple of [[Pralla - The Coppermind|Pailiah'Elin]]
 
 Glys also helped Renarin in discovering the [gem archive](https://coppermind.net/wiki/Urithiru_gem_archive "Urithiru gem archive") hidden in the library room of Urithiru. Due to their bond, Renarin was able to see visions showing him how to find the gemstones hidden in wall compartments as well as how the compartments could be opened and the gemstones accessed.[^2]
 
 ### Visions of the Future
 
-During the [[Battle of Thaylen Field - The Coppermind|Battle of Thaylen Field]], [[Jasnah Kholin - The Coppermind|Jasnah]] tracked Renarin and Glys down at the Temple of [Pailiah'Elin](https://coppermind.net/wiki/Pailiah "Pailiah"). This was the first time that Glys was visible to someone other than Renarin. Jasnah and her spren [[Ivory - The Coppermind|Ivory]] were able to verify that his appearance did not match that of a normal [mistspren](https://coppermind.net/wiki/Mistspren "Mistspren"), verifying that he had been corrupted.[^4] Renarin, undergoing a fit, was shown visions of what he believed to be the future. Glys feared for their safety, as both of them saw a sequence of images showing Jasnah killing Renarin with her Shardblade. During the same fit they saw Dalinar giving in to [[Odium - The Coppermind|Odium]] and kneeling before him. Upon seeing this, Glys expressed his sorrow to Renarin.[^2] Jasnah, however, did not kill Renarin, which brought him to the realization that the visions he and Glys saw could be wrong.[^16]
+During the [[Battle of Thaylen Field - The Coppermind|Battle of Thaylen Field]], [[Jasnah Kholin - The Coppermind|Jasnah]] tracked Renarin and Glys down at the Temple of [[Pralla - The Coppermind|Pailiah'Elin]]. This was the first time that Glys was visible to someone other than Renarin. Jasnah and her spren [[Ivory - The Coppermind|Ivory]] were able to verify that his appearance did not match that of a normal [mistspren](https://coppermind.net/wiki/Mistspren "Mistspren"), verifying that he had been corrupted.[^4] Renarin, undergoing a fit, was shown visions of what he believed to be the future. Glys feared for their safety, as both of them saw a sequence of images showing Jasnah killing Renarin with her Shardblade. During the same fit they saw Dalinar giving in to [[Odium - The Coppermind|Odium]] and kneeling before him. Upon seeing this, Glys expressed his sorrow to Renarin.[^2] Jasnah, however, did not kill Renarin, which brought him to the realization that the visions he and Glys saw could be wrong.[^16]
 
-Later in the battle, Renarin helped the [Thaylen](https://coppermind.net/wiki/Thaylen "Thaylen") [Shardbearer](https://coppermind.net/wiki/Shardbearer "Shardbearer") [Hrdalm](https://coppermind.net/wiki/Hrdalm "Hrdalm") fight a [[Thunderclast - The Coppermind|thunderclast]]. After Renarin and Hrdalm subdued it, Glys showed Renarin how to dispel it using Stormlight.[^10]
+Later in the battle, Renarin helped the [[Thaylenah - The Coppermind|Thaylen]] [Shardbearer](https://coppermind.net/wiki/Shardbearer "Shardbearer") [Hrdalm](https://coppermind.net/wiki/Hrdalm "Hrdalm") fight a [[Thunderclast - The Coppermind|thunderclast]]. After Renarin and Hrdalm subdued it, Glys showed Renarin how to dispel it using Stormlight.[^10]
 
 When Renarin and Glys approached the ramp to [Thaylen City](https://coppermind.net/wiki/Thaylen_City "Thaylen City") ’s [[Oathgate - The Coppermind|Oathgate]] to try and open it, another fit struck him. He and Glys were able to see in the ensuing visions that a division of Kholin troops was about to arrive through the Oathgate, activated by [Teft](https://coppermind.net/wiki/Teft "Teft"), now a Knight Radiant.[^10]
 

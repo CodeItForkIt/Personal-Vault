@@ -17,7 +17,7 @@ favicon: /favicon.ico
 
 The world forms a double planet system along with [[Komashi - The Coppermind|Komashi]], and their barycentre orbits a large red-orange sun.[^4] [^1] The planet itself is covered primarily by oceans, with relatively few land masses.[^2]
 
-[Nomad](https://coppermind.net/wiki/Nomad "Nomad") likely Skipped to UTol after he left [[Canticle - The Coppermind|Canticle]].[^3]
+[[Sigzil - The Coppermind|Nomad]] likely Skipped to UTol after he left [[Canticle - The Coppermind|Canticle]].[^3]
 
 ## Relationship with Komashi
 

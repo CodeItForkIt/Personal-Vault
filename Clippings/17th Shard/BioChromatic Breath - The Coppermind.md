@@ -24,7 +24,7 @@ When a person dies, they may have their Breath pulse, sending out a wave of heig
 
 Breath, through an unknown method, can have memories encoded into it.[^14] [^15] This method is simple enough to be taught to a child, and is accessible even without significant Investiture.[^16] Excising the Breaths in which memory is stored will lead to the loss of said memories.[^14] [^15]
 
-Breaths are not inherently connected to Nalthis since they are freely given gifts, thus they do not limit [worldhopping](https://coppermind.net/wiki/Worldhopping "Worldhopping").[^17]
+Breaths are not inherently connected to Nalthis since they are freely given gifts, thus they do not limit [[17th Shard|worldhopping]].[^17]
 
 Breaths can be forcibly transferred by Shards, but doing so would leave them vulnerable, and there would still be some [[Connection - The Coppermind|Connection]] between the original owner and the Breath.[^18]
 
@@ -56,7 +56,7 @@ The **divine Breath**, a single powerful Breath that grants the powers of the fi
 
 **Type II BioChromatic entities** are **Mindless Manifestations in a Deceased Host**, or more commonly known as " **Lifeless** ", and are non-sentient reanimated animal remains. They have a functioning brain, and are able to interpret old Commands and have new Commands given. These creatures are made via complex Commands that reanimate a dead person or animal. These Commands are guarded closely by those who know them.
 
-Type II entities are cheap to make, even with awkward Commands (used to cost 50 breaths before the Manywar). This is due to the Law of BioChromatic Parallelism. However, Breath sticks so firmly to the construct that it is impossible to remove afterwards. Once a Lifeless is created, it will obey any instructions given to it that include a pre-determined **Command Phrase** (similar to a password). Human Lifeless are able to understand more abstract instructions than animal Lifeless. However, the skill of the [Awakener](https://coppermind.net/wiki/Awakener "Awakener") who Awakens the Lifeless also affects its ability. Any Lifeless will retain a level of skill that it had in life. For example, a soldier's corpse would make a better soldier Lifeless than that of a farmer's.
+Type II entities are cheap to make, even with awkward Commands (used to cost 50 breaths before the Manywar). This is due to the Law of BioChromatic Parallelism. However, Breath sticks so firmly to the construct that it is impossible to remove afterwards. Once a Lifeless is created, it will obey any instructions given to it that include a pre-determined **Command Phrase** (similar to a password). Human Lifeless are able to understand more abstract instructions than animal Lifeless. However, the skill of the [[Awakening - The Coppermind|Awakener]] who Awakens the Lifeless also affects its ability. Any Lifeless will retain a level of skill that it had in life. For example, a soldier's corpse would make a better soldier Lifeless than that of a farmer's.
 
 The Lifeless can function for a long time if cared for and repaired. Lifeless can withstand otherwise mortal wounds, but too much damage will eventually cause the Lifeless to cease activity, which means that Lifeless bodies need to be maintained and repaired (e.g. by sewing its wounds shut) when needed, otherwise they are going to need a new Breath. One innovation in Lifeless maintenance is the use of [[Ichor-alcohol - The Coppermind|ichor-alcohol]], a substance discovered by [[Yesteel - The Coppermind|Yesteel]] that could act as blood for Lifeless and that greatly prolongs their viability.
 
@@ -74,11 +74,11 @@ They are between the two extremes of inorganic objects and dead bodies. Therefor
 
 ### Type IV
 
-**Type IV BioChromatic entities** are sentient objects made by Awakening inorganic materials like metal and stone. This requires at least the [[Heightening - The Coppermind#Ninth Heightening|Ninth Heightening]]. [[Nightblood - The Coppermind|Nightblood]], a sentient Awakened sword, is an example of this type of entity. He was created by [Shashara](https://coppermind.net/wiki/Shashara "Shashara") with the help of her husband [Talaxin](https://coppermind.net/wiki/Talaxin "Talaxin"), also known as Vasher, using a thousand Breaths and the Command "Destroy evil".[^31]
+**Type IV BioChromatic entities** are sentient objects made by Awakening inorganic materials like metal and stone. This requires at least the [[Heightening - The Coppermind#Ninth Heightening|Ninth Heightening]]. [[Nightblood - The Coppermind|Nightblood]], a sentient Awakened sword, is an example of this type of entity. He was created by [Shashara](https://coppermind.net/wiki/Shashara "Shashara") with the help of her husband [[Vasher - The Coppermind|Talaxin]], also known as Vasher, using a thousand Breaths and the Command "Destroy evil".[^31]
 
 Nightblood is incapable of determining morality [^32] and has a rigid way of thinking similar to a [[Spren - The Coppermind|spren]] on Roshar.[^33] The large number of Breaths he contains also grants him incredible destructive power. The threat of more weapons like Nightblood being created eventually caused Talaxin to kill Shashara to prevent the knowledge of this form of Awakening from becoming public.
 
-Stone is presumed to be similarly difficult to Awaken. However, Lifeless can be made by enclosing bones in stone, making near-indestructible warriors. [Talaxin](https://coppermind.net/wiki/Talaxin "Talaxin") used this technique to create the legendary [[Kalad's Phantoms - The Coppermind|Kalad's Phantoms]].
+Stone is presumed to be similarly difficult to Awaken. However, Lifeless can be made by enclosing bones in stone, making near-indestructible warriors. [[Vasher - The Coppermind|Talaxin]] used this technique to create the legendary [[Kalad's Phantoms - The Coppermind|Kalad's Phantoms]].
 
 [[Vivenna's Blade - The Coppermind|Vivenna's Blade]] might also be a Type IV entity, though it has not been confirmed.
 
@@ -120,7 +120,7 @@ If someone is made into a [[Lifeless - The Coppermind|Lifeless]] before [[Endowm
 
 ## Breath Equivalent Units
 
-The **[Breath Equivalent Unit](https://coppermind.net/wiki/Breath_Equivalent_Unit "Breath Equivalent Unit")** (**BEU**) is a unit of measurement for Investiture based on BioChromatic Breath.[^46] [^47] [^48]
+The **[[Investiture - The Coppermind|Breath Equivalent Unit]]** (**BEU**) is a unit of measurement for Investiture based on BioChromatic Breath.[^46] [^47] [^48]
 
 Even on highly Invested worlds, a person’s soul typically isn’t more than three BEUs.[^49] A normal Threnodite from [[Canticle - The Coppermind|Canticle]] has only one BEU.[^50] A sunheart made from a Threnodite on Canticle generally contains at least two hundred BEUs.[^49]
 

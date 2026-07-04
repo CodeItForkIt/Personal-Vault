@@ -1,22 +1,65 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"Clippings/17th Shard/Characters\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Clippings/17th Shard/Events\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Clippings/17th Shard/Invested Arts\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Clippings/17th Shard/Planets\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Clippings/17th Shard/Realmatic Theory, Miscellaneous\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"Clippings/17th Shard/Shards\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.00363898026316,
+  "lineSizeMultiplier": 0.995378289473684,
   "collapse-forces": false,
-  "centerStrength": 0.500822368421053,
-  "repelStrength": 9.99917763157895,
+  "centerStrength": 0.497162828947368,
+  "repelStrength": 10.1595394736842,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 3.116576629636013,
+  "linkDistance": 30,
+  "scale": 1.112019815710811,
   "close": true
 }

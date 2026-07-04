@@ -14,7 +14,7 @@ favicon: "/favicon.ico"
 
 **Silverlight** is a city state in the [[17th Shard|cosmere]], located in the [[Cognitive Realm - The Coppermind|Cognitive Realm]].[^1] [^2] It is an ancient city that existed in some form long before notable cosmere events such as the [[Reod - The Coppermind|Reod]] and the [[Catacendre - The Coppermind|Catacendre]].[^3] The city was once a collection of [dragon](https://coppermind.net/wiki/Dragon_\(cosmere\) "Dragon (cosmere)") palaces and many dragons still have a home base there, including [[Xisisrefliel - The Coppermind|Xisisrefliel]].[^4] [^5] People from Silverlight are called Lighters.[^4]
 
-It is a meeting point for [worldhoppers](https://coppermind.net/wiki/Worldhoppers "Worldhoppers") and [[Realmatic Theory, Miscellaneous|Realmatically aware]] experts,[^6] and it is the base of operations for the [[Seventeenth Shard - The Coppermind|Seventeenth Shard]].[^7]
+It is a meeting point for [[17th Shard|worldhoppers]] and [[Realmatic Theory, Miscellaneous|Realmatically aware]] experts,[^6] and it is the base of operations for the [[Seventeenth Shard - The Coppermind|Seventeenth Shard]].[^7]
 
 ## Etymology
 
@@ -66,7 +66,7 @@ Silverlight has a long history, going back millennia before the Space Age. The c
 - [Argent](https://coppermind.net/wiki/Argent "Argent")
 - [Jess](https://coppermind.net/wiki/Jess_\(Silverlight\) "Jess (Silverlight)")
 - [Iyatil](https://coppermind.net/wiki/Iyatil "Iyatil")
-- [Khriss](https://coppermind.net/wiki/Khriss "Khriss")
+- [[Khrissalla - The Coppermind|Khriss]]
 - [Spring](https://coppermind.net/wiki/Spring "Spring")
 - [Huio](https://coppermind.net/wiki/Huio "Huio")
 - [Illistandrista](https://coppermind.net/wiki/Illistandrista "Illistandrista")

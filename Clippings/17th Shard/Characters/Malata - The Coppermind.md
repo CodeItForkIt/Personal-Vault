@@ -18,13 +18,13 @@ favicon: /favicon.ico
 
 > “ *Someone should have warned me how fun this would be. I’d have tried way harder to land the job.* ”
 > 
-> —Malata, regarding her job as the [Diagram's](https://coppermind.net/wiki/Diagram_\(group\) "Diagram (group)") [Knight Radiant](https://coppermind.net/wiki/Knight_Radiant "Knight Radiant") [^1]
+> —Malata, regarding her job as the [Diagram's](https://coppermind.net/wiki/Diagram_\(group\) "Diagram (group)") [[Knights Radiant - The Coppermind|Knight Radiant]] [^1]
 
-**Malata** is a woman from [Jah Keved](https://coppermind.net/wiki/Jah_Keved "Jah Keved") and a member of the [Diagram](https://coppermind.net/wiki/Diagram_\(group\) "Diagram (group)"). She is also a [Knight Radiant](https://coppermind.net/wiki/Knight_Radiant "Knight Radiant") of the [[Order of Dustbringers - The Coppermind|Order of Dustbringers]], bonded to an [Ashspren](https://coppermind.net/wiki/Ashspren "Ashspren") named [[Spark - The Coppermind|Spark]].
+**Malata** is a woman from [Jah Keved](https://coppermind.net/wiki/Jah_Keved "Jah Keved") and a member of the [Diagram](https://coppermind.net/wiki/Diagram_\(group\) "Diagram (group)"). She is also a [[Knights Radiant - The Coppermind|Knight Radiant]] of the [[Order of Dustbringers - The Coppermind|Order of Dustbringers]], bonded to an [Ashspren](https://coppermind.net/wiki/Ashspren "Ashspren") named [[Spark - The Coppermind|Spark]].
 
 ## Appearance and Personality
 
-Malata is a Veden [lighteyed](https://coppermind.net/wiki/Lighteyed "Lighteyed") woman of middle-age, with short, black, boyish hair. Her usual attire is described as a Thaylen style, with a skirt, leggings, and thick boots.[^1] She also wears gloves on both hands.[^2]
+Malata is a Veden [[Lighteyes - The Coppermind|lighteyed]] woman of middle-age, with short, black, boyish hair. Her usual attire is described as a Thaylen style, with a skirt, leggings, and thick boots.[^1] She also wears gloves on both hands.[^2]
 
 Having been informed by Spark of her Order's distaste for the term **Dustbringer**, she has adopted the Order's preferred epithet **Releaser** for herself,[^3] [^2] although those around her still refer to her as a Dustbringer.[^4] [^5]
 
@@ -34,9 +34,9 @@ Whether or not this matches the attitude of ancient Releasers is currently unkno
 
 ## Attributes and Abilities
 
-As a Releaser, Malata has access to the [[Surgebinding - The Coppermind|Surges]] of [Division](https://coppermind.net/wiki/Division "Division") and [Abrasion](https://coppermind.net/wiki/Abrasion "Abrasion"), although so far she has only demonstrated Division, the Surge of decay. Using Division, she can cause objects to degrade, burn, or turn to dust just by touching them with her bare hand. She has shown enough skill in this that she could quickly make an intricate engraving on wood via controlled burning.[^1]
+As a Releaser, Malata has access to the [[Surgebinding - The Coppermind|Surges]] of [[Surgebinding - The Coppermind|Division]] and [[Surgebinding - The Coppermind|Abrasion]], although so far she has only demonstrated Division, the Surge of decay. Using Division, she can cause objects to degrade, burn, or turn to dust just by touching them with her bare hand. She has shown enough skill in this that she could quickly make an intricate engraving on wood via controlled burning.[^1]
 
-She has also progressed enough in her [Oaths](https://coppermind.net/wiki/Immortal_Words "Immortal Words") to turn Spark into a [Shardblade](https://coppermind.net/wiki/Shardblade "Shardblade"),[^2] which she has been using to control [[Oathgate - The Coppermind|Oathgates]].
+She has also progressed enough in her [[Knights Radiant - The Coppermind|Oaths]] to turn Spark into a [Shardblade](https://coppermind.net/wiki/Shardblade "Shardblade"),[^2] which she has been using to control [[Oathgate - The Coppermind|Oathgates]].
 
 ## History
 

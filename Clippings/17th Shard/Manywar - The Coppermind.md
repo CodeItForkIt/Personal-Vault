@@ -26,7 +26,7 @@ The [Tears of Edgli](https://coppermind.net/wiki/Tears_of_Edgli "Tears of Edgli"
 
 ### Awakening Developments
 
-The process of [[Awakening - The Coppermind|Awakening]] [[Lifeless - The Coppermind|Lifeless]] had already been developed before the Manywar. However, the [[Awakening - The Coppermind#Awakening Commands|Commands]] that had been known previously required fifty [Breaths](https://coppermind.net/wiki/Breath "Breath") to create a single Lifeless. This stymied nations' ability to create a large Lifeless army, as it was simply too costly.[^2]
+The process of [[Awakening - The Coppermind|Awakening]] [[Lifeless - The Coppermind|Lifeless]] had already been developed before the Manywar. However, the [[Awakening - The Coppermind#Awakening Commands|Commands]] that had been known previously required fifty [[BioChromatic Breath - The Coppermind|Breaths]] to create a single Lifeless. This stymied nations' ability to create a large Lifeless army, as it was simply too costly.[^2]
 
 However, one of the [[Five Scholars - The Coppermind|Five Scholars]], [Shashara](https://coppermind.net/wiki/Shashara "Shashara"), invented a Command that allowed for the creation of a Lifeless with a single Breath.[^2] Alongside [[Yesteel - The Coppermind|Yesteel's]] development of [[Ichor-alcohol - The Coppermind|ichor-alcohol]], these discoveries allowed rulers to effectively double the size of their armies;[^5] along with the fact that the new troops did not eat, take pay, or feel pain and fear.[^2] Larger standing armies could be created. This made the Manywar the first conflict on Nalthis to utilize Lifeless in great numbers.[^6] Powerful Awakeners fought, and ropes were used as siege engines, Awakened to throw boulders.[^7] [^8] The power disparity between those with the new Lifeless Command and those without was another cause of the Manywar.[^9]
 
@@ -48,7 +48,7 @@ As the Manywar began, the Five Scholars each seemed to go their own way.[^2] It 
 
 ### Creation of Nightblood
 
-Working together, Vasher and Shashara successfully managed to develop Nightblood, a [Type IV BioChromatic Entity](https://coppermind.net/wiki/BioChroma#Type_IV "BioChroma").[^7] Patterned after [Shardblades](https://coppermind.net/wiki/Shardblade "Shardblade") that Vasher had seen on a visit to the planet [[Roshar - The Coppermind|Roshar]], Nightblood was designed to be a similarly destructive weapon.[^13] [^14] Through a complex and experimental process they created a sentient sword with a Command to destroy evil. Unfortunately, as a sword, Nightblood had no concept of the difference between good and evil, and so could be used to wreak great destruction.
+Working together, Vasher and Shashara successfully managed to develop Nightblood, a [[BioChromatic Breath - The Coppermind#Type IV|Type IV BioChromatic Entity]].[^7] Patterned after [Shardblades](https://coppermind.net/wiki/Shardblade "Shardblade") that Vasher had seen on a visit to the planet [[Roshar - The Coppermind|Roshar]], Nightblood was designed to be a similarly destructive weapon.[^13] [^14] Through a complex and experimental process they created a sentient sword with a Command to destroy evil. Unfortunately, as a sword, Nightblood had no concept of the difference between good and evil, and so could be used to wreak great destruction.
 
 ## Late Events
 

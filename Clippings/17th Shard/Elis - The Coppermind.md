@@ -16,7 +16,7 @@ favicon: "/favicon.ico"
 
 **The Coppermind has spoilers for all of Brandon's published works, now including *Isles of the Emberdark* and Cosmere RPG books. Information about books that have not yet been released, like *Mistborn* Era 3, is allowed *only* on meta-pages for the books themselves. For more details, see [our spoiler policy](https://coppermind.net/wiki/Help:Spoilers "Help:Spoilers"). To view an earlier version of the wiki without spoilers for a book, go to the [Time Machine](https://coppermind.net/wiki/Special:TimeMachine "Special:TimeMachine")!**
 
-The **Kingdom of Elis** is an independent nation on the [Darkside](https://coppermind.net/wiki/Darkside "Darkside") of the planet [[Taldain - The Coppermind|Taldain]].[^1] People from Elis are known as **Elisians**.
+The **Kingdom of Elis** is an independent nation on the [[Taldain - The Coppermind|Darkside]] of the planet [[Taldain - The Coppermind|Taldain]].[^1] People from Elis are known as **Elisians**.
 
 ## Culture\[edit\]
 
@@ -24,9 +24,9 @@ Elisians have dark brown skin, dark eyes, and dark hair. They commonly prefer to
 
 ## Politics\[edit\]
 
-Relations between Elis and the [[Dynasty - The Coppermind|Dynasty]] are strained. Prince [[Gevalden - The Coppermind|Gevalden]] journeyed to [Dayside](https://coppermind.net/wiki/Dayside "Dayside") hoping to gain the aid of the [[Sand mastery - The Coppermind|sand masters]] as a weapon to use against the empire.[^3]
+Relations between Elis and the [[Dynasty - The Coppermind|Dynasty]] are strained. Prince [[Gevalden - The Coppermind|Gevalden]] journeyed to [[Taldain - The Coppermind|Dayside]] hoping to gain the aid of the [[Sand mastery - The Coppermind|sand masters]] as a weapon to use against the empire.[^3]
 
-Though the Darksider population in [Lonzare](https://coppermind.net/wiki/Lonzare "Lonzare") is quite diverse, there are apparently no Elisians living there. This is presumably due to the restrictions and control that the Dynasty has enforced, limiting travel between Darkside and Dayside.[^2]
+Though the Darksider population in [[Kezare - The Coppermind|Lonzare]] is quite diverse, there are apparently no Elisians living there. This is presumably due to the restrictions and control that the Dynasty has enforced, limiting travel between Darkside and Dayside.[^2]
 
 ## Notable Elisians\[edit\]
 

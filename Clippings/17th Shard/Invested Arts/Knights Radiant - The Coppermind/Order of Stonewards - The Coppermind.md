@@ -28,7 +28,7 @@ The order strives to exemplify resolve, strength, and dependability.[^2] They lo
 
 ## Ideals of the Stonewards
 
-The Ideals of the Knights Radiant, also known as the [Immortal Words](https://coppermind.net/wiki/Immortal_Words "Immortal Words"), are a set of rules by which the Radiants live. The First Ideal is shared by all of the orders, and is used as a motto for the Knights Radiant as a whole. Each of the orders then have an additional four Ideals that are unique to that order.[^7] The Ideals of the Order of Stonewards all focus on working with a team and supporting others, which led them to put others' interests before their own. Of the orders, they were some of the least likely to bend their Ideals.[^5]
+The Ideals of the Knights Radiant, also known as the [[Knights Radiant - The Coppermind|Immortal Words]], are a set of rules by which the Radiants live. The First Ideal is shared by all of the orders, and is used as a motto for the Knights Radiant as a whole. Each of the orders then have an additional four Ideals that are unique to that order.[^7] The Ideals of the Order of Stonewards all focus on working with a team and supporting others, which led them to put others' interests before their own. Of the orders, they were some of the least likely to bend their Ideals.[^5]
 
 ### The First Ideal
 
@@ -56,7 +56,7 @@ This oath focuses on Stonewards viewing themselves as one piece to a larger whol
 
 ### The Fourth Ideal
 
-The Fourth Ideal of the Stonewards is unique for each member, but all have the common theme of recognizing that it is impossible to help others if you do not help yourself. As such, Stonewards who reach this ideal know the importance of self-care and the strength of relying on a support system.[^8] Upon achieving this Ideal, a Stoneward gains their [[Shardplate - The Coppermind|Shardplate]], which is formed of [bindspren](https://coppermind.net/wiki/Bindspren "Bindspren").[^9] [^10]
+The Fourth Ideal of the Stonewards is unique for each member, but all have the common theme of recognizing that it is impossible to help others if you do not help yourself. As such, Stonewards who reach this ideal know the importance of self-care and the strength of relying on a support system.[^8] Upon achieving this Ideal, a Stoneward gains their [[Shardplate - The Coppermind|Shardplate]], which is formed of [[Spren - The Coppermind|bindspren]].[^9] [^10]
 
 ## Abilities
 
@@ -78,13 +78,13 @@ This ability lets them reshape things other than stone, but not flesh or anythin
 
 ### Shardplate Abilities
 
-Stonewards' [[Shardplate - The Coppermind|Shardplate]] is formed of [bindspren](https://coppermind.net/wiki/Bindspren "Bindspren").[^1] [^10] The glow of their [[Shardplate - The Coppermind|Shardplate]] is amber.[^21] [^22]
+Stonewards' [[Shardplate - The Coppermind|Shardplate]] is formed of [[Spren - The Coppermind|bindspren]].[^1] [^10] The glow of their [[Shardplate - The Coppermind|Shardplate]] is amber.[^21] [^22]
 
 ## History
 
 ### The Ancient Radiants
 
-The ancient Stonewards were the infantry and the ground troops of the Knights Radiant; alongside the [Windrunners](https://coppermind.net/wiki/Windrunners "Windrunners"), they were considered the finest soldiers.[^6] They tended to attract people interested in warfare, but also challenge, prowess with weapons, and athleticism. Throughout the world, they were widely known for being dependable, strong and filled with resolve, but also stubborn to a fault and prone to taking on projects larger than themselves. This attitude was said to be a good representation of their patron Herald.[^5] [^2] They took pride in this -- to be there when they were needed was a core tenet of their order.[^5]
+The ancient Stonewards were the infantry and the ground troops of the Knights Radiant; alongside the [[Order of Windrunners - The Coppermind|Windrunners]], they were considered the finest soldiers.[^6] They tended to attract people interested in warfare, but also challenge, prowess with weapons, and athleticism. Throughout the world, they were widely known for being dependable, strong and filled with resolve, but also stubborn to a fault and prone to taking on projects larger than themselves. This attitude was said to be a good representation of their patron Herald.[^5] [^2] They took pride in this -- to be there when they were needed was a core tenet of their order.[^5]
 
 In battle, they served as the frontline troops.[^23] [^24] In times of peace, on the other hand, they were often explorers, but also sportsmen, often organizing and engaging in various competitions and events.[^5]
 
@@ -98,7 +98,7 @@ During the True Desolation, the Stonewards primarly fought against Odium, joinin
 - [Dami](https://coppermind.net/wiki/Dami "Dami") (bonded to an unknown peakspren)
 - [Badali](https://coppermind.net/wiki/Badali "Badali") (bonded to an unknown peakspren)
 - [Erinor](https://coppermind.net/wiki/Erinor "Erinor") (bonded to an unknown peakspren) [^25]
-- [Talatin](https://coppermind.net/wiki/Talatin "Talatin") was a historic Stoneward from before the [Recreance](https://coppermind.net/wiki/Recreance "Recreance").
+- [Talatin](https://coppermind.net/wiki/Talatin "Talatin") was a historic Stoneward from before the [[Day of Recreance - The Coppermind|Recreance]].
 - [Taszo-son-Clutio](https://coppermind.net/wiki/Taszo-son-Clutio "Taszo-son-Clutio") (bonded to [Po'ahu](https://coppermind.net/edit/Po%27ahu?redlink=1 "Po'ahu (page does not exist)")) [^26]
 
 ## Quotes

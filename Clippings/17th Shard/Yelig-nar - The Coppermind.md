@@ -20,7 +20,7 @@ favicon: "/favicon.ico"
 
 ## Appearance and Personality
 
-Instead of having a specific physical appearance, Yelig-nar is capable of joining with people who swallow a [gemstone](https://coppermind.net/wiki/Gemstone "Gemstone").[^7] [^5]
+Instead of having a specific physical appearance, Yelig-nar is capable of joining with people who swallow a [[Polestone - The Coppermind|gemstone]].[^7] [^5]
 
 In [Shadesmar](https://coppermind.net/wiki/Shadesmar "Shadesmar"), Yelig-nar takes the form of a swirling figure of black smoke the size of a normal person.[^8]
 
@@ -28,11 +28,11 @@ In [Shadesmar](https://coppermind.net/wiki/Shadesmar "Shadesmar"), Yelig-nar tak
 
 > “ *Yelig-nar had great powers, perhaps the powers of all [[Surgebinding - The Coppermind|Surges]] compounded in one. He could transform any [[Voidbringer - The Coppermind|Voidbringer]] into an extremely dangerous enemy. Curiously, three legends I found mention swallowing a gemstone to engage this process.* ”
 
-Yelig-nar is capable of joining with people who swallow a [gemstone](https://coppermind.net/wiki/Gemstone "Gemstone").[^7] [^5] This gemstone seems to serve as a housing for Yelig-nar.[^4] It appears that the people who bond with Yelig-nar maintain their personality and memories,[^7] at least initially, but they must control him if they do not wish to be consumed by him.[^4] Yelig-nar can only bond with his host before consuming them.[^9] Yelig-nar is capable of consuming multiple hosts in a short timeframe.[^10]
+Yelig-nar is capable of joining with people who swallow a [[Polestone - The Coppermind|gemstone]].[^7] [^5] This gemstone seems to serve as a housing for Yelig-nar.[^4] It appears that the people who bond with Yelig-nar maintain their personality and memories,[^7] at least initially, but they must control him if they do not wish to be consumed by him.[^4] Yelig-nar can only bond with his host before consuming them.[^9] Yelig-nar is capable of consuming multiple hosts in a short timeframe.[^10]
 
 When a person has swallowed a gemstone and bonds Yelig-nar, a dark smoke swirls around them.[^6] Their eyes darken to a red color that occasionally shifts between specific shades such as crimson or a dark blood red.[^7] They gradually grow carapace and amethyst crystals that glow with a deep violet light from all over their bodies, including their limbs and heads. Eventually even the organs within the person's chest cavity will be replaced with an enormous amethyst overgrown with dark veins. The central amethyst in the torso is a weak spot for Yelig-nar; when it is damaged its glow will flicker. Once the amethyst sustains sufficient damage, it will explode. When the person Yelig-nar has bonded is killed, a dark smoke escapes from the corpse.
 
-A bond with Yelig-nar grants a person the ability to make use of nine [[Surgebinding - The Coppermind|Surges]],[^5] [^11] the only one not accessed by them being [Adhesion](https://coppermind.net/wiki/Adhesion "Adhesion") [^1].[^13] It is uncertain where the power source for these Surges comes from, but it is possible that Yelig-nar makes use of [[Voidlight - The Coppermind|Voidlight]]. It also seems possible that Yelig-nar grants preternatural skills in combat.[^7] [^10]
+A bond with Yelig-nar grants a person the ability to make use of nine [[Surgebinding - The Coppermind|Surges]],[^5] [^11] the only one not accessed by them being [[Surgebinding - The Coppermind|Adhesion]] [^1].[^13] It is uncertain where the power source for these Surges comes from, but it is possible that Yelig-nar makes use of [[Voidlight - The Coppermind|Voidlight]]. It also seems possible that Yelig-nar grants preternatural skills in combat.[^7] [^10]
 
 According to mythology, Yelig-nar supposedly consumes souls, but it is not known for certain what this means.[^14] It is likely that it simply refers to the people he bonds with, since he feeds on their [[Identity - The Coppermind|Identity]] and [[Connection - The Coppermind|Connection]],[^15] but it is uncertain if the damage is permanent. Yelig-nar consumes his victims entirely, like [[Nightblood - The Coppermind|Nightblood]], meaning they would not appear in [Shadesmar](https://coppermind.net/wiki/Shadesmar "Shadesmar") before traveling to the [[Beyond - The Coppermind|Beyond]] upon dying.[^16]
 
@@ -40,7 +40,7 @@ According to mythology, Yelig-nar supposedly consumes souls, but it is not known
 
 ### Early History
 
-Yelig-nar's origin is unknown. It is uncertain when he came into being. Yelig-nar was involved in the past [[Desolation - The Coppermind|Desolations]];[^17] he once broke into [[Nohadon - The Coppermind|Nohadon's]] chancery and killed all of Nohadon's scribes.[^18] During another battle, he is known to have bonded with twelve different singers in rapid succesion.[^10] Following [Aharietiam](https://coppermind.net/wiki/Aharietiam "Aharietiam"), Yelig-nar seems to have remained on [[Roshar - The Coppermind|Roshar]], although any actions he may have taken are unknown. Yelig-nar was mentioned in a work of writing by [Traxil](https://coppermind.net/wiki/Traxil "Traxil") that was often cited,[^19] but some, including [[Jasnah Kholin - The Coppermind|Jasnah Kholin]], doubted its authenticity.[^2]
+Yelig-nar's origin is unknown. It is uncertain when he came into being. Yelig-nar was involved in the past [[Desolation - The Coppermind|Desolations]];[^17] he once broke into [[Nohadon - The Coppermind|Nohadon's]] chancery and killed all of Nohadon's scribes.[^18] During another battle, he is known to have bonded with twelve different singers in rapid succesion.[^10] Following [[Last Desolation - The Coppermind|Aharietiam]], Yelig-nar seems to have remained on [[Roshar - The Coppermind|Roshar]], although any actions he may have taken are unknown. Yelig-nar was mentioned in a work of writing by [Traxil](https://coppermind.net/wiki/Traxil "Traxil") that was often cited,[^19] but some, including [[Jasnah Kholin - The Coppermind|Jasnah Kholin]], doubted its authenticity.[^2]
 
 > “ *If you wish for the promised power, ingest that—then try to control the one who follows. But be warned, the queen at [Kholinar](https://coppermind.net/wiki/Kholinar "Kholinar") tried this, and the power consumed her.*”
 

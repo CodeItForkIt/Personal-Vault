@@ -26,7 +26,7 @@ There are different strains of lavis. The variety grown in [Hearthstone](https:/
 
 When the [[Highstorm - The Coppermind|Highstorm]] stops happening, the farmers of [Tashikk](https://coppermind.net/wiki/Tashikk "Tashikk") start planting lavis, [tallew](https://coppermind.net/wiki/Tallew "Tallew") and [clema](https://coppermind.net/wiki/Clema "Clema") during their rest period.[^8] [[Kaladin - The Coppermind|Kaladin]] also comments on this when he first travels back to Hearthstone.[^9]
 
-[Hatham's](https://coppermind.net/wiki/Hatham "Hatham") farmers fail to cultivate lavis in Urithiru,[^10] presumably either until [[Rlain - The Coppermind|Rlain]] shows them how the [Parshendi](https://coppermind.net/wiki/Parshendi "Parshendi") combine [[Stormlight - The Coppermind|Stormlight]], a certain [rhythm](https://coppermind.net/wiki/Rhythm "Rhythm"), and [lifespren](https://coppermind.net/wiki/Lifespren "Lifespren") to sustain [rockbuds](https://coppermind.net/wiki/Rockbud "Rockbud") on Stormlight [^11] or until the [[Sibling - The Coppermind|Sibling]] activates the tower.[^12]
+[Hatham's](https://coppermind.net/wiki/Hatham "Hatham") farmers fail to cultivate lavis in Urithiru,[^10] presumably either until [[Rlain - The Coppermind|Rlain]] shows them how the [[Listener - The Coppermind|Parshendi]] combine [[Stormlight - The Coppermind|Stormlight]], a certain [rhythm](https://coppermind.net/wiki/Rhythm "Rhythm"), and [[Spren - The Coppermind|lifespren]] to sustain [rockbuds](https://coppermind.net/wiki/Rockbud "Rockbud") on Stormlight [^11] or until the [[Sibling - The Coppermind|Sibling]] activates the tower.[^12]
 
 ## Uses
 
@@ -38,11 +38,11 @@ The fibres that lavis produces can be used for rudimentary clothing, as [[Dalina
 
 Lavis grain is the basis of the economy in many small towns like [Hearthstone](https://coppermind.net/wiki/Hearthstone "Hearthstone").[^4] [^24] [Sebarial](https://coppermind.net/wiki/Sebarial "Sebarial") considers it a lucrative enough crop to include as an important part of the economy he builds in his warcamp on the [[Shattered Plains - The Coppermind|Shattered Plains]].[^25] The [Akanny](https://coppermind.net/wiki/Akanny "Akanny") region of [Sadeas princedom](https://coppermind.net/wiki/Sadeas_princedom "Sadeas princedom") in which Hearthstone lies is especially fertile for growing both lavis and [tallew](https://coppermind.net/wiki/Tallew "Tallew"), potentially feeding half of [Alethkar](https://coppermind.net/wiki/Alethkar "Alethkar") with their yield.[^26]
 
-Lavis grain typically goes through several merchant middle-men on its way from the farming communities to the cities. By the time people buy it in the city, it usually costs four to five times as much as the farmers sell it for.[^27] It is handed out as a ration in [Kholinar](https://coppermind.net/wiki/Kholinar "Kholinar") when the [Parshendi](https://coppermind.net/wiki/Parshendi "Parshendi") besiege the city.[^28]
+Lavis grain typically goes through several merchant middle-men on its way from the farming communities to the cities. By the time people buy it in the city, it usually costs four to five times as much as the farmers sell it for.[^27] It is handed out as a ration in [Kholinar](https://coppermind.net/wiki/Kholinar "Kholinar") when the [[Listener - The Coppermind|Parshendi]] besiege the city.[^28]
 
 Ships often take barrels of lavis onboard to feed the crew; occasionally a barrel will have dormant larvae in them, rendering the lavis inedible to humans when the worms mature. The [Hexi](https://coppermind.net/wiki/Hexi "Hexi") nomads, however, prize just such worm-ridden grain and are eager to buy it.[^29]
 
-Armies also sustain themselves largely on [Soulcast](https://coppermind.net/wiki/Soulcast "Soulcast") food, including lavis grain, when they have the advantage of access to Soulcasters.[^30] It is difficult to Soulcast things into true lavis with individual grains; less advanced Soulcasters typically can only create a block of hardened lavis pulp which can then be chipped off and cooked into a mush.[^31] [^32]
+Armies also sustain themselves largely on [[Soulcasting - The Coppermind|Soulcast]] food, including lavis grain, when they have the advantage of access to Soulcasters.[^30] It is difficult to Soulcast things into true lavis with individual grains; less advanced Soulcasters typically can only create a block of hardened lavis pulp which can then be chipped off and cooked into a mush.[^31] [^32]
 
 ## Notes
 

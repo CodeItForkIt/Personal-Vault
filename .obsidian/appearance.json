@@ -1,5 +1,7 @@
 {
   "cssTheme": "Cupertino",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "metadata-icon-auto-gen"
+  ],
   "translucency": true
 }

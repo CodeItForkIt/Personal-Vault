@@ -36,7 +36,7 @@ In the present day, a Natan lighthouse keeper named [Puuli](https://coppermind.n
 
 ## Culture
 
-Natan people have pale blue skin, wide noses, and wool-like white hair.[^7] Natans view the moons of Roshar as deities, and revere the blue moon [Nomon](https://coppermind.net/wiki/Nomon "Nomon") in particular. [[Hoid - The Coppermind|Hoid]] tells a folk tale about Nomon conceiving a child with the Natan Queen [Tsa](https://coppermind.net/wiki/Tsa "Tsa"), resulting in blue-skinned descendants who were blessed with poise and beauty.[^8] However, it is heavily implied that Natans are actually human- [[Siah Aimian - The Coppermind|Siah Aimian]] hybrids,[^18] [^19] giving them their blue skin and an increased lifespan.[^20] How or why these cultures came together is unknown.
+Natan people have pale blue skin, wide noses, and wool-like white hair.[^7] Natans view the moons of Roshar as deities, and revere the blue moon [[Roshar - The Coppermind|Nomon]] in particular. [[Hoid - The Coppermind|Hoid]] tells a folk tale about Nomon conceiving a child with the Natan Queen [Tsa](https://coppermind.net/wiki/Tsa "Tsa"), resulting in blue-skinned descendants who were blessed with poise and beauty.[^8] However, it is heavily implied that Natans are actually human- [[Siah Aimian - The Coppermind|Siah Aimian]] hybrids,[^18] [^19] giving them their blue skin and an increased lifespan.[^20] How or why these cultures came together is unknown.
 
 Natanatan was nicknamed the "Granite Kingdom".[^21] Hoid's tale describes the kingdom as having a rich culture and fine architecture.[^8] The historicity of his story is unclear, but Hoid was alive during the Heraldic Epochs, and stories of a civilized Natanatan persist on modern-day Roshar.[^21]
 

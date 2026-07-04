@@ -16,7 +16,7 @@ favicon: "/favicon.ico"
 > 
 > — An unnamed female [[Knights Radiant - The Coppermind|Radiant]] [^1]
 
-**Alethela** is one of the [[Silver Kingdoms - The Coppermind|Silver Kingdoms]] on [[Roshar - The Coppermind|Roshar]].[^2] As one of the Silver Kingdoms, its name is perfectly symmetrical, due to the [Vorin](https://coppermind.net/wiki/Vorin "Vorin") belief in holiness of symmetry.[^3] It is generally considered to be the predecessor of [Alethkar](https://coppermind.net/wiki/Alethkar "Alethkar"). Alethela's borders included parts of the present-day countries of [[Herdaz - The Coppermind|Herdaz]], [Jah Keved](https://coppermind.net/wiki/Jah_Keved "Jah Keved"), [Alethkar](https://coppermind.net/wiki/Alethkar "Alethkar") and the [[Unclaimed Hills - The Coppermind|Unclaimed Hills]].
+**Alethela** is one of the [[Silver Kingdoms - The Coppermind|Silver Kingdoms]] on [[Roshar - The Coppermind|Roshar]].[^2] As one of the Silver Kingdoms, its name is perfectly symmetrical, due to the [[Vorinism - The Coppermind|Vorin]] belief in holiness of symmetry.[^3] It is generally considered to be the predecessor of [Alethkar](https://coppermind.net/wiki/Alethkar "Alethkar"). Alethela's borders included parts of the present-day countries of [[Herdaz - The Coppermind|Herdaz]], [Jah Keved](https://coppermind.net/wiki/Jah_Keved "Jah Keved"), [Alethkar](https://coppermind.net/wiki/Alethkar "Alethkar") and the [[Unclaimed Hills - The Coppermind|Unclaimed Hills]].
 
 ## Geography
 
@@ -56,7 +56,7 @@ The land that would become known as Alethela was created at an unknown point bef
 
 ### Pre-Human Arrival
 
-Before humanity arrived on Roshar from Ashyn, the land that would come to be known as Alethela was inhabited by [Singers](https://coppermind.net/wiki/Singers "Singers").[^23]
+Before humanity arrived on Roshar from Ashyn, the land that would come to be known as Alethela was inhabited by [[Singer - The Coppermind|Singers]].[^23]
 
 Circa -5825 in the Vorin calendar,[^24] [^25] humanity arrived on Roshar after fleeing Ashyn and were granted the land that would become [[Shin Kak Nish - The Coppermind|Shin Kak Nish]]. After less than a generation,[^26] they headed an invasion, slaughtering the Singers and expelling them from their land and claiming it as their own, this included the land that would come to be known as Alethela.[^23] This history was lost to man until the discovery of the [Eila Stele](https://coppermind.net/wiki/Eila_Stele "Eila Stele").[^23]
 
@@ -70,7 +70,7 @@ Map of the Silver Kingdoms
 
 Alethela was founded in the [[Silver Kingdoms - The Coppermind|Silver Kingdoms]] Epoch. They were an extremely militaristic nation which remembered and studied the arts of war so that they would be able to teach it to new generations whenever a Desolation came.[^1] Due to this, the Knight's Radiant primarily lived in Alethela, even if their operations were based in [[Urithiru - The Coppermind|Urithiru]].[^1] This militarism laid the foundation for later Alethi militarism and military strength.
 
-Due to the Desolations, they were constantly returned back to early technological levels, often to the point to making use of stone tools. Though they advanced each time with the help of the Heralds whenever they returned, often receiving this assistance from [[Kalak - The Coppermind|Kalak]] and his [Willshapers](https://coppermind.net/wiki/Willshapers "Willshapers").[^27] [^28] [^29] [^30] Old manuscripts and texts dating back to these times mention quick-spreading diseases that killed tens of thousands.[^31]
+Due to the Desolations, they were constantly returned back to early technological levels, often to the point to making use of stone tools. Though they advanced each time with the help of the Heralds whenever they returned, often receiving this assistance from [[Kalak - The Coppermind|Kalak]] and his [[Order of Willshapers - The Coppermind|Willshapers]].[^27] [^28] [^29] [^30] Old manuscripts and texts dating back to these times mention quick-spreading diseases that killed tens of thousands.[^31]
 
 Very early in the nation's history, the Dawncity of [Kholinar](https://coppermind.net/wiki/Kholinar "Kholinar") was created and made into its capital.[^32] Kholinar was eventually made into the home of the Alethelan Oathgate.[^33] It was the place that many people wanted Urithiru to be built, likely due to Alethkar being the home to the Knight's Radiant. Despite this, for a reason obvious to many others at the time, it could not be, instead being built in the mountains near [[Makabakam - The Coppermind|Makabakam]].[^34]
 
@@ -120,7 +120,7 @@ Women, at least those of a high social class, wore tubular gowns. These gowns we
 
 #### Writing and language
 
-The Alethelan people wrote in the [[Dawnchant - The Coppermind|Dawnchant]]. At some point in history though, the Alethelan people adapted the original Dawnchant script to fit their own language. This process began with simple phonetic substitution, in which humans used the Dawnsingers' script to transcribe their own languages.[^48] By the time of the [Recreance](https://coppermind.net/wiki/Recreance "Recreance"), they spoke a language known as Alethelan.[^49]
+The Alethelan people wrote in the [[Dawnchant - The Coppermind|Dawnchant]]. At some point in history though, the Alethelan people adapted the original Dawnchant script to fit their own language. This process began with simple phonetic substitution, in which humans used the Dawnsingers' script to transcribe their own languages.[^48] By the time of the [[Day of Recreance - The Coppermind|Recreance]], they spoke a language known as Alethelan.[^49]
 
 #### Architecture
 

@@ -44,7 +44,7 @@ When Blushweaver first Returns, she is unhappy with her title of "the Honest." S
 
 ## Attributes and Abilities
 
-As a [[Returned - The Coppermind|Returned]], Blushweaver has a [divine Breath](https://coppermind.net/wiki/Divine_Breath "Divine Breath") which gives her the benefits of being on the [Fifth Heightening](https://coppermind.net/wiki/Fifth_Heightening "Fifth Heightening"). This includes:
+As a [[Returned - The Coppermind|Returned]], Blushweaver has a [[BioChromatic Breath - The Coppermind|divine Breath]] which gives her the benefits of being on the [[Heightening - The Coppermind|Fifth Heightening]]. This includes:
 
 - Aura Recognition - allows her to assess the number of Breaths a person possesses.
 - Perfect Pitch
@@ -66,7 +66,7 @@ by [sternenflamme](https://coppermind.net/wiki/Coppermind:Artists/sternenflamme 
 
 Before Blushweaver's Return, she was a well known and powerful merchant in [[Hallandren - The Coppermind|Hallandren]].[^5] [^14] She was assassinated after exposing a group of dye merchants she worked with for their untrustworthy, deceptive, and criminal practices; this was the basis of her original name upon her Return.[^14]
 
-She Returned in order to attempt to stop the invaders she saw taking [[T'Telir - The Coppermind|T'Telir]] after [Bluefingers's](https://coppermind.net/wiki/Bluefingers "Bluefingers") revolt in her vision.[^14] She was named **Blushweaver the Honest** by the [[Iridescent Tones - The Coppermind|Iridescent Tones]], but in her first year as a Returned successfully campaigned to change it to **Blushweaver the Beautiful**.[^13]
+She Returned in order to attempt to stop the invaders she saw taking [[T'Telir - The Coppermind|T'Telir]] after [[Havarseth - The Coppermind|Bluefingers's]] revolt in her vision.[^14] She was named **Blushweaver the Honest** by the [[Iridescent Tones - The Coppermind|Iridescent Tones]], but in her first year as a Returned successfully campaigned to change it to **Blushweaver the Beautiful**.[^13]
 
 ### During the rebellion
 

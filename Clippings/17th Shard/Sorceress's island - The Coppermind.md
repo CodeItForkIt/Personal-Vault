@@ -16,13 +16,13 @@ The **Sorceress's island** is an island in the [[Midnight Sea - The Coppermind|M
 
 ## Geography
 
-The Sorceress's island is a small, "suspiciously circular" island located in the Midnight Sea. It is largely uninhabited bar the [Sorceress](https://coppermind.net/wiki/Sorceress "Sorceress") herself and the metal soldiers that form her army. Plant life is rare on the island; it is populated by only a few lone trees, none of which have many leaves upon them. Upon seeing the island, [[Tress - The Coppermind|Tress]] was surprised by how small it was, being even smaller than [Diggen's Point](https://coppermind.net/wiki/Diggen%27s_Point "Diggen's Point"). The only structure on the island is the [[Sorceress's tower - The Coppermind|Sorceress's tower]].[^1]
+The Sorceress's island is a small, "suspiciously circular" island located in the Midnight Sea. It is largely uninhabited bar the [[Riina - The Coppermind|Sorceress]] herself and the metal soldiers that form her army. Plant life is rare on the island; it is populated by only a few lone trees, none of which have many leaves upon them. Upon seeing the island, [[Tress - The Coppermind|Tress]] was surprised by how small it was, being even smaller than [Diggen's Point](https://coppermind.net/wiki/Diggen%27s_Point "Diggen's Point"). The only structure on the island is the [[Sorceress's tower - The Coppermind|Sorceress's tower]].[^1]
 
 It is surrounded by undersea rocky spikes which tear apart ships which pass across them without care. This acts as a potent line of defense against invaders and is one of the reasons the Sorceress chose it.[^1] [^3]
 
 ## History
 
-At an unknown date [the Sorceress](https://coppermind.net/wiki/The_Sorceress "The Sorceress") arrived from the stars with her tower and made her home on the island that would later be named after her. She chose the island on purpose due to how difficult it was for others to reach.[^1]
+At an unknown date [[Riina - The Coppermind|the Sorceress]] arrived from the stars with her tower and made her home on the island that would later be named after her. She chose the island on purpose due to how difficult it was for others to reach.[^1]
 
 The Sorceress sent out ships to raid other nations and was effective at keeping everyone away from the island.[^4] No one ever returned from the island without at least being cursed like [[Hoid - The Coppermind|Hoid]].[^5] Only the Sorceress's ships were allowed to travel the Midnight Sea, effectively making it so no ship would ever come close to the island.[^6]
 

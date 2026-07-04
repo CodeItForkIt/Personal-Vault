@@ -13,7 +13,7 @@ favicon: /favicon.ico
 ---
 ## Harmonium
 
-**Harmonium**, also known as **ettmetal**, is the [God Metal](https://coppermind.net/wiki/God_Metal "God Metal") of [[Harmony - The Coppermind|Harmony]]. It is used in some of the [Southern Scadrians'](https://coppermind.net/wiki/Southern_Scadrial "Southern Scadrial") [[Metallic Arts]] technologies.[^1] [^2]
+**Harmonium**, also known as **ettmetal**, is the [God Metal](https://coppermind.net/wiki/God_Metal "God Metal") of [[Harmony - The Coppermind|Harmony]]. It is used in some of the [[Southern Scadrian - The Coppermind|Southern Scadrians']] [[Metallic Arts]] technologies.[^1] [^2]
 
 ## Properties
 
@@ -41,9 +41,9 @@ The [[Allomancy - The Coppermind|Allomantic]], [[Feruchemy - The Coppermind|Feru
 
 ### Mechanical Uses
 
-In conjunction with Southern [Scadrian](https://coppermind.net/wiki/Scadrian "Scadrian") technology, harmonium can reproduce Allomantic or Feruchemical powers within its vicinity.[^19] [^20] The Southern Scadrians use the metal in small **primer cubes** that can somehow regulate harmonium's effects with the flip of a switch.[^19] When used Allomantically, the metal is said to burn "with a pure whiteness" and will slowly be consumed [^9] in the same way that it would be by a Misting or Mistborn. It is used to fuel Southern Scadrian Allomantic technology, including their airships that run via [[Steel - The Coppermind|steelpushing]].[^9] The Southern scadrians also use it to light up rooms, using it to power blue lights.[^21] The cubes themselves are rare, since harmonium is highly regulated.[^22]
+In conjunction with Southern [[Scadrial - The Coppermind|Scadrian]] technology, harmonium can reproduce Allomantic or Feruchemical powers within its vicinity.[^19] [^20] The Southern Scadrians use the metal in small **primer cubes** that can somehow regulate harmonium's effects with the flip of a switch.[^19] When used Allomantically, the metal is said to burn "with a pure whiteness" and will slowly be consumed [^9] in the same way that it would be by a Misting or Mistborn. It is used to fuel Southern Scadrian Allomantic technology, including their airships that run via [[Steel - The Coppermind|steelpushing]].[^9] The Southern scadrians also use it to light up rooms, using it to power blue lights.[^21] The cubes themselves are rare, since harmonium is highly regulated.[^22]
 
-Northern Scadrians refer to the cubes as **"Allomantic grenades"** since they are a self-contained source of Allomantic powers once they are charged.[^23] After Wax, Marasi, and other Northerners began regularly interacting with the [Malwish](https://coppermind.net/wiki/Malwish "Malwish"), they gained access to more cubes and used them to aid in their police work. The design of the cubes was also refined around this time.[^22]
+Northern Scadrians refer to the cubes as **"Allomantic grenades"** since they are a self-contained source of Allomantic powers once they are charged.[^23] After Wax, Marasi, and other Northerners began regularly interacting with the [[Southern Scadrian - The Coppermind|Malwish]], they gained access to more cubes and used them to aid in their police work. The design of the cubes was also refined around this time.[^22]
 
 It is theoretically possible to use a primer cube to reproduce other manifestations of [[Investiture - The Coppermind|Investiture]], such as [[Surgebinding - The Coppermind|Surgebinding]].[^24]
 

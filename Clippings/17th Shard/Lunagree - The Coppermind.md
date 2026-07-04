@@ -32,7 +32,7 @@ The Verdant Lunagree is located about fifty to sixty miles from [Diggen's Point]
 
 ### Crimson Lunagree
 
-While sailing the [[Crimson Sea - The Coppermind|Crimson Sea]], [[Hoid - The Coppermind|Hoid]] describes the Crimson Lunagree as "like a lava flow". Under the curse of the [Sorceress](https://coppermind.net/wiki/Sorceress "Sorceress"), he also suggests that it looks like the moon is throwing up.[^3] Xisis's lair can be found close to the Crimson Lunagree, though an exact location nearby is not needed and just being close is enough to get a meeting with him.[^2] [^4]
+While sailing the [[Crimson Sea - The Coppermind|Crimson Sea]], [[Hoid - The Coppermind|Hoid]] describes the Crimson Lunagree as "like a lava flow". Under the curse of the [[Riina - The Coppermind|Sorceress]], he also suggests that it looks like the moon is throwing up.[^3] Xisis's lair can be found close to the Crimson Lunagree, though an exact location nearby is not needed and just being close is enough to get a meeting with him.[^2] [^4]
 
 ## Notes
 

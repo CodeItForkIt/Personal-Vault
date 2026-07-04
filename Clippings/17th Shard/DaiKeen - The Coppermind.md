@@ -12,7 +12,7 @@ favicon: "/favicon.ico"
 ---
 ## DaiKeen
 
-A **DaiKeen** is a [Kerztian](https://coppermind.net/wiki/Kerztian "Kerztian") economic and social grouping similar to the Professions in [[Lossand - The Coppermind|Lossand]]. Members of a DaiKeen indicate which one they belong to with symbols or markings at their foreheads.
+A **DaiKeen** is a [[Kerzta - The Coppermind|Kerztian]] economic and social grouping similar to the Professions in [[Lossand - The Coppermind|Lossand]]. Members of a DaiKeen indicate which one they belong to with symbols or markings at their foreheads.
 
 ## The DaiKeenin
 
@@ -26,7 +26,7 @@ The priest DaiKeen teach and administer the [[Ker'reen - The Coppermind|Ker'reen
 
 Merchant DaiKeen
 
-The merchant DaiKeen consists of merchants. The king of Kerzta has been chosen from the merchant DaiKeen in all four [Choosings](https://coppermind.net/wiki/Choosing "Choosing") over the past 200 years.[^2]
+The merchant DaiKeen consists of merchants. The king of Kerzta has been chosen from the merchant DaiKeen in all four [[Kerzta - The Coppermind|Choosings]] over the past 200 years.[^2]
 
 Warrior priest DaiKeen
 

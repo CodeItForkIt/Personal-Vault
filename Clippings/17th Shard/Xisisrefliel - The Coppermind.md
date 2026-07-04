@@ -52,7 +52,7 @@ by [BrightWatcher](https://coppermind.net/wiki/Coppermind:Artists/BrightWatcher 
 
 Xisis has the ability to cure diseases including that of [[Spore eater - The Coppermind|spore eaters]].[^6] [^1] He claims that this is temporary, only lasting a year or two, unless the person remains in his vicinity.[^1] He can also extend the lifespans of mortals with ease, through unknown mechanics.[^9]
 
-Xisis is also seemingly a Tenth Heightening [Awakener](https://coppermind.net/wiki/Awakener "Awakener"), able to Command Awakened cloth without words.[^1] [^24]
+Xisis is also seemingly a Tenth Heightening [[Awakening - The Coppermind|Awakener]], able to Command Awakened cloth without words.[^1] [^24]
 
 Through unknown means he is also able to control and shape the spores of the Crimson Sea to his whim, allowing him to form tunnels to his base of operations at the bottom of the ocean. This base is itself a series of tunnels made out of the crimson spores.[^17]
 
@@ -62,7 +62,7 @@ He is an accomplished pianist, able to improvise works at a level comparable to 
 
 ### Lumar
 
-Xisis lived on [[Lumar - The Coppermind|Lumar]] in a palace at the bottom of the [[Crimson Sea - The Coppermind|Crimson Sea]] for hundreds of years before the events of the exodus of the [Sorceress](https://coppermind.net/wiki/Sorceress "Sorceress").[^6] His arrival had some connection to the departure of the [Iriali](https://coppermind.net/wiki/Iriali "Iriali"), but the exact nature of this relation is unknown.[^25] During this time he researched the ecosystem at the bottom of the spore seas,[^10] as well as the water cycle and the decomposition of spores.[^15]
+Xisis lived on [[Lumar - The Coppermind|Lumar]] in a palace at the bottom of the [[Crimson Sea - The Coppermind|Crimson Sea]] for hundreds of years before the events of the exodus of the [[Riina - The Coppermind|Sorceress]].[^6] His arrival had some connection to the departure of the [Iriali](https://coppermind.net/wiki/Iriali "Iriali"), but the exact nature of this relation is unknown.[^25] During this time he researched the ecosystem at the bottom of the spore seas,[^10] as well as the water cycle and the decomposition of spores.[^15]
 
 To help with his chores and research, he had been making trades, taking a slave in exchange for a boon.[^11] [Captain Crow](https://coppermind.net/wiki/Captain_Crow "Captain Crow") took the *[[Crow's Song - The Coppermind|Crow's Song]]* above his palace and was able to get an audience with him in order to sell [[Tress - The Coppermind|Tress]] to him. Tress, however, was able to convince him to take Captain Crow instead.[^1] When he offered Tress a boon, she asked if he could grant three lesser wishes. When he agreed, she asked for a new tablet for [Fort](https://coppermind.net/wiki/Fort "Fort"), glasses for [Ann](https://coppermind.net/wiki/Ann "Ann"), and information to track [[Salay's father - The Coppermind|Salay's father]].[^26]
 

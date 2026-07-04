@@ -22,11 +22,11 @@ favicon: /favicon.ico
 
 ## Abilities and Attributes\[edit\]
 
-As a [Vessel](https://coppermind.net/wiki/Vessel "Vessel") of the [[Shards|Shard]] [[Invention - The Coppermind|Invention]], Chan Ko Sar is immortal and immensely powerful.
+As a [[Shards|Vessel]] of the [[Shards|Shard]] [[Invention - The Coppermind|Invention]], Chan Ko Sar is immortal and immensely powerful.
 
 ## History\[edit\]
 
-Like all original [Vessels](https://coppermind.net/wiki/Vessel "Vessel"), Chan Ko Sar is a native of [[Yolen - The Coppermind|Yolen]].[^2] They participated in the [[Shattering - The Coppermind|Shattering of Adonalsium]] along with sixteen other people, and took up one of the [[Shards]], [[Invention - The Coppermind|Invention]].[^3] Three thousand years after the Shattering, Chan Ko Sar was creating wonderful things when [[Honor - The Coppermind|Honor]] contacted them for help against [[Odium - The Coppermind|Odium]] and they rejected Honor.[^1]
+Like all original [[Shards|Vessels]], Chan Ko Sar is a native of [[Yolen - The Coppermind|Yolen]].[^2] They participated in the [[Shattering - The Coppermind|Shattering of Adonalsium]] along with sixteen other people, and took up one of the [[Shards]], [[Invention - The Coppermind|Invention]].[^3] Three thousand years after the Shattering, Chan Ko Sar was creating wonderful things when [[Honor - The Coppermind|Honor]] contacted them for help against [[Odium - The Coppermind|Odium]] and they rejected Honor.[^1]
 
 ## Notes\[edit\]
 

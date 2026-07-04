@@ -14,7 +14,7 @@ favicon: "/favicon.ico"
 
 > “ *Allomancy is brutal, raw, and powerful.* ”
 > 
-> — [Khriss](https://coppermind.net/wiki/Khriss "Khriss") in "On the Three Metallic Arts" [^1]
+> — [[Khrissalla - The Coppermind|Khriss]] in "On the Three Metallic Arts" [^1]
 
 **Allomancy** is the most widely used form of [[Investiture - The Coppermind|Investiture]] on [[Scadrial - The Coppermind|Scadrial]],[^1] and is locally known as one of the three [[Metallic Arts]]. People who have one or more Allomantic abilities are called **Allomancers**, with each Allomantic power being paired with a type of metal, which must be ingested and "burned" to activate.
 
@@ -28,9 +28,9 @@ Additionally, consuming a bead of lerasium will hardcode Allomancy into a person
 
 ### Snapping
 
-In the [[Final Empire - The Coppermind|Final Empire]], children of confirmed noble bloodlines often undergo a planned beating as a test to see if they [Snap](https://coppermind.net/wiki/Snap "Snap"), as Snapping commonly occurs when a Misting or Mistborn undergoes heavy stress and pain, often in a near-death situation, causing them to trigger latent Allomantic abilities.
+In the [[Final Empire - The Coppermind|Final Empire]], children of confirmed noble bloodlines often undergo a planned beating as a test to see if they [[Snapping - The Coppermind|Snap]], as Snapping commonly occurs when a Misting or Mistborn undergoes heavy stress and pain, often in a near-death situation, causing them to trigger latent Allomantic abilities.
 
-According to [[Realmatic Theory, Miscellaneous|Realmatic Theory]], this creates a crack on the soul which the power can fit into. There are some similarities on this to other magic systems, such as the [[Knights Radiant - The Coppermind|Knights Radiant]] all being "broken" as indicated by [Syl](https://coppermind.net/wiki/Syl "Syl").[^10] [^11]
+According to [[Realmatic Theory, Miscellaneous|Realmatic Theory]], this creates a crack on the soul which the power can fit into. There are some similarities on this to other magic systems, such as the [[Knights Radiant - The Coppermind|Knights Radiant]] all being "broken" as indicated by [[Sylphrena - The Coppermind|Syl]].[^10] [^11]
 
 It is possible for Allomancers to Snap from intense positive emotion, but this is much less common.[^12] It is also possible to Snap from false emotions, caused by Soothing and Rioting.[^13] It is said that the more powerful the Allomancer, the more intense the trauma has to be to Snap.[^14]
 

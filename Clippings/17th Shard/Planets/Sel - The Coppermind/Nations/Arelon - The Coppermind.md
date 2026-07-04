@@ -13,7 +13,7 @@ favicon: /favicon.ico
 ---
 ## Arelon
 
-**Arelon** is the northwesternmost nation on the continent of [Opelon](https://coppermind.net/wiki/Opelon "Opelon") on the planet [[Sel - The Coppermind|Sel]].
+**Arelon** is the northwesternmost nation on the continent of [[Sel - The Coppermind|Opelon]] on the planet [[Sel - The Coppermind|Sel]].
 
 ## Capital
 

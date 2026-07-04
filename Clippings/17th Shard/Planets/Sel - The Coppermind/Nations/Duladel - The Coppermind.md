@@ -13,7 +13,7 @@ favicon: /favicon.ico
 ---
 ## Duladel
 
-**Duladel** is a kingdom on [Opelon](https://coppermind.net/wiki/Opelon "Opelon") along the southern border of [[Arelon - The Coppermind|Arelon]] on [[Sel - The Coppermind|Sel]]. People from Duladel are called Dula. Its people are mostly of mixed blood, generally half [Aonic](https://coppermind.net/wiki/Aonic "Aonic") and half [[JinDo - The Coppermind|JinDo]].[^1] Because of their Aonic heritage, the Dula can be taken by the [[Shaod - The Coppermind|Shaod]] and become [Elantrians](https://coppermind.net/wiki/Elantrian "Elantrian").[^2]
+**Duladel** is a kingdom on [[Sel - The Coppermind|Opelon]] along the southern border of [[Arelon - The Coppermind|Arelon]] on [[Sel - The Coppermind|Sel]]. People from Duladel are called Dula. Its people are mostly of mixed blood, generally half [Aonic](https://coppermind.net/wiki/Aonic "Aonic") and half [[JinDo - The Coppermind|JinDo]].[^1] Because of their Aonic heritage, the Dula can be taken by the [[Shaod - The Coppermind|Shaod]] and become [Elantrians](https://coppermind.net/wiki/Elantrian "Elantrian").[^2]
 
 ## Geography
 
@@ -21,7 +21,7 @@ favicon: /favicon.ico
 
 #### Location
 
-Duladel lies on the continent of [Opelon](https://coppermind.net/wiki/Opelon "Opelon"). The kingdom is bordered by [[Arelon - The Coppermind|Arelon]], [[Fjorden - The Coppermind|Fjorden]] and [[JinDo - The Coppermind|JinDo]].[^3] It has one major river running through it, the [Kalomo River](https://coppermind.net/wiki/Kalomo_River "Kalomo River").[^4] Duladel also contains the only safe passes through the Atad mountains.[^5]
+Duladel lies on the continent of [[Sel - The Coppermind|Opelon]]. The kingdom is bordered by [[Arelon - The Coppermind|Arelon]], [[Fjorden - The Coppermind|Fjorden]] and [[JinDo - The Coppermind|JinDo]].[^3] It has one major river running through it, the [Kalomo River](https://coppermind.net/wiki/Kalomo_River "Kalomo River").[^4] Duladel also contains the only safe passes through the Atad mountains.[^5]
 
 #### Climate
 
@@ -73,7 +73,7 @@ The followers of the Jesker religion strive to bring themselves in harmony with 
 
 After the Fjordell occupation of Duladel the state religion was changed into [[Shu-Dereth - The Coppermind|Shu-Dereth]]. This is a monotheistic religion, worshipping a deity called [Jaddeth](https://coppermind.net/wiki/Jaddeth "Jaddeth").[^17]
 
-Shu-Dereth has a strict chain of command, with [Wyrn](https://coppermind.net/wiki/Wyrn_\(title\) "Wyrn (title)") at the top. Due to this chain of command the Dula, regardless of social rank, are subjected to the whims of the Fjordell priesthood.[^9] Wyrn uses this to further expand his empire across [Opelon](https://coppermind.net/wiki/Opelon "Opelon").
+Shu-Dereth has a strict chain of command, with [Wyrn](https://coppermind.net/wiki/Wyrn_\(title\) "Wyrn (title)") at the top. Due to this chain of command the Dula, regardless of social rank, are subjected to the whims of the Fjordell priesthood.[^9] Wyrn uses this to further expand his empire across [[Sel - The Coppermind|Opelon]].
 
 ### Language and script
 

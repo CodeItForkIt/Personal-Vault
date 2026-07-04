@@ -12,7 +12,7 @@ favicon: "/favicon.ico"
 ---
 ## Kenton
 
-**Kenton** is a half- [Darksider](https://coppermind.net/wiki/Darkside "Darkside"), half- [[Lossand - The Coppermind|Lossandin]] [[Sand mastery - The Coppermind|sand master]] from [[Lossand - The Coppermind|Lossand]], on the [Dayside](https://coppermind.net/wiki/Dayside "Dayside") of [[Taldain - The Coppermind|Taldain]]. Kenton is the current [[Taishin - The Coppermind#The Lord Mastrell|Lord Mastrell]] of the [[Diem - The Coppermind|Diem]].[^2]
+**Kenton** is a half- [[Taldain - The Coppermind|Darksider]], half- [[Lossand - The Coppermind|Lossandin]] [[Sand mastery - The Coppermind|sand master]] from [[Lossand - The Coppermind|Lossand]], on the [[Taldain - The Coppermind|Dayside]] of [[Taldain - The Coppermind|Taldain]]. Kenton is the current [[Taishin - The Coppermind#The Lord Mastrell|Lord Mastrell]] of the [[Diem - The Coppermind|Diem]].[^2]
 
 ## Appearance and Personality
 
@@ -24,7 +24,7 @@ Kenton has lived much of his life challenging authority. He has done it so often
 
 ### Sand Mastery
 
-Since childhood, Kenton has been an extremely weak sand master, only being able to control one ribbon of sand.[^4] He loses his ability, possibly as a result of [overmastery](https://coppermind.net/wiki/Overmastery "Overmastery"),[^5] but later regains them, and is more powerful, controlling three ribbons not just one.[^3] Following this, Kenton attempts to increase his abilities by deliberately overmastering, which eventually allows him to control five ribbons. Kenton is exceptionally skilled with a single ribbon capable of using it with a speed and precision unmatched by any other sand master.[^2]
+Since childhood, Kenton has been an extremely weak sand master, only being able to control one ribbon of sand.[^4] He loses his ability, possibly as a result of [[Sand mastery - The Coppermind|overmastery]],[^5] but later regains them, and is more powerful, controlling three ribbons not just one.[^3] Following this, Kenton attempts to increase his abilities by deliberately overmastering, which eventually allows him to control five ribbons. Kenton is exceptionally skilled with a single ribbon capable of using it with a speed and precision unmatched by any other sand master.[^2]
 
 ### Sword Fighting
 
@@ -48,7 +48,7 @@ After Kenton's feat during the Path, his father was furious and once again offer
 
 During the advancement ceremony, a group of [[Kerzta - The Coppermind|Kertzian]] [[DaiKeen - The Coppermind|warrior-priests]] launched a surprise attack on the ceremony. Kenton, having also been trained in martial arts, led a group of Sand Masters in defense against the attack. Ultimately he failed and was buried in sand by Praxton's final act, which abruptly ended the battle. The Kertzians killed virtually everyone, leading Kenton to believe that he was the only survivor.[^5]
 
-He was found hurt and dehydrated by [Khriss](https://coppermind.net/wiki/Khriss "Khriss") and her party. After they revived him with water, Kenton agreed to be their guide, and accompanied them to the city of [[Kezare - The Coppermind|Kezare]]. While in their company he kept his Sand Mastery a secret. Along the way they stopped at a Kerztian outpost, where Kenton bartered for supplies. There, he learned that there were other survivors of the attack. After they left the outpost he discovered that he could no longer use sand mastery when a group Kerztian warrior-priests attacked their party.[^3]
+He was found hurt and dehydrated by [[Khrissalla - The Coppermind|Khriss]] and her party. After they revived him with water, Kenton agreed to be their guide, and accompanied them to the city of [[Kezare - The Coppermind|Kezare]]. While in their company he kept his Sand Mastery a secret. Along the way they stopped at a Kerztian outpost, where Kenton bartered for supplies. There, he learned that there were other survivors of the attack. After they left the outpost he discovered that he could no longer use sand mastery when a group Kerztian warrior-priests attacked their party.[^3]
 
 ### Acting Lord Mastrell
 
@@ -66,9 +66,9 @@ Following an assassination attempt and the return of his old friend, [Elorin](ht
 
 by [Nabetse Zitro](https://nabetsezitro.com/) (sketch, lineart), [Justyna Dura](https://www.deviantart.com/justynadura) (coloring, render)
 
-With [Khriss](https://coppermind.net/wiki/Khriss "Khriss")
+With [[Khrissalla - The Coppermind|Khriss]]
 
-On invitation from Lord Admiral, Kenton went with [Khriss](https://coppermind.net/wiki/Khriss "Khriss") to his party, where he learned that Delius intended to support him regardless of Vey's decision. After Khriss urged him to leave the party, the two of them stumbled on a collapsed construction site, where Kenton used his Sand Mastery to rescue the trapped workers. Having come to a realization, he returned to the Diem and begun to tell the other sand masters that they must begin to mend their public image by paying for their expenses and helping the common people. However, he was interrupted by Khriss seeking to learn sand mastery. As part of his new philosophy of how the sand masters should be run Kenton agreed to allow Khriss to join the Diem.[^11] [^12]
+On invitation from Lord Admiral, Kenton went with [[Khrissalla - The Coppermind|Khriss]] to his party, where he learned that Delius intended to support him regardless of Vey's decision. After Khriss urged him to leave the party, the two of them stumbled on a collapsed construction site, where Kenton used his Sand Mastery to rescue the trapped workers. Having come to a realization, he returned to the Diem and begun to tell the other sand masters that they must begin to mend their public image by paying for their expenses and helping the common people. However, he was interrupted by Khriss seeking to learn sand mastery. As part of his new philosophy of how the sand masters should be run Kenton agreed to allow Khriss to join the Diem.[^11] [^12]
 
 Kenton decided that since he had already visited all the Taishin he could, his only hope was to study everything in his father's library that related to them. He hoped to find some way to outsmart or bribe Lord Vey but initially met with little success. Kenton explained to Ais how the position of Lord Admiral functioned and concluded it was the cause of Lord Delius's drunkenness and extravagance.[^12]
 
@@ -76,7 +76,7 @@ Kenton went to get Khriss so that he could test her ability to sand master; afte
 
 Kenton returned to visit Lord Vey in the hope that he could find some way to get Lord Vey on his side. After being made to wait for a long time, Kenton loudly exclaimed that he expected Lord Vey to continue paying tribute to the Diem for the same reason as always. Upon hearing this Lord Vey invited Kenton into his office for a private meeting. In this meeting, Kenton pretended to know why Lord Vey had been paying tribute to the Diem and attempted to use this knowledge to blackmail Vey into voting for him. However, Vey realized that Kenton did not, in fact, know why the merchants guild had continued to pay tribute and refused to vote for him.[^12] [^13]
 
-After Vey refused to vote to maintain the Diem, Kenton went to a restaurant. There he discussed the morality of blackmailing Lord Vey with Aaric and Khriss. Aarik felt that because Vey had a poor moral character Kenton was justified in using whatever means were necessary. Khriss stated that scholars at the [Elisian University](https://coppermind.net/edit/Elisian_University?redlink=1 "Elisian University (page does not exist)") had debated whether someone is justified in committing a minor evil in pursuit of a greater good but that they had not come to a conclusion. The group was then attacked by Kerztian assassins. Kenton and Ais managed to kill most of them; one grabbed and threatened to kill Khriss if Kenton didn't surrender, but was killed by [[Jon Acron - The Coppermind|Jon Acron]]. Ais said she was surprised the assassins would attack that day as it violated the [KerKor](https://coppermind.net/wiki/KerKor "KerKor").[^13]
+After Vey refused to vote to maintain the Diem, Kenton went to a restaurant. There he discussed the morality of blackmailing Lord Vey with Aaric and Khriss. Aarik felt that because Vey had a poor moral character Kenton was justified in using whatever means were necessary. Khriss stated that scholars at the [Elisian University](https://coppermind.net/edit/Elisian_University?redlink=1 "Elisian University (page does not exist)") had debated whether someone is justified in committing a minor evil in pursuit of a greater good but that they had not come to a conclusion. The group was then attacked by Kerztian assassins. Kenton and Ais managed to kill most of them; one grabbed and threatened to kill Khriss if Kenton didn't surrender, but was killed by [[Jon Acron - The Coppermind|Jon Acron]]. Ais said she was surprised the assassins would attack that day as it violated the [[Ker'reen - The Coppermind|KerKor]].[^13]
 
 ## Notes
 

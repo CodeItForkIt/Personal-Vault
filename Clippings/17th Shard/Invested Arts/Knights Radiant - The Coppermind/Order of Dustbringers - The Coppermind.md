@@ -14,7 +14,7 @@ favicon: "/favicon.ico"
 
 > “ *Smoke curled from the occasional patches of growth or heaps of burning corpses. Even some sections of rock smoldered. The Dustbringers had done their work well.* ”
 > 
-> — [[Kalak - The Coppermind|Kalak's]] thoughts in the wake of [Aharietiam](https://coppermind.net/wiki/Aharietiam "Aharietiam") [^2]
+> — [[Kalak - The Coppermind|Kalak's]] thoughts in the wake of [[Last Desolation - The Coppermind|Aharietiam]] [^2]
 
 The **Order of Dustbringers** is an order of [[Knights Radiant - The Coppermind|Knights Radiant]] on [[Roshar - The Coppermind|Roshar]].[^3]
 
@@ -34,7 +34,7 @@ Most Dustbringers are tinkerers who like to take things apart to figure out how 
 
 ## Ideals of the Dustbringers
 
-The Ideals of the Knights Radiant, also known as the [Immortal Words](https://coppermind.net/wiki/Immortal_Words "Immortal Words"), are a set of rules by which the Radiants live. The First Ideal is shared by all of the orders, and is used as a motto for the Knights Radiant as a whole. The four remaining Ideals are unique to each order.[^9]
+The Ideals of the Knights Radiant, also known as the [[Knights Radiant - The Coppermind|Immortal Words]], are a set of rules by which the Radiants live. The First Ideal is shared by all of the orders, and is used as a motto for the Knights Radiant as a whole. The four remaining Ideals are unique to each order.[^9]
 
 The Ideals of the Order of Dustbringers all focus on responsibility and controlling one's power, and are designed to teach lessons about the nature of power and the responsibility that comes with it. Unlike members of most of the other orders, the Dustbringers cannot access all of their [[Surgebinding - The Coppermind|Surgebinding]] powers until they have sworn some of the higher oaths.[^5]
 
@@ -64,7 +64,7 @@ This oath focuses on mastering power itself.[^10] This includes Surgebinding, po
 
 ### The Fourth Ideal
 
-The specific words of this Ideal are individualized, but overarching themes are acknowledging that all power is accompanied by obligation, and that ignoring your responsibility can have dire consequences.[^10] Upon achieving this Ideal, a Dustbringer gains their [[Shardplate - The Coppermind|Shardplate]], which is formed of [flamespren](https://coppermind.net/wiki/Flamespren "Flamespren").[^12] [^11]
+The specific words of this Ideal are individualized, but overarching themes are acknowledging that all power is accompanied by obligation, and that ignoring your responsibility can have dire consequences.[^10] Upon achieving this Ideal, a Dustbringer gains their [[Shardplate - The Coppermind|Shardplate]], which is formed of [[Spren - The Coppermind|flamespren]].[^12] [^11]
 
 ## Abilities
 
@@ -72,7 +72,7 @@ Dustbringers can use the [[Surgebinding - The Coppermind|Surges]] of **Division*
 
 ### Division
 
-[[Surgebinding - The Coppermind|**Division**]] gives Dustbringers the ability to cause objects to burn, degrade, or turn to dust. They appear to have a great amount of control over this ability, as [[Malata - The Coppermind|Malata]] engraves a table using this Surge. Division also works on living flesh.[^4] Dustbringers do not have access to the Surge of Division until later Ideals.[^5] Restricting access to Surges based on oaths is rare among the orders and few do it. The only other order currently known to do so are the [Skybreakers](https://coppermind.net/wiki/Skybreakers "Skybreakers"), who also restrict the Surge of Division, but not their other surge.[^15]
+[[Surgebinding - The Coppermind|**Division**]] gives Dustbringers the ability to cause objects to burn, degrade, or turn to dust. They appear to have a great amount of control over this ability, as [[Malata - The Coppermind|Malata]] engraves a table using this Surge. Division also works on living flesh.[^4] Dustbringers do not have access to the Surge of Division until later Ideals.[^5] Restricting access to Surges based on oaths is rare among the orders and few do it. The only other order currently known to do so are the [[Order of Skybreakers - The Coppermind|Skybreakers]], who also restrict the Surge of Division, but not their other surge.[^15]
 
 ### Abrasion
 
@@ -80,7 +80,7 @@ Dustbringers can use the [[Surgebinding - The Coppermind|Surges]] of **Division*
 
 ### Shardplate Abilities
 
-Dustbringers' [[Shardplate - The Coppermind|Shardplate]] is formed of [flamespren](https://coppermind.net/wiki/Flamespren "Flamespren").[^1] [^12]
+Dustbringers' [[Shardplate - The Coppermind|Shardplate]] is formed of [[Spren - The Coppermind|flamespren]].[^1] [^12]
 
 ## History
 
@@ -90,7 +90,7 @@ Dustbringers' [[Shardplate - The Coppermind|Shardplate]] is formed of [flamespre
 
 ### The Ancient Radiants
 
-Before the [[Day of Recreance - The Coppermind|Day of Recreance]], many Dustbringers objected to the name of their order, as they felt it was too similar to " [Voidbringers](https://coppermind.net/wiki/Voidbringers "Voidbringers")," and encouraged others to instead call them "Releasers," [^3] [^5] though most people still referred to them as "Dustbringers".[^17] This naming preference may have been influenced by their spren, as [[Spark - The Coppermind|Spark]] apparently passed it on to [[Malata - The Coppermind|Malata]].[^18] The Dustbringers were often misjudged by people because of the destructive nature of their powers,[^3] and even some of their fellow Knights Radiant felt they were "on the edge of evil" and did not get along with them.[^19] [^20] The Skybreakers, who often made sure the Radiants didn't abuse their power,[^21] were particularly concerned about the Dustbringers, despite the fact that the two orders had much in common.[^19]
+Before the [[Day of Recreance - The Coppermind|Day of Recreance]], many Dustbringers objected to the name of their order, as they felt it was too similar to " [[Voidbringer - The Coppermind|Voidbringers]]," and encouraged others to instead call them "Releasers," [^3] [^5] though most people still referred to them as "Dustbringers".[^17] This naming preference may have been influenced by their spren, as [[Spark - The Coppermind|Spark]] apparently passed it on to [[Malata - The Coppermind|Malata]].[^18] The Dustbringers were often misjudged by people because of the destructive nature of their powers,[^3] and even some of their fellow Knights Radiant felt they were "on the edge of evil" and did not get along with them.[^19] [^20] The Skybreakers, who often made sure the Radiants didn't abuse their power,[^21] were particularly concerned about the Dustbringers, despite the fact that the two orders had much in common.[^19]
 
 Historically, the Dustbringers often functioned as sappers, engineers, and strategists for the Knights Radiant,[^5] [^7] though they were mainly used to cause widespread destruction.[^20] During the final battle of the [[Last Desolation - The Coppermind|Last Desolation]], they used their powers to great effect, resulting in burnt plants and corpses and smoldering rock.[^2] In one of [Dalinar's visions](https://coppermind.net/wiki/Dalinar%27s_visions "Dalinar's visions"), a Dustbringer and several of her squires hunted a [[Spren - The Coppermind|spren]] that had been corrupted by [[Sja-anat - The Coppermind|Sja-anat]], and then proceeded to fight a [[Thunderclast - The Coppermind|thunderclast]].[^13]
 

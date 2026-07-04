@@ -42,7 +42,7 @@ During Sigzil's stint in the bridge crews, Hoid had some reason to believe that 
 
 ## Trivia
 
-- There is a connection between Worldsingers, the [[Terris - The Coppermind|Terris]] [Worldbringers](https://coppermind.net/wiki/Worldbringers "Worldbringers"), and possibly other groups in the [[17th Shard|cosmere]].[^11] [^12] The similarity in their names is not a coincidence.[^13] [^12] Given Hoid's [worldhopping](https://coppermind.net/wiki/Worldhopping "Worldhopping") abilities, fans have speculated that he is the connection,[^12] but [Brandon](https://coppermind.net/wiki/Brandon "Brandon") has not confirmed this.
+- There is a connection between Worldsingers, the [[Terris - The Coppermind|Terris]] [Worldbringers](https://coppermind.net/wiki/Worldbringers "Worldbringers"), and possibly other groups in the [[17th Shard|cosmere]].[^11] [^12] The similarity in their names is not a coincidence.[^13] [^12] Given Hoid's [[17th Shard|worldhopping]] abilities, fans have speculated that he is the connection,[^12] but [Brandon](https://coppermind.net/wiki/Brandon "Brandon") has not confirmed this.
 - Brandon would consider himself akin to a Worldsinger.[^14]
 
 ## Notes

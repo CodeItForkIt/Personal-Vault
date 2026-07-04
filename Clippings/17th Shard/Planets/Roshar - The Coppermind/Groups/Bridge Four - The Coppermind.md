@@ -13,7 +13,7 @@ favicon: /favicon.ico
 ---
 ## Bridge Four
 
-**Bridge Four** is the name of a group headed by [Kaladin Stormblessed](https://coppermind.net/wiki/Kaladin_Stormblessed "Kaladin Stormblessed"), an Alethi [Knight Radiant](https://coppermind.net/wiki/Knight_Radiant "Knight Radiant") of the [[Order of Windrunners - The Coppermind|Order of Windrunners]]. The group was originally one of the [bridge crews](https://coppermind.net/wiki/Bridge_crew "Bridge crew") of the Sadeas warcamp in the [[Shattered Plains - The Coppermind|Shattered Plains]], hence the name, but its function has evolved over time, becoming both [[Dalinar Kholin - The Coppermind|Dalinar Kholin's]] honor guard as well as a military unit within a battalion of the Kholin army, then later becoming a group largely consisting of Kaladin's [squires](https://coppermind.net/wiki/Squire "Squire") and [[Knights Radiant - The Coppermind|Knights Radiant]] loyal to him. Despite such drastic changes, the members still refer to themselves by their original bridge crew name, and have even kept their old bridge with them.[^1]
+**Bridge Four** is the name of a group headed by [[Kaladin - The Coppermind|Kaladin Stormblessed]], an Alethi [[Knights Radiant - The Coppermind|Knight Radiant]] of the [[Order of Windrunners - The Coppermind|Order of Windrunners]]. The group was originally one of the [bridge crews](https://coppermind.net/wiki/Bridge_crew "Bridge crew") of the Sadeas warcamp in the [[Shattered Plains - The Coppermind|Shattered Plains]], hence the name, but its function has evolved over time, becoming both [[Dalinar Kholin - The Coppermind|Dalinar Kholin's]] honor guard as well as a military unit within a battalion of the Kholin army, then later becoming a group largely consisting of Kaladin's [[Knights Radiant - The Coppermind|squires]] and [[Knights Radiant - The Coppermind|Knights Radiant]] loyal to him. Despite such drastic changes, the members still refer to themselves by their original bridge crew name, and have even kept their old bridge with them.[^1]
 
 Their insignia, designed by Kaladin, is made up of the glyph *vev* (meaning the number four) suspended above the glyph *gesheh* (meaning bridge), stylized as a bridge spanning a chasm.[^2]
 
@@ -41,7 +41,7 @@ Gathering around campfire
 > 
 > —Kaladin to Teft on the marching off for the Battle of the Tower [^6]
 
-Kaladin, still unaware of his latent powers as a [Windrunner](https://coppermind.net/wiki/Windrunner "Windrunner"), managed to survive the bridge runs even after several weeks, and eventually decided to protect other members of Bridge Four and become their bridgeleader.[^5] Using both his medical and military knowledge, he quickly turned the crew around. His efforts in building morale and instilling discipline led to better organization.[^7] He found ways to treat wounded crew members, saving many lives.[^8] Soon enough Bridge Four was having the fewest casualties among the bridge crews. However due to Kaladin's selfish tactics in one particular battle, every other bridge crew suffered heavy casualties and the battle was lost due to Kaladin instructing his bridgemen to use their bridge as a shield. The other bridges were shot at more by the Parshendi. Kaladin's bridge was one of the only ones that made it to the chasm. Kaladin was punished by being left outside in the [[Highstorm - The Coppermind|Highstorm]], but Bridge Four remained by his side even upon his near death.[^9] During this time, they were sometimes refered to as the Order of Bone.[^10]
+Kaladin, still unaware of his latent powers as a [[Order of Windrunners - The Coppermind|Windrunner]], managed to survive the bridge runs even after several weeks, and eventually decided to protect other members of Bridge Four and become their bridgeleader.[^5] Using both his medical and military knowledge, he quickly turned the crew around. His efforts in building morale and instilling discipline led to better organization.[^7] He found ways to treat wounded crew members, saving many lives.[^8] Soon enough Bridge Four was having the fewest casualties among the bridge crews. However due to Kaladin's selfish tactics in one particular battle, every other bridge crew suffered heavy casualties and the battle was lost due to Kaladin instructing his bridgemen to use their bridge as a shield. The other bridges were shot at more by the Parshendi. Kaladin's bridge was one of the only ones that made it to the chasm. Kaladin was punished by being left outside in the [[Highstorm - The Coppermind|Highstorm]], but Bridge Four remained by his side even upon his near death.[^9] During this time, they were sometimes refered to as the Order of Bone.[^10]
 
 ### Escape Plan and Freedom
 
@@ -86,7 +86,7 @@ Initially they were given [Cobalt Guard](https://coppermind.net/wiki/Cobalt_Guar
 
 ### Squires and Radiants
 
-Members of Bridge Four started becoming Kaladin's [squires](https://coppermind.net/wiki/Squire "Squire") soon after he spoke the [[Order of Windrunners - The Coppermind#Third Ideal|Third Ideal of the Windrunners]].[^17] This gave them access to [[Stormlight - The Coppermind|Stormlight]] and the [Lashings](https://coppermind.net/wiki/Lashing "Lashing") (Surges of [Adhesion](https://coppermind.net/wiki/Adhesion "Adhesion") and [Gravitation](https://coppermind.net/wiki/Gravitation "Gravitation")). Because of this Dalinar considered them too important for guard duty, so that was given to other bridge crews instead.[^18]
+Members of Bridge Four started becoming Kaladin's [[Knights Radiant - The Coppermind|squires]] soon after he spoke the [[Order of Windrunners - The Coppermind#Third Ideal|Third Ideal of the Windrunners]].[^17] This gave them access to [[Stormlight - The Coppermind|Stormlight]] and the [[Surgebinding - The Coppermind|Lashings]] (Surges of [[Surgebinding - The Coppermind|Adhesion]] and [[Surgebinding - The Coppermind|Gravitation]]). Because of this Dalinar considered them too important for guard duty, so that was given to other bridge crews instead.[^18]
 
 From then on Bridge Four focused more on training their Surgebinding abilities, recruiting potential squires, and performing more crucial assignments for Dalinar. Their abilities disappeared whenever Kaladin was too far away, so Dalinar gave them the Windrunner [[Honorblade - The Coppermind|Honorblade]] to use for training in such cases.[^19]
 
@@ -102,7 +102,7 @@ by [Isaac Stewart](https://coppermind.net/wiki/Isaac_Stewart "Isaac Stewart")
 
 Bridge Four Tattoos
 
-Surviving members who've been in Bridge Four since the bridge crew days have [glyphs](https://coppermind.net/wiki/Glyph "Glyph") for "Freedom" and "Bridge Four" tattooed on their person. The "Freedom" glyph is usually a mark of a freed slave.
+Surviving members who've been in Bridge Four since the bridge crew days have [[Glyphs - The Coppermind|glyphs]] for "Freedom" and "Bridge Four" tattooed on their person. The "Freedom" glyph is usually a mark of a freed slave.
 
 ![[Bridge-Four---The-Coppermind-5.svg]]
 

@@ -34,7 +34,7 @@ The people of Sela Tales are called Selay. The Selay people have bronze skin and
 
 #### Writing and language
 
-The Selay spoke an ancient form of the Selay language.[^9] This language belongs to the The [[Iri - The Coppermind|Iri]] language family, which, alongside Selay, also contains the languages of the Iriali, [Rirans](https://coppermind.net/wiki/Riran "Riran") and the [Reshi](https://coppermind.net/wiki/Reshi "Reshi").[^10] [^4] The various [[Purelake - The Coppermind|Purelake]] dialects, and some other surrounding languages, were also part of this language family.[^11] The people of Sela Tales wrote in the [[Dawnchant - The Coppermind|Dawnchant]].[^12]
+The Selay spoke an ancient form of the Selay language.[^9] This language belongs to the The [[Iri - The Coppermind|Iri]] language family, which, alongside Selay, also contains the languages of the Iriali, [[Rira (country) - The Coppermind|Rirans]] and the [Reshi](https://coppermind.net/wiki/Reshi "Reshi").[^10] [^4] The various [[Purelake - The Coppermind|Purelake]] dialects, and some other surrounding languages, were also part of this language family.[^11] The people of Sela Tales wrote in the [[Dawnchant - The Coppermind|Dawnchant]].[^12]
 
 ## History
 
@@ -44,7 +44,7 @@ The land that would become known as Sela Tales was created at an unknown point b
 
 ### Pre-Human Arrival
 
-Before humanity arrived on Roshar from Ashyn, the land that would come to be known as Sela Tales was inhabited by [Singers](https://coppermind.net/wiki/Singers "Singers").[^17]
+Before humanity arrived on Roshar from Ashyn, the land that would come to be known as Sela Tales was inhabited by [[Singer - The Coppermind|Singers]].[^17]
 
 Circa -5825 in the Vorin calendar,[^18] [^19] humanity arrived on Roshar after fleeing Ashyn and were granted the land that would become [[Shin Kak Nish - The Coppermind|Shin Kak Nish]]. After less than a generation,[^20] they headed an invasion, slaughtering some of the Singers and expelling them from their land, claiming it as their own, this included the land that would come to be known as Sela Tales.[^17] This history was lost to man until the discovery of the [Eila Stele](https://coppermind.net/wiki/Eila_Stele "Eila Stele").[^17]
 
@@ -56,7 +56,7 @@ by [Isaac Stewart](https://coppermind.net/wiki/Coppermind:Artists/Isaac_Stewart 
 
 Map of the Silver Kingdoms
 
-Sela Tales was founded in the [[Silver Kingdoms - The Coppermind|Silver Kingdoms]] Epoch. Due to the Desolations, the Selay were constantly returned back to early technological levels, often to the point of having to make use of stone tools. Though they advanced each time with the help of the Heralds whenever they returned, often receiving this assistance from [[Kalak - The Coppermind|Kalak]] and his [Willshapers](https://coppermind.net/wiki/Willshapers "Willshapers").[^21] [^22] [^23] [^24] Old manuscripts and texts dating back to these times mention quick-spreading diseases in the east that killed tens of thousands, and it is likely that at least some of these diseases spread to Sela Tales.[^25]
+Sela Tales was founded in the [[Silver Kingdoms - The Coppermind|Silver Kingdoms]] Epoch. Due to the Desolations, the Selay were constantly returned back to early technological levels, often to the point of having to make use of stone tools. Though they advanced each time with the help of the Heralds whenever they returned, often receiving this assistance from [[Kalak - The Coppermind|Kalak]] and his [[Order of Willshapers - The Coppermind|Willshapers]].[^21] [^22] [^23] [^24] Old manuscripts and texts dating back to these times mention quick-spreading diseases in the east that killed tens of thousands, and it is likely that at least some of these diseases spread to Sela Tales.[^25]
 
 Very early in the nation's history, the city of [Panatham](https://coppermind.net/wiki/Panatham "Panatham") was created and made into its capital. Panatham was eventually made into the home of the Selay Oathgate.[^26]
 

@@ -15,7 +15,7 @@ favicon: /favicon.ico
 ---
 ## Roial
 
-Duke **Roial** of [Ial Plantation](https://coppermind.net/wiki/Ial_Plantation "Ial Plantation") was an old Arelene merchant and nobleman.
+Duke **Roial** of [[Arelon - The Coppermind|Ial Plantation]] was an old Arelene merchant and nobleman.
 
 ## Appearance and Personality
 
@@ -35,7 +35,7 @@ Roial's late wife [Eoldess](https://coppermind.net/wiki/Eoldess "Eoldess") died 
 
 Also prior to the Reod, he was the governor of [Iald](https://coppermind.net/wiki/Iald "Iald"), a port city. After the fall, he was the only Elantris-appointed official to remain in power.[^3] He supported King [[Iadon - The Coppermind|Iadon's]] rise to power and helped stabilize the new monarchy. As an old politician, he was involved in many schemes--one being supporting Prince [[Raoden - The Coppermind|Raoden]] privately against his father--but was ultimately concerned with the well-being of Arelon and felt guilty for helping Iadon in creating the "monstrosity" which was killing Arelon.[^7] [^3] After Raoden was taken by the Shaod and believed dead, his group which worked against Iadon in minor ways largely dissolved. Roial did agree to a final meeting in Kiin's house, where he met Princess Sarene.[^3] Sarene quickly took control of the group.
 
-When Princess [[Sarene - The Coppermind|Sarene]] arrived in Arelon, Roial was one of the richest men in Arelon, as his holdings included Iald, which was the second most wealthy city in the country. The only way Iadon stayed king was by including national tax revenue as his income.[^3] However, as Duke [Telrii](https://coppermind.net/wiki/Telrii "Telrii") started taking money from [[Hrathen - The Coppermind|Hrathen]] and the [Fjordell Empire](https://coppermind.net/wiki/Fjordell_Empire "Fjordell Empire"), Roial eventually became the third richest man in Arelon.
+When Princess [[Sarene - The Coppermind|Sarene]] arrived in Arelon, Roial was one of the richest men in Arelon, as his holdings included Iald, which was the second most wealthy city in the country. The only way Iadon stayed king was by including national tax revenue as his income.[^3] However, as Duke [Telrii](https://coppermind.net/wiki/Telrii "Telrii") started taking money from [[Hrathen - The Coppermind|Hrathen]] and the [[Fjorden - The Coppermind|Fjordell Empire]], Roial eventually became the third richest man in Arelon.
 
 After King Iadon committed suicide, Roial and Sarene tried to prevent Telrii (and, by association, Fjorden) from becoming king, and Sarene suggested that they marry. As Sarene inherited Raoden's fortune, they would have sufficient funds to defeat Telrii, and because Sarene had a connection to the throne, Roial's kingship would have some legitimacy. Roial was kind and respected Sarene greatly, assuring her that their marriage would be only political, and she would not have to perform in the bedroom. Roial's intent was that he would die in a few years and Sarene could have a new, younger husband.[^8] None of this planning ever came to pass, for at Roial and Sarene's wedding ceremony, Hrathen had poisoned Sarene, making her appear to be taken by the Shaod.[^4] [^9] As such, Sarene was thrown into Elantris and Telrii became king.[^10] [^11]
 

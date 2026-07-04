@@ -58,7 +58,7 @@ Kandra have the ability to shapeshift. However, in most cases, they only have th
 
 Especially skilled kandra are able to make their own adjustments to the shape of the creature they are taking. Although mimicking an existing unique individual or creature is most common, the most skilled kandra can use just a skull or set of bones to build a working structure to gain the ability to move around freely and communicate. Being without bones will make kandra unable to move fast, speak or form any proper shape, but doesn't affect their mental ability.[^20] Kandra can create bodies without a beating heart, which helps reduce caloric intake.[^21] They can crack simple locks by inserting part of their body into the mechanism.[^4] Kandra are capable of assuming smaller shapes, but losing too much mass will cause a kandra to be unable to maintain their intelligence.[^22] They are unable to divide their consciousness between multiple brains.[^21]
 
-Digesting the body of a former Shard's [Vessel](https://coppermind.net/wiki/Vessel "Vessel") might have some small physiological effect due to how the power altered the body.[^23]
+Digesting the body of a former Shard's [[Shards|Vessel]] might have some small physiological effect due to how the power altered the body.[^23]
 
 Kandra are known to be unmatched actors. Before assuming the role of a certain person, a kandra will spend a significant amount of time observing the individual in order to learn their mannerisms, history, and relationships. As a result, it is almost impossible to tell a kandra apart from the actual individual they are impersonating. Wearing a body can influence how a kandra acts, such as wearing a dog's body causing them to adopt dog-like mannerisms.[^24] However, this is not caused by following the [[Spiritual Realm - The Coppermind|Spiritual]] ideal of the body they are wearing.[^25] It is possible for a kandra to take the bones of a child and grow up as that child; kandra have likely done this before.[^26]
 
@@ -68,19 +68,19 @@ In combat, kandra can form powerful muscles and heal most wounds immediately, ut
 
 There are four known Blessings available to make a kandra. Each Blessing will grant mistwraiths sentience and convert them into kandra, but they also have additional benefits.[^28] The Blessing comes from the effect that the Hemalurgic spike steals.[^29] They are typically slender, and less than three inches long.[^4]
 
-[Blessing of Awareness](https://coppermind.net/wiki/Blessing_of_Awareness "Blessing of Awareness")
+[[Tin - The Coppermind|Blessing of Awareness]]
 
 A pair of [[Tin - The Coppermind|tin]] spikes that grant a kandra increased senses, similar to Allomantically burning tin.[^28] [^30] [^29]
 
-[Blessing of Potency](https://coppermind.net/wiki/Blessing_of_Potency "Blessing of Potency")
+[[Iron - The Coppermind|Blessing of Potency]]
 
 A pair of [[Iron - The Coppermind|iron]] spikes that give a kandra more strength, like that of an Allomancer burning [[Pewter - The Coppermind|pewter]].[^28] [^30] [^29] It is not exactly the same effect, however; it does not grant the limitless energy received from burning pewter.
 
-[Blessing of Presence](https://coppermind.net/wiki/Blessing_of_Presence "Blessing of Presence")
+[[Copper - The Coppermind|Blessing of Presence]]
 
 A pair of [[Copper - The Coppermind|copper]] spikes that grant increased mental capability.[^28] [^30] [^29] This capability includes the ability to focus despite physical discomfort or distraction, exceptionally sharp memory, resistance to madness, and the inability to lapse into unconsciousness due to shock.[^20] [^31] This Blessing also counters at least some of the mental weakness that is caused by Hemalurgy; kandra with this Blessing are much less vulnerable to being controlled by Ruin than others.[^32]
 
-[Blessing of Stability](https://coppermind.net/wiki/Blessing_of_Stability "Blessing of Stability")
+[[Zinc - The Coppermind|Blessing of Stability]]
 
 A pair of [[Zinc - The Coppermind|zinc]] spikes that endows its receiver with emotional fortitude, rendering them much more resistant to control by emotional Allomancy.[^28] [^30] [^29] This Blessing was rarely used.[^33]
 
@@ -96,7 +96,7 @@ Kandra are naturally immune to emotional Allomancy,[^42] but an exceptionally st
 
 Kandra can get access to Allomancy through Hemalurgy [^44] or [[Lerasium - The Coppermind|lerasium]].[^45]
 
-It is possible for a kandra to become a [Knight Radiant](https://coppermind.net/wiki/Knight_Radiant "Knight Radiant"), if they manage to convince a [[Spren - The Coppermind|spren]] to [[Nahel bond - The Coppermind|bond]] with them.[^46]
+It is possible for a kandra to become a [[Knights Radiant - The Coppermind|Knight Radiant]], if they manage to convince a [[Spren - The Coppermind|spren]] to [[Nahel bond - The Coppermind|bond]] with them.[^46]
 
 Despite the fact that kandra are [[Investiture - The Coppermind|Invested]], they are still able to worldhop.[^47] [^48] [^49]
 
@@ -161,7 +161,7 @@ The kandra initially believe that they are of [[Preservation - The Coppermind|Pr
 ## Trivia
 
 - The Blessing of Stability is rarely used because Brandon added it late in the development of *[The Hero of Ages](https://coppermind.net/wiki/The_Hero_of_Ages "The Hero of Ages")*, after realizing that the structure of the powers of metals in [[Hemalurgy - The Coppermind|Hemalurgy]] required a second mental Blessing.[^33]
-- At least one unidentified kandra is a [worldhopper](https://coppermind.net/wiki/Worldhopper "Worldhopper"), and has made an appearance in [Oathbringer](https://coppermind.net/wiki/Oathbringer "Oathbringer").[^49] They are not an agent of Harmony.[^59]
+- At least one unidentified kandra is a [[17th Shard|worldhopper]], and has made an appearance in [Oathbringer](https://coppermind.net/wiki/Oathbringer "Oathbringer").[^49] They are not an agent of Harmony.[^59]
 
 ## Notes
 

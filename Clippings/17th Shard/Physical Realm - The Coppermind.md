@@ -12,7 +12,7 @@ favicon: "/favicon.ico"
 ---
 ## Physical Realm
 
-The **Physical Realm** is the realm of existence in the [[17th Shard|cosmere]] that contains what is perceivable to the physical senses.[^1] Of the three [[Realmatic Theory, Miscellaneous|Realms]], it is the most readily understood. It is made out of a very large number of [axi](https://coppermind.net/wiki/Axi "Axi").<sup><i><a href="https://coppermind.net/wiki/Help:Cite" title="Help:Cite">[citation needed]</a></i></sup>
+The **Physical Realm** is the realm of existence in the [[17th Shard|cosmere]] that contains what is perceivable to the physical senses.[^1] Of the three [[Realmatic Theory, Miscellaneous|Realms]], it is the most readily understood. It is made out of a very large number of [[Axon - The Coppermind|axi]].<sup><i><a href="https://coppermind.net/wiki/Help:Cite" title="Help:Cite">[citation needed]</a></i></sup>
 
 The cosmere is a large star cluster within a dwarf galaxy,[^2] [^3] or potentially a galaxy in of itself,[^4] or the universe.[^5] [^6] [^7] [^8] Galaxies are organized into galactic clusters, which are themselves organized into galactic superclusters.[^2] This article lists all the known celestial bodies in the cosmere as they appear in the Physical Realm, including planets, stars and moons.
 
@@ -30,7 +30,7 @@ Donne is the closest planet to the sun. While it is in a habitable region, it is
 
 *Main article:* [[Sel - The Coppermind|Sel]]
 
-The second planet from the sun, Sel is an Earth-like planet inhabited by humans and artificially created beings called [[Seon - The Coppermind|seons]] and [[Skaze - The Coppermind|skaze]]. The planet was the location of [Elantris](https://coppermind.net/wiki/Elantris_\(book\) "Elantris (book)"). Sel was dominated by the [Fjordell Empire](https://coppermind.net/wiki/Fjordell_Empire "Fjordell Empire"), with [[Arelon - The Coppermind|Arelon]] and [[Teod - The Coppermind|Teod]] being the only remaining free nations. All these nations (except Teod which is located on a continent to the north) were situated on the continent of Opelon (named Sycla by the Fjordell Empire).[^9] [^10] Sel is also notable as, in the [[Cognitive Realm - The Coppermind|Cognitive Realm]], the shattered remnants of [[Devotion - The Coppermind|Devotion]] and [[Dominion - The Coppermind|Dominion]] have mingled to form the [[Dor - The Coppermind|Dor]], which results in Sel having a great variety of [[Invested Arts]], which are primarily form-based.[^9]
+The second planet from the sun, Sel is an Earth-like planet inhabited by humans and artificially created beings called [[Seon - The Coppermind|seons]] and [[Skaze - The Coppermind|skaze]]. The planet was the location of [Elantris](https://coppermind.net/wiki/Elantris_\(book\) "Elantris (book)"). Sel was dominated by the [[Fjorden - The Coppermind|Fjordell Empire]], with [[Arelon - The Coppermind|Arelon]] and [[Teod - The Coppermind|Teod]] being the only remaining free nations. All these nations (except Teod which is located on a continent to the north) were situated on the continent of Opelon (named Sycla by the Fjordell Empire).[^9] [^10] Sel is also notable as, in the [[Cognitive Realm - The Coppermind|Cognitive Realm]], the shattered remnants of [[Devotion - The Coppermind|Devotion]] and [[Dominion - The Coppermind|Dominion]] have mingled to form the [[Dor - The Coppermind|Dor]], which results in Sel having a great variety of [[Invested Arts]], which are primarily form-based.[^9]
 
 #### Moons
 
@@ -68,7 +68,7 @@ It is orbited by a single moon known as **Nizh Da**.
 
 ### The Eye of Ridos
 
-The **Eye of Ridos** is a weak white dwarf star surrounded by a particulate ring. It is the primary source of light and radiation for [Darkside](https://coppermind.net/wiki/Darkside "Darkside").[^13]
+The **Eye of Ridos** is a weak white dwarf star surrounded by a particulate ring. It is the primary source of light and radiation for [[Taldain - The Coppermind|Darkside]].[^13]
 
 Every seven days, it sends out a pulse of [[Investiture - The Coppermind|Investiture]] which Invests the [Starcarved](https://coppermind.net/wiki/Starcarved "Starcarved").[^13]
 
@@ -132,7 +132,7 @@ Roshar has three moons. The first moon is Salas. It is violet, and is the smalle
 
 Braize is the third planet from the sun. [[Odium - The Coppermind|Odium]] settled on Braize, although he is still affecting [[Roshar - The Coppermind|Roshar]]. Braize is unlikely to get its own books, but scenes from [The Stormlight Archive](https://coppermind.net/wiki/The_Stormlight_Archive "The Stormlight Archive") will be set on Braize.<sup><i><a href="https://coppermind.net/wiki/Help:Cite" title="Help:Cite">[citation needed]</a></i></sup>
 
-Braize is known to the [Vorin](https://coppermind.net/wiki/Vorin "Vorin") people as [Damnation](https://coppermind.net/wiki/Damnation "Damnation").
+Braize is known to the [[Vorinism - The Coppermind|Vorin]] people as [Damnation](https://coppermind.net/wiki/Damnation "Damnation").
 
 ## The Nalthian System
 

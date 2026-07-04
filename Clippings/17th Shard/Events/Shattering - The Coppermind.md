@@ -16,7 +16,7 @@ aliases:
 
 > “ *Sixteen people, together, killed Adonalsium, ripping it apart and dividing its essence between them, becoming the first who Ascended.* ”
 > 
-> — [Khriss](https://coppermind.net/wiki/Khriss "Khriss") on the Shattering [^1]
+> — [[Khrissalla - The Coppermind|Khriss]] on the Shattering [^1]
 
 The **Shattering of [[Adonalsium - The Coppermind|Adonalsium]]** (or simply the **Shattering**) was a pivotal moment in the history of the [[17th Shard|cosmere]]. Adonalsium, an entity of immense power considered to be the creator of the cosmere,[^2] was killed using the [[Dawnshard - The Coppermind|Dawnshards]].[^1] [^3] [^4] It was shattered into what became known as [[Shards]] of Adonalsium, sixteen godlike powers that have been the dominant influence in the cosmere since they were taken up by [[Yolen - The Coppermind|Yolish]] co-conspirators in the plot.[^5] The Shattering took place over ten thousand years before the [[The Coppermind Wiki - 17th Shard, the Official Brandon Sanderson Fansite 2|True Desolation]].[^6] [^7] [^8]
 
@@ -49,7 +49,7 @@ It is not clear how different the cosmere was prior to the Shattering, but the S
 
 > “ *The words that proclaim, in bald-faced arrogance, "I don't trust you to make your own decisions." (..) I said them with sixteen other people, in fact.* ”
 > 
-> — [Midius](https://coppermind.net/wiki/Midius "Midius") [^13]
+> — [[Hoid - The Coppermind|Midius]] [^13]
 
 For a list of all Shards, including current and past Vessels, see [[Shards|Known Shards]].
 

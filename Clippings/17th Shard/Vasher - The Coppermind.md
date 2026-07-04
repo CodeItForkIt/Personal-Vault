@@ -32,15 +32,15 @@ During most of the [[Pahn Kahl rebellion - The Coppermind|Pahn Kahl rebellion]],
 
 As a Returned, he can change his appearance at will.[^8] When he wants to show his Returned form to [[Susebron - The Coppermind|Susebron]], for example, he becomes taller, muscular, and clean-shaven; his hair color becomes golden and he displays a color-enhancing aura.[^9]
 
-On [[Roshar - The Coppermind|Roshar]] he also appears long-haired, and he wears a short but scruffy black beard.[^10] His hair is a deep chestnut color.[^11] He wears loose tan clothing tied with ropes, with a robust build and a scar on his cheek. His eyes "seem old", but his skin doesn't seem wrinkled enough to match them. He has a low, scratchy, grinding voice.[^10] He becomes a swordmaster and joins the [ardents](https://coppermind.net/wiki/Ardent "Ardent"), though he knows he is not good at this second job.[^12] He uses exclamations and phrases involving colors, which often confuse the Rosharans.[^13]
+On [[Roshar - The Coppermind|Roshar]] he also appears long-haired, and he wears a short but scruffy black beard.[^10] His hair is a deep chestnut color.[^11] He wears loose tan clothing tied with ropes, with a robust build and a scar on his cheek. His eyes "seem old", but his skin doesn't seem wrinkled enough to match them. He has a low, scratchy, grinding voice.[^10] He becomes a swordmaster and joins the [[Vorinism - The Coppermind|ardents]], though he knows he is not good at this second job.[^12] He uses exclamations and phrases involving colors, which often confuse the Rosharans.[^13]
 
 ## Attributes and Abilities
 
 ### Returned
 
-As a Returned, Vasher has a Divine [Breath](https://coppermind.net/wiki/Breath "Breath"), making him automatically of the Fifth [[Heightening - The Coppermind|Heightening]].[^14] However, over the years he has learned to give away all of his Breath except for the one divine Breath that keeps him alive. As long as he has that one Breath (which he’s learned to suppress and hide), he can stay alive.[^15]
+As a Returned, Vasher has a Divine [[BioChromatic Breath - The Coppermind|Breath]], making him automatically of the Fifth [[Heightening - The Coppermind|Heightening]].[^14] However, over the years he has learned to give away all of his Breath except for the one divine Breath that keeps him alive. As long as he has that one Breath (which he’s learned to suppress and hide), he can stay alive.[^15]
 
-On Roshar, he uses [[Stormlight - The Coppermind|Stormlight]] to keep himself alive. Though he cannot use it to [[Awakening - The Coppermind|Awaken]],[^16] he can still sense people.[^13] He can draw [[Investiture - The Coppermind|Investiture]] from [[Highstorm - The Coppermind|highstorms]],[^17] but doesn't have access to [[Surgebinding - The Coppermind|Surgebinding]].[^18] The method he uses involves the gap in his [[Spiritweb - The Coppermind|spiritweb]] left by his [divine Breath](https://coppermind.net/wiki/Divine_Breath "Divine Breath").[^19]
+On Roshar, he uses [[Stormlight - The Coppermind|Stormlight]] to keep himself alive. Though he cannot use it to [[Awakening - The Coppermind|Awaken]],[^16] he can still sense people.[^13] He can draw [[Investiture - The Coppermind|Investiture]] from [[Highstorm - The Coppermind|highstorms]],[^17] but doesn't have access to [[Surgebinding - The Coppermind|Surgebinding]].[^18] The method he uses involves the gap in his [[Spiritweb - The Coppermind|spiritweb]] left by his [[BioChromatic Breath - The Coppermind|divine Breath]].[^19]
 
 ### Awakening
 
@@ -64,7 +64,7 @@ Vasher is a very skilled swordsman, with three hundred years of practice along w
 
 Vasher was born on Nalthis [^28] and eventually died and Returned. Like other Returned, he cannot remember anything of his life from before his Return. After he Returned, the [Cult of the Returned](https://coppermind.net/wiki/Cult_of_the_Returned "Cult of the Returned") named him Warbreaker the Peaceful and kept him alive by giving him Breath.[^8]
 
-He formed the [[Five Scholars - The Coppermind|Five Scholars]], along with the other Returned [[Denth - The Coppermind|Denth]], [[Arsteel - The Coppermind|Arsteel]], [Shashara](https://coppermind.net/wiki/Shashara "Shashara"), and [[Yesteel - The Coppermind|Yesteel]]. Vasher (then known as Talaxin) and [Shashara](https://coppermind.net/wiki/Shashara "Shashara") created Nightblood some time after returning from [Worldhopping](https://coppermind.net/wiki/Worldhopping "Worldhopping") [^30] to [[Roshar - The Coppermind|Roshar]],[^31] [^32] among other things, while they were both in love. He married Shashara shortly before he slew her with Nightblood. He killed her in order to prevent the knowledge of its creation from being disseminated.[^33]
+He formed the [[Five Scholars - The Coppermind|Five Scholars]], along with the other Returned [[Denth - The Coppermind|Denth]], [[Arsteel - The Coppermind|Arsteel]], [Shashara](https://coppermind.net/wiki/Shashara "Shashara"), and [[Yesteel - The Coppermind|Yesteel]]. Vasher (then known as Talaxin) and [Shashara](https://coppermind.net/wiki/Shashara "Shashara") created Nightblood some time after returning from [[17th Shard|Worldhopping]] [^30] to [[Roshar - The Coppermind|Roshar]],[^31] [^32] among other things, while they were both in love. He married Shashara shortly before he slew her with Nightblood. He killed her in order to prevent the knowledge of its creation from being disseminated.[^33]
 
 ### The Manywar and Aftermath
 
@@ -90,7 +90,7 @@ At some point, Vasher misinterpreted Arsteel's motives in joining with Denth and
 
 Vasher used a trick to get himself imprisoned in the God King's palace. He escaped his cell and visited a rebel called [Vahr](https://coppermind.net/wiki/Vahr "Vahr"). Vahr gave Vasher his Breath in exchange for a merciful death.[^38]
 
-Vasher found through a priest there was a political Hallandren group pushing for war against Idris, where the exiled royals lived.[^39] Looking for more information on the faction involved, he met with [Bluefingers](https://coppermind.net/wiki/Bluefingers "Bluefingers"),[^40] who gave him information that led him into the home of Mercystar, a Returned who was known for her involvement in politics, yet not all that influential. He broke into her palace; after disabling some guards and creating a Lifeless squirrel as a distraction, he was able to find a secret trapdoor.[^41]
+Vasher found through a priest there was a political Hallandren group pushing for war against Idris, where the exiled royals lived.[^39] Looking for more information on the faction involved, he met with [[Havarseth - The Coppermind|Bluefingers]],[^40] who gave him information that led him into the home of Mercystar, a Returned who was known for her involvement in politics, yet not all that influential. He broke into her palace; after disabling some guards and creating a Lifeless squirrel as a distraction, he was able to find a secret trapdoor.[^41]
 
 He found Vivenna was inadvertently working with Denth to create disturbances and vandalize the city, which was making the movement for war stronger. Because of this, he kidnapped Vivenna and took her to one of the slums, where he forced her to take Nightblood to test her heart. As Nightblood cannot tempt the hearts of those who are pure, she felt sick and dropped the sword, thereby passing the test and gaining his protection. She still believed, however, that Denth and his team were on her side and ran back to them, only to find out they were not what they seemed.[^42] Vivenna ran from them and ended up on the streets; eventually, Vasher found her and rescued her, using Nightblood to kill thugs who were threatening her.[^43]
 
@@ -116,7 +116,7 @@ The Lifeless were destroyed, and only a couple of the Phantoms were lost.[^50] V
 
 Vasher moved to Roshar, the only planet he had been to besides Nalthis.[^51] His main purpose in returning to Roshar was to have easier access to the [[Investiture - The Coppermind|Investiture]], in the form of [[Stormlight - The Coppermind|Stormlight]], that he needed in order to survive.[^52] [^53] He partially walked and partially took a vehicle to get from Nalthis to Roshar,[^54] making use of a caravan running between the two planets.[^55] He took on the name **Zahel**; he intentionally chose a name similar to the word " [[Nahel bond - The Coppermind|Nahel]] ", which means "connection to the divine" in Alethi, to hint at his Returned nature.[^56] Zahel became aware of the [[Purelake - The Coppermind|Purelake]] at some point and told Nightblood about it and its "magic fish", though it is not known whether that happened during this trip or an earlier one.[^57] Due to a "falling out," Vasher was separated from Nightblood after arriving at Roshar.[^58] [^59]
 
-At some point, [[Gavilar Kholin - The Coppermind|Gavilar]] recruited him as a scholar, viewing him as a valued, secret possession. It was Zahel who provided him with the sphere of [anti-Voidlight](https://coppermind.net/wiki/Anti-Voidlight "Anti-Voidlight") that would pass on to [[Szeth - The Coppermind|Szeth]] after he assassinated the king.[^60]
+At some point, [[Gavilar Kholin - The Coppermind|Gavilar]] recruited him as a scholar, viewing him as a valued, secret possession. It was Zahel who provided him with the sphere of [[Lights|anti-Voidlight]] that would pass on to [[Szeth - The Coppermind|Szeth]] after he assassinated the king.[^60]
 
 During the [[War of Reckoning - The Coppermind|War of Reckoning]], he served as ardent and swordmaster in the Kholin warcamp. With encouragement from Adolin, whom he had trained before,[^61] he became the swordmaster for Renarin Kholin.[^10]
 
@@ -148,7 +148,7 @@ Vivenna is turned against Vasher by Denth,[^1] [^67] an impression that is reinf
 
 Shashara works with Vasher and the rest of the Five Scholars in their research into Awakening. They eventually fall in love and get married.[^33]
 
-She draws Nightblood at the [Battle of Twilight Falls](https://coppermind.net/wiki/Battle_of_Twilight_Falls "Battle of Twilight Falls"), horrifying Vasher with the result.[^33] She reveals the commands for creating Lifeless with a single Breath [^47] and wants to reveal the method used to create Nightblood as well, both of which Vasher opposes; they fight and he kills her using Nightblood to prevent more such abominations from being created.[^33]
+She draws Nightblood at the [[Manywar - The Coppermind|Battle of Twilight Falls]], horrifying Vasher with the result.[^33] She reveals the commands for creating Lifeless with a single Breath [^47] and wants to reveal the method used to create Nightblood as well, both of which Vasher opposes; they fight and he kills her using Nightblood to prevent more such abominations from being created.[^33]
 
 ### Nightblood
 
@@ -257,7 +257,7 @@ This article is still missing information. Please help The Coppermind by [expand
 [^29]: [Arcanum Unbounded Chicago signing](https://wob.coppermind.net/entry/1548 "wob:1548")  
 — [Arcanum](https://coppermind.net/wiki/Arcanum "Arcanum") - 2016-12-06 [#](https://coppermind.net/wiki/Special:WhatLinksHere/Cite:_Arcanum-1548 "Special:WhatLinksHere/Cite: Arcanum-1548")
 
-[^30]: It is known that Shashara is a [Worldhopper](https://coppermind.net/wiki/Worldhopper "Worldhopper") [^29] but not whether she accompanied Vasher to Roshar.
+[^30]: It is known that Shashara is a [[17th Shard|Worldhopper]] [^29] but not whether she accompanied Vasher to Roshar.
 
 [^31]: [Holiday signing](https://wob.coppermind.net/entry/3211 "wob:3211")  
 — [Arcanum](https://coppermind.net/wiki/Arcanum "Arcanum") - 2015-12-12 [#](https://coppermind.net/wiki/Special:WhatLinksHere/Cite:_Arcanum-3211 "Special:WhatLinksHere/Cite: Arcanum-3211")

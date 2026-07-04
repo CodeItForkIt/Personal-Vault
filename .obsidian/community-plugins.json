@@ -4,7 +4,6 @@
   "editing-toolbar",
   "obsidian-excalidraw-plugin",
   "folder-notes",
-  "obsidian-git",
   "obsidian-icon-folder",
   "pseudo-mica",
   "paste-image-into-property",
@@ -13,5 +12,13 @@
   "calendar",
   "make-md",
   "obsidian-view-mode-by-frontmatter",
-  "obsidian-bulk-rename-plugin"
+  "obsidian-bulk-rename-plugin",
+  "frontmatter-markdown-links",
+  "metadata-icon",
+  "note-favicon",
+  "mtg-decklist",
+  "auto-download-images-after-web-clipping",
+  "clipping-link-resolver",
+  "obsidian-local-rest-api",
+  "file-tree-alternative"
 ]

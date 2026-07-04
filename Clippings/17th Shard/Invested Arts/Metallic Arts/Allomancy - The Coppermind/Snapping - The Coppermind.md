@@ -15,7 +15,7 @@ favicon: /favicon.ico
 
 **Snapping** is the process by which someone gains the powers of [[Allomancy - The Coppermind|Allomancy]] on [[Scadrial - The Coppermind|Scadrial]].
 
-Snapping commonly occurs when a Misting or Mistborn undergoes heavy stress and pain, often in a near-death situation, causing them to trigger latent Allomantic abilities. According to [[Realmatic Theory, Miscellaneous|Realmatic Theory]], this creates a crack on the soul which the power can fit into. There are some similarities to this in other magic systems, such as the [[Knights Radiant - The Coppermind|Knights Radiant]] all being "broken" as indicated by [Syl](https://coppermind.net/wiki/Syl "Syl").[^1] [^2]
+Snapping commonly occurs when a Misting or Mistborn undergoes heavy stress and pain, often in a near-death situation, causing them to trigger latent Allomantic abilities. According to [[Realmatic Theory, Miscellaneous|Realmatic Theory]], this creates a crack on the soul which the power can fit into. There are some similarities to this in other magic systems, such as the [[Knights Radiant - The Coppermind|Knights Radiant]] all being "broken" as indicated by [[Sylphrena - The Coppermind|Syl]].[^1] [^2]
 
 In the [[Final Empire - The Coppermind|Final Empire]], children of confirmed noble bloodlines often undergo a planned beating as a test to see if they Snap. Later, however, the mists cause sickness in people, triggering their own Snapping; this process is started by [[Preservation - The Coppermind|Preservation]], but is manipulated by [[Ruin - The Coppermind|Ruin]] into killing people, thus raising superstitions about the mists being dangerous.
 
@@ -23,7 +23,7 @@ The length of time a person has "mist sickness" relates to their Allomantic powe
 
 During the time the mists are Snapping people in [The Hero of Ages](https://coppermind.net/wiki/The_Hero_of_Ages "The Hero of Ages"), they also raise the Allomantic potential of the people they Snap so that exactly 16% are Snapped.[^3] The number is a hint left by Preservation for humans to understand.
 
-At some point after the [Final Ascension](https://coppermind.net/wiki/Final_Ascension "Final Ascension"), [[Harmony - The Coppermind|Harmony]] is disturbed by the process of Snapping and alters the way it operates, but it is not clear how Snapping works now.[^4] [^5]
+At some point after the [[Catacendre - The Coppermind|Final Ascension]], [[Harmony - The Coppermind|Harmony]] is disturbed by the process of Snapping and alters the way it operates, but it is not clear how Snapping works now.[^4] [^5]
 
 ## Known Snappings
 

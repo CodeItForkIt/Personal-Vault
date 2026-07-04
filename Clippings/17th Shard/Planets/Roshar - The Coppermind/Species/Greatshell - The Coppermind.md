@@ -13,7 +13,7 @@ favicon: /favicon.ico
 ---
 ## Greatshell
 
-**Greatshell** is a term used to describe various large crustaceans native to [[Roshar - The Coppermind|Roshar]]. The family includes numerous related species,[^1] among them [[Chasmfiend - The Coppermind|chasmfiends]], [[Tai-na - The Coppermind|Tai-na]], [Yu-nerig](https://coppermind.net/wiki/Yu-nerig "Yu-nerig"), and the extinct [lanceryn](https://coppermind.net/wiki/Lanceryn "Lanceryn").[^2] [^3] [^4]
+**Greatshell** is a term used to describe various large crustaceans native to [[Roshar - The Coppermind|Roshar]]. The family includes numerous related species,[^1] among them [[Chasmfiend - The Coppermind|chasmfiends]], [[Tai-na - The Coppermind|Tai-na]], [Yu-nerig](https://coppermind.net/wiki/Yu-nerig "Yu-nerig"), and the extinct [[Lancer - The Coppermind|lanceryn]].[^2] [^3] [^4]
 
 ## Appearance and Anatomy
 
@@ -25,12 +25,12 @@ Greatshells breed slowly, and for most species, their populations are generally 
 
 The greatshells maintain their enormous size through [[Nahel bond - The Coppermind|Nahel bonds]] with [mandras](https://coppermind.net/wiki/Mandra "Mandra"), a type of [[Spren - The Coppermind|spren]] also known as 'luckspren'.[^10] Mandras decrease the animal's weight, allowing them to exist and move their bulk in defiance of the [square-cube law](https://en.wikipedia.org/wiki/square-cube_law "wikipedia:square-cube law").[^11] To facilitate this bond, greatshells possess [[Gemheart - The Coppermind|gemhearts]], massive gemstones, within their bodies that the spren can enter.[^12] The type of [[Polestone - The Coppermind|polestone]] may vary in some species, while it is consistent in others.[^13] The size of the gemheart scales up with the size of the animal.[^14] Due to the buoyancy of water, the largest greatshells are aquatic,[^15] and it is possible that some aquatic greatshells can survive without a spren bond.[^16]
 
-Gemhearts hold great value, and greatshells are often hunted; some species, like the [lanceryn](https://coppermind.net/wiki/Lanceryn "Lanceryn") and [[Chasmfiend - The Coppermind|chasmfiends]], have been hunted down to extinction or near-extinction over their gemhearts.[^2]
+Gemhearts hold great value, and greatshells are often hunted; some species, like the [[Lancer - The Coppermind|lanceryn]] and [[Chasmfiend - The Coppermind|chasmfiends]], have been hunted down to extinction or near-extinction over their gemhearts.[^2]
 
 ## Known greatshell species
 
 - [[Chasmfiend - The Coppermind|Chasmfiend]]
-- [Lanceryn](https://coppermind.net/wiki/Lanceryn "Lanceryn")
+- [[Lancer - The Coppermind|Lanceryn]]
 - [[Tai-na - The Coppermind|Tai-na]]
 - [Yu-nerig](https://coppermind.net/wiki/Yu-nerig "Yu-nerig")
 - [Yu-thorak](https://coppermind.net/wiki/Yu-thorak "Yu-thorak")

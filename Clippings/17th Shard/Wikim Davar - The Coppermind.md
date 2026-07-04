@@ -12,13 +12,13 @@ favicon: "/favicon.ico"
 ---
 ## Wikim Davar
 
-**Tet Wikim Davar** is a [lighteyed](https://coppermind.net/wiki/Lighteyed "Lighteyed") [Veden](https://coppermind.net/wiki/Veden "Veden") on [[Roshar - The Coppermind|Roshar]], son of [Brightness Davar](https://coppermind.net/wiki/Shallan%27s_mother "Shallan's mother") and [Lin Davar](https://coppermind.net/wiki/Lin_Davar "Lin Davar").[^2] [^3]
+**Tet Wikim Davar** is a [[Lighteyes - The Coppermind|lighteyed]] [Veden](https://coppermind.net/wiki/Veden "Veden") on [[Roshar - The Coppermind|Roshar]], son of [Brightness Davar](https://coppermind.net/wiki/Shallan%27s_mother "Shallan's mother") and [Lin Davar](https://coppermind.net/wiki/Lin_Davar "Lin Davar").[^2] [^3]
 
 His siblings are [[Helaran Davar - The Coppermind|Helaran]], [[Balat Davar - The Coppermind|Balat]], his younger twin [[Jushu Davar - The Coppermind|Jushu]], and [[Shallan Davar - The Coppermind|Shallan]].
 
 ## Appearance and Personality
 
-Wikim Davar is the older twin and third son of the Davar family. Wikim is slender, pale, spindly, and with sunken eyes.[^1] His hair is cut so short he almost looked like an [ardent](https://coppermind.net/wiki/Ardent "Ardent").[^4] He shares some resemblance to his twin [[Jushu Davar - The Coppermind|Jushu]], but they would not be mistaken for one another.[^1]
+Wikim Davar is the older twin and third son of the Davar family. Wikim is slender, pale, spindly, and with sunken eyes.[^1] His hair is cut so short he almost looked like an [[Vorinism - The Coppermind|ardent]].[^4] He shares some resemblance to his twin [[Jushu Davar - The Coppermind|Jushu]], but they would not be mistaken for one another.[^1]
 
 After his mother's death Wikim probably suffers from depression: he is so thin he looks sickly, he rarely talks or smiles, and he has suicidal thoughts.[^4] [[Shallan Davar - The Coppermind|Shallan]] helps him get out of the depression by pushing his interest in math.[^1] After this, Wikim starts laughing again and becomes more interested in his studies. He even talks of becoming an ardent.[^5] [^6] He is not the affectionate type and always complains about hugs.[^7] One of his prominent personality traits is that he is thoughtful.[^8]
 
@@ -34,7 +34,7 @@ by [zoethatcher art](https://coppermind.net/wiki/Coppermind:Artists/zoethatcher_
 
 With his parents and siblings
 
-When Wikim was younger, his [mother](https://coppermind.net/wiki/Shallan%27s_mother "Shallan's mother") wanted him to be an [ardent](https://coppermind.net/wiki/Ardent "Ardent").[^1] After her death, he fell into depression, being a constant target of his [father's](https://coppermind.net/wiki/Lin_Davar "Lin Davar") anger. He would rarely speak, or even smile, and would stay long times staring at fires or walls. He did resent his father and when the [[Highprince - The Coppermind|highprince]] [[Valam - The Coppermind|Valam]] sent his bastard son, [Redin](https://coppermind.net/wiki/Redin "Redin") to their house seeking for people who would speak against him, Wikim asked [[Shallan Davar - The Coppermind|Shallan]] to do so.[^4]
+When Wikim was younger, his [mother](https://coppermind.net/wiki/Shallan%27s_mother "Shallan's mother") wanted him to be an [[Vorinism - The Coppermind|ardent]].[^1] After her death, he fell into depression, being a constant target of his [father's](https://coppermind.net/wiki/Lin_Davar "Lin Davar") anger. He would rarely speak, or even smile, and would stay long times staring at fires or walls. He did resent his father and when the [[Highprince - The Coppermind|highprince]] [[Valam - The Coppermind|Valam]] sent his bastard son, [Redin](https://coppermind.net/wiki/Redin "Redin") to their house seeking for people who would speak against him, Wikim asked [[Shallan Davar - The Coppermind|Shallan]] to do so.[^4]
 
 At the [[Middlefest Fair - The Coppermind|Middlefest Fair]] he decided to stay in the carriage, where Shallan went to visit him. Wikim saw through her and openly asked about her tricks for making all her brothers feel better. After stating that no woman or sword would do the trick with him, Shallan gave him math problems that she had spent lots of time creating for him. Though he dismissed the effort and her, making Shallan feel miserable, he ended up taking a pencil and trying them with a smile on his face.[^1]
 
@@ -42,7 +42,7 @@ After that day, he slowly came out of his depression. He almost always had math 
 
 The day [[Balat Davar - The Coppermind|Balat]] was going to run away with [Eylita](https://coppermind.net/wiki/Eylita "Eylita"), Wikim was the one to let him know his father had summoned her to their house. Along with [[Jushu Davar - The Coppermind|Jushu]], he stayed at the door of the feast hall while his father and Balat argued. They ran in when his father went to the floor paralyzed, thinking he was dead. Shallan explained she used the pouch he had given her years ago. Wikim was the one who found out he was still alive and stepped back. Shallan had to step in to finish the job.[^10]
 
-After his father's death, and while Shallan tried to steal [[Jasnah Kholin - The Coppermind|Jasnah Kholin's]] [Soulcaster](https://coppermind.net/wiki/Soulcaster "Soulcaster"), Wikim helped Balat with their house affairs. His role was to keep the creditors distracted.[^9]
+After his father's death, and while Shallan tried to steal [[Jasnah Kholin - The Coppermind|Jasnah Kholin's]] [[Soulcasting - The Coppermind|Soulcaster]], Wikim helped Balat with their house affairs. His role was to keep the creditors distracted.[^9]
 
 ### Move to Urithiru
 
@@ -64,7 +64,7 @@ Wikim and his brothers were given quarters near Shallan's in Urithiru. Shallan v
 
 ### Lin Davar
 
-Wikim's [father](https://coppermind.net/wiki/Lin_Davar "Lin Davar"), just as he does to his other sons, screams at and mistreats him.[^2] Although Wikim hopes to become an ardent, Lin likely would never allow him to, as he feels that in the absence of [[Helaran Davar - The Coppermind|Helaran]] and [[Balat Davar - The Coppermind|Balat]], Wikim is the best one to lead the [[House Davar - The Coppermind|house]].[^6] His father opposes his interest in math until he is convinced by his [ardents](https://coppermind.net/wiki/Ardent "Ardent") that the Almighty approves of his interest.[^5]
+Wikim's [father](https://coppermind.net/wiki/Lin_Davar "Lin Davar"), just as he does to his other sons, screams at and mistreats him.[^2] Although Wikim hopes to become an ardent, Lin likely would never allow him to, as he feels that in the absence of [[Helaran Davar - The Coppermind|Helaran]] and [[Balat Davar - The Coppermind|Balat]], Wikim is the best one to lead the [[House Davar - The Coppermind|house]].[^6] His father opposes his interest in math until he is convinced by his [[Vorinism - The Coppermind|ardents]] that the Almighty approves of his interest.[^5]
 
 ## Notes
 

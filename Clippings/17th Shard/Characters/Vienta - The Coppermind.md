@@ -27,7 +27,7 @@ Vienta has a very analytical mind; she is able to find distance and momentum at 
 
 Like other honorspren, Vienta is a [[Splinter - The Coppermind|Splinter]] of [[Honor - The Coppermind|Honor]].[^7] She has minimal substance in the Physical Realm, and glows with a blue-white light. She can choose to be invisible or visible to humans, and most often chooses the latter,[^1] although some humans can still see them, such as [Lunamor](https://coppermind.net/wiki/Lunamor "Lunamor").[^8]
 
-She is also able to form a [[Nahel bond - The Coppermind|Nahel bond]], increasing her sentience in the [[Physical Realm - The Coppermind|Physical Realm]] and granting a bonded human abilities of the [[Order of Windrunners - The Coppermind|Order of Windrunners]], including the [[Surgebinding - The Coppermind|Surges]] of [Adhesion](https://coppermind.net/wiki/Adhesion "Adhesion") and [Gravitation](https://coppermind.net/wiki/Gravitation "Gravitation").[^9] She can speak directly into the mind of her bonded Radiant.[^2] She often appears as a Shardspear, but can alternatively be a lance.[^10]
+She is also able to form a [[Nahel bond - The Coppermind|Nahel bond]], increasing her sentience in the [[Physical Realm - The Coppermind|Physical Realm]] and granting a bonded human abilities of the [[Order of Windrunners - The Coppermind|Order of Windrunners]], including the [[Surgebinding - The Coppermind|Surges]] of [[Surgebinding - The Coppermind|Adhesion]] and [[Surgebinding - The Coppermind|Gravitation]].[^9] She can speak directly into the mind of her bonded Radiant.[^2] She often appears as a Shardspear, but can alternatively be a lance.[^10]
 
 ## History
 

@@ -14,13 +14,13 @@ favicon: "/favicon.ico"
 
 **Identity** is a [[Spiritual Realm - The Coppermind|Spiritual]] attribute [^1] [^2] within the [[17th Shard|cosmere]] that demarcates one being from another for the purposes of [[Investiture - The Coppermind|Investiture]].[^1] It acts as a sort of spiritual DNA, and it functions together with [[Connection - The Coppermind|Connection]] in order to form a link to various forms of Investiture.
 
-Across the cosmere, use of arcana is tied to the user's Identity, and power stored by one person is hard to access by a different person.[^3] This restriction is the reason, for example, that [[BioChromatic Breath - The Coppermind|Breaths]] stored or [metalminds](https://coppermind.net/wiki/Metalmind "Metalmind") charged by one person cannot be used by anyone else.[^1] However, if someone "blanks" their Identity and stores power, it becomes easier for others to use that power (especially other blanked people, but potentially also non-blanked people, depending on the magic system).[^4]
+Across the cosmere, use of arcana is tied to the user's Identity, and power stored by one person is hard to access by a different person.[^3] This restriction is the reason, for example, that [[BioChromatic Breath - The Coppermind|Breaths]] stored or [[Feruchemy - The Coppermind|metalminds]] charged by one person cannot be used by anyone else.[^1] However, if someone "blanks" their Identity and stores power, it becomes easier for others to use that power (especially other blanked people, but potentially also non-blanked people, depending on the magic system).[^4]
 
 Investiture itself has Identity, and it can be blanked of this Identity.[^5]
 
 ### Feruchemy
 
-In [[Feruchemy - The Coppermind|Feruchemy]], Identity is stored in [[Aluminum - The Coppermind|aluminum]]. To effectively use aluminum, one must have Feruchemical access to at least one metal besides aluminum. By storing Identity in aluminum and then filling another metalmind, they create an "unkeyed" metalmind that can be used by any Feruchemist.[^1] One example is in [The Bands of Mourning](https://coppermind.net/wiki/The_Bands_of_Mourning "The Bands of Mourning"): [Wax](https://coppermind.net/wiki/Wax "Wax") finds a gold bracelet filled with healing power that [Wayne](https://coppermind.net/wiki/Wayne "Wayne"), a gold Ferring, can access, Wax cannot.[^6] Through a method that has not yet been fully revealed, but which builds on unkeyed metalminds,[^7] it is also possible to create an ["unsealed" metalmind](https://coppermind.net/wiki/Unsealed_metalminds "Unsealed metalminds") of [[Investiture - The Coppermind|Investiture]], which *anyone* can use to access Feruchemical power; the [Southern Scadrial](https://coppermind.net/wiki/Southern_Scadrial "Southern Scadrial") medallions are an example.[^8] [^9]
+In [[Feruchemy - The Coppermind|Feruchemy]], Identity is stored in [[Aluminum - The Coppermind|aluminum]]. To effectively use aluminum, one must have Feruchemical access to at least one metal besides aluminum. By storing Identity in aluminum and then filling another metalmind, they create an "unkeyed" metalmind that can be used by any Feruchemist.[^1] One example is in [The Bands of Mourning](https://coppermind.net/wiki/The_Bands_of_Mourning "The Bands of Mourning"): [Wax](https://coppermind.net/wiki/Wax "Wax") finds a gold bracelet filled with healing power that [Wayne](https://coppermind.net/wiki/Wayne "Wayne"), a gold Ferring, can access, Wax cannot.[^6] Through a method that has not yet been fully revealed, but which builds on unkeyed metalminds,[^7] it is also possible to create an [[Feruchemy - The Coppermind|"unsealed" metalmind]] of [[Investiture - The Coppermind|Investiture]], which *anyone* can use to access Feruchemical power; the [[Southern Scadrian - The Coppermind|Southern Scadrial]] medallions are an example.[^8] [^9]
 
 As of [Mistborn Era 2](https://coppermind.net/wiki/Mistborn_Era_2 "Mistborn Era 2"), the [[Kandra - The Coppermind|Kandra]] and the [[The Coppermind Wiki - 17th Shard, the Official Brandon Sanderson Fansite 6|Terris]] community have begun experimenting with Identity and the other spiritual aspects of Feruchemy, but still understand very little, owing to the rarity of the appropriate Ferrings and metals.[^1]
 
@@ -48,7 +48,7 @@ There is a "pretty tenuous" link between Identity and the different aspects of S
 
 ### Singer forms
 
-Identity and Connection are involved with the [[Singer - The Coppermind|singers']] ability to [change forms](https://coppermind.net/wiki/Singers#Forms "Singers").[^20] If a singer's Identity and Connection is stolen, they will change into slaveform.[^21] [^20]
+Identity and Connection are involved with the [[Singer - The Coppermind|singers']] ability to [[Singer - The Coppermind#Forms|change forms]].[^20] If a singer's Identity and Connection is stolen, they will change into slaveform.[^21] [^20]
 
 ### Nahel Bonds
 

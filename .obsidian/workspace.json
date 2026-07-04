@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "55528f465ea598fb",
+        "id": "ebb02129cf58b2b7",
         "type": "tabs",
         "children": [
           {
-            "id": "460217d9abc0cdc3",
+            "id": "cc6eb41868c1ffc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Autonomy - The Coppermind.md",
+                "file": "Clippings/17th Shard/Planets/Komashi - The Coppermind/Places of Interest/Noodle Pupil - The Coppermind.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Autonomy - The Coppermind"
+              "title": "Noodle Pupil - The Coppermind"
+            }
+          },
+          {
+            "id": "df84a608f0ea1482",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/17th Shard/Characters/Szeth - The Coppermind.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Szeth - The Coppermind"
+            }
+          },
+          {
+            "id": "957474a40b1c69d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Mask.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Mask"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -40,7 +69,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -53,10 +82,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "-file:.png -file:.jpg -file:.webp -file:.svg  file:3",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -75,7 +104,7 @@
             }
           },
           {
-            "id": "0ece20f20dfe8dd6",
+            "id": "07613deb5fec85c1",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,12 +113,12 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 372.5,
+    "collapsed": true
   },
   "right": {
     "id": "fec9c62883330444",
@@ -118,13 +147,13 @@
             }
           },
           {
-            "id": "9801952ec1dafeda",
+            "id": "d88a923143a8c48d",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "file-tree-view",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "sheets-in-box",
+              "title": "File Tree"
             }
           },
           {
@@ -194,13 +223,13 @@
             }
           },
           {
-            "id": "e3b9269fd218cc68",
+            "id": "81d285116cdd80d0",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -208,7 +237,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 512.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,43 +250,59 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
       "pseudo-mica:Change vibrancy": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "460217d9abc0cdc3",
+  "active": "957474a40b1c69d1",
   "lastOpenFiles": [
-    "Clippings/Order of Elsecallers - The Coppermind.md",
-    "Clippings/Order of Elsecallers - The Coppermind 1.md",
-    "Clippings/Ruin - The Coppermind.md",
-    "\"Shard.md",
-    "Shard.md",
-    "Clippings/Shard - The Coppermind.md",
-    "Clippings/Whimsy - The Coppermind.md",
-    "Clippings/Order of Lightweavers - The Coppermind.md",
-    "Clippings/Odium - The Coppermind.md",
-    "Clippings/Order of Truthwatchers - The Coppermind.md",
-    "Clippings/Order of Edgedancers - The Coppermind.md",
-    "Clippings/Order of Dustbringers - The Coppermind.md",
-    "Clippings/Order of Skybreakers - The Coppermind.md",
-    "Clippings/Order of Windrunners - The Coppermind.md",
-    "Clippings/Reason - The Coppermind.md",
-    "Clippings/Virtuosity - The Coppermind.md",
-    "Clippings/Valor - The Coppermind.md",
-    "Clippings/Mercy - The Coppermind.md",
-    "Clippings/Invention - The Coppermind.md",
-    "Clippings/Ambition - The Coppermind.md",
-    "Clippings/Autonomy - The Coppermind.md",
-    "Clippings/Endowment - The Coppermind.md",
-    "Clippings/Cultivation - The Coppermind.md",
-    "Clippings/Odium - The Coppermind 1.md",
-    "Clippings/Preservation - The Coppermind.md",
-    "Clippings/Dominion - The Coppermind.md",
-    "Clippings",
-    "Speed, Distance and Time",
-    "Reference",
-    "Tags"
+    "Clippings/17th Shard/Characters/Szeth - The Coppermind.md",
+    "The Mask.md",
+    "Tags/Untitled.md",
+    "Untitled 15.md",
+    "Clippings/17th Shard/Planets/Komashi - The Coppermind/Places of Interest/Kilahito - The Coppermind.md",
+    "Clippings/17th Shard/Vivenna's Blade - The Coppermind.md",
+    "Clippings/17th Shard/attachments/Silverlight---The-Coppermind-1.svg",
+    "Clippings/17th Shard/Silverlight - The Coppermind.md",
+    "Clippings/17th Shard/attachments/Ire---The-Coppermind-2.svg",
+    "Clippings/17th Shard/attachments/Ire---The-Coppermind-1.png",
+    "Clippings/17th Shard/Seventeenth Shard - The Coppermind.md",
+    "Clippings/17th Shard/Ire - The Coppermind.md",
+    "Clippings/17th Shard/Initiation - The Coppermind.md",
+    "Clippings/17th Shard/CategoryWorldhoppers - The Coppermind.md",
+    "Clippings/17th Shard/attachments/Threnody---The-Coppermind-1.webp",
+    "Clippings/17th Shard/Vax - The Coppermind.md",
+    "Clippings/17th Shard/Threnody - The Coppermind.md",
+    "Clippings/17th Shard/Obrodai - The Coppermind.md",
+    "Clippings/17th Shard/attachments/Lumar---The-Coppermind-3.jpg",
+    "Clippings/17th Shard/attachments/Lumar---The-Coppermind-2.jpg",
+    "Clippings/17th Shard/attachments/Lumar---The-Coppermind-1.jpg",
+    "Clippings/17th Shard/Mythos - The Coppermind.md",
+    "Clippings/17th Shard/Lumar - The Coppermind.md",
+    "Clippings/17th Shard/Bjendal - The Coppermind.md",
+    "Clippings/17th Shard/attachments/Canticle---The-Coppermind-1.jpg",
+    "Clippings/17th Shard/Braize - The Coppermind.md",
+    "Clippings/17th Shard/Canticle - The Coppermind.md",
+    "Clippings/17th Shard/attachments/First-of-the-Sun---The-Coppermind-2.jpg",
+    "Clippings/17th Shard/attachments/First-of-the-Sun---The-Coppermind-1.jpg",
+    "Clippings/17th Shard/Dhatri - The Coppermind.md",
+    "Clippings/17th Shard/First of the Sun - The Coppermind.md",
+    "Clippings/17th Shard/Intent - The Coppermind.md",
+    "Clippings/17th Shard/Aether spores - The Coppermind.md",
+    "Clippings/17th Shard/Lunagree - The Coppermind.md",
+    "Clippings/17th Shard/Midnight Essence - The Coppermind.md",
+    "Clippings/17th Shard/Spore eater - The Coppermind.md",
+    "Clippings/17th Shard/Planets/Komashi - The Coppermind/Investiture Manifestations",
+    "Clippings/17th Shard/Planets/Komashi - The Coppermind/Places of Interest",
+    "Clippings/17th Shard/Planets/Komashi - The Coppermind/Nations",
+    "Clippings/17th Shard/Planets/Komashi - The Coppermind",
+    "Clippings/17th Shard/Planets/Sel - The Coppermind/Species",
+    "Clippings/17th Shard/Planets/Sel - The Coppermind/Language",
+    "Clippings/17th Shard/Planets/Sel - The Coppermind/Places of Interest",
+    "Clippings/17th Shard/Planets/Sel - The Coppermind/Nations",
+    "Clippings/17th Shard/Planets/Sel - The Coppermind",
+    "Clippings/17th Shard/Planets/Scadrial - The Coppermind/Places of Interest"
   ]
 }

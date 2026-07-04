@@ -16,13 +16,13 @@ favicon: "/favicon.ico"
 > 
 > —Senne's first journal entry [^1]
 
-**Senne Khald** is a [Worldsinger](https://coppermind.net/wiki/Worldsinger "Worldsinger").[^1] As part of her apprenticeship, she was assigned by [[Hoid - The Coppermind|Hoid]] to write a treatise on the [[Knights Radiant - The Coppermind|Radiant Orders]] on [[Roshar - The Coppermind|Roshar]]. She performed her research in the thirty-first year of the [[Heraldic Epochs - The Coppermind|Sixth Epoch]], and recorded many of her notes in a journal.
+**Senne Khald** is a [[Worldsingers - The Coppermind|Worldsinger]].[^1] As part of her apprenticeship, she was assigned by [[Hoid - The Coppermind|Hoid]] to write a treatise on the [[Knights Radiant - The Coppermind|Radiant Orders]] on [[Roshar - The Coppermind|Roshar]]. She performed her research in the thirty-first year of the [[Heraldic Epochs - The Coppermind|Sixth Epoch]], and recorded many of her notes in a journal.
 
 ## Personality
 
 Senne's journal is written in an informal rather than scholarly manner. She mentions facts about each Order alongside her own opinions and biases, giving some insight to her personality.
 
-She finds formality and efficiency to be obnoxious, and thus she often finds herself irritated by [Windrunners](https://coppermind.net/wiki/Windrunner "Windrunner").[^1] She mentions having caused "destruction" in her past, and thinks that she could have enjoyed being a [Dustbringer](https://coppermind.net/wiki/Dustbringer "Dustbringer") due to their ability to control themselves and others.[^2] She deeply appreciates the [[Order of Edgedancers - The Coppermind|Edgedancers]] for how they bring beauty into the world, and how they assist the poor, sick, and destitute.[^3] She believes that it is important to know yourself well, especially if you are an artist.[^3] She values people who support and help others, and tries to keep such people close.[^3]
+She finds formality and efficiency to be obnoxious, and thus she often finds herself irritated by [[Order of Windrunners - The Coppermind|Windrunners]].[^1] She mentions having caused "destruction" in her past, and thinks that she could have enjoyed being a [[Order of Dustbringers - The Coppermind|Dustbringer]] due to their ability to control themselves and others.[^2] She deeply appreciates the [[Order of Edgedancers - The Coppermind|Edgedancers]] for how they bring beauty into the world, and how they assist the poor, sick, and destitute.[^3] She believes that it is important to know yourself well, especially if you are an artist.[^3] She values people who support and help others, and tries to keep such people close.[^3]
 
 ## History
 
@@ -32,16 +32,16 @@ Senne kept a journal as she researched each Order. Rather than focusing on power
 
 | Order | Date (6th Epoch) |
 | --- | --- |
-| [Windrunners](https://coppermind.net/wiki/Windrunners "Windrunners") | (4.10.3) [^1] |
-| [Skybreakers](https://coppermind.net/wiki/Skybreakers "Skybreakers") | (5.1.5) [^5] |
-| [Dustbringers](https://coppermind.net/wiki/Dustbringers "Dustbringers") | (5.3.2) [^2] |
+| [[Order of Windrunners - The Coppermind|Windrunners]] | (4.10.3) [^1] |
+| [[Order of Skybreakers - The Coppermind|Skybreakers]] | (5.1.5) [^5] |
+| [[Order of Dustbringers - The Coppermind|Dustbringers]] | (5.3.2) [^2] |
 | [[Order of Edgedancers - The Coppermind|Edgedancers]] | (5.4.4) [^3] |
-| [Truthwatchers](https://coppermind.net/wiki/Truthwatchers "Truthwatchers") | (5.6.1) [^6] |
+| [[Order of Truthwatchers - The Coppermind|Truthwatchers]] | (5.6.1) [^6] |
 | [[Order of Lightweavers - The Coppermind|Lightweavers]] | (5.7.3) [^4] |
-| [Elsecallers](https://coppermind.net/wiki/Elsecallers "Elsecallers") | (5.8.5) [^7] |
-| [Willshapers](https://coppermind.net/wiki/Willshapers "Willshapers") | (5.10.2) [^8] |
-| [Stonewards](https://coppermind.net/wiki/Stonewards "Stonewards") | (6.1.4) [^9] |
-| [Bondsmiths](https://coppermind.net/wiki/Bondsmiths "Bondsmiths") | (6.3.1) [^10] |
+| [[Order of Elsecallers - The Coppermind|Elsecallers]] | (5.8.5) [^7] |
+| [[Order of Willshapers - The Coppermind|Willshapers]] | (5.10.2) [^8] |
+| [[Order of Stonewards - The Coppermind|Stonewards]] | (6.1.4) [^9] |
+| [[Order of Bondsmiths - The Coppermind|Bondsmiths]] | (6.3.1) [^10] |
 
 ## Trivia
 

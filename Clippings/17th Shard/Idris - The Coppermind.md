@@ -20,7 +20,7 @@ favicon: "/favicon.ico"
 
 > “ *They’re rocks, like you said, but they’re not lifeless. They’re green—as green as your jungles. But it’s a different green.* ”
 > 
-> — [Siri](https://coppermind.net/wiki/Siri "Siri") telling [[Susebron - The Coppermind|Susebron]] about the mountains of her homeland [^2]
+> — [[Sisirinah - The Coppermind|Siri]] telling [[Susebron - The Coppermind|Susebron]] about the mountains of her homeland [^2]
 
 Idris lies in a large mountain range.[^1] The Idrian mountains experience cold weather, with it being warm for only a short time in the summers.[^1] Due to this cold climate agriculture is hard, and crops sometimes fail.[^3] For at least part of the year it snows, which is an important factor is the nation’s defense.
 
@@ -106,7 +106,7 @@ The heavy snowfall also contributes to the Idrian defenses.[^1]
 
 > “ *Women chasing runaway geese, men pulling donkeys laden with spring seed, and children leading sheep on their way to pasture.*”
 > 
-> — [Siri](https://coppermind.net/wiki/Siri "Siri") describing the people of Bevalis [^1]
+> — [[Sisirinah - The Coppermind|Siri]] describing the people of Bevalis [^1]
 
 Idris is home to the Idrian people. It is unknown if Idris contains any other peoples.[^1]
 
@@ -124,11 +124,11 @@ Clothing is typically very covering.[^5] Most women wear clothing that covers ev
 
 #### Breath
 
-The Idrians consider their breath to be intimately linked to their soul. For that reason they are afraid of losing their Breath, and consider holding the [Breaths](https://coppermind.net/wiki/Breath "Breath") of others to be sinful. Using them to [[Awakening - The Coppermind|Awaken]] is considered to be an even greater sin.[^13]
+The Idrians consider their breath to be intimately linked to their soul. For that reason they are afraid of losing their Breath, and consider holding the [[BioChromatic Breath - The Coppermind|Breaths]] of others to be sinful. Using them to [[Awakening - The Coppermind|Awaken]] is considered to be an even greater sin.[^13]
 
 #### Returned
 
-Although the people of Idris can also become [[Returned - The Coppermind|Returned]], this is a rare occurrence. The people of Idris, unlike those in Hallandren, refuse to provide the Returned with [Breath](https://coppermind.net/wiki/Breath "Breath"), causing them to die at the end of the week.[^14] It is unknown if this affects their ‘mission’.
+Although the people of Idris can also become [[Returned - The Coppermind|Returned]], this is a rare occurrence. The people of Idris, unlike those in Hallandren, refuse to provide the Returned with [[BioChromatic Breath - The Coppermind|Breath]], causing them to die at the end of the week.[^14] It is unknown if this affects their ‘mission’.
 
 ### Architecture
 
@@ -174,7 +174,7 @@ Dismissive of the native Pahn Kahl, his crewmates founded a kingdom on the site 
 
 As Hanald grew, claiming both the High- and the Lowlands, [[Manywar - The Coppermind#Roots of the Conflict|tensions]] increased with the other [[Nalthis - The Coppermind|Nalthian]] kingdoms.
 
-Three hundred years after Hanald's founding a [[Returned - The Coppermind|Returned]] known as [Strifelover](https://coppermind.net/wiki/Strifelover "Strifelover") used his [[Lifeless - The Coppermind|Lifeless]] as well as a revolt by the people to seize power. During this coup he captured the Royal Family, trapping them in [[T'Telir - The Coppermind|T'Telir]]. After a fellow Returned had a vision of war, Strifelover declared war on the northern kingdoms of [[Kuth - The Coppermind|Kuth]] and [[Huth - The Coppermind|Huth]], starting the [[Manywar - The Coppermind|Manywar]].
+Three hundred years after Hanald's founding a [[Returned - The Coppermind|Returned]] known as [[Vasher - The Coppermind|Strifelover]] used his [[Lifeless - The Coppermind|Lifeless]] as well as a revolt by the people to seize power. During this coup he captured the Royal Family, trapping them in [[T'Telir - The Coppermind|T'Telir]]. After a fellow Returned had a vision of war, Strifelover declared war on the northern kingdoms of [[Kuth - The Coppermind|Kuth]] and [[Huth - The Coppermind|Huth]], starting the [[Manywar - The Coppermind|Manywar]].
 
 After a while Strifelover had a change of heart and recalled his troops from their fighting.[^9] He used these troops to seize back control of Hanald. He later stopped the Manywar through diplomacy. Due to this the [[Hallandren - The Coppermind|Hallandren]] began calling him Peacegiver.[^9]
 
@@ -188,7 +188,7 @@ After their departure the Cult of the Returned took control of the remaining nat
 
 Twenty years before the [[Pahn Kahl rebellion - The Coppermind|Pahn Kahl rebellion]], the Idrian King was assassinated. As crown prince [Dedelin](https://coppermind.net/wiki/Dedelin "Dedelin") rose to kingship.[^1]
 
-Dedelin's first official act was to negotiate a treaty with [[Susebron - The Coppermind|Susebron]] promising to send his daughter (ostensibly [[Vivenna - The Coppermind|Vivenna]], though this was not stated specifically) to the [[Court of Gods - The Coppermind|Court of Gods]] to marry him when Vivenna turned twenty-two, thereby reintroducing the bloodline of the royals into Hallandren's own ruling line. When the time came, however, Dedelin could not bring himself to send his beloved daughter to what he was sure would be her death, so he sent [Siri](https://coppermind.net/wiki/Siri "Siri") instead.[^1]
+Dedelin's first official act was to negotiate a treaty with [[Susebron - The Coppermind|Susebron]] promising to send his daughter (ostensibly [[Vivenna - The Coppermind|Vivenna]], though this was not stated specifically) to the [[Court of Gods - The Coppermind|Court of Gods]] to marry him when Vivenna turned twenty-two, thereby reintroducing the bloodline of the royals into Hallandren's own ruling line. When the time came, however, Dedelin could not bring himself to send his beloved daughter to what he was sure would be her death, so he sent [[Sisirinah - The Coppermind|Siri]] instead.[^1]
 
 ### Pahn Kahl Rebellion
 

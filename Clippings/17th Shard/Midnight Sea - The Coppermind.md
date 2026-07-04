@@ -12,7 +12,7 @@ favicon: "/favicon.ico"
 ---
 ## Midnight Sea
 
-The **Midnight Sea** is an ocean on [[Lumar - The Coppermind|Lumar]], made up of [[Aether - The Coppermind|Midnight Aether]] [[Aether spores - The Coppermind|spores]]. The only known inhabited land was the [Sorceress' island](https://coppermind.net/wiki/Sorceress%27_island "Sorceress' island"), where the [Sorceress](https://coppermind.net/wiki/Sorceress "Sorceress") lived until she was driven away by [[Tress - The Coppermind|Tress]] and [[Hoid - The Coppermind|Hoid]]. Like all seas on Lumar, it is pentagonal in shape.[^1]
+The **Midnight Sea** is an ocean on [[Lumar - The Coppermind|Lumar]], made up of [[Aether - The Coppermind|Midnight Aether]] [[Aether spores - The Coppermind|spores]]. The only known inhabited land was the [[Sorceress's island - The Coppermind|Sorceress' island]], where the [[Riina - The Coppermind|Sorceress]] lived until she was driven away by [[Tress - The Coppermind|Tress]] and [[Hoid - The Coppermind|Hoid]]. Like all seas on Lumar, it is pentagonal in shape.[^1]
 
 It is notably warm compared to other seas due to taking in large amounts of heat from the sun due to their deep black color.[^2] The sound of the seethe apparently is also different from the other seas, but it is not clear if this is a true difference, or merely a psychological effect.[^2]
 

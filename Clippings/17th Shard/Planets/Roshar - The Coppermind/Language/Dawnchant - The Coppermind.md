@@ -16,7 +16,7 @@ favicon: "/favicon.ico"
 > 
 > —The phrase 'To be human is to want that which we cannot have' in the Dawnchant [^1]
 
-The **Dawnchant** was the language of the original inhabitants of Roshar, the [Dawnsingers](https://coppermind.net/wiki/Dawnsingers "Dawnsingers") - ancient ancestors to the modern day [singers](https://coppermind.net/wiki/Singers "Singers"). The language is the root of the Dawnate language family, consisting of the [[Shin Kak Nish - The Coppermind|Shin]], [[Listener - The Coppermind|Listener]], and [Unkalaki](https://coppermind.net/wiki/Unkalaki "Unkalaki") languages. While the vocabulary of these languages varies greatly, they share similar grammar.[^2] There are hints that certain terms from Dawnchant are used in wider cosmere, perhaps as an academic language.[^3]
+The **Dawnchant** was the language of the original inhabitants of Roshar, the [[Dawnsinger - The Coppermind|Dawnsingers]] - ancient ancestors to the modern day [[Singer - The Coppermind|singers]]. The language is the root of the Dawnate language family, consisting of the [[Shin Kak Nish - The Coppermind|Shin]], [[Listener - The Coppermind|Listener]], and [Unkalaki](https://coppermind.net/wiki/Unkalaki "Unkalaki") languages. While the vocabulary of these languages varies greatly, they share similar grammar.[^2] There are hints that certain terms from Dawnchant are used in wider cosmere, perhaps as an academic language.[^3]
 
 ## History
 

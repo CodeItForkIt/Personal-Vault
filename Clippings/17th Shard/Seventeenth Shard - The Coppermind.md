@@ -28,7 +28,7 @@ Its members have a non-interventionist philosophy,[^3] believing that the Shards
 
 Despite their non-interventionist policy, members of the Seventeenth Shard accidentally brought the common cold to [[Roshar - The Coppermind|Roshar]].[^3]
 
-In the Rosharan year 1173, [Ishikk](https://coppermind.net/wiki/Ishikk "Ishikk") the [[Purelake - The Coppermind|Purelaker]] was acting as a guide and informant to three members of the Seventeenth Shard who were looking for [[Hoid - The Coppermind|Hoid]].[^7] Ishikk does not know they are [worldhoppers](https://coppermind.net/wiki/Worldhoppers "Worldhoppers") or even their names, though he nicknames them *[[Galladon - The Coppermind|Grump]]*,[^8] *[Thinker](https://coppermind.net/wiki/Demoux "Demoux")*,[^9] and *[[Baon - The Coppermind|Blunt]]*.[^10] [^11] [^12] By 1175, the group had given up on finding Hoid and had left Roshar.[^13] Within the same year, the three returned to Roshar and traveled to [[Iri - The Coppermind|Iri]] shortly before the Fifth Journey.[^14] They collected a letter from Hoid and the three decided to leave the planet again.
+In the Rosharan year 1173, [Ishikk](https://coppermind.net/wiki/Ishikk "Ishikk") the [[Purelake - The Coppermind|Purelaker]] was acting as a guide and informant to three members of the Seventeenth Shard who were looking for [[Hoid - The Coppermind|Hoid]].[^7] Ishikk does not know they are [[17th Shard|worldhoppers]] or even their names, though he nicknames them *[[Galladon - The Coppermind|Grump]]*,[^8] *[Thinker](https://coppermind.net/wiki/Demoux "Demoux")*,[^9] and *[[Baon - The Coppermind|Blunt]]*.[^10] [^11] [^12] By 1175, the group had given up on finding Hoid and had left Roshar.[^13] Within the same year, the three returned to Roshar and traveled to [[Iri - The Coppermind|Iri]] shortly before the Fifth Journey.[^14] They collected a letter from Hoid and the three decided to leave the planet again.
 
 ## Relationships
 
@@ -43,7 +43,7 @@ The [[Ghostbloods - The Coppermind|Ghostbloods]] and the Seventeenth Shard are n
 ## Known Members
 
 - [Aslydin](https://coppermind.net/wiki/Aslydin "Aslydin") - Demoux's wife on [[Scadrial - The Coppermind|Scadrial]] [^18]
-- [Demoux](https://coppermind.net/wiki/Demoux "Demoux") - A soldier and [Seer](https://coppermind.net/wiki/Seer "Seer") from Scadrial
+- [Demoux](https://coppermind.net/wiki/Demoux "Demoux") - A soldier and [[Atium - The Coppermind|Seer]] from Scadrial
 - [[Galladon - The Coppermind|Galladon]] - An Elantrian from [[Sel - The Coppermind|Sel]]
 - [[Baon - The Coppermind|Baon]] - A soldier and [[Sand mastery - The Coppermind|sand master]] [^19] from [[Taldain - The Coppermind|Taldain]]
 - [Iyatil](https://coppermind.net/wiki/Iyatil "Iyatil") - A former member from [[Silverlight - The Coppermind|Silverlight]] with [[Southern Scadrian - The Coppermind|Southern Scadrian]] ancestry;[^20] left to join the [[Ghostbloods - The Coppermind|Ghostbloods]].[^17]

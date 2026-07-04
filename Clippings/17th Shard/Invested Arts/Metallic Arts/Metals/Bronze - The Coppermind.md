@@ -16,13 +16,13 @@ favicon: /favicon.ico
 ---
 ## Bronze
 
-**Bronze** is the internal mental pushing metal. It is an alloy of [[Copper - The Coppermind|copper]], and the two metals are paired in the [[Metallic Arts]] of [[Scadrial - The Coppermind|Scadrial]].[^1] An [Allomancer](https://coppermind.net/wiki/Allomancer "Allomancer") burning bronze is able to detect the presence of Allomancy or other kinetic [[Investiture - The Coppermind|Investiture]] being used nearby, sounding like drum beats to the Seeker's ears. [Feruchemists](https://coppermind.net/wiki/Feruchemist "Feruchemist") can use bronze to store wakefulness, and when used as a [[Hemalurgic chimera - The Coppermind|Hemalurgic]] spike, bronze steals Mental Allomantic powers.
+**Bronze** is the internal mental pushing metal. It is an alloy of [[Copper - The Coppermind|copper]], and the two metals are paired in the [[Metallic Arts]] of [[Scadrial - The Coppermind|Scadrial]].[^1] An [[Allomancy - The Coppermind|Allomancer]] burning bronze is able to detect the presence of Allomancy or other kinetic [[Investiture - The Coppermind|Investiture]] being used nearby, sounding like drum beats to the Seeker's ears. [[Feruchemy - The Coppermind|Feruchemists]] can use bronze to store wakefulness, and when used as a [[Hemalurgic chimera - The Coppermind|Hemalurgic]] spike, bronze steals Mental Allomantic powers.
 
-Bronze is also used on other planets in the [[17th Shard|cosmere]] as a conventional metal, including [[Lumar - The Coppermind|Lumar]] [^2] and [[Komashi - The Coppermind|Komashi]].[^3] On [[Roshar - The Coppermind|Roshar]], materials can be [Soulcast](https://coppermind.net/wiki/Soulcast "Soulcast") into bronze, and the metal was historically used for decoration and military equipment.[^4] [^5] During the [[True Desolation - The Coppermind|True Desolation]], [artifabrians](https://coppermind.net/wiki/Artifabrian "Artifabrian") discovered that bronze could be used to create [[Fabrial - The Coppermind#Alerters|Alerter]] fabrials that have the ability to detect certain phenomena.[^6] [^7]
+Bronze is also used on other planets in the [[17th Shard|cosmere]] as a conventional metal, including [[Lumar - The Coppermind|Lumar]] [^2] and [[Komashi - The Coppermind|Komashi]].[^3] On [[Roshar - The Coppermind|Roshar]], materials can be [[Soulcasting - The Coppermind|Soulcast]] into bronze, and the metal was historically used for decoration and military equipment.[^4] [^5] During the [[True Desolation - The Coppermind|True Desolation]], [artifabrians](https://coppermind.net/wiki/Artifabrian "Artifabrian") discovered that bronze could be used to create [[Fabrial - The Coppermind#Alerters|Alerter]] fabrials that have the ability to detect certain phenomena.[^6] [^7]
 
 ## Allomantic Use
 
-A bronze [Misting](https://coppermind.net/wiki/Misting "Misting") is known as a **Seeker**. When a Seeker burns bronze, they are able to detect nearby use of Allomancy or any other form of [[Investiture - The Coppermind|Kinetic Investiture]].[^8] [^9] The Seeker feels pulses, like beats of a drum, emanating from the person burning a metal. These Allomantic pulses are related to the [tone](https://coppermind.net/wiki/Rhythm "Rhythm") of [[Preservation - The Coppermind|Preservation]],[^10] and would seem familiar, though strange, to a [[Singer - The Coppermind|singer]] burning bronze.[^11]
+A bronze [[Allomancy - The Coppermind|Misting]] is known as a **Seeker**. When a Seeker burns bronze, they are able to detect nearby use of Allomancy or any other form of [[Investiture - The Coppermind|Kinetic Investiture]].[^8] [^9] The Seeker feels pulses, like beats of a drum, emanating from the person burning a metal. These Allomantic pulses are related to the [tone](https://coppermind.net/wiki/Rhythm "Rhythm") of [[Preservation - The Coppermind|Preservation]],[^10] and would seem familiar, though strange, to a [[Singer - The Coppermind|singer]] burning bronze.[^11]
 
 With practice, a Seeker can distinguish metals from each other by pulse length (long pulses for internal metals, short for external metals), whether the beats seem to "push" or "pull" on the Seeker, and by a distinctive pattern to the pulses characteristic of their quadrant (Physical / Mental / Temporal / Enhancement).[^12] This is how it is known that tin is a Pulling metal while pewter is Pushing.[^12]
 
@@ -30,7 +30,7 @@ It is more difficult to distinguish pulse length differences (internal vs. exter
 
 A talented Seeker can glean additional information from minute changes in Allomantic pulses, including:
 
-- Who a [Soother](https://coppermind.net/wiki/Soother "Soother") or [Rioter](https://coppermind.net/wiki/Rioter "Rioter") is targeting, and what emotions they intend to influence.[^13] [^12]
+- Who a [Soother](https://coppermind.net/wiki/Soother "Soother") or [[Zinc - The Coppermind|Rioter]] is targeting, and what emotions they intend to influence.[^13] [^12]
 - Whether an Allomancer is flaring their metals.[^12]
 - Whether an Allomancer is running low on metals (though this is highly difficult).[^12]
 
@@ -57,7 +57,7 @@ Indeed, it is theoretically possible for bronze Allomancy to detect any [[Invest
 
 ## Feruchemical Use
 
-A bronze [Ferring](https://coppermind.net/wiki/Ferring "Ferring") is known as a **Sentry**. Bronze is used to store wakefulness. It allows the Sentry to stay awake for extended periods of time, or to heighten awareness. A Sentry filling a bronzemind becomes drowsy, and may sleep in a coma-like trance.[^8] [^30] It is the only type of metalmind a Feruchemist can store into while sleeping.[^32] Caffeine can be used to generate extra wakefulness, but it would feel different upon being tapped.[^33]
+A bronze [[Feruchemy - The Coppermind|Ferring]] is known as a **Sentry**. Bronze is used to store wakefulness. It allows the Sentry to stay awake for extended periods of time, or to heighten awareness. A Sentry filling a bronzemind becomes drowsy, and may sleep in a coma-like trance.[^8] [^30] It is the only type of metalmind a Feruchemist can store into while sleeping.[^32] Caffeine can be used to generate extra wakefulness, but it would feel different upon being tapped.[^33]
 
 ### Compounding
 
@@ -76,7 +76,7 @@ When used as a Hemalurgic spike, bronze steals Mental Allomantic powers ([[Zinc 
 
 ## Fabrial Use
 
-A [[Fabrial - The Coppermind|fabrial]] with a bronze cage will create a warning fabrial, sometimes referred to as an Alerter.[^41] Alerters are said to be able to detect nearby objects, feelings, and other phenomena.[^42] They are typically made with [heliodor](https://coppermind.net/wiki/Heliodor "Heliodor") polestones, and larger gems will provide a greater detection range.[^42]
+A [[Fabrial - The Coppermind|fabrial]] with a bronze cage will create a warning fabrial, sometimes referred to as an Alerter.[^41] Alerters are said to be able to detect nearby objects, feelings, and other phenomena.[^42] They are typically made with [[Polestone - The Coppermind|heliodor]] polestones, and larger gems will provide a greater detection range.[^42]
 
 They are used to detect the presence of [[Fused - The Coppermind|Fused]] [^7] and could theoretically detect other types of Investiture.[^43]
 

@@ -24,7 +24,7 @@ Akane is an attractive woman with lustrous black hair, and is approximately twen
 
 Akane is a friendly person who is particularly good at making friends, and bringing different people together.[^4] Yumi describes Akane as tender and helpful, because of the ways she thoughtfully helped Yumi with her clothing needs. She is very skilled at bringing different people together and helping them to make connections and feel comfortable.[^3]
 
-Her [capstone painting](https://coppermind.net/wiki/Capstone_painting "Capstone painting") is of a large flower.[^5]
+Her [[Painter - The Coppermind|capstone painting]] is of a large flower.[^5]
 
 ## History
 

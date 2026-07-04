@@ -14,13 +14,13 @@ favicon: "/favicon.ico"
 
 > “ *There is an original, shrouded and hidden somewhere in the cosmere. I've yet to find it, but I **have** found stories.* ”
 > 
-> — [Khriss](https://coppermind.net/wiki/Khriss "Khriss") [^4]
+> — [[Khrissalla - The Coppermind|Khriss]] [^4]
 
-**Yolen** is a planet in the [[17th Shard|cosmere]] and [Yolish system](https://coppermind.net/edit/Yolish_system?redlink=1 "Yolish system (page does not exist)") where humans first appeared, and where the [[Shattering - The Coppermind|Shattering of Adonalsium]] happened.[^5] [^6] [^7] It's the homeworld of all the original [Vessels](https://coppermind.net/wiki/Vessel "Vessel"), along with [[Hoid - The Coppermind|Hoid]] and [[Frost - The Coppermind|Frost]].[^8] [^9] The inhabitants of Yolen are called the Yolish.[^10]
+**Yolen** is a planet in the [[17th Shard|cosmere]] and [Yolish system](https://coppermind.net/edit/Yolish_system?redlink=1 "Yolish system (page does not exist)") where humans first appeared, and where the [[Shattering - The Coppermind|Shattering of Adonalsium]] happened.[^5] [^6] [^7] It's the homeworld of all the original [[Shards|Vessels]], along with [[Hoid - The Coppermind|Hoid]] and [[Frost - The Coppermind|Frost]].[^8] [^9] The inhabitants of Yolen are called the Yolish.[^10]
 
 ## Geography and Ecology
 
-Very little is known about Yolish geography, other than that it has some unusual features.[^11] Its gravity and other measurements are considered the **cosmere standard** by [[17th Shard|cosmere]] -aware scholars like [Khriss](https://coppermind.net/wiki/Khriss "Khriss").[^3] Its ecology is divided into two distinct parts. Parts of it are similar to post- [[Catacendre - The Coppermind|Catacendre]] [[Scadrial - The Coppermind|Scadrial]], with similar flora and fauna. Other parts are covered in **fainlife**, an invasive ecosystem.[^3] [^12] Although fain has the shape of ordinary flora, the plants and land overtaken by it are bone-white.[^13] There is something similar to a [[Perpendicularity - The Coppermind|perpendicularity]] on Yolen, despite the lack of a Shard.[^1]
+Very little is known about Yolish geography, other than that it has some unusual features.[^11] Its gravity and other measurements are considered the **cosmere standard** by [[17th Shard|cosmere]] -aware scholars like [[Khrissalla - The Coppermind|Khriss]].[^3] Its ecology is divided into two distinct parts. Parts of it are similar to post- [[Catacendre - The Coppermind|Catacendre]] [[Scadrial - The Coppermind|Scadrial]], with similar flora and fauna. Other parts are covered in **fainlife**, an invasive ecosystem.[^3] [^12] Although fain has the shape of ordinary flora, the plants and land overtaken by it are bone-white.[^13] There is something similar to a [[Perpendicularity - The Coppermind|perpendicularity]] on Yolen, despite the lack of a Shard.[^1]
 
 Yolen is home to three sapient races: humans, [dragons](https://coppermind.net/wiki/Dragon_\(cosmere\) "Dragon (cosmere)") and [[Sho Del - The Coppermind|Sho Del]].[^14] [^13] By [[Roshar - The Coppermind|Rosharan]] year, [[Frost - The Coppermind|Frost]] is the only known inhabitant, and though there are more people living there, the Yolish population is rather small.[^15] [^16] While not all humans originated from Yolen, it was the first world on which they've appeared.[^17] Many languages currently in use across the [[17th Shard|cosmere]] are derived from Yolish ones.[^18] [^19]
 
@@ -78,13 +78,13 @@ Yolen appears to have several magic systems, though only two are known.[^49]
 
 ### Lightweaving
 
-Lightweaving is the cosmere's original illusion magic. It's capable of creating auditory and visual manifestations, either independent or attached to a host.[^10] It can produce disguises, as well as alter the appearance of other substances, like smoke.[^50] [^51] It's most similar to the [[Surgebinding - The Coppermind|Surge]] of [Illumination](https://coppermind.net/wiki/Illumination "Illumination") from [[Roshar - The Coppermind|Roshar]], albeit less restrictive, not requiring a [[Spren - The Coppermind|spren]] bond.[^52] Hoid learned this original form of Lightweaving on Yolen.[^34]
+Lightweaving is the cosmere's original illusion magic. It's capable of creating auditory and visual manifestations, either independent or attached to a host.[^10] It can produce disguises, as well as alter the appearance of other substances, like smoke.[^50] [^51] It's most similar to the [[Surgebinding - The Coppermind|Surge]] of [[Surgebinding - The Coppermind|Illumination]] from [[Roshar - The Coppermind|Roshar]], albeit less restrictive, not requiring a [[Spren - The Coppermind|spren]] bond.[^52] Hoid learned this original form of Lightweaving on Yolen.[^34]
 
 The Shattering appears to have changed something in Lightweaving, as the original magic is only semi-functional.[^53]
 
 ### Microkinesis
 
-Microkinesis is a form of magic related to the manipulation of atomic particles, known as **[axi](https://coppermind.net/wiki/Axi "Axi")**,[^37] [^54] The power allows its users to observe atoms and interact with them directly.[^55] Axi can also be used to refer to the smallest theoretical division of matter.[^54]
+Microkinesis is a form of magic related to the manipulation of atomic particles, known as **[[Axon - The Coppermind|axi]]**,[^37] [^54] The power allows its users to observe atoms and interact with them directly.[^55] Axi can also be used to refer to the smallest theoretical division of matter.[^54]
 
 It can be used to set off atomic explosions, and this has happened several times in the past. Some Invested Arts, such as Stoneshaping, are based on Microkinesis, albiet with limitations placed upon them by the resident Shard.[^37]
 
@@ -117,7 +117,7 @@ It can be used to set off atomic explosions, and this has happened several times
 - [Brandon Sanderson](https://coppermind.net/wiki/Brandon_Sanderson "Brandon Sanderson") named Yolen after [Jane Yolen](https://en.wikipedia.org/wiki/Jane_Yolen "wikipedia:Jane Yolen"), who wrote *Dragon's Blood*, one of the early fantasy books he read.[^56]
 - The tree branch with writing on it from [Iyatil's](https://coppermind.net/wiki/Iyatil "Iyatil") collection comes from Yolen.[^57]
 - The [[Shattered Plains - The Coppermind|Shattered Plains]], as well as the [[Bridge Four - The Coppermind|Bridge Four]] plot and the character of [[Lunamor - The Coppermind|Lunamor]], were originally on Yolen. Brandon moved them to [[Roshar - The Coppermind|Roshar]] upon seeing concept art made by [Ben McSweeney](https://coppermind.net/wiki/Ben_McSweeney "Ben McSweeney") for *[[The Way of Kings (in-world) - The Coppermind|The Way of Kings]]*.[^58]
-- There is a saying on Yolen: "May two worlds become one to you." This is not referring to [Realms](https://coppermind.net/wiki/Realms "Realms").[^59]
+- There is a saying on Yolen: "May two worlds become one to you." This is not referring to [[Realmatic Theory, Miscellaneous|Realms]].[^59]
 - While gods existed and died on Yolen prior to the Shattering, these gods were not Shards.[^36] Current information suggests these gods were dragons.[^27]
 - Yolen is the setting of the unpublished novels *[The Liar of Partinel](https://coppermind.net/wiki/The_Liar_of_Partinel "The Liar of Partinel")*, *[The Lightweaver of Rens](https://coppermind.net/wiki/The_Lightweaver_of_Rens "The Lightweaver of Rens")* and *[Dragonsteel Prime](https://coppermind.net/wiki/Dragonsteel_Prime "Dragonsteel Prime")*.[^60] *[Dragonsteel](https://coppermind.net/wiki/Dragonsteel_\(series\) "Dragonsteel (series)")* proper, the prequel to the cosmere as a whole, will be set there.[^61]
 - Yolen has Earth-like physical parameters, that is to say, its gravity and radius are comparable to Earth.[^62] [^63]

@@ -16,7 +16,7 @@ This article deals with the order of Knights Radiant. For the novella featuring 
 
 The **Order of Elsecallers** is an Order of the [[Knights Radiant - The Coppermind|Knights Radiant]] on [[Roshar - The Coppermind|Roshar]].[^2]
 
-The Elsecallers are [[Surgebinding - The Coppermind|Surgebinders]] who use the [[Surgebinding - The Coppermind|Surges]] of [Transformation](https://coppermind.net/wiki/Transformation "Transformation") and [Transportation](https://coppermind.net/wiki/Transportation "Transportation"),[^3] and they are associated with the zircon [[Polestone - The Coppermind|polestone]]. They form a [[Nahel bond - The Coppermind|Nahel bond]] with [Inkspren](https://coppermind.net/wiki/Inkspren "Inkspren").[^4] So far, it is known that the Elsecallers had the power to [Soulcast](https://coppermind.net/wiki/Soulcast "Soulcast") and to "Elsecall," a use of the Transportation Surge which allows physical travel between [Realms](https://coppermind.net/wiki/Realms "Realms").
+The Elsecallers are [[Surgebinding - The Coppermind|Surgebinders]] who use the [[Surgebinding - The Coppermind|Surges]] of [[Surgebinding - The Coppermind|Transformation]] and [[Surgebinding - The Coppermind|Transportation]],[^3] and they are associated with the zircon [[Polestone - The Coppermind|polestone]]. They form a [[Nahel bond - The Coppermind|Nahel bond]] with [Inkspren](https://coppermind.net/wiki/Inkspren "Inkspren").[^4] So far, it is known that the Elsecallers had the power to [[Soulcasting - The Coppermind|Soulcast]] and to "Elsecall," a use of the Transportation Surge which allows physical travel between [[Realmatic Theory, Miscellaneous|Realms]].
 
 ## Philosophy
 
@@ -28,13 +28,13 @@ Those who join the Elsecallers generally subscribe to a philosophy that they sho
 
 Modern lore connects the Elsecallers with the gemstone zircon, the number seven, the [essence](https://coppermind.net/wiki/Ten_Essences "Ten Essences") tallow, and the body focus oil. They are associated with the attributes of wisdom and carefulness.
 
-The Elsecallers are one of the scholarly Orders of [[Knights Radiant - The Coppermind|Knights Radiant]]. Inkspren are attracted to people who think through decisions rather than acting on instinct. This quality is usually associated with scholars, but can also apply to a soldier who thinks things through instead of rushing into battle.[^9] Before the [Recreance](https://coppermind.net/wiki/Recreance "Recreance"), the Order also had a fair number of theologians and leaders, and was generally considered one of the most welcoming. The Elsecallers are widely considered the wisest and most careful of the Radiants, and were some of the Radiants' best tacticians and logistical organizers.[^6] [^5]
+The Elsecallers are one of the scholarly Orders of [[Knights Radiant - The Coppermind|Knights Radiant]]. Inkspren are attracted to people who think through decisions rather than acting on instinct. This quality is usually associated with scholars, but can also apply to a soldier who thinks things through instead of rushing into battle.[^9] Before the [[Day of Recreance - The Coppermind|Recreance]], the Order also had a fair number of theologians and leaders, and was generally considered one of the most welcoming. The Elsecallers are widely considered the wisest and most careful of the Radiants, and were some of the Radiants' best tacticians and logistical organizers.[^6] [^5]
 
 ## Ideals of the Elsecallers
 
-The Ideals of the [[Knights Radiant - The Coppermind|Knights Radiant]], also known as the [Immortal Words](https://coppermind.net/wiki/Immortal_Words "Immortal Words"), are a set of rules by which the Radiants live. The First Ideal is shared by all of the orders and is used as a motto for the Knights Radiant as a whole.
+The Ideals of the [[Knights Radiant - The Coppermind|Knights Radiant]], also known as the [[Knights Radiant - The Coppermind|Immortal Words]], are a set of rules by which the Radiants live. The First Ideal is shared by all of the orders and is used as a motto for the Knights Radiant as a whole.
 
-Elsecallers are one of the few orders with more variable oaths, though the extent of the personal nature is unknown. While the oaths of any order are somewhat specific to the individual, such as each [Windrunner](https://coppermind.net/wiki/Windrunner "Windrunner") swearing to protect a different person they hate, the orders of [Skybreakers](https://coppermind.net/wiki/Skybreakers "Skybreakers"), Elsecallers, and [[Order of Lightweavers - The Coppermind|Lightweavers]] all have personal oaths, though as already seen, they do still follow certain themes. The Ideals of the Order of Elsecallers all focus on progressing with each Ideal and discovering and reaching one's true potential.[^7] [^5] As a result, the Order is more open to all types of people, as long as they want to improve themselves.[^6]
+Elsecallers are one of the few orders with more variable oaths, though the extent of the personal nature is unknown. While the oaths of any order are somewhat specific to the individual, such as each [[Order of Windrunners - The Coppermind|Windrunner]] swearing to protect a different person they hate, the orders of [[Order of Skybreakers - The Coppermind|Skybreakers]], Elsecallers, and [[Order of Lightweavers - The Coppermind|Lightweavers]] all have personal oaths, though as already seen, they do still follow certain themes. The Ideals of the Order of Elsecallers all focus on progressing with each Ideal and discovering and reaching one's true potential.[^7] [^5] As a result, the Order is more open to all types of people, as long as they want to improve themselves.[^6]
 
 ### The First Ideal
 
@@ -46,11 +46,11 @@ The Elsecallers share the first ideal with all other orders of Radiants, which s
 
 ### The Later Oaths of the Elsecallers
 
-The later ideals of the Elsecallers are related to reaching one’s potential.[^6] [^5] These oaths are themed towards the individual, and how they personally might improve. These oaths will always be themed towards further improvement. Each oath takes more work and introspection to achieve.[^5] At the third Ideal, an Elsecaller can manifest their inkspren as a [Shardblade](https://coppermind.net/wiki/Shardblade "Shardblade").[^12] At the fourth Ideal, an Elsecaller gains their [[Shardplate - The Coppermind|Shardplate]], which is formed of [logicspren](https://coppermind.net/wiki/Logicspren "Logicspren").[^12] [^13]
+The later ideals of the Elsecallers are related to reaching one’s potential.[^6] [^5] These oaths are themed towards the individual, and how they personally might improve. These oaths will always be themed towards further improvement. Each oath takes more work and introspection to achieve.[^5] At the third Ideal, an Elsecaller can manifest their inkspren as a [Shardblade](https://coppermind.net/wiki/Shardblade "Shardblade").[^12] At the fourth Ideal, an Elsecaller gains their [[Shardplate - The Coppermind|Shardplate]], which is formed of [[Spren - The Coppermind|logicspren]].[^12] [^13]
 
 ## Abilities
 
-> “ *As to the other orders that were inferior in this visiting of the [far realm of spren](https://coppermind.net/wiki/Shadesmar "Shadesmar"), the Elsecallers were prodigiously benevolent, allowing others as auxiliary to their visits and interactions; though they did never relinquish their place as prime liaisons with the great ones of the spren; and the [Lightweavers](https://coppermind.net/wiki/Lightweaver "Lightweaver") and [Willshapers](https://coppermind.net/wiki/Willshaper "Willshaper") both also had an affinity to the same, though neither were true masters of that realm.* ”
+> “ *As to the other orders that were inferior in this visiting of the [far realm of spren](https://coppermind.net/wiki/Shadesmar "Shadesmar"), the Elsecallers were prodigiously benevolent, allowing others as auxiliary to their visits and interactions; though they did never relinquish their place as prime liaisons with the great ones of the spren; and the [Lightweavers](https://coppermind.net/wiki/Lightweaver "Lightweaver") and [[Order of Willshapers - The Coppermind|Willshapers]] both also had an affinity to the same, though neither were true masters of that realm.* ”
 > 
 > — [*Words of Radiance*](https://coppermind.net/wiki/Words_of_Radiance_\(in-world\) "Words of Radiance (in-world)"), chapter 6, page 2 [^2]
 
@@ -58,11 +58,11 @@ The Elsecallers use the Surges of **Transformation** and **Transportation**.[^14
 
 ### Transformation
 
-**[Transformation](https://coppermind.net/wiki/Transformation "Transformation")** can be manipulated to change an object into one of the ten essences.[^14] Soulcasting transforms one material into another, though Soulcasting into one of the Ten Essences is easiest.[^16] To [Soulcast](https://coppermind.net/wiki/Soulcast "Soulcast"), the Elsecaller shifts their perception to see into the [[Cognitive Realm - The Coppermind|Cognitive Realm]], and communicates with the Cognitive aspect of the object they want to transform.[^17] This is normally done through direct contact with an object, however, can be performed from a distance. Elsecallers are more skilled at doing this than the [Lightweavers](https://coppermind.net/wiki/Lightweaver "Lightweaver").[^18] They also tend to view Soulcasting differently from the Lightweavers.[^19]
+**[[Surgebinding - The Coppermind|Transformation]]** can be manipulated to change an object into one of the ten essences.[^14] Soulcasting transforms one material into another, though Soulcasting into one of the Ten Essences is easiest.[^16] To [[Soulcasting - The Coppermind|Soulcast]], the Elsecaller shifts their perception to see into the [[Cognitive Realm - The Coppermind|Cognitive Realm]], and communicates with the Cognitive aspect of the object they want to transform.[^17] This is normally done through direct contact with an object, however, can be performed from a distance. Elsecallers are more skilled at doing this than the [Lightweavers](https://coppermind.net/wiki/Lightweaver "Lightweaver").[^18] They also tend to view Soulcasting differently from the Lightweavers.[^19]
 
 ### Transportation
 
-**[Transportation](https://coppermind.net/wiki/Transportation "Transportation")** allows the transfer of one's physical body into and out of the [[Cognitive Realm - The Coppermind|Cognitive Realm]].[^20] It works by creating a miniature [[Perpendicularity - The Coppermind|perpendicularity]], called Elsegates, that the Elsecaller can go through.[^21] [^15] This surge is incredibly difficult to master.[^22] [^15] It is significantly easier to enter the Cognitive Realm using Elsecalling than it is to leave it.[^23] It is possible for Elsecallers to leave the Cognitive Realm without seeking a perpendicularity however this is a more advanced skill than entering.[^24] [^25] Elsecallers are able to use this ability to [worldhop](https://coppermind.net/wiki/Worldhop "Worldhop").[^26] [^27]
+**[[Surgebinding - The Coppermind|Transportation]]** allows the transfer of one's physical body into and out of the [[Cognitive Realm - The Coppermind|Cognitive Realm]].[^20] It works by creating a miniature [[Perpendicularity - The Coppermind|perpendicularity]], called Elsegates, that the Elsecaller can go through.[^21] [^15] This surge is incredibly difficult to master.[^22] [^15] It is significantly easier to enter the Cognitive Realm using Elsecalling than it is to leave it.[^23] It is possible for Elsecallers to leave the Cognitive Realm without seeking a perpendicularity however this is a more advanced skill than entering.[^24] [^25] Elsecallers are able to use this ability to [[17th Shard|worldhop]].[^26] [^27]
 
 It is implied that the more [[Investiture - The Coppermind|Investiture]] one uses in the Surge of Transportation, the more people they are able to bring into the Cognitive Realm.[^27] It is possible for an Elsecaller to teleport through the [[Spiritual Realm - The Coppermind|Spiritual Realm]], and thus transport themselves or others seemingly faster than light.[^28] [^22]
 
@@ -72,7 +72,7 @@ Elsecallers who have had their inkspren Enlightened by [[Sja-anat - The Coppermi
 
 ### Shardplate Abilities
 
-Their [[Shardplate - The Coppermind|Shardplate]], which they get after the fourth Ideal, is made up of [logicspren](https://coppermind.net/wiki/Logicspren "Logicspren").[^1] [^13]
+Their [[Shardplate - The Coppermind|Shardplate]], which they get after the fourth Ideal, is made up of [[Spren - The Coppermind|logicspren]].[^1] [^13]
 
 ## History
 
@@ -82,9 +82,9 @@ Their [[Shardplate - The Coppermind|Shardplate]], which they get after the fourt
 
 ### The Ancient Radiants
 
-They were the prime liaisons with the great ones of the [[Spren - The Coppermind|spren]].[^2] They were considered prodigiously benevolent by the author of the book *Words of Radiance*.[^2] They were appointed as the keepers of the [perfect gems](https://coppermind.net/wiki/Perfect_gem "Perfect gem") and took it upon themselves to protect [Honor's Drop](https://coppermind.net/wiki/Honor%27s_Drop "Honor's Drop").[^8] [^32] Some Elsecallers worldhopped to other planets, which is hinted at in names of places on the map of [Shadesmar](https://coppermind.net/wiki/Shadesmar "Shadesmar").[^26] Many acted as liaisons to the spren leaders, including the [[Oathgate - The Coppermind|Oathgate]] spren.[^8] Others served as guides for Shadesmar, military strategists, and logistical experts.
+They were the prime liaisons with the great ones of the [[Spren - The Coppermind|spren]].[^2] They were considered prodigiously benevolent by the author of the book *Words of Radiance*.[^2] They were appointed as the keepers of the [[Polestone - The Coppermind|perfect gems]] and took it upon themselves to protect [Honor's Drop](https://coppermind.net/wiki/Honor%27s_Drop "Honor's Drop").[^8] [^32] Some Elsecallers worldhopped to other planets, which is hinted at in names of places on the map of [Shadesmar](https://coppermind.net/wiki/Shadesmar "Shadesmar").[^26] Many acted as liaisons to the spren leaders, including the [[Oathgate - The Coppermind|Oathgate]] spren.[^8] Others served as guides for Shadesmar, military strategists, and logistical experts.
 
-The Elsecallers were one of the nine Orders to betray their Oaths, killing many [inkspren](https://coppermind.net/wiki/Inkspren "Inkspren") and dropping [Shardblades](https://coppermind.net/wiki/Shardblade "Shardblade") and [[Shardplate - The Coppermind|Shardplate]] during the [Recreance](https://coppermind.net/wiki/Recreance "Recreance").
+The Elsecallers were one of the nine Orders to betray their Oaths, killing many [inkspren](https://coppermind.net/wiki/Inkspren "Inkspren") and dropping [Shardblades](https://coppermind.net/wiki/Shardblade "Shardblade") and [[Shardplate - The Coppermind|Shardplate]] during the [[Day of Recreance - The Coppermind|Recreance]].
 
 ### True Desolation
 

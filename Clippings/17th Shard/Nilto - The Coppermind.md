@@ -18,7 +18,7 @@ favicon: "/favicon.ico"
 
 **Nilto** is a man in [[Kezare - The Coppermind|Kezare]] also known as the "Lord Beggar".
 
-His face appears disfigured and is covered in wrappings.[^1] He is an acquaintance of the [Darksider](https://coppermind.net/wiki/Darksider "Darksider") [Loaten](https://coppermind.net/wiki/Loaten "Loaten"). [[Ais - The Coppermind|Ais]] believes that Nilto is the crime lord known as [Sharezan](https://coppermind.net/wiki/Sharezan "Sharezan").[^1]
+His face appears disfigured and is covered in wrappings.[^1] He is an acquaintance of the [[Taldain - The Coppermind|Darksider]] [Loaten](https://coppermind.net/wiki/Loaten "Loaten"). [[Ais - The Coppermind|Ais]] believes that Nilto is the crime lord known as [Sharezan](https://coppermind.net/wiki/Sharezan "Sharezan").[^1]
 
 ## Spoiler Warning\[edit\]
 

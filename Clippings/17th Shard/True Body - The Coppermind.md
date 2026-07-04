@@ -12,7 +12,7 @@ favicon: "/favicon.ico"
 ---
 ## True Body
 
-A **True Body** was an artificial skeleton crafted by a [[Kandra - The Coppermind|kandra]] artisan for kandra to wear while they were in the [kandra Homeland](https://coppermind.net/wiki/Kandra_Homeland "Kandra Homeland").[^1] The [First Generation](https://coppermind.net/wiki/First_Generation "First Generation") was the only generation not to wear true bodies, they did not have the skill or knowledge to craft them when they first became kandra, so the [Lord Ruler](https://coppermind.net/wiki/Lord_Ruler "Lord Ruler") returned their original skeletons for them from when they had been human.[^2]
+A **True Body** was an artificial skeleton crafted by a [[Kandra - The Coppermind|kandra]] artisan for kandra to wear while they were in the [kandra Homeland](https://coppermind.net/wiki/Kandra_Homeland "Kandra Homeland").[^1] The [First Generation](https://coppermind.net/wiki/First_Generation "First Generation") was the only generation not to wear true bodies, they did not have the skill or knowledge to craft them when they first became kandra, so the [[Rashek - The Coppermind|Lord Ruler]] returned their original skeletons for them from when they had been human.[^2]
 
 ## Styles
 
@@ -25,7 +25,7 @@ However, younger generations, such as the Sevenths, often wore True Bodies that 
 Materials used for True Bodies varied, although specific generations tended to use certain types of materials.
 
 - Crystal - Used often by the Second Generation, such as [KanPaar](https://coppermind.net/wiki/KanPaar "KanPaar"). These true bodies were beautiful but fragile and could be tinted various colors, such as red.[^4] They can be used as a [[Gemheart - The Coppermind|gemheart]].[^5]
-- Quartzite Stone - Used often by the Fifth Generation, such as [VarSell](https://coppermind.net/wiki/VarSell "VarSell"). These were strong True Bodies, and often coupled with the [Blessing of Potency](https://coppermind.net/wiki/Blessing_of_Potency "Blessing of Potency"), which made the kandra who possessed them formidable warriors.[^6] These True Bodies could be cracked by a heavy weight.[^7] They were considered lavish and they sparkled slightly in the light.
+- Quartzite Stone - Used often by the Fifth Generation, such as [VarSell](https://coppermind.net/wiki/VarSell "VarSell"). These were strong True Bodies, and often coupled with the [[Iron - The Coppermind|Blessing of Potency]], which made the kandra who possessed them formidable warriors.[^6] These True Bodies could be cracked by a heavy weight.[^7] They were considered lavish and they sparkled slightly in the light.
 - Wood - Used often by the Seventh Generation, such as [MeLaan](https://coppermind.net/wiki/MeLaan "MeLaan"). These bodies were often carved into unusual shapes.[^4]
 
 ## Trivia

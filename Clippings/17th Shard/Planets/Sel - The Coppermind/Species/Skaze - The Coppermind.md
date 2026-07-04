@@ -19,7 +19,7 @@ The **skaze** are [[Splinter - The Coppermind|Splinters]] of [[Dominion - The Co
 
 ## Appearance and Characteristics
 
-While the seons glow with light and have an [[Aon - The Coppermind|Aon]] at their center, the skaze are described as dark, seeming to suck in the light around them, with indistinct edges that blend into the air.[^3] Skaze also have a ring around their sphere with a "pattern of misty symbols".[^3] The skaze have some relationship to and may be named after Dominion's [Vessel](https://coppermind.net/wiki/Vessel "Vessel") [[Skai - The Coppermind|Skai]].[^4] This is similar to the relationship of seons to [[Devotion - The Coppermind|Devotion's]] Vessel, [[Aona - The Coppermind|Aona]].[^5]
+While the seons glow with light and have an [[Aon - The Coppermind|Aon]] at their center, the skaze are described as dark, seeming to suck in the light around them, with indistinct edges that blend into the air.[^3] Skaze also have a ring around their sphere with a "pattern of misty symbols".[^3] The skaze have some relationship to and may be named after Dominion's [[Shards|Vessel]] [[Skai - The Coppermind|Skai]].[^4] This is similar to the relationship of seons to [[Devotion - The Coppermind|Devotion's]] Vessel, [[Aona - The Coppermind|Aona]].[^5]
 
 Most likely due to Dominion's Intent, the skaze have a thirst for power.[^6] The skaze are "reliant upon humankind",[^3] but it is not known if they have masters like the seons. It is also unknown if the skaze were affected by the [[Reod - The Coppermind|Reod]].
 
@@ -33,7 +33,7 @@ Skaze have many similarities to the [[Spren - The Coppermind|spren]] that live o
 
 ## History
 
-The skaze had a large amount of influence in the politics of [Fjordell](https://coppermind.net/wiki/Fjordell "Fjordell") [^10] and had a particularly strong influence on the monks of the [Dakhor Monastery](https://coppermind.net/wiki/Dakhor_Monastery "Dakhor Monastery").[^11] [[Dilaf - The Coppermind|Dilaf]], the leader of the Dakhor, learned that [Elantrians](https://coppermind.net/wiki/Elantrian "Elantrian") were not indestructible from the skaze.[^12]
+The skaze had a large amount of influence in the politics of [[Fjorden - The Coppermind|Fjordell]] [^10] and had a particularly strong influence on the monks of the [[Shu-Dereth - The Coppermind|Dakhor Monastery]].[^11] [[Dilaf - The Coppermind|Dilaf]], the leader of the Dakhor, learned that [Elantrians](https://coppermind.net/wiki/Elantrian "Elantrian") were not indestructible from the skaze.[^12]
 
 [[Hoid - The Coppermind|Hoid]] made some kind of agreement with a group of skaze in which he promised to become an [Elantrian](https://coppermind.net/wiki/Elantrian "Elantrian").[^3] The partnership between them was fairly loose.[^13] When he discovered that he had failed in his initial attempts, he was in the company of a skaze who displayed a surprising level of emotion and humor, causing him to reflect on the fact that the skaze had a wide range of individual personalities.[^3]
 

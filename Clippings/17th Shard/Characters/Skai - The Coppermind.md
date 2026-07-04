@@ -16,7 +16,7 @@ favicon: /favicon.ico
 ---
 ## Skai
 
-**Skai** was the original [Vessel](https://coppermind.net/wiki/Vessel "Vessel") of the [[Shards|Shard]] [[Dominion - The Coppermind|Dominion]].[^2] Sometime after the [[Shattering - The Coppermind|Shattering]], he and [[Aona - The Coppermind|Aona]] took up residence on [[Sel - The Coppermind|Sel]].[^1] [[Edgli - The Coppermind|Edgli]] believes that, by doing so, they violated the original Vessels' pact to not settle on the same world as another Shard,[^3] [^4] though the exact terms of that agreement are somewhat unclear.[^5]
+**Skai** was the original [[Shards|Vessel]] of the [[Shards|Shard]] [[Dominion - The Coppermind|Dominion]].[^2] Sometime after the [[Shattering - The Coppermind|Shattering]], he and [[Aona - The Coppermind|Aona]] took up residence on [[Sel - The Coppermind|Sel]].[^1] [[Edgli - The Coppermind|Edgli]] believes that, by doing so, they violated the original Vessels' pact to not settle on the same world as another Shard,[^3] [^4] though the exact terms of that agreement are somewhat unclear.[^5]
 
 ## Abilities and Attributes
 

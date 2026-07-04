@@ -12,7 +12,7 @@ favicon: "/favicon.ico"
 ---
 ## Lossand
 
-**Lossand** is a nation on the Dayside of [[Taldain - The Coppermind|Taldain]]. Residents of Lossand are called **Lossandins**. It is notable for being the home of the [[Diem - The Coppermind|Diem]], and for being considered a desert by the [Kerztians](https://coppermind.net/wiki/Kerztian "Kerztian") due to a lack of [[Dorim vine - The Coppermind|dorim vines]]. Lossand is ruled by the Taishin.[^4]
+**Lossand** is a nation on the Dayside of [[Taldain - The Coppermind|Taldain]]. Residents of Lossand are called **Lossandins**. It is notable for being the home of the [[Diem - The Coppermind|Diem]], and for being considered a desert by the [[Kerzta - The Coppermind|Kerztians]] due to a lack of [[Dorim vine - The Coppermind|dorim vines]]. Lossand is ruled by the Taishin.[^4]
 
 ## Geography
 
@@ -22,7 +22,7 @@ Lossand is situated on the southern side of Dayside. Its borders form the shape 
 
 ### Climate
 
-Lossand is considered a desert, despite the water table provided by two rivers, due to a lack of dorim vines. Wells are unreliable, so settlement is confined to islands in the rivers and irrigable land on the river banks. Like all of Dayside, the temperature is hot-and steadily so since the sun is always shining.[^4] There is usually a steady breeze to help alleviate the heat.[^6] Near Mt. KraeDa, the sun is at the zenith;[^7] but at the southern coast, the sun is low enough in the sky that [Darksiders](https://coppermind.net/wiki/Darksider "Darksider") can forgo their sunglasses.[^8]
+Lossand is considered a desert, despite the water table provided by two rivers, due to a lack of dorim vines. Wells are unreliable, so settlement is confined to islands in the rivers and irrigable land on the river banks. Like all of Dayside, the temperature is hot-and steadily so since the sun is always shining.[^4] There is usually a steady breeze to help alleviate the heat.[^6] Near Mt. KraeDa, the sun is at the zenith;[^7] but at the southern coast, the sun is low enough in the sky that [[Taldain - The Coppermind|Darksiders]] can forgo their sunglasses.[^8]
 
 ### Notable Cities
 
@@ -35,7 +35,7 @@ According to [legend](https://coppermind.net/wiki/Khrissalla%27s_Journal#Dayside
 
 Relations between Lossand and Kerzta were often strained in the past, primarily due to religious rhetoric from the Kerztian clergy who claim that Lossand is a desert because it is cursed by the Sand Lord. The Kerztian priest [[DaiKeen - The Coppermind|DaiKeen]] is particularly opposed to Lossand's acceptance of sand mastery. This left the two nations frequently in a state of war with one another.[^7]
 
-Tensions were eased two hundred years ago when a member of the Merchant DiaKeen was selected as the new king of Kerzta, but growing support behind Kerzta's [high priest](https://coppermind.net/wiki/A%27kar "A'kar") has cast doubt on the possibility of continued peace.[^7]
+Tensions were eased two hundred years ago when a member of the Merchant DiaKeen was selected as the new king of Kerzta, but growing support behind Kerzta's [[Ker'reen - The Coppermind|high priest]] has cast doubt on the possibility of continued peace.[^7]
 
 ## Politics
 
@@ -55,35 +55,35 @@ The **Diem** is the Profession of the [[Sand mastery - The Coppermind|sand maste
 
 ### The Hall of Judges, Trackts, and Scribes
 
-The **Hall**, is the Profession of the [trackts](https://coppermind.net/wiki/Trackt "Trackt") and judges of Lossand. Its Taisha is the [Judge](https://coppermind.net/wiki/Lady_Judge "Lady Judge"). The current Lady Judge is Heelis, who is also the current head of the Taishin Council as High Judge. The Profession is headquartered in **The Hall of Judgement**. The Hall includes the sub-profession of scribes.[^1]
+The **Hall**, is the Profession of the [trackts](https://coppermind.net/wiki/Trackt "Trackt") and judges of Lossand. Its Taisha is the [[Taishin - The Coppermind|Judge]]. The current Lady Judge is Heelis, who is also the current head of the Taishin Council as High Judge. The Profession is headquartered in **The Hall of Judgement**. The Hall includes the sub-profession of scribes.[^1]
 
 ### The Guild of Merchants
 
-The **Guild**, is the Profession of the banking industry of Lossand. Its Taisha is the [Merchant](https://coppermind.net/wiki/Lord_Merchant "Lord Merchant"). The current Lord Merchant is [[Vey - The Coppermind|Vey]]. It is headquartered at the **Golden Market**. The Guild includes the subprofessions of moneychangers, lenders, and merchants.[^2]
+The **Guild**, is the Profession of the banking industry of Lossand. Its Taisha is the [[Taishin - The Coppermind|Merchant]]. The current Lord Merchant is [[Vey - The Coppermind|Vey]]. It is headquartered at the **Golden Market**. The Guild includes the subprofessions of moneychangers, lenders, and merchants.[^2]
 
 ### The Tower of Soldiers
 
-The **Tower** is the Profession of the military of Lossand. Its Taisha is the [General](https://coppermind.net/wiki/Lord_General "Lord General"). The current Lord General is [[Aarik - The Coppermind|Aarik]]. The Tower is headquartered in a building known as the **Tower Garrison**. The Tower has no sub-professions.
+The **Tower** is the Profession of the military of Lossand. Its Taisha is the [[Taishin - The Coppermind|General]]. The current Lord General is [[Aarik - The Coppermind|Aarik]]. The Tower is headquartered in a building known as the **Tower Garrison**. The Tower has no sub-professions.
 
 ### The Company of Masons
 
-The **Company** is the Profession of the construction industry of Lossand. Its Taisha is the [Mason](https://coppermind.net/wiki/Lady_Mason "Lady Mason"). The current Lady Mason's name is unknown.[^3] It is based out of the **Mason Headquarters**. The Company includes the sub-professions of stone masons, builders, and miners.
+The **Company** is the Profession of the construction industry of Lossand. Its Taisha is the [[Taishin - The Coppermind|Mason]]. The current Lady Mason's name is unknown.[^3] It is based out of the **Mason Headquarters**. The Company includes the sub-professions of stone masons, builders, and miners.
 
 ### The Field of Farmers
 
-The **Field** is the Profession of the farming industry of Lossand. Its Taisha is the [Farmer](https://coppermind.net/wiki/Lord_Farmer "Lord Farmer"). The current Lord Farmer is [Gennel](https://coppermind.net/wiki/Gennel "Gennel"). It is headquartered at the **Farmers Congress**. The Field includes those who own the farmland and those who farm the land. It may include the merchants that sell agriculture products, as the Lord Artisan notes that the Diem owes the Field five hundred thousand [lak](https://coppermind.net/wiki/Lak "Lak") for goods taken without payment.[^10]
+The **Field** is the Profession of the farming industry of Lossand. Its Taisha is the [[Taishin - The Coppermind|Farmer]]. The current Lord Farmer is [Gennel](https://coppermind.net/wiki/Gennel "Gennel"). It is headquartered at the **Farmers Congress**. The Field includes those who own the farmland and those who farm the land. It may include the merchants that sell agriculture products, as the Lord Artisan notes that the Diem owes the Field five hundred thousand [lak](https://coppermind.net/wiki/Lak "Lak") for goods taken without payment.[^10]
 
 ### The Draft of Artisans
 
-The **Draft** is the Profession of the manufactured goods industry of Lossand. Its Taisha is the [Artisan](https://coppermind.net/wiki/Lord_Artisan "Lord Artisan"). The current Lord Artisan is [Rite](https://coppermind.net/wiki/Rite "Rite"). It is headquartered at the **Artisan Central Studio**. The Draft is probably the most disparate profession, including sub-professions of all kinds of artisans and craftpersons, such as carpentry, cobblery, medicine, painting, etc.
+The **Draft** is the Profession of the manufactured goods industry of Lossand. Its Taisha is the [[Taishin - The Coppermind|Artisan]]. The current Lord Artisan is [Rite](https://coppermind.net/wiki/Rite "Rite"). It is headquartered at the **Artisan Central Studio**. The Draft is probably the most disparate profession, including sub-professions of all kinds of artisans and craftpersons, such as carpentry, cobblery, medicine, painting, etc.
 
 ### The Helm of Shipowners
 
-The **Helm** is the Profession of the shipping industry of Lossand. Its Taisha is the [Admiral](https://coppermind.net/wiki/Lord_Admiral "Lord Admiral"). The current Lord Admiral is [Lokkall](https://coppermind.net/wiki/Lokkall "Lokkall"). The Lord Admiral resides at **Helm's Rest**. The position of Lord Admiral is a figurehead position without any power, other than a vote in the council, and in fact is regarded as more of a punishment than an honor. The true leadership of the Helm belongs to the **Shipowners' Circle**, currently headquartered in [[Lraezare - The Coppermind|Lraezare]].
+The **Helm** is the Profession of the shipping industry of Lossand. Its Taisha is the [[Taishin - The Coppermind|Admiral]]. The current Lord Admiral is [Lokkall](https://coppermind.net/wiki/Lokkall "Lokkall"). The Lord Admiral resides at **Helm's Rest**. The position of Lord Admiral is a figurehead position without any power, other than a vote in the council, and in fact is regarded as more of a punishment than an honor. The true leadership of the Helm belongs to the **Shipowners' Circle**, currently headquartered in [[Lraezare - The Coppermind|Lraezare]].
 
 ## Culture
 
-Lossand contains a mix of many cultures, including Kerztian and the [Rim Kingdoms](https://coppermind.net/wiki/Rim_Kingdoms "Rim Kingdoms"). Many citizens of Lossand are ethnically Kerztian, and entire communities of Darksiders can be found. The most unique characteristic of Lossandin culture is the presence of the Diem of sand masters who, in the past, contributed to the nation's defense and infrastructure. While belief in the Sand Lord is not uncommon, there are no dominant organized religions. The Los'seen form of worship for the Sand Lord is often seen as more of a philosophy than a religion, though both faiths show reverence for the sun.[^4]
+Lossand contains a mix of many cultures, including Kerztian and the [[Taldain - The Coppermind|Rim Kingdoms]]. Many citizens of Lossand are ethnically Kerztian, and entire communities of Darksiders can be found. The most unique characteristic of Lossandin culture is the presence of the Diem of sand masters who, in the past, contributed to the nation's defense and infrastructure. While belief in the Sand Lord is not uncommon, there are no dominant organized religions. The Los'seen form of worship for the Sand Lord is often seen as more of a philosophy than a religion, though both faiths show reverence for the sun.[^4]
 
 ## Notable Lossandins
 

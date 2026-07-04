@@ -19,7 +19,7 @@ favicon: /favicon.ico
 > 
 > —Koravellium Avast [^6]
 
-**Koravellium Avast**, also known as **She Who Brings the Dews at Dawn**, **Kor**, and **Koravari**, is the original, and current, [Vessel](https://coppermind.net/wiki/Vessel "Vessel") of the [[Shards|Shard]] [[Cultivation - The Coppermind|Cultivation]].[^2]
+**Koravellium Avast**, also known as **She Who Brings the Dews at Dawn**, **Kor**, and **Koravari**, is the original, and current, [[Shards|Vessel]] of the [[Shards|Shard]] [[Cultivation - The Coppermind|Cultivation]].[^2]
 
 ## Appearance and Personality
 
@@ -49,11 +49,11 @@ She believes that one god cannot rule the cosmere, as one solution would never b
 
 Koravellium was once capable of transforming between shapes of various species, including those of a human and a giant, scaled beast.[^5] Being a [dragon](https://coppermind.net/wiki/Dragon_\(cosmere\) "Dragon (cosmere)"), she would also be unaging and capable of flight.[^15] While presently she can appear as she wishes, her draconic shape is still the "truest" one.[^8] Nonetheless, despite being [[Roshar - The Coppermind|Roshar's]] only dragon, she prefers to hide this aspect of her nature.[^15]
 
-As a [[Shards|Shard]], she is one of the most powerful entities in the [[17th Shard|cosmere]], capable of altering souls through [[Old Magic - The Coppermind|Old Magic]]. She has demonstrated the power to manipulate people's memories, alter their levels of intelligence and emotion, and give them abilities such as metabolizing food into [Lifelight](https://coppermind.net/wiki/Lifelight "Lifelight"), touching spren, and entering [visions](https://coppermind.net/wiki/Visions "Visions"). She is capable of creating powerful [[Spren - The Coppermind|spren]] and granting them abilities similar to her own, though the only such creation known to exist is the [[Nightwatcher - The Coppermind|Nightwatcher]].[^6] As with most Shards, Koravellium is additionally gifted with potent future sight. While it's better than [[Honor - The Coppermind|Honor's]], it's unclear how she compares to Shards like [[Endowment - The Coppermind|Endowment]] or [[Preservation - The Coppermind|Preservation]].[^16]
+As a [[Shards|Shard]], she is one of the most powerful entities in the [[17th Shard|cosmere]], capable of altering souls through [[Old Magic - The Coppermind|Old Magic]]. She has demonstrated the power to manipulate people's memories, alter their levels of intelligence and emotion, and give them abilities such as metabolizing food into [[Lights|Lifelight]], touching spren, and entering [visions](https://coppermind.net/wiki/Visions "Visions"). She is capable of creating powerful [[Spren - The Coppermind|spren]] and granting them abilities similar to her own, though the only such creation known to exist is the [[Nightwatcher - The Coppermind|Nightwatcher]].[^6] As with most Shards, Koravellium is additionally gifted with potent future sight. While it's better than [[Honor - The Coppermind|Honor's]], it's unclear how she compares to Shards like [[Endowment - The Coppermind|Endowment]] or [[Preservation - The Coppermind|Preservation]].[^16]
 
 ## History
 
-Little is known about Koravellium's history prior to the [[Shattering - The Coppermind|Shattering of Adonalsium]]. Like all other original [Vessels](https://coppermind.net/wiki/Vessel "Vessel"), she came from [[Yolen - The Coppermind|Yolen]].[^17]
+Little is known about Koravellium's history prior to the [[Shattering - The Coppermind|Shattering of Adonalsium]]. Like all other original [[Shards|Vessels]], she came from [[Yolen - The Coppermind|Yolen]].[^17]
 
 It can be assumed that she was a god figure on Yolen, as she was a [dragon](https://coppermind.net/wiki/Dragon_\(cosmere\) "Dragon (cosmere)"), a species which are worshipped there as gods [^18], and was trained to be one.[^9] However, she rejected this godhood, leaving her people when they wished for her to take prayers, and was thus deemed a heretic.[^3]
 
@@ -71,7 +71,7 @@ Koravellium and [[Tanavast - The Coppermind|Tanavast]] were once romantically in
 
 She publicly withdrew from the matters of [[Spren - The Coppermind|spren]] and [[Roshar - The Coppermind|Roshar]] after his death, leading some [cultivationspren](https://coppermind.net/wiki/Cultivationspren "Cultivationspren") to believe she has wholly given up on humanity.[^11] As the [[Stormfather - The Coppermind|Stormfather]] is, in some ways, Tanavast's [[The Coppermind Wiki - 17th Shard, the Official Brandon Sanderson Fansite 1|Cognitive Shadow]], he reminds her heavily of him, and she feels about him much the same way as she did about [[Honor - The Coppermind|Honor]].[^21]
 
-Back when he created the [visions](https://coppermind.net/wiki/Visions#Honor.27s_Visions "Visions"), Tanavast highly respected Koravellium's ability to predict the future, calling it far superior to his own.[^16] Presently, the Stormfather feels much the same about her as Honor used to.[^22] It's unknown how often the two interacted since Honor's [Splintering](https://coppermind.net/wiki/Splintering "Splintering"), if at all.
+Back when he created the [visions](https://coppermind.net/wiki/Visions#Honor.27s_Visions "Visions"), Tanavast highly respected Koravellium's ability to predict the future, calling it far superior to his own.[^16] Presently, the Stormfather feels much the same about her as Honor used to.[^22] It's unknown how often the two interacted since Honor's [[Splinter - The Coppermind|Splintering]], if at all.
 
 After leaving the other Shards, Tanavast went to Roshar, and some time after Koravellium Avast arrived. Tanavast had loved her in secret but their union had been "forbidden" when they were mortal. Being with Koravellium Avast was a violation of Tanavast's oaths, which caused his power to rebel against him, but Tanavast quelled its rebellion.[^3]
 

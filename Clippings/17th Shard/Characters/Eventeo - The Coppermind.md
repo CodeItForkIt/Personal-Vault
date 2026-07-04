@@ -54,7 +54,7 @@ Eventeo won the battle, though only barely. Kiin barely escaped with his life, a
 
 King Eventeo of Teod supported his daughter [[Sarene - The Coppermind|Sarene]] who, in an attempt to re-establish diplomatic relations with [[Arelon - The Coppermind|Arelon]], arranges her political marriage with [[Raoden - The Coppermind|Prince Raoden]].
 
-With the rise of the [Fjordell Empire](https://coppermind.net/wiki/Fjordell_Empire "Fjordell Empire") putting pressure on Teod and [[Arelon - The Coppermind|Arelon]], the alliance between the two empires was important enough to let her daughter stay there after she found Raoden had died.[^1]
+With the rise of the [[Fjorden - The Coppermind|Fjordell Empire]] putting pressure on Teod and [[Arelon - The Coppermind|Arelon]], the alliance between the two empires was important enough to let her daughter stay there after she found Raoden had died.[^1]
 
 This however was not enough to make things easier in [[Teod - The Coppermind|Teod]]. Not only he had to put down Mystery cultists, but received direct offense of Fjordell when [Ashgress](https://coppermind.net/wiki/Ashgress "Ashgress"), their Ambassador, left Teod. The Fjordell borders started closing to Teo merchants north and south, and their ambassadors and spies began to disappear. He started to consider religious conversion if Arelon fell to the Fjordell.[^2]
 

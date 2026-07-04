@@ -13,9 +13,10 @@
   "cupertino@@tab-floating": true,
   "cupertino@@hover-ribbon": true,
   "cupertino@@hover-sidedock": true,
-  "cupertino@@focus-view": true,
+  "cupertino@@focus-view": false,
   "cupertino@@adaptive-mode-off": false,
   "cupertino@@nav-action-center": false,
   "cupertino@@zoom-off": false,
-  "cupertino@@active-line-off": false
+  "cupertino@@active-line-off": false,
+  "cupertino@@tab-icon": false
 }

@@ -18,7 +18,7 @@ favicon: "/favicon.ico"
 
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 
-**Salay's father** is the unnamed father of [[Salay - The Coppermind|Salay]] on [[Lumar - The Coppermind|Lumar]]. Salay sails the seas looking for her father, hoping to find him and pay off his debts.[^1] [[Tress - The Coppermind|Tress]] managed to get the information to his whereabouts out of [Xisis](https://coppermind.net/wiki/Xisis "Xisis"), and sometime after defeating the [Sorceress](https://coppermind.net/wiki/Sorceress "Sorceress"), Tress and the rest of her crew rescued him from [[Filistrate City - The Coppermind|Filistrate City]] where he was kept.[^2] [^3] As a member of the crew, Salay started to teach him how to steer the ship, though he was a bit rough and bumped into the docks on approaching [Diggen's Point](https://coppermind.net/wiki/Diggen%27s_Point "Diggen's Point").[^3]
+**Salay's father** is the unnamed father of [[Salay - The Coppermind|Salay]] on [[Lumar - The Coppermind|Lumar]]. Salay sails the seas looking for her father, hoping to find him and pay off his debts.[^1] [[Tress - The Coppermind|Tress]] managed to get the information to his whereabouts out of [[Xisisrefliel - The Coppermind|Xisis]], and sometime after defeating the [[Riina - The Coppermind|Sorceress]], Tress and the rest of her crew rescued him from [[Filistrate City - The Coppermind|Filistrate City]] where he was kept.[^2] [^3] As a member of the crew, Salay started to teach him how to steer the ship, though he was a bit rough and bumped into the docks on approaching [Diggen's Point](https://coppermind.net/wiki/Diggen%27s_Point "Diggen's Point").[^3]
 
 ## Notes\[edit\]
 

@@ -22,7 +22,7 @@ She is a good woman, although she is vain and a bit of a drama queen.[^5] She se
 
 ## Attributes and Abilities
 
-As a [[Returned - The Coppermind|Returned]], Mercystar has a [divine Breath](https://coppermind.net/wiki/Divine_Breath "Divine Breath") which gives her the benefits of the [Fifth Heightening](https://coppermind.net/wiki/Fifth_Heightening "Fifth Heightening"). This includes:
+As a [[Returned - The Coppermind|Returned]], Mercystar has a [[BioChromatic Breath - The Coppermind|divine Breath]] which gives her the benefits of the [[Heightening - The Coppermind|Fifth Heightening]]. This includes:
 
 - Aura Recognition - allows her to assess the number of Breaths a person possesses.
 - Perfect Pitch
@@ -32,7 +32,7 @@ As a [[Returned - The Coppermind|Returned]], Mercystar has a [divine Breath](htt
 
 Mercystar is known for her involvement in politics, yet she is not all that inﬂuential.[^1] She can be easily swayed by other Returned such as Blushweaver that are more skilled with rhetoric.[^2]
 
-She has the command of ten thousand [[Lifeless - The Coppermind|Lifeless]], and is one of the Returned who had access to a series of tunnels that connected different palaces, including the [God King's](https://coppermind.net/wiki/God_King "God King") palace. A lockable grate prevents unwanted access to her palace from the tunnels.[^2] [^6]
+She has the command of ten thousand [[Lifeless - The Coppermind|Lifeless]], and is one of the Returned who had access to a series of tunnels that connected different palaces, including the [[Susebron - The Coppermind|God King's]] palace. A lockable grate prevents unwanted access to her palace from the tunnels.[^2] [^6]
 
 ## History
 

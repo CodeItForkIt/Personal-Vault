@@ -14,7 +14,7 @@ favicon: "/favicon.ico"
 
 > “ *I didn't say Tvlakv isn't a bastard. He's just a likable bastard. Those are the worst kind. When you kill them, you end up feeling guilty for it.* ”
 
-**Tvlakv** is a [Thaylen](https://coppermind.net/wiki/Thaylen "Thaylen") slave trader on [[Roshar - The Coppermind|Roshar]].[^2]
+**Tvlakv** is a [[Thaylenah - The Coppermind|Thaylen]] slave trader on [[Roshar - The Coppermind|Roshar]].[^2]
 
 ## Appearance and Personality
 
@@ -22,13 +22,13 @@ favicon: "/favicon.ico"
 > 
 > — [[Shallan Davar - The Coppermind|Shallan's]] impression of Tvlakv [^3]
 
-He is a portly man and walks with a faint limp, although he can move fairly quickly when he is motivated.[^3] [^2] As a [Thaylen](https://coppermind.net/wiki/Thaylen "Thaylen"), his beard and long eyebrows are stark white, contrasting with his brown eyes and black hair. He wears a suit and vest that were once fine, though they have grown ragged.[^2] [^4] He usually wears a dark blue knit cap, and has a habit of wringing it in his hands when he is nervous.[^2] [^4] He also has a black cloak that he wears in case of rain.[^1] He speaks [Alethi](https://coppermind.net/wiki/Alethi "Alethi") with a light Thaylen accent.[^2] [^4]
+He is a portly man and walks with a faint limp, although he can move fairly quickly when he is motivated.[^3] [^2] As a [[Thaylenah - The Coppermind|Thaylen]], his beard and long eyebrows are stark white, contrasting with his brown eyes and black hair. He wears a suit and vest that were once fine, though they have grown ragged.[^2] [^4] He usually wears a dark blue knit cap, and has a habit of wringing it in his hands when he is nervous.[^2] [^4] He also has a black cloak that he wears in case of rain.[^1] He speaks [Alethi](https://coppermind.net/wiki/Alethi "Alethi") with a light Thaylen accent.[^2] [^4]
 
 Tvlakv is relatively eloquent, and even those who distrust him take note of his charisma. He is unscrupulous and prone to telling obvious lies, and he simply glosses over them if he is caught.[^2] [^3] He checks on the health of his slaves, but only to protect their value;[^2] most of them remain sickly and underfed.[^3] He has no problem executing a slave if he is worried they could spread illness.[^2]
 
 ## Attributes and Abilities
 
-As a slaver, Tvlakv has led numerous caravans to the [[Shattered Plains - The Coppermind|Shattered Plains]]. His caravan has three wagons, and it is led by [[Chull - The Coppermind|chulls]].[^2] Tvlakv's wagon has a waterproof enclosure built into the bottom where he takes refuge during highstorms.[^1] He has become experienced in dealing with dangers such as the storms and bandits,[^1] [^3] but he is not yet familiar with all of the routes to the Plains. He employs mercenaries ([Tag](https://coppermind.net/wiki/Tag "Tag") and [Bluth](https://coppermind.net/wiki/Bluth "Bluth")) to perform physical labor and provide protection; he also employs [Taran](https://coppermind.net/wiki/Taran "Taran") as a serving boy.[^2] He later acquires several [parshmen](https://coppermind.net/wiki/Parshmen "Parshmen") to help with more menial tasks.[^5]
+As a slaver, Tvlakv has led numerous caravans to the [[Shattered Plains - The Coppermind|Shattered Plains]]. His caravan has three wagons, and it is led by [[Chull - The Coppermind|chulls]].[^2] Tvlakv's wagon has a waterproof enclosure built into the bottom where he takes refuge during highstorms.[^1] He has become experienced in dealing with dangers such as the storms and bandits,[^1] [^3] but he is not yet familiar with all of the routes to the Plains. He employs mercenaries ([Tag](https://coppermind.net/wiki/Tag "Tag") and [Bluth](https://coppermind.net/wiki/Bluth "Bluth")) to perform physical labor and provide protection; he also employs [Taran](https://coppermind.net/wiki/Taran "Taran") as a serving boy.[^2] He later acquires several [[Singer - The Coppermind|parshmen]] to help with more menial tasks.[^5]
 
 ## History
 

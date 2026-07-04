@@ -19,7 +19,7 @@ This article is about the nation on Roshar. For the people across the cosmere, s
 > 
 > — [Ym](https://coppermind.net/wiki/Ym "Ym") [^1]
 
-**Iri** is a kingdom in northwestern [[Roshar - The Coppermind|Roshar]].[^2] Prior to the [Recreance](https://coppermind.net/wiki/Recreance "Recreance"), it was one of the [[Silver Kingdoms - The Coppermind|Silver Kingdoms]].[^3] People from Iri are called Iriali. Iri is ruled by three monarchs, currently two kings and a queen. The Iriali queen has authority over foreign policy.[^4]
+**Iri** is a kingdom in northwestern [[Roshar - The Coppermind|Roshar]].[^2] Prior to the [[Day of Recreance - The Coppermind|Recreance]], it was one of the [[Silver Kingdoms - The Coppermind|Silver Kingdoms]].[^3] People from Iri are called Iriali. Iri is ruled by three monarchs, currently two kings and a queen. The Iriali queen has authority over foreign policy.[^4]
 
 ## Geography and Ecology
 
@@ -37,9 +37,9 @@ by User: SaleSVQ
 
 Map of the Silver Kingdom of Iri
 
-During the Desolations the [Silver Kingdom](https://coppermind.net/wiki/Silver_Kingdom "Silver Kingdom") of Iri was founded. It is currently unknown who founded the nation. This Kingdom ruled the current territories of Iri and Rira.[^12] The kingdom was held more often by singers than by humans.[^13] After the Iriali arrived on Roshar, they settled in Iri, slowly replacing the natives as the dominant people inside the nation.[^12] At some point the Kingdom collapsed and the eastern part split off, forming Rira.[^2] Iri continued to claim Rira as a vassal, but that claim was disputed.[^4]
+During the Desolations the [[Silver Kingdoms - The Coppermind|Silver Kingdom]] of Iri was founded. It is currently unknown who founded the nation. This Kingdom ruled the current territories of Iri and Rira.[^12] The kingdom was held more often by singers than by humans.[^13] After the Iriali arrived on Roshar, they settled in Iri, slowly replacing the natives as the dominant people inside the nation.[^12] At some point the Kingdom collapsed and the eastern part split off, forming Rira.[^2] Iri continued to claim Rira as a vassal, but that claim was disputed.[^4]
 
-During the [[True Desolation - The Coppermind|True Desolation]], [[Dalinar Kholin - The Coppermind|Dalinar Kholin]] approached the monarchs of Iri in an attempt to persuade them to join the [coalition of monarchs](https://coppermind.net/wiki/Coalition_of_monarchs "Coalition of monarchs"). Iri claimed both that Dalinar had stolen their [[Shardplate - The Coppermind|Shardplate]] and that [Alethkar](https://coppermind.net/wiki/Alethkar "Alethkar") was no longer relevant as a world power. They gave these as reasons not to side with the coalition. Furthermore, Iriali singers who transformed into [mediationform](https://coppermind.net/wiki/Mediationform "Mediationform") sought an audience with the Iriali monarchy. They argued that the land was rightfully theirs and that the Iriali were merely visitors.[^13] Looking back at their histories, the Iriali realized that humans had never tried the tactic of capitulation as a way to avoid a [[Desolation - The Coppermind|Desolation]] and felt an obligation to try it, as it was an experience the [One](https://coppermind.net/wiki/One "One") had not yet explored.[^4]
+During the [[True Desolation - The Coppermind|True Desolation]], [[Dalinar Kholin - The Coppermind|Dalinar Kholin]] approached the monarchs of Iri in an attempt to persuade them to join the [coalition of monarchs](https://coppermind.net/wiki/Coalition_of_monarchs "Coalition of monarchs"). Iri claimed both that Dalinar had stolen their [[Shardplate - The Coppermind|Shardplate]] and that [Alethkar](https://coppermind.net/wiki/Alethkar "Alethkar") was no longer relevant as a world power. They gave these as reasons not to side with the coalition. Furthermore, Iriali singers who transformed into [[Singer - The Coppermind|mediationform]] sought an audience with the Iriali monarchy. They argued that the land was rightfully theirs and that the Iriali were merely visitors.[^13] Looking back at their histories, the Iriali realized that humans had never tried the tactic of capitulation as a way to avoid a [[Desolation - The Coppermind|Desolation]] and felt an obligation to try it, as it was an experience the [One](https://coppermind.net/wiki/One "One") had not yet explored.[^4]
 
 By the time just after the [[Battle of Thaylen Field - The Coppermind|Battle of Thaylen Field]], Iri had struck eastward and, with the help of Odium's forces, captured most of the western kingdoms in the region of the Purelake.[^14] [^15] The country became both a stationing ground for troops and the center to which Odium's navy retreated following a defeat by the coalition.[^16] [^17]
 
@@ -47,7 +47,7 @@ Shortly before the advent of the [Night of Sorrows](https://coppermind.net/wiki/
 
 ## Politics
 
-The Iriali are ruled by a triumvirate of rulers, referred to as the Iriali Triumvirate. The gender of the ruler is apparently unimportant, though currently they are ruled by two kings and a queen. Each monarch has responsibilities over different aspects of the kingdom.[^7] The Queen currently has responsibilities over foreign policy.[^4] Iri has no [Soulcasters](https://coppermind.net/wiki/Soulcaster "Soulcaster").[^21]
+The Iriali are ruled by a triumvirate of rulers, referred to as the Iriali Triumvirate. The gender of the ruler is apparently unimportant, though currently they are ruled by two kings and a queen. Each monarch has responsibilities over different aspects of the kingdom.[^7] The Queen currently has responsibilities over foreign policy.[^4] Iri has no [[Soulcasting - The Coppermind|Soulcasters]].[^21]
 
 ### Foreign Policy
 
@@ -69,7 +69,7 @@ Farming and travel goods are major industries in Iri. Edible flowers, root veget
 
 ### People
 
-The [Iriali](https://coppermind.net/wiki/Iriali "Iriali") have metallic golden-blond skin and hair that breeds true.[^5] [^1] Many [Alethi](https://coppermind.net/wiki/Alethi "Alethi") consider a lock of the golden hair of the Iriali to be good luck.[^24] The Iriali are particular about chastity laws, and dislike public nudity.[^5] The Iriali tend to be less quarrelsome and prudish than the [Vorin](https://coppermind.net/wiki/Vorin "Vorin") nations. They mostly have yellow eyes.[^25] Iriali people prefer to congregate in large cities, so most settlements throughout the land are of an impressive size for such a small kingdom.[^7]
+The [Iriali](https://coppermind.net/wiki/Iriali "Iriali") have metallic golden-blond skin and hair that breeds true.[^5] [^1] Many [Alethi](https://coppermind.net/wiki/Alethi "Alethi") consider a lock of the golden hair of the Iriali to be good luck.[^24] The Iriali are particular about chastity laws, and dislike public nudity.[^5] The Iriali tend to be less quarrelsome and prudish than the [[Vorinism - The Coppermind|Vorin]] nations. They mostly have yellow eyes.[^25] Iriali people prefer to congregate in large cities, so most settlements throughout the land are of an impressive size for such a small kingdom.[^7]
 
 Iri has a proud culture of exploration and movement. Social customs usually stem from the Iriali religious tradition of the Long Trail. Loved ones greet each other by asking, “How is the journey for you?” Occupations that focus on journeying are valued highly by the Iriali. Cobblers are especially beloved, as practical footwear is a hallmark of readiness. Nearly all Iriali prepare travel packs and three months of provisions so if the call comes, they’ll be ready to leave for their next world at a moment’s notice.[^23]
 
@@ -87,10 +87,10 @@ It is likely that this belief is the same one spread by [Arclo](https://coppermi
 
 ## Notable Citizens & Visitors
 
-- [Ym](https://coppermind.net/wiki/Ym "Ym") is an Iriali cobbler and incipient [Truthwatcher](https://coppermind.net/wiki/Truthwatcher "Truthwatcher") who is killed by [[Nale - The Coppermind|Nale]].[^1] [^30]
-- [Zu](https://coppermind.net/wiki/Zu_\(Roshar\) "Zu (Roshar)") is an Iriali [Stoneward](https://coppermind.net/wiki/Stoneward "Stoneward") who is bonded to the [peakspren](https://coppermind.net/wiki/Peakspren "Peakspren") [Ua'pam](https://coppermind.net/wiki/Ua%27pam "Ua'pam") [^31]
+- [Ym](https://coppermind.net/wiki/Ym "Ym") is an Iriali cobbler and incipient [[Order of Truthwatchers - The Coppermind|Truthwatcher]] who is killed by [[Nale - The Coppermind|Nale]].[^1] [^30]
+- [Zu](https://coppermind.net/wiki/Zu_\(Roshar\) "Zu (Roshar)") is an Iriali [[Order of Stonewards - The Coppermind|Stoneward]] who is bonded to the [peakspren](https://coppermind.net/wiki/Peakspren "Peakspren") [Ua'pam](https://coppermind.net/wiki/Ua%27pam "Ua'pam") [^31]
 - [[Wyndle - The Coppermind|Wyndle]] originally wants to form a bond with a distinguished Iriali matron, but the [Ring](https://coppermind.net/wiki/Ring "Ring") chooses for him to bond [[Lift - The Coppermind|Lift]] instead.[^32]
-- [Axies the Collector](https://coppermind.net/wiki/Axies_the_Collector "Axies the Collector"), an [Aimian](https://coppermind.net/wiki/Aimian "Aimian"), visits Iri to look for [[Spren - The Coppermind|spren]].[^5]
+- [Axies the Collector](https://coppermind.net/wiki/Axies_the_Collector "Axies the Collector"), an [[Aimia - The Coppermind|Aimian]], visits Iri to look for [[Spren - The Coppermind|spren]].[^5]
 - [[Rysn Ftori - The Coppermind|Rysn]] and her babsk, [Vstim](https://coppermind.net/wiki/Vstim "Vstim"), visit Iri, and Rysn manages to offend the Iriali somehow.[^33]
 
 ## Notes

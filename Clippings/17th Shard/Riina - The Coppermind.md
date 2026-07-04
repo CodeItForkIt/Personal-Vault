@@ -14,7 +14,7 @@ favicon: "/favicon.ico"
 
 > “ *There is precisely one being I fear on this planet.* ”
 > 
-> — [Xisis](https://coppermind.net/wiki/Xisis "Xisis") in reference to Riina [^2]
+> — [[Xisisrefliel - The Coppermind|Xisis]] in reference to Riina [^2]
 
 **Riina**, also known as **the Sorceress**, is a member of the [[Ire - The Coppermind|Ire]] and was a resident on [[Lumar - The Coppermind|Lumar]] considered one of the most dangerous people on the planet.
 
@@ -32,7 +32,7 @@ On [[Lumar - The Coppermind|Lumar]], Riina appears to be a woman in her fifties 
 > 
 > —Hoid describing Riina.[^5]
 
-Riina is known to be unusually cruel. She curses anyone who enters her domain and survives, as well as anyone who attempts to talk to her.[^6] [^1] She personally delights in coming up with cruel curses, spending her spare time coming up with new ideas for them.[^1] As part of this she also ensures that the cursed individual is aware of the full details of the curse, but also are incapable of talking about it with others and thus unable to ask for help. This is done intentionally on her part in order to make the curse more cruel for the afflicted.[^7] [^8] All those who have met her attest to her being a cruel and heartless individual.[^8] [^5] Even [Xisis](https://coppermind.net/wiki/Xisis "Xisis") considers imprisonment under him to be a mercy when the alternative is meeting Riina.[^2]
+Riina is known to be unusually cruel. She curses anyone who enters her domain and survives, as well as anyone who attempts to talk to her.[^6] [^1] She personally delights in coming up with cruel curses, spending her spare time coming up with new ideas for them.[^1] As part of this she also ensures that the cursed individual is aware of the full details of the curse, but also are incapable of talking about it with others and thus unable to ask for help. This is done intentionally on her part in order to make the curse more cruel for the afflicted.[^7] [^8] All those who have met her attest to her being a cruel and heartless individual.[^8] [^5] Even [[Xisisrefliel - The Coppermind|Xisis]] considers imprisonment under him to be a mercy when the alternative is meeting Riina.[^2]
 
 She also seems to enjoy the reputation of the Sorceress. Despite it being unneeded, she is known to speak in rhyme while placing a curse on someone.[^8] [^4] At the same time, she shows a certain level of disdain for those on Lumar, as she considers folklore about her to be funny nonsense and dismisses their technological achievements. She is also opinionated about seemingly inconsequential things, such as believing that spaceships should have sliding doors.[^4]
 
@@ -46,7 +46,7 @@ Midnight Essence under Riina's control
 
 ## Attributes and Abilities
 
-Riina is an [Elantrian](https://coppermind.net/wiki/Elantrian "Elantrian") and [Awakener](https://coppermind.net/wiki/Awakener "Awakener"). Riina is also capable of using [[AonDor - The Coppermind|AonDor]] in order to grant **curses** to others.[^9] [^10] They are formed through long strands of Aons, which can be seen wrapping around the cursed, lining up with Aon Equations;[^1] [^11] [^12] the person given the curse is aware as to what the stipulations of the curse are.[^7] When placed upon someone a requirement is made to break the curse, other than meeting this requirement there is no way to break the curse, not even Riina herself can achieve this. The curse itself however can be altered by other Elantrians.[^13] An aspect of the curse is always consistent which is that the cursed individual cannot discuss the curse with others; any attempt to do so leads to them stuttering.[^7] The curses are flawed, however, in that since they cannot be changed, they can be manipulated if one finds a way to do so that Riina failed to prevent.[^8] One way to do so is by identifying what an individual cannot talk about. This indirectly reveals aspects of their curse.[^14]
+Riina is an [Elantrian](https://coppermind.net/wiki/Elantrian "Elantrian") and [[Awakening - The Coppermind|Awakener]]. Riina is also capable of using [[AonDor - The Coppermind|AonDor]] in order to grant **curses** to others.[^9] [^10] They are formed through long strands of Aons, which can be seen wrapping around the cursed, lining up with Aon Equations;[^1] [^11] [^12] the person given the curse is aware as to what the stipulations of the curse are.[^7] When placed upon someone a requirement is made to break the curse, other than meeting this requirement there is no way to break the curse, not even Riina herself can achieve this. The curse itself however can be altered by other Elantrians.[^13] An aspect of the curse is always consistent which is that the cursed individual cannot discuss the curse with others; any attempt to do so leads to them stuttering.[^7] The curses are flawed, however, in that since they cannot be changed, they can be manipulated if one finds a way to do so that Riina failed to prevent.[^8] One way to do so is by identifying what an individual cannot talk about. This indirectly reveals aspects of their curse.[^14]
 
 She is possibly capable of Investing common animals to grant them self-awareness, making them her familiars.[^15] Although it isn't clear if this is what she does, or if it just humans that she transforms into animals.[^1]
 

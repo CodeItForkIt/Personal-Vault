@@ -18,15 +18,15 @@ The **Era of Solitude** is the name given to the four-thousand-year period follo
 
 ## Silver Kingdoms
 
-The [[Silver Kingdoms - The Coppermind|Silver Kingdoms]] existed from some time prior to [Aharietiam](https://coppermind.net/wiki/Aharietiam "Aharietiam") [^1] until likely just after the [[Day of Recreance - The Coppermind|Day of Recreance]].[^2] The Knights Radiant supported a unified kingdom across the land connecting everyone via [[Urithiru - The Coppermind|Urithiru]], with [[Alethela - The Coppermind|Alethela]] being the center of protection for all of the Kingdoms.[^3] After the fall of the Knights, and with [[Urithiru - The Coppermind|Urithiru]] abandoned (leaving each kingdom isolated), they were no longer be able to function as they had.[^1]
+The [[Silver Kingdoms - The Coppermind|Silver Kingdoms]] existed from some time prior to [[Last Desolation - The Coppermind|Aharietiam]] [^1] until likely just after the [[Day of Recreance - The Coppermind|Day of Recreance]].[^2] The Knights Radiant supported a unified kingdom across the land connecting everyone via [[Urithiru - The Coppermind|Urithiru]], with [[Alethela - The Coppermind|Alethela]] being the center of protection for all of the Kingdoms.[^3] After the fall of the Knights, and with [[Urithiru - The Coppermind|Urithiru]] abandoned (leaving each kingdom isolated), they were no longer be able to function as they had.[^1]
 
 ## Beginning
 
-The Era of Solitude began after the [[Last Desolation - The Coppermind|Last Desolation]] known as [Aharietiam](https://coppermind.net/wiki/Aharietiam "Aharietiam").[^1] After being told that the [[Voidbringer - The Coppermind|Voidbringers]] had been defeated by the remaining [Heralds](https://coppermind.net/wiki/Herald "Herald"), mankind began rebuilding for the first time in years.[^4]
+The Era of Solitude began after the [[Last Desolation - The Coppermind|Last Desolation]] known as [[Last Desolation - The Coppermind|Aharietiam]].[^1] After being told that the [[Voidbringer - The Coppermind|Voidbringers]] had been defeated by the remaining [Heralds](https://coppermind.net/wiki/Herald "Herald"), mankind began rebuilding for the first time in years.[^4]
 
 ## Events of the Era of Solitude
 
-- **[Aharietiam](https://coppermind.net/wiki/Aharietiam "Aharietiam")** - Began the Era of Solitude.[^1]
+- **[[Last Desolation - The Coppermind|Aharietiam]]** - Began the Era of Solitude.[^1]
 - **The [[False Desolation - The Coppermind|False Desolation]]** - War with [[Singer - The Coppermind|Singers]] not led by the [[Fused - The Coppermind|Fused]].[^5] [^6]
 - **The [[Day of Recreance - The Coppermind|Day of Recreance]]** - Knights Radiant broke oaths and abandoned [[Shards]].[^7]
 - **The Collapse of the [[Silver Kingdoms - The Coppermind|Silver Kingdoms]]** - While the precise timeline is unknown, the [[Silver Kingdoms - The Coppermind|Silver Kingdoms]] are presumed to have broken down after losing the protection of the Knights Radiant and transportation capabilities of [[Urithiru - The Coppermind|Urithiru]].[^1]
@@ -49,7 +49,7 @@ The Era of Solitude lasted up until the return of the [[Fused - The Coppermind|F
 
 ## Time Keeping
 
-The current [Vorin](https://coppermind.net/wiki/Vorin "Vorin") calendar in the Era of Solitude did not begin at the end of [Aharietiam](https://coppermind.net/wiki/Aharietiam "Aharietiam"), but a date approximately three thousand years afterward. This date that starts the calendar takes place some time after the [[Day of Recreance - The Coppermind|Day of Recreance]] but before the [[Hierocracy - The Coppermind|Hierocracy]].[^12]
+The current [[Vorinism - The Coppermind|Vorin]] calendar in the Era of Solitude did not begin at the end of [[Last Desolation - The Coppermind|Aharietiam]], but a date approximately three thousand years afterward. This date that starts the calendar takes place some time after the [[Day of Recreance - The Coppermind|Day of Recreance]] but before the [[Hierocracy - The Coppermind|Hierocracy]].[^12]
 
 ## Notes
 

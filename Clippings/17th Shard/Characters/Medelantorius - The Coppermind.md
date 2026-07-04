@@ -28,11 +28,11 @@ Be aware that in its current state, it may not include all additional content ye
 
 ## Abilities and Attributes\[edit\]
 
-As a [Vessel](https://coppermind.net/wiki/Vessel "Vessel") of the [[Shards|Shard]] [[Valor - The Coppermind|Valor]], Medelantorius is immortal and immensely powerful.
+As a [[Shards|Vessel]] of the [[Shards|Shard]] [[Valor - The Coppermind|Valor]], Medelantorius is immortal and immensely powerful.
 
 ## History\[edit\]
 
-Like all original [Vessels](https://coppermind.net/wiki/Vessel "Vessel"), Medelantorius is a native of [[Yolen - The Coppermind|Yolen]].[^1] Before the [[Shattering - The Coppermind|Shattering of Adonalsium]], she was a warrior.[^2] She also dated [[Hoid - The Coppermind|Hoid]] at some point.[^3] Medelantorius participated in the [[Shattering - The Coppermind|Shattering of Adonalsium]], and took up one of the [[Shards]], [[Valor - The Coppermind|Valor]].[^2]
+Like all original [[Shards|Vessels]], Medelantorius is a native of [[Yolen - The Coppermind|Yolen]].[^1] Before the [[Shattering - The Coppermind|Shattering of Adonalsium]], she was a warrior.[^2] She also dated [[Hoid - The Coppermind|Hoid]] at some point.[^3] Medelantorius participated in the [[Shattering - The Coppermind|Shattering of Adonalsium]], and took up one of the [[Shards]], [[Valor - The Coppermind|Valor]].[^2]
 
 ## Notes\[edit\]
 

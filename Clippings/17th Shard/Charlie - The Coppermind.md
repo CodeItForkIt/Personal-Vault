@@ -16,7 +16,7 @@ favicon: "/favicon.ico"
 > 
 > — [[Hoid - The Coppermind|Hoid]] [^1]
 
-**Charlie** is a citizen of [Diggen's Point](https://coppermind.net/wiki/Diggen%27s_Point "Diggen's Point") on [[Lumar - The Coppermind|Lumar]], and son of the island's [duke](https://coppermind.net/wiki/Duke "Duke").[^1]
+**Charlie** is a citizen of [Diggen's Point](https://coppermind.net/wiki/Diggen%27s_Point "Diggen's Point") on [[Lumar - The Coppermind|Lumar]], and son of the island's [[Charlie's father - The Coppermind|duke]].[^1]
 
 ## Appearance and Personality
 
@@ -28,7 +28,7 @@ According to Hoid, Charlie is an "excellent" valet, but only passable at storyte
 
 ## History
 
-When Charlie displays romantic interest in [[Tress - The Coppermind|Tress]], he is shipped off the island by his father to find a suitor among the nobility instead.[^1] Hoping to come back to [Diggen's Point](https://coppermind.net/wiki/Diggen%27s_Point "Diggen's Point") empty handed to be with Tress again, Charlie sabotages his meetings with the princesses by boring them with anecdotes and throwing up on one who was deaf. Every time a suitor rejects him, he sends Tress a cup. The duke catches on to Charlie's plans and has him sent to the [Sorceress](https://coppermind.net/wiki/Sorceress "Sorceress") to be rid of him.[^4] The Sorceress then curses him, which turns him into a rat; the curse can only be broken if Charlie brings Tress to the Sorceress to be cursed.[^5] [^3]
+When Charlie displays romantic interest in [[Tress - The Coppermind|Tress]], he is shipped off the island by his father to find a suitor among the nobility instead.[^1] Hoping to come back to [Diggen's Point](https://coppermind.net/wiki/Diggen%27s_Point "Diggen's Point") empty handed to be with Tress again, Charlie sabotages his meetings with the princesses by boring them with anecdotes and throwing up on one who was deaf. Every time a suitor rejects him, he sends Tress a cup. The duke catches on to Charlie's plans and has him sent to the [[Riina - The Coppermind|Sorceress]] to be rid of him.[^4] The Sorceress then curses him, which turns him into a rat; the curse can only be broken if Charlie brings Tress to the Sorceress to be cursed.[^5] [^3]
 
 ### As Huck
 

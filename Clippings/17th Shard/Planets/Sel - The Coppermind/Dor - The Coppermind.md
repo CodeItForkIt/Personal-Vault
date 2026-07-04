@@ -16,13 +16,13 @@ favicon: /favicon.ico
 
 > “ *At this point, the bulk of the Investiture that made up the powers of Dominion and Devotion is trapped on the Cognitive Realm. Collectively, these powers—which have a polarized relationship—are called the Dor. Forced together as they are, trapped and bursting to escape, they power the various forms of magic on Sel, which are multitude.* ”
 > 
-> — [Khriss](https://coppermind.net/wiki/Khriss "Khriss") on the Dor [^1]
+> — [[Khrissalla - The Coppermind|Khriss]] on the Dor [^1]
 
 **The Dor** is the source of [[Investiture - The Coppermind|Investiture]] on [[Sel - The Coppermind|Sel]], The Dor powers all Invested Arts on Sel,[^1] including [[AonDor - The Coppermind|AonDor]], [[ChayShan - The Coppermind|ChayShan]], [[Forgery - The Coppermind|Forgery]],[^2] [[Dakhor - The Coppermind|Dakhor]],[^3] and [[Bloodsealing - The Coppermind|Bloodsealing]].[^4]
 
 ## Appearance
 
-The Dor often shows its presence through some sort of bright glowing, whether through [Seons](https://coppermind.net/wiki/Seons "Seons"), [[Aon - The Coppermind|Aons]], the twists of the [[Dakhor - The Coppermind|Dakhor]] bones, in the wake of the movements of someone using [[ChayShan - The Coppermind|ChayShan]], or in the purified Dor in possession of the [[Ghostbloods - The Coppermind|Ghostbloods]] or [[Ire - The Coppermind|Ire]].[^5] [^6]
+The Dor often shows its presence through some sort of bright glowing, whether through [[Seon - The Coppermind|Seons]], [[Aon - The Coppermind|Aons]], the twists of the [[Dakhor - The Coppermind|Dakhor]] bones, in the wake of the movements of someone using [[ChayShan - The Coppermind|ChayShan]], or in the purified Dor in possession of the [[Ghostbloods - The Coppermind|Ghostbloods]] or [[Ire - The Coppermind|Ire]].[^5] [^6]
 
 When stored in the Physical Realm, it takes the form of a brightly glowing liquid.[^5] [^6] [^7] [^8]
 
@@ -30,11 +30,11 @@ When stored in the Physical Realm, it takes the form of a brightly glowing liqui
 
 > “ *This power comes from a god’s corpse. Two of them actually, intermingled. It’s exceptionally difficult to recover. The things that you could do with this … well, that I could do with this. You’d only be able to use it as a hyperefficient replacement for your metals. You don’t know how good you have it here on Scadrial, being able to power your abilities with something so common.* ”
 > 
-> — [Moonlight](https://coppermind.net/wiki/Moonlight "Moonlight") [^6]
+> — [[Wan ShaiLu - The Coppermind|Moonlight]] [^6]
 
-The Dor is a mass of plasma-like substance [^9] in the [[Cognitive Realm - The Coppermind|Cognitive Realm]], a large amount of power left behind after [[Odium - The Coppermind|Odium]] visited [[Sel - The Coppermind|Sel]].[^10] [^11] It is the remnant of the combined powers of [[Devotion - The Coppermind|Devotion]] and [[Dominion - The Coppermind|Dominion]] after the [[Shards]] were [Splintered](https://coppermind.net/wiki/Splintering "Splintering").[^12] [^13] The Dor exists in the Cognitive Realm and is very dangerous, appearing as a large source of mindless, uncontrolled power.[^10] Due to being in the Cognitive Realm it has attained only rudimentary emotions.[^14] Furthermore, this has shaped the nature of the magic systems, making them very dependent upon location, geography, Intent, and perception, far more so than in other systems.[^10]
+The Dor is a mass of plasma-like substance [^9] in the [[Cognitive Realm - The Coppermind|Cognitive Realm]], a large amount of power left behind after [[Odium - The Coppermind|Odium]] visited [[Sel - The Coppermind|Sel]].[^10] [^11] It is the remnant of the combined powers of [[Devotion - The Coppermind|Devotion]] and [[Dominion - The Coppermind|Dominion]] after the [[Shards]] were [[Splinter - The Coppermind|Splintered]].[^12] [^13] The Dor exists in the Cognitive Realm and is very dangerous, appearing as a large source of mindless, uncontrolled power.[^10] Due to being in the Cognitive Realm it has attained only rudimentary emotions.[^14] Furthermore, this has shaped the nature of the magic systems, making them very dependent upon location, geography, Intent, and perception, far more so than in other systems.[^10]
 
-The programming-esque way Investiture is drawn from the Dor is the result of the fact that its power is trapped in the Cognitive Realm, as well as the personalities of the original [Vessels](https://coppermind.net/wiki/Vessel "Vessel") of Devotion and Dominion and the nature of Sel's focus: forms.[^15] Those that use the Dor can sense when others are using it.[^16]
+The programming-esque way Investiture is drawn from the Dor is the result of the fact that its power is trapped in the Cognitive Realm, as well as the personalities of the original [[Shards|Vessels]] of Devotion and Dominion and the nature of Sel's focus: forms.[^15] Those that use the Dor can sense when others are using it.[^16]
 
 The Dor can be purified, and carried to other locations. If unkeyed, anyone with powers can use it as very effective fuel for their abilities.[^6] [^17] This can also be used to bypass the geographic limitation of Sel Investitures.[^6] [^7] As the Dor is used to fuel the various Selish Invested Arts, the 'expended' Investiture returns to the Spiritual Realm, rather than the Cognitive Realm. This means that the Dor is constantly getting smaller.[^18]
 

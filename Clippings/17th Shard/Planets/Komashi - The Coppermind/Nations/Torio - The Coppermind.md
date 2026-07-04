@@ -63,7 +63,7 @@ The people of Torio wear bright clothing similar in color to the formal dresses 
 
 All genders wear clogs known as getuk--wooden footwear about six inches tall--designed to keep their feet high enough off the ground to prevent burning.[^6] [^16] While locals grow adept at walking in them, off-worlders find the clogs difficult to move in, comparable to having bricks tied to their feet.[^6]
 
-Food in Torio can be cooked directly on the ground, and is served with spoons and maipon sticks.[^6] [^17] The Torish diet includes stews [^6] and a deep blue-purple grain called mingo, similar to [Scadrian](https://coppermind.net/wiki/Scadrian "Scadrian") rice.[^10] Nuts are harvested in orchards of floating trees.[^5] Meals can be accompanied by smaller bowls of savory sides, each containing only a bite or two.[^12]
+Food in Torio can be cooked directly on the ground, and is served with spoons and maipon sticks.[^6] [^17] The Torish diet includes stews [^6] and a deep blue-purple grain called mingo, similar to [[Scadrial - The Coppermind|Scadrian]] rice.[^10] Nuts are harvested in orchards of floating trees.[^5] Meals can be accompanied by smaller bowls of savory sides, each containing only a bite or two.[^12]
 
 Torish people bathe at cool springs--typically located in high ground [^6] --or in bathhouses if their town does not have a spring.[^18]
 

@@ -16,7 +16,7 @@ favicon: "/favicon.ico"
 
 **The Coppermind has spoilers for all of Brandon's published works, now including *Isles of the Emberdark* and Cosmere RPG books. Information about books that have not yet been released, like *Mistborn* Era 3, is allowed *only* on meta-pages for the books themselves. For more details, see [our spoiler policy](https://coppermind.net/wiki/Help:Spoilers "Help:Spoilers"). To view an earlier version of the wiki without spoilers for a book, go to the [Time Machine](https://coppermind.net/wiki/Special:TimeMachine "Special:TimeMachine")!**
 
-**Filistrate City** is a city presumably in the [[Emerald Sea - The Coppermind|Emerald Sea]] on [[Lumar - The Coppermind|Lumar]]. [[Salay - The Coppermind|Salay's]] father arrived there just after she had searched for him there and left. Tress received the information that he was there from [Xisis](https://coppermind.net/wiki/Xisis "Xisis") as one of her three boons.[^1]
+**Filistrate City** is a city presumably in the [[Emerald Sea - The Coppermind|Emerald Sea]] on [[Lumar - The Coppermind|Lumar]]. [[Salay - The Coppermind|Salay's]] father arrived there just after she had searched for him there and left. Tress received the information that he was there from [[Xisisrefliel - The Coppermind|Xisis]] as one of her three boons.[^1]
 
 ## Notes\[edit\]
 

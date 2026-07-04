@@ -56,7 +56,7 @@ Long after both Shards had left the system, a mysterious force known as the [Evi
 
 Around a century after the abandonment of the home continent, humanity has recovered somewhat, settling into an uneasy equilibrium with the shades in their new home.[^6] They remain fearful that the Evil will cross the ocean at some point in the future and finish wiping out humanity.[^1] The new continent and the Forests are still largely unmapped and unexplored, and a handful of expeditions have set out to their original continent, but none have returned. Despite the records that the original refugees brought with them, the Fallen World and Evil have slipped into the realm of legend. Over this century, the city of [Lastport](https://coppermind.net/wiki/Lastport "Lastport") has become the most powerful on the continent.[^6] Its governor was killed by a criminal named [Chesterton Divide](https://coppermind.net/wiki/Chesterton_Divide "Chesterton Divide"), who fled into the Forests. He was eventually killed by [Silence Montane](https://coppermind.net/wiki/Silence_Montane "Silence Montane") for the bounty on his head.
 
-There have been at least two visits onto the planet by [worldhoppers](https://coppermind.net/wiki/Worldhopper "Worldhopper").[^1] [Khriss](https://coppermind.net/wiki/Khriss "Khriss") has been to the Forests of Hell and spent some time there, guided by her assistant [Nazh](https://coppermind.net/wiki/Nazh "Nazh"), who is a Threnodite himself. Khriss is interested in the world and the shades, but as of yet has not had time for extended study of the world and its Investiture. At some point, the [Cryptic](https://coppermind.net/wiki/Cryptic "Cryptic") [[Design - The Coppermind|Design]] visited the planet.[^2] Additionally, [Nomad](https://coppermind.net/wiki/Nomad "Nomad") recognizes a Threnodite offshoot culture on [[Canticle - The Coppermind|Canticle]] and recalls almost having been eaten by a shade previously.[^11]
+There have been at least two visits onto the planet by [[17th Shard|worldhoppers]].[^1] [[Khrissalla - The Coppermind|Khriss]] has been to the Forests of Hell and spent some time there, guided by her assistant [Nazh](https://coppermind.net/wiki/Nazh "Nazh"), who is a Threnodite himself. Khriss is interested in the world and the shades, but as of yet has not had time for extended study of the world and its Investiture. At some point, the [Cryptic](https://coppermind.net/wiki/Cryptic "Cryptic") [[Design - The Coppermind|Design]] visited the planet.[^2] Additionally, [[Sigzil - The Coppermind|Nomad]] recognizes a Threnodite offshoot culture on [[Canticle - The Coppermind|Canticle]] and recalls almost having been eaten by a shade previously.[^11]
 
 ## Culture and Society
 
@@ -122,7 +122,7 @@ In terms of weaponry, bladed weapons are uncommon in the Forests, as using them 
 
 > “ *Threnodites, they have this phantom echo to their souls. A sort of smoky shadow that lives on after they die.* ”
 > 
-> — [Nomad](https://coppermind.net/wiki/Nomad "Nomad") [^13]
+> — [[Sigzil - The Coppermind|Nomad]] [^13]
 
 Unlike some of the other worlds in the cosmere where full Shards of Adonalsium are present, such as [[Roshar - The Coppermind|Roshar]] or [[Scadrial - The Coppermind|Scadrial]], Threnody has no active manifestation of Investiture that humans can use themselves.[^14] The Investiture on Threnody takes the form of [shades](https://coppermind.net/wiki/Shade "Shade"), barely conscious Cognitive Shadows of human spirits [^1] that appear as translucent white figures that wander the Forests.[^6] They are not innately aggressive, but become enraged and respond violently to any violations of the Simple Rules. Any flesh that a shade touches becomes black and withered, and if the contact is bad enough, the person will die and occasionally return as a shade themselves. The only thing that is able to combat shades is silver. It is unknown whether or not silver on Threnody is Invested in any way.
 
@@ -152,7 +152,7 @@ Threnody is the third planet in the Threnodite system, located between the plane
 
 - [Silence Montane](https://coppermind.net/wiki/Silence_Montane "Silence Montane"): A woman who runs a waystop in the Forests; she also secretly hunts for criminals under the alias of the [White Fox](https://coppermind.net/wiki/White_Fox "White Fox").[^6]
 - [Chesterton Divide](https://coppermind.net/wiki/Chesterton_Divide "Chesterton Divide"): A dangerous criminal who kills the governor of Lastport.[^6]
-- [Nazrilof](https://coppermind.net/wiki/Nazrilof "Nazrilof"): A [Worldhopper](https://coppermind.net/wiki/Worldhopper "Worldhopper") who works closely with [Khriss](https://coppermind.net/wiki/Khriss "Khriss") to retrieve documents and other items for her reports.[^1]
+- [Nazrilof](https://coppermind.net/wiki/Nazrilof "Nazrilof"): A [[17th Shard|Worldhopper]] who works closely with [[Khrissalla - The Coppermind|Khriss]] to retrieve documents and other items for her reports.[^1]
 
 ## Development
 

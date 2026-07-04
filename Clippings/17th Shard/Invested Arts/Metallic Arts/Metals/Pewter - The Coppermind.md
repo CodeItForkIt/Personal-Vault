@@ -26,7 +26,7 @@ The pewter used in the Metallic Arts is an alloy of ninety-one percent tin and n
 
 ## Allomantic Use
 
-A pewter [Misting](https://coppermind.net/wiki/Misting "Misting") is known as a **Thug** or **Pewterarm**.[^4] Burning pewter increases all of the body’s physical abilities.[^5] Pewter's utility is not simply from the increased strength or speed, as it also enhances the body's natural balance, granting almost unnaturally smooth movements. It also increases reaction speed and gives the user resistance to hot and cold temperatures.[^6] Finally, it increases endurance, letting the body continue on long past when it would have normally shut down.
+A pewter [[Allomancy - The Coppermind|Misting]] is known as a **Thug** or **Pewterarm**.[^4] Burning pewter increases all of the body’s physical abilities.[^5] Pewter's utility is not simply from the increased strength or speed, as it also enhances the body's natural balance, granting almost unnaturally smooth movements. It also increases reaction speed and gives the user resistance to hot and cold temperatures.[^6] Finally, it increases endurance, letting the body continue on long past when it would have normally shut down.
 
 Pewter grants the user the ability to heal from otherwise deadly wounds, and to recover much quicker.[^7] It will also heal conditions such as drug effects or drunkenness.[^8] [^9] [[Aluminum - The Coppermind|Aluminum]] in a wound will make it impossible for the Thug to heal the injury around the metal for as long as it remains in the body.[^10] Pewter can theoretically be used to alter the user's appearance.[^11]
 
@@ -36,7 +36,7 @@ Pewter roughly doubles the average person’s strength, and triples it when flar
 
 ### Pewter dragging
 
-By constantly flaring pewter for a long time (pewter dragging), a Thug can achieve incredible things, such as running at roughly the speed of a galloping horse for extended periods. However, this is extremely dangerous and could even be lethal when the Thug stops burning pewter, even disregarding the fact that repeated pewter dragging will lead to [savantism](https://coppermind.net/wiki/Savantism "Savantism"), for there is a sudden burst of intense fatigue that had been suppressed by pewter. Several days of rest and sufficient food are required to replenish the Thug afterwards.[^15]
+By constantly flaring pewter for a long time (pewter dragging), a Thug can achieve incredible things, such as running at roughly the speed of a galloping horse for extended periods. However, this is extremely dangerous and could even be lethal when the Thug stops burning pewter, even disregarding the fact that repeated pewter dragging will lead to [[Savant - The Coppermind|savantism]], for there is a sudden burst of intense fatigue that had been suppressed by pewter. Several days of rest and sufficient food are required to replenish the Thug afterwards.[^15]
 
 ### Savantism
 
@@ -44,7 +44,7 @@ If someone were able to burn the amount of pewter needed to become an Allomantic
 
 ## Feruchemical Use
 
-A pewter [Ferring](https://coppermind.net/wiki/Ferring "Ferring") is known as a **Brute**. Pewter is used to store physical strength and endurance.[^4] [^18] However, as opposed to the simply enhanced body granted to an Allomancer burning pewter, a Brute tapping a pewtermind gains muscle mass and becomes physically larger. The additional muscles allow the Brute to have increased strength. For this reason, pewter metalminds are often designed to be able to stretch wider to accommodate the extra muscles.[^19] While storing physical strength, a Brute becomes scrawny and weak.[^20]
+A pewter [[Feruchemy - The Coppermind|Ferring]] is known as a **Brute**. Pewter is used to store physical strength and endurance.[^4] [^18] However, as opposed to the simply enhanced body granted to an Allomancer burning pewter, a Brute tapping a pewtermind gains muscle mass and becomes physically larger. The additional muscles allow the Brute to have increased strength. For this reason, pewter metalminds are often designed to be able to stretch wider to accommodate the extra muscles.[^19] While storing physical strength, a Brute becomes scrawny and weak.[^20]
 
 It's possible for a Brute to tap so much strength that their girth makes it difficult for them to maneuver properly.[^19]
 
@@ -62,7 +62,7 @@ When used as a Hemalurgic spike, pewter steals Physical Feruchemical powers ([[I
 
 ### Kandra Blessing
 
-The [[Kandra - The Coppermind|kandra]] can use a pair of these spikes as a [Blessing](https://coppermind.net/wiki/Blessing "Blessing"),[^28] [^29] though it is not one of the four standard Blessings.[^30] [^23] The only kandra known to have used this Blessing is [ReLuur](https://coppermind.net/wiki/ReLuur "ReLuur").[^28] [^29]
+The [[Kandra - The Coppermind|kandra]] can use a pair of these spikes as a [[Kandra - The Coppermind|Blessing]],[^28] [^29] though it is not one of the four standard Blessings.[^30] [^23] The only kandra known to have used this Blessing is [ReLuur](https://coppermind.net/wiki/ReLuur "ReLuur").[^28] [^29]
 
 ## Fabrial Use
 

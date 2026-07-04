@@ -28,7 +28,7 @@ Divine attributes of the Truthwatchers are Learned and Giving.
 
 ## Ideals of the Truthwatchers
 
-The Ideals of the Knights Radiant, also known as the [Immortal Words](https://coppermind.net/wiki/Immortal_Words "Immortal Words"), are a set of rules by which the Radiants live. The First Ideal is shared by all of the orders, and is used as a motto for the Knights Radiant as a whole. Each of the orders then have an additional four Ideals that are unique to that order.[^8]
+The Ideals of the Knights Radiant, also known as the [[Knights Radiant - The Coppermind|Immortal Words]], are a set of rules by which the Radiants live. The First Ideal is shared by all of the orders, and is used as a motto for the Knights Radiant as a whole. Each of the orders then have an additional four Ideals that are unique to that order.[^8]
 
 The Ideals of the Order of Truthwatchers all focus on seeking and sharing truth, as well as making sure it is not improperly exploited. However, unlike the [[Order of Lightweavers - The Coppermind|Lightweavers]], who pursue personal truths, the Truthwatchers are concerned more with uncovering the greater secrets of the universe.[^4] [^3] An Enlightened Truthwatcher will have different oaths from a standard one.[^9]
 
@@ -58,7 +58,7 @@ This oath focuses on knowledge being available for everyone.[^3] Truthwatchers b
 
 ### The Fourth Ideal
 
-The specific words of this Ideal are individualized, but the overarching theme is acknowledging the consequences of sharing hidden secrets and forbidden truths, and then sharing them despite the risks to themselves.[^12] Upon achieving this Ideal, a Truthwatcher gains their [[Shardplate - The Coppermind|Shardplate]], which is formed of [concentrationspren](https://coppermind.net/wiki/Concentrationspren "Concentrationspren").[^10] [^13]
+The specific words of this Ideal are individualized, but the overarching theme is acknowledging the consequences of sharing hidden secrets and forbidden truths, and then sharing them despite the risks to themselves.[^12] Upon achieving this Ideal, a Truthwatcher gains their [[Shardplate - The Coppermind|Shardplate]], which is formed of [[Spren - The Coppermind|concentrationspren]].[^10] [^13]
 
 ## Abilities
 
@@ -90,7 +90,7 @@ Enlightened Truthwatchers and mistspren can feel each others emotions with a str
 
 ### Shardplate Abilities
 
-Truthwatchers' [[Shardplate - The Coppermind|Shardplate]] is formed of [concentrationspren](https://coppermind.net/wiki/Concentrationspren "Concentrationspren").[^1] [^13]
+Truthwatchers' [[Shardplate - The Coppermind|Shardplate]] is formed of [[Spren - The Coppermind|concentrationspren]].[^1] [^13]
 
 ## History
 

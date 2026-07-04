@@ -19,7 +19,7 @@ favicon: /favicon.ico
 > 
 > —Eshonai [^4]
 
-**Eshonai** is a [[Listener - The Coppermind|listener]] [Shardbearer](https://coppermind.net/wiki/Shardbearer "Shardbearer") [^5] who lives in [Narak](https://coppermind.net/wiki/Narak "Narak") on the [[Shattered Plains - The Coppermind|Shattered Plains]] of [[Roshar - The Coppermind|Roshar]] during the [[Clippings/17th Shard/Events/War of Reckoning - The Coppermind|War of Reckoning]]. She was one of the first Parshendi to come in contact with [[Gavilar Kholin - The Coppermind|Gavilar Kholin's]] soldiers in the [[Unclaimed Hills - The Coppermind|Unclaimed Hills]].[^6]
+**Eshonai** is a [[Listener - The Coppermind|listener]] [Shardbearer](https://coppermind.net/wiki/Shardbearer "Shardbearer") [^5] who lives in [[Stormseat - The Coppermind|Narak]] on the [[Shattered Plains - The Coppermind|Shattered Plains]] of [[Roshar - The Coppermind|Roshar]] during the [[Clippings/17th Shard/Events/War of Reckoning - The Coppermind|War of Reckoning]]. She was one of the first Parshendi to come in contact with [[Gavilar Kholin - The Coppermind|Gavilar Kholin's]] soldiers in the [[Unclaimed Hills - The Coppermind|Unclaimed Hills]].[^6]
 
 ## Appearance and Personality
 
@@ -29,11 +29,11 @@ favicon: /favicon.ico
 
 ### Appearance
 
-Eshonai is a [[Singer - The Coppermind|Singer]]; her skin, covered partially in carapace, is a marbled red and black, and she is large of stature, standing seven feet tall in Shardplate. Her Plate is silver, and has a red cape attached.[^5] She wears [warform](https://coppermind.net/wiki/Warform "Warform") due to the conflict with Alethkar.[^6] When not wearing Shardplate, her uniform consists of a cap and a red cloth that stretches over her warform armor.[^4]
+Eshonai is a [[Singer - The Coppermind|Singer]]; her skin, covered partially in carapace, is a marbled red and black, and she is large of stature, standing seven feet tall in Shardplate. Her Plate is silver, and has a red cape attached.[^5] She wears [[Singer - The Coppermind|warform]] due to the conflict with Alethkar.[^6] When not wearing Shardplate, her uniform consists of a cap and a red cloth that stretches over her warform armor.[^4]
 
 ### Personality
 
-Her preferred form is [workform](https://coppermind.net/wiki/Workform "Workform") because it is more flexible [^7], limber, rugged, and because the form's aversion to violence forces her to think differently to solve problems. She finds it difficult to tolerate listeners who prefer [mateform](https://coppermind.net/wiki/Mateform "Mateform"), and has trouble understanding why anyone would want to remain in that form for longer than necessary to produce offspring. Her confusion on this subject at one time extended to humans, when she was baffled by the fact that humans have only a single form that is easily distracted by sexual urges.[^6]
+Her preferred form is [[Singer - The Coppermind|workform]] because it is more flexible [^7], limber, rugged, and because the form's aversion to violence forces her to think differently to solve problems. She finds it difficult to tolerate listeners who prefer [[Singer - The Coppermind|mateform]], and has trouble understanding why anyone would want to remain in that form for longer than necessary to produce offspring. Her confusion on this subject at one time extended to humans, when she was baffled by the fact that humans have only a single form that is easily distracted by sexual urges.[^6]
 
 Though she accepts her duties as a general for her people, she feels trapped and constrained by the role, and by living on the [[Shattered Plains - The Coppermind|Shattered Plains]]. Even her uniform contributes to her emotional discomfort, and the repetitive tasks of military life numb her mind. She blames her uniform for her personal worries. However she never speaks of her discomfort in her role. She enjoys the feeling of strength she gets from wearing Shardplate, and it gives her something reliable in the world.[^6] [^4]
 
@@ -53,7 +53,7 @@ Shortly before her death, Eshonai attracted the attention of a [Reacher](https:/
 
 ### Forms
 
-Like all [[Singer - The Coppermind|Singers]], Eshonai can change her form by taking a [[Spren - The Coppermind|spren]] into her gemheart during a [[Highstorm - The Coppermind|highstorm]]. Out of preference, she spent most of her life in [workform](https://coppermind.net/wiki/Workform "Workform"), which, while durable and strong, made her averse to violence. During the [[Clippings/17th Shard/Events/War of Reckoning - The Coppermind|War of Reckoning]], she uses [warform](https://coppermind.net/wiki/Warform "Warform") instead, as its carapace and stockier build afford her greater strength and protection while allowing for fighting.[^6] Eventually, she takes on [stormform](https://coppermind.net/wiki/Stormform "Stormform"), keeping her increased strength while also granting her the ability to cast red lightning and summon the [[Everstorm - The Coppermind|Everstorm]], though the latter requires cooperation with more stormforms.[^8]
+Like all [[Singer - The Coppermind|Singers]], Eshonai can change her form by taking a [[Spren - The Coppermind|spren]] into her gemheart during a [[Highstorm - The Coppermind|highstorm]]. Out of preference, she spent most of her life in [[Singer - The Coppermind|workform]], which, while durable and strong, made her averse to violence. During the [[Clippings/17th Shard/Events/War of Reckoning - The Coppermind|War of Reckoning]], she uses [[Singer - The Coppermind|warform]] instead, as its carapace and stockier build afford her greater strength and protection while allowing for fighting.[^6] Eventually, she takes on [[Regal - The Coppermind|stormform]], keeping her increased strength while also granting her the ability to cast red lightning and summon the [[Everstorm - The Coppermind|Everstorm]], though the latter requires cooperation with more stormforms.[^8]
 
 ### Shardbearer
 
@@ -83,7 +83,7 @@ Eshonai meeting with [[Gavilar Kholin - The Coppermind|Gavilar]] on the night of
 
 #### Assassination of Gavilar Kholin
 
-On the day of his [[Assassination of Gavilar - The Coppermind|assassination]], [[Gavilar Kholin - The Coppermind|Gavilar]] spoke to Eshonai privately. She was the first listener to learn that Gavilar wanted to bring back the listeners' old gods. He gave her a [dark gemstone](https://coppermind.net/wiki/Black_sphere "Black sphere") and told her to give it to [The Five](https://coppermind.net/wiki/The_Five "The Five"). Taking the gemstone, Eshonai went to the Five and told them of Gavilar's plans, and the group decided to assassinate the Alethi king. Though Eshonai was not yet on the Council of Five, the council gave her a vote and listened to her advice due to her role as an interpreter. She voted in favor of killing Gavilar, in order to keep the listeners free of their gods and to affirm the decision made by their [ancestors](https://coppermind.net/wiki/Last_Legion "Last Legion") centuries ago.[^4] [^7]
+On the day of his [[Assassination of Gavilar - The Coppermind|assassination]], [[Gavilar Kholin - The Coppermind|Gavilar]] spoke to Eshonai privately. She was the first listener to learn that Gavilar wanted to bring back the listeners' old gods. He gave her a [dark gemstone](https://coppermind.net/wiki/Black_sphere "Black sphere") and told her to give it to [[Listener - The Coppermind|The Five]]. Taking the gemstone, Eshonai went to the Five and told them of Gavilar's plans, and the group decided to assassinate the Alethi king. Though Eshonai was not yet on the Council of Five, the council gave her a vote and listened to her advice due to her role as an interpreter. She voted in favor of killing Gavilar, in order to keep the listeners free of their gods and to affirm the decision made by their [[Listener - The Coppermind|ancestors]] centuries ago.[^4] [^7]
 
 ### The War of Reckoning (1167-1173)
 
@@ -93,13 +93,13 @@ On the day of his [[Assassination of Gavilar - The Coppermind|assassination]], [
 
 by [automaticmoon](https://coppermind.net/wiki/Coppermind:Artists/automaticmoon "Coppermind:Artists/automaticmoon")
 
-Eshonai walking to the Tower of [Narak](https://coppermind.net/wiki/Narak "Narak").
+Eshonai walking to the Tower of [[Stormseat - The Coppermind|Narak]].
 
-Sometime between the assassination of Gavilar and the Battle of the Tower, Eshonai became a member of the Council of Five and was made the general of the listener army. After the death of the king, the listeners relocated to [Narak](https://coppermind.net/wiki/Narak "Narak") in the hopes that a war of attrition would deter the Alethi from pursuing longterm action. Unfortunately, the presence of chasmfiends on the Shattered Plains allowed the war to continue for many years, with the Alethi and listener forces clashing over the beast's gemhearts. Eshonai would sometimes join her troops in the skirmishes over these gems.[^6] [^4]
+Sometime between the assassination of Gavilar and the Battle of the Tower, Eshonai became a member of the Council of Five and was made the general of the listener army. After the death of the king, the listeners relocated to [[Stormseat - The Coppermind|Narak]] in the hopes that a war of attrition would deter the Alethi from pursuing longterm action. Unfortunately, the presence of chasmfiends on the Shattered Plains allowed the war to continue for many years, with the Alethi and listener forces clashing over the beast's gemhearts. Eshonai would sometimes join her troops in the skirmishes over these gems.[^6] [^4]
 
 #### The Battle of the Tower
 
-During the battle, Eshonai dueled [[Dalinar Kholin - The Coppermind|Dalinar Kholin]] as the army made its retreat. She defeated him in combat, and recognized him as the Alethi Shardbearer she had been searching for, but was stabbed in the leg by [Kaladin Stormblessed](https://coppermind.net/wiki/Kaladin_Stormblessed "Kaladin Stormblessed"), who made his escape with Dalinar before she had a chance to speak with him. As the army made its retreat from the [Tower](https://coppermind.net/wiki/Tower_\(Roshar\) "Tower (Roshar)"), she saluted Dalinar as a gesture of respect. She allowed the Alethi to escape the battle without attacking them once they cleared the Tower.[^5]
+During the battle, Eshonai dueled [[Dalinar Kholin - The Coppermind|Dalinar Kholin]] as the army made its retreat. She defeated him in combat, and recognized him as the Alethi Shardbearer she had been searching for, but was stabbed in the leg by [[Kaladin - The Coppermind|Kaladin Stormblessed]], who made his escape with Dalinar before she had a chance to speak with him. As the army made its retreat from the [Tower](https://coppermind.net/wiki/Tower_\(Roshar\) "Tower (Roshar)"), she saluted Dalinar as a gesture of respect. She allowed the Alethi to escape the battle without attacking them once they cleared the Tower.[^5]
 
 #### Battle of Narak
 

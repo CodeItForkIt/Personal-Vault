@@ -28,7 +28,7 @@ This page or section deals with theories or speculation.
 
 Please read carefully and note that this is not necessarily canonical.
 
-The context of Flik's statement implies that Thanasmia could be a name for the [[Aether - The Coppermind#Lumar aethers|prime midnight aether]] that presumably lives on the moon above the Midnight Sea, but his statement is not definitive. He could theoretically be referring to the Midnight Sea itself, several types of entities in the cosmere (such as an [Aetherbound](https://coppermind.net/wiki/Aetherbound "Aetherbound") or a [[Aether - The Coppermind#Primal Aethers|primal aether]]), or a figure from local legend or religion on Lumar. The prominence of both aether spores and Lumar's twelve moons in their culture means that they are often referred to by multiple names and nicknames, further obscuring the origin of the term.
+The context of Flik's statement implies that Thanasmia could be a name for the [[Aether - The Coppermind#Lumar aethers|prime midnight aether]] that presumably lives on the moon above the Midnight Sea, but his statement is not definitive. He could theoretically be referring to the Midnight Sea itself, several types of entities in the cosmere (such as an [[Aether - The Coppermind|Aetherbound]] or a [[Aether - The Coppermind#Primal Aethers|primal aether]]), or a figure from local legend or religion on Lumar. The prominence of both aether spores and Lumar's twelve moons in their culture means that they are often referred to by multiple names and nicknames, further obscuring the origin of the term.
 
 ## Notes\[edit\]
 

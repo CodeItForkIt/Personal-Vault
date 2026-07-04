@@ -12,7 +12,7 @@ favicon: "/favicon.ico"
 ---
 ## Five Scholars
 
-The **Five Scholars** are a group of [[Returned - The Coppermind|Returned]] [^1] who made major breakthroughs in [[Awakening - The Coppermind|Awakening]] and [BioChroma](https://coppermind.net/wiki/BioChroma "BioChroma").[^2] Their most notable discoveries are the ability to create [[Lifeless - The Coppermind|Lifeless]] with only one [Breath](https://coppermind.net/wiki/Breath "Breath"), the formulation of the [[Ichor-alcohol - The Coppermind|Ichor-alcohol]] necessary to ensure their continued and efficient operation, and the ability to Awaken inorganic materials like steel. At least some of the scholars are worldhoppers.[^3]
+The **Five Scholars** are a group of [[Returned - The Coppermind|Returned]] [^1] who made major breakthroughs in [[Awakening - The Coppermind|Awakening]] and [[BioChromatic Breath - The Coppermind|BioChroma]].[^2] Their most notable discoveries are the ability to create [[Lifeless - The Coppermind|Lifeless]] with only one [[BioChromatic Breath - The Coppermind|Breath]], the formulation of the [[Ichor-alcohol - The Coppermind|Ichor-alcohol]] necessary to ensure their continued and efficient operation, and the ability to Awaken inorganic materials like steel. At least some of the scholars are worldhoppers.[^3]
 
 ## Discoveries
 
@@ -42,7 +42,7 @@ The ability to create Lifeless with greatly increased longevity so cheaply was o
 
 ### End of the Manywar
 
-Shortly after Shashara and Vasher's marriage, Shashara draws Nightblood in battle for the first and last time in the final battle of the [[Manywar - The Coppermind|Manywar]]: [The Battle of Twilight Falls](https://coppermind.net/wiki/Battle_of_Twilight_Falls "Battle of Twilight Falls"). Shashara is impressed by the power of the blade and insists on using the sword in battle, and on giving away the secret to creating more, similar to how she leaked the ability to Awaken Lifeless with a single breath.[^4] Vasher is disgusted by the trail of death it leaves behind. This causes a falling out between her and Vasher that ultimately leads him to kill her, using Nightblood, to prevent more weapons of Nightblood's caliber from being created.[^10]
+Shortly after Shashara and Vasher's marriage, Shashara draws Nightblood in battle for the first and last time in the final battle of the [[Manywar - The Coppermind|Manywar]]: [[Manywar - The Coppermind|The Battle of Twilight Falls]]. Shashara is impressed by the power of the blade and insists on using the sword in battle, and on giving away the secret to creating more, similar to how she leaked the ability to Awaken Lifeless with a single breath.[^4] Vasher is disgusted by the trail of death it leaves behind. This causes a falling out between her and Vasher that ultimately leads him to kill her, using Nightblood, to prevent more weapons of Nightblood's caliber from being created.[^10]
 
 ### Post-Manywar
 

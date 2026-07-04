@@ -67,7 +67,7 @@ Sja-anat exists between the Physical and Cognitive Realms, such that she experie
 
 Sja-anat's origin is unknown; thus it is uncertain when she came into being. She was involved in the past [[Desolation - The Coppermind|Desolations]],[^2] with her Enlightened spren serving as spies on mankind.[^12] In the past when her Enlightened spren were seen in a village, the people often fled their homes.[^2] Sja-anat herself was the Unmade most feared by the Radiants.[^1]
 
-After [Aharietiam](https://coppermind.net/wiki/Aharietiam "Aharietiam"), Sja-anat remained on Roshar, although none of her Enlightened spren are known to have been sighted since the Final Desolation. In the time after [Aharietiam](https://coppermind.net/wiki/Aharietiam "Aharietiam") she mostly slumbered, as it was difficult for her to think without her bond to Odium.[^10] At some point Sja-anat Enlightened the true spren [[Glys - The Coppermind|Glys]].[^20]
+After [[Last Desolation - The Coppermind|Aharietiam]], Sja-anat remained on Roshar, although none of her Enlightened spren are known to have been sighted since the Final Desolation. In the time after [[Last Desolation - The Coppermind|Aharietiam]] she mostly slumbered, as it was difficult for her to think without her bond to Odium.[^10] At some point Sja-anat Enlightened the true spren [[Glys - The Coppermind|Glys]].[^20]
 
 ### The Gathering Storm
 

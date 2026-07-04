@@ -13,7 +13,7 @@ favicon: /favicon.ico
 ---
 ## Shu-Keseg
 
-**Shu-Keseg** is a religion practiced on the [[Sel - The Coppermind|Selish]] continent known as [Opelon](https://coppermind.net/wiki/Opelon "Opelon") ([Aonic](https://coppermind.net/wiki/Aonic "Aonic") term) or [Sycla](https://coppermind.net/wiki/Sycla "Sycla") ([[Fjorden - The Coppermind|Fjordell]] term), as well as the nearby nation of [[Teod - The Coppermind|Teod]].[^1] [^2] [^3] Two opposing sects, [[Shu-Korath - The Coppermind|Shu-Korath]] and [[Shu-Dereth - The Coppermind|Shu-Dereth]], later developed from this parent religion. [^4] [^5]
+**Shu-Keseg** is a religion practiced on the [[Sel - The Coppermind|Selish]] continent known as [[Sel - The Coppermind|Opelon]] ([Aonic](https://coppermind.net/wiki/Aonic "Aonic") term) or [[Sel - The Coppermind|Sycla]] ([[Fjorden - The Coppermind|Fjordell]] term), as well as the nearby nation of [[Teod - The Coppermind|Teod]].[^1] [^2] [^3] Two opposing sects, [[Shu-Korath - The Coppermind|Shu-Korath]] and [[Shu-Dereth - The Coppermind|Shu-Dereth]], later developed from this parent religion. [^4] [^5]
 
 ## Beliefs
 

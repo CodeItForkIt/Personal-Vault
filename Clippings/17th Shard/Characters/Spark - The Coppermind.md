@@ -24,7 +24,7 @@ This article is about the spren. For the Essence of Spark, see [Ten Essences](ht
 
 Shallan could see no sign of Spark when meeting Malata, nor has there been any information given concerning her appearance.[^1]
 
-Spark likes to break things;[^2] like other ashspren, she wants to know what is inside.[^1] She does not like the term " [Dustbringer](https://coppermind.net/wiki/Dustbringer "Dustbringer") ", which is the name commonly used for the Radiant order that bonds to ashspren, and may prefer the name "Releaser".[^3] This may be partially due to the similarity of "Dustbringer" to " [[Voidbringer - The Coppermind|Voidbringer]] ".[^4]
+Spark likes to break things;[^2] like other ashspren, she wants to know what is inside.[^1] She does not like the term " [[Order of Dustbringers - The Coppermind|Dustbringer]] ", which is the name commonly used for the Radiant order that bonds to ashspren, and may prefer the name "Releaser".[^3] This may be partially due to the similarity of "Dustbringer" to " [[Voidbringer - The Coppermind|Voidbringer]] ".[^4]
 
 > “ *Spark is game for whatever it takes to get vengeance. And what lets her break stuff.* ”
 > 
@@ -58,7 +58,7 @@ Spark and Malata were conspicuously absent during the [[Battle of Thaylen Field 
 
 ### Malata
 
-Spark's relationship with Malata is only known through Malata's comments regarding Spark to other people. Spark and Malata seem to collaborate with each other; Malata notes that sometimes Spark makes suggestions on their course of action, while at other points Spark seems to do things at Malata's request.[^1] [^2] Spark has recounted the events of the [Recreance](https://coppermind.net/wiki/Recreance "Recreance") to Malata, who expresses empathy regarding Spark´s pain and resentment towards the Radiants.[^2] Malata also seems to gain confidence after bonding Spark.[^2] Taravangian believes that Spark's self-awareness will grow the longer that she is bonded to Malata, and that her personality may change as a result.[^2]
+Spark's relationship with Malata is only known through Malata's comments regarding Spark to other people. Spark and Malata seem to collaborate with each other; Malata notes that sometimes Spark makes suggestions on their course of action, while at other points Spark seems to do things at Malata's request.[^1] [^2] Spark has recounted the events of the [[Day of Recreance - The Coppermind|Recreance]] to Malata, who expresses empathy regarding Spark´s pain and resentment towards the Radiants.[^2] Malata also seems to gain confidence after bonding Spark.[^2] Taravangian believes that Spark's self-awareness will grow the longer that she is bonded to Malata, and that her personality may change as a result.[^2]
 
 ## Notes
 

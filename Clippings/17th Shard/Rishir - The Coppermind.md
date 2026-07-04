@@ -30,7 +30,7 @@ Most of Rishir lies on or in the [Reshi Sea](https://coppermind.net/wiki/Reshi_S
 
 #### Writing and language
 
-It can reasonably be assumed that the people of Rishir spoke multiple languages, including distant ancestors of modern day Herdazian and Reshi. The ancestor language of Herdazian belonged to the [Vorin](https://coppermind.net/wiki/Vorin "Vorin") language family, which also contains the languages of the Alethi, the Thaylen, the Natan, and the Veden peoples. The men living on the [Reshi Isles](https://coppermind.net/wiki/Reshi_Isles "Reshi Isles") spoke a different language, which likely belonged to the Iriali language family.[^4]
+It can reasonably be assumed that the people of Rishir spoke multiple languages, including distant ancestors of modern day Herdazian and Reshi. The ancestor language of Herdazian belonged to the [[Vorinism - The Coppermind|Vorin]] language family, which also contains the languages of the Alethi, the Thaylen, the Natan, and the Veden peoples. The men living on the [Reshi Isles](https://coppermind.net/wiki/Reshi_Isles "Reshi Isles") spoke a different language, which likely belonged to the Iriali language family.[^4]
 
 The people of Rishir wrote in the [[Dawnchant - The Coppermind|Dawnchant]]. After a while, they adapted the original Dawnchant script to fit their own languages and developed their own script. This process began with simple phonetic substitution, in which they used the Dawnchant to transcribe their own languages.[^5]
 
@@ -42,7 +42,7 @@ The land that would become known as Rishir was created at an unknown point befor
 
 ### Pre-Human Arrival
 
-Before humanity arrived on Roshar from Ashyn, the land that would come to be known as Rishir was inhabited by [Singers](https://coppermind.net/wiki/Singers "Singers").[^10]
+Before humanity arrived on Roshar from Ashyn, the land that would come to be known as Rishir was inhabited by [[Singer - The Coppermind|Singers]].[^10]
 
 Circa -5825 in the Vorin calendar,[^11] [^12] humanity arrived on Roshar after fleeing Ashyn and were granted the land that would become [[Shin Kak Nish - The Coppermind|Shin Kak Nish]]. After less than a generation,[^13] they headed an invasion, slaughtering some of the Singers and expelling them from their land, claiming it as their own, this included the land that would come to be known as Rishir.[^10] This history was lost to man until the discovery of the [Eila Stele](https://coppermind.net/wiki/Eila_Stele "Eila Stele").[^10]
 
@@ -54,7 +54,7 @@ by [Isaac Stewart](https://coppermind.net/wiki/Coppermind:Artists/Isaac_Stewart 
 
 Map of the Silver Kingdoms
 
-Rishir was founded in the [[Silver Kingdoms - The Coppermind|Silver Kingdoms]] Epoch. Due to the Desolations, the people of Rishir were constantly returned back to early technological levels, often to the point of having to make use of stone tools. Though they advanced each time with the help of the Heralds whenever they returned, often receiving this assistance from [[Kalak - The Coppermind|Kalak]] and his [Willshapers](https://coppermind.net/wiki/Willshapers "Willshapers").[^14] [^15] [^16] [^17] Old manuscripts and texts dating back to these times mention quick-spreading diseases in the east that killed tens of thousands, and it is likely that at least some of these diseases spread to Rishir.[^18]
+Rishir was founded in the [[Silver Kingdoms - The Coppermind|Silver Kingdoms]] Epoch. Due to the Desolations, the people of Rishir were constantly returned back to early technological levels, often to the point of having to make use of stone tools. Though they advanced each time with the help of the Heralds whenever they returned, often receiving this assistance from [[Kalak - The Coppermind|Kalak]] and his [[Order of Willshapers - The Coppermind|Willshapers]].[^14] [^15] [^16] [^17] Old manuscripts and texts dating back to these times mention quick-spreading diseases in the east that killed tens of thousands, and it is likely that at least some of these diseases spread to Rishir.[^18]
 
 Very early in the nation's history, the city of [Kurth](https://coppermind.net/wiki/Kurth "Kurth"), was created and made into its capital. Kurth was eventually made into the home of the Rishir Oathgate.[^19]
 

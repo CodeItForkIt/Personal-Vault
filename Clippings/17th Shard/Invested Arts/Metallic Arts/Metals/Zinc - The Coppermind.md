@@ -16,13 +16,13 @@ favicon: /favicon.ico
 ---
 ## Zinc
 
-**Zinc** is the external mental pulling metal. An [Allomancer](https://coppermind.net/wiki/Allomancer "Allomancer") burning zinc is able to inflame the emotions of those around them. It can be targeted at a single person or a group. A [Feruchemist](https://coppermind.net/wiki/Feruchemist "Feruchemist") can use zinc to store mental speed. When used as a [[Hemalurgic chimera - The Coppermind|Hemalurgic]] spike, zinc steals emotional fortitude. It increases a [[Fabrial - The Coppermind|fabrial's]] strength.
+**Zinc** is the external mental pulling metal. An [[Allomancy - The Coppermind|Allomancer]] burning zinc is able to inflame the emotions of those around them. It can be targeted at a single person or a group. A [[Feruchemy - The Coppermind|Feruchemist]] can use zinc to store mental speed. When used as a [[Hemalurgic chimera - The Coppermind|Hemalurgic]] spike, zinc steals emotional fortitude. It increases a [[Fabrial - The Coppermind|fabrial's]] strength.
 
 The paired alloy of zinc used in the Metallic Arts is [brass](https://coppermind.net/wiki/Brass "Brass").
 
 ## Allomantic Use
 
-A zinc [Misting](https://coppermind.net/wiki/Misting "Misting") is known as a **Rioter**. Emotional Allomancy is not mind control, but it does allow the practitioner to influence the emotions of those around them. This is known as **Rioting** or **Raging**.[^1] [^2] The effects can be targeted at a specific individual or group and can focus on specific emotions.[^3] It is easier to target a specific direction instead of at a specific individual.[^4]
+A zinc [[Allomancy - The Coppermind|Misting]] is known as a **Rioter**. Emotional Allomancy is not mind control, but it does allow the practitioner to influence the emotions of those around them. This is known as **Rioting** or **Raging**.[^1] [^2] The effects can be targeted at a specific individual or group and can focus on specific emotions.[^3] It is easier to target a specific direction instead of at a specific individual.[^4]
 
 Rioting emotions can be used to increase someone's desire, determination, anger, etc. It can accomplish many of the same things as [Soothing](https://coppermind.net/wiki/Brass "Brass") emotions by Rioting all but the specified emotions. Extreme emotions in the target will interfere with emotional [[Allomancy - The Coppermind|Allomancy]].[^5] Emotional Allomancy can affect animals, however it requires a certain amount of sapience.[^6] Emotional Allomancy also has a more compelling effect on [[Lifeless - The Coppermind|Lifeless]] compared to a regular person.[^7] A Rioter cannot Riot themselves.[^8]
 
@@ -32,7 +32,7 @@ Rioting inside of a [[Bendalloy - The Coppermind|speed bubble]] could give the s
 
 ## Feruchemical Use
 
-A zinc [Ferring](https://coppermind.net/wiki/Ferring "Ferring") is known as a **Sparker**. Zinc is used to store mental speed. It allows the Sparker to think very quickly and come to conclusions faster. While filling a zincmind, the Sparker will be dull-witted and slow.[^3] Storing does not affect the Sparker's ability to take in physical information, but it does increase the time it takes to process that information. For example, a Sparker filling their zincmind will perceive words without delay, but will take longer to parse their meaning.[^15] Tapping zinc has the odd side effect of making the user hungry.[^16]
+A zinc [[Feruchemy - The Coppermind|Ferring]] is known as a **Sparker**. Zinc is used to store mental speed. It allows the Sparker to think very quickly and come to conclusions faster. While filling a zincmind, the Sparker will be dull-witted and slow.[^3] Storing does not affect the Sparker's ability to take in physical information, but it does increase the time it takes to process that information. For example, a Sparker filling their zincmind will perceive words without delay, but will take longer to parse their meaning.[^15] Tapping zinc has the odd side effect of making the user hungry.[^16]
 
 ## Hemalurgic Use
 
@@ -40,7 +40,7 @@ When used as a [[Hemalurgic chimera - The Coppermind|Hemalurgic]] spike, zinc st
 
 ### Kandra Blessing
 
-The [[Kandra - The Coppermind|kandra]] can use a pair of these spikes as a [Blessing](https://coppermind.net/wiki/Blessing "Blessing") and call them the **Blessing of Stability**.[^18] Like all kandra Blessings, the Blessing gives the [mistwraiths](https://coppermind.net/wiki/Mistwraith "Mistwraith") sentience, with the added benefit of emotional stability. This Blessing, however, is rarely used among the kandra.[^18]
+The [[Kandra - The Coppermind|kandra]] can use a pair of these spikes as a [[Kandra - The Coppermind|Blessing]] and call them the **Blessing of Stability**.[^18] Like all kandra Blessings, the Blessing gives the [mistwraiths](https://coppermind.net/wiki/Mistwraith "Mistwraith") sentience, with the added benefit of emotional stability. This Blessing, however, is rarely used among the kandra.[^18]
 
 ## Fabrial Use
 

@@ -34,7 +34,7 @@ As modern Thaylens descend from them, it is likely that they are ethnically simi
 
 #### Writing and language
 
-It can reasonably be assumed that the people of Thalath spoke a distant ancestor of modern day Thaylen. This language belongs to the [Vorin](https://coppermind.net/wiki/Vorin "Vorin") language family, which also contains the languages of the Alethi, the Herdazian, the Natan, and the Veden peoples, although Thaylen is not terribly similar to these languages.[^9] The people of Thalath wrote in the [[Dawnchant - The Coppermind|Dawnchant]]. After a while, they adapted the original Dawnchant script to fit their own language and developed their own script. This process began with simple phonetic substitution, in which they used the Dawnchant to transcribe their own language.[^10]
+It can reasonably be assumed that the people of Thalath spoke a distant ancestor of modern day Thaylen. This language belongs to the [[Vorinism - The Coppermind|Vorin]] language family, which also contains the languages of the Alethi, the Herdazian, the Natan, and the Veden peoples, although Thaylen is not terribly similar to these languages.[^9] The people of Thalath wrote in the [[Dawnchant - The Coppermind|Dawnchant]]. After a while, they adapted the original Dawnchant script to fit their own language and developed their own script. This process began with simple phonetic substitution, in which they used the Dawnchant to transcribe their own language.[^10]
 
 ## History
 
@@ -44,7 +44,7 @@ The land that would become known as Thalath was created at an unknown point befo
 
 ### Pre-Human Arrival
 
-Before humanity arrived on Roshar from Ashyn, the land that would come to be known as Thalath was inhabited by [Singers](https://coppermind.net/wiki/Singers "Singers").[^15]
+Before humanity arrived on Roshar from Ashyn, the land that would come to be known as Thalath was inhabited by [[Singer - The Coppermind|Singers]].[^15]
 
 Circa -5825 in the Vorin calendar,[^16] [^17] humanity arrived on Roshar after fleeing Ashyn and were granted the land that would become [[Shin Kak Nish - The Coppermind|Shin Kak Nish]]. After less than a generation,[^18] they headed an invasion, slaughtering some of the Singers and expelling them from their land, claiming it as their own, this included the land that would come to be known as Thalath.[^15] This history was lost to man until the discovery of the [Eila Stele](https://coppermind.net/wiki/Eila_Stele "Eila Stele").[^15]
 
@@ -56,7 +56,7 @@ by [Isaac Stewart](https://coppermind.net/wiki/Coppermind:Artists/Isaac_Stewart 
 
 Map of the Silver Kingdoms
 
-Thalath was founded in the [[Silver Kingdoms - The Coppermind|Silver Kingdoms]] Epoch. Due to the Desolations, the people of Thalath were constantly returned back to early technological levels, often to the point of having to make use of stone tools. Though they advanced each time with the help of the Heralds whenever they returned, often receiving this assistance from [[Kalak - The Coppermind|Kalak]] and his [Willshapers](https://coppermind.net/wiki/Willshapers "Willshapers").[^19] [^20] [^21] [^22] Old manuscripts and texts dating back to these times mention quick-spreading diseases in the east that killed tens of thousands, and it is likely that at least some of these diseases spread to Thalath.[^23]
+Thalath was founded in the [[Silver Kingdoms - The Coppermind|Silver Kingdoms]] Epoch. Due to the Desolations, the people of Thalath were constantly returned back to early technological levels, often to the point of having to make use of stone tools. Though they advanced each time with the help of the Heralds whenever they returned, often receiving this assistance from [[Kalak - The Coppermind|Kalak]] and his [[Order of Willshapers - The Coppermind|Willshapers]].[^19] [^20] [^21] [^22] Old manuscripts and texts dating back to these times mention quick-spreading diseases in the east that killed tens of thousands, and it is likely that at least some of these diseases spread to Thalath.[^23]
 
 Very early in the nation's history [Thaylen City](https://coppermind.net/wiki/Thaylen_City "Thaylen City") was created and made into its capital. Thaylen city was eventually made into the home of the Thalath Oathgate.[^24]
 

@@ -18,17 +18,17 @@ favicon: "/favicon.ico"
 
 **Lifeless** are a type of magical entity originating on [[Nalthis - The Coppermind|Nalthis]], created by [[Awakening - The Coppermind|Awakening]]. They are classified as Type Two BioChromatic Entities: Mindless Manifestations in a Deceased Host.[^2]
 
-When an Awakener infuses a skeleton or a corpse (typically human) with a [Breath](https://coppermind.net/wiki/Breath "Breath"), it becomes animate without becoming fully alive. This creature is then able to follow specific Commands much like any other Awakened creation.
+When an Awakener infuses a skeleton or a corpse (typically human) with a [[BioChromatic Breath - The Coppermind|Breath]], it becomes animate without becoming fully alive. This creature is then able to follow specific Commands much like any other Awakened creation.
 
 However, Lifeless differ from other Awakened objects in several ways. Firstly, the Breath used to animate them cannot be reclaimed by the Awakener.[^1] Secondly, they are much more flexible and intelligent in obeying orders; this is ascribed to the fact that they have a brain and are therefore less reliant on the cognitive impulse from the Awakener to determine their actions. Thirdly, they can be given further Commands, or have their previous Commands rescinded, without an infusion of more Breath.
 
 ## Appearance
 
-A Lifeless has all color drained from it upon its creation, bleeding to grey, the Awakening feeding off the body’s own colors to help fuel the transformation.[^1] While their clothing is not drained of color, lifeless, like [Clod](https://coppermind.net/wiki/Clod "Clod"), are often dressed in muted colors or greys.[^3] They do not need to breathe and their muscles do not involuntarily twitch, so they appear as still as a statue when they are not moving. Lifeless came in as many shapes and sizes as people.[^4] They do not eat.[^5] They cannot talk or write.[^6]
+A Lifeless has all color drained from it upon its creation, bleeding to grey, the Awakening feeding off the body’s own colors to help fuel the transformation.[^1] While their clothing is not drained of color, lifeless, like [[Arsteel - The Coppermind|Clod]], are often dressed in muted colors or greys.[^3] They do not need to breathe and their muscles do not involuntarily twitch, so they appear as still as a statue when they are not moving. Lifeless came in as many shapes and sizes as people.[^4] They do not eat.[^5] They cannot talk or write.[^6]
 
 ## Self-Awareness
 
-The soul of a Lifeless is so diminished that, while it is possible to make a [[Hemalurgy - The Coppermind|Hemalurgic spike]] from one, you could only get the barest hint of a charge, producing a very weak spike.[^7] Nonetheless, Lifeless retain a certain amount of self-awareness after their Awakening, although the implications of this are as yet unexplored.[^8] The Lifeless known as [Clod](https://coppermind.net/wiki/Clod "Clod") seems to help [[Vivenna - The Coppermind|Vivenna]] beyond his Commands on multiple occasions.[^9]
+The soul of a Lifeless is so diminished that, while it is possible to make a [[Hemalurgy - The Coppermind|Hemalurgic spike]] from one, you could only get the barest hint of a charge, producing a very weak spike.[^7] Nonetheless, Lifeless retain a certain amount of self-awareness after their Awakening, although the implications of this are as yet unexplored.[^8] The Lifeless known as [[Arsteel - The Coppermind|Clod]] seems to help [[Vivenna - The Coppermind|Vivenna]] beyond his Commands on multiple occasions.[^9]
 
 A Lifeless holding more than just the Breath that Awakened them are more self-aware than others. They would begin to form a personality, much like a [[Cognitive Shadow - The Coppermind|Cognitive Shadow]].[^10] [^11]
 
@@ -66,9 +66,9 @@ The [[Court of Gods - The Coppermind|Court of Gods]] keeps an army of 40,000 Lif
 
 ### Idris
 
-Just as [Breaths](https://coppermind.net/wiki/Breath "Breath") and [[Awakening - The Coppermind|Awakening]] are seen as taboo in [[Idris - The Coppermind|Idris]], Lifeless are seen as the most unholy of abominations. Idrians believe that a person’s body shouldn’t be abused by making it come back to life and serve someone.[^5]
+Just as [[BioChromatic Breath - The Coppermind|Breaths]] and [[Awakening - The Coppermind|Awakening]] are seen as taboo in [[Idris - The Coppermind|Idris]], Lifeless are seen as the most unholy of abominations. Idrians believe that a person’s body shouldn’t be abused by making it come back to life and serve someone.[^5]
 
-Corpses that have been [Soulcast](https://coppermind.net/wiki/Soulcast "Soulcast") into stone could be Awakened, however, this will not reanimate the person who died. The existing [[Connection - The Coppermind|Spiritual Connection]] of the deceased person, and the shape of the Soulcast stone, however, will make the stone easier to Awaken.[^20] Unlike [[Kalad's Phantoms - The Coppermind|Kalad's Phantoms]], corpses Soulcast into stone do not need bones embedded in the rock to be Awakened.[^21]
+Corpses that have been [[Soulcasting - The Coppermind|Soulcast]] into stone could be Awakened, however, this will not reanimate the person who died. The existing [[Connection - The Coppermind|Spiritual Connection]] of the deceased person, and the shape of the Soulcast stone, however, will make the stone easier to Awaken.[^20] Unlike [[Kalad's Phantoms - The Coppermind|Kalad's Phantoms]], corpses Soulcast into stone do not need bones embedded in the rock to be Awakened.[^21]
 
 A [[Spren - The Coppermind|spren]] that has had their Cognitive form pulled into the Physical Realm will have a new body spontaneously form organs and muscles, but the spren will die within minutes.[^22] These bodies can be made into Lifeless.[^23]
 

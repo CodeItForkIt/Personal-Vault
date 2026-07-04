@@ -58,7 +58,7 @@ The first reason was [Hanald](https://coppermind.net/wiki/Hanald "Hanald") ’s 
 
 Hanald’s Royals also turned its attention to the relatively new art of [[Awakening - The Coppermind|Awakening]].[^1] During this time they gained powerful awakeners and [[Lifeless - The Coppermind|Lifeless]], which other kingdoms didn’t have.[^1] Many different discoveries were made during this time, including the command to make Lifeless with a single breath and [[Ichor-alcohol - The Coppermind|Ichor-alcohol]]. These discoveries allowed nations to build far larger and cheaper armies,[^1] and become far more powerful, raising tensions even higher.
 
-At some point, one of the [[Returned - The Coppermind|Returned]] in Hanald had a vision of war.[^1] This ended up being the catalyst for a war, as it prompted [Strifelover](https://coppermind.net/wiki/Strifelover "Strifelover") to strike preemptively against Huth and the other nations.[^1]
+At some point, one of the [[Returned - The Coppermind|Returned]] in Hanald had a vision of war.[^1] This ended up being the catalyst for a war, as it prompted [[Vasher - The Coppermind|Strifelover]] to strike preemptively against Huth and the other nations.[^1]
 
 ### The Manywar and Destruction
 

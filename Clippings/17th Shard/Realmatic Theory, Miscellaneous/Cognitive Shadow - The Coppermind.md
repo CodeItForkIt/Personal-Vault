@@ -14,9 +14,9 @@ favicon: "/favicon.ico"
 
 > “ *And if you let a man die with too Invested a soul—or Invest him right as he’s dying—he’ll leave behind a shadow you can nail back onto a body.* ”
 > 
-> — [Zahel](https://coppermind.net/wiki/Zahel "Zahel") ’s description of a Cognitive Shadow [^1]
+> — [[Vasher - The Coppermind|Zahel]] ’s description of a Cognitive Shadow [^1]
 
-**Cognitive Shadow**, also known as a **Type Two Invested entity**,[^1] is a term used to refer to a spirit that has not yet moved into the [[The Coppermind Wiki - 17th Shard, the Official Brandon Sanderson Fansite 2|Beyond]].[^2] While the manifestations of this kind of entity can vary depending on the [world](https://coppermind.net/wiki/Shardworld "Shardworld") it occurs on, Cognitive Shadows can occur on any planet in the [[17th Shard|cosmere]].
+**Cognitive Shadow**, also known as a **Type Two Invested entity**,[^1] is a term used to refer to a spirit that has not yet moved into the [[The Coppermind Wiki - 17th Shard, the Official Brandon Sanderson Fansite 2|Beyond]].[^2] While the manifestations of this kind of entity can vary depending on the [[17th Shard|world]] it occurs on, Cognitive Shadows can occur on any planet in the [[17th Shard|cosmere]].
 
 It is a debated point among arcanists, theologians, and philosophers on whether a Cognitive Shadow is the person themselves, or a copy of the person made from Investiture, with various figures standing on either side of the debate.[^1] [^3]
 
@@ -30,7 +30,7 @@ Cognitive Shadows look different in the Cognitive Realm, where how they became a
 
 ### Creation
 
-Cognitive Shadows can be created by a variety of processes. Some of them are created when a person has sufficient attachment to something in the [[Physical Realm - The Coppermind|Physical Realm]]. When a [Vessel](https://coppermind.net/wiki/Vessel "Vessel") that has held onto a [[Shards|Shard]] for a long time dies it becomes a Cognitive Shadow that can continue to act.[^10] Depending on how they are made, Cognitive Shadows are sometimes bound to the planetary system they were made on, and are unable to leave it either through the Physical or Cognitive Realm.[^11] [^12] [^13] It is possible to overcome this issue.[^14]
+Cognitive Shadows can be created by a variety of processes. Some of them are created when a person has sufficient attachment to something in the [[Physical Realm - The Coppermind|Physical Realm]]. When a [[Shards|Vessel]] that has held onto a [[Shards|Shard]] for a long time dies it becomes a Cognitive Shadow that can continue to act.[^10] Depending on how they are made, Cognitive Shadows are sometimes bound to the planetary system they were made on, and are unable to leave it either through the Physical or Cognitive Realm.[^11] [^12] [^13] It is possible to overcome this issue.[^14]
 
 The Cognitive aspect of a recently deceased person can become a Cognitive Shadow by finding a source of Investiture to anchor themselves to the [[Cognitive Realm - The Coppermind|Cognitive Realm]] before passing on to the [[The Coppermind Wiki - 17th Shard, the Official Brandon Sanderson Fansite 2|Beyond]]. The Investiture replaces the parts of the soul that connects it to the Three Realms, providing an anchor for it in the Cognitive Realm.[^15] [^1] [^16] Some Vessels can prepare a Cognitive Shadow at or just prior to their death or [[Splinter - The Coppermind|Splintering]], allowing a portion of their power to continue to function with a small amount of direction; the [[Stormfather - The Coppermind|Stormfather]] is an example of this.[^17]
 
@@ -42,7 +42,7 @@ The personality and mental faculties of a Cognitive Shadow begin to be affected 
 
 ### Destruction
 
-A Cognitive Shadow in a physical body can be permanently killed by the use of a [raysium](https://coppermind.net/wiki/Raysium "Raysium") dagger touching a gem of anti-Light of the type of [[Investiture - The Coppermind|Investiture]] associated with the Cognitive Shadow.[^19] [^20] [^21] [^22] For instance, a raysium dagger with an [anti-Voidlight](https://coppermind.net/wiki/Anti-Voidlight "Anti-Voidlight") gem can permanently kill a [[Fused - The Coppermind|Fused]],[^20] and a Herald can be permanently killed with [anti-Stormlight](https://coppermind.net/wiki/Anti-Stormlight "Anti-Stormlight").[^21]
+A Cognitive Shadow in a physical body can be permanently killed by the use of a [raysium](https://coppermind.net/wiki/Raysium "Raysium") dagger touching a gem of anti-Light of the type of [[Investiture - The Coppermind|Investiture]] associated with the Cognitive Shadow.[^19] [^20] [^21] [^22] For instance, a raysium dagger with an [[Lights|anti-Voidlight]] gem can permanently kill a [[Fused - The Coppermind|Fused]],[^20] and a Herald can be permanently killed with [[Lights|anti-Stormlight]].[^21]
 
 Cognitive Shadows will turn into [sunhearts](https://coppermind.net/wiki/Sunheart "Sunheart") when exposed to the sun on [[Canticle - The Coppermind|Canticle]].[^23] [^24] A Cognitive Shadow is also shown to be capable of being killed if slain by Nightblood in the Cognitive Realm, as they are consumed by Nightblood entirely.[^25]
 
@@ -64,15 +64,15 @@ Some types of Cognitive Shadows are capable of procreation with humans, such as 
 
 [[Fused - The Coppermind|Fused]]
 
-When the [singers](https://coppermind.net/wiki/Singers "Singers") turned to [[Odium - The Coppermind|Odium]] for help in fighting off the humans, he responded by infusing some of them with his power, which turned them into Cognitive Shadows.[^36] They reside on [[Braize - The Coppermind|Braize]], but return to [[Roshar - The Coppermind|Roshar]] during every [[Desolation - The Coppermind|Desolation]]. Since they lost their bodies long ago, they must possess the bodies of living singers; in doing so they destroy the mind of the possessed body.[^37] This cycle of rebirth strains the minds of the Fused and, eventually, they go insane.[^36] Their status as Cognitive Shadows grants them access to the [[Surgebinding - The Coppermind|Surges]].[^38] Odium could remove the Investiture that maintains a Fused, which would send that Fused to the [[The Coppermind Wiki - 17th Shard, the Official Brandon Sanderson Fansite 2|Beyond]].[^39]
+When the [[Singer - The Coppermind|singers]] turned to [[Odium - The Coppermind|Odium]] for help in fighting off the humans, he responded by infusing some of them with his power, which turned them into Cognitive Shadows.[^36] They reside on [[Braize - The Coppermind|Braize]], but return to [[Roshar - The Coppermind|Roshar]] during every [[Desolation - The Coppermind|Desolation]]. Since they lost their bodies long ago, they must possess the bodies of living singers; in doing so they destroy the mind of the possessed body.[^37] This cycle of rebirth strains the minds of the Fused and, eventually, they go insane.[^36] Their status as Cognitive Shadows grants them access to the [[Surgebinding - The Coppermind|Surges]].[^38] Odium could remove the Investiture that maintains a Fused, which would send that Fused to the [[The Coppermind Wiki - 17th Shard, the Official Brandon Sanderson Fansite 2|Beyond]].[^39]
 
 [Heralds](https://coppermind.net/wiki/Herald "Herald")
 
-When the Heralds of [The Almighty](https://coppermind.net/wiki/The_Almighty "The Almighty") took up the [[Oathpact - The Coppermind|Oathpact]], they gained a direct connection to [[Honor - The Coppermind|Honor]]. This connection transformed them into Cognitive Shadows.[^40] Each time they return to Roshar, a new body is created for them.[^41] Unlike the [[Returned - The Coppermind|Returned]], they do not need to consume Investiture to remain in their bodies.[^42]
+When the Heralds of [[Honor - The Coppermind|The Almighty]] took up the [[Oathpact - The Coppermind|Oathpact]], they gained a direct connection to [[Honor - The Coppermind|Honor]]. This connection transformed them into Cognitive Shadows.[^40] Each time they return to Roshar, a new body is created for them.[^41] Unlike the [[Returned - The Coppermind|Returned]], they do not need to consume Investiture to remain in their bodies.[^42]
 
 [[Stormfather - The Coppermind|Stormfather]]
 
-Prior to Odium's splintering of Honor, the Stormfather was just the [[Spren - The Coppermind|spren]] of the [[Highstorm - The Coppermind|highstorm]] and one of the three [Bondsmith](https://coppermind.net/wiki/Bondsmith "Bondsmith") spren. After Honor's death, the Cognitive Shadow of its Vessel, [[Tanavast - The Coppermind|Tanavast]], merged with the Stormfather, though it does not appear that the Stormfather has Tanavast's memories.[^43]
+Prior to Odium's splintering of Honor, the Stormfather was just the [[Spren - The Coppermind|spren]] of the [[Highstorm - The Coppermind|highstorm]] and one of the three [[Order of Bondsmiths - The Coppermind|Bondsmith]] spren. After Honor's death, the Cognitive Shadow of its Vessel, [[Tanavast - The Coppermind|Tanavast]], merged with the Stormfather, though it does not appear that the Stormfather has Tanavast's memories.[^43]
 
 [[Thunderclast - The Coppermind|Thunderclasts]]
 
@@ -80,7 +80,7 @@ Thunderclasts are three giant stone monsters from Roshar that serve Odium during
 
 [[Regal - The Coppermind#Shadowform|Shadowform Regals]]
 
-Shadowform Regals were created by [[Ba-Ado-Mishram - The Coppermind|Ba-Ado-Mishram]] during the [[False Desolation - The Coppermind|False Desolation]] in an attempt to create half-corporeal assassins.[^47] [^48] A singer becomes a Shadowform Regal by bonding with a [shadowspren](https://coppermind.net/wiki/Shadowspren "Shadowspren"). Singers in Shadowform become Cognitive Shadows, with only their gemhearts remaining solid.[^49] [^50] If a person pierces their heart with the gemheart, the Shadowform Regal will take over their body.[^51] [^48]
+Shadowform Regals were created by [[Ba-Ado-Mishram - The Coppermind|Ba-Ado-Mishram]] during the [[False Desolation - The Coppermind|False Desolation]] in an attempt to create half-corporeal assassins.[^47] [^48] A singer becomes a Shadowform Regal by bonding with a [[Voidspren - The Coppermind|shadowspren]]. Singers in Shadowform become Cognitive Shadows, with only their gemhearts remaining solid.[^49] [^50] If a person pierces their heart with the gemheart, the Shadowform Regal will take over their body.[^51] [^48]
 
 ### Scadrial
 
@@ -90,7 +90,7 @@ Shadowform Regals were created by [[Ba-Ado-Mishram - The Coppermind|Ba-Ado-Mishr
 > 
 > —Ruin on Kelsier's Ascension [^52]
 
-After his death, Kelsier found the [[Well of Ascension - The Coppermind|Well of Ascension]] in the Cognitive Realm and, with [[Leras - The Coppermind|Leras']] help, merged with it. As a result, he became infused with [[Preservation - The Coppermind|Preservation's]] power and became a Cognitive Shadow, though, since the Well was created as a prison, he was unable to leave.[^15] After [[Vin - The Coppermind|Vin]] released [[Ruin - The Coppermind|Ruin]] from the Well he was able to travel the Scadrian Cognitive Realm and influence the [[Physical Realm - The Coppermind|Physical Realm]], though he was unable to actually leave the Cognitive Realm because his "ties to the Physical Realm \[had\] been severed" by his death.[^53] With the help of a device made by the [[Ire - The Coppermind|Ire]], he was able to hold the [[Shards|Shard]] of Preservation after [[Leras - The Coppermind|Leras]] died, though, according to [[Ruin - The Coppermind|Ruin]], he made for a weaker [Vessel](https://coppermind.net/wiki/Vessel "Vessel") than a normal person.[^52]
+After his death, Kelsier found the [[Well of Ascension - The Coppermind|Well of Ascension]] in the Cognitive Realm and, with [[Leras - The Coppermind|Leras']] help, merged with it. As a result, he became infused with [[Preservation - The Coppermind|Preservation's]] power and became a Cognitive Shadow, though, since the Well was created as a prison, he was unable to leave.[^15] After [[Vin - The Coppermind|Vin]] released [[Ruin - The Coppermind|Ruin]] from the Well he was able to travel the Scadrian Cognitive Realm and influence the [[Physical Realm - The Coppermind|Physical Realm]], though he was unable to actually leave the Cognitive Realm because his "ties to the Physical Realm \[had\] been severed" by his death.[^53] With the help of a device made by the [[Ire - The Coppermind|Ire]], he was able to hold the [[Shards|Shard]] of Preservation after [[Leras - The Coppermind|Leras]] died, though, according to [[Ruin - The Coppermind|Ruin]], he made for a weaker [[Shards|Vessel]] than a normal person.[^52]
 
 Some time after the [[Catacendre - The Coppermind|Catacendre]], [[Kelsier - The Coppermind|Kelsier]] found a way to recreate his physical body using [[Hemalurgy - The Coppermind|Hemalurgy]] and return to the Physical Realm.[^54] Upon death, he lost his ability to use [[Allomancy - The Coppermind|Allomancy]] and has not recovered it despite regaining a body.[^5]
 

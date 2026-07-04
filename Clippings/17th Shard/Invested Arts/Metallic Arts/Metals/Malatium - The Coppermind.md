@@ -19,7 +19,7 @@ favicon: /favicon.ico
 > 
 > —Kelsier [^1]
 
-**Malatium** is an alloy of [[Atium - The Coppermind|atium]] and [[Gold - The Coppermind|gold]].[^2] [^3] The exact use is unclear; it allows an [Allomancer](https://coppermind.net/wiki/Allomancer "Allomancer") to see either who another person was in the past, or who they could have become if they had made different choices. This metal is referred to in legend as the **Eleventh Metal**. It is described as being silvery white in color, similar to porcelain.[^1] [^4]
+**Malatium** is an alloy of [[Atium - The Coppermind|atium]] and [[Gold - The Coppermind|gold]].[^2] [^3] The exact use is unclear; it allows an [[Allomancy - The Coppermind|Allomancer]] to see either who another person was in the past, or who they could have become if they had made different choices. This metal is referred to in legend as the **Eleventh Metal**. It is described as being silvery white in color, similar to porcelain.[^1] [^4]
 
 ## Allomantic Use
 
@@ -31,7 +31,7 @@ Malatium is different from other Allomantic metals in that, when it is burned, t
 
 ## Feruchemical Use
 
-Malatium, when used by a [Feruchemist](https://coppermind.net/wiki/Feruchemist "Feruchemist"), has unknown properties.
+Malatium, when used by a [[Feruchemy - The Coppermind|Feruchemist]], has unknown properties.
 
 ## Hemalurgic use
 
@@ -39,7 +39,7 @@ When used as a [[Hemalurgic chimera - The Coppermind|Hemalurgic]] spike, malatiu
 
 ## History
 
-While learning [[Allomancy - The Coppermind|Allomancy]] from [Gemmel](https://coppermind.net/wiki/Gemmel "Gemmel"), [[Kelsier - The Coppermind|Kelsier]] infiltrates [Keep Shezler](https://coppermind.net/wiki/Keep_Shezler "Keep Shezler") and, after defeating the Mistborn [Antillius Shezler](https://coppermind.net/wiki/Antillius_Shezler "Antillius Shezler"), comes across Shezler's notes theorizing about a possible eleventh Allomantic metal.[^8] Even after becoming [[Harmony - The Coppermind|Harmony]], [[Sazed - The Coppermind|Sazed]] could not find any prior legends about an eleventh metal and concluded that the legends were likely fabricated by [[Ruin - The Coppermind|Ruin]] to help drive Kelsier's plan to kill the [Lord Ruler](https://coppermind.net/wiki/Lord_Ruler "Lord Ruler").[^9] Between Shezler's apparent mental instability,[^8] which might have allowed Ruin to speak to him, and Ruin's ability to manipulate text, it is entirely plausible that Ruin could have been behind the creation of Shezler's notes. Furthermore, Gemmel, the person who directed Kelsier to Keep Shezler and drew his attention to Shezler's notes in the first place, showed signs of being manipulated by Ruin,[^8] suggesting that Ruin was indeed intentionally leading Kelsier to the notes. Ruin later claimed that he was in fact responsible for manipulating Kelsier into "discovering" the metal.[^10]
+While learning [[Allomancy - The Coppermind|Allomancy]] from [Gemmel](https://coppermind.net/wiki/Gemmel "Gemmel"), [[Kelsier - The Coppermind|Kelsier]] infiltrates [Keep Shezler](https://coppermind.net/wiki/Keep_Shezler "Keep Shezler") and, after defeating the Mistborn [Antillius Shezler](https://coppermind.net/wiki/Antillius_Shezler "Antillius Shezler"), comes across Shezler's notes theorizing about a possible eleventh Allomantic metal.[^8] Even after becoming [[Harmony - The Coppermind|Harmony]], [[Sazed - The Coppermind|Sazed]] could not find any prior legends about an eleventh metal and concluded that the legends were likely fabricated by [[Ruin - The Coppermind|Ruin]] to help drive Kelsier's plan to kill the [[Rashek - The Coppermind|Lord Ruler]].[^9] Between Shezler's apparent mental instability,[^8] which might have allowed Ruin to speak to him, and Ruin's ability to manipulate text, it is entirely plausible that Ruin could have been behind the creation of Shezler's notes. Furthermore, Gemmel, the person who directed Kelsier to Keep Shezler and drew his attention to Shezler's notes in the first place, showed signs of being manipulated by Ruin,[^8] suggesting that Ruin was indeed intentionally leading Kelsier to the notes. Ruin later claimed that he was in fact responsible for manipulating Kelsier into "discovering" the metal.[^10]
 
 From the period between Leras imprisoning Ati until Sazed's Ascension, and only for that period, it was possible to be born as a malatium Misting [^11], though any such people are unknown; given it was even more rare than atium, it is unlikely that any such Misting was aware of their abilities.
 

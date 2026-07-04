@@ -1,0 +1,9 @@
+{
+  "id": "clipping-link-resolver",
+  "name": "Clipping Link Resolver",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Rewrites external links in your notes as internal links when they point to a URL another note in your vault already has saved (e.g. via Web Clipper's 'source' property).",
+  "author": "Custom",
+  "isDesktopOnly": false
+}

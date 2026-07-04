@@ -14,7 +14,7 @@ favicon: "/favicon.ico"
 
 > “ *I am told that it is not the sand itself, but something that grows upon it, that exhibits the strange properties.* ”
 
-**Sand** on [[Taldain - The Coppermind|Taldain]] appears in three forms. White Sand is the [[Investiture - The Coppermind|Invested]] sand found on the [Dayside](https://coppermind.net/wiki/Dayside "Dayside") of Taldain that is used to perform [[Sand mastery - The Coppermind|Sand mastery]]. Black sand is white sand that has been mastered or exposed to moisture. Unremarkable sand in various shades of tan can be found on both Dayside and [Darkside](https://coppermind.net/wiki/Darkside "Darkside").[^2]
+**Sand** on [[Taldain - The Coppermind|Taldain]] appears in three forms. White Sand is the [[Investiture - The Coppermind|Invested]] sand found on the [[Taldain - The Coppermind|Dayside]] of Taldain that is used to perform [[Sand mastery - The Coppermind|Sand mastery]]. Black sand is white sand that has been mastered or exposed to moisture. Unremarkable sand in various shades of tan can be found on both Dayside and [[Taldain - The Coppermind|Darkside]].[^2]
 
 ## Acquisition and Properties
 
@@ -48,7 +48,7 @@ Mastered sand, that is actively being used, can be forced to go stale by being t
 
 ## Detecting Investiture
 
-The organisms in the sand react to Investiture; and, if allowed to go stale, will turn white again in the presence of kinetic Investiture.[^1] [^3] [^13] [^14] [^15] This can be used, similarly to a [Seeker](https://coppermind.net/wiki/Seeker "Seeker"), to tell when someone is using kinetic Investiture.[^13] [^16] [^15] For example, a container of stale sand will begin turning white on the side closest to the Investiture's source.[^17] Sand can also be used to detect the location of an otherwise-invisible Invested entities in the [[Physical Realm - The Coppermind|Physical Realm]], such as spreading it across the ground and watching for where it begins to change color.[^18] However, when in a highly Invested environment, or with too many Investiture sources, it may not be possible to locate any specific source of Investiture.[^19] Sand will also not react to Invested entities with smaller amounts of Investiture, such as lesser spren.[^20]
+The organisms in the sand react to Investiture; and, if allowed to go stale, will turn white again in the presence of kinetic Investiture.[^1] [^3] [^13] [^14] [^15] This can be used, similarly to a [[Bronze - The Coppermind|Seeker]], to tell when someone is using kinetic Investiture.[^13] [^16] [^15] For example, a container of stale sand will begin turning white on the side closest to the Investiture's source.[^17] Sand can also be used to detect the location of an otherwise-invisible Invested entities in the [[Physical Realm - The Coppermind|Physical Realm]], such as spreading it across the ground and watching for where it begins to change color.[^18] However, when in a highly Invested environment, or with too many Investiture sources, it may not be possible to locate any specific source of Investiture.[^19] Sand will also not react to Invested entities with smaller amounts of Investiture, such as lesser spren.[^20]
 
 Sand can also be used to measure the strength of Investiture, because the speed at which the sand turns white increases based on the strength of the Investiture, and if it is being stored or actively used.[^21] The sand is therefore very useful and highly valued across the cosmere by those who are aware of its properties.[^13] [^22] [^23]
 

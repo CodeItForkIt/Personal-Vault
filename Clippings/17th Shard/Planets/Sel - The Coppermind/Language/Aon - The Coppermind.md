@@ -76,7 +76,7 @@ This Aon serves as the starting point for all other Aons. It's appearance is bas
 > 
 > —Ars Arcanum
 
-*Examples:* [The City of Ake](https://coppermind.net/wiki/Ake "Ake")
+*Examples:* [[Elantris (city) - The Coppermind|The City of Ake]]
 
 ### Ala
 
@@ -152,7 +152,7 @@ This Aon has the ability to "make a room go completely silent for a short time."
 > 
 > —Ars Arcanum
 
-*Examples:* [The City of Ato](https://coppermind.net/wiki/Ato "Ato")
+*Examples:* [[Elantris (city) - The Coppermind|The City of Ato]]
 
 ### Daa
 
@@ -184,7 +184,7 @@ Aon Daa is the preferred offensive weapon of the Elantrians. When drawn, a burst
 > 
 > —Ars Arcanum
 
-*Examples:* [[Arelon - The Coppermind#Deo|Deo]], [Deo Plantation](https://coppermind.net/wiki/Deo_Plantation "Deo Plantation")
+*Examples:* [[Arelon - The Coppermind#Deo|Deo]], [[Arelon - The Coppermind|Deo Plantation]]
 
 ### Dii
 
@@ -282,9 +282,9 @@ Aon Ehe when used in conjunction with other Aons is used to represent warm food 
 
 The shape of Aon Ene is supposed to represent the two opposing sides of an argument, it is made up of two halves that are made up of the same symbols, only reversed.[^11]
 
-In modern usage Aon Ene has come to mean intelligence in a general sort of way. Scholars note however that originally it referred to cleverness or the ability to out-wit and out-think an opponent. It was a symbol that was often used to refer to trickster figures, which were called "enefel," literally "Wit Killers" or those who kill with wit. During the [Middle Era](https://coppermind.net/wiki/Middle_Era "Middle Era") a group of storytellers, who took the name Enefel, began spreading stories of the wonders of Elantris. Some believe the Enefel were agents of the Elantrians who sought to expand their influence and quell the suspicion the rural populace felt towards them. Over time, this group of storytellers developed into a group of scholars that collected stories and histories. By the [Late Era](https://coppermind.net/wiki/Late_Era "Late Era") several distinct groups of scholars and philosophers had emerged. Aon Ene's association with these groups prompted the expansion of its meaning.[^11]
+In modern usage Aon Ene has come to mean intelligence in a general sort of way. Scholars note however that originally it referred to cleverness or the ability to out-wit and out-think an opponent. It was a symbol that was often used to refer to trickster figures, which were called "enefel," literally "Wit Killers" or those who kill with wit. During the [[Sel - The Coppermind|Middle Era]] a group of storytellers, who took the name Enefel, began spreading stories of the wonders of Elantris. Some believe the Enefel were agents of the Elantrians who sought to expand their influence and quell the suspicion the rural populace felt towards them. Over time, this group of storytellers developed into a group of scholars that collected stories and histories. By the [[Sel - The Coppermind|Late Era]] several distinct groups of scholars and philosophers had emerged. Aon Ene's association with these groups prompted the expansion of its meaning.[^11]
 
-When used in AonDor, Aon Ene emits what is commonly referred to as the "Light of the Mind." Anyone who is touched by the light has their mental capabilities enhanced. They can memorize more quickly, reason more clearly, and stave off the mental-diminishing effects of illness or lack of sleep. It can also be used as a Linking Aon, joining lists of Aons together and determining when their effects will activate. It is used extensively and any Master of AonDor is skilled in its use.[^11] This is similar to how [logicspren](https://coppermind.net/wiki/Logicspren "Logicspren"), which are drawn to debate, are used for timing in fabrials.[^12]
+When used in AonDor, Aon Ene emits what is commonly referred to as the "Light of the Mind." Anyone who is touched by the light has their mental capabilities enhanced. They can memorize more quickly, reason more clearly, and stave off the mental-diminishing effects of illness or lack of sleep. It can also be used as a Linking Aon, joining lists of Aons together and determining when their effects will activate. It is used extensively and any Master of AonDor is skilled in its use.[^11] This is similar to how [[Spren - The Coppermind|logicspren]], which are drawn to debate, are used for timing in fabrials.[^12]
 
 > “ *No wealth of gold and silver can purchase a keen mind, but the man of wit will often find treasures beyond what mere lucre can provide.*”
 > 
@@ -316,7 +316,7 @@ This Aon includes a "wiggly" line that corresponds to the shape of the Aredel Ri
 > 
 > —Ars Arcanum
 
-*Examples:* [Eondel](https://coppermind.net/wiki/Eondel "Eondel"), [Eonic](https://coppermind.net/wiki/Eonic "Eonic"), [Eon Plantation](https://coppermind.net/wiki/Eon_Plantation "Eon Plantation")
+*Examples:* [Eondel](https://coppermind.net/wiki/Eondel "Eondel"), [Eonic](https://coppermind.net/wiki/Eonic "Eonic"), [[Arelon - The Coppermind|Eon Plantation]]
 
 ### Eshe
 
@@ -356,7 +356,7 @@ This Aon includes a "wiggly" line that corresponds to the shape of the Aredel Ri
 > 
 > —Ars Arcanum
 
-*Examples:* [[Roial - The Coppermind|Roial]], [Ial Plantation](https://coppermind.net/wiki/Ial_Plantation "Ial Plantation"), [Iald](https://coppermind.net/wiki/Iald "Iald")
+*Examples:* [[Roial - The Coppermind|Roial]], [[Arelon - The Coppermind|Ial Plantation]], [Iald](https://coppermind.net/wiki/Iald "Iald")
 
 ### Ido
 
@@ -366,7 +366,7 @@ This Aon includes a "wiggly" line that corresponds to the shape of the Aredel Ri
 > 
 > —Ars Arcanum
 
-*Examples:* [Idos Domi](https://coppermind.net/wiki/Idos_Domi "Idos Domi"), Ido Plantation
+*Examples:* [[Shu-Korath - The Coppermind|Idos Domi]], Ido Plantation
 
 ### Ien
 
@@ -404,7 +404,7 @@ The [[Ire - The Coppermind|Ire]] is the name of an organization of [Elantrians](
 > 
 > —Brandon's Website
 
-*Examples:* [Kaa Plantation](https://coppermind.net/wiki/Kaa_Plantation "Kaa Plantation")
+*Examples:* [[Arelon - The Coppermind|Kaa Plantation]]
 
 ### Kae
 
@@ -432,7 +432,7 @@ The [[Ire - The Coppermind|Ire]] is the name of an organization of [Elantrians](
 > 
 > —Brandon's Website
 
-*Examples:* [Kie Plantation](https://coppermind.net/wiki/Kie_Plantation "Kie Plantation")
+*Examples:* [[Arelon - The Coppermind|Kie Plantation]]
 
 ### Kii
 
@@ -512,7 +512,7 @@ Korath asked an Elantrian smith he was acquainted with to forge him a silver pen
 
 In AonDor, Aon Omi would emit a pure white light. Anyone touched by this light would have their negative emotions removed, replaced with a feeling of serenity and peace, making actively maintaining a sense of hatred difficult. It is peculiar in that it requires the Elantrian drawing it to feel sincere affection for those around them, making it one of the few Aons that requires anything except the ability to draw it. When used as a modifier it will link lines of Aons together or, if used correctly, serve as a minor power enhancer.[^20]
 
-*Examples:* [Domi](https://coppermind.net/wiki/Domi "Domi"), [Omin](https://coppermind.net/wiki/Omin "Omin")
+*Examples:* [[Shu-Korath - The Coppermind|Domi]], [Omin](https://coppermind.net/wiki/Omin "Omin")
 
 ### Opa
 
@@ -530,7 +530,7 @@ In AonDor, Aon Omi would emit a pure white light. Anyone touched by this light w
 > 
 > —Brandon's Website
 
-*Examples:* [Opelon](https://coppermind.net/wiki/Opelon "Opelon")
+*Examples:* [[Sel - The Coppermind|Opelon]]
 
 ### Ore
 
@@ -680,7 +680,7 @@ Aon Tia can be used to transport an Elantrian from one point to another. With th
 > 
 > —Brandon's Website
 
-*Examples:* [Tii Plantation](https://coppermind.net/wiki/Tii_Plantation "Tii Plantation")
+*Examples:* [[Arelon - The Coppermind|Tii Plantation]]
 
 ### Toa
 
@@ -690,7 +690,7 @@ Aon Tia can be used to transport an Elantrian from one point to another. With th
 > 
 > —Ars Arcanum
 
-*Examples:* [The City of Toa](https://coppermind.net/wiki/Toa "Toa")
+*Examples:* [[Elantris (city) - The Coppermind|The City of Toa]]
 
 ## Trivia
 

@@ -16,7 +16,7 @@ favicon: "/favicon.ico"
 
 ## Appearance and Personality
 
-She has brown eyes, dark [Kerztian](https://coppermind.net/wiki/Kerztian "Kerztian") skin, and brown hair which she wears in a ponytail. Loaten calls her one of his best people. She claims to be half [Darksider](https://coppermind.net/wiki/Darksider "Darksider"), half Kerztian, and half [Lossandin](https://coppermind.net/wiki/Lossandin "Lossandin"). She is not good at mathematics.[^1]
+She has brown eyes, dark [[Kerzta - The Coppermind|Kerztian]] skin, and brown hair which she wears in a ponytail. Loaten calls her one of his best people. She claims to be half [[Taldain - The Coppermind|Darksider]], half Kerztian, and half [[Lossand - The Coppermind|Lossandin]]. She is not good at mathematics.[^1]
 
 ## History
 
@@ -24,9 +24,9 @@ She has brown eyes, dark [Kerztian](https://coppermind.net/wiki/Kerztian "Kerzti
 > 
 > —N'Teese to Loaten.[^1]
 
-N'Teese guided [Khriss](https://coppermind.net/wiki/Khriss "Khriss") to [Lonzare](https://coppermind.net/wiki/Lonzare "Lonzare"). For a ten [lak](https://coppermind.net/wiki/Lak "Lak") fee, she brought them to see Loaten. To N'Teese's chagrin, Loaten assigned her to be Khriss' guide and translator throughout her stay in Kezare.[^1] She attempted to set up meetings for Khriss with seven of the [[Taishin - The Coppermind|Taishin]], but was unsuccessful. The next day she took them to see [[Taishin - The Coppermind#The Lord Mastrell|Lord Mastrell]] [[Kenton - The Coppermind|Kenton]] at the [[Diem - The Coppermind|Diem]].[^2]
+N'Teese guided [[Khrissalla - The Coppermind|Khriss]] to [[Kezare - The Coppermind|Lonzare]]. For a ten [lak](https://coppermind.net/wiki/Lak "Lak") fee, she brought them to see Loaten. To N'Teese's chagrin, Loaten assigned her to be Khriss' guide and translator throughout her stay in Kezare.[^1] She attempted to set up meetings for Khriss with seven of the [[Taishin - The Coppermind|Taishin]], but was unsuccessful. The next day she took them to see [[Taishin - The Coppermind#The Lord Mastrell|Lord Mastrell]] [[Kenton - The Coppermind|Kenton]] at the [[Diem - The Coppermind|Diem]].[^2]
 
-After Kenton and Khriss had a spat she took the group back to Lonzare. She brought Khriss and [[Baon - The Coppermind|Baon]] to the Artisan conference center where they met up with Kenton,[^3] and later that same day she took them to the [Hall of Judgement](https://coppermind.net/wiki/Hall_of_Judgement "Hall of Judgement") to meet with [Lady Judge](https://coppermind.net/wiki/Lady_Judge "Lady Judge") [[Heelis - The Coppermind|Heelis]]. At Heelis' suggestion she brought them to meet with [[Nilto - The Coppermind|Nilto]].[^4]
+After Kenton and Khriss had a spat she took the group back to Lonzare. She brought Khriss and [[Baon - The Coppermind|Baon]] to the Artisan conference center where they met up with Kenton,[^3] and later that same day she took them to the [Hall of Judgement](https://coppermind.net/wiki/Hall_of_Judgement "Hall of Judgement") to meet with [[Taishin - The Coppermind|Lady Judge]] [[Heelis - The Coppermind|Heelis]]. At Heelis' suggestion she brought them to meet with [[Nilto - The Coppermind|Nilto]].[^4]
 
 After Baon left and Kenton "accepted" Khriss as a [[Sand mastery - The Coppermind|sand master]], N'Teese moved into the Diem with Khriss and the two professors. Khriss sent her off to find Nilto so she can ask him to find Baon for her.[^5] After assassins attacked Khriss in a restaurant, N'Teese returned, saying that Nilto was ready to meet, and the two of them ran off to meet with him. She later brought word from Nilto that he was leaving town and would not be able to search for Baon. The two of them chased after Nilto and caught him at the docks as he was boarding a ship. Khriss confronted Nilto, having figured out his true identity, Gevin. Jon Acron was revealed to be an assassin sent by [Skathan](https://coppermind.net/wiki/Skathan "Skathan"), and in the ensuing fight Baon was shot. After Khriss killed Acron, N'Teese reassures her that Baon was only grazed by the bullet and that he will be fine.[^6]
 

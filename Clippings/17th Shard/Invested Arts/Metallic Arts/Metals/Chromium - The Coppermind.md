@@ -22,17 +22,17 @@ The paired alloy of chromium used in the Metallic Arts is [[Nicrosil - The Coppe
 
 ## Allomantic Use
 
-A chromium [Misting](https://coppermind.net/wiki/Misting "Misting") is known as a **Leecher**. Chromium acts just like [[Aluminum - The Coppermind|aluminum]] inside the body, causing any [Allomancers](https://coppermind.net/wiki/Allomancer "Allomancer") touched by a Leecher to lose their metal reserves.[^1] [^2] [^3] When burning away a person's metals, it feels like pulling power from the metal and returning it to an external source.[^4] Being leeched makes one feel a sudden coldness.[^2]
+A chromium [[Allomancy - The Coppermind|Misting]] is known as a **Leecher**. Chromium acts just like [[Aluminum - The Coppermind|aluminum]] inside the body, causing any [[Allomancy - The Coppermind|Allomancers]] touched by a Leecher to lose their metal reserves.[^1] [^2] [^3] When burning away a person's metals, it feels like pulling power from the metal and returning it to an external source.[^4] Being leeched makes one feel a sudden coldness.[^2]
 
 This power is similar to [[Nightblood - The Coppermind|Nightblood]] and [[Larkin - The Coppermind|larkin]].[^5] When burning away a person's metals, non- [[Investiture - The Coppermind|Invested]] metals go before the Invested ones.[^6] Only Allomantically relevant metals can be burned away.[^7]
 
 ### Draining Investiture
 
-A Leecher can also drain other forms of Investiture. They would be fairly effective at draining a person's [Breath](https://coppermind.net/wiki/Breath "Breath") or [[Stormlight - The Coppermind|Stormlight]].[^8] They could also Leech a [Feruchemist](https://coppermind.net/wiki/Feruchemist "Feruchemist") who was tapping their metalmind.[^9] They would be able to Leech from a [[Lifeless - The Coppermind|Lifeless]].[^10] A Leecher could prevent a [Shardbearer](https://coppermind.net/wiki/Shardbearer "Shardbearer") from summoning their blade,[^11] and can prevent a weapon using Investiture from working.[^4] A Leecher would have difficulty Leeching from a Shardblade.[^12] If a Leecher touched [[Nightblood - The Coppermind|Nightblood]], the Leecher would die.[^13]
+A Leecher can also drain other forms of Investiture. They would be fairly effective at draining a person's [[BioChromatic Breath - The Coppermind|Breath]] or [[Stormlight - The Coppermind|Stormlight]].[^8] They could also Leech a [[Feruchemy - The Coppermind|Feruchemist]] who was tapping their metalmind.[^9] They would be able to Leech from a [[Lifeless - The Coppermind|Lifeless]].[^10] A Leecher could prevent a [Shardbearer](https://coppermind.net/wiki/Shardbearer "Shardbearer") from summoning their blade,[^11] and can prevent a weapon using Investiture from working.[^4] A Leecher would have difficulty Leeching from a Shardblade.[^12] If a Leecher touched [[Nightblood - The Coppermind|Nightblood]], the Leecher would die.[^13]
 
 ## Feruchemical Use
 
-A chromium [Ferring](https://coppermind.net/wiki/Ferring "Ferring") is known as a **Spinner**. Chromium is used to store [[Fortune - The Coppermind|Fortune]]. A Spinner filling a chromiummind will be unlucky, and can tap it to increase their luck. The Terris people, even during the post-Catacendre, do not fully understand how Fortune works.[^14] [^1]
+A chromium [[Feruchemy - The Coppermind|Ferring]] is known as a **Spinner**. Chromium is used to store [[Fortune - The Coppermind|Fortune]]. A Spinner filling a chromiummind will be unlucky, and can tap it to increase their luck. The Terris people, even during the post-Catacendre, do not fully understand how Fortune works.[^14] [^1]
 
 ### Compounding
 

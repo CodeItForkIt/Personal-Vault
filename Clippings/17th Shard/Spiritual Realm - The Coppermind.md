@@ -14,11 +14,11 @@ favicon: "/favicon.ico"
 
 > “ *The Spiritual Realm contains an object's soul—its essence—as well as the ways it is connected to the things and people around it.* ”
 > 
-> — [Shai's](https://coppermind.net/wiki/Shai "Shai") description of the Spiritual Realm [^1]
+> — [[Wan ShaiLu - The Coppermind|Shai's]] description of the Spiritual Realm [^1]
 
 The **Spiritual Realm** is the realm of existence in the [[17th Shard|cosmere]] that contains the essence or soul of things. In this Realm, the [[Connection - The Coppermind|interconnection]] between objects, people, and ideals are made apparent.[^1] It is said to transcend form, thought, being, and self; it is merely a network of Connections between the truest form of all things.[^2] [^3] Within the Spiritual Realm, Investiture takes on its most consistent form,[^4] and comprises everything within the Realm.[^5]
 
-Everything in the cosmere has a Spiritual aspect, a soul, which represents the idealized form or concept upon which their existence is based.[^1] Among sentient creatures, this soul is sometimes described as a [[Spiritweb - The Coppermind|spiritweb]]. Several manifestations of [[Investiture - The Coppermind|Investiture]] such as [[Gold - The Coppermind#Feruchemical Use|gold Feruchemy]] and [Regrowth](https://coppermind.net/wiki/Regrowth "Regrowth") can restore a damaged object or person into the ideal form as dictated by the soul.
+Everything in the cosmere has a Spiritual aspect, a soul, which represents the idealized form or concept upon which their existence is based.[^1] Among sentient creatures, this soul is sometimes described as a [[Spiritweb - The Coppermind|spiritweb]]. Several manifestations of [[Investiture - The Coppermind|Investiture]] such as [[Gold - The Coppermind#Feruchemical Use|gold Feruchemy]] and [[Surgebinding - The Coppermind|Regrowth]] can restore a damaged object or person into the ideal form as dictated by the soul.
 
 ## Nature
 
@@ -46,7 +46,7 @@ Possible worlds are not actual worlds, that is to say, that these possible world
 
 ### Spiritwebs
 
-A person’s spiritweb, closely related to Spiritual DNA,[^26] makes up their presence in the Spiritual Realm. Measuring and quantifying a spiritweb is possible, if difficult, to do.[^27] Spiritual DNA can be passed from parent to child like regular DNA.[^28] Identical twins can have different Spiritual DNA, however.[^29] A person's spiritweb can be damaged either through physical or emotional trauma. This creates "cracks" in the soul. It is easier for Shards to [Invest](https://coppermind.net/wiki/Invest "Invest") in people who are damaged in this way, as Investiture can enter the soul through these "cracks". This is why [Allomancers](https://coppermind.net/wiki/Allomancer "Allomancer") need to undergo [[Snapping - The Coppermind|Snapping]] in order to awaken their powers, and is implied to be the reason why [[Surgebinding - The Coppermind|Surgebinders]] tend to have psychological problems.[^30] Spiritwebs can be damaged with weapons like Hemalurgic spikes and Shardblades. Those wounds can then be healed with a graft of Investiture. The healing process does leave a permanent wound on a person's spiritweb.[^31] Investing an object or person for a long period of time will warp and change their spiritweb.[^32] In humans, this process leads to [[Savant - The Coppermind|Savantism]].[^33]
+A person’s spiritweb, closely related to Spiritual DNA,[^26] makes up their presence in the Spiritual Realm. Measuring and quantifying a spiritweb is possible, if difficult, to do.[^27] Spiritual DNA can be passed from parent to child like regular DNA.[^28] Identical twins can have different Spiritual DNA, however.[^29] A person's spiritweb can be damaged either through physical or emotional trauma. This creates "cracks" in the soul. It is easier for Shards to [[Investiture - The Coppermind|Invest]] in people who are damaged in this way, as Investiture can enter the soul through these "cracks". This is why [[Allomancy - The Coppermind|Allomancers]] need to undergo [[Snapping - The Coppermind|Snapping]] in order to awaken their powers, and is implied to be the reason why [[Surgebinding - The Coppermind|Surgebinders]] tend to have psychological problems.[^30] Spiritwebs can be damaged with weapons like Hemalurgic spikes and Shardblades. Those wounds can then be healed with a graft of Investiture. The healing process does leave a permanent wound on a person's spiritweb.[^31] Investing an object or person for a long period of time will warp and change their spiritweb.[^32] In humans, this process leads to [[Savant - The Coppermind|Savantism]].[^33]
 
 This spiritual aspect would exist for all thinking beings, including true artificial intelligence, as they would Spiritually and Cognitively operate the same as an organic sapient being.[^34] [^35] [^36]
 
@@ -58,7 +58,7 @@ Due to its incomprehensible properties, when it is directly observed, it is filt
 
 #### Connection
 
-Connection is a Spiritual property that describes the relationships between people, objects, locations, and even more abstract concepts such as time, reality, language, and the Intents of Shards.[^1] [^18] If a person can gain Connection to a region, that Connection will allow them to speak that region's language.[^38] [^39] Gaining Connection to a region does not cause a person to develop that region’s accent, as accents are tied to a person’s Identity, though a person’s Identity can be suppressed to allow a person to gain a region’s accent by Connecting to it.[^40] Connection also includes information about bonds between one person and another, such as the [[Nahel bond - The Coppermind|Nahel bond]].[^41] Like Identity, Connection is a crucial part of a person’s existence; being stripped of their Connection at the end of the [[False Desolation - The Coppermind|False Desolation]] is part of what trapped the [[Singer - The Coppermind|singers]] in [slaveform](https://coppermind.net/wiki/Slaveform "Slaveform").[^42] In order to take up a [[Shards|Shard]] after a Vessel dies, a person must be Connected to that Shard.[^43]
+Connection is a Spiritual property that describes the relationships between people, objects, locations, and even more abstract concepts such as time, reality, language, and the Intents of Shards.[^1] [^18] If a person can gain Connection to a region, that Connection will allow them to speak that region's language.[^38] [^39] Gaining Connection to a region does not cause a person to develop that region’s accent, as accents are tied to a person’s Identity, though a person’s Identity can be suppressed to allow a person to gain a region’s accent by Connecting to it.[^40] Connection also includes information about bonds between one person and another, such as the [[Nahel bond - The Coppermind|Nahel bond]].[^41] Like Identity, Connection is a crucial part of a person’s existence; being stripped of their Connection at the end of the [[False Desolation - The Coppermind|False Desolation]] is part of what trapped the [[Singer - The Coppermind|singers]] in [[Singer - The Coppermind|slaveform]].[^42] In order to take up a [[Shards|Shard]] after a Vessel dies, a person must be Connected to that Shard.[^43]
 
 Due to the timeless qualities of the Spiritual Realm, Connection is capable of Connecting one to both the possible past and the future,[^14] [^44] [^45] including possibilities defined by counterfactual conditionals.[^23] [^24] The Connection to one's actual past encodes the "age" of the body and spiritweb.[^46]
 
@@ -82,7 +82,7 @@ Future sight always draws upon the Spiritual Realm to work.[^59] Any time someon
 
 Electrum
 
-Burning [[Electrum - The Coppermind|electrum]] will reveal possible futures of the [Allomancer](https://coppermind.net/wiki/Allomancer "Allomancer") up to several seconds ahead by casting electrum "shadows" of oneself.[^23] While burning electrum, the Allomancer's future will not be revealed to enemy Allomancers burning [[Atium - The Coppermind|atium]]. Rather, it will cause the Allomancer's observed atium shadow to split, preventing the enemy Allomancer from predicting one's actions.[^67]
+Burning [[Electrum - The Coppermind|electrum]] will reveal possible futures of the [[Allomancy - The Coppermind|Allomancer]] up to several seconds ahead by casting electrum "shadows" of oneself.[^23] While burning electrum, the Allomancer's future will not be revealed to enemy Allomancers burning [[Atium - The Coppermind|atium]]. Rather, it will cause the Allomancer's observed atium shadow to split, preventing the enemy Allomancer from predicting one's actions.[^67]
 
 Gold
 
@@ -100,7 +100,7 @@ Burning atium allows the Allomancer to see a few seconds into the future by prod
 
 Enlightened Truthwatcher
 
-As a result of a [Mistspren](https://coppermind.net/wiki/Mistspren "Mistspren") being corrupted by [[Sja-anat - The Coppermind|Sja-anat]], [Truthwatchers](https://coppermind.net/wiki/Truthwatchers "Truthwatchers") have some ability to see visions of the future; these visions seem to appear similar to stained-glass images. This ability is imperfect, as the events it predicts can fail to occur.[^71] [^72]
+As a result of a [Mistspren](https://coppermind.net/wiki/Mistspren "Mistspren") being corrupted by [[Sja-anat - The Coppermind|Sja-anat]], [[Order of Truthwatchers - The Coppermind|Truthwatchers]] have some ability to see visions of the future; these visions seem to appear similar to stained-glass images. This ability is imperfect, as the events it predicts can fail to occur.[^71] [^72]
 
 Regal Forms of Power
 
@@ -140,7 +140,7 @@ Hoid
 
 Oathgates
 
-[Oathgates](https://coppermind.net/wiki/Oathgates "Oathgates") are capable of sending one or multiple people through the Spiritual Realm in order to quickly bring them between one place and another, without having to obey relativistic laws.[^89] [^90]
+[[Oathgate - The Coppermind|Oathgates]] are capable of sending one or multiple people through the Spiritual Realm in order to quickly bring them between one place and another, without having to obey relativistic laws.[^89] [^90]
 
 ## Inhabitants
 
@@ -172,13 +172,13 @@ There are factions of some kind in the Spiritual Realm,[^103] as well as native 
 
 ### Roshar
 
-Well before the year 1173, the [[Roshar - The Coppermind|Rosharan]] scholar [Gavarah](https://coppermind.net/wiki/Gavarah "Gavarah") proposed the existence of the three Realms.[^105] That theory seems to be well accepted among modern Rosharan scholars, who are aware that the Spiritual Realm is a place of pure truth but that the Cognitive Realm is more flexible.[^106] The [[Spren - The Coppermind|spren]] are also aware of the three realms and know that the Shards live in the Spiritual Realm.[^10] At least two religions on Roshar include the Spiritual Realm in their doctrine. [[Vorinism - The Coppermind|Vorinism]] equates the Spiritual Realm with the [[Tranquiline Halls - The Coppermind|Tranquiline Halls]] [^107] [^108] and the [One](https://coppermind.net/wiki/One "One") teaches that the Spiritual Realm is the same as the [[Beyond - The Coppermind|Beyond]].[^16]
+Well before the year 1173, the [[Roshar - The Coppermind|Rosharan]] scholar [Gavarah](https://coppermind.net/wiki/Gavarah "Gavarah") proposed the existence of the three Realms.[^105] That theory seems to be well accepted among modern Rosharan scholars, who are aware that the Spiritual Realm is a place of pure truth but that the Cognitive Realm is more flexible.[^106] The [[Spren - The Coppermind|spren]] are also aware of the three realms and know that the Shards live in the Spiritual Realm.[^10] At least two religions on Roshar include the Spiritual Realm in their doctrine. [[Vorinism - The Coppermind|Vorinism]] equates the Spiritual Realm with the [[Tranquiline Halls - The Coppermind|Tranquiline Halls]] [^107] [^108] and the [[Iri - The Coppermind|One]] teaches that the Spiritual Realm is the same as the [[Beyond - The Coppermind|Beyond]].[^16]
 
 ### Scadrial
 
 [[Scadrial - The Coppermind|Scadrial]] at large first became aware of the three realms when [[Sazed - The Coppermind|Sazed]] mentioned their existence in the [Words of Founding](https://coppermind.net/wiki/Words_of_Founding "Words of Founding").[^109] As of 342 [[Catacendre - The Coppermind|PC]], the people of the [Elendel Basin](https://coppermind.net/wiki/Elendel_Basin "Elendel Basin") have just begun learning about the properties of the Spiritual Realm, mostly by investigating the [[Feruchemy - The Coppermind|Feruchemical]] metals that can store Spiritual properties.[^110] The [[Kandra - The Coppermind|kandra]], [[Terris - The Coppermind|Terris]], and [Set](https://coppermind.net/wiki/Set "Set") are the primary groups involved in this research and have all done their best to keep it quiet.[^110] [^111] [^112] The Basin's newly-founded relationship with the [[Southern Scadrian - The Coppermind|Southern Scadrians]], however, may soon make knowledge of the Spiritual Realm more widespread in the Basin.[^113]
 
-The Southern Scadrians likely learned what they know of Realmatic Theory from [[Kelsier - The Coppermind|Kelsier]]. While Kelsier only gave them [unsealed](https://coppermind.net/wiki/Unsealed_metalminds "Unsealed metalminds") [brassminds](https://coppermind.net/wiki/Brass#Feruchemical_Use "Brass"), they knew enough to reverse-engineer the process and are able to create unsealed metalminds for all abilities in the [[Metallic Arts]]. They also know how to make unsealed metalminds that grant two or three abilities, but all attempts to create ones that grant four abilities have failed.[^114]
+The Southern Scadrians likely learned what they know of Realmatic Theory from [[Kelsier - The Coppermind|Kelsier]]. While Kelsier only gave them [[Feruchemy - The Coppermind|unsealed]] [brassminds](https://coppermind.net/wiki/Brass#Feruchemical_Use "Brass"), they knew enough to reverse-engineer the process and are able to create unsealed metalminds for all abilities in the [[Metallic Arts]]. They also know how to make unsealed metalminds that grant two or three abilities, but all attempts to create ones that grant four abilities have failed.[^114]
 
 ### Sel
 

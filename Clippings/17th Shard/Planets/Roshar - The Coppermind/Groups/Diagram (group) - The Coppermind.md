@@ -45,7 +45,7 @@ Unfortunately, Taravangian has been caught cheating on his own test by claiming 
 
 One phenomenon predicted by the Diagram was the existence of Death Rattles, prophecies of the future uttered by the dying through the influence of [Moelach](https://coppermind.net/wiki/Moelach "Moelach").
 
-Taravangian instituted a program of collecting these Death Rattles from selected hospital patients (the terminally ill, the lowly, and the forgotten) who are slowly and intentionally bled to death solely for this purpose.[^5] Those who participate in this operation are called the Silent Gatherers.[^6] Their leader is [Joshor](https://coppermind.net/wiki/Joshor "Joshor"), and an ardent named [Dova](https://coppermind.net/wiki/Dova "Dova") is also important in their research.
+Taravangian instituted a program of collecting these Death Rattles from selected hospital patients (the terminally ill, the lowly, and the forgotten) who are slowly and intentionally bled to death solely for this purpose.[^5] Those who participate in this operation are called the Silent Gatherers.[^6] Their leader is [Joshor](https://coppermind.net/wiki/Joshor "Joshor"), and an ardent named [[Battar - The Coppermind|Dova]] is also important in their research.
 
 During the succesion battle in Jah Keved, Adrotagia reported to Taravangian that the number of Death Rattles was continuing to drop, down to two or less per day.[^7] Later in [[Urithiru - The Coppermind|Urithiru]], Adrotagia reports that Moelach has settled in the [[Horneater Peaks - The Coppermind|Horneater Peaks]]. Joshor is on his way there, hoping to reestablish access to the Death Rattles.[^8]
 
@@ -59,7 +59,7 @@ The Diagram mentioned the possibility of finding or creating a [[Shin Kak Nish -
 
 Obeying the holder of his Oathstone, Szeth killed many of Roshar's royalty and anyone else who stood in his way. The final person he was assigned to assassinate was [[Dalinar Kholin - The Coppermind|Dalinar Kholin]], uncle to King [[Elhokar Kholin - The Coppermind|Elhokar]] of [Alethkar](https://coppermind.net/wiki/Alethkar "Alethkar") and Highprince of [Kholinar](https://coppermind.net/wiki/Kholinar "Kholinar").[^12] Dalinar had been trying to unite the highprinces of Alethkar, which Taravangian felt was a threat to the Diagram's command that Taravangian should rule all of Roshar.[^13]
 
-Szeth found Dalinar in the Alethi warcamps, but the highprince, with the aid of his guard [Kaladin Stormblessed](https://coppermind.net/wiki/Kaladin_Stormblessed "Kaladin Stormblessed"), managed to survive the attack. Seeing Kaladin use [[Stormlight - The Coppermind|Stormlight]] to heal a Shardblade wound caused Szeth to flee.
+Szeth found Dalinar in the Alethi warcamps, but the highprince, with the aid of his guard [[Kaladin - The Coppermind|Kaladin Stormblessed]], managed to survive the attack. Seeing Kaladin use [[Stormlight - The Coppermind|Stormlight]] to heal a Shardblade wound caused Szeth to flee.
 
 ### Takeover of Jah Kaved
 
@@ -79,11 +79,11 @@ As they fled the Alethi warcamps, Graves wondered whether his interpretation had
 
 ### Second Assassination Attempt on Dalinar
 
-Even though Graves believed that Dalinar was vital to their cause, he still obeyed the Diagram's orders to keep Kaladin from guarding the highprince [^14] so that Szeth, who had been sent once again to assassinate Dalinar, would not realize that Kaladin was a [Knight Radiant](https://coppermind.net/wiki/Knight_Radiant "Knight Radiant"). Taravangian believed that Szeth would turn on him and the rest of the Diagram if he found out that the Knights Radiant have returned, as this was connected to how Szeth became Truthless.[^2]
+Even though Graves believed that Dalinar was vital to their cause, he still obeyed the Diagram's orders to keep Kaladin from guarding the highprince [^14] so that Szeth, who had been sent once again to assassinate Dalinar, would not realize that Kaladin was a [[Knights Radiant - The Coppermind|Knight Radiant]]. Taravangian believed that Szeth would turn on him and the rest of the Diagram if he found out that the Knights Radiant have returned, as this was connected to how Szeth became Truthless.[^2]
 
-On the day that Kaladin was saving Elhokar in the warcamps, Szeth arrived in [Narak](https://coppermind.net/wiki/Narak "Narak"), where Dalinar had been commanding the Alethi armies against [stormform](https://coppermind.net/wiki/Stormform "Stormform") [listeners](https://coppermind.net/wiki/Listeners "Listeners") who were summoning the [[Everstorm - The Coppermind|Everstorm]]. Dalinar bravely fought against the assassin, but proved to be no match for him. Several soldiers, [[Bridge Four - The Coppermind|Bridge Four]] members, and even Highprince [Roion](https://coppermind.net/wiki/Roion "Roion") died trying to protect Dalinar, who was then finally struck with a [Lashing](https://coppermind.net/wiki/Lashing "Lashing") that sent him up in the sky.[^20]
+On the day that Kaladin was saving Elhokar in the warcamps, Szeth arrived in [[Stormseat - The Coppermind|Narak]], where Dalinar had been commanding the Alethi armies against [[Regal - The Coppermind|stormform]] [[Listener - The Coppermind|listeners]] who were summoning the [[Everstorm - The Coppermind|Everstorm]]. Dalinar bravely fought against the assassin, but proved to be no match for him. Several soldiers, [[Bridge Four - The Coppermind|Bridge Four]] members, and even Highprince [Roion](https://coppermind.net/wiki/Roion "Roion") died trying to protect Dalinar, who was then finally struck with a [[Surgebinding - The Coppermind|Lashing]] that sent him up in the sky.[^20]
 
-Szeth intended Dalinar to fall to his death when the Stormlight ran out, but Kaladin had arrived just in time, flying in haste all the way from the warcamps, to save the highprince. The two of them then fought as the others escaped to [[Urithiru - The Coppermind|Urithiru]]. Kaladin managed to defeat Szeth, unwittingly handing the Diagram another heavy loss. Szeth was later revived by [Nalan](https://coppermind.net/wiki/Nalan "Nalan"), but he no longer considered himself under Taravangian's orders.[^21]
+Szeth intended Dalinar to fall to his death when the Stormlight ran out, but Kaladin had arrived just in time, flying in haste all the way from the warcamps, to save the highprince. The two of them then fought as the others escaped to [[Urithiru - The Coppermind|Urithiru]]. Kaladin managed to defeat Szeth, unwittingly handing the Diagram another heavy loss. Szeth was later revived by [[Nale - The Coppermind|Nalan]], but he no longer considered himself under Taravangian's orders.[^21]
 
 ### Undermining of Dalinar's Leadership
 
@@ -91,7 +91,7 @@ As the [[True Desolation - The Coppermind|True Desolation]] brought about by the
 
 Through espionage and research, they discovered three secrets:
 
-- That Roshar had originally been inhabited only by the [Dawnsingers](https://coppermind.net/wiki/Dawnsingers "Dawnsingers"), who were not humans but parshmen, and that the first [[Desolation - The Coppermind|Desolation]] was caused by humans who came from another world. This called into question what the coalition was fighting for, as the parshmen clearly saw humans as the invaders.
+- That Roshar had originally been inhabited only by the [[Dawnsinger - The Coppermind|Dawnsingers]], who were not humans but parshmen, and that the first [[Desolation - The Coppermind|Desolation]] was caused by humans who came from another world. This called into question what the coalition was fighting for, as the parshmen clearly saw humans as the invaders.
 - That King Elhokar had sworn allegiance to Dalinar as *highking*.[^23] The Diagram tried to imply that the Alethi had imperial ambitions, although the king merely wanted a way to save face after having to follow his uncle on so many things.
 - That Dalinar had visions that involved talking to [[Odium - The Coppermind|Odium]], visions that he hid from the public.[^24] Again, they tried to twist a fact into something that would cast Dalinar in a different light. This time, they made it seem like he was fraternizing with the enemy.
 
@@ -113,7 +113,7 @@ A year later, Taravangian distanced himself from Kharbranth and his fellow Diagr
 - [Dukar](https://coppermind.net/wiki/Dukar "Dukar"): The head of Taravangian's [Testers](https://coppermind.net/wiki/King%27s_Testers "King's Testers").
 - [Adrotagia](https://coppermind.net/wiki/Adrotagia "Adrotagia"): A Kharbranthian scholar and childhood friend of Taravangian.
 - [Mrall](https://coppermind.net/wiki/Mrall "Mrall"): Taravangian's bodyguard.
-- [[Malata - The Coppermind|Malata]]: [Dustbringer](https://coppermind.net/wiki/Dustbringer "Dustbringer").
+- [[Malata - The Coppermind|Malata]]: [[Order of Dustbringers - The Coppermind|Dustbringer]].
 - [[Moash - The Coppermind|Moash]]: A former member of [[Bridge Four - The Coppermind|Bridge Four]].
 - [Joshor](https://coppermind.net/wiki/Joshor "Joshor"): Head of the Silent Gatherers.
 - [Graves](https://coppermind.net/wiki/Graves "Graves"): A lighteyed Alethi Shardbearer.

@@ -20,13 +20,13 @@ Silnasen has an indigenous population that is distinct from the other Veden and 
 
 According to [Natata Ved](https://coppermind.net/wiki/Natata_Ved "Natata Ved"), ancient Silnasen was ruled by a king named [NanKhet](https://coppermind.net/wiki/NanKhet "NanKhet"). NanKhet took over the throne after his brother, King [NanHar](https://coppermind.net/wiki/NanHar "NanHar"), died while campaigning with his army in modern-day [Triax](https://coppermind.net/wiki/Triax "Triax"). NanKhet survived six assassination attempts from his own family members in three months. Weary of defending his life, he executed hundreds of people at a feast, then choked to death when no one was left to help him.[^3] The Siln dynasty was founded after his death.[^3]
 
-At some points in its history, Silnasen has been governed as an independent city-state.[^4] Their monarchs have generally declined to claim the first [dahn](https://coppermind.net/wiki/Dahn "Dahn") in order to avoid provoking the Veden and [Alethi](https://coppermind.net/wiki/Alethi "Alethi").[^4]
+At some points in its history, Silnasen has been governed as an independent city-state.[^4] Their monarchs have generally declined to claim the first [[Lighteyes - The Coppermind|dahn]] in order to avoid provoking the Veden and [Alethi](https://coppermind.net/wiki/Alethi "Alethi").[^4]
 
 ## Culture
 
 The Siln speak the Siln language. Siln people typically have tan skin and medium-to-dark hair, they are also known to live a hunter-gatherer lifestyle.[^5] In the present day, the Siln are thought of as a less modernized society than the rest of Jah Keved. [[Shallan Davar - The Coppermind|Shallan Davar]] compares the Siln to other indigenous people in [[Iri - The Coppermind|Iri]] and the [Reshi Isles](https://coppermind.net/wiki/Reshi_Isles "Reshi Isles"). Their disputes tend to result in posturing rather than actual combat because they live a lifestyle in which hunting skill is too valuable to risk in battle. They are not known to commit assassinations.[^2]
 
-At least some of the Siln people follow [[Vorinism - The Coppermind|Vorinism]]; a Siln [ardent](https://coppermind.net/wiki/Ardent "Ardent") named [Urv](https://coppermind.net/wiki/Urv "Urv") studies at the [Jokasha Monastery](https://coppermind.net/wiki/Jokasha_Monastery "Jokasha Monastery").[^6]
+At least some of the Siln people follow [[Vorinism - The Coppermind|Vorinism]]; a Siln [[Vorinism - The Coppermind|ardent]] named [Urv](https://coppermind.net/wiki/Urv "Urv") studies at the [Jokasha Monastery](https://coppermind.net/wiki/Jokasha_Monastery "Jokasha Monastery").[^6]
 
 There is some degree of racism towards the Siln people by Vedens.[^6] How widespread or systematized it is, is currently unknown.
 

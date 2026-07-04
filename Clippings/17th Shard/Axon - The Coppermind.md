@@ -52,13 +52,13 @@ The exact definition of axi among Rosharan scholars is uncertain, as it is unkno
 
 The word axi is used to describe the individual components of air that are aligned and packed together during the process of [[Soulcasting - The Coppermind|Soulcasting]] them.[^23] These axi are likely the various types of gas particles in the air, most of which are molecules consisting of two or more atoms.
 
-In [[Surgebinding - The Coppermind|Surgebinding]], the Surges of [Cohesion](https://coppermind.net/wiki/Cohesion "Cohesion") and [Tension](https://coppermind.net/wiki/Tension "Tension") are defined as being related to different types of *axial interconnection*, with Cohesion being the Surge of *strong* axial interconnection and Tension being the Surge of *soft* axial interconnection.[^24] This indicates that these Surges work on the bonds between axi.
+In [[Surgebinding - The Coppermind|Surgebinding]], the Surges of [[Surgebinding - The Coppermind|Cohesion]] and [[Surgebinding - The Coppermind|Tension]] are defined as being related to different types of *axial interconnection*, with Cohesion being the Surge of *strong* axial interconnection and Tension being the Surge of *soft* axial interconnection.[^24] This indicates that these Surges work on the bonds between axi.
 
 Rosharan scholars have discovered the existence of negative axi, although the full extent of their knowledge upon them is not known.[^20]
 
 ## Other Uses
 
-[Khriss](https://coppermind.net/wiki/Khriss "Khriss"), a [[Silverlight - The Coppermind|Silverlight]] scholar from [[Taldain - The Coppermind|Taldain]], mentions the *strong axial force* as one of the forces of natural physics.[^9]
+[[Khrissalla - The Coppermind|Khriss]], a [[Silverlight - The Coppermind|Silverlight]] scholar from [[Taldain - The Coppermind|Taldain]], mentions the *strong axial force* as one of the forces of natural physics.[^9]
 
 ## Trivia
 

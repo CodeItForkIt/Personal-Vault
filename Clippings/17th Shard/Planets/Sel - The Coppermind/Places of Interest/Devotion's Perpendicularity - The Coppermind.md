@@ -69,7 +69,7 @@ When Brandon first wrote Elantris, the perpendicularity had been included as a p
 
 - Although not intended, the inclusion of the perpendicularity added a hint of mysticism to the Elantrian religion that fit well with the story.[^11]
 - A running theme in the book is resisting defeat due to pain -- Brandon intended for the pool to represent giving in and defeat caused by hope, and meant to portray that someone can resist both these emotions.[^13]
-- At some point, [[Hoid - The Coppermind|Hoid]] [worldhops](https://coppermind.net/wiki/Worldhop "Worldhop") from a pool near Elantris -- the pool described does not match the description given by Raoden and it is unclear whether these are the same perpendicularities, though their proximity to Elantris indicate they may be. The postscript scene was not included until the 10th Anniversary edition of the book was released, which may explain the discrepancies in appearance. The pool Hoid uses seems to be in a similar area as visited by Raoden, and is described as very small, crystalline, and approximately waist-deep.[^10]
+- At some point, [[Hoid - The Coppermind|Hoid]] [[17th Shard|worldhops]] from a pool near Elantris -- the pool described does not match the description given by Raoden and it is unclear whether these are the same perpendicularities, though their proximity to Elantris indicate they may be. The postscript scene was not included until the 10th Anniversary edition of the book was released, which may explain the discrepancies in appearance. The pool Hoid uses seems to be in a similar area as visited by Raoden, and is described as very small, crystalline, and approximately waist-deep.[^10]
 
 ## Notes
 

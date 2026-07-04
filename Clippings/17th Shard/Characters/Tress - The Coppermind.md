@@ -17,7 +17,7 @@ favicon: /favicon.ico
 
 > “ *The girl, however, might be as you imagined—assuming you imagined her as thoughtful, soft-spoken, and overly fond of collecting cups.* ”
 
-**Tress**, who was given the name of **Glorf** at birth, is an eighteen-year-old girl who is the captain and [sprouter](https://coppermind.net/wiki/Sprouter "Sprouter") of the *[Two Cups](https://coppermind.net/wiki/Two_Cups "Two Cups")* on [[Lumar - The Coppermind|Lumar]].[^2] [^3] [^4] She is known by the name of **Tress** because of her wild hair. She was born on the island [Diggen's Point](https://coppermind.net/wiki/Diggen%27s_Point "Diggen's Point") in the [[Emerald Sea - The Coppermind|Emerald Sea]],[^1] where she lived until leaving to rescue [[Charlie - The Coppermind|Charlie]] from the [Sorceress](https://coppermind.net/wiki/Sorceress "Sorceress").[^5]
+**Tress**, who was given the name of **Glorf** at birth, is an eighteen-year-old girl who is the captain and [sprouter](https://coppermind.net/wiki/Sprouter "Sprouter") of the *[Two Cups](https://coppermind.net/wiki/Two_Cups "Two Cups")* on [[Lumar - The Coppermind|Lumar]].[^2] [^3] [^4] She is known by the name of **Tress** because of her wild hair. She was born on the island [Diggen's Point](https://coppermind.net/wiki/Diggen%27s_Point "Diggen's Point") in the [[Emerald Sea - The Coppermind|Emerald Sea]],[^1] where she lived until leaving to rescue [[Charlie - The Coppermind|Charlie]] from the [[Riina - The Coppermind|Sorceress]].[^5]
 
 ## Appearance and Personality
 
@@ -69,11 +69,11 @@ Tress with [[Charlie - The Coppermind|Charlie]], prior to leaving Diggen's Point
 
 ### Early Life
 
-Tress, named Glorf after family members before her, was born to a peasant family on Diggen's Point. Her wild hair gained her the name Tress, which everyone knew her by.[^1] She washed windows for a meager living, using much of her funds to buy ingredients to make pies to exchange for cups that sailors brought her. Regularly running into the [duke's](https://coppermind.net/wiki/Duke "Duke") son [[Charlie - The Coppermind|Charlie]] on the mansion's grounds, which she could access because she cleaned the windows, she soon fell in love with him despite him pretending to be a groundskeeper.[^13] While Charlie was away with the duke to court princesses from other kingdoms, Tress received four cups sent by him on his travels.[^17] During this time, she continued to collect her own cups, though fewer than normal, to show to Charlie when he returned.[^18]
+Tress, named Glorf after family members before her, was born to a peasant family on Diggen's Point. Her wild hair gained her the name Tress, which everyone knew her by.[^1] She washed windows for a meager living, using much of her funds to buy ingredients to make pies to exchange for cups that sailors brought her. Regularly running into the [[Charlie's father - The Coppermind|duke's]] son [[Charlie - The Coppermind|Charlie]] on the mansion's grounds, which she could access because she cleaned the windows, she soon fell in love with him despite him pretending to be a groundskeeper.[^13] While Charlie was away with the duke to court princesses from other kingdoms, Tress received four cups sent by him on his travels.[^17] During this time, she continued to collect her own cups, though fewer than normal, to show to Charlie when he returned.[^18]
 
 ### Leaving the Rock
 
-Tress tried to escape Diggen's Point to rescue Charlie from the [[Riina - The Coppermind|Sorceress]] when the king and the duke refused to.[^5] She managed to con her way aboard the *[Oot's Dream](https://coppermind.net/wiki/Oot%27s_Dream "Oot's Dream")*, pretending to be an inspector with her [father's](https://coppermind.net/wiki/Lem "Lem") assistance, but was captured and imprisoned by the crew.[^19] [^6] [^20] The ship was a smuggling ship and the crew believed her to be an inspector who was out to get them.[^20] She met [Huck](https://coppermind.net/wiki/Huck "Huck") while being held captive, not long before the ship was attacked by the pirate ship *[[Crow's Song - The Coppermind|Crow's Song]]*.[^20] [^21] [^22] Fleeing the ship after the [seethe](https://coppermind.net/wiki/Seethe "Seethe") stopped, Tress walked across the [[Emerald Sea - The Coppermind|Verdant Sea]] to seek passage on the pirate ship.[^23]
+Tress tried to escape Diggen's Point to rescue Charlie from the [[Riina - The Coppermind|Sorceress]] when the king and the duke refused to.[^5] She managed to con her way aboard the *[Oot's Dream](https://coppermind.net/wiki/Oot%27s_Dream "Oot's Dream")*, pretending to be an inspector with her [father's](https://coppermind.net/wiki/Lem "Lem") assistance, but was captured and imprisoned by the crew.[^19] [^6] [^20] The ship was a smuggling ship and the crew believed her to be an inspector who was out to get them.[^20] She met [Huck](https://coppermind.net/wiki/Huck "Huck") while being held captive, not long before the ship was attacked by the pirate ship *[[Crow's Song - The Coppermind|Crow's Song]]*.[^20] [^21] [^22] Fleeing the ship after the [[Lumar - The Coppermind|seethe]] stopped, Tress walked across the [[Emerald Sea - The Coppermind|Verdant Sea]] to seek passage on the pirate ship.[^23]
 
 ### Crow's Song
 
@@ -81,7 +81,7 @@ Tress managed to gain admittance onto the ship by hanging on to the side for fif
 
 ### Deals with a dragon
 
-Crow and Tress came across [Xisis](https://coppermind.net/wiki/Xisis "Xisis"), the dragon, and Crow offered Tress in exchange for a boon. Tress, seeing no other option, made the same offer much to the confusion of both the dragon and Crow.[^33] Tress and Crow, both had to argue their case that the other would make a better slave for the dragon, and Tress was ultimately successful when she insisted she would do everything in her power to escape.[^34] Tress negotiated some gifts for her friends in exchange, and became the new captain of the *Crow's Song*.[^34] [^4]
+Crow and Tress came across [[Xisisrefliel - The Coppermind|Xisis]], the dragon, and Crow offered Tress in exchange for a boon. Tress, seeing no other option, made the same offer much to the confusion of both the dragon and Crow.[^33] Tress and Crow, both had to argue their case that the other would make a better slave for the dragon, and Tress was ultimately successful when she insisted she would do everything in her power to escape.[^34] Tress negotiated some gifts for her friends in exchange, and became the new captain of the *Crow's Song*.[^34] [^4]
 
 ### The Sorceress's Trials
 
@@ -107,7 +107,7 @@ Crow initially cared very little for Tress, going so far as to order her thrown 
 
 ### Fort
 
-Fort was the cook of the *Crow's Song*, though not because he was especially good at cooking, but because he was the best of who tried cooking after [Weev](https://coppermind.net/wiki/Weev "Weev") died. He ensures Tress gets fed, and not just by saving leftovers either, but setting aside food before all the [Dougs](https://coppermind.net/wiki/Dougs "Dougs") get at it.[^44] [^30] Tress delights Fort when offering to trade her cooking services in exchange for him feeding her, a trade that he is going to brag about for many years to come.[^14]
+Fort was the cook of the *Crow's Song*, though not because he was especially good at cooking, but because he was the best of who tried cooking after [Weev](https://coppermind.net/wiki/Weev "Weev") died. He ensures Tress gets fed, and not just by saving leftovers either, but setting aside food before all the [[Crow's Song - The Coppermind|Dougs]] get at it.[^44] [^30] Tress delights Fort when offering to trade her cooking services in exchange for him feeding her, a trade that he is going to brag about for many years to come.[^14]
 
 When Crow broke Fort's tablet after learning about the planned mutiny, he was absolutely devastated.[^32] Much to his joy, Tress manages to get one as part of her boon from the dragon Xisis.[^4]
 

@@ -46,11 +46,11 @@ He believed that Adonalsium needed to be Shattered for its own good, this belief
 
 After becoming a Vessel, his personality was strongly in opposition to the Intent of his Shard, though, over time, his personality was warped to come more in alignment with the Intent of Honor, he became more fixated upon honor, oaths, and allegiance. Though it also led him to care less about the meaning of the oaths, but rather simply upon the oath itself.[^9] [^17] However, he would continue to fight against it even as it warped him, and this would eventually lead to the Shard abandoning him.<sup><i><a href="https://coppermind.net/wiki/Help:Cite" title="Help:Cite">[citation needed]</a></i></sup>
 
-He appears to have loved mankind from the start, convincing the [Dawnsingers](https://coppermind.net/wiki/Dawnsingers "Dawnsingers") to give mankind a home after they fled from Ashyn following its destruction.<sup><i><a href="https://coppermind.net/wiki/Help:Cite" title="Help:Cite">[citation needed]</a></i></sup> For unknown reasons, he even turned against the Singers, becoming the god of humanity and abandoning his former followers.[^18] [^19] The [[Stormfather - The Coppermind|Stormfather]] insists that Tanavast did love mankind, even dying to defend them.[^9] Tanavast himself seems to have been highly dedicated to his role as a deity and protective of humanity, even apologizing in visions for getting himself killed.[^2]
+He appears to have loved mankind from the start, convincing the [[Dawnsinger - The Coppermind|Dawnsingers]] to give mankind a home after they fled from Ashyn following its destruction.<sup><i><a href="https://coppermind.net/wiki/Help:Cite" title="Help:Cite">[citation needed]</a></i></sup> For unknown reasons, he even turned against the Singers, becoming the god of humanity and abandoning his former followers.[^18] [^19] The [[Stormfather - The Coppermind|Stormfather]] insists that Tanavast did love mankind, even dying to defend them.[^9] Tanavast himself seems to have been highly dedicated to his role as a deity and protective of humanity, even apologizing in visions for getting himself killed.[^2]
 
 Whenever mankind discovered the truth of the Desolations, he would comfort them and convince them that their fight was still justified. Arguing that it doesn't matter what their ancestors did, only that they were defending themselves against a present enemy.[^20]
 
-Late in his life, as his death grew near, he began to go insane, raving about how humanity was like unto Dawnshards and telling them that they would destroy Roshar like they destroyed Ashyn before.[^20] [^21] He also came to care more about oaths themselves, rather than the meaning behind it.[^9] This insanity directly led to the [Recreance](https://coppermind.net/wiki/Recreance "Recreance").<sup><i><a href="https://coppermind.net/wiki/Help:Cite" title="Help:Cite">[citation needed]</a></i></sup> Yet, despite his madness, he died defending humanity.[^9]
+Late in his life, as his death grew near, he began to go insane, raving about how humanity was like unto Dawnshards and telling them that they would destroy Roshar like they destroyed Ashyn before.[^20] [^21] He also came to care more about oaths themselves, rather than the meaning behind it.[^9] This insanity directly led to the [[Day of Recreance - The Coppermind|Recreance]].<sup><i><a href="https://coppermind.net/wiki/Help:Cite" title="Help:Cite">[citation needed]</a></i></sup> Yet, despite his madness, he died defending humanity.[^9]
 
 > “ *I, God, found a world unmanaged.*”
 > 
@@ -64,7 +64,7 @@ He is shown to believe in a singular universal Truth to the [[17th Shard|cosmere
 
 ## Attributes and Abilities
 
-As a Vessel, Tanavast originally held as much power as his peers.[^23] At some point, however, he was weakened enough that, even with [[Cultivation - The Coppermind|Cultivation's]] assistance, [[Odium - The Coppermind|Odium]] was able to kill him.[^24] Like other [Vessels](https://coppermind.net/wiki/Vessel "Vessel"), he had Shardic future sight, though it was not as strong as that of Cultivation.[^2]
+As a Vessel, Tanavast originally held as much power as his peers.[^23] At some point, however, he was weakened enough that, even with [[Cultivation - The Coppermind|Cultivation's]] assistance, [[Odium - The Coppermind|Odium]] was able to kill him.[^24] Like other [[Shards|Vessels]], he had Shardic future sight, though it was not as strong as that of Cultivation.[^2]
 
 ## History
 

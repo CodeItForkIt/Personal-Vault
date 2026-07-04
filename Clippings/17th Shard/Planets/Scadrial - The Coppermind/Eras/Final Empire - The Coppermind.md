@@ -13,7 +13,7 @@ favicon: /favicon.ico
 ---
 ## Final Empire
 
-The **Final Empire** is the major state on [[Scadrial - The Coppermind|Scadrial]] for over for one thousand years by the [Lord Ruler](https://coppermind.net/wiki/Lord_Ruler "Lord Ruler").[^1] The empire was established in the aftermath of the destruction brought about by Rashek's attempts to save mankind from the [Deepness](https://coppermind.net/wiki/Deepness "Deepness"), and is one of the few remaining states with a living population of people.<sup><i><a href="https://coppermind.net/wiki/Help:Cite" title="Help:Cite">[citation needed]</a></i></sup> It is noteworthy not only for the length of its reign, and for the theocratic systems in place in every level of the government,<sup><i><a href="https://coppermind.net/wiki/Help:Cite" title="Help:Cite">[citation needed]</a></i></sup> but the various systems of oppression and eugenics enforced by the Lord Ruler on the skaa and Terris peoples.[^2] [^3] <sup><i><a href="https://coppermind.net/wiki/Help:Cite" title="Help:Cite">[citation needed]</a></i></sup>
+The **Final Empire** is the major state on [[Scadrial - The Coppermind|Scadrial]] for over for one thousand years by the [[Rashek - The Coppermind|Lord Ruler]].[^1] The empire was established in the aftermath of the destruction brought about by Rashek's attempts to save mankind from the [Deepness](https://coppermind.net/wiki/Deepness "Deepness"), and is one of the few remaining states with a living population of people.<sup><i><a href="https://coppermind.net/wiki/Help:Cite" title="Help:Cite">[citation needed]</a></i></sup> It is noteworthy not only for the length of its reign, and for the theocratic systems in place in every level of the government,<sup><i><a href="https://coppermind.net/wiki/Help:Cite" title="Help:Cite">[citation needed]</a></i></sup> but the various systems of oppression and eugenics enforced by the Lord Ruler on the skaa and Terris peoples.[^2] [^3] <sup><i><a href="https://coppermind.net/wiki/Help:Cite" title="Help:Cite">[citation needed]</a></i></sup>
 
 The Final Empire effectively collapsed with the assassination of the Lord Ruler in 1022 FE.[^4] <sup><i><a href="https://coppermind.net/wiki/Help:Cite" title="Help:Cite">[citation needed]</a></i></sup>
 
@@ -39,7 +39,7 @@ The Final Empire also includes multiple islands like the [Southern Islands](http
 
 The Final Empire experiences mild winters, with snowfall every few years.
 
-The Final Empire also experiences ashfalls, the raining down of the ash in the Scadrian atmosphere.[^2] The ash is released into the atmosphere by eruptions of the [Ashmounts](https://coppermind.net/wiki/Ashmounts "Ashmounts"). There are seven of these Ashmounts: Tyrian, Zerinah, Faleast, Doriel, Morag, Kalling and Torinost. These seven mountains spew ash into Scadrial's atmosphere, cooling the world down. This was the [Lord Ruler's](https://coppermind.net/wiki/Lord_Ruler "Lord Ruler") solution to his alterations of the planet's orbit when he first drew upon the power in the [Well of Ascension](https://coppermind.net/wiki/Well_of_Ascension "Well of Ascension").[^8]
+The Final Empire also experiences ashfalls, the raining down of the ash in the Scadrian atmosphere.[^2] The ash is released into the atmosphere by eruptions of the [Ashmounts](https://coppermind.net/wiki/Ashmounts "Ashmounts"). There are seven of these Ashmounts: Tyrian, Zerinah, Faleast, Doriel, Morag, Kalling and Torinost. These seven mountains spew ash into Scadrial's atmosphere, cooling the world down. This was the [[Rashek - The Coppermind|Lord Ruler's]] solution to his alterations of the planet's orbit when he first drew upon the power in the [Well of Ascension](https://coppermind.net/wiki/Well_of_Ascension "Well of Ascension").[^8]
 
 Every night, shortly after sunset, the mists appeared.[^2] These mists seem natural, but are in fact [[Preservation - The Coppermind|Preservation]] ’s gaseous investiture.[^9] The mist is important to the cultures of both the skaa and the noblemen.<sup><i><a href="https://coppermind.net/wiki/Help:Cite" title="Help:Cite">[citation needed]</a></i></sup>
 
@@ -57,7 +57,7 @@ The Final Empire has many different types of animals. Most of these animals are 
 
 The most notable animal in the Final Empire is the [mistwraith](https://coppermind.net/wiki/Mistwraith "Mistwraith"), a creature made of mostly muscle, which uses the bones of deceased animals to create unique skeletal structures for itself.[^14] They were created from all the living Feruchemists at the time of the Lord Ruler's Ascension.[^15] The Lord Ruler also created microbes that broke down the ash as part of their biological processes, in order to prevent the ashfalls from covering the world.[^16]
 
-The Final Empire also contains multiple species made through Hemalurgy. These species are the [[Kandra - The Coppermind|kandra]], [[Koloss - The Coppermind|koloss]], and [Steel Inquisitors](https://coppermind.net/wiki/Steel_Inquisitors "Steel Inquisitors").
+The Final Empire also contains multiple species made through Hemalurgy. These species are the [[Kandra - The Coppermind|kandra]], [[Koloss - The Coppermind|koloss]], and [[Steel Inquisitor - The Coppermind|Steel Inquisitors]].
 
 ### Notable places
 
@@ -72,7 +72,7 @@ The Final Empire also contains multiple species made through Hemalurgy. These sp
 
 ### Lord Ruler
 
-The Final Empire is ruled by the [Lord Ruler](https://coppermind.net/wiki/Lord_Ruler "Lord Ruler"). This man is a fullborn, a full feruchemist and a mistborn.[^4] Some [skaa](https://coppermind.net/wiki/Skaa "Skaa") view him as eternal, like the sun and the mists.[^17] The Lord Ruler has a lot of influence on the culture of both nobles and skaa.
+The Final Empire is ruled by the [[Rashek - The Coppermind|Lord Ruler]]. This man is a fullborn, a full feruchemist and a mistborn.[^4] Some [skaa](https://coppermind.net/wiki/Skaa "Skaa") view him as eternal, like the sun and the mists.[^17] The Lord Ruler has a lot of influence on the culture of both nobles and skaa.
 
 The Lord Ruler plays a large role in [Steel Ministry](https://coppermind.net/wiki/Steel_Ministry "Steel Ministry") doctrine. They view him as a god, calling him the ‘sliver of infinity’.[^14] He is revered for saving the world from the [Deepness](https://coppermind.net/wiki/Deepness "Deepness").[^18]
 
@@ -94,7 +94,7 @@ A major house war between the Great Houses tends to happen every couple of centu
 
 The Steel Ministry and its obligators are the main bureaucracy for the Final Empire.[^17] Despite officially being a religious institution, the main purpose of the Steel Ministry is to keep the empire running.
 
-One of the functions of the Ministry is to witness a myriad of contracts and agreements, even something as simple as promise to come to a game of [shelldry](https://coppermind.net/wiki/Shelldry "Shelldry").[^23] The nobility pay the [Lord Ruler](https://coppermind.net/wiki/Lord_Ruler "Lord Ruler") for their services in a manner similar to that of renting [skaa](https://coppermind.net/wiki/Skaa "Skaa").[^2] As the authority in bureaucratic matters, any mercantile contracts, divorces, weddings, land purchases, inheritances, and any other important dealings can only be authorized by obligators. If one of the Ministry’s members hasn't witnessed an event or sealed a document, it might as well not have happened or have been written.[^23]
+One of the functions of the Ministry is to witness a myriad of contracts and agreements, even something as simple as promise to come to a game of [shelldry](https://coppermind.net/wiki/Shelldry "Shelldry").[^23] The nobility pay the [[Rashek - The Coppermind|Lord Ruler]] for their services in a manner similar to that of renting [skaa](https://coppermind.net/wiki/Skaa "Skaa").[^2] As the authority in bureaucratic matters, any mercantile contracts, divorces, weddings, land purchases, inheritances, and any other important dealings can only be authorized by obligators. If one of the Ministry’s members hasn't witnessed an event or sealed a document, it might as well not have happened or have been written.[^23]
 
 The Ministry is split up into multiple cantons. These Cantons are responsible for their own area, for example finances or orthodoxy. The known Cantons are:
 
@@ -105,7 +105,7 @@ The Ministry is split up into multiple cantons. These Cantons are responsible fo
 
 ### Administrative Districts
 
-The Final Empire consisted of ten [Dominances](https://coppermind.net/wiki/Dominance "Dominance").[^7] Each dominance is ruled by provincial lords each with command of, and responsibility for, their own skaa.[^2] This organization has been in place for two hundred years and grants the nobility greater freedom than previous systems. The [Lord Ruler](https://coppermind.net/wiki/Lord_Ruler "Lord Ruler") seems to be uncomfortable with this and counteracts it with increased [obligator](https://coppermind.net/wiki/Steel_Ministry#Obligators "Steel Ministry") activity [^24].
+The Final Empire consisted of ten [Dominances](https://coppermind.net/wiki/Dominance "Dominance").[^7] Each dominance is ruled by provincial lords each with command of, and responsibility for, their own skaa.[^2] This organization has been in place for two hundred years and grants the nobility greater freedom than previous systems. The [[Rashek - The Coppermind|Lord Ruler]] seems to be uncomfortable with this and counteracts it with increased [obligator](https://coppermind.net/wiki/Steel_Ministry#Obligators "Steel Ministry") activity [^24].
 
 The ten Dominances are:[^7]
 
@@ -139,7 +139,7 @@ Skaa descend from people who did not support the Lord Ruler. When he Ascended, t
 
 #### Noblemen
 
-[Noble](https://coppermind.net/wiki/Noble "Noble") fashion is heavily influenced by the [Lord Ruler](https://coppermind.net/wiki/Lord_Ruler "Lord Ruler").
+[Noble](https://coppermind.net/wiki/Noble "Noble") fashion is heavily influenced by the [[Rashek - The Coppermind|Lord Ruler]].
 
 Men generally wear sharp suits, of many different colors. They may also wear cloaks and carry dueling canes. The fashion around the year 1024 FE dictates that noble suit coats should be long. Noblemen may also wear hats. They often carry metal jewelry, despite [[Allomancy - The Coppermind|Allomancy]].[^17]
 
@@ -179,13 +179,13 @@ The Lord Ruler is also an Allomancer.[^4] He gained Allomancy by using the Well 
 
 #### Feruchemy
 
-[[Feruchemy - The Coppermind|Feruchemy]] is seen in the [[Terris - The Coppermind|Terris]] people and in the [Lord Ruler](https://coppermind.net/wiki/Lord_Ruler "Lord Ruler").[^44] [^4] Among the Terris people are a group known as the [Keepers](https://coppermind.net/wiki/Keeper "Keeper"), full Feruchemists with the goals of collecting and spreading information.[^44] Other Terris people have the genes for Feruchemy as well, albeit buried deeply.
+[[Feruchemy - The Coppermind|Feruchemy]] is seen in the [[Terris - The Coppermind|Terris]] people and in the [[Rashek - The Coppermind|Lord Ruler]].[^44] [^4] Among the Terris people are a group known as the [Keepers](https://coppermind.net/wiki/Keeper "Keeper"), full Feruchemists with the goals of collecting and spreading information.[^44] Other Terris people have the genes for Feruchemy as well, albeit buried deeply.
 
-The [Lord Ruler](https://coppermind.net/wiki/Lord_Ruler "Lord Ruler") was a Feruchemist as well.[^4] He used Feruchemy to effectively become immortal, compounding his metals to gain extreme amounts of every attribute.[^43] The Lord Ruler, scared that another person would be born with both Allomancy and Feruchemy, tried breeding Feruchemy out of the Terris population, although some people worked hard to prevent this.[^44]
+The [[Rashek - The Coppermind|Lord Ruler]] was a Feruchemist as well.[^4] He used Feruchemy to effectively become immortal, compounding his metals to gain extreme amounts of every attribute.[^43] The Lord Ruler, scared that another person would be born with both Allomancy and Feruchemy, tried breeding Feruchemy out of the Terris population, although some people worked hard to prevent this.[^44]
 
 #### Hemalurgy
 
-When the [Lord Ruler](https://coppermind.net/wiki/Lord_Ruler "Lord Ruler") ascended he gained knowledge of the [[Metallic Arts]], including [[Hemalurgy - The Coppermind|Hemalurgy]].[^45] He used this knowledge to create [[Hemalurgy - The Coppermind#Hemalurgic Constructs|servants]] for himself. Foremost among these servants were the Steel Inquisitors, humans who had gained nine to eleven spikes, granting them a wide range of abilities.[^46] He also created koloss to serve as his soldiers and kandra to serve as his spies.[^47] [^48] The Lord Ruler himself was also spiked.[^49]
+When the [[Rashek - The Coppermind|Lord Ruler]] ascended he gained knowledge of the [[Metallic Arts]], including [[Hemalurgy - The Coppermind|Hemalurgy]].[^45] He used this knowledge to create [[Hemalurgy - The Coppermind#Hemalurgic Constructs|servants]] for himself. Foremost among these servants were the Steel Inquisitors, humans who had gained nine to eleven spikes, granting them a wide range of abilities.[^46] He also created koloss to serve as his soldiers and kandra to serve as his spies.[^47] [^48] The Lord Ruler himself was also spiked.[^49]
 
 ### Technology
 
@@ -203,7 +203,7 @@ The [Canton of Inquisition](https://coppermind.net/wiki/Canton_of_Inquisition "C
 
 #### Koloss armies
 
-There is also a large amount of koloss, who are either under the control of the [Lord Ruler](https://coppermind.net/wiki/Lord_Ruler "Lord Ruler") or a remote Inquisitor.[^53]
+There is also a large amount of koloss, who are either under the control of the [[Rashek - The Coppermind|Lord Ruler]] or a remote Inquisitor.[^53]
 
 ### The Lord Ruler
 
@@ -245,17 +245,17 @@ Clips are copper coins notably much smaller than other pieces of imperial coinag
 
 ### Atium
 
-The atium economy acts as one of the many ways the [Lord Ruler](https://coppermind.net/wiki/Lord_Ruler "Lord Ruler") takes a firm hold on the Final Empire. Its scarcity, along with its godly Allomantic use, makes atium an extremely valuable currency, a small bead being valuable enough to cover the cost of living for a skaa for several years.[^13]
+The atium economy acts as one of the many ways the [[Rashek - The Coppermind|Lord Ruler]] takes a firm hold on the Final Empire. Its scarcity, along with its godly Allomantic use, makes atium an extremely valuable currency, a small bead being valuable enough to cover the cost of living for a skaa for several years.[^13]
 
 The only place atium can be mined is at the [Pits of Hathsin](https://coppermind.net/wiki/Pits_of_Hathsin "Pits of Hathsin"), where skaa criminals are sent to work as punishment for their crimes until death. A [noble](https://coppermind.net/wiki/Noble "Noble") house is in charge of the profitable mining camp, with [House Venture](https://coppermind.net/wiki/House_Venture "House Venture") being the last House to oversee the operation before the destruction of the mine. The fact that atium is mined here is kept top secret. Not a single prisoner has escaped before [[Kelsier - The Coppermind|Kelsier]], hence his nickname "the Survivor of Hathsin".[^61]
 
 A portion of the atium mined at the Pits of Hathsin is secretly transported to [Luthadel](https://coppermind.net/wiki/Luthadel "Luthadel") by the [Canton of Resource](https://coppermind.net/wiki/Canton_of_Resource "Canton of Resource"), mixed into and disguised as Ministry funds. Since metal radiates powerful light in the [[Cognitive Realm - The Coppermind|Cognitive Realm]], the atium beads, when mixed with other coins, can be transported safely without being discovered by [[Ruin - The Coppermind|Ruin]].[^62]
 
-[[Kandra - The Coppermind|Kandra]] are known to only accept atium for their service. Their "contract", purchased with steep prices, provides the [[Kandra - The Coppermind|Kandra's]] absolute loyalty and their powerful imitating skills. However, the fulfilling of Contracts actually has another purpose. All the atium they earn is brought to their Homeland where it is stockpiled in a metal vault, the Trust. They do this on account of their [First Contract](https://coppermind.net/wiki/First_Contract "First Contract") with the [Lord Ruler](https://coppermind.net/wiki/Lord_Ruler "Lord Ruler"). As atium is condensed power of Ruin, by storing it in a place where Ruin has no influence, they deny him access to a part of his power.[^63]
+[[Kandra - The Coppermind|Kandra]] are known to only accept atium for their service. Their "contract", purchased with steep prices, provides the [[Kandra - The Coppermind|Kandra's]] absolute loyalty and their powerful imitating skills. However, the fulfilling of Contracts actually has another purpose. All the atium they earn is brought to their Homeland where it is stockpiled in a metal vault, the Trust. They do this on account of their [First Contract](https://coppermind.net/wiki/First_Contract "First Contract") with the [[Rashek - The Coppermind|Lord Ruler]]. As atium is condensed power of Ruin, by storing it in a place where Ruin has no influence, they deny him access to a part of his power.[^63]
 
-With enough atium, a Mistborn with its future-seeing ability is almost invincible. At the time of the Final Empire, the only known way to counter it is to have more atium than your opponent. The result of an atium match is almost always fatal for the one with less atium. Therefore, it is essential for the noble houses, especially the Great Houses with one or more Mistborn, to maintain a steady supply of atium. The atium has to be bought from the [Lord Ruler](https://coppermind.net/wiki/Lord_Ruler "Lord Ruler") at very high prices. Usually, the uncertainty of who has the more atium forms a balance of terror, making none of the sides dare to start burning atium.[^13]
+With enough atium, a Mistborn with its future-seeing ability is almost invincible. At the time of the Final Empire, the only known way to counter it is to have more atium than your opponent. The result of an atium match is almost always fatal for the one with less atium. Therefore, it is essential for the noble houses, especially the Great Houses with one or more Mistborn, to maintain a steady supply of atium. The atium has to be bought from the [[Rashek - The Coppermind|Lord Ruler]] at very high prices. Usually, the uncertainty of who has the more atium forms a balance of terror, making none of the sides dare to start burning atium.[^13]
 
-The Lord Ruler [Compounds](https://coppermind.net/wiki/Compound "Compound") [[Atium - The Coppermind|atium]] to gain access to near-infinite amount of youthfulness. As he ages, he needs more and more atium to remain youthful.[^64] It is unknown how much atium he eventually needs to consume at the last years of the Final Empire.
+The Lord Ruler [[Compounding - The Coppermind|Compounds]] [[Atium - The Coppermind|atium]] to gain access to near-infinite amount of youthfulness. As he ages, he needs more and more atium to remain youthful.[^64] It is unknown how much atium he eventually needs to consume at the last years of the Final Empire.
 
 ## History
 

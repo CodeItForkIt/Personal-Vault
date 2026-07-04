@@ -28,7 +28,7 @@ Helaran is resentful and angry at his father, who he believes murdered his step-
 
 ## Attributes and Abilities
 
-His step-mother had intimate contact with a [Skybreaker](https://coppermind.net/wiki/Skybreaker "Skybreaker") acolyte and it is possible [[Nale - The Coppermind|Nale]] knew a member of the house was close to bonding a [[Spren - The Coppermind|spren]]. It is believed they thought it was Helaran. He was recruited because Nale was impressed with him. They recruited him with displays of great power and Shards.[^6]
+His step-mother had intimate contact with a [[Order of Skybreakers - The Coppermind|Skybreaker]] acolyte and it is possible [[Nale - The Coppermind|Nale]] knew a member of the house was close to bonding a [[Spren - The Coppermind|spren]]. It is believed they thought it was Helaran. He was recruited because Nale was impressed with him. They recruited him with displays of great power and Shards.[^6]
 
 ## History
 
@@ -44,7 +44,7 @@ Later that year, he visits [[Shallan Davar - The Coppermind|Shallan]] and brings
 
 After this confrontation with his father he visits the Davar estate sporadically and for only short periods at a time, bringing [[Shallan Davar - The Coppermind|Shallan]] more drawing supplies but avoiding his father.[^5]
 
-Of all the Davar children, he knows the most about his father's secrets and plans and stands up to him the most. He has some connection to [Wit](https://coppermind.net/wiki/Wit "Wit"), whom he asks to deliver the message that "he has eyes nearby and is watching". Upon hearing this, his father declares him disinherited and start referring to Tet Balat as Nan Balat, thereby naming Balat the eldest son.[^7]
+Of all the Davar children, he knows the most about his father's secrets and plans and stands up to him the most. He has some connection to [[Hoid - The Coppermind|Wit]], whom he asks to deliver the message that "he has eyes nearby and is watching". Upon hearing this, his father declares him disinherited and start referring to Tet Balat as Nan Balat, thereby naming Balat the eldest son.[^7]
 
 Two years later, he returns to [Jah Keved](https://coppermind.net/wiki/Jah_Keved "Jah Keved") and meets with Balat. Helaran warns his brother that this time when he leaves, he might not be coming back for a long time, and asks him to watch over the family. When his father finds out, he sends one of his new guards, [Rin](https://coppermind.net/wiki/Rin "Rin"), to kill him.[^8]
 

@@ -19,7 +19,7 @@ Strict and militaristic, Fjorden is the dominant country of the continent. About
 
 ## Geography and Ecology
 
-Fjorden and its client states encompass the vast majority of the continent of [Sycla](https://coppermind.net/wiki/Sycla "Sycla"), with the only other state being [[Arelon - The Coppermind|Arelon]]. Among these states, Fjorden is by far the largest.[^3]
+Fjorden and its client states encompass the vast majority of the continent of [[Sel - The Coppermind|Sycla]], with the only other state being [[Arelon - The Coppermind|Arelon]]. Among these states, Fjorden is by far the largest.[^3]
 
 ### Fjorden
 

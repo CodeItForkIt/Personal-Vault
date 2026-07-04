@@ -20,7 +20,7 @@ Revilar has silver hair and is well-dressed. He does not have a nose and wears a
 
 ## Attributes and Abilities
 
-Revilar is a competent businessman and a relatively skilled politician. As a landowner, he is of at least the sixth [dahn](https://coppermind.net/wiki/Dahn "Dahn") and is considered wealthy in his princedom. His house has a good reputation and he is able to hire [master-servants](https://coppermind.net/wiki/Master-servant "Master-servant").[^1]
+Revilar is a competent businessman and a relatively skilled politician. As a landowner, he is of at least the sixth [[Lighteyes - The Coppermind|dahn]] and is considered wealthy in his princedom. His house has a good reputation and he is able to hire [master-servants](https://coppermind.net/wiki/Master-servant "Master-servant").[^1]
 
 He has at least one son, who is skilled at dueling.[^1]
 

@@ -12,7 +12,7 @@ favicon: "/favicon.ico"
 ---
 ## Highprince
 
-**Highprince** is the highest title of nobility in the [Vorin](https://coppermind.net/wiki/Vorin "Vorin") kingdoms of [Alethkar](https://coppermind.net/wiki/Alethkar "Alethkar") and [Jah Keved](https://coppermind.net/wiki/Jah_Keved "Jah Keved"), being directly subordinate to their respective monarchs. Highprinces and their heirs are of the second [dahn](https://coppermind.net/wiki/Dahn "Dahn"), while their other children are of the third dahn.
+**Highprince** is the highest title of nobility in the [[Vorinism - The Coppermind|Vorin]] kingdoms of [Alethkar](https://coppermind.net/wiki/Alethkar "Alethkar") and [Jah Keved](https://coppermind.net/wiki/Jah_Keved "Jah Keved"), being directly subordinate to their respective monarchs. Highprinces and their heirs are of the second [[Lighteyes - The Coppermind|dahn]], while their other children are of the third dahn.
 
 ## Alethkar
 

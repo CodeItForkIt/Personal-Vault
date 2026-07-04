@@ -53,7 +53,7 @@ Most forms of power are only known through [[Listener - The Coppermind|listener]
 > 
 > — fourth stanza of the [Song of Winds](https://coppermind.net/wiki/Song_of_Winds "Song of Winds") [^22]
 
-A singer bonded to a [stormspren](https://coppermind.net/wiki/Stormspren "Stormspren") is granted stormform,[^23] a form of power that is commonly used for frontline soldiers and is a fearsome foe on the battlefield. This form was the first used by the listeners, allowing them to call the Everstorm into the Physical Realm [^24] and freeing the other singers from their captivity.[^25] With the coming of the Everstorm, stormforms are often used as elite troops, capable of reinforcing standard soldiers or serving in special units that carry out important tasks, such as the company that seized the Sibling's crystal pillar in Urithiru.[^26]
+A singer bonded to a [[Voidspren - The Coppermind|stormspren]] is granted stormform,[^23] a form of power that is commonly used for frontline soldiers and is a fearsome foe on the battlefield. This form was the first used by the listeners, allowing them to call the Everstorm into the Physical Realm [^24] and freeing the other singers from their captivity.[^25] With the coming of the Everstorm, stormforms are often used as elite troops, capable of reinforcing standard soldiers or serving in special units that carry out important tasks, such as the company that seized the Sibling's crystal pillar in Urithiru.[^26]
 
 Instead of the bulky external carapace armor granted by warform, a singer in stormform is protected by a more subtle armor that is nearly as effective.[^27] The singer's skin is covered in rows of durable protective ridges that poke out through the skin, which stretches tightly in some places. Stormforms also have hairstrands that are absent in warform,[^13] more prominent physical differences between the sexes than other forms,[^28] and barbed carapace on the backs of their hands.[^29] Their face is protected by a carapace mask beneath the stormform's skin [^4] with ridges on the nose and cheeks, capable of deflecting a blade away from the face without causing too much damage.[^30] The ridged carapace breaks the skin above the cheeks and along the sides of the head,[^31] with a carapace gorget at the neck.[^29] The spiking armor plates [^32] present under their skin elsewhere on their bodies [^4] makes grappling with them difficult, jabbing attackers and preventing them from getting a decent hold.[^29] A stormform often has flashes of energy appear around them, such as sometimes flashing across their eyes [^33] or tiny nearly invisible lines of lighting flaring from their hands when they form a fist quickly.[^13] When they are preparing to summon their lightning, their skin begins to crackle with energy.[^29] As they fight, they cause flashes of light, [^34] sometimes emanating from their weapons when they connect with enemies.[^35]
 
@@ -83,7 +83,7 @@ A singer in envoyform
 
 ### Envoyform
 
-While not described in any known listener songs, envoyforms are an important non-combatant form of power available to the singers,[^21] often employed by the Fused as Voices,[^21] interpreters [^45] or propagandists.[^46] A singer becomes an Envoyform Regal by bonding with a [zealspren](https://coppermind.net/wiki/Zealspren "Zealspren").[^47]
+While not described in any known listener songs, envoyforms are an important non-combatant form of power available to the singers,[^21] often employed by the Fused as Voices,[^21] interpreters [^45] or propagandists.[^46] A singer becomes an Envoyform Regal by bonding with a [[Voidspren - The Coppermind|zealspren]].[^47]
 
 A singer in envoyform is extremely tall [^2] but not particularly muscular,[^6] with long arms and legs.[^33] Envoyform Regals stand above tall [Alethi](https://coppermind.net/wiki/Alethi "Alethi") humans,[^8] common singers,[^21] and even some forms of power such as stormform,[^2] though still shorter than some brands of Fused.[^33] The form grants no carapace armor,[^21] but much in the way of decoration, inspiring awe among common singers and fear in humans that see an envoyform.[^48]
 
@@ -101,7 +101,7 @@ Some envoyforms have a remarkable ability to infer intention and emotion from no
 > 
 > —27th stanza of the [Song of Secrets](https://coppermind.net/wiki/Song_of_Secrets "Song of Secrets") [^54]
 
-A singer becomes a Decayform Regal by bonding with a [blightspren](https://coppermind.net/wiki/Blightspren "Blightspren").[^47]
+A singer becomes a Decayform Regal by bonding with a [[Voidspren - The Coppermind|blightspren]].[^47]
 
 Decayform Regals have thin carapace that is jagged, brittle, and asymmetrical.[^20]
 
@@ -117,7 +117,7 @@ by [Audrey Hotte](https://coppermind.net/wiki/Coppermind:Artists/Audrey_Hotte "C
 
 Stormform and Direform Regals
 
-A singer in Direform is more obedient to Odium and their Fused commanders, even more so than other Regals. They are also more stubborn. A singer becomes a Direform Regal by bonding with a [callousspren](https://coppermind.net/wiki/Callousspren "Callousspren").[^55] Direform typically serve as head jailers [^56] or guards.[^3] [^55] Direforms are also used as heavy infantry.[^57] [^55]
+A singer in Direform is more obedient to Odium and their Fused commanders, even more so than other Regals. They are also more stubborn. A singer becomes a Direform Regal by bonding with a [[Voidspren - The Coppermind|callousspren]].[^55] Direform typically serve as head jailers [^56] or guards.[^3] [^55] Direforms are also used as heavy infantry.[^57] [^55]
 
 Direform Regals typically stand over seven feet tall, covered in thick plates of stacked, interlocking carapace resembling a full suit of plate armor. These plates are covered in wicked, curved spikes, especially on the head and shoulders. Direforms have no hairstrands, as their carapace covers most of their head—along with the rest of their body, leaving gaps only at their joints and face.[^55]
 
@@ -131,7 +131,7 @@ They are stronger, faster, and tougher than humans, with exceptionally strong ca
 > 
 > —17th stanza of the [Song of Secrets](https://coppermind.net/wiki/Song_of_Secrets "Song of Secrets") [^61]
 
-A singer becomes a Nightform Regal by bonding with a [nightspren](https://coppermind.net/wiki/Nightspren "Nightspren").[^47] Nightform Regals act as battle strategists and guards.[^62] [^63]
+A singer becomes a Nightform Regal by bonding with a [[Spren - The Coppermind|nightspren]].[^47] Nightform Regals act as battle strategists and guards.[^62] [^63]
 
 Nightform Regals have pliant leather-like carapace, which covers most of their body other than their face.[^62] It offers nearly as much protection as warform does. They have hood-like shell connects their forehead, back, and sides of the head to their shoulders and base of the neck. Though typically bald, some nightforms have hairstrands that grow from the scalp beneath this hood.[^62] The carapace is darker than other forms, closer to black in color. The skin underneath shimmers with small, iridescent patterns.[^20] [^62]
 
@@ -151,7 +151,7 @@ Relayform Regals have increased speed and stamina.[^66] A relayform can sprint f
 
 ### Shadowform
 
-Shadowform was a theorized singer form. [[Ba-Ado-Mishram - The Coppermind|Ba-Ado-Mishram]] tried to create them during the [[False Desolation - The Coppermind|False Desolation]], in an attempt to create half-corporeal assassins, but failed.[^67] [^68] A singer becomes a Shadowform Regal by bonding with a [shadowspren](https://coppermind.net/wiki/Shadowspren "Shadowspren"). Shadowforms act more on instinct, and will likely follow their original goal, such as killing Radiants.[^69]
+Shadowform was a theorized singer form. [[Ba-Ado-Mishram - The Coppermind|Ba-Ado-Mishram]] tried to create them during the [[False Desolation - The Coppermind|False Desolation]], in an attempt to create half-corporeal assassins, but failed.[^67] [^68] A singer becomes a Shadowform Regal by bonding with a [[Voidspren - The Coppermind|shadowspren]]. Shadowforms act more on instinct, and will likely follow their original goal, such as killing Radiants.[^69]
 
 Ba-Ado-Mishram’s Shadowform singers became Cognitive Shadows, with only their gemhearts remaining solid.[^69] [^70]
 

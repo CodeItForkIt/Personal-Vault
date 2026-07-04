@@ -19,7 +19,7 @@ favicon: /favicon.ico
 > 
 > —Edgli [^1]
 
-**Edgli** is the [Vessel](https://coppermind.net/wiki/Vessel "Vessel") of the [[Shards|Shard]] [[Endowment - The Coppermind|Endowment]].[^2] [^3] The [Tears of Edgli](https://coppermind.net/wiki/Tears_of_Edgli "Tears of Edgli") are named after her.
+**Edgli** is the [[Shards|Vessel]] of the [[Shards|Shard]] [[Endowment - The Coppermind|Endowment]].[^2] [^3] The [Tears of Edgli](https://coppermind.net/wiki/Tears_of_Edgli "Tears of Edgli") are named after her.
 
 ## Appearance and Personality
 
@@ -29,23 +29,23 @@ favicon: /favicon.ico
 
 Edgli's appearance and even species are unknown; when speaking to the [[Returned - The Coppermind|Returned]], she has a calm, comforting voice. To them, she is gentle and kind, offering the possibility of coming back without pressuring them into it.[^5] In private, however, she's a lot less personable. She's uninterested in meddling with the [[17th Shard|cosmere]] beyond [[Nalthis - The Coppermind|Nalthis]], and dislikes the idea of [[Shards]] interfering with one another; at the same time, she meddles with Nalthis itself extensively through the Returned.[^6] [^7] She's said to be erratic, particularly when it comes to the manner in which she picks the people to Return.[^8]
 
-She actively doesn't wish to interfere with other Shards, in accordance with their agreement. She is disappointed that so few [Vessels](https://coppermind.net/wiki/Vessel "Vessel") have kept to it, and considers those that break it to be fools, and believes that no good can come from two Shards residing on the same planet.[^9] [^7]
+She actively doesn't wish to interfere with other Shards, in accordance with their agreement. She is disappointed that so few [[Shards|Vessels]] have kept to it, and considers those that break it to be fools, and believes that no good can come from two Shards residing on the same planet.[^9] [^7]
 
 Though she calls [[Hoid - The Coppermind|Hoid]] "Dearest Cephandrius", she seems to dislike him quite heavily; she is frustrated with his visits to her territory, chastises him for refusing to become a Vessel, and generally tells him off for trying to interfere with the matters above what she perceives to be his weight class.[^10] [^11] She appears to be more amicable when speaking with [[Harmony - The Coppermind|Harmony]].[^12] While it might be due to both of them being [[Shards]], she does not extend the same courtesy to [[Uli Da - The Coppermind|Uli Da]], and is dismissive of [[Aona - The Coppermind|Aona]] and [[Skai - The Coppermind|Skai's]] fate.[^4] [^9]
 
 ## Abilities and Attributes
 
-As a [Vessel](https://coppermind.net/wiki/Vessel "Vessel") of the [[Shards|Shard]] [[Endowment - The Coppermind|Endowment]], Edgli is immortal and immensely powerful; she can even bring the recently-dead back to life through bestowing her [[Splinter - The Coppermind|Splinters]], [divine Breath](https://coppermind.net/wiki/Divine_Breath "Divine Breath"), upon them.[^13] [^14] Like other Shards, she is capable of perceiving the future, though it's unknown how good she is at it.[^5] She does, however, rank higher than most in being able to spot [[Hoid - The Coppermind|Hoid]], as she declares herself perfectly capable of detecting his "intrusions" on [[Nalthis - The Coppermind|Nalthis]] regardless of what disguise he uses.[^1] It's unclear whether this is some capacity granted to her by her particular Shard, or simply her own keen mind.
+As a [[Shards|Vessel]] of the [[Shards|Shard]] [[Endowment - The Coppermind|Endowment]], Edgli is immortal and immensely powerful; she can even bring the recently-dead back to life through bestowing her [[Splinter - The Coppermind|Splinters]], [[BioChromatic Breath - The Coppermind|divine Breath]], upon them.[^13] [^14] Like other Shards, she is capable of perceiving the future, though it's unknown how good she is at it.[^5] She does, however, rank higher than most in being able to spot [[Hoid - The Coppermind|Hoid]], as she declares herself perfectly capable of detecting his "intrusions" on [[Nalthis - The Coppermind|Nalthis]] regardless of what disguise he uses.[^1] It's unclear whether this is some capacity granted to her by her particular Shard, or simply her own keen mind.
 
 ## History
 
-Like all original [Vessels](https://coppermind.net/wiki/Vessel "Vessel"), Edgli is a native of [[Yolen - The Coppermind|Yolen]].[^15] She participated in the [[Shattering - The Coppermind|Shattering of Adonalsium]], and took up one of the [[Shards]], [[Endowment - The Coppermind|Endowment]].[^16] Honoring the deal that the Vessels made, to each go their own ways, she set out of Yolen and eventually wound up on [[Nalthis - The Coppermind|Nalthis]], Investing herself in it and becoming its sole Shard.[^7] [^17]
+Like all original [[Shards|Vessels]], Edgli is a native of [[Yolen - The Coppermind|Yolen]].[^15] She participated in the [[Shattering - The Coppermind|Shattering of Adonalsium]], and took up one of the [[Shards]], [[Endowment - The Coppermind|Endowment]].[^16] Honoring the deal that the Vessels made, to each go their own ways, she set out of Yolen and eventually wound up on [[Nalthis - The Coppermind|Nalthis]], Investing herself in it and becoming its sole Shard.[^7] [^17]
 
 ## Trivia
 
 - Edgli is the author of the first of the [letters](https://coppermind.net/wiki/Letters "Letters") in *[Oathbringer](https://coppermind.net/wiki/Oathbringer "Oathbringer")* epigraphs, and of the letter in *[Wind and Truth](https://coppermind.net/wiki/Wind_and_Truth "Wind and Truth")*
 - The "E" in her name is pronounced as "eh", like in the word "echo".[^18]
-- Although Edgli's race is not known, it is confirmed she is not a dragon since Sanderson has confirmed there are only two current Vessels that are dragons. [^19] These are [[Medelantorius - The Coppermind|Medelantorius]], the [Vessel](https://coppermind.net/wiki/Vessel "Vessel") of [[Valor - The Coppermind|Valor]] [^19] and [[Koravellium Avast - The Coppermind|Koravellium Avast]], the [Vessel](https://coppermind.net/wiki/Vessel "Vessel") of [[Cultivation - The Coppermind|Cultivation]]. [^20] [^21]
+- Although Edgli's race is not known, it is confirmed she is not a dragon since Sanderson has confirmed there are only two current Vessels that are dragons. [^19] These are [[Medelantorius - The Coppermind|Medelantorius]], the [[Shards|Vessel]] of [[Valor - The Coppermind|Valor]] [^19] and [[Koravellium Avast - The Coppermind|Koravellium Avast]], the [[Shards|Vessel]] of [[Cultivation - The Coppermind|Cultivation]]. [^20] [^21]
 
 ## Notes
 

@@ -36,7 +36,7 @@ Despite all of this, Lightsong has a kind and good-hearted nature that shows thr
 
 ## Attributes and Abilities
 
-As a [[Returned - The Coppermind|Returned]], Lightsong has a [divine Breath](https://coppermind.net/wiki/Divine_Breath "Divine Breath") which gives him the benefits of being on the [Fifth Heightening](https://coppermind.net/wiki/Fifth_Heightening "Fifth Heightening"). This includes:
+As a [[Returned - The Coppermind|Returned]], Lightsong has a [[BioChromatic Breath - The Coppermind|divine Breath]] which gives him the benefits of being on the [[Heightening - The Coppermind|Fifth Heightening]]. This includes:
 
 - Aura Recognition - allows him to assess the number of Breaths a person possesses.
 - Perfect Pitch
@@ -62,7 +62,7 @@ Before being Returned, Lightsong was an accountant named **Stennimar** who was o
 
 by [KiebieArt](https://coppermind.net/wiki/Coppermind:Artists/KiebieArt "Coppermind:Artists/KiebieArt")
 
-Taking his weekly [Breath](https://coppermind.net/wiki/Breath "Breath") from a child in order to continue living.
+Taking his weekly [[BioChromatic Breath - The Coppermind|Breath]] from a child in order to continue living.
 
 > “ *I've spent most of my Returned life just lounging about, but then the moment someone is killed, I leap out of bed and can't resist poking around. Doesn't that sound suspicious to you?* ”
 > 
@@ -108,7 +108,7 @@ His most notable relationship at the time of the Pahn Kahl rebellion is with [[B
 
 ### Siri
 
-After realizing that [Siri](https://coppermind.net/wiki/Siri "Siri") is a naive young woman and not a cunning spy sent by Idris, Lightsong takes pity on her and gives her advice on dealing with the politics of the Court of Gods. Siri thinks of him as the best of the Returned Gods in the court at the time, and comes to rely on him even though he advises her not to.[^4]
+After realizing that [[Sisirinah - The Coppermind|Siri]] is a naive young woman and not a cunning spy sent by Idris, Lightsong takes pity on her and gives her advice on dealing with the politics of the Court of Gods. Siri thinks of him as the best of the Returned Gods in the court at the time, and comes to rely on him even though he advises her not to.[^4]
 
 ## Quotes
 

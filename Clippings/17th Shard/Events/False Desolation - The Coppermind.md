@@ -13,11 +13,11 @@ favicon: /favicon.ico
 ---
 ## False Desolation
 
-> “ *A legend. Considered pseudohistorical. Dovcanti wrote an epic about it somewhere around fifteen hundred years ago. The claim is that some Voidbringers survived Aharietiam, and there were many clashes with them afterward. It's considered unreliable, but that’s because many later [ardents](https://coppermind.net/wiki/Ardent "Ardent") insist that no Voidbringers could have survived. I'm inclined to assume this is a clash with parshmen before they were somehow deprived of their ability to change forms.* ”
+> “ *A legend. Considered pseudohistorical. Dovcanti wrote an epic about it somewhere around fifteen hundred years ago. The claim is that some Voidbringers survived Aharietiam, and there were many clashes with them afterward. It's considered unreliable, but that’s because many later [[Vorinism - The Coppermind|ardents]] insist that no Voidbringers could have survived. I'm inclined to assume this is a clash with parshmen before they were somehow deprived of their ability to change forms.* ”
 > 
 > — Jasnah Kholin on the False Desolation.[^1]
 
-The **False Desolation**, considered pseudohistorical by the [Vorin](https://coppermind.net/wiki/Vorin "Vorin") church, was a conflict between [singers](https://coppermind.net/wiki/Singers "Singers") and humans sometime during the millenia after the [[Last Desolation - The Coppermind|Last Desolation]].[^1] It is likely the conflict in which the [[Knights Radiant - The Coppermind|Knights Radiant]] were fighting at the time of the [Recreance](https://coppermind.net/wiki/Recreance "Recreance"), according to [[Jasnah Kholin - The Coppermind|Jasnah Kholin]].[^1] It resulted in the enslavement of singers as [parshmen](https://coppermind.net/wiki/Parshmen "Parshmen").[^2]
+The **False Desolation**, considered pseudohistorical by the [[Vorinism - The Coppermind|Vorin]] church, was a conflict between [[Singer - The Coppermind|singers]] and humans sometime during the millenia after the [[Last Desolation - The Coppermind|Last Desolation]].[^1] It is likely the conflict in which the [[Knights Radiant - The Coppermind|Knights Radiant]] were fighting at the time of the [[Day of Recreance - The Coppermind|Recreance]], according to [[Jasnah Kholin - The Coppermind|Jasnah Kholin]].[^1] It resulted in the enslavement of singers as [[Singer - The Coppermind|parshmen]].[^2]
 
 ## Background
 
@@ -25,7 +25,7 @@ The **False Desolation**, considered pseudohistorical by the [Vorin](https://cop
 > 
 > — Drawer 30-20, first emerald [^3]
 
-The precise date of the False Desolation’s onset is unclear, but when [[Dalinar Kholin - The Coppermind|Dalinar Kholin]] showed Jasnah and [[Navani Kholin - The Coppermind|Navani Kholin]] a vision of the [Recreance](https://coppermind.net/wiki/Recreance "Recreance"), Jasnah postulated the Radiants were fighting in the legendary False Desolation.[^1] If correct, the False Desolation occurred around the same time as the Recreance--about 2,000 years prior to the present day, or 2,500 years after [Aharietiam](https://coppermind.net/wiki/Aharietiam "Aharietiam"), the Last Desolation.
+The precise date of the False Desolation’s onset is unclear, but when [[Dalinar Kholin - The Coppermind|Dalinar Kholin]] showed Jasnah and [[Navani Kholin - The Coppermind|Navani Kholin]] a vision of the [[Day of Recreance - The Coppermind|Recreance]], Jasnah postulated the Radiants were fighting in the legendary False Desolation.[^1] If correct, the False Desolation occurred around the same time as the Recreance--about 2,000 years prior to the present day, or 2,500 years after [[Last Desolation - The Coppermind|Aharietiam]], the Last Desolation.
 
 ## Ba-Ado-Mishram and a New Desolation
 
@@ -47,7 +47,7 @@ This period of fighting became particularly intense at that time.[^7] At some po
 
 The Radiants eventually sought an edge in the conflict. Scholar Radiants teamed up to conceive a plan to stop the Voidbringers.[^10] They theorized that an Unmade could, perhaps, be imprisoned like a regular spren.[^11] (It is unclear if this happened before or after [Re-Shephir's](https://coppermind.net/wiki/Re-Shephir "Re-Shephir") imprisonment in Urithiru by a Lightweaver.[^12]) The Radiants devised a plan: they would imprison Ba-Ado-Mishram--stopping the singers' transformations and removing their access to Voidlight.[^10]
 
-The plan required a special prison--likely a [perfect gemstone](https://coppermind.net/wiki/Perfect_gemstone "Perfect gemstone") --as well as [[Melishi - The Coppermind|Melishi]],[^11] the only [Bondsmith](https://coppermind.net/wiki/Bondsmith "Bondsmith") of his generation.[^9] [^13] The Radiants did not know what exactly Ba-Ado-Mishram's imprisonment would do to the singers. They were certain that it would prevent them from using forms of power, but they didn't know what else could happen. Melishi sought to destroy the Voidbringers [^9] and was confident the plan would succeed, but [Naze-daughter-Kuzodo](https://coppermind.net/wiki/Naze-daughter-Kuzodo "Naze-daughter-Kuzodo") warned of unexpected aftereffects.[^14] The Radiants believed this would end the war the Heralds promised them and proceeded with the plan.[^15] It is clear the strike team succeeded in imprisoning Ba-Ado-Mishram, as she was no longer seen in the modern day, unlike most of the other eight Unmade.[^16]
+The plan required a special prison--likely a [[Polestone - The Coppermind|perfect gemstone]] --as well as [[Melishi - The Coppermind|Melishi]],[^11] the only [[Order of Bondsmiths - The Coppermind|Bondsmith]] of his generation.[^9] [^13] The Radiants did not know what exactly Ba-Ado-Mishram's imprisonment would do to the singers. They were certain that it would prevent them from using forms of power, but they didn't know what else could happen. Melishi sought to destroy the Voidbringers [^9] and was confident the plan would succeed, but [Naze-daughter-Kuzodo](https://coppermind.net/wiki/Naze-daughter-Kuzodo "Naze-daughter-Kuzodo") warned of unexpected aftereffects.[^14] The Radiants believed this would end the war the Heralds promised them and proceeded with the plan.[^15] It is clear the strike team succeeded in imprisoning Ba-Ado-Mishram, as she was no longer seen in the modern day, unlike most of the other eight Unmade.[^16]
 
 ## Aftermath and Legacy
 

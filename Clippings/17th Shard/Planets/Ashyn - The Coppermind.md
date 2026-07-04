@@ -16,7 +16,7 @@ favicon: /favicon.ico
 
 > “ *There is Ashyn, the burning planet, which suffered a cataclysm long ago.* ”
 > 
-> —From [Khriss's](https://coppermind.net/wiki/Khriss "Khriss") essay on the [Rosharan System](https://coppermind.net/wiki/Rosharan_System "Rosharan System") [^3]
+> —From [[Khrissalla - The Coppermind|Khriss's]] essay on the [Rosharan System](https://coppermind.net/wiki/Rosharan_System "Rosharan System") [^3]
 
 **Ashyn**, formerly known as **Alaswha**,[^4] is an inhabited planet in the [Rosharan system](https://coppermind.net/wiki/Rosharan_system "Rosharan system") and the first planet from Roshar's sun.[^2]
 
@@ -82,7 +82,7 @@ The civilizations native to Ashyn attempted to flee, with many managing to migra
 
 Despite the devastation, some patches of Ashyn remained hospitable.[^3] The magic on Ashyn changed after the destruction to become illness-based.[^31] [^32] [^33] This worked off a symbiotic relationship between [[Investiture - The Coppermind|Investiture]] and bacteria/viruses;[^34] by allowing oneself to get infected, one gains magical effects. Among the surviving areas of Ashyn are the famous floating cities which are held afloat due to a special disease.[^3] [^35] [^36] Some on Ashyn remain aware of Roshar's existence.[^37]
 
-At some point after the [[True Desolation - The Coppermind|True Desolation]], [Nomad](https://coppermind.net/wiki/Nomad "Nomad") arrived on Ashyn during his run from the [Night Brigade](https://coppermind.net/wiki/Night_Brigade "Night Brigade").[^35]
+At some point after the [[True Desolation - The Coppermind|True Desolation]], [[Sigzil - The Coppermind|Nomad]] arrived on Ashyn during his run from the [Night Brigade](https://coppermind.net/wiki/Night_Brigade "Night Brigade").[^35]
 
 ## Culture
 
@@ -112,7 +112,7 @@ Ashyn currently has no [[Shards|Shard]], but Cultivation, Honor and Odium have a
 
 ### The Surges
 
-Before the scouring of Ashyn, Honor and Odium had both granted the people there power over the [Surges](https://coppermind.net/wiki/Surges "Surges"). This magic was far more powerful than the powers granted to the [Singers](https://coppermind.net/wiki/Singers "Singers") on Roshar at the time.[^10] [^47] [^48] [^4] After humans arrived on Roshar, Cultivation, Honor and Odium agreed limitations on the powers that they granted to mortals that would prevent the Surges on Roshar being as dangerous.[^49] Despite its name, however, this may have been a magic system only similar to the surges used on Roshar.[^50]
+Before the scouring of Ashyn, Honor and Odium had both granted the people there power over the [[Surgebinding - The Coppermind|Surges]]. This magic was far more powerful than the powers granted to the [[Singer - The Coppermind|Singers]] on Roshar at the time.[^10] [^47] [^48] [^4] After humans arrived on Roshar, Cultivation, Honor and Odium agreed limitations on the powers that they granted to mortals that would prevent the Surges on Roshar being as dangerous.[^49] Despite its name, however, this may have been a magic system only similar to the surges used on Roshar.[^50]
 
 ### Current magic
 
@@ -132,8 +132,8 @@ In the story, Ashynites do not have [[Fabrial - The Coppermind|fabrials]], but a
 
 ## Trivia
 
-- All of the original [Heralds](https://coppermind.net/wiki/Heralds "Heralds") except [Taln](https://coppermind.net/wiki/Taln "Taln") [^58] came from Ashyn, and were presumably born there.[^59] [^60]
-- Sometime before his arrival on [[Canticle - The Coppermind|Canticle]], [Nomad](https://coppermind.net/wiki/Nomad "Nomad") had visited one of the flying cities on Ashyn.[^35]
+- All of the original [Heralds](https://coppermind.net/wiki/Heralds "Heralds") except [[Talenel - The Coppermind|Taln]] [^58] came from Ashyn, and were presumably born there.[^59] [^60]
+- Sometime before his arrival on [[Canticle - The Coppermind|Canticle]], [[Sigzil - The Coppermind|Nomad]] had visited one of the flying cities on Ashyn.[^35]
 
 ## Notes
 

@@ -34,7 +34,7 @@ Around the time of the Everstorm, [[Lift - The Coppermind|Lift]] visits Yeddaw w
 
 ## Politics
 
-The city is locally controlled by a prince. While not much is known currently, the prince has enough authority to issue special operatives and empower the local [Skybreakers](https://coppermind.net/wiki/Skybreakers "Skybreakers") to react to crimes however they see fit,[^5] [^6] as well as declare a state of emergency immediately followed by all inhabitants.[^7] [^8] He was also capable of turning out the [parshmen](https://coppermind.net/wiki/Parshmen "Parshmen") slaves into the coming [[Everstorm - The Coppermind|Everstorm]].[^9]
+The city is locally controlled by a prince. While not much is known currently, the prince has enough authority to issue special operatives and empower the local [[Order of Skybreakers - The Coppermind|Skybreakers]] to react to crimes however they see fit,[^5] [^6] as well as declare a state of emergency immediately followed by all inhabitants.[^7] [^8] He was also capable of turning out the [[Singer - The Coppermind|parshmen]] slaves into the coming [[Everstorm - The Coppermind|Everstorm]].[^9]
 
 ## Culture
 

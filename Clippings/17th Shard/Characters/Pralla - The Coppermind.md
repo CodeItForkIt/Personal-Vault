@@ -15,7 +15,7 @@ favicon: /favicon.ico
 ---
 ## Pralla
 
-**Pralla**, known as **Pailiah** in [[Vorinism - The Coppermind|Vorinism]], **Pala** in [Iriali](https://coppermind.net/wiki/Iriali "Iriali"), and nicknamed **Pali**,[^1] [^2] [^3] is one of the ten [Heralds](https://coppermind.net/wiki/Herald "Herald") of the [Almighty](https://coppermind.net/wiki/Almighty "Almighty") on [[Roshar - The Coppermind|Roshar]]. She is the patron of the [[Order of Truthwatchers - The Coppermind|Order of Truthwatchers]].[^4]
+**Pralla**, known as **Pailiah** in [[Vorinism - The Coppermind|Vorinism]], **Pala** in [Iriali](https://coppermind.net/wiki/Iriali "Iriali"), and nicknamed **Pali**,[^1] [^2] [^3] is one of the ten [Heralds](https://coppermind.net/wiki/Herald "Herald") of the [[Honor - The Coppermind|Almighty]] on [[Roshar - The Coppermind|Roshar]]. She is the patron of the [[Order of Truthwatchers - The Coppermind|Order of Truthwatchers]].[^4]
 
 ## Personality and Appearance
 
@@ -57,15 +57,15 @@ Like the other Heralds, over time, she developed the ability to draw upon the po
 
 by [Shuravf](https://coppermind.net/wiki/Coppermind:Artists/Shuravf "Coppermind:Artists/Shuravf")
 
-Like the other Heralds, except for [[Talenel - The Coppermind|Talenel]], Pralla was born on [Alaswha](https://coppermind.net/wiki/Alaswha "Alaswha") and was likely involved in the territorial wars that ravaged the planet between eight thousand and seven thousand one hundred years before the [Night of Sorrows](https://coppermind.net/wiki/Night_of_Sorrows "Night of Sorrows").[^14] [^15] She served as a scholar.[^8] She was granted Surges, be it by Honor or Odium, which tremendously slowed her aging.[^8] It is unknown if she was on the side of [Odium's empire](https://coppermind.net/wiki/Odium%27s_empire "Odium's empire") or part of the resistance faction led by [Makibak](https://coppermind.net/wiki/Makibak "Makibak"). Following the scouring of Alaswha, renamed Ashyn, by the Surges, she made the trip to [[Roshar - The Coppermind|Roshar]] along with a large group of survivors.[^15]
+Like the other Heralds, except for [[Talenel - The Coppermind|Talenel]], Pralla was born on [[Ashyn - The Coppermind|Alaswha]] and was likely involved in the territorial wars that ravaged the planet between eight thousand and seven thousand one hundred years before the [Night of Sorrows](https://coppermind.net/wiki/Night_of_Sorrows "Night of Sorrows").[^14] [^15] She served as a scholar.[^8] She was granted Surges, be it by Honor or Odium, which tremendously slowed her aging.[^8] It is unknown if she was on the side of [Odium's empire](https://coppermind.net/wiki/Odium%27s_empire "Odium's empire") or part of the resistance faction led by [Makibak](https://coppermind.net/wiki/Makibak "Makibak"). Following the scouring of Alaswha, renamed Ashyn, by the Surges, she made the trip to [[Roshar - The Coppermind|Roshar]] along with a large group of survivors.[^15]
 
-When the [[Desolation - The Coppermind|Desolations]] began, she was one of the ten people made Heralds by [[Honor - The Coppermind|Honor]] and given a [[Honorblade - The Coppermind|Honorblade]].[^10] Sometime during the Desolations, Pralla, along with her Truthwatchers, worked to preserve human knowledge between the Desolations.[^7] Along with all of the Heralds but [Taln](https://coppermind.net/wiki/Taln "Taln"), Pralla abandoned the [[Oathpact - The Coppermind|Oathpact]] at the end of [Aharietiam](https://coppermind.net/wiki/Aharietiam "Aharietiam").[^9]
+When the [[Desolation - The Coppermind|Desolations]] began, she was one of the ten people made Heralds by [[Honor - The Coppermind|Honor]] and given a [[Honorblade - The Coppermind|Honorblade]].[^10] Sometime during the Desolations, Pralla, along with her Truthwatchers, worked to preserve human knowledge between the Desolations.[^7] Along with all of the Heralds but [[Talenel - The Coppermind|Taln]], Pralla abandoned the [[Oathpact - The Coppermind|Oathpact]] at the end of [[Last Desolation - The Coppermind|Aharietiam]].[^9]
 
 After Aharietiam, Pralla created a large chamber under Rall Elorim, where she alone began archiving the people and places she had known during her immortal life. Slowly however, her passion fell into obsession.[^6] To help her with her goals, she created a secret society, the [Eyes of Pala](https://coppermind.net/edit/Eyes_of_Pala?redlink=1 "Eyes of Pala (page does not exist)"), which contains at least one Truthwatcher among its ranks.[^16]
 
 ## Culture
 
-In the [Vorin](https://coppermind.net/wiki/Vorin "Vorin") culture, Pralla is associated with number 5 (Palah), the essence Pulp, and the attributes of Learned and Giving.[^17] The grand library in Kharbranth, [Palanaeum](https://coppermind.net/wiki/Palanaeum "Palanaeum"), is named after her.[^18]
+In the [[Vorinism - The Coppermind|Vorin]] culture, Pralla is associated with number 5 (Palah), the essence Pulp, and the attributes of Learned and Giving.[^17] The grand library in Kharbranth, [Palanaeum](https://coppermind.net/wiki/Palanaeum "Palanaeum"), is named after her.[^18]
 
 Pailiah features in several Rosharan idioms, such as "Pali's mind" and "Pailiah knew...", referencing her nature as Learned.[^2] [^19] There are temples to her in major cities on Roshar, like [Kholinar](https://coppermind.net/wiki/Kholinar "Kholinar") and [Thaylen](https://coppermind.net/wiki/Thaylen_City "Thaylen City").[^20] [^21]
 

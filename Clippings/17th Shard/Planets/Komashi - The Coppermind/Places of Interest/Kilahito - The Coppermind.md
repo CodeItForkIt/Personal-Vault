@@ -49,7 +49,7 @@ Crime rates in Kilahito are low, making it a relatively safe city, due in no sma
 
 While they greatly value the role that painters fill in society, they do not often discuss things such as salary increases, leading to painters earning very little money for the sort of work they do.[^6]
 
-The people enjoy watching [hion viewer](https://coppermind.net/wiki/Hion_viewer "Hion viewer") programs for entertainment.[^1]
+The people enjoy watching [[Hion - The Coppermind|hion viewer]] programs for entertainment.[^1]
 
 ## Notable Residents
 

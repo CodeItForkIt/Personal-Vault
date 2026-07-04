@@ -15,7 +15,7 @@ favicon: "/favicon.ico"
 > “ *"I'm not some glorious knight of ancient days. I'm a broken man. Do you hear me, Syl? *I'm broken*."  
 > She zipped up to him and whispered, "That’s what they all were, silly"* ”
 > 
-> — [[Kaladin - The Coppermind|Kaladin]] and [Syl](https://coppermind.net/wiki/Syl "Syl") on what the Knights Radiant were like.[^1]
+> — [[Kaladin - The Coppermind|Kaladin]] and [[Sylphrena - The Coppermind|Syl]] on what the Knights Radiant were like.[^1]
 
 The **Knights Radiant** (Listener: *Neshua Kadal*) [^2] [^3] were an organization of [[Surgebinding - The Coppermind|Surgebinders]] on [[Roshar - The Coppermind|Roshar]]. Their Orders were centered at [[Urithiru - The Coppermind|Urithiru]], but they lived all across [[Alethela - The Coppermind|Alethela]], the [[Silver Kingdoms - The Coppermind|Silver Kingdom]] who had to maintain the arts of war. They considered it their duty and privilege to stay vigilant for [[Desolation - The Coppermind|Desolations]].[^4] It is commonly believed that they betrayed mankind on the [[Day of Recreance - The Coppermind|Day of Recreance]], and were then referred to as the **Lost Radiants**.[^5] Their symbol was a golden hourglass shape, of eight spheres connected with two at the center.
 
@@ -33,43 +33,43 @@ Each order corresponded to a Herald, and all of them except the Bondsmiths rough
 
 [[Order of Windrunners - The Coppermind|Order of Windrunners]]
 
-Windrunners bond with [honorspren](https://coppermind.net/wiki/Honorspren "Honorspren"), which gives them the ability to use the Surges of [Adhesion](https://coppermind.net/wiki/Adhesion "Adhesion") and [Gravitation](https://coppermind.net/wiki/Gravitation "Gravitation").[^7] The combination of these two Surges results in the powers known as the [Three Lashings](https://coppermind.net/wiki/Lashing "Lashing").[^8] Windrunners are associated with the sapphire polestone, the essence of Zephyr, and the Herald [[Jezrien - The Coppermind|Jezrien]].
+Windrunners bond with [honorspren](https://coppermind.net/wiki/Honorspren "Honorspren"), which gives them the ability to use the Surges of [[Surgebinding - The Coppermind|Adhesion]] and [[Surgebinding - The Coppermind|Gravitation]].[^7] The combination of these two Surges results in the powers known as the [[Surgebinding - The Coppermind|Three Lashings]].[^8] Windrunners are associated with the sapphire polestone, the essence of Zephyr, and the Herald [[Jezrien - The Coppermind|Jezrien]].
 
 [[Order of Skybreakers - The Coppermind|Order of Skybreakers]]
 
-Skybreakers bond with [highspren](https://coppermind.net/wiki/Highspren "Highspren"), which gives them the ability to use the Surges of [Gravitation](https://coppermind.net/wiki/Gravitation "Gravitation") and [Division](https://coppermind.net/wiki/Division "Division").[^7] Skybreakers are associated with the smokestone polestone, the essence of Vapor, and the Herald [[Nale - The Coppermind|Nale]].
+Skybreakers bond with [highspren](https://coppermind.net/wiki/Highspren "Highspren"), which gives them the ability to use the Surges of [[Surgebinding - The Coppermind|Gravitation]] and [[Surgebinding - The Coppermind|Division]].[^7] Skybreakers are associated with the smokestone polestone, the essence of Vapor, and the Herald [[Nale - The Coppermind|Nale]].
 
 [[Order of Dustbringers - The Coppermind|Order of Dustbringers]]
 
-Dustbringers - or as they prefer, Releasers - bond with [ashspren](https://coppermind.net/wiki/Ashspren "Ashspren"), which gives them the ability to use the Surges of [Division](https://coppermind.net/wiki/Division "Division") and [Abrasion](https://coppermind.net/wiki/Abrasion "Abrasion").[^7] Their powers tend to be destructive.[^9] Dustbringers are associated with the ruby polestone, the essence of Spark, and the Herald [[Chanarach - The Coppermind|Chanarach]].
+Dustbringers - or as they prefer, Releasers - bond with [ashspren](https://coppermind.net/wiki/Ashspren "Ashspren"), which gives them the ability to use the Surges of [[Surgebinding - The Coppermind|Division]] and [[Surgebinding - The Coppermind|Abrasion]].[^7] Their powers tend to be destructive.[^9] Dustbringers are associated with the ruby polestone, the essence of Spark, and the Herald [[Chanarach - The Coppermind|Chanarach]].
 
 [[Order of Edgedancers - The Coppermind|Order of Edgedancers]]
 
-Edgedancers bond with [cultivationspren](https://coppermind.net/wiki/Cultivationspren "Cultivationspren"), which gives them the ability to use the Surges of [Abrasion](https://coppermind.net/wiki/Abrasion "Abrasion") and [Progression](https://coppermind.net/wiki/Progression "Progression").[^7] Edgedancers are associated with the diamond polestone, the essence of Lucentia, and the Herald [[Vedel - The Coppermind|Vedel]].
+Edgedancers bond with [cultivationspren](https://coppermind.net/wiki/Cultivationspren "Cultivationspren"), which gives them the ability to use the Surges of [[Surgebinding - The Coppermind|Abrasion]] and [[Surgebinding - The Coppermind|Progression]].[^7] Edgedancers are associated with the diamond polestone, the essence of Lucentia, and the Herald [[Vedel - The Coppermind|Vedel]].
 
 [[Order of Truthwatchers - The Coppermind|Order of Truthwatchers]]
 
-Truthwatchers bond with [mistspren](https://coppermind.net/wiki/Mistspren "Mistspren"), gaining the ability to use the Surges of [Progression](https://coppermind.net/wiki/Progression "Progression") and [Illumination](https://coppermind.net/wiki/Illumination "Illumination").[^7] The surge of Progression grants the Truthwatchers the power of regrowth, which allows them to heal people [^10], and at least two Truthwatchers have demonstrated the ability to foresee future events [^11] [^12]. Truthwatchers are associated with the emerald polestone, the essence of Pulp, and the Herald [[Pralla - The Coppermind|Pralla]].
+Truthwatchers bond with [mistspren](https://coppermind.net/wiki/Mistspren "Mistspren"), gaining the ability to use the Surges of [[Surgebinding - The Coppermind|Progression]] and [[Surgebinding - The Coppermind|Illumination]].[^7] The surge of Progression grants the Truthwatchers the power of regrowth, which allows them to heal people [^10], and at least two Truthwatchers have demonstrated the ability to foresee future events [^11] [^12]. Truthwatchers are associated with the emerald polestone, the essence of Pulp, and the Herald [[Pralla - The Coppermind|Pralla]].
 
 [[Order of Lightweavers - The Coppermind|Order of Lightweavers]]
 
-Lightweavers bond with [Cryptics](https://coppermind.net/wiki/Cryptic "Cryptic"), or liespren, which gives them the ability to use the Surges of [Illumination](https://coppermind.net/wiki/Illumination "Illumination") and [Transformation](https://coppermind.net/wiki/Transformation "Transformation").[^7] They can create illusions and have the inherent ability to [Soulcast](https://coppermind.net/wiki/Soulcast "Soulcast").[^13] Lightweavers are associated with the garnet polestone, the essence of Blood, and the Herald [[Shalash - The Coppermind|Shalash]].
+Lightweavers bond with [Cryptics](https://coppermind.net/wiki/Cryptic "Cryptic"), or liespren, which gives them the ability to use the Surges of [[Surgebinding - The Coppermind|Illumination]] and [[Surgebinding - The Coppermind|Transformation]].[^7] They can create illusions and have the inherent ability to [[Soulcasting - The Coppermind|Soulcast]].[^13] Lightweavers are associated with the garnet polestone, the essence of Blood, and the Herald [[Shalash - The Coppermind|Shalash]].
 
 [[Order of Elsecallers - The Coppermind|Order of Elsecallers]]
 
-Elsecallers bond with [inkspren](https://coppermind.net/wiki/Inkspren "Inkspren"), which gives them the ability to use the Surges of [Transformation](https://coppermind.net/wiki/Transformation "Transformation") and [Transportation](https://coppermind.net/wiki/Transportation "Transportation").[^7] They have the inherent ability to [Soulcast](https://coppermind.net/wiki/Soulcast "Soulcast").[^13] They have the closest affiliation with [Shadesmar](https://coppermind.net/wiki/Shadesmar "Shadesmar") out of all the orders. Elsecallers are associated with the zircon polestone, the essence of Tallow, and the Herald [[Battar - The Coppermind|Battar]].
+Elsecallers bond with [inkspren](https://coppermind.net/wiki/Inkspren "Inkspren"), which gives them the ability to use the Surges of [[Surgebinding - The Coppermind|Transformation]] and [[Surgebinding - The Coppermind|Transportation]].[^7] They have the inherent ability to [[Soulcasting - The Coppermind|Soulcast]].[^13] They have the closest affiliation with [Shadesmar](https://coppermind.net/wiki/Shadesmar "Shadesmar") out of all the orders. Elsecallers are associated with the zircon polestone, the essence of Tallow, and the Herald [[Battar - The Coppermind|Battar]].
 
 [[Order of Willshapers - The Coppermind|Order of Willshapers]]
 
-Willshapers bond with [Reachers](https://coppermind.net/wiki/Reacher "Reacher"), also known as lightspren, which gives them the ability to use the Surges of [Transportation](https://coppermind.net/wiki/Transportation "Transportation") and [Cohesion](https://coppermind.net/wiki/Cohesion "Cohesion").[^7] Willshapers are associated with the amethyst polestone, the essence of Foil, and the Herald [[Kalak - The Coppermind|Kalak]].
+Willshapers bond with [Reachers](https://coppermind.net/wiki/Reacher "Reacher"), also known as lightspren, which gives them the ability to use the Surges of [[Surgebinding - The Coppermind|Transportation]] and [[Surgebinding - The Coppermind|Cohesion]].[^7] Willshapers are associated with the amethyst polestone, the essence of Foil, and the Herald [[Kalak - The Coppermind|Kalak]].
 
 [[Order of Stonewards - The Coppermind|Order of Stonewards]]
 
-Stonewards bond with [peakspren](https://coppermind.net/wiki/Peakspren "Peakspren"), gaining the ability to use the Surges of [Cohesion](https://coppermind.net/wiki/Cohesion "Cohesion") and [Tension](https://coppermind.net/wiki/Tension "Tension").[^7] Stonewards are associated with the topaz polestone, the essence of Talus, and the Herald [[Talenel - The Coppermind|Talenel]].
+Stonewards bond with [peakspren](https://coppermind.net/wiki/Peakspren "Peakspren"), gaining the ability to use the Surges of [[Surgebinding - The Coppermind|Cohesion]] and [[Surgebinding - The Coppermind|Tension]].[^7] Stonewards are associated with the topaz polestone, the essence of Talus, and the Herald [[Talenel - The Coppermind|Talenel]].
 
 [[Order of Bondsmiths - The Coppermind|Order of Bondsmiths]]
 
-Bondsmiths bond with three unique spren—the [[Stormfather - The Coppermind|Stormfather]], the [[Sibling - The Coppermind|Sibling]], and the [[Nightwatcher - The Coppermind|Nightwatcher]] —which gives them the ability to use the Surges of [Tension](https://coppermind.net/wiki/Tension "Tension") and [Adhesion](https://coppermind.net/wiki/Adhesion "Adhesion").[^7] Bondsmiths are associated with the heliodor polestone, the essence of Sinew, and the Herald [[Ishar - The Coppermind|Ishar]].
+Bondsmiths bond with three unique spren—the [[Stormfather - The Coppermind|Stormfather]], the [[Sibling - The Coppermind|Sibling]], and the [[Nightwatcher - The Coppermind|Nightwatcher]] —which gives them the ability to use the Surges of [[Surgebinding - The Coppermind|Tension]] and [[Surgebinding - The Coppermind|Adhesion]].[^7] Bondsmiths are associated with the heliodor polestone, the essence of Sinew, and the Herald [[Ishar - The Coppermind|Ishar]].
 
 The Knights Radiant also used [Shardblades](https://coppermind.net/wiki/Shardblade "Shardblade") and [[Shardplate - The Coppermind|Shardplate]], which were etched with glyphs and glowed a different color according to the Order they were a part of. Not all Radiants have access to Shards and many Orders don't receive them until they have sworn the higher Ideals.
 

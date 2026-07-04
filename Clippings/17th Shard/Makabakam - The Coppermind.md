@@ -38,7 +38,7 @@ Some writings which have been preserved from Makabakam indicate that, like the r
 
 #### Ethnicity and People
 
-The people of Makabakam are called Makabaki.[^6] The Makabaki are short and usually have dark skin — deep brown, but not true black like some [parshmen](https://coppermind.net/wiki/Parshmen "Parshmen").[^7] [^6] [^8] They also have epicanthic folds.[^9] Some Makabaki belong to the [Askarki](https://coppermind.net/wiki/Askarki "Askarki") 'tribe,' namely those living in the southeast in what would later become [[Emul - The Coppermind|Emul]]. Among the Heralds, [[Shalash - The Coppermind|Shalash]] looks like an Makabaki woman,[^10] and [[Nale - The Coppermind|Nale]] and [[Talenel - The Coppermind|Talenel]] also have the skin typical of a Makabaki.[^11]
+The people of Makabakam are called Makabaki.[^6] The Makabaki are short and usually have dark skin — deep brown, but not true black like some [[Singer - The Coppermind|parshmen]].[^7] [^6] [^8] They also have epicanthic folds.[^9] Some Makabaki belong to the [Askarki](https://coppermind.net/wiki/Askarki "Askarki") 'tribe,' namely those living in the southeast in what would later become [[Emul - The Coppermind|Emul]]. Among the Heralds, [[Shalash - The Coppermind|Shalash]] looks like an Makabaki woman,[^10] and [[Nale - The Coppermind|Nale]] and [[Talenel - The Coppermind|Talenel]] also have the skin typical of a Makabaki.[^11]
 
 ## History
 
@@ -48,7 +48,7 @@ The land that would become known as Makabakam was created at an unknown point be
 
 ### Pre-Human Arrival
 
-Before humanity arrived on Roshar from Ashyn, the land that would come to be known as Makabakam was inhabited by [singers](https://coppermind.net/wiki/Singers "Singers").[^16]
+Before humanity arrived on Roshar from Ashyn, the land that would come to be known as Makabakam was inhabited by [[Singer - The Coppermind|singers]].[^16]
 
 Circa -5825 in the Vorin calendar,[^17] [^18] humanity arrived on Roshar after fleeing Ashyn and were granted the land that would become [[Shin Kak Nish - The Coppermind|Shin Kak Nish]]. After less than a generation,[^19] they headed an invasion, slaughtering some of the singers and expelling them from their land, claiming it as their own. This included the land that would come to be known as Makabakam.[^16] This history was lost to man until the discovery of the [Eila Stele](https://coppermind.net/wiki/Eila_Stele "Eila Stele") and its eventual translation in the year.[^16]
 
@@ -60,7 +60,7 @@ by [Isaac Stewart](https://coppermind.net/wiki/Coppermind:Artists/Isaac_Stewart 
 
 Map of the Silver Kingdoms
 
-Makabakam was founded in the [[Silver Kingdoms - The Coppermind|Silver Kingdoms]] Epoch. Due to the Desolations, the Makabaki were constantly returned back to early technological levels, often to the point of having to make use of stone tools. They advanced each time with the help of the Heralds when they returned, often receiving this assistance from [[Kalak - The Coppermind|Kalak]] and his [Willshapers](https://coppermind.net/wiki/Willshapers "Willshapers").[^20] [^21] [^22] [^23] Old manuscripts and texts dating back to these times mention quick-spreading diseases in the east that killed tens of thousands, and it is likely that at least some of these diseases spread to Makabakam.[^24]
+Makabakam was founded in the [[Silver Kingdoms - The Coppermind|Silver Kingdoms]] Epoch. Due to the Desolations, the Makabaki were constantly returned back to early technological levels, often to the point of having to make use of stone tools. They advanced each time with the help of the Heralds when they returned, often receiving this assistance from [[Kalak - The Coppermind|Kalak]] and his [[Order of Willshapers - The Coppermind|Willshapers]].[^20] [^21] [^22] [^23] Old manuscripts and texts dating back to these times mention quick-spreading diseases in the east that killed tens of thousands, and it is likely that at least some of these diseases spread to Makabakam.[^24]
 
 Very early in the nation's history, the city of [Azimir](https://coppermind.net/wiki/Azimir "Azimir") was created and made into its capital.[^25] Azimir was eventually made into the home of the Makabaki Oathgate.[^26] Despite the wish by many that Urithiru be built in Alethela, for a reason obvious to many others at the time, it could not be; instead, it was built in the mountains of Ur, inside Makabakam's borders.[^27]
 

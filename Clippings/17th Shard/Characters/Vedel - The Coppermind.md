@@ -17,7 +17,7 @@ favicon: /favicon.ico
 ---
 ## Vedel
 
-**Vedel**, also known as **Vedeledev** in [[Vorinism - The Coppermind|Vorinism]], is one of the ten [Heralds](https://coppermind.net/wiki/Herald "Herald") of the [Almighty](https://coppermind.net/wiki/Almighty "Almighty") on [[Roshar - The Coppermind|Roshar]], and the patron Herald of the [[Order of Edgedancers - The Coppermind|Order of Edgedancers]].[^3] Like the other Heralds, Vedel protected mankind during the Cycle of [[Desolation - The Coppermind|Desolations]] before abandoning them at [Aharietiam](https://coppermind.net/wiki/Aharietiam "Aharietiam").[^4]
+**Vedel**, also known as **Vedeledev** in [[Vorinism - The Coppermind|Vorinism]], is one of the ten [Heralds](https://coppermind.net/wiki/Herald "Herald") of the [[Honor - The Coppermind|Almighty]] on [[Roshar - The Coppermind|Roshar]], and the patron Herald of the [[Order of Edgedancers - The Coppermind|Order of Edgedancers]].[^3] Like the other Heralds, Vedel protected mankind during the Cycle of [[Desolation - The Coppermind|Desolations]] before abandoning them at [[Last Desolation - The Coppermind|Aharietiam]].[^4]
 
 ## Appearance and Personality
 
@@ -25,7 +25,7 @@ Vedel would appear as [Alethi](https://coppermind.net/wiki/Alethi "Alethi") or [
 
 ## Attributes and Abilities
 
-Vedel is a [Herald](https://coppermind.net/wiki/Herald "Herald"), making her a [[Cognitive Shadow - The Coppermind|Cognitive Shadow]] and thus immortal. When she dies, she returns to [[Braize - The Coppermind|Braize]] to be tortured.[^6] [^7] Until [Aharietiam](https://coppermind.net/wiki/Aharietiam "Aharietiam"), she wielded a [[Honorblade - The Coppermind|Honorblade]], which gave her access to the [[Surgebinding - The Coppermind|Surges]] of [Abrasion](https://coppermind.net/wiki/Abrasion "Abrasion") and [Progression](https://coppermind.net/wiki/Progression "Progression"), and she was a capable swordswoman.
+Vedel is a [Herald](https://coppermind.net/wiki/Herald "Herald"), making her a [[Cognitive Shadow - The Coppermind|Cognitive Shadow]] and thus immortal. When she dies, she returns to [[Braize - The Coppermind|Braize]] to be tortured.[^6] [^7] Until [[Last Desolation - The Coppermind|Aharietiam]], she wielded a [[Honorblade - The Coppermind|Honorblade]], which gave her access to the [[Surgebinding - The Coppermind|Surges]] of [[Surgebinding - The Coppermind|Abrasion]] and [[Surgebinding - The Coppermind|Progression]], and she was a capable swordswoman.
 
 After losing her people, and before becoming a Herald, she served as a healer. She possesses vast medical knowledge, and trained new surgeons before a Desolation.[^8] It's likely that a lot of the Heralds' teachings regarding medicine -- such as the mandate to always wash hands before an operation -- came from her.[^9]
 
@@ -49,7 +49,7 @@ Over time, she would begin to draw upon the powers of Roshar itself. What this m
 
 ### Aharietiam
 
-At the time of the [[Last Desolation - The Coppermind|Last Desolation]], four thousand five hundred years before the Night of Sorrows, Vedel decided with the other Heralds to give up the Oathpact and leave [Taln](https://coppermind.net/wiki/Taln "Taln") alone on Braize.[^7]
+At the time of the [[Last Desolation - The Coppermind|Last Desolation]], four thousand five hundred years before the Night of Sorrows, Vedel decided with the other Heralds to give up the Oathpact and leave [[Talenel - The Coppermind|Taln]] alone on Braize.[^7]
 
 ### Reforging of the Oathpact
 

@@ -50,7 +50,7 @@ Despite a rebellion attempt led by Dieno, Herdaz remains under [[Retribution - T
 
 Herdaz is ruled by an [unnamed king](https://coppermind.net/wiki/King_of_Herdaz "King of Herdaz") from a new dynasty that has only come into power sometime before the year.[^13] The monarchy is loved by the people. The Herdazian government has outlawed human slavery.[^2] The monarchy is known to refuse to get involved in land disputes, appointing magistrates to oversee regions.[^5]
 
-The kingdom is divided into 203 officially recognised family ranches. Each of these ranches has its own glyph chimney. Once per year, the king invites commoner representatives from each ranch to attend their designated chimney, releasing synchronized trails of smoke to represent unity.[^2] The kingdom has a [Shardblade](https://coppermind.net/wiki/Shardblade "Shardblade") and a single set of [[Shardplate - The Coppermind|Shardplate]] that are passed down through the royal line.[^23] Herdaz might have at least one [Soulcaster](https://coppermind.net/wiki/Soulcaster "Soulcaster"), though the source on that is unreliable.[^24]
+The kingdom is divided into 203 officially recognised family ranches. Each of these ranches has its own glyph chimney. Once per year, the king invites commoner representatives from each ranch to attend their designated chimney, releasing synchronized trails of smoke to represent unity.[^2] The kingdom has a [Shardblade](https://coppermind.net/wiki/Shardblade "Shardblade") and a single set of [[Shardplate - The Coppermind|Shardplate]] that are passed down through the royal line.[^23] Herdaz might have at least one [[Soulcasting - The Coppermind|Soulcaster]], though the source on that is unreliable.[^24]
 
 ### International Relations and Diaspora
 
@@ -150,7 +150,7 @@ When a large group of Herdazians come together, they often form their own distri
 
 ## Notable Herdazians
 
-- [Lopen](https://coppermind.net/wiki/Lopen "Lopen"), the cheerful, one-armed member of [[Bridge Four - The Coppermind|Bridge Four]] and a third-Oath [Windrunner](https://coppermind.net/wiki/Windrunner "Windrunner").
+- [Lopen](https://coppermind.net/wiki/Lopen "Lopen"), the cheerful, one-armed member of [[Bridge Four - The Coppermind|Bridge Four]] and a third-Oath [[Order of Windrunners - The Coppermind|Windrunner]].
 - Lopen's multiple cousins, including [Punio](https://coppermind.net/wiki/Punio "Punio"), [Rod](https://coppermind.net/wiki/Rod_\(Roshar\) "Rod (Roshar)") and [Huio](https://coppermind.net/wiki/Huio "Huio").
 - [Kabsal](https://coppermind.net/wiki/Kabsal "Kabsal") might be Herdazian, as he has the accent.[^53]
 - [Havarah](https://coppermind.net/wiki/Havarah "Havarah"), [[Dalinar Kholin - The Coppermind|Dalinar's]] bridgelord, is part-Herdazian.[^35]

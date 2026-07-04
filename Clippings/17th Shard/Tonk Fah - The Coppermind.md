@@ -38,9 +38,9 @@ When [[Vivenna - The Coppermind|Vivenna]] arrives in [[T'Telir - The Coppermind|
 
 Tonk Fah and Denth were employed by Lemex in support of [Vahr's](https://coppermind.net/wiki/Vahr "Vahr") rebellion [^9], but were secretly poisoning him.[^10] Upon his death, Tonk Fah discreetly disposed of Lemex's body.[^1] Later, he helps ransack Lemex's home in search of his valuables and plans [^9] and helps guard Vivenna while she meets with Idrian slum lords [^4]. Behind the scenes, Tonk Fah has already killed at least three Idrian soldiers sent to retrieve [[Vivenna - The Coppermind|Vivenna]] from [Lemex's](https://coppermind.net/wiki/Lemex "Lemex") ransacked house.[^11]
 
-After [Parlin](https://coppermind.net/wiki/Parlin "Parlin") was tortured and killed by Tonk Fah [^12], [[Vivenna - The Coppermind|Vivenna]] escapes into the streets. During her escape attempt she first tried to awaken Tonk Fah's cloak, but due to a bad command this does not work; and she instead uses [Clod's](https://coppermind.net/wiki/Clod "Clod") lifeless command as a distraction. While starving on the streets, [[Vivenna - The Coppermind|Vivenna]] sees that the first soup kitchen she goes to is being watched by Tonk Fah, and thus she avoids going to any soup kitchens even while on the verge of death.[^13]
+After [Parlin](https://coppermind.net/wiki/Parlin "Parlin") was tortured and killed by Tonk Fah [^12], [[Vivenna - The Coppermind|Vivenna]] escapes into the streets. During her escape attempt she first tried to awaken Tonk Fah's cloak, but due to a bad command this does not work; and she instead uses [[Arsteel - The Coppermind|Clod's]] lifeless command as a distraction. While starving on the streets, [[Vivenna - The Coppermind|Vivenna]] sees that the first soup kitchen she goes to is being watched by Tonk Fah, and thus she avoids going to any soup kitchens even while on the verge of death.[^13]
 
-After [[Vivenna - The Coppermind|Vivenna]] sneaks into the [Court of the Gods](https://coppermind.net/wiki/Court_of_the_Gods "Court of the Gods") in order to help free [[Vasher - The Coppermind|Vasher]] with the guidance of [[Nightblood - The Coppermind|Nightblood]], she comes across [[Denth - The Coppermind|Denth]] torturing [[Vasher - The Coppermind|Vasher]], with Tonk Fah idly sleeping with his back against the wall. [[Vivenna - The Coppermind|Vivenna]] uses an Awakened rope to strangle Tonk Fah, which distracts [[Denth - The Coppermind|Denth]] as he moves to help Tonk Fah escape the binding.
+After [[Vivenna - The Coppermind|Vivenna]] sneaks into the [[Court of Gods - The Coppermind|Court of the Gods]] in order to help free [[Vasher - The Coppermind|Vasher]] with the guidance of [[Nightblood - The Coppermind|Nightblood]], she comes across [[Denth - The Coppermind|Denth]] torturing [[Vasher - The Coppermind|Vasher]], with Tonk Fah idly sleeping with his back against the wall. [[Vivenna - The Coppermind|Vivenna]] uses an Awakened rope to strangle Tonk Fah, which distracts [[Denth - The Coppermind|Denth]] as he moves to help Tonk Fah escape the binding.
 
 While Tonk Fah keeps an eye on [[Vivenna - The Coppermind|Vivenna]] during the duel between [[Denth - The Coppermind|Denth]] and [[Vasher - The Coppermind|Vasher]], she realizes that he was still wearing the same cloak she had placed her [[BioChromatic Breath - The Coppermind|BioChromatic Breath]] into. She uses this to distract [[Denth - The Coppermind|Denth]].[^3]
 
@@ -48,9 +48,9 @@ After [[Denth - The Coppermind|Denth]] is killed by [[Vasher - The Coppermind|Va
 
 ## Relationships
 
-He is in a mercenary band with [[Denth - The Coppermind|Denth]], [[Jewels - The Coppermind|Jewels]], and [Clod](https://coppermind.net/wiki/Clod "Clod").
+He is in a mercenary band with [[Denth - The Coppermind|Denth]], [[Jewels - The Coppermind|Jewels]], and [[Arsteel - The Coppermind|Clod]].
 
-As a part of [Denth's crew](https://coppermind.net/wiki/Denth%27s_crew "Denth's crew"), Tonk Fah temporarily pretends to be employed by and allied with Vivenna. In reality he is in the employ of [Bluefingers](https://coppermind.net/wiki/Bluefingers "Bluefingers").
+As a part of [Denth's crew](https://coppermind.net/wiki/Denth%27s_crew "Denth's crew"), Tonk Fah temporarily pretends to be employed by and allied with Vivenna. In reality he is in the employ of [[Havarseth - The Coppermind|Bluefingers]].
 
 He is not fond of Jewels.[^9]
 

@@ -14,7 +14,7 @@ favicon: "/favicon.ico"
 
 This article is about a nation on Roshar. For the slumlord of Hallandren, see [Rira (character)](https://coppermind.net/wiki/Rira_\(character\) "Rira (character)").
 
-**Rira** is a kingdom in northwestern [[Roshar - The Coppermind|Roshar]], bordering [[Iri - The Coppermind|Iri]] and [Babatharnam](https://coppermind.net/wiki/Babatharnam "Babatharnam").[^1] Formerly a part of the [[Silver Kingdoms - The Coppermind|Silver Kingdom]] of Iri, the people of Rira have a distinct appearance, with blond hair and light skin.[^2] Their culture is also unique, and incorporates certain aspects of both Iriali and [Vorin](https://coppermind.net/wiki/Vorin "Vorin") tradition.[^3]
+**Rira** is a kingdom in northwestern [[Roshar - The Coppermind|Roshar]], bordering [[Iri - The Coppermind|Iri]] and [Babatharnam](https://coppermind.net/wiki/Babatharnam "Babatharnam").[^1] Formerly a part of the [[Silver Kingdoms - The Coppermind|Silver Kingdom]] of Iri, the people of Rira have a distinct appearance, with blond hair and light skin.[^2] Their culture is also unique, and incorporates certain aspects of both Iriali and [[Vorinism - The Coppermind|Vorin]] tradition.[^3]
 
 ## Geography and Ecology
 
@@ -74,9 +74,9 @@ Rirans are kindly people who express affection openly, and it’s common to see 
 
 ### Religion
 
-Rira seems to be ideologically and religiously distinct from both the Iriali and the [Vorin](https://coppermind.net/wiki/Vorin "Vorin") nations to the east. Some Rirans have a belief system that incorporates parts of each of these religions, while others feel that neither doctrine applies to their people.[^10] [^3]
+Rira seems to be ideologically and religiously distinct from both the Iriali and the [[Vorinism - The Coppermind|Vorin]] nations to the east. Some Rirans have a belief system that incorporates parts of each of these religions, while others feel that neither doctrine applies to their people.[^10] [^3]
 
-Evi believes in the Iri concept of the [One](https://coppermind.net/wiki/One "One") but also seems to worship the [Heralds](https://coppermind.net/wiki/Herald "Herald").[^10] The Riran faith refers to the Heralds of [[Jezrien - The Coppermind|Jezrien]] and [[Kalak - The Coppermind|Kalak]] as [Yaysi](https://coppermind.net/wiki/Yaysi "Yaysi") and [Kellai](https://coppermind.net/wiki/Kellai "Kellai"), and she does not pray to the [Almighty](https://coppermind.net/wiki/Almighty "Almighty"). She burns [glyphwards](https://coppermind.net/wiki/Glyphward "Glyphward"), but she is careful to use fragrant paper that also serves as incense.[^10] [^23] She also refers to an unknown entity named [Shishi](https://coppermind.net/wiki/Shishi_\(Roshar\) "Shishi (Roshar)").[^24]
+Evi believes in the Iri concept of the [[Iri - The Coppermind|One]] but also seems to worship the [Heralds](https://coppermind.net/wiki/Herald "Herald").[^10] The Riran faith refers to the Heralds of [[Jezrien - The Coppermind|Jezrien]] and [[Kalak - The Coppermind|Kalak]] as [[Jezrien - The Coppermind|Yaysi]] and [[Kalak - The Coppermind|Kellai]], and she does not pray to the [[Honor - The Coppermind|Almighty]]. She burns [glyphwards](https://coppermind.net/wiki/Glyphward "Glyphward"), but she is careful to use fragrant paper that also serves as incense.[^10] [^23] She also refers to an unknown entity named [Shishi](https://coppermind.net/wiki/Shishi_\(Roshar\) "Shishi (Roshar)").[^24]
 
 Rirans have superstitions surrounding bad memories being stored in their skin, requiring one to rub them off with a stone once a month.[^23]
 

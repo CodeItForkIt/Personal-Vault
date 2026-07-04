@@ -16,7 +16,7 @@ favicon: /favicon.ico
 ---
 ## Aluminum
 
-**Aluminum** is the internal enhancement pulling metal. An [[Allomancy - The Coppermind|Allomancer]] burning aluminum will make all of their metal reserves vanish.[^1] [Feruchemists](https://coppermind.net/wiki/Feruchemist "Feruchemist") can use aluminum to store [[Identity - The Coppermind|Identity]], and when used as a [[Hemalurgic chimera - The Coppermind|Hemalurgic]] spike, aluminum removes all powers. It is known as **Ralkalest** in the [[Rose Empire - The Coppermind|Rose Empire]] on [[Sel - The Coppermind|Sel]] and among [singers](https://coppermind.net/wiki/Singers "Singers"),[^2] [^3] as **the unForgeable metal** in the Rose Empire,[^2] and historically as **starmetal** in [Azir](https://coppermind.net/wiki/Azir "Azir").[^4]
+**Aluminum** is the internal enhancement pulling metal. An [[Allomancy - The Coppermind|Allomancer]] burning aluminum will make all of their metal reserves vanish.[^1] [[Feruchemy - The Coppermind|Feruchemists]] can use aluminum to store [[Identity - The Coppermind|Identity]], and when used as a [[Hemalurgic chimera - The Coppermind|Hemalurgic]] spike, aluminum removes all powers. It is known as **Ralkalest** in the [[Rose Empire - The Coppermind|Rose Empire]] on [[Sel - The Coppermind|Sel]] and among [[Singer - The Coppermind|singers]],[^2] [^3] as **the unForgeable metal** in the Rose Empire,[^2] and historically as **starmetal** in [Azir](https://coppermind.net/wiki/Azir "Azir").[^4]
 
 Aluminum has been confirmed to have strange effects to all magic systems, is magically inert, and will act as an [[Investiture - The Coppermind|Investiture]] block.[^5]
 
@@ -24,7 +24,7 @@ The paired alloy of aluminum used in the Metallic Arts is [[Duralumin - The Copp
 
 ## Allomantic Use
 
-An aluminum [Misting](https://coppermind.net/wiki/Misting "Misting") is known as an **Aluminum Gnat**. Burning aluminum causes the body to instantly metabolize its metal reserves—including the aluminum itself—without any other effect.[^6] As such, an Aluminum Gnat gains no useable powers from their Allomancy,[^7] however, it can be used to negate effects of other Investiture, such as the withering effect of [Shades](https://coppermind.net/wiki/Shade "Shade") on [[Threnody - The Coppermind|Threnody]].[^8] Only Allomantically relevant metals can be burned away.[^9] Allomancy does not affect aluminum even though the metal itself is Allomantically viable.[^10]
+An aluminum [[Allomancy - The Coppermind|Misting]] is known as an **Aluminum Gnat**. Burning aluminum causes the body to instantly metabolize its metal reserves—including the aluminum itself—without any other effect.[^6] As such, an Aluminum Gnat gains no useable powers from their Allomancy,[^7] however, it can be used to negate effects of other Investiture, such as the withering effect of [Shades](https://coppermind.net/wiki/Shade "Shade") on [[Threnody - The Coppermind|Threnody]].[^8] Only Allomantically relevant metals can be burned away.[^9] Allomancy does not affect aluminum even though the metal itself is Allomantically viable.[^10]
 
 ### Savantism
 
@@ -32,7 +32,7 @@ If someone were able to burn the amount of aluminum needed to become an Allomant
 
 ## Feruchemical Use
 
-An aluminum [Ferring](https://coppermind.net/wiki/Ferring "Ferring") is known as a **Trueself**. Aluminum is used to store "spiritual sense of [[Identity - The Coppermind|Identity]]." This ability is not fully understood, and is rarely discussed outside of Terris communities.[^7] A Trueself who fills an aluminummind to the point where they have no Identity and then fills another metalmind is able to produce a metalmind that any Feruchemist with the relevant power can tap. In a similar manner, a Feruchemist may be able to tap another person's metalminds by filling their own aluminummind completely.[^12] Trueselfs can heal damage done to them in the [[Cognitive Realm - The Coppermind|Cognitive Realm]] by storing Identity, but it takes a roundabout method.[^13] Storing Identity makes the Feruchemist more susceptible to many things, such as [[Forgery - The Coppermind|Forgery]].[^14]
+An aluminum [[Feruchemy - The Coppermind|Ferring]] is known as a **Trueself**. Aluminum is used to store "spiritual sense of [[Identity - The Coppermind|Identity]]." This ability is not fully understood, and is rarely discussed outside of Terris communities.[^7] A Trueself who fills an aluminummind to the point where they have no Identity and then fills another metalmind is able to produce a metalmind that any Feruchemist with the relevant power can tap. In a similar manner, a Feruchemist may be able to tap another person's metalminds by filling their own aluminummind completely.[^12] Trueselfs can heal damage done to them in the [[Cognitive Realm - The Coppermind|Cognitive Realm]] by storing Identity, but it takes a roundabout method.[^13] Storing Identity makes the Feruchemist more susceptible to many things, such as [[Forgery - The Coppermind|Forgery]].[^14]
 
 It is unclear why Identity can be stored in and withdrawn from an aluminummind when other Invested Arts cannot affect aluminum.
 
@@ -57,7 +57,7 @@ While aluminum doesn't always directly negate all magic systems, it does have ve
 - Allomantic [[Bendalloy - The Coppermind|Bendalloy]] / [[Cadmium - The Coppermind|Cadmium]]: An object made out of aluminum can create dead zones within [[Cadmium - The Coppermind#Allomantic use|cadmium]] and [[Bendalloy - The Coppermind#Allomantic Use|bendalloy]] bubbles, where the shielded area is not included within the time bubble.[^25]
 - Allomantic [[Atium - The Coppermind|Atium]]: Objects made out of aluminum generate no Atium shadows.[^26]
 - [[Hemalurgy - The Coppermind|Hemalurgic]] spikes: It is possible that encasing Hemalurgic spikes in aluminum may prevent Hemalurgic decay.[^27]
-- [Primer cube](https://coppermind.net/wiki/Primer_cube "Primer cube"): If used in a primer cube, aluminum would block the use of Invested Arts within a certain range.[^28]
+- [[Harmonium - The Coppermind|Primer cube]]: If used in a primer cube, aluminum would block the use of Invested Arts within a certain range.[^28]
 
 ### Sel
 
@@ -65,11 +65,11 @@ While aluminum doesn't always directly negate all magic systems, it does have ve
 
 ### Roshar
 
-- [[Surgebinding - The Coppermind|Surgebinding]]: Aluminum cannot be affected by the [[Surgebinding - The Coppermind|Surges]] [Adhesion](https://coppermind.net/wiki/Adhesion "Adhesion") or [Gravitation](https://coppermind.net/wiki/Gravitation "Gravitation").[^30] It interferes with most Radiant powers.[^31] Aluminum can be produced with [[Soulcasting - The Coppermind|Soulcasting]].[^32] [^33] However, aluminum resists attempts to Soulcast it into other [Essences](https://coppermind.net/wiki/Ten_Essences "Ten Essences").[^34] It can prevent Soulcasting from being detected by others.[^35]
+- [[Surgebinding - The Coppermind|Surgebinding]]: Aluminum cannot be affected by the [[Surgebinding - The Coppermind|Surges]] [[Surgebinding - The Coppermind|Adhesion]] or [[Surgebinding - The Coppermind|Gravitation]].[^30] It interferes with most Radiant powers.[^31] Aluminum can be produced with [[Soulcasting - The Coppermind|Soulcasting]].[^32] [^33] However, aluminum resists attempts to Soulcast it into other [Essences](https://coppermind.net/wiki/Ten_Essences "Ten Essences").[^34] It can prevent Soulcasting from being detected by others.[^35]
 - [Shardblade](https://coppermind.net/wiki/Shardblade "Shardblade"): Shardblades are unable to cut aluminum through magical means but would be able to cut it physically, like a conventional blade, if the aluminum were thin enough.[^36] [^31] [^37] A room lined with aluminum can also stop a Shardblade from being summoned, but only if the entire room is covered.[^38] [^39] This will also prevent the Shardbearer and their Blade from sensing each other.[^40] [^41]
-- [[Fabrial - The Coppermind|Fabrial]]: Aluminum can block [spanreed](https://coppermind.net/wiki/Spanreed "Spanreed") communication.[^35] It cannot prevent [Light](https://coppermind.net/wiki/Light "Light") leakage, as it is leaking directly into the Spiritual Realm.[^42] Aluminum interferes with the spren's ability to sense thoughts.[^43] By placing aluminum foil in a fabrial, each axis of motion and rotation could be blocked separately by proper application. This allows certain, but not all, functions to be blocked.[^44]
+- [[Fabrial - The Coppermind|Fabrial]]: Aluminum can block [spanreed](https://coppermind.net/wiki/Spanreed "Spanreed") communication.[^35] It cannot prevent [[Lights|Light]] leakage, as it is leaking directly into the Spiritual Realm.[^42] Aluminum interferes with the spren's ability to sense thoughts.[^43] By placing aluminum foil in a fabrial, each axis of motion and rotation could be blocked separately by proper application. This allows certain, but not all, functions to be blocked.[^44]
 - [[Spren - The Coppermind|Spren]]: A room lined with aluminum will stop spren from entering.[^40] Boxes lined with aluminum allow spren to move between planets in the [Rosharan system](https://coppermind.net/wiki/Rosharan_system "Rosharan system") if transported via [Shadesmar](https://coppermind.net/wiki/Shadesmar "Shadesmar").[^45]
-- [Light](https://coppermind.net/wiki/Light "Light"): Boxes lined with aluminum allow Light to move between planets in the Rosharan system if transported via Shadesmar.[^45]
+- [[Lights|Light]]: Boxes lined with aluminum allow Light to move between planets in the Rosharan system if transported via Shadesmar.[^45]
 
 ### Nalthis
 
@@ -99,7 +99,7 @@ Aluminum is known as ralkalest in the [[Rose Empire - The Coppermind|Rose Empire
 
 ### Pre Catacendre
 
-The [Lord Ruler](https://coppermind.net/wiki/Lord_Ruler "Lord Ruler") kept aluminum and its alloy [[Duralumin - The Coppermind|duralumin]] from public knowledge to give the [Inquisitors](https://coppermind.net/wiki/Inquisitors "Inquisitors") an advantage.[^51] During his rule, aluminum was harvested from the [Ashmounts](https://coppermind.net/wiki/Ashmounts "Ashmounts").[^12]
+The [[Rashek - The Coppermind|Lord Ruler]] kept aluminum and its alloy [[Duralumin - The Coppermind|duralumin]] from public knowledge to give the [[Steel Inquisitor - The Coppermind|Inquisitors]] an advantage.[^51] During his rule, aluminum was harvested from the [Ashmounts](https://coppermind.net/wiki/Ashmounts "Ashmounts").[^12]
 
 ### Nalthis
 
@@ -113,9 +113,9 @@ The Knights Radiant once lined tunnels deep beneath [[Urithiru - The Coppermind|
 
 The [Unkalaki](https://coppermind.net/wiki/Unkalaki "Unkalaki") people are able to obtain aluminum by trading with the spren world, and are aware that it has an effect on spren.[^43]
 
-[[Vasher - The Coppermind|Vasher]] and [[Gavilar Kholin - The Coppermind|Gavilar]] discovered that boxes lined with aluminum could allow [Light](https://coppermind.net/wiki/Light "Light") and spren to move between planets in the [Rosharan system](https://coppermind.net/wiki/Rosharan_system "Rosharan system") if transported via [Shadesmar](https://coppermind.net/wiki/Shadesmar "Shadesmar").[^45]
+[[Vasher - The Coppermind|Vasher]] and [[Gavilar Kholin - The Coppermind|Gavilar]] discovered that boxes lined with aluminum could allow [[Lights|Light]] and spren to move between planets in the [Rosharan system](https://coppermind.net/wiki/Rosharan_system "Rosharan system") if transported via [Shadesmar](https://coppermind.net/wiki/Shadesmar "Shadesmar").[^45]
 
-Highmarshal Azure was given metal sheets by [Wit](https://coppermind.net/wiki/Wit "Wit") during her time in Kholinar that were possibly aluminum. When lining a room, they allowed for the use of Soulcasting [[Fabrial - The Coppermind|fabrials]] without detection by the [[Voidspren - The Coppermind|Voidspren]].[^35] A [[Fused - The Coppermind|Fused]] used Nightblood's sheath to block an attack from [[Szeth - The Coppermind|Szeth]], who was wielding Nightblood.[^37]
+Highmarshal Azure was given metal sheets by [[Hoid - The Coppermind|Wit]] during her time in Kholinar that were possibly aluminum. When lining a room, they allowed for the use of Soulcasting [[Fabrial - The Coppermind|fabrials]] without detection by the [[Voidspren - The Coppermind|Voidspren]].[^35] A [[Fused - The Coppermind|Fused]] used Nightblood's sheath to block an attack from [[Szeth - The Coppermind|Szeth]], who was wielding Nightblood.[^37]
 
 An aluminum box was used to secure the gemstone containing [Nergaoul](https://coppermind.net/wiki/Nergaoul "Nergaoul"), which was then sunk to the bottom of the ocean, to prevent the Unmade from being released again.[^54]
 

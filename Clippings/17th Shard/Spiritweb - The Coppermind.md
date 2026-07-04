@@ -14,7 +14,7 @@ favicon: "/favicon.ico"
 
 > “ *The actual outlet of the power is not chosen by the practitioner, but instead is hardwritten into their spiritweb.* ”
 > 
-> — [Khriss](https://coppermind.net/wiki/Khriss "Khriss") [^1]
+> — [[Khrissalla - The Coppermind|Khriss]] [^1]
 
 The **spiritweb** is the network of [[Connection - The Coppermind|Connections]] and [[Investiture - The Coppermind|Investiture]] which make up the soul of a creature, place, object, or planet.[^2] Residing in the [[Spiritual Realm - The Coppermind|Spiritual Realm]], spiritwebs lack any tangible shape or size, with their borders defined by their [[Identity - The Coppermind|Identity]]. Contained within a spiritweb are various pieces, including **Spiritual DNA**, the **Spiritual aspect**, and one’s **Spiritual Ideal**.[^3] The Spiritweb is Connected to the [[Physical Realm - The Coppermind|Physical]] and [[Cognitive Realm - The Coppermind|Cognitive aspects]], and contains a Connection between both.[^4] [^5]
 
@@ -26,7 +26,7 @@ A person’s spiritweb, closely related to Spiritual DNA,[^6] makes up their pre
 
 ### Damaging and Healing
 
-A person's spiritweb can be damaged either through physical or emotional trauma. This creates "cracks" in the soul. It is easier for Shards to [Invest](https://coppermind.net/wiki/Invest "Invest") in people who are damaged in this way, as Investiture can enter the soul through these "cracks". This is why [Allomancers](https://coppermind.net/wiki/Allomancer "Allomancer") need to undergo [[Snapping - The Coppermind|Snapping]] in order to awaken their powers, and is implied to be the reason why [[Surgebinding - The Coppermind|Surgebinders]] tend to have psychological problems.[^13] [^14] [^15] Spiritwebs can be damaged with weapons like hemalurgic spikes and Shardblades. Those wounds can then be healed with a graft of Investiture. The healing process does leave a permanent wound on a person's spiritweb.[^16] Investing an object or person for a long period of time will warp and change their spiritweb.[^17] In humans, this process leads to [[Savant - The Coppermind|Savantism]].[^18]
+A person's spiritweb can be damaged either through physical or emotional trauma. This creates "cracks" in the soul. It is easier for Shards to [[Investiture - The Coppermind|Invest]] in people who are damaged in this way, as Investiture can enter the soul through these "cracks". This is why [[Allomancy - The Coppermind|Allomancers]] need to undergo [[Snapping - The Coppermind|Snapping]] in order to awaken their powers, and is implied to be the reason why [[Surgebinding - The Coppermind|Surgebinders]] tend to have psychological problems.[^13] [^14] [^15] Spiritwebs can be damaged with weapons like hemalurgic spikes and Shardblades. Those wounds can then be healed with a graft of Investiture. The healing process does leave a permanent wound on a person's spiritweb.[^16] Investing an object or person for a long period of time will warp and change their spiritweb.[^17] In humans, this process leads to [[Savant - The Coppermind|Savantism]].[^18]
 
 #### Healing the Physical
 
@@ -76,11 +76,11 @@ In Hemalurgy, portions of the spiritweb seem to be ripped off of one person and 
 
 ### Surgebinding
 
-A [[Surgebinding - The Coppermind|Surgebinder's]] [[Nahel bond - The Coppermind|Nahel bond]] involves a [[Spren - The Coppermind|spren]] attaching themselves to a person's spiritweb, merging more fully as the [[Surgebinding - The Coppermind|Surgebinder]] progresses in their [Oaths](https://coppermind.net/wiki/Immortal_Words "Immortal Words").[^40] <sup><i><a href="https://coppermind.net/wiki/Help:Cite" title="Help:Cite">[citation needed]</a></i></sup>
+A [[Surgebinding - The Coppermind|Surgebinder's]] [[Nahel bond - The Coppermind|Nahel bond]] involves a [[Spren - The Coppermind|spren]] attaching themselves to a person's spiritweb, merging more fully as the [[Surgebinding - The Coppermind|Surgebinder]] progresses in their [[Knights Radiant - The Coppermind|Oaths]].[^40] <sup><i><a href="https://coppermind.net/wiki/Help:Cite" title="Help:Cite">[citation needed]</a></i></sup>
 
 #### Bondsmithing
 
-A [Bondsmith](https://coppermind.net/wiki/Bondsmith "Bondsmith") that is bonded to the [[Stormfather - The Coppermind|Stormfather]] is able to read a person's spiritweb.[^41] The person's spiritweb appears to the Bondsmith as faintly glowing lines of varying thickness depending on the strength of the connection. It is currently unknown if other Bondsmiths share this ability.
+A [[Order of Bondsmiths - The Coppermind|Bondsmith]] that is bonded to the [[Stormfather - The Coppermind|Stormfather]] is able to read a person's spiritweb.[^41] The person's spiritweb appears to the Bondsmith as faintly glowing lines of varying thickness depending on the strength of the connection. It is currently unknown if other Bondsmiths share this ability.
 
 #### Soulcasting
 
@@ -88,7 +88,7 @@ Although it does not directly alter the spiritweb, [[Soulcasting - The Coppermin
 
 #### Regrowth
 
-[Regrowth](https://coppermind.net/wiki/Regrowth "Regrowth") allows for healing both the Physical form of a living thing and its spiritweb, as does a sufficient amount of Stormlight. This likely functions by restoring one’s physical form to the state of their Spiritual Ideal.[^19] Regrowth can even go so far as to reattach the soul of one recently deceased.[^43] [^44]
+[[Surgebinding - The Coppermind|Regrowth]] allows for healing both the Physical form of a living thing and its spiritweb, as does a sufficient amount of Stormlight. This likely functions by restoring one’s physical form to the state of their Spiritual Ideal.[^19] Regrowth can even go so far as to reattach the soul of one recently deceased.[^43] [^44]
 
 ### Shardblades
 

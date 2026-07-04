@@ -12,7 +12,7 @@ favicon: "/favicon.ico"
 ---
 ## Sand Lord
 
-The **Sand Lord**, sometimes referred to as the **Sun Lord**, is a deity worshipped on the [Dayside](https://coppermind.net/wiki/Dayside "Dayside") of [[Taldain - The Coppermind|Taldain]].[^1]
+The **Sand Lord**, sometimes referred to as the **Sun Lord**, is a deity worshipped on the [[Taldain - The Coppermind|Dayside]] of [[Taldain - The Coppermind|Taldain]].[^1]
 
 ## Religion and Culture
 
@@ -26,7 +26,7 @@ The Sand Lord plays a prominent role in the monotheistic [[Ker'reen - The Copper
 > 
 > — [[Kenton - The Coppermind|Kenton]] [^4]
 
-The upper class of Lossand known as the [Kelzin](https://coppermind.net/wiki/Kelzi "Kelzi") includes many Kerztian expatriates and other followers of Ker'reen.[^1] However, worship of the Sand Lord is not universal in the country. Notably, the [[Sand mastery - The Coppermind|sand masters]] of the [[Diem - The Coppermind|Diem]] are known to be agnostic.[^4] Still, all Daysiders feel a spiritual bond with the sun, including those that do not worship it.[^1] Lossandins commonly swear to the Sand Lord or invoke his name in everyday conversation; this includes [Lady Judge](https://coppermind.net/wiki/Lady_Judge "Lady Judge") [[Heelis - The Coppermind|Heelis]] [^5] and many sand masters, even including [[Taishin - The Coppermind#The Lord Mastrell|Lord Mastrell]] [[Praxton - The Coppermind|Praxton]].[^4]
+The upper class of Lossand known as the [Kelzin](https://coppermind.net/wiki/Kelzi "Kelzi") includes many Kerztian expatriates and other followers of Ker'reen.[^1] However, worship of the Sand Lord is not universal in the country. Notably, the [[Sand mastery - The Coppermind|sand masters]] of the [[Diem - The Coppermind|Diem]] are known to be agnostic.[^4] Still, all Daysiders feel a spiritual bond with the sun, including those that do not worship it.[^1] Lossandins commonly swear to the Sand Lord or invoke his name in everyday conversation; this includes [[Taishin - The Coppermind|Lady Judge]] [[Heelis - The Coppermind|Heelis]] [^5] and many sand masters, even including [[Taishin - The Coppermind#The Lord Mastrell|Lord Mastrell]] [[Praxton - The Coppermind|Praxton]].[^4]
 
 ### Role in International Relations
 
@@ -36,7 +36,7 @@ Kerztians hate the disbelievers of the Diem [^6] and regard sand mastery as an u
 
 The Sand Lord is actually a persona of the [[Shards|Shard]] of [[Adonalsium - The Coppermind|Adonalsium]] known as [[Autonomy - The Coppermind|Autonomy]] [^10] [^11] and its Vessel, [[Bavadin - The Coppermind|Bavadin]].[^12] [^13] It is one of many personas used by Bavadin; she prefers to let her personas attract attention rather than becoming directly involved, and wishes to crowd out the competition, out-competing other Shards by filling the Cosmere with versions of herself.[^14] [^15]
 
-[[Taldain - The Coppermind|Taldain's]] sunlight actually contains Autonomy's [[Investiture - The Coppermind|Investiture]].[^11] Autonomy's presence on Taldain currently prevents [worldhoppers](https://coppermind.net/wiki/Worldhopper "Worldhopper") from easily accessing the planet.[^11] [^16]
+[[Taldain - The Coppermind|Taldain's]] sunlight actually contains Autonomy's [[Investiture - The Coppermind|Investiture]].[^11] Autonomy's presence on Taldain currently prevents [[17th Shard|worldhoppers]] from easily accessing the planet.[^11] [^16]
 
 ## Notes
 

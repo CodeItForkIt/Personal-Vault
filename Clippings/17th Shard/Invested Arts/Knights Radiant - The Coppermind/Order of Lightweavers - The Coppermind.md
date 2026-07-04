@@ -36,7 +36,7 @@ While each order of Radiants contains a variety of personalities within it, thos
 > 
 > — [*Words of Radiance*](https://coppermind.net/wiki/Words_of_Radiance_\(in-world\) "Words of Radiance (in-world)"), chapter 12, page 12 [^5]
 
-The Ideals of the Knights Radiant, also known as the [Immortal Words](https://coppermind.net/wiki/Immortal_Words "Immortal Words"), are a set of rules by which the Radiants live. The First Ideal is shared by all of the orders, and is used as a motto for the Knights Radiant as a whole. Each of the orders then has an additional four Ideals that are unique to that order.[^6]
+The Ideals of the Knights Radiant, also known as the [[Knights Radiant - The Coppermind|Immortal Words]], are a set of rules by which the Radiants live. The First Ideal is shared by all of the orders, and is used as a motto for the Knights Radiant as a whole. Each of the orders then has an additional four Ideals that are unique to that order.[^6]
 
 The Ideals of the Order of Lightweavers are very different from those of the other orders. Instead of swearing oaths centered around a specific theme, Lightweavers instead speak individual truths about themselves. Some have theorized that Lightweavers' progression is tied to truth like this because their actions frequently blur the line between truth and lies and they need to learn to distinguish the two.[^4] [^2] It has also been posited that their more flexible Ideals are because they are closer to [[Cultivation - The Coppermind|Cultivation]] than [[Honor - The Coppermind|Honor]].[^3]
 
@@ -50,7 +50,7 @@ The Lightweavers share the first ideal with all other orders of Radiants, which 
 
 ### The Later Oaths of the Lightweavers
 
-The later ideals of the Lightweavers are related to speaking individual truths about themselves.[^7] Truths are related to deep introspection, along with a readiness to confront harsh personal realities.[^2] The second truth can be a simple emotional one, while later ones need to be more uncomfortable truths.[^8] At the third truth, a Lightweaver can manifest their Cryptic as a [Shardblade](https://coppermind.net/wiki/Shardblade "Shardblade").[^9] At the fourth truth, a Lightweaver gains their [[Shardplate - The Coppermind|Shardplate]], which is formed of [creationspren](https://coppermind.net/wiki/Creationspren "Creationspren").[^10]
+The later ideals of the Lightweavers are related to speaking individual truths about themselves.[^7] Truths are related to deep introspection, along with a readiness to confront harsh personal realities.[^2] The second truth can be a simple emotional one, while later ones need to be more uncomfortable truths.[^8] At the third truth, a Lightweaver can manifest their Cryptic as a [Shardblade](https://coppermind.net/wiki/Shardblade "Shardblade").[^9] At the fourth truth, a Lightweaver gains their [[Shardplate - The Coppermind|Shardplate]], which is formed of [[Spren - The Coppermind|creationspren]].[^10]
 
 ### Truths Spoken
 
@@ -62,7 +62,7 @@ If [[Elhokar Kholin - The Coppermind|Elhokar]] had lived long enough to speak hi
 
 ## Abilities
 
-> “ *As to the other orders that were inferior in this visiting of the far realm of spren, the [Elsecallers](https://coppermind.net/wiki/Elsecaller "Elsecaller") were prodigiously benevolent, allowing others as auxiliary to their visits and interactions; though they did never relinquish their place as prime liaisons with the great ones of the spren; and the Lightweavers and [Willshapers](https://coppermind.net/wiki/Willshaper "Willshaper") both also had an affinity to the same, though neither were true masters of that realm.* ”
+> “ *As to the other orders that were inferior in this visiting of the far realm of spren, the [Elsecallers](https://coppermind.net/wiki/Elsecaller "Elsecaller") were prodigiously benevolent, allowing others as auxiliary to their visits and interactions; though they did never relinquish their place as prime liaisons with the great ones of the spren; and the Lightweavers and [[Order of Willshapers - The Coppermind|Willshapers]] both also had an affinity to the same, though neither were true masters of that realm.* ”
 > 
 > — [*Words of Radiance*](https://coppermind.net/wiki/Words_of_Radiance_\(in-world\) "Words of Radiance (in-world)"), chapter 6, page 2 [^13]
 
@@ -78,7 +78,7 @@ Lightweavers are able to create a solid illusion by combining their Illumination
 
 ### Transformation
 
-[[Surgebinding - The Coppermind|**Transformation**]] can be manipulated to change an object into one of the ten essences.[^16] To [Soulcast](https://coppermind.net/wiki/Soulcast "Soulcast"), the Lightweaver shifts their perception to see into the [[Cognitive Realm - The Coppermind|Cognitive Realm]], and communicates with the Cognitive aspect of the object they want to transform.[^23] This is normally done through direct contact with an object, though it can be performed from a distance. Elsecallers are more skilled at doing this, though it is not impossible for a Lightweaver to be able to Soulcast from afar.[^24] Lightweavers tend to view Soulcasting differently from Elsecallers.[^19] Using this Surge, Lightweavers with a bond to two Cryptics are able to enter the Cogntive Realm, but are unable to bring others with them or return on their own.[^25] [^11]
+[[Surgebinding - The Coppermind|**Transformation**]] can be manipulated to change an object into one of the ten essences.[^16] To [[Soulcasting - The Coppermind|Soulcast]], the Lightweaver shifts their perception to see into the [[Cognitive Realm - The Coppermind|Cognitive Realm]], and communicates with the Cognitive aspect of the object they want to transform.[^23] This is normally done through direct contact with an object, though it can be performed from a distance. Elsecallers are more skilled at doing this, though it is not impossible for a Lightweaver to be able to Soulcast from afar.[^24] Lightweavers tend to view Soulcasting differently from Elsecallers.[^19] Using this Surge, Lightweavers with a bond to two Cryptics are able to enter the Cogntive Realm, but are unable to bring others with them or return on their own.[^25] [^11]
 
 ### Enlightened
 
@@ -86,7 +86,7 @@ Lightweavers who have had their Cryptic Enlightened by [[Sja-anat - The Coppermi
 
 ### Resonance
 
-Due to a combination of their two Surges, Lightweavers have an additional, secondary effect, known as a [[Resonance - The Coppermind 7|resonance]].[^28] [^21] [^29] The Lightweavers' resonance is mnemonic or sensory abilities.[^28] [^30] [^2] Prior to the [Recreance](https://coppermind.net/wiki/Recreance "Recreance"), the Lightweavers were particularly known for their mnemonic abilities, which were described as "strange and varied." [^1] In Shallan Davar, the Lightweaver resonance manifests as the ability to deliberately memorize a scene, after which she can paint or draw that scene with remarkable accuracy, thereby releasing the captured memory;[^31] [^32] [^33] there is an upper limit to how many memories she can store at once and her mind experiences some tension while holding them.[^34] [^35] Shallan also exhibits an excellent sense of direction and spatial awareness,[^36] [^37] [^38] which may be related to this ability. In Tien, the Lightweaver resonance manifests as an ability to experience light and color differently from most people.[^30]
+Due to a combination of their two Surges, Lightweavers have an additional, secondary effect, known as a [[Resonance - The Coppermind 7|resonance]].[^28] [^21] [^29] The Lightweavers' resonance is mnemonic or sensory abilities.[^28] [^30] [^2] Prior to the [[Day of Recreance - The Coppermind|Recreance]], the Lightweavers were particularly known for their mnemonic abilities, which were described as "strange and varied." [^1] In Shallan Davar, the Lightweaver resonance manifests as the ability to deliberately memorize a scene, after which she can paint or draw that scene with remarkable accuracy, thereby releasing the captured memory;[^31] [^32] [^33] there is an upper limit to how many memories she can store at once and her mind experiences some tension while holding them.[^34] [^35] Shallan also exhibits an excellent sense of direction and spatial awareness,[^36] [^37] [^38] which may be related to this ability. In Tien, the Lightweaver resonance manifests as an ability to experience light and color differently from most people.[^30]
 
 ### Nahel Bond Abilities
 
@@ -94,7 +94,7 @@ With a powerful enough bond, Lightweavers and Cyrptics are able to communicate w
 
 ### Shardplate Abilities
 
-Lightweaver's [[Shardplate - The Coppermind|Shardplate]] is formed of [creationspren](https://coppermind.net/wiki/Creationspren "Creationspren").[^10] The creationspren are able to resize and reshape the Shardplate based off of the Lightweaver's mental image of what they want.[^10] This includes making the design of the Plate sleeker, to using the helmet to amplify the Radiant's voice.[^41] [^42] The creationspren are able to form around another person their Lightweaver is touching, but this leaves them immobile.[^42] This can be used as a tactical advantage, keeping an enemy contained.[^43]
+Lightweaver's [[Shardplate - The Coppermind|Shardplate]] is formed of [[Spren - The Coppermind|creationspren]].[^10] The creationspren are able to resize and reshape the Shardplate based off of the Lightweaver's mental image of what they want.[^10] This includes making the design of the Plate sleeker, to using the helmet to amplify the Radiant's voice.[^41] [^42] The creationspren are able to form around another person their Lightweaver is touching, but this leaves them immobile.[^42] This can be used as a tactical advantage, keeping an enemy contained.[^43]
 
 After becoming armor spren, creationspren express some degree of personality and awareness, and are able to communicate feelings and impressions to their Lightweaver's mind.[^22] [^42] [^41] Creationspren bonded to a Lightweaver are able to freely change their shape, and often appear as the beads of Shadesmar.[^10] [^44] They can also be used as a model for the Lightweaver to command regular Shadesmar beads into a specific shape.[^22] [^10]
 

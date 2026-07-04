@@ -14,7 +14,7 @@ favicon: /favicon.ico
 ---
 ## Kiin
 
-**Kiin** is a [Teo](https://coppermind.net/wiki/Teo "Teo") sailor and merchant on [[Sel - The Coppermind|Sel]].[^1] His name is based on [[Aon - The Coppermind#Kii|Aon Kii]], meaning "justice." Kiin is [[Sarene - The Coppermind|Sarene's]] uncle and the rightful king of Teod. He is also known by the name **Dreok Crushthroat** from his time as a pirate, though he meant for the name to be **Crushedthroat** for his scratchy voice.[^2]
+**Kiin** is a [[Teod - The Coppermind|Teo]] sailor and merchant on [[Sel - The Coppermind|Sel]].[^1] His name is based on [[Aon - The Coppermind#Kii|Aon Kii]], meaning "justice." Kiin is [[Sarene - The Coppermind|Sarene's]] uncle and the rightful king of Teod. He is also known by the name **Dreok Crushthroat** from his time as a pirate, though he meant for the name to be **Crushedthroat** for his scratchy voice.[^2]
 
 ## Appearance and Personality
 
@@ -24,7 +24,7 @@ As a younger man, Kiin had a reputation as an adventuring sailor and a heroic fi
 
 ## Attributes and Abilities
 
-Kiin is extremely skilled with his axe--sufficiently so to kill a monk of [Dakhor Monastery](https://coppermind.net/wiki/Dakhor_Monastery "Dakhor Monastery").[^2]
+Kiin is extremely skilled with his axe--sufficiently so to kill a monk of [[Shu-Dereth - The Coppermind|Dakhor Monastery]].[^2]
 
 He is an extremely skilled cook, able to make cuisine of many countries. The fact that he cooks for his family is abnormal in [[Arelon - The Coppermind|Arelon]], where nobility usually hire cooks to do the job. He fears servants due to the revolution started primarily by servants during the [[Reod - The Coppermind|Reod]].[^1]
 

@@ -26,7 +26,7 @@ According to Shallan, Testament was a kindly and friendly spren.[^5]
 
 ## Abilities and Attributes
 
-Being a Cryptic, Testament is able to form [[Nahel bond - The Coppermind|Nahel bonds]] with humans. This gives the bonded human access to the [Surges](https://coppermind.net/wiki/Surges "Surges") of the [[Order of Lightweavers - The Coppermind|Order of Lightweavers]], namely [Illumination](https://coppermind.net/wiki/Illumination "Illumination") and [Transformation](https://coppermind.net/wiki/Transformation "Transformation").
+Being a Cryptic, Testament is able to form [[Nahel bond - The Coppermind|Nahel bonds]] with humans. This gives the bonded human access to the [[Surgebinding - The Coppermind|Surges]] of the [[Order of Lightweavers - The Coppermind|Order of Lightweavers]], namely [[Surgebinding - The Coppermind|Illumination]] and [[Surgebinding - The Coppermind|Transformation]].
 
 ## History
 

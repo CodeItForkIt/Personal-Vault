@@ -16,11 +16,11 @@ favicon: /favicon.ico
 ---
 ## Bendalloy
 
-**Bendalloy** is the External Temporal Pushing metal. An [Allomancer](https://coppermind.net/wiki/Allomancer "Allomancer") burning bendalloy is able to squeeze time in a bubble around them, making it pass more quickly. [Feruchemists](https://coppermind.net/wiki/Feruchemist "Feruchemist") can use bendalloy to store nutritional energy, and when used as a [[Hemalurgic chimera - The Coppermind|Hemalurgic]] spike, bendalloy steals Spiritual Feruchemical powers. It is an alloy of [[Cadmium - The Coppermind|cadmium]] and bismuth [^1] and the alloy paired with cadmium in the Metallic Arts.
+**Bendalloy** is the External Temporal Pushing metal. An [[Allomancy - The Coppermind|Allomancer]] burning bendalloy is able to squeeze time in a bubble around them, making it pass more quickly. [[Feruchemy - The Coppermind|Feruchemists]] can use bendalloy to store nutritional energy, and when used as a [[Hemalurgic chimera - The Coppermind|Hemalurgic]] spike, bendalloy steals Spiritual Feruchemical powers. It is an alloy of [[Cadmium - The Coppermind|cadmium]] and bismuth [^1] and the alloy paired with cadmium in the Metallic Arts.
 
 ## Allomantic Use
 
-A bendalloy [Misting](https://coppermind.net/wiki/Misting "Misting") is known as a **Slider**. Burning bendalloy pushes on time around the user, causing time to pass more quickly in a bubble around them. Events outside the bubble appear to move much slower to someone inside.[^2]
+A bendalloy [[Allomancy - The Coppermind|Misting]] is known as a **Slider**. Burning bendalloy pushes on time around the user, causing time to pass more quickly in a bubble around them. Events outside the bubble appear to move much slower to someone inside.[^2]
 
 When a bendalloy bubble and a [[Cadmium - The Coppermind|cadmium]] bubble occur in the same place, their effects cancel out resulting in no change whilst still burning the metals used.[^3] [^4] The time bubble created by a Slider is approximately five to fifteen feet across and is smaller than that possible while burning cadmium.[^5] Careful examination may reveal the edge of the bubble, where air appears to shimmer. As long as some part of a person is inside the speed bubble, they will be included in its effect.[^5]
 
@@ -36,7 +36,7 @@ If someone were able to burn the amount of bendalloy needed to become an Alloman
 
 ## Feruchemical Use
 
-A bendalloy [Ferring](https://coppermind.net/wiki/Ferring "Ferring") is known as a **Subsumer**. Bendalloy is used to store nutrition and calories. While filling a bendalloymind, a Subsumer is able to eat large quantities of food without becoming full. Tapping such a metalmind will allow the user to go without food. A separate bendalloymind can be used to store fluid intake.[^2]
+A bendalloy [[Feruchemy - The Coppermind|Ferring]] is known as a **Subsumer**. Bendalloy is used to store nutrition and calories. While filling a bendalloymind, a Subsumer is able to eat large quantities of food without becoming full. Tapping such a metalmind will allow the user to go without food. A separate bendalloymind can be used to store fluid intake.[^2]
 
 ### Compounding
 
@@ -48,7 +48,7 @@ When used as a Hemalurgic spike, bendalloy steals Spiritual Feruchemical powers 
 
 ## History
 
-During the [[Final Empire - The Coppermind|Final Empire]], [[Cadmium - The Coppermind|cadmium]] and bendalloy were inaccessible and unknown to Allomancers, though they were possibly known to the [Lord Ruler](https://coppermind.net/wiki/Lord_Ruler "Lord Ruler").[^24] The fact that technology at the time couldn't create the metals made Mistings of these types impossible to discover.
+During the [[Final Empire - The Coppermind|Final Empire]], [[Cadmium - The Coppermind|cadmium]] and bendalloy were inaccessible and unknown to Allomancers, though they were possibly known to the [[Rashek - The Coppermind|Lord Ruler]].[^24] The fact that technology at the time couldn't create the metals made Mistings of these types impossible to discover.
 
 After the [[Catacendre - The Coppermind|Catacendre]], advancement in technology eventually made the metals available, although they were still very expensive, with a single nugget of bendalloy during the fourth century [[Catacendre - The Coppermind|PC]] on Scadrial costing around five hundred notes.[^4] This led to most Sliders being unpracticed with their powers.[^15] Bendalloy gradually became more and more common, and by the fourth century PC; there were even restaurants popping up that made use of Slider cooks.[^25]
 

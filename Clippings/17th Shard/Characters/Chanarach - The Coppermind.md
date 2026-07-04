@@ -19,7 +19,7 @@ favicon: /favicon.ico
 > 
 > — [[Dalinar Kholin - The Coppermind|Dalinar]] [^3]
 
-**Chanarach**, known as **Chanaranach'Elin** in Vorinism and nicknamed **Chana**, is one of the ten [Heralds](https://coppermind.net/wiki/Herald "Herald") of the [Almighty](https://coppermind.net/wiki/Almighty "Almighty") on [[Roshar - The Coppermind|Roshar]], and the patron of the [[Order of Dustbringers - The Coppermind|Order of Dustbringers]].[^4] [^5] In more recent times, she married [Lin Davar](https://coppermind.net/wiki/Lin_Davar "Lin Davar") and lived with him on the Davar Estate with their four children and Lin's eldest son whom he had with another woman.[^6]
+**Chanarach**, known as **Chanaranach'Elin** in Vorinism and nicknamed **Chana**, is one of the ten [Heralds](https://coppermind.net/wiki/Herald "Herald") of the [[Honor - The Coppermind|Almighty]] on [[Roshar - The Coppermind|Roshar]], and the patron of the [[Order of Dustbringers - The Coppermind|Order of Dustbringers]].[^4] [^5] In more recent times, she married [Lin Davar](https://coppermind.net/wiki/Lin_Davar "Lin Davar") and lived with him on the Davar Estate with their four children and Lin's eldest son whom he had with another woman.[^6]
 
 ## Appearance and Personality
 
@@ -33,25 +33,25 @@ During the early years of their time on Roshar, Chana had the disposition of a s
 
 by [Shuravf](https://coppermind.net/wiki/Coppermind:Artists/Shuravf "Coppermind:Artists/Shuravf")
 
-As a [Herald](https://coppermind.net/wiki/Herald "Herald"), Chanaranach is immortal and capable of returning from death, though at the cost of a Desolation.[^17] She was a capable fighter, and wielded an [[Honorblade - The Coppermind|Honorblade]] that made her a [[Surgebinding - The Coppermind|Surgebinder]], granting her the use of the [[Surgebinding - The Coppermind|Surges]] of [Division](https://coppermind.net/wiki/Division "Division") and [Abrasion](https://coppermind.net/wiki/Abrasion "Abrasion").[^18] She has discarded her Blade, however, leaving her without Surgebinding.[^19]
+As a [Herald](https://coppermind.net/wiki/Herald "Herald"), Chanaranach is immortal and capable of returning from death, though at the cost of a Desolation.[^17] She was a capable fighter, and wielded an [[Honorblade - The Coppermind|Honorblade]] that made her a [[Surgebinding - The Coppermind|Surgebinder]], granting her the use of the [[Surgebinding - The Coppermind|Surges]] of [[Surgebinding - The Coppermind|Division]] and [[Surgebinding - The Coppermind|Abrasion]].[^18] She has discarded her Blade, however, leaving her without Surgebinding.[^19]
 
 Perhaps due to her power over Abrasion, Chanarach is known for being incredibly fast, as [Fleet](https://coppermind.net/wiki/Fleet "Fleet") beating her in a foot race is considered a noteworthy achievement.[^2]
 
 ## History
 
-She lived in [[Shinovar - The Coppermind|Shinovar]] for a period, before humanity began to expand outward, inciting a war between the humans and the [singers](https://coppermind.net/wiki/Singers "Singers").[^17] She was [[Jezrien - The Coppermind|Jezrien's]] bodyguard during the early years of their time on Roshar and perhaps when they lived on Ashyn as well.[^20] She and Ishar were among Jezrien's inner circle, even among the other Heralds.[^21]
+She lived in [[Shinovar - The Coppermind|Shinovar]] for a period, before humanity began to expand outward, inciting a war between the humans and the [[Singer - The Coppermind|singers]].[^17] She was [[Jezrien - The Coppermind|Jezrien's]] bodyguard during the early years of their time on Roshar and perhaps when they lived on Ashyn as well.[^20] She and Ishar were among Jezrien's inner circle, even among the other Heralds.[^21]
 
 ### Herald of the Almighty
 
 When humans and singers went to war, she and nine other people were made Heralds by [[Honor - The Coppermind|Honor]], forming the [[Oathpact - The Coppermind|Oathpact]]. Following every [[Desolation - The Coppermind|Desolation]], she would travel to [[Braize - The Coppermind|Braize]] and be tortured there until either she or one of the other Heralds broke, sending them back to Roshar and starting a new Desolation. This cycle went on for thousands of years, gradually wearing on her sanity, along with that of all the other Heralds.[^17]
 
-At [Aharietiam](https://coppermind.net/wiki/Aharietiam "Aharietiam"), the Last Desolation, Chanarach, like the rest, abandoned the [[Oathpact - The Coppermind|Oathpact]], leaving her [[Honorblade - The Coppermind|Honorblade]] at the location of the final battle and departing for parts unknown.[^19] What happened to her afterwards is unknown, though she has been seen alive.[^22]
+At [[Last Desolation - The Coppermind|Aharietiam]], the Last Desolation, Chanarach, like the rest, abandoned the [[Oathpact - The Coppermind|Oathpact]], leaving her [[Honorblade - The Coppermind|Honorblade]] at the location of the final battle and departing for parts unknown.[^19] What happened to her afterwards is unknown, though she has been seen alive.[^22]
 
 ### Homemaker
 
 At some point, Chana married Lin Davar and took his last name. She had four children with him: [[Balat Davar - The Coppermind|Balat]], [[Wikim Davar - The Coppermind|Wikim]], [[Jushu Davar - The Coppermind|Jushu]] and [[Shallan Davar - The Coppermind|Shallan]], the oldest Davar son [[Helaran Davar - The Coppermind|Helaran]] having been a bastard of Lin's with another woman.[^16] Despite this, it seems Chana raised Helaran as her own, as he called her mother and was upset at her passing.
 
-During this time, Chana had frequent visits from a man named Dreder. The servants gossiped that Chana was having a secret affair with him, but in reality he was a [Skybreaker](https://coppermind.net/wiki/Skybreaker "Skybreaker") acolyte in the service of the Herald [[Nale - The Coppermind|Nale]].[^23]
+During this time, Chana had frequent visits from a man named Dreder. The servants gossiped that Chana was having a secret affair with him, but in reality he was a [[Order of Skybreakers - The Coppermind|Skybreaker]] acolyte in the service of the Herald [[Nale - The Coppermind|Nale]].[^23]
 
 ### The Night of King Gavilar's Assassination
 

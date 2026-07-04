@@ -14,7 +14,7 @@ favicon: "/favicon.ico"
 
 The **Rose Empire** is a nation on [[Sel - The Coppermind|Sel]]. It is on the same continent as [[Teod - The Coppermind|Teod]], but separated from it by mountains.[^1] The Rose Empire is ruled by the Emperor of Eighty Suns, who sits on the Rose Throne.[^2] [^3] The reigning emperor during the time of [[Wan ShaiLu - The Coppermind|Shai's]] imprisonment was [[Ashravan - The Coppermind|Emperor Ashravan]], the 49th Emperor of the Imperial dynasty.[^2] The lifespan of Rose Empire's dynasty is thus estimated to be within the range of 1000 to 3500 years at that point, given the lifespan of a [[Grand Apparatus - The Coppermind|Grand]].
 
-The Rose Empire maintains trade with the states of [Sycla](https://coppermind.net/wiki/Sycla "Sycla"),[^1] but has a more strained relationship with [[Svorden - The Coppermind|Svorden]]. Svorden had sent a table as a gift to Emperor Ashravan's predecessor, but the poor relationship with Svorden caused the emperor to lock it away.[^4]
+The Rose Empire maintains trade with the states of [[Sel - The Coppermind|Sycla]],[^1] but has a more strained relationship with [[Svorden - The Coppermind|Svorden]]. Svorden had sent a table as a gift to Emperor Ashravan's predecessor, but the poor relationship with Svorden caused the emperor to lock it away.[^4]
 
 They know of the concept of mass production, and used it in collusion with [[Forgery - The Coppermind|Remembering]] to create complex works in quantity.[^5]
 

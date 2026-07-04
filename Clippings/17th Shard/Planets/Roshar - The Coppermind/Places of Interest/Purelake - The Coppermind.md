@@ -17,7 +17,7 @@ favicon: /favicon.ico
 > 
 > — [[Szeth - The Coppermind|Szeth's]] description of the Purelake [^1]
 
-The **Purelake** is a shallow inland lake located in north central [[Roshar - The Coppermind|Roshar]].[^2] The people of the region are known as **Purelakers** and are ethnically [Selay](https://coppermind.net/wiki/Selay "Selay").[^3]
+The **Purelake** is a shallow inland lake located in north central [[Roshar - The Coppermind|Roshar]].[^2] The people of the region are known as **Purelakers** and are ethnically [[Sela Tales - The Coppermind|Selay]].[^3]
 
 The Purelake is influenced, in some way, by [[Cultivation - The Coppermind|Cultivation]], although it predates her.[^4] It is unknown if she has a secondary [[Perpendicularity - The Coppermind|perpendicularity]] in the Purelake.[^5]
 
@@ -47,7 +47,7 @@ It can be observed that the Selay word *Fu* is in some way related to settlement
 
 #### Other Locations
 
-Large structures have previously existed on the Purelake, though their continued existence is questioned by scholars. A large obsidian fortress once existed somewhere on the lake, prior to the [Recreance](https://coppermind.net/wiki/Recreance "Recreance"), but it is believed to have been destroyed. Modern-day Purelakers still speak of large structures existing on the lake, although this is dismissed by those outside the region as mythology.[^10] This fortress is not related to the geography of the Purelake in the Cognitive Realm.[^7]
+Large structures have previously existed on the Purelake, though their continued existence is questioned by scholars. A large obsidian fortress once existed somewhere on the lake, prior to the [[Day of Recreance - The Coppermind|Recreance]], but it is believed to have been destroyed. Modern-day Purelakers still speak of large structures existing on the lake, although this is dismissed by those outside the region as mythology.[^10] This fortress is not related to the geography of the Purelake in the Cognitive Realm.[^7]
 
 A [[Order of Skybreakers - The Coppermind|Skybreaker]] compound sits along the northern edge of the Purelake, in [Marabethia](https://coppermind.net/wiki/Marabethia "Marabethia").[^11]  
 
@@ -55,7 +55,7 @@ A [[Order of Skybreakers - The Coppermind|Skybreaker]] compound sits along the n
 
 > “ *Like an endless bay, mere feet deep. Warm water. Calm breezes.* ”
 > 
-> — [Zahel's](https://coppermind.net/wiki/Zahel "Zahel") description of the Purelake [^12]
+> — [[Vasher - The Coppermind|Zahel's]] description of the Purelake [^12]
 
 The Purelake has a tropical climate that is consistently both warm [^3] and humid,[^11] with calm breezes.[^12] The passing of the [[Highstorm - The Coppermind|highstorm]] is the only time the temperature drops and the lake's climate turns cold.[^3] The Purelake's weather is similar to that of [[Hallandren - The Coppermind|Hallandren]], on the planet [[Nalthis - The Coppermind|Nalthis]].[^12]
 
@@ -67,7 +67,7 @@ The highstorm is weaker in the Purelake than it is further east, and although st
 > 
 > — [Ishikk's](https://coppermind.net/wiki/Ishikk "Ishikk") description of the Purelake [^3]
 
-The Purelake is home to an abundance of lifeforms such as fish, [[Cremling - The Coppermind|cremlings]], and [riverspren](https://coppermind.net/wiki/Riverspren "Riverspren").[^3] The area is also known for having small brown flies, similar in appearance to [hungerspren](https://coppermind.net/wiki/Hungerspren "Hungerspren").[^13] Trees can be found on the shores of the Purelake,[^1] along with a type of slug used to create a clothing dye known as [Mycalin](https://coppermind.net/wiki/Mycalin "Mycalin") red.[^14]
+The Purelake is home to an abundance of lifeforms such as fish, [[Cremling - The Coppermind|cremlings]], and [[Spren - The Coppermind|riverspren]].[^3] The area is also known for having small brown flies, similar in appearance to [[Spren - The Coppermind|hungerspren]].[^13] Trees can be found on the shores of the Purelake,[^1] along with a type of slug used to create a clothing dye known as [Mycalin](https://coppermind.net/wiki/Mycalin "Mycalin") red.[^14]
 
 The fish in the Purelake have magical properties [^11] and form symbiotic bonds with [[Spren - The Coppermind|spren]].[^15] This [[Investiture - The Coppermind|Investiture]] does not come from [[Honor - The Coppermind|Honor]],[^16] but may come from [[Cultivation - The Coppermind|Cultivation]].[^4] The magical nature of these fish is similar to that of [Aviar](https://coppermind.net/wiki/Aviar "Aviar") from the island [Patji](https://coppermind.net/wiki/Patji_\(island\) "Patji (island)"), on the planet [[First of the Sun - The Coppermind|First of the Sun]].[^17]
 
@@ -88,7 +88,7 @@ The Purelake existed prior to the arrival of [[Shards]] on [[Roshar - The Copper
 
 During the time of the [[Silver Kingdoms - The Coppermind|Silver Kingdoms]], the Purelake was controlled by [[Sela Tales - The Coppermind|Sela Tales]].[^3] When the kingdom disintegrated, the region splintered, with the Purelake seeming to become its own country.
 
-At some point prior to the [Recreance](https://coppermind.net/wiki/Recreance "Recreance"), one of [[Sja-anat - The Coppermind|Sja-anat's]] spies and a [[Thunderclast - The Coppermind|thunderclast]] attacked a group of soldiers near an obsidian fortress assumed to be on the Purelake. [[Dalinar Kholin - The Coppermind|Dalinar]] visited the battle in a vision provided to him by the [[Stormfather - The Coppermind|Stormfather]].[^10]
+At some point prior to the [[Day of Recreance - The Coppermind|Recreance]], one of [[Sja-anat - The Coppermind|Sja-anat's]] spies and a [[Thunderclast - The Coppermind|thunderclast]] attacked a group of soldiers near an obsidian fortress assumed to be on the Purelake. [[Dalinar Kholin - The Coppermind|Dalinar]] visited the battle in a vision provided to him by the [[Stormfather - The Coppermind|Stormfather]].[^10]
 
 ### Era of Solitude
 
@@ -102,7 +102,7 @@ Scenery of the Purelake
 
 In the year three members of the [[Seventeenth Shard - The Coppermind|Seventeenth Shard]], [[Galladon - The Coppermind|Galladon]], [Demoux](https://coppermind.net/wiki/Demoux "Demoux"), and [[Baon - The Coppermind|Baon]], traveled to the Purelake, believing it to be the current location of [[Hoid - The Coppermind|Hoid]].[^3] To try and find him, they enlisted the help of a Purelaker, [Ishikk](https://coppermind.net/wiki/Ishikk "Ishikk"), who traveled to the different Purelake villages over the span of five months. Unbeknownst to Ishikk, the trail he was following had been falsely laid by Hoid to distract and avoid the Seventeenth Shard members who were seeking him.[^19] As such, Ishikk was ultimately unsuccessful and unable to find any evidence of Hoid having been in the area.[^3]
 
-Later that year, the Purelake experienced the spread of an off-world illness, the common cold, which had been transmitted to the locals by either the Seventeenth Shard members or another [worldhopper](https://coppermind.net/wiki/Worldhopper "Worldhopper").[^20] [^21] Kharbranth studied the plague, releasing information on their findings, in the end they declared that the plague was ultimately not deadly.[^22]
+Later that year, the Purelake experienced the spread of an off-world illness, the common cold, which had been transmitted to the locals by either the Seventeenth Shard members or another [[17th Shard|worldhopper]].[^20] [^21] Kharbranth studied the plague, releasing information on their findings, in the end they declared that the plague was ultimately not deadly.[^22]
 
 ### The True Desolation
 
@@ -114,7 +114,7 @@ After [[Retribution - The Coppermind|Retribution's]] influence caused the Everst
 
 ## Politics
 
-During the [[Silver Kingdoms - The Coppermind|Silver Kingdoms]], the Purelake was governed by the king of [[Sela Tales - The Coppermind|Sela Tales]]. After the fall of the [Epoch Kingdoms](https://coppermind.net/wiki/Epoch_Kingdoms "Epoch Kingdoms"), it appears that the Purelake broke away from the surrounding lands and established sovereignty, with local inhabitants forming autonomous villages. Modern-day Purelakers are more likely to define themselves based on their geography than country borders.[^3]
+During the [[Silver Kingdoms - The Coppermind|Silver Kingdoms]], the Purelake was governed by the king of [[Sela Tales - The Coppermind|Sela Tales]]. After the fall of the [[Silver Kingdoms - The Coppermind|Epoch Kingdoms]], it appears that the Purelake broke away from the surrounding lands and established sovereignty, with local inhabitants forming autonomous villages. Modern-day Purelakers are more likely to define themselves based on their geography than country borders.[^3]
 
 People who live outside of the Purelake find the inhabitants to be strange, and do not understand the appeal of living within a lake. The [Azish](https://coppermind.net/wiki/Azish "Azish") are particularly dismissive of the region, believing that there is nothing of consequence on the lake, and are baffled why anyone would want to visit the area.[^10] [^1]
 
@@ -164,7 +164,7 @@ Szeth visits the Purelake at some point before becoming a Skybreaker.[^1]
 > 
 > — [Havar](https://coppermind.net/wiki/Havar "Havar") making fun of [Bashin's](https://coppermind.net/wiki/Bashin "Bashin") Purelaker hat [^30]
 
-Purelakers speak [Selay](https://coppermind.net/wiki/Selay "Selay"),[^3] which is in the same language group as the languages of [[Iri - The Coppermind|Iri]], the [Reshi](https://coppermind.net/wiki/Reshi "Reshi") Islands, and other northwestern parts of Roshar.[^32] The Purelake dialect is heavily influenced by the inhabitants' way of life and their religious beliefs, with many sayings relating to the weather, the lake, or their gods.[^3]
+Purelakers speak [[Sela Tales - The Coppermind|Selay]],[^3] which is in the same language group as the languages of [[Iri - The Coppermind|Iri]], the [Reshi](https://coppermind.net/wiki/Reshi "Reshi") Islands, and other northwestern parts of Roshar.[^32] The Purelake dialect is heavily influenced by the inhabitants' way of life and their religious beliefs, with many sayings relating to the weather, the lake, or their gods.[^3]
 
 Purelaker buildings have the appearance of [rockbuds](https://coppermind.net/wiki/Rockbud "Rockbud"), with domed roofs. They are among the few things to break the surface of the Purelake.[^3] The buildings of Purelakers are typically built on blocks or stilts. However, they are still set a few inches below surface level, keeping the floor covered in water. The buildings will drain when the tide is low.[^3] Although housing exists, some Purelakers see no point in sleeping indoors, instead opting to sleep on rafts.[^3]
 

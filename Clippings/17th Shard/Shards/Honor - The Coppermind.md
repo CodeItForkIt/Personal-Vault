@@ -57,11 +57,11 @@ Honor is able to manipulate a powerful weather pattern on [[Roshar - The Copperm
 
 ### Surgebinding
 
-Surgebinding on Roshar is a magic system derived from both Honor and [[Cultivation - The Coppermind|Cultivation]].[^2] To utilize it, a person must bond a higher spren, which allows them to inhale Stormlight and use it to control [[Surgebinding - The Coppermind|Surges]], a set of ten fundamental forces, although a single spren bond allows access to only two of them.[^36] Some Surges favor Honor, and others Cultivation, although only [Adhesion](https://coppermind.net/wiki/Adhesion "Adhesion") is 'purely' of Honor.[^17] [^37]
+Surgebinding on Roshar is a magic system derived from both Honor and [[Cultivation - The Coppermind|Cultivation]].[^2] To utilize it, a person must bond a higher spren, which allows them to inhale Stormlight and use it to control [[Surgebinding - The Coppermind|Surges]], a set of ten fundamental forces, although a single spren bond allows access to only two of them.[^36] Some Surges favor Honor, and others Cultivation, although only [[Surgebinding - The Coppermind|Adhesion]] is 'purely' of Honor.[^17] [^37]
 
 Apart from spren bonds, Honor can also grant the use of Surgebinding through the [[Honorblade - The Coppermind|Honorblades]], weapons made out of his Investiture.[^38] Like spren, each Honorblade grants access to only one pair of Surges; in fact, Surgebinding came about as spren attempted to imitate the Honorblades.[^39]
 
-According to the Fused, Honor is responsible for making the Surges into natural law.[^17] Honor also gave the [[Dawnsinger - The Coppermind|Dawnsingers]] the [ability to shape stone](https://coppermind.net/wiki/Stoneshaping "Stoneshaping") by singing a song.[^40] It appears this ability was lost after the arrival of Odium on Roshar.
+According to the Fused, Honor is responsible for making the Surges into natural law.[^17] Honor also gave the [[Dawnsinger - The Coppermind|Dawnsingers]] the [[Surgebinding - The Coppermind|ability to shape stone]] by singing a song.[^40] It appears this ability was lost after the arrival of Odium on Roshar.
 
 ### Spren
 
@@ -75,7 +75,7 @@ Honor's particular Intent lends itself well to binding and forming bonds. Among 
 
 ## Vessels
 
-Honor has changed Vessels multiple times through its history, and, for a period of around two-thousand years between the [Recreance](https://coppermind.net/wiki/Recreance "Recreance") and the Ascension of Dalinar Kholin, possessed no Vessel.[^46] As of, Honor is held by Taravangian in tandem with Odium, forming the Shard of Retribution.[^16]
+Honor has changed Vessels multiple times through its history, and, for a period of around two-thousand years between the [[Day of Recreance - The Coppermind|Recreance]] and the Ascension of Dalinar Kholin, possessed no Vessel.[^46] As of, Honor is held by Taravangian in tandem with Odium, forming the Shard of Retribution.[^16]
 
 Honor was originally picked up by Tanavast shortly following the Shattering of Adonalsium, who held it for around 8,000 years.[^15] [^46] Following the actions and death of Tanavast around the time of the Recreance, Honor became frightened of any sapient being becoming its Vessel, as it lost faith in the ability of sapient beings to be able to truly align themselves with its Intent. This was until Dalinar Kholin, on, was able to convince it to accept him as Vessel.[^4] However, he almost immediately renounced his (and Honor's) oaths following his Ascension, casting away Honor and allowing it to be absorbed by Taravangian.[^16]
 
@@ -91,7 +91,7 @@ The Shard of Honor was created, like all others, at the [[Shattering - The Coppe
 
 ### God of Roshar
 
-On Roshar, Honor and Cultivation became the gods of the [[Singer - The Coppermind|singers]], a native Rosharan species. They also created intelligent spren around ten-thousand years before the True Desolation.[^52] He granted the Singers the power of [Stoneshaping](https://coppermind.net/wiki/Cohesion "Cohesion"), based on the Yolish art of Microkinesis, albeit with various limits placed upon it, to prevent disastrous events that occurred on Yolen.[^20] [^53]
+On Roshar, Honor and Cultivation became the gods of the [[Singer - The Coppermind|singers]], a native Rosharan species. They also created intelligent spren around ten-thousand years before the True Desolation.[^52] He granted the Singers the power of [[Surgebinding - The Coppermind|Stoneshaping]], based on the Yolish art of Microkinesis, albeit with various limits placed upon it, to prevent disastrous events that occurred on Yolen.[^20] [^53]
 
 Not all Singers immediately came to worship Honor and Cultivation, with various Singers continuing to worship Adonalsium.[^54]
 
@@ -109,7 +109,7 @@ To help the people of Roshar, Honor created the [Heralds](https://coppermind.net
 
 At some point, he and Cultivation combined their Lights in order to create the [[Sibling - The Coppermind|Sibling]], who is considered their child. They were created in order to oppose Odium. and became a central figure in mankind's resistance against the Fused, acting as the control center of [[Urithiru - The Coppermind|Urithiru]] and as a Bondsmith spren.[^58] [^59] [^60]
 
-After around three-thousand years,[^61] [^62] the Heralds abandoned the Oathpact after numerous [[Desolation - The Coppermind|Desolations]] in the event known as the [Aharietiam](https://coppermind.net/wiki/Aharietiam "Aharietiam").[^63] Sometime afterwards, Odium killed Tanavast.[^15]
+After around three-thousand years,[^61] [^62] the Heralds abandoned the Oathpact after numerous [[Desolation - The Coppermind|Desolations]] in the event known as the [[Last Desolation - The Coppermind|Aharietiam]].[^63] Sometime afterwards, Odium killed Tanavast.[^15]
 
 After his death, he created a spren, the Stormfather, that would contain a portion of Honor's power and Tanavast's memories, preventing the shard of Honor from being completely splintered.[^64] The Stormfather's purpose is to find a champion that can eventually ascend and become the new vessel of Honor.[^15]
 
@@ -151,9 +151,9 @@ For the history of the Shard following its merging with Odium, see [[Retribution
 
 > “ *The Almighty accepted the excellence of any man or woman, regardless of what they did.* ”
 > 
-> — [Vorin](https://coppermind.net/wiki/Vorin "Vorin") doctrine [^72]
+> — [[Vorinism - The Coppermind|Vorin]] doctrine [^72]
 
-Honor is well known among the Rosharan people, and worshiped as a god.[^3] [[Vorinism - The Coppermind|Vorinism]] calls him the **Almighty** and claims that he's the only deity, considering worship of [[Cultivation - The Coppermind|Cultivation]] to be pagan.[^73] He's believed to be the creator of both Roshar and mankind.[^74] In the Vorin tradition, he has ten names, the last of which, Elithanathile, is only used by [ardents](https://coppermind.net/wiki/Ardent "Ardent"), the Vorin priests.[^74] It's said he resides in the hearts of all people.[^75] As it's commonly believed that perceiving him directly would cause one to burst into flames from his sheer glory, he's typically represented by a divine prism with ten facets.[^74] [^76]
+Honor is well known among the Rosharan people, and worshiped as a god.[^3] [[Vorinism - The Coppermind|Vorinism]] calls him the **Almighty** and claims that he's the only deity, considering worship of [[Cultivation - The Coppermind|Cultivation]] to be pagan.[^73] He's believed to be the creator of both Roshar and mankind.[^74] In the Vorin tradition, he has ten names, the last of which, Elithanathile, is only used by [[Vorinism - The Coppermind|ardents]], the Vorin priests.[^74] It's said he resides in the hearts of all people.[^75] As it's commonly believed that perceiving him directly would cause one to burst into flames from his sheer glory, he's typically represented by a divine prism with ten facets.[^74] [^76]
 
 Vorins believe that the Almighty is also responsible for sorting out the dead and deciding on their afterlife. The best possible outcome is to be sent to battle in [[Tranquiline Halls - The Coppermind|Tranquiline Halls]], the lost paradise, and reclaim it from the [[Voidbringer - The Coppermind|Voidbringers]]. To achieve this, one has to pick a Calling - a purpose in life - and a Glory, an aspect of the Almighty that one strives to emulate.[^72]
 

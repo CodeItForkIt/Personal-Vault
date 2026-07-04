@@ -42,7 +42,7 @@ An additional likely manifestation of the Luhel bond is the [[Spore eater - The 
 
 ### Core aethers
 
-As the Luhel bond is referred to by [[Hoid - The Coppermind|Hoid]] as the manner in which aethers typically function, it is likely integral in the function of the [aetherbound](https://coppermind.net/wiki/Aetherbound "Aetherbound").[^1] Indeed, known aetherbound are shown to exchange water with their bonded primal aether for the manipulation of aether.[^7] Additionally, there is some form of psychic communication available between aetherbound and their bonded primal aether through this connection.[^11]
+As the Luhel bond is referred to by [[Hoid - The Coppermind|Hoid]] as the manner in which aethers typically function, it is likely integral in the function of the [[Aether - The Coppermind|aetherbound]].[^1] Indeed, known aetherbound are shown to exchange water with their bonded primal aether for the manipulation of aether.[^7] Additionally, there is some form of psychic communication available between aetherbound and their bonded primal aether through this connection.[^11]
 
 ## Notes
 

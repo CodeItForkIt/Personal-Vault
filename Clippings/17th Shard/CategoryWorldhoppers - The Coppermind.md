@@ -12,7 +12,7 @@ favicon: "/favicon.ico"
 ---
 ## Category:Worldhoppers
 
-**[Worldhopping](https://coppermind.net/wiki/Worldhopping "Worldhopping")** is the ability to travel between planets in the [[17th Shard|cosmere]] using a [[Perpendicularity - The Coppermind|perpendicularity]] or other esoteric methods. This category does not include members of groups that are known to have an inherent ability to move between planets, such as [Heralds](https://coppermind.net/wiki/Herald "Herald"), [[Fused - The Coppermind|Fused]], and [[Shards]] and their [Vessels](https://coppermind.net/wiki/Vessel "Vessel").
+**[[17th Shard|Worldhopping]]** is the ability to travel between planets in the [[17th Shard|cosmere]] using a [[Perpendicularity - The Coppermind|perpendicularity]] or other esoteric methods. This category does not include members of groups that are known to have an inherent ability to move between planets, such as [Heralds](https://coppermind.net/wiki/Herald "Herald"), [[Fused - The Coppermind|Fused]], and [[Shards]] and their [[Shards|Vessels]].
 
 ## Pages in category "Worldhoppers"
 

@@ -110,7 +110,7 @@ Chull are highly valued as work animals and are considered to be worth more than
 
 Since it is lightweight and durable, chull shell is used as a crafting material. [[Shallan Davar - The Coppermind|Shallan]] had a [havah](https://coppermind.net/wiki/Havah "Havah") with chull-shell buttons.[^43]
 
-Chull meat is edible. It can be dried and stored as jerky.[^33] In some cultures, including [Herdazian](https://coppermind.net/wiki/Herdazian "Herdazian") and [Unkalaki](https://coppermind.net/wiki/Unkalaki "Unkalaki"), chull head is considered a delicacy.[^44]
+Chull meat is edible. It can be dried and stored as jerky.[^33] In some cultures, including [[Herdaz - The Coppermind|Herdazian]] and [Unkalaki](https://coppermind.net/wiki/Unkalaki "Unkalaki"), chull head is considered a delicacy.[^44]
 
 During the [[War of Reckoning - The Coppermind|War of Reckoning]], [[Dalinar Kholin - The Coppermind|Dalinar Kholin]] used them to pull his bridges, rather than put the lives of [bridgemen](https://coppermind.net/wiki/Bridgemen "Bridgemen") at risk.[^42]
 

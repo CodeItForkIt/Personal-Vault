@@ -12,13 +12,13 @@ favicon: "/favicon.ico"
 ---
 ## Heightening
 
-**Heightening** is a term used to refer to the different levels of power an [Awakener](https://coppermind.net/wiki/Awakener "Awakener") may attain. By obtaining more [Breaths](https://coppermind.net/wiki/Breath "Breath"), an Awakener can increase their level of Heightening, gaining more power and abilities.
+**Heightening** is a term used to refer to the different levels of power an [[Awakening - The Coppermind|Awakener]] may attain. By obtaining more [[BioChromatic Breath - The Coppermind|Breaths]], an Awakener can increase their level of Heightening, gaining more power and abilities.
 
 ## Overview
 
-The Heightenings, while commonly thought of as discrete levels, are in fact merely markers of a continuous progression. Each [Breath](https://coppermind.net/wiki/Breath "Breath") gathered increases an [Awakener's](https://coppermind.net/wiki/Awakener "Awakener") power. For example, although perfect color recognition is reached upon the Third Heightening, every additional Breath gathered before then will incrementally increase an Awakener's ability to distinguish between colors. Reaching a new level of Heightening merely marks the point at which these abilities reach their full potential. There are exceptions to this, like Color Distortion which is unique to the Tenth Heightening.
+The Heightenings, while commonly thought of as discrete levels, are in fact merely markers of a continuous progression. Each [[BioChromatic Breath - The Coppermind|Breath]] gathered increases an [[Awakening - The Coppermind|Awakener's]] power. For example, although perfect color recognition is reached upon the Third Heightening, every additional Breath gathered before then will incrementally increase an Awakener's ability to distinguish between colors. Reaching a new level of Heightening merely marks the point at which these abilities reach their full potential. There are exceptions to this, like Color Distortion which is unique to the Tenth Heightening.
 
-The number of Breaths needed to reach a particular Heightening is not exact. Achieving a given Heightening may require fewer or more Breaths, depending on circumstances and the strength of the Breaths which the Awakener has gathered.[^1] Additionally, very little is known about the upper Heightenings as the only known people to have ever reached the Eighth Heightening or above are the [[Hallandren - The Coppermind|Hallandren]] [God Kings](https://coppermind.net/wiki/God_King "God King"), [[Vasher - The Coppermind|Vasher]], and [Shashara](https://coppermind.net/wiki/Shashara "Shashara"), so the abilities associated with those Heightenings may not be the full extent of their powers or may be incompletely understood.
+The number of Breaths needed to reach a particular Heightening is not exact. Achieving a given Heightening may require fewer or more Breaths, depending on circumstances and the strength of the Breaths which the Awakener has gathered.[^1] Additionally, very little is known about the upper Heightenings as the only known people to have ever reached the Eighth Heightening or above are the [[Hallandren - The Coppermind|Hallandren]] [[Susebron - The Coppermind|God Kings]], [[Vasher - The Coppermind|Vasher]], and [Shashara](https://coppermind.net/wiki/Shashara "Shashara"), so the abilities associated with those Heightenings may not be the full extent of their powers or may be incompletely understood.
 
 By the time of the [[True Desolation - The Coppermind|True Desolation]] on [[Roshar - The Coppermind|Roshar]], the term "Heightening" appears to have entered into broader parlance in the [[17th Shard|cosmere]], as the [Elantrian](https://coppermind.net/wiki/Elantrian "Elantrian") [Riino](https://coppermind.net/wiki/Riino "Riino") initially thought [[Kaladin - The Coppermind|Kaladin]] had attained a Heightening, though Riino quickly realized that he was mistaken and that Kaladin is a [[Surgebinding - The Coppermind|Surgebinder]].[^2]
 
@@ -40,7 +40,7 @@ It would act strangely with those with color vision deficiency, and supposedly s
 
 ## Fourth Heightening
 
-The Fourth Heightening grants Perfect Life Sense, maximizing the ability to instinctively sense other people around you, and to tell when they are watching you. Users can also sense plants, such as grass or lichen.[^8] Life Sense can also sense [[Spren - The Coppermind|spren]], even if they are invisible.[^9] [Drabs](https://coppermind.net/wiki/Drab "Drab") are not detectable, though.[^10]
+The Fourth Heightening grants Perfect Life Sense, maximizing the ability to instinctively sense other people around you, and to tell when they are watching you. Users can also sense plants, such as grass or lichen.[^8] Life Sense can also sense [[Spren - The Coppermind|spren]], even if they are invisible.[^9] [[BioChromatic Breath - The Coppermind|Drabs]] are not detectable, though.[^10]
 
 Anyone with Breath has some quantity of life sense, but it is imperfect until the Fourth Heightening.[^11]
 
@@ -50,7 +50,7 @@ If an [Aviar](https://coppermind.net/wiki/Aviar "Aviar") like [Kokerlii](https:/
 
 The Fifth Heightening grants Agelessness; an Awakener's resistance to aging and disease reaches its maximum strength.[^16] These persons are immune to most toxins (including the effects of alcohol) and most physical ailments (such as headaches, diseases, and organ failure).[^17] The person no longer ages and becomes functionally immortal.[^1]
 
-Note: [[Returned - The Coppermind|Returned]] achieve the Fifth Heightening by virtue of their [divine Breath](https://coppermind.net/wiki/Divine_Breath "Divine Breath"). They do not actually receive two thousand Breaths when they Return, but instead receive a single, powerful Breath, which brings with it the powers of the first five Heightenings.[^18]
+Note: [[Returned - The Coppermind|Returned]] achieve the Fifth Heightening by virtue of their [[BioChromatic Breath - The Coppermind|divine Breath]]. They do not actually receive two thousand Breaths when they Return, but instead receive a single, powerful Breath, which brings with it the powers of the first five Heightenings.[^18]
 
 ## Sixth Heightening
 

@@ -30,7 +30,7 @@ Numul meat is edible. Early Rosharan humans hunted numul,[^1] although their mea
 
 ### Domestication
 
-Like the [[Chull - The Coppermind|chull]], the numul can be domesticated and raised as livestock. The [Azish](https://coppermind.net/wiki/Azish "Azish") ranch them in great quantities, as numul gemhearts have value (despite their low quality) since they can be used to [Soulcast](https://coppermind.net/wiki/Soulcast "Soulcast") [[Bronze - The Coppermind|bronze]].[^1]
+Like the [[Chull - The Coppermind|chull]], the numul can be domesticated and raised as livestock. The [Azish](https://coppermind.net/wiki/Azish "Azish") ranch them in great quantities, as numul gemhearts have value (despite their low quality) since they can be used to [[Soulcasting - The Coppermind|Soulcast]] [[Bronze - The Coppermind|bronze]].[^1]
 
 ## History
 

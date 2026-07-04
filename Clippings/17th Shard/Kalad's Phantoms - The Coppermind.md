@@ -18,7 +18,7 @@ favicon: "/favicon.ico"
 
 Kalad's Phantoms are a version of Lifeless made of [[Awakening - The Coppermind|Awakened]] human bones encased in stone, in the form of massive warriors.[^2] Their stone bodies are larger than a human's,[^3] and they are faster and sturdier than other Lifeless.[^2] Most of them also have stone weapons and armor.[^4] [^5] [^3] They are very strong in order to move their stone bodies, and conventional weapons are virtually useless against them.[^2]
 
-The Phantoms can be placed in stasis by leaving the bones [[Investiture - The Coppermind|Invested]] with just enough [Breath](https://coppermind.net/wiki/Breath "Breath") to hold them together.[^6] Since they do not consume [[Ichor-alcohol - The Coppermind|ichor-alcohol]] like other Lifeless, they can remain in this state indefinitely, and Vasher designed them to last a very long time.[^2] A significant influx of additional Breath is needed to animate them.[^6]
+The Phantoms can be placed in stasis by leaving the bones [[Investiture - The Coppermind|Invested]] with just enough [[BioChromatic Breath - The Coppermind|Breath]] to hold them together.[^6] Since they do not consume [[Ichor-alcohol - The Coppermind|ichor-alcohol]] like other Lifeless, they can remain in this state indefinitely, and Vasher designed them to last a very long time.[^2] A significant influx of additional Breath is needed to animate them.[^6]
 
 ## History
 
@@ -44,7 +44,7 @@ Modern citizens of Hallandren did not know that Kalad and Peacegiver were the sa
 > 
 > —Vasher [^2]
 
-After [Bluefingers](https://coppermind.net/wiki/Bluefingers "Bluefingers") betrayed Hallandren and co-opted the Lifeless army, Vasher revealed his true nature to [Siri](https://coppermind.net/wiki/Siri "Siri"), [[Vivenna - The Coppermind|Vivenna]], and [[Susebron - The Coppermind|Susebron]].[^2] He told them that at least one thousand of the oldest D'Denir Statues were actually his Phantoms, and, at Vivenna's urging, gave Susebron his security phrase.[^2] As [God King](https://coppermind.net/wiki/God_King "God King"), Susebron had over fifty thousand Breaths [^18] and was able to reanimate all of the Phantoms, sending them to stop the Lifeless army from marching on Idris.[^11] The Phantoms easily destroyed the army, and they remained in Siri and Susebron's control.[^9] Vasher was left feeling cynical about reactivating a weapon like the Phantoms.[^11]
+After [[Havarseth - The Coppermind|Bluefingers]] betrayed Hallandren and co-opted the Lifeless army, Vasher revealed his true nature to [[Sisirinah - The Coppermind|Siri]], [[Vivenna - The Coppermind|Vivenna]], and [[Susebron - The Coppermind|Susebron]].[^2] He told them that at least one thousand of the oldest D'Denir Statues were actually his Phantoms, and, at Vivenna's urging, gave Susebron his security phrase.[^2] As [[Susebron - The Coppermind|God King]], Susebron had over fifty thousand Breaths [^18] and was able to reanimate all of the Phantoms, sending them to stop the Lifeless army from marching on Idris.[^11] The Phantoms easily destroyed the army, and they remained in Siri and Susebron's control.[^9] Vasher was left feeling cynical about reactivating a weapon like the Phantoms.[^11]
 
 ## Notes
 

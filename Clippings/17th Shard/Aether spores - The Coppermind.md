@@ -20,7 +20,7 @@ Each aether spore is associated with one of the 12 [[Aether - The Coppermind#Lum
 
 Aether spores can be killed by silver and salt, turning grey and losing their reactivity when they touch it.[^8] [^2] The substance they produce upon expanding also grows grey and dies when coming into contact with silver.[^9] Dead aether spores will stick to almost anything and can be washed away with soap.[^10]
 
-Aether spores at the bottom of the spore seas undergo a certain method of decomposition which contributes to the seethe and the water cycle. The exact details of this decomposition are unknown, and are a source of confusion and curiosity by in-world scholars such as [Xisis](https://coppermind.net/wiki/Xisis "Xisis").[^11] [^12] [^13]
+Aether spores at the bottom of the spore seas undergo a certain method of decomposition which contributes to the seethe and the water cycle. The exact details of this decomposition are unknown, and are a source of confusion and curiosity by in-world scholars such as [[Xisisrefliel - The Coppermind|Xisis]].[^11] [^12] [^13]
 
 ## Types
 

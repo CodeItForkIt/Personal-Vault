@@ -15,7 +15,7 @@ favicon: /favicon.ico
 ---
 ## Izumakamo
 
-**Izumakamo**, better known to her friends as **Izzy**, is an eccentric [[Nightmare - The Coppermind|nightmare]] [[Painter - The Coppermind|painter]] in [[Kilahito - The Coppermind|Kilahito]] on [[Komashi - The Coppermind|Komashi]]. She has a unique fascination in [hion viewer](https://coppermind.net/wiki/Hion_viewer "Hion viewer") programs, having developed the idea of [dramascopes](https://coppermind.net/wiki/Dramascope "Dramascope"), and is interested in becoming a viewer critic.[^1] [^2]
+**Izumakamo**, better known to her friends as **Izzy**, is an eccentric [[Nightmare - The Coppermind|nightmare]] [[Painter - The Coppermind|painter]] in [[Kilahito - The Coppermind|Kilahito]] on [[Komashi - The Coppermind|Komashi]]. She has a unique fascination in [[Hion - The Coppermind|hion viewer]] programs, having developed the idea of [dramascopes](https://coppermind.net/wiki/Dramascope "Dramascope"), and is interested in becoming a viewer critic.[^1] [^2]
 
 ## Appearance and Personality
 

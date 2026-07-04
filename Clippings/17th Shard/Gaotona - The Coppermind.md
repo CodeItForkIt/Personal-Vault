@@ -14,7 +14,7 @@ favicon: "/favicon.ico"
 
 > “ *Is that not how you’ve made your entire career? Speaking honestly, teaching people what to expect of you, then expecting them to be honest to you in return?* ”
 
-**Gaotona** is an [arbiter](https://coppermind.net/wiki/Arbiter "Arbiter") of the [Heritage Faction](https://coppermind.net/wiki/Heritage_Faction "Heritage Faction") of the [[Rose Empire - The Coppermind|Rose Empire]] on [[Sel - The Coppermind|Sel]].[^2] He is noted as being the least influential of the arbiters, due to falling out of favor with the emperor.[^3]
+**Gaotona** is an [[Rose Empire - The Coppermind|arbiter]] of the [Heritage Faction](https://coppermind.net/wiki/Heritage_Faction "Heritage Faction") of the [[Rose Empire - The Coppermind|Rose Empire]] on [[Sel - The Coppermind|Sel]].[^2] He is noted as being the least influential of the arbiters, due to falling out of favor with the emperor.[^3]
 
 ## Appearance and Personality
 
@@ -30,14 +30,14 @@ Gaotona has extensively studied art, to the point that he can recognize the styl
 
 ### Early Life
 
-Gaotona was born in the same area as [[Ashravan - The Coppermind|Ashravan]].[^5] He extensively studied art of historical cultures.[^9] He became Ashravan's mentor, constantly encouraging him to become emperor. He is known to have been incredibly close with Ashravan, which has given him influence among the other arbiters. Gaotona, along with [Frava](https://coppermind.net/wiki/Frava "Frava") and three others, were appointed as the five main arbiters of the [[Rose Empire - The Coppermind|Rose Empire]].[^3] The resentment Ashravan felt for Gaotona slowly pushed Gaotona out of favor with the emperor. Gaotona disagreed with Frava on almost every topic discussed.[^2] When the [Glory Faction](https://coppermind.net/wiki/Glory_Faction "Glory Faction") sent assassins after the emperor, Gaotona and the other arbiters took over with damage control. They first brought in [resealers](https://coppermind.net/wiki/Resealer "Resealer") to heal the wound. The physical wound was healed, but Ashravan's mind was gone. To keep their positions, Gaotona and the other arbiters considered secretly hiring [Shai](https://coppermind.net/wiki/Shai "Shai"), currently a prisoner, to re [Forge](https://coppermind.net/wiki/Forge "Forge") Ashravan's soul.[^3] Gaotona, observing Shai's artwork, voted yes on using her out of a desire to understand her. This was the first time in years he and Frava had agreed on a vote.[^2]
+Gaotona was born in the same area as [[Ashravan - The Coppermind|Ashravan]].[^5] He extensively studied art of historical cultures.[^9] He became Ashravan's mentor, constantly encouraging him to become emperor. He is known to have been incredibly close with Ashravan, which has given him influence among the other arbiters. Gaotona, along with [Frava](https://coppermind.net/wiki/Frava "Frava") and three others, were appointed as the five main arbiters of the [[Rose Empire - The Coppermind|Rose Empire]].[^3] The resentment Ashravan felt for Gaotona slowly pushed Gaotona out of favor with the emperor. Gaotona disagreed with Frava on almost every topic discussed.[^2] When the [Glory Faction](https://coppermind.net/wiki/Glory_Faction "Glory Faction") sent assassins after the emperor, Gaotona and the other arbiters took over with damage control. They first brought in [[Forgery - The Coppermind|resealers]] to heal the wound. The physical wound was healed, but Ashravan's mind was gone. To keep their positions, Gaotona and the other arbiters considered secretly hiring [[Wan ShaiLu - The Coppermind|Shai]], currently a prisoner, to re [[Forgery - The Coppermind|Forge]] Ashravan's soul.[^3] Gaotona, observing Shai's artwork, voted yes on using her out of a desire to understand her. This was the first time in years he and Frava had agreed on a vote.[^2]
 
 ### Re-Forging Ashravan
 
 > “ *Why? Why would someone capable of this artistry, this majesty, turn to forgery? Why not create original paintings? Why not be a true artist?  
 > I must understand.*”
 > 
-> —Gaotona's thoughts on [Shai](https://coppermind.net/wiki/Shai "Shai") [^2]
+> —Gaotona's thoughts on [[Wan ShaiLu - The Coppermind|Shai]] [^2]
 
 Gaotona volunteers to personally oversee Shai's work to reForge Ashravan's soul. He is extremely cautious in guarding Shai. He forbids her from telling her guards about her work. He also employs [[Weedfingers - The Coppermind|Weedfingers]] to use [[Bloodsealing - The Coppermind|Bloodsealing]] to prevent Shai from escaping. Gaotona's previous interaction with Weedfingers led him to believe the man is trustworthy in imprisoning her.[^4] Gaotona continued to watch and visit Shai each day as she worked.[^4] While Shai was doing her initial research into Ashravan's life, Gaotona brought a book to her room to read. Gaotona asks Shai to tell him about how Forgery works after he watches her Forge the desk in her room. He finds the bits of [[Realmatic Theory, Miscellaneous|Realmatic Theory]] that she tells him to be superstitious nonsense, but his mind is open to learning. At Shai's advice, Gaotona increases the security around the emperor. He appoints someone to change a fake chamber pot and forbids anyone without a card showing his personal signature to enter the room.[^9] The seventeenth day after the assassination attempt, Gaotona took a break from watching Shai and went to the [Delbahad](https://coppermind.net/wiki/Delbahad "Delbahad") festivities.[^10]
 
@@ -53,7 +53,7 @@ When Gaotona learned that Shai had broken out of her room, he immediately went f
 
 > “ *You loved him as a son—the youth that you mentored, the emperor you always believed in, even when he didn’t believe in himself.* ”
 > 
-> — [Shai's](https://coppermind.net/wiki/Shai "Shai") description of Gaotona's feelings towards [[Ashravan - The Coppermind|Ashravan]] [^6]
+> — [[Wan ShaiLu - The Coppermind|Shai's]] description of Gaotona's feelings towards [[Ashravan - The Coppermind|Ashravan]] [^6]
 
 Gaotona loves Ashravan and views him as a son. He was Ashravan's mentor and always believed in and viewed the best in him, such as encouraging Ashravan to become emperor. Ashravan felt shame and disappointment for not living up to what Gaotona believed of him.[^6] Because of this, Ashravan began to resent Gaotona and slowly pushed him further away, until he was almost willing to have Gaotona replaced as arbiter.[^8] When Ashravan was braindead, Gaotona was the one who missed him as a person, rather than as emperor. Gaotona was unaware of Ashravan's resentment towards him until Shai showed him with a soulstamp.[^6]
 

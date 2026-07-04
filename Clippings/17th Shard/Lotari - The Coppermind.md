@@ -20,7 +20,7 @@ favicon: "/favicon.ico"
 
 ## History\[edit\]
 
-At some point in their life, Lotari attempted to sneak off of Diggen's Point by stowing away on a merchant ship.[^1] Lotari failed in this attempt and was punished for it.[^1] Lotari's punishment was the only time that [[Tress - The Coppermind|Tress]] ever saw the [duke](https://coppermind.net/wiki/Duke "Duke") smile.[^1]
+At some point in their life, Lotari attempted to sneak off of Diggen's Point by stowing away on a merchant ship.[^1] Lotari failed in this attempt and was punished for it.[^1] Lotari's punishment was the only time that [[Tress - The Coppermind|Tress]] ever saw the [[Charlie's father - The Coppermind|duke]] smile.[^1]
 
 ## Notes\[edit\]
 

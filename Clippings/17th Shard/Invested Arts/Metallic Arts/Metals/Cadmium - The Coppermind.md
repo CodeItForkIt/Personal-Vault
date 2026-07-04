@@ -22,7 +22,7 @@ The paired alloy of cadmium used in the Metallic Arts is [[Bendalloy - The Coppe
 
 ## Allomantic Use
 
-A cadmium [Misting](https://coppermind.net/wiki/Misting "Misting") is known as a **Pulser**. Burning cadmium pulls on time around the user, causing time to pass more slowly in a bubble around them. Events outside the bubble appear to move much faster to someone inside.[^2]
+A cadmium [[Allomancy - The Coppermind|Misting]] is known as a **Pulser**. Burning cadmium pulls on time around the user, causing time to pass more slowly in a bubble around them. Events outside the bubble appear to move much faster to someone inside.[^2]
 
 When a cadmium bubble and a [[Bendalloy - The Coppermind|bendalloy]] bubble occur in the same place, their effects cancel out resulting in no change whilst still burning the metals used.[^3] [^4] The time bubble created by a Pulser is about the size of a room, larger than a time bubble created by burning bendalloy.[^4] Careful examination may reveal the edge of the bubble, where air appears to shimmer. As long as some part of a person is inside the slowness bubble, they will be included in its effect.[^5]
 
@@ -38,7 +38,7 @@ If someone were able to burn the amount of cadmium needed to become an Allomanti
 
 ## Feruchemical Use
 
-A cadmium [Ferring](https://coppermind.net/wiki/Ferring "Ferring") is known as a **Gasper**. Cadmium is used to store breath. While storing breath, the Gasper must hyperventilate to keep their body oxygenated. Tapping a cadmiummind allows the user to go without breathing, or to introduce extra oxygen into their bloodstream.[^2]
+A cadmium [[Feruchemy - The Coppermind|Ferring]] is known as a **Gasper**. Cadmium is used to store breath. While storing breath, the Gasper must hyperventilate to keep their body oxygenated. Tapping a cadmiummind allows the user to go without breathing, or to introduce extra oxygen into their bloodstream.[^2]
 
 ## Hemalurgic Use
 
@@ -46,7 +46,7 @@ When used as a Hemalurgic spike, cadmium steals Temporal Allomantic powers (cadm
 
 ## History
 
-During the [[Final Empire - The Coppermind|Final Empire]], cadmium and [[Bendalloy - The Coppermind|bendalloy]] were inaccessible and unknown to Allomancers, though they were possibly known to the [Lord Ruler](https://coppermind.net/wiki/Lord_Ruler "Lord Ruler").[^14] The fact that their technology couldn't create the metals made Mistings of these types impossible to discover. After the [[Catacendre - The Coppermind|Catacendre]], advancement in technology eventually made the metals available.
+During the [[Final Empire - The Coppermind|Final Empire]], cadmium and [[Bendalloy - The Coppermind|bendalloy]] were inaccessible and unknown to Allomancers, though they were possibly known to the [[Rashek - The Coppermind|Lord Ruler]].[^14] The fact that their technology couldn't create the metals made Mistings of these types impossible to discover. After the [[Catacendre - The Coppermind|Catacendre]], advancement in technology eventually made the metals available.
 
 ## Trivia
 

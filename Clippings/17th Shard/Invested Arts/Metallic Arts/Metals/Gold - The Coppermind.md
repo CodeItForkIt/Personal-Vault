@@ -16,17 +16,17 @@ favicon: /favicon.ico
 ---
 ## Gold
 
-**Gold** is the internal temporal pulling metal. An [Allomancer](https://coppermind.net/wiki/Allomancer "Allomancer") burning gold is able to see who they could have been in the past, had they made different choices. [Feruchemists](https://coppermind.net/wiki/Feruchemist "Feruchemist") can use gold to store health. When used as a [[Hemalurgic chimera - The Coppermind|Hemalurgic]] spike, gold steals Hybrid Feruchemical powers.
+**Gold** is the internal temporal pulling metal. An [[Allomancy - The Coppermind|Allomancer]] burning gold is able to see who they could have been in the past, had they made different choices. [[Feruchemy - The Coppermind|Feruchemists]] can use gold to store health. When used as a [[Hemalurgic chimera - The Coppermind|Hemalurgic]] spike, gold steals Hybrid Feruchemical powers.
 
 The paired alloy of gold used in the Metallic Arts is [[Electrum - The Coppermind|electrum]].
 
 ## Allomantic Use
 
-A gold [Misting](https://coppermind.net/wiki/Misting "Misting") is known as a **Augur**. An Augur burning gold is able to see a vision of who the user could have been, known as a "gold shadow." [^1] While active, an Augur can see through both pairs of eyes and think both sets of thoughts.[^2] Due to the emotional stress associated with seeing one's alternate past, gold is not a very useful metal. Furthermore, touching the gold shadow while burning gold causes unpleasant side effects.[^3] Each time an Augur burns gold, they see a different image, as it changes depending on their current situation.[^4] A gold shadow will also change if a person is stamped with an [Essence Mark](https://coppermind.net/wiki/Essence_Mark "Essence Mark").[^5]
+A gold [[Allomancy - The Coppermind|Misting]] is known as a **Augur**. An Augur burning gold is able to see a vision of who the user could have been, known as a "gold shadow." [^1] While active, an Augur can see through both pairs of eyes and think both sets of thoughts.[^2] Due to the emotional stress associated with seeing one's alternate past, gold is not a very useful metal. Furthermore, touching the gold shadow while burning gold causes unpleasant side effects.[^3] Each time an Augur burns gold, they see a different image, as it changes depending on their current situation.[^4] A gold shadow will also change if a person is stamped with an [Essence Mark](https://coppermind.net/wiki/Essence_Mark "Essence Mark").[^5]
 
 ## Feruchemical Use
 
-A gold [Ferring](https://coppermind.net/wiki/Ferring "Ferring") is known as a **Bloodmaker**. Gold is used to store health. A goldmind can be tapped to both heal at an accelerated rate or to heal from wounds that would normally be fatal.[^1] It is hard to fill a goldmind, due to the fact that it requires the Bloodmaker to spend time sickly and weak. Gold does not heal diseases as efficiently as it heals wounds.[^6]
+A gold [[Feruchemy - The Coppermind|Ferring]] is known as a **Bloodmaker**. Gold is used to store health. A goldmind can be tapped to both heal at an accelerated rate or to heal from wounds that would normally be fatal.[^1] It is hard to fill a goldmind, due to the fact that it requires the Bloodmaker to spend time sickly and weak. Gold does not heal diseases as efficiently as it heals wounds.[^6]
 
 Gold healing works by aligning an individual's Physical aspect to their ideal self as recorded in their Spiritual aspect. This does not prevent them from aging or certain genetic diseases as those are considered part of the ideal.[^7]
 

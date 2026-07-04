@@ -15,7 +15,7 @@ favicon: /favicon.ico
 ---
 ## Uli Da
 
-**Uli Da** is the original [Vessel](https://coppermind.net/wiki/Vessel "Vessel") of the [[Shards|Shard]] [[Ambition - The Coppermind|Ambition]].[^2] She is referred to as female in the [first *Oathbringer* letter](https://coppermind.net/wiki/Letters#First_Oathbringer_Letter "Letters") sent to [[Hoid - The Coppermind|Hoid]].[^3] She is a [[Sho Del - The Coppermind|Sho Del]], one of three races on [[Yolen - The Coppermind|Yolen]].[^4]
+**Uli Da** is the original [[Shards|Vessel]] of the [[Shards|Shard]] [[Ambition - The Coppermind|Ambition]].[^2] She is referred to as female in the [first *Oathbringer* letter](https://coppermind.net/wiki/Letters#First_Oathbringer_Letter "Letters") sent to [[Hoid - The Coppermind|Hoid]].[^3] She is a [[Sho Del - The Coppermind|Sho Del]], one of three races on [[Yolen - The Coppermind|Yolen]].[^4]
 
 ## History
 
@@ -23,7 +23,7 @@ favicon: /favicon.ico
 
 by [zoethatcher\_art](https://coppermind.net/wiki/Coppermind:Artists/zoethatcher_art "Coppermind:Artists/zoethatcher art")
 
-Nothing is known about Uli Da's origins and life prior to the [[Shattering - The Coppermind|Shattering]], other than that she came from Yolen.[^5] [^6] For unknown reasons, she and a group of others broke the [[17th Shard|cosmere's]] creator deity, [[Adonalsium - The Coppermind|Adonalsium]], into sixteen pieces.[^7] [^8] Of those sixteen, she took up [[Ambition - The Coppermind|Ambition]], and then made her way to the [Threnodite](https://coppermind.net/wiki/Threnodite "Threnodite") system.[^1] Some of her fellow Shards immediately felt that she would be a "problem".[^2] [^9] These concerns seem to have originated primarily with her Shard's [[Intent - The Coppermind|Intent]].[^10]
+Nothing is known about Uli Da's origins and life prior to the [[Shattering - The Coppermind|Shattering]], other than that she came from Yolen.[^5] [^6] For unknown reasons, she and a group of others broke the [[17th Shard|cosmere's]] creator deity, [[Adonalsium - The Coppermind|Adonalsium]], into sixteen pieces.[^7] [^8] Of those sixteen, she took up [[Ambition - The Coppermind|Ambition]], and then made her way to the [[Threnody - The Coppermind|Threnodite]] system.[^1] Some of her fellow Shards immediately felt that she would be a "problem".[^2] [^9] These concerns seem to have originated primarily with her Shard's [[Intent - The Coppermind|Intent]].[^10]
 
 Uli Da was mortally wounded by [[Odium - The Coppermind|Odium]] ([[Rayse - The Coppermind|Rayse]]) in a battle near Threnody.[^11] [^12] Ambition's power was then [[Splinter - The Coppermind|Splintered]] in an unknown location.[^11] The specifics of Uli Da's death and Ambition's destruction are not known, but these events had wide-ranging effects in the Threnodite system and across the cosmere.[^12] [^13] [^14] [^15]
 

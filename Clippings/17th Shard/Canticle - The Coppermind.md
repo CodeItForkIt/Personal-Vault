@@ -54,7 +54,7 @@ The dark side of Canticle, depicting Canticlite Flora and Fauna, with rings visi
 
 Gazelle-like creatures live near dawn; they are Invested in some way. Their lifecycle and how they survive the daytime heat are currently unknown.[^20]
 
-Plant life, fed from Invested light reflected off of the ring system, grows rapidly in the night. The amount of Investiture reflected is approximately ten or twenty [Breath Equivalent Units](https://coppermind.net/wiki/Breath_Equivalent_Unit "Breath Equivalent Unit") (BEUs) an hour.[^13] Humans are an important part of this ecosystem, planting seeds after the land is burned away, allowing for the plants to grow once light is reflected onto them.[^12] [^21]
+Plant life, fed from Invested light reflected off of the ring system, grows rapidly in the night. The amount of Investiture reflected is approximately ten or twenty [[Investiture - The Coppermind|Breath Equivalent Units]] (BEUs) an hour.[^13] Humans are an important part of this ecosystem, planting seeds after the land is burned away, allowing for the plants to grow once light is reflected onto them.[^12] [^21]
 
 ### Cognitive Realm
 
@@ -128,7 +128,7 @@ At some point, a very powerful being, potentially [Adonalsium](https://coppermin
 
 Some time after the [Evil](https://coppermind.net/wiki/Evil "Evil") arrived, a group of Threnodites led by Zellion came to the system, pushed out by infighting amongst their people. They devised the flying Cities. Later, these people died and became the first of the [Chorus](https://coppermind.net/wiki/Chorus "Chorus").[^7]
 
-At some point, the [Cinder King](https://coppermind.net/wiki/Cinder_King "Cinder King") found a sick [[Thaylenah - The Coppermind|Thaylen]] [worldhopper](https://coppermind.net/wiki/Worldhopper "Worldhopper").[^30] The Cinder King killed him, fearing that he was a demon. The Cinder King then read his books and learned about the wider cosmere. After this he began killing and conquering all the other cities, with the goal of uniting the planet and having all people live in his capital city.
+At some point, the [Cinder King](https://coppermind.net/wiki/Cinder_King "Cinder King") found a sick [[Thaylenah - The Coppermind|Thaylen]] [[17th Shard|worldhopper]].[^30] The Cinder King killed him, fearing that he was a demon. The Cinder King then read his books and learned about the wider cosmere. After this he began killing and conquering all the other cities, with the goal of uniting the planet and having all people live in his capital city.
 
 Either shortly before his conquest, or during it, the Cinder King found the Scadrian Research Center and began trading with its scientists.[^10] He gave them some people, from whom the Scadrians drew out heat to experiment with. In return they gave him small tidbits of information, such as how to corrupt a sunheart and make the Charred.[^17]
 

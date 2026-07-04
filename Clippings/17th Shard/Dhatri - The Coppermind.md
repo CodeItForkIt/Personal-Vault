@@ -18,7 +18,7 @@ favicon: "/favicon.ico"
 
 ## History
 
-At an unknown point before 348 [[Catacendre - The Coppermind|PC]], it was struck by a force or entity known as the [dark aether](https://coppermind.net/wiki/Dark_aether "Dark aether"), leaving the planet inhospitable to aetherbound.[^5] [^6]
+At an unknown point before 348 [[Catacendre - The Coppermind|PC]], it was struck by a force or entity known as the [[Aether - The Coppermind|dark aether]], leaving the planet inhospitable to aetherbound.[^5] [^6]
 
 At some point it had a [[Perpendicularity - The Coppermind|perpendicularity]], but at an unknown point before the discovery of the perpendicularity on [[First of the Sun - The Coppermind|First of the Sun]] was made public, it no longer had one. Following the law of commerce, travel to Dhatri became very expensive.[^7] Dhatri is known to sell aethers, although they are expensive and heavily regulated.[^8]
 
@@ -44,7 +44,7 @@ It has at least twelve known kingdoms, each one seemingly associated with a spec
 
 ## Notable Dhatrians
 
-- [Sanvith Prasanva Maahik va Sila](https://coppermind.net/wiki/Sanvith_Prasanva_Maahik_va_Sila "Sanvith Prasanva Maahik va Sila")
+- [[Prasanva - The Coppermind|Sanvith Prasanva Maahik va Sila]]
 - [Aditil](https://coppermind.net/wiki/Aditil "Aditil")
 
 ## Trivia

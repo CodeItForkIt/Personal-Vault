@@ -12,7 +12,7 @@ favicon: "/favicon.ico"
 ---
 ## The Way of Kings (in-world)
 
-***The Way of Kings*** is a book of parables and stories written by king [[Nohadon - The Coppermind|Nohadon]] on [[Roshar - The Coppermind|Roshar]]. Using [Alethi](https://coppermind.net/wiki/Alethi "Alethi") [glyphs](https://coppermind.net/wiki/Glyph "Glyph"), the title of the book is written with symbols for "pathway" and "king." [^1]
+***The Way of Kings*** is a book of parables and stories written by king [[Nohadon - The Coppermind|Nohadon]] on [[Roshar - The Coppermind|Roshar]]. Using [Alethi](https://coppermind.net/wiki/Alethi "Alethi") [[Glyphs - The Coppermind|glyphs]], the title of the book is written with symbols for "pathway" and "king." [^1]
 
 It was read by [[Gavilar Kholin - The Coppermind|Gavilar Kholin]] in the years prior to his death. [[Dalinar Kholin - The Coppermind|Dalinar Kholin]] began listening to it after his brother's funeral.
 
@@ -36,9 +36,9 @@ It's uncertain how many of the events the book describes are real, and how many 
 
 At around five millennia old, *The Way of Kings* is one of the oldest known texts to have survived to the present day.[^4] Unlike most other literature and documents from that era, which were preserved only in [[Dawnchant - The Coppermind|Dawnchant]] and thus, until recently, impossible to read, *The Way of Kings* was continuously translated, ensuring its survival in the public consciousness.[^5] A major force behind this were the [Vanrial](https://coppermind.net/wiki/Vanrial "Vanrial"), an order of artists dedicated to preserving ancient texts and songs.[^6]
 
-Though [[Surgebinding - The Coppermind|Surgebinding]] predates [[Nohadon - The Coppermind|Nohadon]], the ancient [[Knights Radiant - The Coppermind|Knights Radiant]] were heavily influenced by *The Way of Kings*. It's suggested that their [Ideals](https://coppermind.net/wiki/Immortal_Words "Immortal Words") were based off the book.[^7] In particular, it appears as though the [[Order of Bondsmiths - The Coppermind|Order of Bondsmiths]] owes much to its teachings, as the very first lines suggest their Third Ideal.[^8]
+Though [[Surgebinding - The Coppermind|Surgebinding]] predates [[Nohadon - The Coppermind|Nohadon]], the ancient [[Knights Radiant - The Coppermind|Knights Radiant]] were heavily influenced by *The Way of Kings*. It's suggested that their [[Knights Radiant - The Coppermind|Ideals]] were based off the book.[^7] In particular, it appears as though the [[Order of Bondsmiths - The Coppermind|Order of Bondsmiths]] owes much to its teachings, as the very first lines suggest their Third Ideal.[^8]
 
-This book had enormous impact on both [[Gavilar Kholin - The Coppermind|Gavilar Kholin]] and, later, [[Dalinar Kholin - The Coppermind|Dalinar Kholin]]. After having it read to them several times, they become more and more honorable, which is a large contrast to typical modern [Alethi](https://coppermind.net/wiki/Alethi "Alethi") behavior. Interestingly, both began to receive [Almighty's](https://coppermind.net/wiki/Almighty "Almighty") visions through the [[Stormfather - The Coppermind|Stormfather]] after they began to listen to *The Way of Kings*.[^9]
+This book had enormous impact on both [[Gavilar Kholin - The Coppermind|Gavilar Kholin]] and, later, [[Dalinar Kholin - The Coppermind|Dalinar Kholin]]. After having it read to them several times, they become more and more honorable, which is a large contrast to typical modern [Alethi](https://coppermind.net/wiki/Alethi "Alethi") behavior. Interestingly, both began to receive [[Honor - The Coppermind|Almighty's]] visions through the [[Stormfather - The Coppermind|Stormfather]] after they began to listen to *The Way of Kings*.[^9]
 
 In addition, *The Way of Kings* is of great personal importance to Dalinar. Following his brother's death, he began to put himself back together after listening to [[Jasnah Kholin - The Coppermind|Jasnah Kholin]] read it.[^10] Over the following years, he re-listened to it multiple times and began to base his own outlook on the world on its teachings.[^9] In addition, two of his visions, one of which didn't come from Stormfather, were concerned with [[Nohadon - The Coppermind|Nohadon]] and his work. When the time came to confront [[Odium - The Coppermind|Odium]] at the [[Battle of Thaylen Field - The Coppermind|Battle of Thaylen Field]], Dalinar decided to carry the book with him rather than taking any weapon.[^11] Odium destroyed this particular copy in an attempt to break Dalinar's spirit; however, by then he had taken its teachings to heart.[^8]
 
@@ -108,7 +108,7 @@ The epigraphs for part two of *[Wind and Truth](https://coppermind.net/wiki/Wind
 
 ### The eighth parable
 
-The eighth parable elaborates on the principle of " [journey before destination](https://coppermind.net/wiki/Immortal_Words#The_First_Ideal "Immortal Words") " through the story of Nohadon's family and friends reacting to his journey both before he sets out and after he arrives in Urithiru.
+The eighth parable elaborates on the principle of " [[Knights Radiant - The Coppermind#The First Ideal|journey before destination]] " through the story of Nohadon's family and friends reacting to his journey both before he sets out and after he arrives in Urithiru.
 
 > “ *I walked from Abamabar to Urithiru. In this, the metaphor and experience are one, inseparable to me like my mind and memory. One contains the other, and though I can explain one to you, the other is only for me.*
 > 

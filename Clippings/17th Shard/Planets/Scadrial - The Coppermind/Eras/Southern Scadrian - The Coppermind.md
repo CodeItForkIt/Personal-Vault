@@ -17,7 +17,7 @@ favicon: /favicon.ico
 > 
 > — [Allik Neverfar](https://coppermind.net/wiki/Allik_Neverfar "Allik Neverfar") describing the events that nearly destroyed his people [^1]
 
-The **Southern Scadrians**, also called the **Southlanders**,[^2] are a collection of nations and cultures on [[Scadrial - The Coppermind|Scadrial]]. They were placed at the south pole by [The Lord Ruler](https://coppermind.net/wiki/The_Lord_Ruler "The Lord Ruler") during his [Ascension](https://coppermind.net/wiki/Ascension_of_the_Lord_Ruler "Ascension of the Lord Ruler"). When he moved the planet closer to the sun, he altered the physiology of the [skaa](https://coppermind.net/wiki/Skaa "Skaa"), nobles, and [[Terris - The Coppermind|Terris]] to enable them to survive the ash and the warmer temperatures. However, he also placed an unaltered group of Scadrians at the south pole [^3] to act as a control group for his genetic experiments.[^4] The Southern Scadrians lived there without any interaction with the [[Final Empire - The Coppermind|Final Empire]] for over a thousand years until the [[Catacendre - The Coppermind|Catacendre]]. When [[Harmony - The Coppermind|Harmony]] moved the planet back to its original orbit and orientation, it caused a change in climate that the Southern Scadrians failed to adapt to. The Southern Scadrians were at the brink of extinction until they were rescued by the [Sovereign](https://coppermind.net/wiki/Sovereign "Sovereign").
+The **Southern Scadrians**, also called the **Southlanders**,[^2] are a collection of nations and cultures on [[Scadrial - The Coppermind|Scadrial]]. They were placed at the south pole by [[Rashek - The Coppermind|The Lord Ruler]] during his [Ascension](https://coppermind.net/wiki/Ascension_of_the_Lord_Ruler "Ascension of the Lord Ruler"). When he moved the planet closer to the sun, he altered the physiology of the [skaa](https://coppermind.net/wiki/Skaa "Skaa"), nobles, and [[Terris - The Coppermind|Terris]] to enable them to survive the ash and the warmer temperatures. However, he also placed an unaltered group of Scadrians at the south pole [^3] to act as a control group for his genetic experiments.[^4] The Southern Scadrians lived there without any interaction with the [[Final Empire - The Coppermind|Final Empire]] for over a thousand years until the [[Catacendre - The Coppermind|Catacendre]]. When [[Harmony - The Coppermind|Harmony]] moved the planet back to its original orbit and orientation, it caused a change in climate that the Southern Scadrians failed to adapt to. The Southern Scadrians were at the brink of extinction until they were rescued by the [Sovereign](https://coppermind.net/wiki/Sovereign "Sovereign").
 
 ## History
 
@@ -33,7 +33,7 @@ During his Ascension, the Lord Ruler moved Scadrial out of its original orbit, p
 
 However, the Lord Ruler also placed an unaltered group of people at the physical south pole. These people were placed there by the Lord Ruler as a reserve in case his genetic modifications of humanity failed. The Lord Ruler managed to find a way other than genetic modifications or Ashmounts [^1] to help them survive in the world he created.[^4]
 
-The southern peoples had the seeds of the [[Metallic Arts]], though since none of them had ingested [[Lerasium - The Coppermind|lerasium]], [Allomancers](https://coppermind.net/wiki/Allomancer "Allomancer") were extremely rare and [[Allomancy - The Coppermind#Mistborn|Mistborn]] completely unheard of.[^4] Because of this, instead of using the Metallic Arts in a way based on genetics like the people of the Final Empire, the southern peoples use them in a more "mechanical way." [^7]
+The southern peoples had the seeds of the [[Metallic Arts]], though since none of them had ingested [[Lerasium - The Coppermind|lerasium]], [[Allomancy - The Coppermind|Allomancers]] were extremely rare and [[Allomancy - The Coppermind#Mistborn|Mistborn]] completely unheard of.[^4] Because of this, instead of using the Metallic Arts in a way based on genetics like the people of the Final Empire, the southern peoples use them in a more "mechanical way." [^7]
 
 ### The Age of Ash
 
@@ -59,7 +59,7 @@ Although the Sovereign had been rumored to be the Lord Ruler himself, he was in 
 
 ### Looking for the Bands (336-337 years Post-Catacendre)
 
-As the Southern Scadrians began scouting farther and farther north using their airships, they eventually discovered the lands of the [Elendel Basin](https://coppermind.net/wiki/Elendel_Basin "Elendel Basin"). The Hunters sent a large expedition to the north, looking for the temple where the Sovereign left the Bands of Mourning.[^1] They intended to use an [ettmetal](https://coppermind.net/wiki/Ettmetal "Ettmetal") bomb to destroy the Bands.[^9] Though most of the expedition perished, supposedly in a blizzard, one skimmer managed to return to the southern continent and tell their story. However, [Waxillium Ladrian](https://coppermind.net/wiki/Waxillium_Ladrian "Waxillium Ladrian") believes that some of the crew, desiring the power of the Bands, betrayed the others and attempted to take the Bands for themselves. This attempt was unsuccessful due to the traps at the temple.[^11]
+As the Southern Scadrians began scouting farther and farther north using their airships, they eventually discovered the lands of the [Elendel Basin](https://coppermind.net/wiki/Elendel_Basin "Elendel Basin"). The Hunters sent a large expedition to the north, looking for the temple where the Sovereign left the Bands of Mourning.[^1] They intended to use an [[Harmonium - The Coppermind|ettmetal]] bomb to destroy the Bands.[^9] Though most of the expedition perished, supposedly in a blizzard, one skimmer managed to return to the southern continent and tell their story. However, [Waxillium Ladrian](https://coppermind.net/wiki/Waxillium_Ladrian "Waxillium Ladrian") believes that some of the crew, desiring the power of the Bands, betrayed the others and attempted to take the Bands for themselves. This attempt was unsuccessful due to the traps at the temple.[^11]
 
 ### First Encounters with the Northern Scadrians (341-342 years Post-Catacendre)
 
@@ -130,7 +130,7 @@ When the crew of the [Brunstell](https://coppermind.net/wiki/Brunstell "Brunstel
 
 While talking to Wax, Harmony reflects on the limited progress the people of Elendel have made since the remaking of Scadrial due to the benevolent environment of the Basin, mentioning "...others, who were nearly destroyed", and implies they are significantly more advanced than those in the Basin.
 
-They have access to [ettmetal](https://coppermind.net/wiki/Ettmetal "Ettmetal"), also known as Harmonium. Among other things, ettmetal is used to fuel the Southern airships.[^9]
+They have access to [[Harmonium - The Coppermind|ettmetal]], also known as Harmonium. Among other things, ettmetal is used to fuel the Southern airships.[^9]
 
 ## Notable People
 

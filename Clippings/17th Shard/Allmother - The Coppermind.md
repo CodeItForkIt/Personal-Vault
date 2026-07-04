@@ -20,11 +20,11 @@ favicon: "/favicon.ico"
 
 ## Appearance and Personality
 
-She appears old,[^3] with white hair and a wrinkled face, and is, in fact, the eldest of the gods in bodily age. She is also stocky for a goddess. Allmother tries to emulate the [[Returned - The Coppermind|Returned]] of old by not simply answering petitioners with a yes or no, but rather helping them to the extent of her abilities. This is in part because she fears to lose her worshipers, and, consequently her access to [Breaths](https://coppermind.net/wiki/Breath "Breath").[^2] She keeps to herself and doesn't attend many court assemblies or listen to debates.[^4]
+She appears old,[^3] with white hair and a wrinkled face, and is, in fact, the eldest of the gods in bodily age. She is also stocky for a goddess. Allmother tries to emulate the [[Returned - The Coppermind|Returned]] of old by not simply answering petitioners with a yes or no, but rather helping them to the extent of her abilities. This is in part because she fears to lose her worshipers, and, consequently her access to [[BioChromatic Breath - The Coppermind|Breaths]].[^2] She keeps to herself and doesn't attend many court assemblies or listen to debates.[^4]
 
 ## Attributes and Abilities
 
-As a [[Returned - The Coppermind|Returned]], Allmother has a [divine Breath](https://coppermind.net/wiki/Divine_Breath "Divine Breath") which gives her the benefits of being on the [Fifth Heightening](https://coppermind.net/wiki/Fifth_Heightening "Fifth Heightening"). This includes:
+As a [[Returned - The Coppermind|Returned]], Allmother has a [[BioChromatic Breath - The Coppermind|divine Breath]] which gives her the benefits of being on the [[Heightening - The Coppermind|Fifth Heightening]]. This includes:
 
 - Aura Recognition - allows her to assess the number of Breaths a person possesses.
 - Perfect Pitch

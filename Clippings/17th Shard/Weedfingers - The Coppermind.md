@@ -12,7 +12,7 @@ favicon: "/favicon.ico"
 ---
 ## Weedfingers
 
-**Weedfingers** [^1] is a [Dzhamarian](https://coppermind.net/wiki/Dzhamarian "Dzhamarian") [Bloodsealer](https://coppermind.net/wiki/Bloodsealer "Bloodsealer") that helps imprison [Shai](https://coppermind.net/wiki/Shai "Shai") during the [[Forgery - The Coppermind|Forgery]] of Emperor [[Ashravan - The Coppermind|Ashravan's]] soul.[^3]
+**Weedfingers** [^1] is a [Dzhamarian](https://coppermind.net/wiki/Dzhamarian "Dzhamarian") [[Bloodsealing - The Coppermind|Bloodsealer]] that helps imprison [[Wan ShaiLu - The Coppermind|Shai]] during the [[Forgery - The Coppermind|Forgery]] of Emperor [[Ashravan - The Coppermind|Ashravan's]] soul.[^3]
 
 ## Appearance & Personality
 
@@ -38,7 +38,7 @@ He carries a crude bone stamp with him and keeps some "pet" [skeletals](https://
 > 
 > — [[Gaotona - The Coppermind|Gaotona]] [^4]
 
-He was brought into the [Rose Palace](https://coppermind.net/wiki/Rose_Palace "Rose Palace") by [[Gaotona - The Coppermind|Gaotona]] in order to craft wards with his [[Bloodsealing - The Coppermind|Bloodsealing]] abilities to imprison [Shai](https://coppermind.net/wiki/Shai "Shai") in a small room. He requested Shai's bones as his only payment.[^4] Every morning he would visit her cell to renew his mark on the door.[^5] Sometimes he arrived late, which Shai noticed and exploited to escape.[^6]
+He was brought into the [Rose Palace](https://coppermind.net/wiki/Rose_Palace "Rose Palace") by [[Gaotona - The Coppermind|Gaotona]] in order to craft wards with his [[Bloodsealing - The Coppermind|Bloodsealing]] abilities to imprison [[Wan ShaiLu - The Coppermind|Shai]] in a small room. He requested Shai's bones as his only payment.[^4] Every morning he would visit her cell to renew his mark on the door.[^5] Sometimes he arrived late, which Shai noticed and exploited to escape.[^6]
 
 He had a lover in Dzhamar who wrote him letters. The arrival of those letters woke him up in the morning, which is why he would come on time to stamp Shai.[^7] When he didn't get news from home, he drank, which caused him to arrive later to renew the spell.[^2]
 

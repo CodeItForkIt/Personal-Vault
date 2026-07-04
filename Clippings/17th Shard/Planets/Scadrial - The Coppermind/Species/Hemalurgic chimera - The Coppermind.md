@@ -18,7 +18,7 @@ favicon: /favicon.ico
 
 ## Creation
 
-The exact method of creation is unknown, but it is the same concept as how the [Lord Ruler](https://coppermind.net/wiki/Lord_Ruler "Lord Ruler") created [[Kandra - The Coppermind|kandra]] and [[Koloss - The Coppermind|koloss]] through Hemalurgy, but without the divine knowledge required for such creations. The Set had somehow found a permutation that did not kill the subject, but still left them as a twisted mutation, viable, but grotesque.[^3]
+The exact method of creation is unknown, but it is the same concept as how the [[Rashek - The Coppermind|Lord Ruler]] created [[Kandra - The Coppermind|kandra]] and [[Koloss - The Coppermind|koloss]] through Hemalurgy, but without the divine knowledge required for such creations. The Set had somehow found a permutation that did not kill the subject, but still left them as a twisted mutation, viable, but grotesque.[^3]
 
 ## Appearance and Behavior
 

@@ -20,7 +20,7 @@ world: "[[Roshar - The Coppermind]]"
 
 **Retribution** is the name taken by [[Taravangian - The Coppermind|Taravangian]] after the [[Contest of champions - The Coppermind|Contest of champions]] and his merging of the [[Shards]] [[Odium - The Coppermind|Odium]] and [[Honor - The Coppermind|Honor]].[^3]
 
-His [[Perpendicularity - The Coppermind|perpendicularity]] is in the [[Shattered Plains - The Coppermind|Shattered Plains]].[^1] Due to his combination of two Shards, he is considered to be one of the most [Invested](https://coppermind.net/wiki/Invest "Invest") beings in the [[17th Shard|cosmere]].[^1] He is considered to be one of the biggest threats in the [[17th Shard|cosmere]].[^3]
+His [[Perpendicularity - The Coppermind|perpendicularity]] is in the [[Shattered Plains - The Coppermind|Shattered Plains]].[^1] Due to his combination of two Shards, he is considered to be one of the most [[Investiture - The Coppermind|Invested]] beings in the [[17th Shard|cosmere]].[^1] He is considered to be one of the biggest threats in the [[17th Shard|cosmere]].[^3]
 
 ## Intent
 
@@ -36,7 +36,7 @@ Retribution holds both the [[Shards]] [[Odium - The Coppermind|Odium]] and [[Hon
 
 ### Light
 
-[Light](https://coppermind.net/wiki/Light "Light") is the gaseous form of Retribution's [[Investiture - The Coppermind|Investiture]].[^1] The light associated with Retribution is [Warlight](https://coppermind.net/wiki/Warlight "Warlight"), which has a dark blue-black appearance.[^4] [^5] [^6]
+[[Lights|Light]] is the gaseous form of Retribution's [[Investiture - The Coppermind|Investiture]].[^1] The light associated with Retribution is [[Lights|Warlight]], which has a dark blue-black appearance.[^4] [^5] [^6]
 
 Retribution also has influence over the Lights of its two Shards, [[Stormlight - The Coppermind|Stormlight]] and [[Voidlight - The Coppermind|Voidlight]].[^2]
 
@@ -46,7 +46,7 @@ Retribution is able to manipulate the powerful weather patterns of Odium and Hon
 
 ### Surgebinding
 
-[[Surgebinding - The Coppermind|Surgebinding]] on Roshar is a magic system derived from both Honor and [[Cultivation - The Coppermind|Cultivation]].[^7] To utilize it, a person must bond a higher [[Spren - The Coppermind|spren]], which allows them to inhale Stormlight and use it to control [[Surgebinding - The Coppermind|Surges]], a set of ten fundamental forces, although a single spren [[Nahel bond - The Coppermind|bond]] allows access to only two of them.[^8] Some Surges favor Honor, and others Cultivation, although only [Adhesion](https://coppermind.net/wiki/Adhesion "Adhesion") is 'purely' of Honor.[^9] [^10]
+[[Surgebinding - The Coppermind|Surgebinding]] on Roshar is a magic system derived from both Honor and [[Cultivation - The Coppermind|Cultivation]].[^7] To utilize it, a person must bond a higher [[Spren - The Coppermind|spren]], which allows them to inhale Stormlight and use it to control [[Surgebinding - The Coppermind|Surges]], a set of ten fundamental forces, although a single spren [[Nahel bond - The Coppermind|bond]] allows access to only two of them.[^8] Some Surges favor Honor, and others Cultivation, although only [[Surgebinding - The Coppermind|Adhesion]] is 'purely' of Honor.[^9] [^10]
 
 Apart from spren bonds, Retribution, through Honor, can also grant the use of Surgebinding through the [[Honorblade - The Coppermind|Honorblades]], weapons made out of his Investiture.[^11] Like spren, each Honorblade grants access to only one pair of Surges; in fact, Surgebinding came about as spren attempted to imitate the Honorblades.[^12]
 
@@ -102,13 +102,13 @@ For the history of Honor prior to its merging with Odium, see [[Honor - The Copp
 
 ### Night of Sorrows
 
-Retribution was formed after Odium merged with Honor, after [[Dalinar Kholin - The Coppermind|Dalinar]] renounced his oaths while holding Honor. This included the contract that bound the two Shards and [[Cultivation - The Coppermind|Cultivation]] to Roshar and drew the attention of the other Shards.[^3] [^2] Immediately after forming, Retribution killed the Stormfather, withdrew all Stormlight from the world, and caused the Everstorm to consume the highstorm, so that [his Light](https://coppermind.net/wiki/Warlight "Warlight") would be the only available source of Investiture. He also caused the new Everstorm to spread across the entire continent, so that all life would wither unless people relied on his Light to survive,[^2] though this also made the storm decrease in intensity.[^1] [[Szeth - The Coppermind|Szeth]] describes the darkness caused by the storm as similar to that of the "hateful hour" between the setting of [Salas](https://coppermind.net/wiki/Salas "Salas") and the rising of [Nomon](https://coppermind.net/wiki/Nomon "Nomon"), with occasional illumination from the constant red lightning.[^6]
+Retribution was formed after Odium merged with Honor, after [[Dalinar Kholin - The Coppermind|Dalinar]] renounced his oaths while holding Honor. This included the contract that bound the two Shards and [[Cultivation - The Coppermind|Cultivation]] to Roshar and drew the attention of the other Shards.[^3] [^2] Immediately after forming, Retribution killed the Stormfather, withdrew all Stormlight from the world, and caused the Everstorm to consume the highstorm, so that [[Lights|his Light]] would be the only available source of Investiture. He also caused the new Everstorm to spread across the entire continent, so that all life would wither unless people relied on his Light to survive,[^2] though this also made the storm decrease in intensity.[^1] [[Szeth - The Coppermind|Szeth]] describes the darkness caused by the storm as similar to that of the "hateful hour" between the setting of [[Roshar - The Coppermind|Salas]] and the rising of [[Roshar - The Coppermind|Nomon]], with occasional illumination from the constant red lightning.[^6]
 
 The merging of the Shards, alongside the Everstorm consuming the highstorm, also caused time to temporarily slow down around Roshar.[^2] This time dilation was projected to last roughly eighty years for the rest of the cosmere, during which only ten years would pass on Roshar.[^1]
 
 Shortly after Retribution's Ascension, Odium's Investiture withdrew from his [[Perpendicularity - The Coppermind|perpendicularity]], the [Well of Control](https://coppermind.net/wiki/Well_of_Control "Well of Control"). A day later, the pool began filling with a thick blue-black fluid-like substance that pulsed to the [Rhythm of War](https://coppermind.net/wiki/Rhythm#The_Pure_Tones_and_Shardic_Rhythms "Rhythm"), likely indicating the birth of Retribution's perpendicularity.[^6]
 
-Within hours of his Ascension, Retribution sent a messenger to the [[Listener - The Coppermind|listeners]] and instructed them that they could freely receive his Light if they left their [spheres](https://coppermind.net/wiki/Sphere "Sphere") out at midnight and asked him to bless them. He also promised that he only saw himself as an interested party offering help, not as the listeners' god.[^6] About a month and a half after his Ascension, Retribution withdrew the Everstorm from [Azir](https://coppermind.net/wiki/Azir "Azir"), in recognition of the fact that they had won their independence on the terms of the agreement for the contest of champions.[^1]
+Within hours of his Ascension, Retribution sent a messenger to the [[Listener - The Coppermind|listeners]] and instructed them that they could freely receive his Light if they left their [[Spheres - The Coppermind|spheres]] out at midnight and asked him to bless them. He also promised that he only saw himself as an interested party offering help, not as the listeners' god.[^6] About a month and a half after his Ascension, Retribution withdrew the Everstorm from [Azir](https://coppermind.net/wiki/Azir "Azir"), in recognition of the fact that they had won their independence on the terms of the agreement for the contest of champions.[^1]
 
 After Ascending, Retribution swiftly went into hiding before the other Shards moved against him, planning to return to Roshar later.[^29]
 

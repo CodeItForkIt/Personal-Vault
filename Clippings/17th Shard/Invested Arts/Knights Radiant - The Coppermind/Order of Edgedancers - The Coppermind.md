@@ -30,7 +30,7 @@ Edgedancers see it as their duty to care for the common folk and improve their d
 
 ## Ideals of the Edgedancers
 
-The Ideals of the Knights Radiant, also known as the [Immortal Words](https://coppermind.net/wiki/Immortal_Words "Immortal Words"), are a set of rules by which the Radiants live. The First Ideal is shared by all of the orders, and is used as a motto for the Knights Radiant as a whole. Each of the orders then have an additional four Ideals that are unique to that order.[^10]
+The Ideals of the Knights Radiant, also known as the [[Knights Radiant - The Coppermind|Immortal Words]], are a set of rules by which the Radiants live. The First Ideal is shared by all of the orders, and is used as a motto for the Knights Radiant as a whole. Each of the orders then have an additional four Ideals that are unique to that order.[^10]
 
 The Ideals of the Order of Edgedancers all focus on remembering and advocating for ordinary people.[^5] [^4]
 
@@ -60,7 +60,7 @@ This oath is focused on actively looking for people in distress and lending them
 
 ### The Fourth Ideal
 
-The specific words of this Ideal are individualized, but the overarching theme is advocacy, carrying normal people's concerns to those with power to address them.[^11] Upon achieving this Ideal, an Edgedancer gains their [[Shardplate - The Coppermind|Shardplate]], which is formed of [lifespren](https://coppermind.net/wiki/Lifespren "Lifespren").[^13] [^14]
+The specific words of this Ideal are individualized, but the overarching theme is advocacy, carrying normal people's concerns to those with power to address them.[^11] Upon achieving this Ideal, an Edgedancer gains their [[Shardplate - The Coppermind|Shardplate]], which is formed of [[Spren - The Coppermind|lifespren]].[^13] [^14]
 
 ## Abilities
 
@@ -80,7 +80,7 @@ The Edgedancers use the Surges of **Abrasion** and **Progression**. [[Lift - The
 
 ### Shardplate Abilities
 
-Edgedancers' [[Shardplate - The Coppermind|Shardplate]] is formed of [lifespren](https://coppermind.net/wiki/Lifespren "Lifespren").[^1] [^14]
+Edgedancers' [[Shardplate - The Coppermind|Shardplate]] is formed of [[Spren - The Coppermind|lifespren]].[^1] [^14]
 
 ## History
 

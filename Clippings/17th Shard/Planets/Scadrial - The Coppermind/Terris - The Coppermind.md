@@ -12,7 +12,7 @@ favicon: "/favicon.ico"
 ---
 ## Terris
 
-**Terris** is a state of [[Scadrial - The Coppermind|Scadrial]] populated by [[Feruchemy - The Coppermind|Feruchemists]] before the Ascension of the [Lord Ruler](https://coppermind.net/wiki/Lord_Ruler "Lord Ruler"), and the term for the ethnic group that once inhabited it.[^2]
+**Terris** is a state of [[Scadrial - The Coppermind|Scadrial]] populated by [[Feruchemy - The Coppermind|Feruchemists]] before the Ascension of the [[Rashek - The Coppermind|Lord Ruler]], and the term for the ethnic group that once inhabited it.[^2]
 
 ## Etymology
 
@@ -38,11 +38,11 @@ The Terris people tried to retain their culture despite their oppression, and to
 
 ### After the Collapse
 
-After the fall of the [Lord Ruler](https://coppermind.net/wiki/Lord_Ruler "Lord Ruler"), the [Synod](https://coppermind.net/wiki/Synod "Synod") revealed themselves and started leading their people back into the ways before the Final Empire.[^13] The Terris people swore they would never take another master or be citizens of another empire, allowing themselves to engage in self-rule. This was largely motivated by the memories of oppression under the Final Empire, and the breeding programs their people were put through, making them untrustworthy towards external powers.[^14] Due to this, many Terris people rejected the New Empire, not trusting it to allow them autonomy and freedom from oppression.[^14]
+After the fall of the [[Rashek - The Coppermind|Lord Ruler]], the [Synod](https://coppermind.net/wiki/Synod "Synod") revealed themselves and started leading their people back into the ways before the Final Empire.[^13] The Terris people swore they would never take another master or be citizens of another empire, allowing themselves to engage in self-rule. This was largely motivated by the memories of oppression under the Final Empire, and the breeding programs their people were put through, making them untrustworthy towards external powers.[^14] Due to this, many Terris people rejected the New Empire, not trusting it to allow them autonomy and freedom from oppression.[^14]
 
 ### Genocide
 
-After [[Ruin - The Coppermind|Ruin]] was released, he took control of the [Steel Inquisitors](https://coppermind.net/wiki/Steel_Inquisitors "Steel Inquisitors") and the [[Koloss - The Coppermind|Koloss]]. He sent some Inquisitors to the newly free Terris and slaughtered the Feruchemists.[^15] [^14] The remaining people fled the mountains and headed towards the central dominance, away from the deadly mists. They settled at the Pits of Hathsin.
+After [[Ruin - The Coppermind|Ruin]] was released, he took control of the [[Steel Inquisitor - The Coppermind|Steel Inquisitors]] and the [[Koloss - The Coppermind|Koloss]]. He sent some Inquisitors to the newly free Terris and slaughtered the Feruchemists.[^15] [^14] The remaining people fled the mountains and headed towards the central dominance, away from the deadly mists. They settled at the Pits of Hathsin.
 
 ### Post-Catacendre
 

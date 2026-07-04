@@ -16,7 +16,7 @@ favicon: "/favicon.ico"
 > 
 > —Jewels to Vivenna after being asked three simple questions [^1]
 
-**Jewels** is a female mercenary from [[Hallandren - The Coppermind|Hallandren]] and a [Drab](https://coppermind.net/wiki/Drab "Drab").
+**Jewels** is a female mercenary from [[Hallandren - The Coppermind|Hallandren]] and a [[BioChromatic Breath - The Coppermind|Drab]].
 
 ## Appearance and Personality
 
@@ -26,7 +26,7 @@ favicon: "/favicon.ico"
 
 Jewels is a short woman who is "thick through the thighs and through the bust" with light brown hair that comes down to her shoulders.[^2]
 
-She is usually blunt and irritable, which [[Denth - The Coppermind|Denth]] attributes to her inherent personality. [[Vivenna - The Coppermind|Vivenna]] correctly [^3] believes it is caused or exacerbated by her lack of [Breath](https://coppermind.net/wiki/Breath "Breath").[^4] Jewels hates being judged and abhors being pitied even more. When Vivenna offers Jewels sympathy for her lost breath, Jewels berates her for her high-and-mighty attitude.[^1]
+She is usually blunt and irritable, which [[Denth - The Coppermind|Denth]] attributes to her inherent personality. [[Vivenna - The Coppermind|Vivenna]] correctly [^3] believes it is caused or exacerbated by her lack of [[BioChromatic Breath - The Coppermind|Breath]].[^4] Jewels hates being judged and abhors being pitied even more. When Vivenna offers Jewels sympathy for her lost breath, Jewels berates her for her high-and-mighty attitude.[^1]
 
 ## History
 

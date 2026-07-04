@@ -18,7 +18,7 @@ Austre is not [[Endowment - The Coppermind|Endowment]],[^2] and his true identit
 
 ## Teachings
 
-According to the doctrine of Austrism, Austre commands the Returned to come back to life, and gives [Breath](https://coppermind.net/wiki/Breath "Breath") to humanity.[^3]
+According to the doctrine of Austrism, Austre commands the Returned to come back to life, and gives [[BioChromatic Breath - The Coppermind|Breath]] to humanity.[^3]
 
 The fundamental tenets of the religion are called the [Five Visions](https://coppermind.net/wiki/Five_Visions "Five Visions").[^4] These are the visions had by [Vo](https://coppermind.net/wiki/Vo "Vo"), the First [[Returned - The Coppermind|Returned]], before he died.[^5]
 
@@ -28,7 +28,7 @@ The fundamental tenets of the religion are called the [Five Visions](https://cop
 
 The Visions teach the virtues of humility, sacrifice and seeing another's problems before your own.[^6] They teach that no person should try to put oneself above others, and that Austre regards all people equally.[^7] Acting ostentatiously, rejecting people because of their sins, and flaunting one's talents [^8] are seen as sins.[^7] [^5] Austrism also teaches that there is nothing wrong with feelings, but drawing attention to yourself with them is wrong.[^1]
 
-Austrism, as practiced by [Idrians](https://coppermind.net/wiki/Idrian "Idrian"), considers Breaths to be intimately linked to human souls. For that reason followers of Austre consider holding the [Breaths](https://coppermind.net/wiki/Breath "Breath") of others to be a sin, and using them to [[Awakening - The Coppermind|Awaken]] to be an even greater sin.[^4] However, [[Vasher - The Coppermind|Vasher]] states that such intolerance toward Awakening only emerged after the [[Manywar - The Coppermind|Manywar]].[^6]
+Austrism, as practiced by [[Idris - The Coppermind|Idrians]], considers Breaths to be intimately linked to human souls. For that reason followers of Austre consider holding the [[BioChromatic Breath - The Coppermind|Breaths]] of others to be a sin, and using them to [[Awakening - The Coppermind|Awaken]] to be an even greater sin.[^4] However, [[Vasher - The Coppermind|Vasher]] states that such intolerance toward Awakening only emerged after the [[Manywar - The Coppermind|Manywar]].[^6]
 
 Terminating pregnancies is seen as a sin.[^9]
 
@@ -36,7 +36,7 @@ Terminating pregnancies is seen as a sin.[^9]
 
 > “ *He’s more of a force. You know, the thing that watches over all people, who punishes those who don’t do what is right and who blesses those who are worthy.* ”
 > 
-> — [Siri](https://coppermind.net/wiki/Siri "Siri") explaining the concept of Austre to [[Susebron - The Coppermind|Susebron]] [^10]
+> — [[Sisirinah - The Coppermind|Siri]] explaining the concept of Austre to [[Susebron - The Coppermind|Susebron]] [^10]
 
 Austre is the only god of the monotheistic religion of Austrism.[^10] He is often referred to as the "God of Colors." [^11] Austre is not [[Endowment - The Coppermind|Endowment]] [^2]; it is unknown if he is a real being or not.
 

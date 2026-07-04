@@ -30,7 +30,7 @@ In the Unkalaki settlements, the air is noticeably thinner than it is at sea lev
 
 ### Flora
 
-Plants such as grass and fruit trees that would not normally be seen at high elevation are able to grow near the Oceans.[^7] The Unkalaki are able to cultivate crops, as they are known for their distinctive food and drink (such as " [Horneater white](https://coppermind.net/wiki/Horneater_white "Horneater white") " alcohol).[^12]
+Plants such as grass and fruit trees that would not normally be seen at high elevation are able to grow near the Oceans.[^7] The Unkalaki are able to cultivate crops, as they are known for their distinctive food and drink (such as " [[Roshar - The Coppermind|Horneater white]] " alcohol).[^12]
 
 ### Fauna
 
@@ -50,7 +50,7 @@ The perpendicularity has been the “door” into Roshar for several worldhopper
 
 ## History
 
-The story of how the Unkalaki came to live in the Peaks is only known through legend. The Unkalaki are known to be hybrids of [singers](https://coppermind.net/wiki/Singers "Singers") and humans.[^20] According to Unkalaki tradition, they became pariahs in Roshar due to their fighting prowess and had to appeal to the gods to create a new place for them to live.[^7]
+The story of how the Unkalaki came to live in the Peaks is only known through legend. The Unkalaki are known to be hybrids of [[Singer - The Coppermind|singers]] and humans.[^20] According to Unkalaki tradition, they became pariahs in Roshar due to their fighting prowess and had to appeal to the gods to create a new place for them to live.[^7]
 
 Over time, the Unkalaki were reintroduced to Rosharan society; at the end of the [[Era of Solitude - The Coppermind|Era of Solitude]] it was not uncommon to encounter a Horneater in the larger cities of Jah Keved and Alethkar, and many people in the area had partially red hair that indicated some measure of Horneater blood.[^21]
 

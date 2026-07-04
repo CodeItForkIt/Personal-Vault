@@ -12,7 +12,7 @@ favicon: "/favicon.ico"
 ---
 ## Prasanva
 
-**Sanvith Prasanva Maahik va Sila**, more commonly known as **Shri Prasanva** or simply **Prasanva**, and operating under the alias **TwinSoul** as a member of the [[Ghostbloods - The Coppermind|Ghostbloods]],[^1] [^3] [^2] is an [aetherbound](https://coppermind.net/wiki/Aetherbound "Aetherbound") of [[Silajana - The Coppermind|Silajana]].[^4]
+**Sanvith Prasanva Maahik va Sila**, more commonly known as **Shri Prasanva** or simply **Prasanva**, and operating under the alias **TwinSoul** as a member of the [[Ghostbloods - The Coppermind|Ghostbloods]],[^1] [^3] [^2] is an [[Aether - The Coppermind|aetherbound]] of [[Silajana - The Coppermind|Silajana]].[^4]
 
 ## Appearance and Personality
 
@@ -28,7 +28,7 @@ He worships the aethers, giving his worship to Silajana in particular, seeing hi
 
 ## Attributes & Abilities
 
-As an [aetherbound](https://coppermind.net/wiki/Aetherbound "Aetherbound") of Silajana, Prasanva can use roseite to create constructs. He has used it to make spectacles, a pen (which he needs separate ink for), a three-dimensional map, several simple items, and a twelve-foot tall suit of armor while being fueled by purified [[Dor - The Coppermind|Dor]].[^2] [^1] He cannot use it to make guns, as he doesn't understand their mechanics.[^4] On planets without certain fields of [[Investiture - The Coppermind|Investiture]], like [[Scadrial - The Coppermind|Scadrial]], he can only make constructs that connect to him; if contact is broken, the construct crumbles to a fine powder, and then vanishes into mist.[^4] [^5] Forming the constructs also takes water from his body.[^4]
+As an [[Aether - The Coppermind|aetherbound]] of Silajana, Prasanva can use roseite to create constructs. He has used it to make spectacles, a pen (which he needs separate ink for), a three-dimensional map, several simple items, and a twelve-foot tall suit of armor while being fueled by purified [[Dor - The Coppermind|Dor]].[^2] [^1] He cannot use it to make guns, as he doesn't understand their mechanics.[^4] On planets without certain fields of [[Investiture - The Coppermind|Investiture]], like [[Scadrial - The Coppermind|Scadrial]], he can only make constructs that connect to him; if contact is broken, the construct crumbles to a fine powder, and then vanishes into mist.[^4] [^5] Forming the constructs also takes water from his body.[^4]
 
 He also sometimes carries a slightly curved sword inside a golden sheath, although it is unknown how familiar he is in its use. When he is out on a mission, he often wears a backpack full of water, which he needs to fuel his abilities.[^3]
 
@@ -42,7 +42,7 @@ by [Heatherly](https://coppermind.net/wiki/Coppermind:Artists/Heatherly "Copperm
 
 Prasanva encased in roseite armor.
 
-During 348 [[Catacendre - The Coppermind|PC]], Prasanva was working in Bilming, trying to unravel Autonomy’s plans. After [Moonlight](https://coppermind.net/wiki/Moonlight "Moonlight") and [[Marasi Colms - The Coppermind|Marasi]] entered the Ghostbloods’ hideout, Moonlight asked [Kaise](https://coppermind.net/wiki/Kaise "Kaise") to fetch him, indicating that they would need him for some calculations. After seeing Marasi, he greeted her, immediately fetching some tea and snacks for her. Moonlight asked him to use a list of underground explosions and the hotspots of enemy activity they’d been monitoring to find a likely entry point to the caverns. He did so, finding three buildings they could use. After realising that the Set had every incentive to launch their bomb as quickly as possible, TwinSoul suggested speaking to Kelsier, which they promptly did.[^2]
+During 348 [[Catacendre - The Coppermind|PC]], Prasanva was working in Bilming, trying to unravel Autonomy’s plans. After [[Wan ShaiLu - The Coppermind|Moonlight]] and [[Marasi Colms - The Coppermind|Marasi]] entered the Ghostbloods’ hideout, Moonlight asked [Kaise](https://coppermind.net/wiki/Kaise "Kaise") to fetch him, indicating that they would need him for some calculations. After seeing Marasi, he greeted her, immediately fetching some tea and snacks for her. Moonlight asked him to use a list of underground explosions and the hotspots of enemy activity they’d been monitoring to find a likely entry point to the caverns. He did so, finding three buildings they could use. After realising that the Set had every incentive to launch their bomb as quickly as possible, TwinSoul suggested speaking to Kelsier, which they promptly did.[^2]
 
 Kelsier tasked TwinSoul, along with Marasi and Moonlight, to stop the Set’s plans, giving them the command for the Ghostbloods’ stores of purified [[Dor - The Coppermind|Dor]]. TwinSoul quickly changed outfits, changing from a suit in Bilming fashion to a loose fitting uniform with a bright yellow sash around his waist. He also strapped on a slightly curved sword and grabbed a backpack full of water, which he needs to fuel his abilities.[^3] Before going out in public however, Prasanva shrouded himself in a local fisherman’s raincloak. While travelling to their incursion point by train, Marasi questioned Prasanva about his abilities and their limits, and he shared a lot of information about what he could and couldn’t do. They also brainstormed plans to get inside the caverns, settling on using one of Moonlight’s stamps to enter the building.[^4]
 

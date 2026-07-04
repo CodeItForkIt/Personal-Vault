@@ -16,7 +16,7 @@ favicon: "/favicon.ico"
 > 
 > —Balat to his axehound [^2]
 
-**Balat Davar** is a [lighteyed](https://coppermind.net/wiki/Lighteyed "Lighteyed") [Veden](https://coppermind.net/wiki/Veden "Veden") on [[Roshar - The Coppermind|Roshar]].[^2] He is the second oldest child of [Lin Davar](https://coppermind.net/wiki/Lin_Davar "Lin Davar") and his [mother](https://coppermind.net/wiki/Shallan%27s_mother "Shallan's mother") and one of [[Shallan Davar - The Coppermind|Shallan Davar's]] older brothers. As the second heir in the line of [[House Davar - The Coppermind|House Davar]], he is originally known as **Tet Balat Davar**. He becomes known as **Nan Balat Davar** after his father disowns his older brother [[Helaran Davar - The Coppermind|Helaran]] and strips him of his position as first son and heir.[^3] He is married to [Eylita Tavinar](https://coppermind.net/wiki/Eylita_Tavinar "Eylita Tavinar").[^1] He is a guardsman in [[Urithiru - The Coppermind|Urithiru]]. He is friends with [[Mraize - The Coppermind|Mraize]], though only knows him as a guardsman named Gobby.[^1]
+**Balat Davar** is a [[Lighteyes - The Coppermind|lighteyed]] [Veden](https://coppermind.net/wiki/Veden "Veden") on [[Roshar - The Coppermind|Roshar]].[^2] He is the second oldest child of [Lin Davar](https://coppermind.net/wiki/Lin_Davar "Lin Davar") and his [mother](https://coppermind.net/wiki/Shallan%27s_mother "Shallan's mother") and one of [[Shallan Davar - The Coppermind|Shallan Davar's]] older brothers. As the second heir in the line of [[House Davar - The Coppermind|House Davar]], he is originally known as **Tet Balat Davar**. He becomes known as **Nan Balat Davar** after his father disowns his older brother [[Helaran Davar - The Coppermind|Helaran]] and strips him of his position as first son and heir.[^3] He is married to [Eylita Tavinar](https://coppermind.net/wiki/Eylita_Tavinar "Eylita Tavinar").[^1] He is a guardsman in [[Urithiru - The Coppermind|Urithiru]]. He is friends with [[Mraize - The Coppermind|Mraize]], though only knows him as a guardsman named Gobby.[^1]
 
 ## Appearance and Personality
 
@@ -48,7 +48,7 @@ As Balat was born the second son of [Lin Davar](https://coppermind.net/wiki/Lin_
 
 Nan [[Helaran Davar - The Coppermind|Helaran]] confronted Lin Davar, and left the house. Though there was no immediate change for Balat or his brothers, they seemed to constantly grieve his absence, and no one else dared to openly challenge Lin. When asked for evidence against Lin by a representative of the [[Highprince - The Coppermind|highprince]], Balat wanted his father to be taken but did not dare speak.[^10]
 
-At one of his father's feasts, Balat met [Eylita Tavinar](https://coppermind.net/wiki/Eylita_Tavinar "Eylita Tavinar"), the daughter of a Brightlord of lower [dahn](https://coppermind.net/wiki/Dahn "Dahn") than his father.[^11] With the help of Shallan, they started writing and later dating.[^3]
+At one of his father's feasts, Balat met [Eylita Tavinar](https://coppermind.net/wiki/Eylita_Tavinar "Eylita Tavinar"), the daughter of a Brightlord of lower [[Lighteyes - The Coppermind|dahn]] than his father.[^11] With the help of Shallan, they started writing and later dating.[^3]
 
 Several years later, due to Helaran and Lin growing further apart, Lin started calling Balat "Nan Balat," as if he were the eldest son of the family. When Lin received a threatening message from Helaran at [[Middlefest Fair - The Coppermind|Middlefest Fair]], he officially disinherited Helaran and changed the title of Tet Balat to Nan Balat.[^3]
 
@@ -62,7 +62,7 @@ On the day Balat was to go to the Highprince, Malise revealed Balat's plan and w
 
 ### Lin's Death and Aftermath
 
-When Balat found out that his father had called for Eylita, he confronted him again. This time, however, his father was cold and aggressive. The confrontation turned to violence. Balat was not skillful enough to hurt Lin, but he broke his father's hidden [Soulcaster](https://coppermind.net/wiki/Soulcaster "Soulcaster"). Lin injured Balat's leg, but before he could hurt him further, he was tricked into drinking poisoned wine by [[Shallan Davar - The Coppermind|Shallan]], paralyzed, and strangled with her necklace.[^6]
+When Balat found out that his father had called for Eylita, he confronted him again. This time, however, his father was cold and aggressive. The confrontation turned to violence. Balat was not skillful enough to hurt Lin, but he broke his father's hidden [[Soulcasting - The Coppermind|Soulcaster]]. Lin injured Balat's leg, but before he could hurt him further, he was tricked into drinking poisoned wine by [[Shallan Davar - The Coppermind|Shallan]], paralyzed, and strangled with her necklace.[^6]
 
 Nan Balat ran the affairs of House Davar in Lin's place while Shallan pursued [[Jasnah Kholin - The Coppermind|Jasnah Kholin]] for a wardship. He communicated with Shallan via [Spanreed](https://coppermind.net/wiki/Spanreed "Spanreed"). They barely managed economically, and they knew someone would discover their father's death before long. Some [[Ghostbloods - The Coppermind|Ghostbloods]] agents visited Balat and demanded the return of his father's Soulcaster.[^13]
 

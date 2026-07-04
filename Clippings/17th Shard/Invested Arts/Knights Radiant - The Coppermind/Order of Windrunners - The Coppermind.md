@@ -14,7 +14,7 @@ favicon: "/favicon.ico"
 
 The **Order of Windrunners** is an order of the [[Knights Radiant - The Coppermind|Knights Radiant]] on Roshar.[^2]
 
-The Windrunners are [[Surgebinding - The Coppermind|Surgebinders]] who use the [[Surgebinding - The Coppermind|Surges]] of Adhesion and Gravitation, and they are associated with the sapphire [[Polestone - The Coppermind|polestone]]. They form a [[Nahel bond - The Coppermind|Nahel bond]] with [honorspren](https://coppermind.net/wiki/Honorspren "Honorspren"). [Windspren](https://coppermind.net/wiki/Windspren "Windspren") form their Shardplate. The combination of Adhesion and Gravitation results in the three [Lashings](Order%20of%20Windrunners%20-%20The%20Coppermind.md#Abilities).
+The Windrunners are [[Surgebinding - The Coppermind|Surgebinders]] who use the [[Surgebinding - The Coppermind|Surges]] of Adhesion and Gravitation, and they are associated with the sapphire [[Polestone - The Coppermind|polestone]]. They form a [[Nahel bond - The Coppermind|Nahel bond]] with [honorspren](https://coppermind.net/wiki/Honorspren "Honorspren"). [[Spren - The Coppermind|Windspren]] form their Shardplate. The combination of Adhesion and Gravitation results in the three [Lashings](Order%20of%20Windrunners%20-%20The%20Coppermind.md#Abilities).
 
 ## Philosophy
 
@@ -28,7 +28,7 @@ The order believes in structures of command, team dynamics, and the importance o
 
 ## Ideals of the Windrunners
 
-The Ideals of the Knights Radiant, also known as the [Immortal Words](https://coppermind.net/wiki/Immortal_Words "Immortal Words"), are a set of rules by which the Radiants live. The First Ideal is shared by all of the orders, and is used as a motto for the Knights Radiant as a whole. Each of the orders then have an additional four Ideals that are unique to that order.[^10]
+The Ideals of the Knights Radiant, also known as the [[Knights Radiant - The Coppermind|Immortal Words]], are a set of rules by which the Radiants live. The First Ideal is shared by all of the orders, and is used as a motto for the Knights Radiant as a whole. Each of the orders then have an additional four Ideals that are unique to that order.[^10]
 
 The Ideals of the Order of Windrunners all focus on protecting the innocent and defenseless.[^4] Whenever a Windrunner speaks an Ideal, a glyph forms from ice at their feet, due to their order's closeness to the Bondsmiths on the [Double Eye](https://coppermind.net/wiki/Double_Eye_of_the_Almighty "Double Eye of the Almighty").[^11] Their oaths are generally acknowledged by the [[Stormfather - The Coppermind|Stormfather]],[^12] [^6] but can also be acknowledged by the [Wind](https://coppermind.net/wiki/Wind "Wind") [^13] or the Bondsmith of the Stormfather.[^14]
 
@@ -70,7 +70,7 @@ This oath focuses on protecting others despite one's caveats, but the exact word
 > 
 > — The Fourth Ideal of the Windrunners (as spoken by Kaladin) [^14]
 
-A major component of this oath is forgiving oneself for previous failures, and accepting that one cannot save everyone, while continuing to fight to protect them regardless of the possibility of failure.[^14] [^21] [^22] [^19] Upon achieving this Ideal, a Windrunner gains their [[Shardplate - The Coppermind|Shardplate]], which is formed of [windspren](https://coppermind.net/wiki/Windspren "Windspren").[^21] [^23]
+A major component of this oath is forgiving oneself for previous failures, and accepting that one cannot save everyone, while continuing to fight to protect them regardless of the possibility of failure.[^14] [^21] [^22] [^19] Upon achieving this Ideal, a Windrunner gains their [[Shardplate - The Coppermind|Shardplate]], which is formed of [[Spren - The Coppermind|windspren]].[^21] [^23]
 
 ### The Fifth Ideal
 
@@ -128,7 +128,7 @@ Among the honorspren, the bond is considered extremely intimate, as it involves 
 > 
 > — [[Kaladin - The Coppermind|Kaladin]] [^44]
 
-Windrunner [[Shardplate - The Coppermind|Shardplate]] is comprised of [windspren](https://coppermind.net/wiki/Windspren "Windspren"), and glows a vibrant blue.[^23] The windspren stay close to their Radiant, and can be summoned on command.[^45] [^46] The windspren are always protecting their Windrunner without the Radiant needing to think about it, but are not fully present until danger appears or they are summoned.[^44]
+Windrunner [[Shardplate - The Coppermind|Shardplate]] is comprised of [[Spren - The Coppermind|windspren]], and glows a vibrant blue.[^23] The windspren stay close to their Radiant, and can be summoned on command.[^45] [^46] The windspren are always protecting their Windrunner without the Radiant needing to think about it, but are not fully present until danger appears or they are summoned.[^44]
 
 Windrunners are capable of materializing their Shardplate fully, as other Orders do.[^44] [^23] The armor can also have a section appear right before a strike, then disappear again, leaving the Radiant more agile in a fight.[^44] The windspren can be commanded to armor other people when they need protection.[^29] [^47] The windspren can also be used to create barriers that deflect stormwinds.[^48]
 
@@ -142,9 +142,9 @@ A Windrunner fighting some [Shanay-im](https://coppermind.net/wiki/Shanay-im "Sh
 
 ### The Ancient Radiants
 
-Before the [[Day of Recreance - The Coppermind|Recreance]], the Windrunners primarily worked as scouts and special forces teams, and often used the Surge of Gravitation to deliver a team of Radiants on a secret mission.[^49] [^4] [^19] Though they were very similar to conventional soldiers, and had an appreciation for command structures and team dynamics,[^4] the [Stonewards](https://coppermind.net/wiki/Stonewards "Stonewards") were generally considered the best soldiers, though the Windrunners did dispute that claim at times.[^50] Nevertheless, they also focused the most on mastering their weapons. As a result of their Resonance, they had the most squires of all the orders.[^2] [^4] [^19]
+Before the [[Day of Recreance - The Coppermind|Recreance]], the Windrunners primarily worked as scouts and special forces teams, and often used the Surge of Gravitation to deliver a team of Radiants on a secret mission.[^49] [^4] [^19] Though they were very similar to conventional soldiers, and had an appreciation for command structures and team dynamics,[^4] the [[Order of Stonewards - The Coppermind|Stonewards]] were generally considered the best soldiers, though the Windrunners did dispute that claim at times.[^50] Nevertheless, they also focused the most on mastering their weapons. As a result of their Resonance, they had the most squires of all the orders.[^2] [^4] [^19]
 
-Around the time of the Recreance the Windrunners were an order with over a hundred members,[^51] and a considerable number of squires.[^2] They also reportedly had some issues with the [[Order of Skybreakers - The Coppermind|Order of Skybreakers]],[^52] due to their varying interpretations of the law.[^19] At the beginning of the Recreance a large number of Windrunners along with many [Stonewards](https://coppermind.net/wiki/Stonewards "Stonewards") abandoned their [Shardblades](https://coppermind.net/wiki/Shardblade "Shardblade") and [[Shardplate - The Coppermind|Shardplates]] before the fortress known as [Feverstone Keep](https://coppermind.net/wiki/Feverstone_Keep "Feverstone Keep"), which was recorded in one of [Dalinar's visions](https://coppermind.net/wiki/Dalinar%27s_visions "Dalinar's visions").[^51]
+Around the time of the Recreance the Windrunners were an order with over a hundred members,[^51] and a considerable number of squires.[^2] They also reportedly had some issues with the [[Order of Skybreakers - The Coppermind|Order of Skybreakers]],[^52] due to their varying interpretations of the law.[^19] At the beginning of the Recreance a large number of Windrunners along with many [[Order of Stonewards - The Coppermind|Stonewards]] abandoned their [Shardblades](https://coppermind.net/wiki/Shardblade "Shardblade") and [[Shardplate - The Coppermind|Shardplates]] before the fortress known as [Feverstone Keep](https://coppermind.net/wiki/Feverstone_Keep "Feverstone Keep"), which was recorded in one of [Dalinar's visions](https://coppermind.net/wiki/Dalinar%27s_visions "Dalinar's visions").[^51]
 
 ### The Refounded Windrunners
 
@@ -152,11 +152,11 @@ During the [Battle of the Tower](https://coppermind.net/wiki/Battle_of_the_Tower
 
 As a result of both their past as bridge crews in the army of [Torol Sadeas](https://coppermind.net/wiki/Torol_Sadeas "Torol Sadeas") and Kaladin's military training, the refounded order of Windrunners is well organized and maintains a strong military structure.[^54] [^6] They have ranks for squires,[^53] such as CP4 (Commission Placement 4), as they decided to have ranks that someone could earn while advancing as a squire.[^55] They felt it would be good to promote squires to different ranks.[^7] The Windrunners' Resonance has led many of the bridgemen, as well as some others, to become squires,[^56] [^57] making the Windrunners one of, if not the, most numerous of the modern orders. About a year after the [[Battle of Thaylen Field - The Coppermind|Battle of Thaylen Field]], the order had roughly three hundred Windrunners, with about fifty full Windrunners.[^55] [^53]
 
-Having a Windrunner on board a vessel was considered by [Thaylen](https://coppermind.net/wiki/Thaylen "Thaylen") sailors to be a good omen.[^58]
+Having a Windrunner on board a vessel was considered by [[Thaylenah - The Coppermind|Thaylen]] sailors to be a good omen.[^58]
 
 ### Reforging of the Oathpact and the Night of Sorrows
 
-Following the Reforging of the [[Oathpact - The Coppermind|Oathpact]] on, [Kaladin Stormblessed](https://coppermind.net/wiki/Kaladin_Stormblessed "Kaladin Stormblessed") replaced [[Jezrien - The Coppermind|Jezrien]] as the Herald of Kings and the Patron of the Windrunners.[^59]
+Following the Reforging of the [[Oathpact - The Coppermind|Oathpact]] on, [[Kaladin - The Coppermind|Kaladin Stormblessed]] replaced [[Jezrien - The Coppermind|Jezrien]] as the Herald of Kings and the Patron of the Windrunners.[^59]
 
 The [Night of Sorrows](https://coppermind.net/wiki/Night_of_Sorrows "Night of Sorrows"), which occurred contemporaneously with the Reforging of the [[Oathpact - The Coppermind|Oathpact]], led to all [[Stormlight - The Coppermind|Stormlight]] on the planet being drawn away and left inaccessible.[^60] The full effects this would have on the Knights Radiant are currently unknown.
 

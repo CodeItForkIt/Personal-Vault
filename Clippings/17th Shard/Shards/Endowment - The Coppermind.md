@@ -21,7 +21,7 @@ Vessel: "[[Edgli - The Coppermind]]"
 
 ## Intent
 
-Endowment's [[Shards|Intent]] is not entirely clear; it's likely related to bestowing gifts or talents upon others. The Intent does not seem to influence [[Edgli - The Coppermind|Edgli]] in all matters, as she is still capable of refusing giving aid to [[Hoid - The Coppermind|Hoid]].[^4] The prime examples of the Intent's influence are the creation of the Returned, via resurrection and a Returned Breath, and the magic system of [[Awakening - The Coppermind|Awakening]], as [Breath](https://coppermind.net/wiki/Breath "Breath") can only be given, and cannot be forcefully taken.[^5] Furthermore, it is said to be Endowment's nature to give gifts without strings attached.[^6]
+Endowment's [[Shards|Intent]] is not entirely clear; it's likely related to bestowing gifts or talents upon others. The Intent does not seem to influence [[Edgli - The Coppermind|Edgli]] in all matters, as she is still capable of refusing giving aid to [[Hoid - The Coppermind|Hoid]].[^4] The prime examples of the Intent's influence are the creation of the Returned, via resurrection and a Returned Breath, and the magic system of [[Awakening - The Coppermind|Awakening]], as [[BioChromatic Breath - The Coppermind|Breath]] can only be given, and cannot be forcefully taken.[^5] Furthermore, it is said to be Endowment's nature to give gifts without strings attached.[^6]
 
 The way in which she manifests her Intent is notably erratic and inconsistent.[^7] [^8]
 
@@ -31,7 +31,7 @@ Endowment is the Shard Hoid might have taken, had he wanted to become a Vessel.[
 
 ### Breath and Awakening
 
-Nalthis' only known magic system is [[Awakening - The Coppermind|Awakening]] -- the use of [Breath](https://coppermind.net/wiki/Breath "Breath"), Endowment's [[Investiture - The Coppermind|Investiture]] in its gaseous form, to enact a variety of effects, typically tied to animating inanimate objects. Every Nalthian is born with a single Breath, and can bestow it onto other people or objects. Giving away one's Breath makes one into a Drab, which makes a person prone to depression and sickness.[^10] By contrast, holding more Breath grants a variety of benefits, the number of which increases with the number of Breaths held; the tiers of acquiring new abilities are called [[Heightening - The Coppermind|Heightenings]].[^11]
+Nalthis' only known magic system is [[Awakening - The Coppermind|Awakening]] -- the use of [[BioChromatic Breath - The Coppermind|Breath]], Endowment's [[Investiture - The Coppermind|Investiture]] in its gaseous form, to enact a variety of effects, typically tied to animating inanimate objects. Every Nalthian is born with a single Breath, and can bestow it onto other people or objects. Giving away one's Breath makes one into a Drab, which makes a person prone to depression and sickness.[^10] By contrast, holding more Breath grants a variety of benefits, the number of which increases with the number of Breaths held; the tiers of acquiring new abilities are called [[Heightening - The Coppermind|Heightenings]].[^11]
 
 Breaths are bestowed upon others with [Commands](https://coppermind.net/wiki/Command "Command"). The primary command is "My life to yours. My Breath become yours." However, hundreds of other Commands can be used to bestow Breath onto inanimate objects or dead bodies, Awakening them. Awakened objects perform a specific task, dictated by their Commands, which can range from simple, such as "hold when thrown" to complex, such as "fetch keys".[^12] The more complex the Command, the more Breath it requires.[^13] Additionally, animating objects with Breath requires color; a nearby source of vivid color is required, and will be bleached, in order for the Command to take effect.[^13]
 
@@ -75,13 +75,13 @@ Some time later, [[Harmony - The Coppermind|Harmony]] contacted Endowment at Hoi
 
 > “ *By the Colors!* ”
 > 
-> — [Nalthian](https://coppermind.net/wiki/Nalthian "Nalthian") expression [^19]
+> — [[Nalthis - The Coppermind|Nalthian]] expression [^19]
 
 ![[Endowment---The-Coppermind-1.png]]
 
 by [Heatherly](https://coppermind.net/wiki/Coppermind:Artists/Heatherly "Coppermind:Artists/Heatherly")
 
-Despite being Nalthis' only Shard, the planet's inhabitants seem by and large unaware of her existence, even through religion. Of the known cultures, only the [[Pahn Kahl - The Coppermind|Pahn Kahl]] have any knowledge of her; and even then, she is known only as the voice that brings back the Returned.[^41] While the people of [[Idris - The Coppermind|Idris]] are monotheistic, their god, [Austre](https://coppermind.net/wiki/Austre "Austre"), is not based on Endowment.[^42]
+Despite being Nalthis' only Shard, the planet's inhabitants seem by and large unaware of her existence, even through religion. Of the known cultures, only the [[Pahn Kahl - The Coppermind|Pahn Kahl]] have any knowledge of her; and even then, she is known only as the voice that brings back the Returned.[^41] While the people of [[Idris - The Coppermind|Idris]] are monotheistic, their god, [[Austrism - The Coppermind|Austre]], is not based on Endowment.[^42]
 
 Regardless, she is capable of influencing Nalthis through her Returned. She communicates with select few dead as a disembodied voice, and presents them with chosen visions of the future before asking them to Return and act on this vision. Although the Returned come back amnesiac, their memories do come back when needed.[^16] Through this, Endowment can indirectly steer the course of history; most notably, Returning [Vo](https://coppermind.net/wiki/Vo "Vo") caused the creation of [[Hallandren - The Coppermind|Hallandren]] and Returning [Shashara](https://coppermind.net/wiki/Shashara "Shashara") led to the creation of [[The Coppermind Wiki - 17th Shard, the Official Brandon Sanderson Fansite 19|Nightblood]]. Endowment also had some additional level of involvement in Nightblood's creation, above simply her Investiture being used.[^43]
 

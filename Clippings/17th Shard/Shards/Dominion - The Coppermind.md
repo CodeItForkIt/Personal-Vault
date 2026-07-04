@@ -15,19 +15,19 @@ Vessel: "[[Skai - The Coppermind]]"
 
 > “ *At some point in the distant past, both Devotion and Dominion were destroyed. Their Investiture—their power—was Splintered, their minds ripped away, their souls sent into the Beyond.* ”
 > 
-> — [Khriss](https://coppermind.net/wiki/Khriss "Khriss") [^3]
+> — [[Khrissalla - The Coppermind|Khriss]] [^3]
 
 **Dominion** is a [[Shards|Shard]] of [[Adonalsium - The Coppermind|Adonalsium]] once held by [[Skai - The Coppermind|Skai]].[^4] [^5] After the [[Shattering - The Coppermind|Shattering]], he traveled to [[Sel - The Coppermind|Sel]] with [[Devotion - The Coppermind|Devotion]], where both were [[Splinter - The Coppermind|Splintered]] by [[Odium - The Coppermind|Odium]].[^6] [^3]
 
 ## Intent
 
-Since Dominion was destroyed well before any other known events on Sel,[^7] it is somewhat unclear exactly how the Shard's Intent would drive its Vessel to act. The only trace of her are her [[Splinter - The Coppermind|splinters]], [[Skaze - The Coppermind|skaze]], which are thirsty for power as a result of their relationship with the Shard, and driven to maintain influence over politics of [Fjordell](https://coppermind.net/wiki/Fjordell "Fjordell").[^8] This suggests that Dominion's focus was amassing and maintaining control over others.
+Since Dominion was destroyed well before any other known events on Sel,[^7] it is somewhat unclear exactly how the Shard's Intent would drive its Vessel to act. The only trace of her are her [[Splinter - The Coppermind|splinters]], [[Skaze - The Coppermind|skaze]], which are thirsty for power as a result of their relationship with the Shard, and driven to maintain influence over politics of [[Fjorden - The Coppermind|Fjordell]].[^8] This suggests that Dominion's focus was amassing and maintaining control over others.
 
 ## Associated Magics
 
 ### The Dor
 
-When Odium Splintered Dominion and Devotion, he trapped their power in the [[Cognitive Realm - The Coppermind|Cognitive Realm]] to prevent them from gaining another Vessel. Since, unlike in the [[Spiritual Realm - The Coppermind|Spiritual Realm]], location exists in the Cognitive Realm, the power of the two Shards is trapped together as a giant, polarized storm of [[Investiture - The Coppermind|Investiture]] known as the [[Dor - The Coppermind|Dor]], which makes [worldhopping](https://coppermind.net/wiki/Worldhopping "Worldhopping") to Sel very dangerous.[^9] [^3]
+When Odium Splintered Dominion and Devotion, he trapped their power in the [[Cognitive Realm - The Coppermind|Cognitive Realm]] to prevent them from gaining another Vessel. Since, unlike in the [[Spiritual Realm - The Coppermind|Spiritual Realm]], location exists in the Cognitive Realm, the power of the two Shards is trapped together as a giant, polarized storm of [[Investiture - The Coppermind|Investiture]] known as the [[Dor - The Coppermind|Dor]], which makes [[17th Shard|worldhopping]] to Sel very dangerous.[^9] [^3]
 
 The existence of Dor has a profound effect on Sel, as rather than a single, planet-wide magic system, the planet has numerous ones, each making its home in a particular region, all influenced in some way by both Shards.[^1] An underlying similarity between all of them seems to be reliance on shape -- all forms of accessing the Dor are dependent on the user creating a specific shape, often based on the features of the land associated with a particular magic.[^10] [^11]
 
@@ -37,7 +37,7 @@ Magic systems using the Dor include:
 
 - **[[The Coppermind Wiki - 17th Shard, the Official Brandon Sanderson Fansite 6|AonDor]]** - the magic of [[Arelon - The Coppermind|Arelon]] and surrounding area; the ability to draw symbols called [[Aon - The Coppermind|Aons]] in the air to produce a variety of magical effects. Aons can only be drawn by [Elantrians](https://coppermind.net/wiki/Elantrian "Elantrian"), people raised to power and immortality through the city of [Elantris](https://coppermind.net/wiki/Elantris_\(city\) "Elantris (city)").
 - **[[ChayShan - The Coppermind|ChayShan]]** - the magic of [[JinDo - The Coppermind|JinDo]]; through taking specific stances and forming specific motions with one's own body, the user can access Dor for increased strength, awareness, and possibly other effects.
-- **[[Dakhor - The Coppermind|Dakhor]]** - the magic of [Fjordell](https://coppermind.net/wiki/Fjordell "Fjordell"); through chants, the bones of a Dakhor monk are induced to change shape, which grants them abilities such as increased strength, bodily transformation, and even teleportation.
+- **[[Dakhor - The Coppermind|Dakhor]]** - the magic of [[Fjorden - The Coppermind|Fjordell]]; through chants, the bones of a Dakhor monk are induced to change shape, which grants them abilities such as increased strength, bodily transformation, and even teleportation.
 - **[[Forgery - The Coppermind|Forgery]]** - magic usable in the [[Rose Empire - The Coppermind|Rose Empire]], originating from [[MaiPon - The Coppermind|MaiPon]]; accesses Dor through creation of [soulstamps](https://coppermind.net/wiki/Soulstamp "Soulstamp"), which contain a specific shape that is then imparted onto an object, rewriting its [[Spiritual Realm - The Coppermind|Spiritual]] aspect to change its history and, through this, present behavior and appearance.
 - **[[Bloodsealing - The Coppermind|Bloodsealing]]** - another Rose Empire magic, originating in [Dzhamar](https://coppermind.net/wiki/Dzhamar "Dzhamar"); using human blood, Bloodsealers can create wards and animate skeletons of the dead.
 
@@ -45,7 +45,7 @@ Magic systems using the Dor include:
 
 The [[Skaze - The Coppermind|skaze]] are [[Splinter - The Coppermind|splinters]] of Dominion, and consider Skai as something of a god or parent.[^15] [^16] The skaze are in some ways an inverse of the [[Seon - The Coppermind|seons]], though they assume similar shape and size -- round, about as large as a melon. Unlike seons, they are all black, seeming to suck light from their surroundings rather than emitting it. They also lack an [[Aon - The Coppermind|Aon]] in their center; rather, they are ringed by a pattern of misty symbols. They are reliant on humans, though it's unclear precisely how.[^17]
 
-Skaze are power-hungry and controlling. They maintain a heavy level of influence over the politics of [Fjordell](https://coppermind.net/wiki/Fjordell "Fjordell"), and were at least partially involved in the plan to wipe out [Elantris](https://coppermind.net/wiki/Elantris_\(city\) "Elantris (city)").[^8] [^13] The exact powers they possess is unknown.
+Skaze are power-hungry and controlling. They maintain a heavy level of influence over the politics of [[Fjorden - The Coppermind|Fjordell]], and were at least partially involved in the plan to wipe out [Elantris](https://coppermind.net/wiki/Elantris_\(city\) "Elantris (city)").[^8] [^13] The exact powers they possess is unknown.
 
 ### Other
 
@@ -77,7 +77,7 @@ Following their destruction, the [[Investiture - The Coppermind|Investiture]] of
 > 
 > — [[Hrathen - The Coppermind|Hrathen]] [^28]
 
-Though the two [[Shards]] of [[Sel - The Coppermind|Sel]] weren't directly involved in the human civilizations of the planet, the discovery of their powers drove their development regardless. The magic systems they inspired were fundamental in the development of local writing systems and languages, and heavily impacted the local cultures.[^3] In the present times, this influence is most pervasive in the form of [[Shu-Dereth - The Coppermind|Shu-Dereth]], the state religion of [Fjordell](https://coppermind.net/wiki/Fjordell "Fjordell"), though its god [Jaddeth](https://coppermind.net/wiki/Jaddeth "Jaddeth") is also slightly inspired by [[Devotion - The Coppermind|Devotion]].[^5]
+Though the two [[Shards]] of [[Sel - The Coppermind|Sel]] weren't directly involved in the human civilizations of the planet, the discovery of their powers drove their development regardless. The magic systems they inspired were fundamental in the development of local writing systems and languages, and heavily impacted the local cultures.[^3] In the present times, this influence is most pervasive in the form of [[Shu-Dereth - The Coppermind|Shu-Dereth]], the state religion of [[Fjorden - The Coppermind|Fjordell]], though its god [Jaddeth](https://coppermind.net/wiki/Jaddeth "Jaddeth") is also slightly inspired by [[Devotion - The Coppermind|Devotion]].[^5]
 
 Though it's unknown how much -- if anything -- of Devotion and Dominion's original self remains, they continue to have magical effects on Sel. As [[Dor - The Coppermind|Dor]], they make the Selish [[Cognitive Realm - The Coppermind|Cognitive Realm]] exceptionally dangerous to travel through.[^3] Their [[Splinter - The Coppermind|splinters]], the [[Skaze - The Coppermind|skaze]], continue to have political power over Fjordell.[^8]
 

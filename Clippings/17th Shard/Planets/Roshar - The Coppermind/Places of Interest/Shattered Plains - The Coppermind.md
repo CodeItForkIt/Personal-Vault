@@ -66,7 +66,7 @@ The Well of Control fills an important role in the ecosystem, providing the Chas
 
 ## Inhabitants
 
-Prior to the [[Clippings/17th Shard/Events/War of Reckoning - The Coppermind|War of Reckoning]], the only known permanent inhabitants of the Shattered Plains were the [[Listener - The Coppermind|listeners]], who occupied the ten craters on the western edge of the Plains.[^40] During the war, the craters were occupied by various [Alethi](https://coppermind.net/wiki/Alethi "Alethi") armies fighting the Parshendi under the [Vengeance Pact](https://coppermind.net/wiki/Vengeance_Pact "Vengeance Pact"). The Plains and the surrounding area are so barren that the warcamps are perhaps the only places where it is acceptable to pile refuse up high and allow the highstorm to carry it away, as there is no danger of the trash being carried into another city.[^41]
+Prior to the [[Clippings/17th Shard/Events/War of Reckoning - The Coppermind|War of Reckoning]], the only known permanent inhabitants of the Shattered Plains were the [[Listener - The Coppermind|listeners]], who occupied the ten craters on the western edge of the Plains.[^40] During the war, the craters were occupied by various [Alethi](https://coppermind.net/wiki/Alethi "Alethi") armies fighting the Parshendi under the [[War of Reckoning - The Coppermind|Vengeance Pact]]. The Plains and the surrounding area are so barren that the warcamps are perhaps the only places where it is acceptable to pile refuse up high and allow the highstorm to carry it away, as there is no danger of the trash being carried into another city.[^41]
 
 ### Listeners
 
@@ -158,7 +158,7 @@ Brightness [Chanan](https://coppermind.net/wiki/Chanan "Chanan"), a distant Seba
 
 The [[Chasmfiend - The Coppermind|chasmfiends]] inhabiting this region come here to pupate for energy they receive from Odium's perpendicularity.[^8] They regard singer and human meat to be not as fine as other types but are willing to consume it if needed. They are sapient, but think in terms of feelings and emotions.[^59]
 
-When the Alethi and [[Listener - The Coppermind|listeners]] began hunting them for their [[Gemheart - The Coppermind|gemhearts]], they initially assumed that, as it would be in their society, it was an attempt to assert dominance over them and embraced the challenge. They were surprised and heartbroken, then, when they discovered that defenseless chrysalises were also being attacked. By the time of the [[Battle of Narak - The Coppermind|Battle of Narak]], their population had been significantly reduced and a group of about fifty of them chose to join up with the listeners who had escaped [stormform](https://coppermind.net/wiki/Stormform "Stormform"), trading their strength and some of the food they hunt for peace.[^59]
+When the Alethi and [[Listener - The Coppermind|listeners]] began hunting them for their [[Gemheart - The Coppermind|gemhearts]], they initially assumed that, as it would be in their society, it was an attempt to assert dominance over them and embraced the challenge. They were surprised and heartbroken, then, when they discovered that defenseless chrysalises were also being attacked. By the time of the [[Battle of Narak - The Coppermind|Battle of Narak]], their population had been significantly reduced and a group of about fifty of them chose to join up with the listeners who had escaped [[Regal - The Coppermind|stormform]], trading their strength and some of the food they hunt for peace.[^59]
 
 ## Politics
 

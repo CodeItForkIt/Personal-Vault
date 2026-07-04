@@ -1,0 +1,14 @@
+{
+	"id": "mtg-decklist",
+	"name": "MtG Decklist",
+	"version": "1.0.7",
+	"minAppVersion": "1.12.0",
+	"description": "Render Magic: The Gathering decklists, combos, and inline cards & mana symbols.",
+	"author": "ekrizdis",
+	"authorUrl": "",
+	"fundingUrl": {
+		"ko-fi": "https://ko-fi.com/ekrizdis",
+		"buy-me-a-coffee": "https://buymeacoffee.com/TheEkrizdis"
+	},
+	"isDesktopOnly": false
+}

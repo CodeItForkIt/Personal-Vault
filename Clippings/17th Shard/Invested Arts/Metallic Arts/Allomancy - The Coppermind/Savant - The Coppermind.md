@@ -19,7 +19,7 @@ A **savant** is someone who has used an [[Investiture - The Coppermind|Investitu
 
 An Allomancer who has flared their metal for a long time can become a savant. Generally, savantism gives the Allomancer more blunt power and sometimes grants additional special effects. It is dangerous and harmful to the body. The Allomancer might rely so much on or get so accustomed to the metal that when they extinguish the metal, they experience serious withdrawal effects.
 
-With most metals, the effects are quite small. [[Bronze - The Coppermind#Allomantic Use|Seekers]], for example, often become savants without being aware of it, granting them a boost to the range of their abilities. However, some metals warp the body of savants much more. [[Tin - The Coppermind|Tin]] savants experience such magnification of their senses that they can become incapacitated by bright light or loud sounds. [[Pewter - The Coppermind|Pewter]] [Mistings](https://coppermind.net/wiki/Misting "Misting") often die before becoming savants,[^4] as they feel neither pain nor exhaustion to any great extent and therefore may ignore wounds that later prove fatal. Pewter savants heal quickly, though not as fast as someone tapping health from a goldmind.[^5]
+With most metals, the effects are quite small. [[Bronze - The Coppermind#Allomantic Use|Seekers]], for example, often become savants without being aware of it, granting them a boost to the range of their abilities. However, some metals warp the body of savants much more. [[Tin - The Coppermind|Tin]] savants experience such magnification of their senses that they can become incapacitated by bright light or loud sounds. [[Pewter - The Coppermind|Pewter]] [[Allomancy - The Coppermind|Mistings]] often die before becoming savants,[^4] as they feel neither pain nor exhaustion to any great extent and therefore may ignore wounds that later prove fatal. Pewter savants heal quickly, though not as fast as someone tapping health from a goldmind.[^5]
 
 [Spook](https://coppermind.net/wiki/Spook "Spook") is an Allomantic savant. He flares his tin for so long that he can sense things as minute as the wind of a sword's passing. However, his senses are so enhanced that any light is too bright for him, forcing him to wear a blindfold, and he keeps his ears stuffed with wool to block out noises.
 
@@ -27,7 +27,7 @@ If someone were able to burn the amount of [[Lerasium - The Coppermind|lerasium]
 
 ## Feruchemical savant
 
-Since Feruchemy doesn't draw from an external power, it is very difficult to become a savant.[^8] If the Feruchemist is able to [Compound](https://coppermind.net/wiki/Compound "Compound") and draw power from an outside source they could become one.[^9] [^1]
+Since Feruchemy doesn't draw from an external power, it is very difficult to become a savant.[^8] If the Feruchemist is able to [[Compounding - The Coppermind|Compound]] and draw power from an outside source they could become one.[^9] [^1]
 
 ## Surgebinding savant
 
@@ -39,11 +39,11 @@ Soulcasting savants begin to take on the physical characteristics of the substan
 
 ## Notable Savants
 
-- [Spook](https://coppermind.net/wiki/Spook "Spook") ([Tineye](https://coppermind.net/wiki/Tineye "Tineye"), former) [^15] [^16]
+- [Spook](https://coppermind.net/wiki/Spook "Spook") ([[Tin - The Coppermind|Tineye]], former) [^15] [^16]
 - [[Rashek - The Coppermind|Rashek]] ([[Allomancy - The Coppermind|Allomancy]] and [[Feruchemy - The Coppermind|Feruchemy]]) [^17] [^1]
-- [Miles](https://coppermind.net/wiki/Miles "Miles") ([Bloodmaker](https://coppermind.net/wiki/Bloodmaker "Bloodmaker")) [^1]
-- [Kaza](https://coppermind.net/wiki/Kaza "Kaza") ([Soulcaster](https://coppermind.net/wiki/Soulcaster "Soulcaster")) [^12]
-- [Ithi](https://coppermind.net/wiki/Ithi "Ithi") ([Soulcaster](https://coppermind.net/wiki/Soulcaster "Soulcaster")) [^13] [^2]
+- [Miles](https://coppermind.net/wiki/Miles "Miles") ([[Gold - The Coppermind|Bloodmaker]]) [^1]
+- [Kaza](https://coppermind.net/wiki/Kaza "Kaza") ([[Soulcasting - The Coppermind|Soulcaster]]) [^12]
+- [Ithi](https://coppermind.net/wiki/Ithi "Ithi") ([[Soulcasting - The Coppermind|Soulcaster]]) [^13] [^2]
 
 ## Trivia
 

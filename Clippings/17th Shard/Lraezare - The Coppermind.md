@@ -20,11 +20,11 @@ The city is located on the delta of the [Ry'DoAli River](https://coppermind.net/
 
 ## Economy
 
-It is one of the largest ports south of Kezare. The Shipowners' Circle, the ruling council of the [Helm](https://coppermind.net/wiki/Helm "Helm"), is located in Lraezare. It is also the residence of [Lord Admiral](https://coppermind.net/wiki/Lord_Admiral "Lord Admiral") [Lokkall](https://coppermind.net/wiki/Lokkall "Lokkall").[^2]
+It is one of the largest ports south of Kezare. The Shipowners' Circle, the ruling council of the [[Lossand - The Coppermind|Helm]], is located in Lraezare. It is also the residence of [[Taishin - The Coppermind|Lord Admiral]] [Lokkall](https://coppermind.net/wiki/Lokkall "Lokkall").[^2]
 
 ## History
 
-When [[Kenton - The Coppermind|Kenton]] was trying to gain support for the [Taisha](https://coppermind.net/wiki/Taisha "Taisha") vote regarding the [[Diem - The Coppermind|Diem]], [[Vey - The Coppermind|Vey]] disappeared, hoping to avoid him. [[Khrissalla - The Coppermind|Khrissalla]] was able to learn that he was in Lraezare. [Naimeer](https://coppermind.net/wiki/Naimeer "Naimeer"), the dockmaster in Kezare and Vey's nephew, tried to prevent Kenton from sailing out of Kezare, but then-Lord Admiral [[Delius - The Coppermind|Delius]] intervened on Kenton's behalf and joined his party for the journey.[^2]
+When [[Kenton - The Coppermind|Kenton]] was trying to gain support for the [[Taishin - The Coppermind|Taisha]] vote regarding the [[Diem - The Coppermind|Diem]], [[Vey - The Coppermind|Vey]] disappeared, hoping to avoid him. [[Khrissalla - The Coppermind|Khrissalla]] was able to learn that he was in Lraezare. [Naimeer](https://coppermind.net/wiki/Naimeer "Naimeer"), the dockmaster in Kezare and Vey's nephew, tried to prevent Kenton from sailing out of Kezare, but then-Lord Admiral [[Delius - The Coppermind|Delius]] intervened on Kenton's behalf and joined his party for the journey.[^2]
 
 In Lraezare, Kenton was able to confront Vey with the knowledge of his debt to the Diem, securing his vote. Delius was also able to manipulate the Helm into replacing him as Lord Admiral, restoring his ability to own property, including a large fleet of ships. His regained mercantile power allowed him to threaten Lokkall into giving the Diem his vote. Delius, Kenton, and their team then quickly departed for Kezare.[^2]
 

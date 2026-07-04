@@ -22,7 +22,7 @@ The Willshapers are [[Surgebinding - The Coppermind|Surgebinders]] who use the [
 > 
 > —The core philosophy of the Willshapers [^3]
 
-Willshapers generally subscribe to a philosophy that all people should be free to make their own choices.[^4] [^3] They focus on personal fulfillment, radical self-expression, and freeing those who are captive.[^5] [^6] This can and does mean the opposition of injustice, but also the concept that the people need to be able to solve problems, and seek what they dream, themselves. They build society around these ideas, putting up real structures, or equally systems, that allow for freedom. They tend to believe that any law that stops people from seeking what they dream is immoral, often contrary to the [Skybreakers](https://coppermind.net/wiki/Skybreakers "Skybreakers") who are more oriented towards the concept that people should not be able to do something unless the law allows.[^5] Despite this, they understand that some laws are needed to prevent tyrants, and advocate for laws that do so.[^3]
+Willshapers generally subscribe to a philosophy that all people should be free to make their own choices.[^4] [^3] They focus on personal fulfillment, radical self-expression, and freeing those who are captive.[^5] [^6] This can and does mean the opposition of injustice, but also the concept that the people need to be able to solve problems, and seek what they dream, themselves. They build society around these ideas, putting up real structures, or equally systems, that allow for freedom. They tend to believe that any law that stops people from seeking what they dream is immoral, often contrary to the [[Order of Skybreakers - The Coppermind|Skybreakers]] who are more oriented towards the concept that people should not be able to do something unless the law allows.[^5] Despite this, they understand that some laws are needed to prevent tyrants, and advocate for laws that do so.[^3]
 
 The order is said to be quite varied, but members share a love of adventure, novelty, or oddity.[^7] [^8] They tend to attract builders, craftsmen, and other artisans.[^4] [^5] Willshapers tend to teach skills and trades to others, so they can better themselves and their community.[^3]
 
@@ -30,7 +30,7 @@ In modern Vorin theology, they are associated with the number eight, the polesto
 
 ## Ideals of the Willshapers
 
-The Ideals of the Knights Radiant, also known as the [Immortal Words](https://coppermind.net/wiki/Immortal_Words "Immortal Words"), are a set of rules by which the Radiants live. The First Ideal is shared by all of the orders, and is used as a motto for the Knights Radiant as a whole. Each of the orders then have an additional four Ideals that are unique to that order.[^10] The Ideals of the Order of Willshapers all focus on individual freedom and liberty; the Willshapers champion self-expression and freedom of choice for all.[^4] Their oaths can be acknowledged by [[Cultivation - The Coppermind|Cultivation]] or the [[Stormfather - The Coppermind|Stormfather]].[^11] [^12]
+The Ideals of the Knights Radiant, also known as the [[Knights Radiant - The Coppermind|Immortal Words]], are a set of rules by which the Radiants live. The First Ideal is shared by all of the orders, and is used as a motto for the Knights Radiant as a whole. Each of the orders then have an additional four Ideals that are unique to that order.[^10] The Ideals of the Order of Willshapers all focus on individual freedom and liberty; the Willshapers champion self-expression and freedom of choice for all.[^4] Their oaths can be acknowledged by [[Cultivation - The Coppermind|Cultivation]] or the [[Stormfather - The Coppermind|Stormfather]].[^11] [^12]
 
 ### The First Ideal
 
@@ -58,7 +58,7 @@ This oath focuses on fighting against oppression despite one's flaws and biases.
 
 ### The Fourth Ideal
 
-The specific words of this Ideal are individualized, but overarching themes are focusing on the people, and if the Willshaper is making a lasting difference in their lives.[^16] This Ideal prioritizes giving others the ability to maintain their own freedom. Upon achieving this Ideal, a Willshaper gains their [[Shardplate - The Coppermind|Shardplate]], which is formed of [joyspren](https://coppermind.net/wiki/Joyspren "Joyspren").[^15] [^17]
+The specific words of this Ideal are individualized, but overarching themes are focusing on the people, and if the Willshaper is making a lasting difference in their lives.[^16] This Ideal prioritizes giving others the ability to maintain their own freedom. Upon achieving this Ideal, a Willshaper gains their [[Shardplate - The Coppermind|Shardplate]], which is formed of [[Spren - The Coppermind|joyspren]].[^15] [^17]
 
 ## Abilities
 
@@ -66,7 +66,7 @@ The Willshapers use the Surges of **Transportation** and **Cohesion**. Like most
 
 ### Transportation
 
-[[Surgebinding - The Coppermind|**Transportation**]] allows the transfer of one's physical body into and out of the [[Cognitive Realm - The Coppermind|Cognitive Realm]],[^18] a process sometimes known as Elsecalling.[^19] It works by creating a miniature [[Perpendicularity - The Coppermind|perpendicularity]], called Elsegates, that the Willshaper can go through.[^20] [^21] This surge is incredibly difficult to master.[^22] [^21] It is significantly easier to enter the Cognitive Realm using Elsecalling than it is to leave it.[^23] Willshapers are able to use this ability to [worldhop](https://coppermind.net/wiki/Worldhop "Worldhop").[^24] Willshapers are also capable of looking into Shadesmar without fully Elsecalling.[^25]
+[[Surgebinding - The Coppermind|**Transportation**]] allows the transfer of one's physical body into and out of the [[Cognitive Realm - The Coppermind|Cognitive Realm]],[^18] a process sometimes known as Elsecalling.[^19] It works by creating a miniature [[Perpendicularity - The Coppermind|perpendicularity]], called Elsegates, that the Willshaper can go through.[^20] [^21] This surge is incredibly difficult to master.[^22] [^21] It is significantly easier to enter the Cognitive Realm using Elsecalling than it is to leave it.[^23] Willshapers are able to use this ability to [[17th Shard|worldhop]].[^24] Willshapers are also capable of looking into Shadesmar without fully Elsecalling.[^25]
 
 ### Cohesion
 
@@ -78,7 +78,7 @@ When a Willshaper is also a [[Regal - The Coppermind|Regal]], additional abiliti
 
 ### Shardplate Abilities
 
-Willshapers' [[Shardplate - The Coppermind|Shardplate]] is formed of [joyspren](https://coppermind.net/wiki/Joyspren "Joyspren").[^1] [^17]
+Willshapers' [[Shardplate - The Coppermind|Shardplate]] is formed of [[Spren - The Coppermind|joyspren]].[^1] [^17]
 
 ## History
 
@@ -86,9 +86,9 @@ Willshapers' [[Shardplate - The Coppermind|Shardplate]] is formed of [joyspren](
 
 Willshapers worked as aid settlements, constructing buildings and infrastructure, and teaching essential trades.[^16] Though the order tended to attract builders, craftsmen and other artisans, their membership tended to be varied in profession.[^4] They were also varied in personality, but generally enjoyed discovering new, unusual and strange things; they were also considered, by some, to be capricious and unreliable, making them somewhat frustrating to interact with.[^7] [^16]
 
-Where the [Windrunners](https://coppermind.net/wiki/Windrunners "Windrunners") were the protectors and the [Stonewards](https://coppermind.net/wiki/Stonewards "Stonewards") the soldiers, the Willshapers were the liberators, both freeing those who were physically captive and aiding those who espoused new and radical ideas.[^16] They tasked themselves with building and supporting societies; they aided those who resisted tyranny and oppression.[^16] They were also literal builders -- in times of peace, they would use theirs powers to aid in constructing buildings and infrastructure, as well as training those who lived there; in times of war, they would fortify towns; and after the battle was over they, like their patron Herald, would travel to teach people of crafts such as bronzeworking or sanitation.[^4] [^31]
+Where the [[Order of Windrunners - The Coppermind|Windrunners]] were the protectors and the [[Order of Stonewards - The Coppermind|Stonewards]] the soldiers, the Willshapers were the liberators, both freeing those who were physically captive and aiding those who espoused new and radical ideas.[^16] They tasked themselves with building and supporting societies; they aided those who resisted tyranny and oppression.[^16] They were also literal builders -- in times of peace, they would use theirs powers to aid in constructing buildings and infrastructure, as well as training those who lived there; in times of war, they would fortify towns; and after the battle was over they, like their patron Herald, would travel to teach people of crafts such as bronzeworking or sanitation.[^4] [^31]
 
-Much like the [Elsecallers](https://coppermind.net/wiki/Elsecallers "Elsecallers"), they were considered to have an affinity for [Shadesmar](https://coppermind.net/wiki/Shadesmar "Shadesmar"), suggesting that they might've also interacted with the [[Spren - The Coppermind|spren]] nations on regular basis.[^32]
+Much like the [[Order of Elsecallers - The Coppermind|Elsecallers]], they were considered to have an affinity for [Shadesmar](https://coppermind.net/wiki/Shadesmar "Shadesmar"), suggesting that they might've also interacted with the [[Spren - The Coppermind|spren]] nations on regular basis.[^32]
 
 ### True Desolation
 

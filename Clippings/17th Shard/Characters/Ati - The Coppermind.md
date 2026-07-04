@@ -106,7 +106,7 @@ Tanavast considered Ati to be a very kind and strong man, and to be one smarter 
 > 
 > —Ati [^5]
 
-Ati considers Vin one of his greatest agents, and has taken great pains to twist her to his purposes in order to have an appropriate tool to bring about the end.[^5] She was selected at birth due to an unusual combination of circumstances: she herself a [[Allomancy - The Coppermind|Mistborn]], with a [Seeker](https://coppermind.net/wiki/Seeker "Seeker") sister and an insane mother whom Ruin could influence. As such, he drove the mother to kill the sister and put her power into a Hemalurgic spike that would become Vin's earring.[^36]
+Ati considers Vin one of his greatest agents, and has taken great pains to twist her to his purposes in order to have an appropriate tool to bring about the end.[^5] She was selected at birth due to an unusual combination of circumstances: she herself a [[Allomancy - The Coppermind|Mistborn]], with a [[Bronze - The Coppermind|Seeker]] sister and an insane mother whom Ruin could influence. As such, he drove the mother to kill the sister and put her power into a Hemalurgic spike that would become Vin's earring.[^36]
 
 After [Reen's](https://coppermind.net/wiki/Reen "Reen") death, Ruin often makes use of his voice, speaking to Vin through the earring to influence her, mostly to make her less trusting of others.[^14] He also alters various texts to convince people that Vin is the [Hero of Ages](https://coppermind.net/wiki/Hero_of_Ages "Hero of Ages"), leading to her visiting the [[Well of Ascension - The Coppermind|Well of Ascension]]. There, he puts on a kindly persona to convince her to release the Well's power and thus free him.[^33] [^28]
 

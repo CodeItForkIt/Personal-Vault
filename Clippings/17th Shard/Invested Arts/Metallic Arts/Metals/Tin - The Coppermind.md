@@ -16,13 +16,13 @@ favicon: /favicon.ico
 ---
 ## Tin
 
-**Tin** is the Internal Physical Pulling metal. An [Allomancer](https://coppermind.net/wiki/Allomancer "Allomancer") burning tin has greatly enhanced senses. [Feruchemists](https://coppermind.net/wiki/Feruchemist "Feruchemist") can use tin to store enhanced senses, and when used as a [[Hemalurgic chimera - The Coppermind|Hemalurgic]] spike, tin steals physical senses.
+**Tin** is the Internal Physical Pulling metal. An [[Allomancy - The Coppermind|Allomancer]] burning tin has greatly enhanced senses. [[Feruchemy - The Coppermind|Feruchemists]] can use tin to store enhanced senses, and when used as a [[Hemalurgic chimera - The Coppermind|Hemalurgic]] spike, tin steals physical senses.
 
 The paired alloy of tin used in the Metallic Arts is [[Pewter - The Coppermind|pewter]].
 
 ## Allomantic Use
 
-A tin [Misting](https://coppermind.net/wiki/Misting "Misting") is known as a **Tineye**. Burning tin grants a Tineye increased sensitivity in all five senses at once.[^1] Furthermore, due to Allomancy's origin with [[Preservation - The Coppermind|Preservation]], they are able to see through the [mists](https://coppermind.net/wiki/Mist "Mist") that cover Scadrial.[^2] They may also be able to see through the gaseous Investiture of other Shards, though this is not a native power.[^3] [^4] [^5]
+A tin [[Allomancy - The Coppermind|Misting]] is known as a **Tineye**. Burning tin grants a Tineye increased sensitivity in all five senses at once.[^1] Furthermore, due to Allomancy's origin with [[Preservation - The Coppermind|Preservation]], they are able to see through the [mists](https://coppermind.net/wiki/Mist "Mist") that cover Scadrial.[^2] They may also be able to see through the gaseous Investiture of other Shards, though this is not a native power.[^3] [^4] [^5]
 
 Flaring tin causes a huge burst of sensory input, which can help Tineyes clear their heads when exhausted or disoriented.[^6] Tin will allow the Tineye to see in areas of low light, but does not allow the user to see in total darkness.[^7] Tineyes cannot see through their own eyelids.[^8] Burning tin has the drawback of possibly increasing senses beyond what is comfortable, and Tineyes cannot choose to only enhance specific senses. A Tineye cannot enhance their vision or hearing without also enhancing environmental cold or heat, hunger, and pain. Walking can be uncomfortable due to the Tineye being able to feel textures as subtle as the grain of wood on their feet, not to mention anything larger like pebbles. Lights and sounds that would normally be comfortable (such as looking directly into a fireplace or a raised voice) can be blinding or deafening, especially if introduced suddenly.
 
@@ -34,7 +34,7 @@ A notable example of a tin savant is [Spook](https://coppermind.net/wiki/Spook "
 
 ## Feruchemical Use
 
-A tin [Ferring](https://coppermind.net/wiki/Ferring "Ferring") is known as a **Windwhisperer**. Tin is used to store sensitivity of senses. One sense may be stored each in a tinmind and a different tinmind must be used for each sense.[^1] Unlike an Allomancer burning tin, it does not allow a Windwhisperer to see things that would be otherwise unobservable; instead, it compounds the potency of their senses currently available.[^14] While storing senses, those senses become weaker. For example, [[Sazed - The Coppermind|Sazed]] wears glasses while storing eyesight.[^15]
+A tin [[Feruchemy - The Coppermind|Ferring]] is known as a **Windwhisperer**. Tin is used to store sensitivity of senses. One sense may be stored each in a tinmind and a different tinmind must be used for each sense.[^1] Unlike an Allomancer burning tin, it does not allow a Windwhisperer to see things that would be otherwise unobservable; instead, it compounds the potency of their senses currently available.[^14] While storing senses, those senses become weaker. For example, [[Sazed - The Coppermind|Sazed]] wears glasses while storing eyesight.[^15]
 
 Tapping sight causes the edge of the Windwhisperer's vision to blur, and sacrifices immediate field of vision in favor of a more distant, binocular view.[^16] Tapping too much sight can induce nausea.[^17] Storing sense of smell decreases a Windwhisperer's perception of flavor, since much of the flavor of most foods comes from their scent.[^18]
 
@@ -44,7 +44,7 @@ Creatures with other senses can create tinminds for those senses as well as the 
 
 ### Compounding
 
-A tin [[Compounding - The Coppermind|Compounder]] would be able to use tin to have a nearly infinite supply of a senses, and therefore would be able to see microscopically, including seeing [axi](https://coppermind.net/wiki/Axi "Axi").[^24]
+A tin [[Compounding - The Coppermind|Compounder]] would be able to use tin to have a nearly infinite supply of a senses, and therefore would be able to see microscopically, including seeing [[Axon - The Coppermind|axi]].[^24]
 
 ## Hemalurgic Use
 
@@ -52,7 +52,7 @@ When used as a [[Hemalurgic chimera - The Coppermind|Hemalurgic]] spike, tin ste
 
 ### Kandra Blessing
 
-The [[Kandra - The Coppermind|kandra]] can use a pair of these spikes as a [Blessing](https://coppermind.net/wiki/Blessing "Blessing") and call them the **Blessing of Awareness**.[^25] Like all kandra Blessings, the Blessing gives the [mistwraiths](https://coppermind.net/wiki/Mistwraith "Mistwraith") sentience, with the added benefit of heightened senses.[^26]
+The [[Kandra - The Coppermind|kandra]] can use a pair of these spikes as a [[Kandra - The Coppermind|Blessing]] and call them the **Blessing of Awareness**.[^25] Like all kandra Blessings, the Blessing gives the [mistwraiths](https://coppermind.net/wiki/Mistwraith "Mistwraith") sentience, with the added benefit of heightened senses.[^26]
 
 ## Fabrial Use
 

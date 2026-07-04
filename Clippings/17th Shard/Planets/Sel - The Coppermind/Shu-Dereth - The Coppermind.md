@@ -13,7 +13,7 @@ favicon: /favicon.ico
 ---
 ## Shu-Dereth
 
-**Shu-Dereth** is a religion practiced on the [[Sel - The Coppermind|Selish]] continent known as [Opelon](https://coppermind.net/wiki/Opelon "Opelon") ([Aonic](https://coppermind.net/wiki/Aonic "Aonic") term) or [Sycla](https://coppermind.net/wiki/Sycla "Sycla") ([[Fjorden - The Coppermind|Fjordell]] term).[^1] [^2] [^3] During the events of [*Elantris*](https://coppermind.net/wiki/Elantris_\(book\) "Elantris (book)"), it is the official religion of all nations east of the [Dathreki mountains](https://coppermind.net/wiki/Atad_Mountains "Atad Mountains"); [[Arelon - The Coppermind|Arelon]] and [[Teod - The Coppermind|Teod]] are the only nations within the “known world” that remain holdouts. [^1] [^4]
+**Shu-Dereth** is a religion practiced on the [[Sel - The Coppermind|Selish]] continent known as [[Sel - The Coppermind|Opelon]] ([Aonic](https://coppermind.net/wiki/Aonic "Aonic") term) or [[Sel - The Coppermind|Sycla]] ([[Fjorden - The Coppermind|Fjordell]] term).[^1] [^2] [^3] During the events of [*Elantris*](https://coppermind.net/wiki/Elantris_\(book\) "Elantris (book)"), it is the official religion of all nations east of the [Dathreki mountains](https://coppermind.net/wiki/Atad_Mountains "Atad Mountains"); [[Arelon - The Coppermind|Arelon]] and [[Teod - The Coppermind|Teod]] are the only nations within the “known world” that remain holdouts. [^1] [^4]
 
 ## Beliefs
 

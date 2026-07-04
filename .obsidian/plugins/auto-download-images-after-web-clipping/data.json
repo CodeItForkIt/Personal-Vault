@@ -1,0 +1,7 @@
+{
+  "watchFolders": "Clippings",
+  "delayMs": 2000,
+  "language": "auto",
+  "attachmentPathMode": "custom",
+  "customAttachmentFolder": "attachments"
+}

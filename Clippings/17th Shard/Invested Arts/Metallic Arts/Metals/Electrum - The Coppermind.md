@@ -24,7 +24,7 @@ The electrum used in the Metallic Arts is forty-five percent gold, fifty-five pe
 
 ## Allomantic Use
 
-An electrum [Misting](https://coppermind.net/wiki/Misting "Misting") is known as an **Oracle**. Burning electrum will reveal possible futures of the Oracle up to several seconds, by casting shadows of oneself like [[Atium - The Coppermind|atium]] shadows.[^2] One use of electrum is its ability to counter [[Atium - The Coppermind|atium]], in this regard and the fact that gold and silver are relatively cheap compared to atium. [Elend](https://coppermind.net/wiki/Elend "Elend") called it "poor man's atium".
+An electrum [[Allomancy - The Coppermind|Misting]] is known as an **Oracle**. Burning electrum will reveal possible futures of the Oracle up to several seconds, by casting shadows of oneself like [[Atium - The Coppermind|atium]] shadows.[^2] One use of electrum is its ability to counter [[Atium - The Coppermind|atium]], in this regard and the fact that gold and silver are relatively cheap compared to atium. [Elend](https://coppermind.net/wiki/Elend "Elend") called it "poor man's atium".
 
 While burning electrum the Oracle's future will not be revealed to enemy Allomancers burning atium. Instead, it will cause the Oracle's observed atium shadow to split, preventing the enemy Allomancer from predicting one's actions.[^3]
 
@@ -32,7 +32,7 @@ If burned with [[Duralumin - The Coppermind|duralumin]], it would likely have a 
 
 ## Feruchemical Use
 
-An electrum [Ferring](https://coppermind.net/wiki/Ferring "Ferring") is known as a **Pinnacle**. Electrum is used to store determination. A Pinnacle filling an electrummind will become depressed, and can tap it later to enter a manic state.[^2]
+An electrum [[Feruchemy - The Coppermind|Ferring]] is known as a **Pinnacle**. Electrum is used to store determination. A Pinnacle filling an electrummind will become depressed, and can tap it later to enter a manic state.[^2]
 
 ## Hemalurgic Use
 
@@ -44,7 +44,7 @@ When used as a Hemalurgic spike, electrum steals Enhancement Allomantic powers (
 
 ## History
 
-The [Lord Ruler](https://coppermind.net/wiki/Lord_Ruler "Lord Ruler") hid electrum from public knowledge since it would completely destroy the value of atium and the system of atium economy. Vin later found descriptions of this metal on a metal plate in the [Urteau](https://coppermind.net/wiki/Urteau "Urteau") [storage cavern](https://coppermind.net/wiki/Storage_cavern "Storage cavern").[^7]
+The [[Rashek - The Coppermind|Lord Ruler]] hid electrum from public knowledge since it would completely destroy the value of atium and the system of atium economy. Vin later found descriptions of this metal on a metal plate in the [Urteau](https://coppermind.net/wiki/Urteau "Urteau") [storage cavern](https://coppermind.net/wiki/Storage_cavern "Storage cavern").[^7]
 
 ## Trivia
 

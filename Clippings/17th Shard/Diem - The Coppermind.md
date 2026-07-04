@@ -12,7 +12,7 @@ favicon: "/favicon.ico"
 ---
 ## Diem
 
-The **Diem** refers to both the [[Lossand - The Coppermind#Politics|Profession]] of [[Sand mastery - The Coppermind|sand masters]], known formally as the **Diem of the Sand**, and the building used as their headquarters. The Diem of the Sand is one of the eight recognized [[Lossand - The Coppermind|Lossandin]] Professions. The [Kerztian](https://coppermind.net/wiki/Kerztian "Kerztian") word for sand master is **Ry'Kensha**. It is led by the [[Taishin - The Coppermind#The Lord Mastrell|Lord Mastrell]]. The current Lord Mastrell is [[Kenton - The Coppermind|Kenton]].
+The **Diem** refers to both the [[Lossand - The Coppermind#Politics|Profession]] of [[Sand mastery - The Coppermind|sand masters]], known formally as the **Diem of the Sand**, and the building used as their headquarters. The Diem of the Sand is one of the eight recognized [[Lossand - The Coppermind|Lossandin]] Professions. The [[Kerzta - The Coppermind|Kerztian]] word for sand master is **Ry'Kensha**. It is led by the [[Taishin - The Coppermind#The Lord Mastrell|Lord Mastrell]]. The current Lord Mastrell is [[Kenton - The Coppermind|Kenton]].
 
 ## Headquarters
 
@@ -30,7 +30,7 @@ Lossandin children who wish to gain entry into the Diem of the Sand and become s
 
 ## Organization
 
-The sand masters maintain a strict hierarchy of ranks. All sand masters wear a colored sash at their waist indicating their rank. Ranks are permanent upon advancement from acolent. The sole criteria for advancement is one's ability in sand mastery, typically categorized by how many ribbons they can control.[^4] The Lord Mastrell, himself a mastrell, leads the Diem and serves as [Taisha](https://coppermind.net/wiki/Taisha "Taisha") for the Sand Profession. Recruits seeking acceptance into the Diem wear brown robes and sashes.[^4]
+The sand masters maintain a strict hierarchy of ranks. All sand masters wear a colored sash at their waist indicating their rank. Ranks are permanent upon advancement from acolent. The sole criteria for advancement is one's ability in sand mastery, typically categorized by how many ribbons they can control.[^4] The Lord Mastrell, himself a mastrell, leads the Diem and serves as [[Taishin - The Coppermind|Taisha]] for the Sand Profession. Recruits seeking acceptance into the Diem wear brown robes and sashes.[^4]
 
 <table><tbody><tr><th colspan="3">Diem Ranks</th></tr><tr><th>Title</th><th>Sash Color</th><th>Ribbons required</th></tr><tr><td>Recruit</td><td>Brown Robes</td><td></td></tr><tr><td>Acolent</td><td>White</td><td>Bond</td></tr><tr><td>Underfen</td><td>Gray</td><td>1</td></tr><tr><td>Fen</td><td>Green</td><td>2-5</td></tr><tr><td>Diemfen</td><td>Blue</td><td>4-7</td></tr><tr><td>Underlestrell</td><td>Purple</td><td>6-10</td></tr><tr><td>Lestrell</td><td>Red</td><td>9-12</td></tr><tr><td>Undermastrell</td><td>Orange</td><td>11-14</td></tr><tr><td>Mastrell</td><td>Gold</td><td>15 or greater</td></tr><tr><td>Lord Mastrell</td><td>Gold</td><td>Election</td></tr></tbody></table>
 

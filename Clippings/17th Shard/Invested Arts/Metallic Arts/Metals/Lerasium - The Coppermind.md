@@ -13,7 +13,7 @@ favicon: /favicon.ico
 ---
 ## Lerasium
 
-**Lerasium** is a [God Metal](https://coppermind.net/wiki/God_Metal "God Metal").[^1] A normal person burning lerasium becomes a [[Allomancy - The Coppermind|Mistborn]] of undiluted power. A Misting or Mistborn burning lerasium drastically increases their powers.[^2] [Feruchemists](https://coppermind.net/wiki/Feruchemist "Feruchemist") can use lerasium to store an unknown quality, and when used as a [[Hemalurgic chimera - The Coppermind|Hemalurgic]] spike, lerasium steals all abilities.[^3]
+**Lerasium** is a [God Metal](https://coppermind.net/wiki/God_Metal "God Metal").[^1] A normal person burning lerasium becomes a [[Allomancy - The Coppermind|Mistborn]] of undiluted power. A Misting or Mistborn burning lerasium drastically increases their powers.[^2] [[Feruchemy - The Coppermind|Feruchemists]] can use lerasium to store an unknown quality, and when used as a [[Hemalurgic chimera - The Coppermind|Hemalurgic]] spike, lerasium steals all abilities.[^3]
 
 Lerasium is notable as it is the condensed power of the [[Shards|Shard]] [[Preservation - The Coppermind|Preservation]]. The only known source were beads found at the Well of Ascension. Presumably, the name "lerasium" is inherited from [[Leras - The Coppermind|Leras]], the name of the original holder of the Shard Preservation, just as the name [[Atium - The Coppermind|atium]] is inherited from [[Ati - The Coppermind|Ati]], the original holder of the Shard [[Ruin - The Coppermind|Ruin]]. Lerasium cannot be combined with atium to make [[Harmonium - The Coppermind|harmonium]], nor can harmonium be broken down into lerasium and atium by normal, mechanical means.[^4] [^5] [^6] However, lerasium and atium can be divided from harmonium through supernatural methods, such as a reaction with trellium.[^7]
 
@@ -21,7 +21,7 @@ Lerasium is notable as it is the condensed power of the [[Shards|Shard]] [[Prese
 
 For normal people, burning lerasium forges a permanent [[Connection - The Coppermind|Connection]] [^8] between them and Preservation, turning them into Mistborn by rewriting their [[Spiritweb - The Coppermind|spiritual DNA]].[^2] For people who are already Mistborn, the same effect increases their power.[^9] However, turning people into Mistborn is only a side effect of burning lerasium; if someone who knew how to use it correctly were to burn it, it would have a different, as of yet unknown, effect.[^10] Someone knowledgeable enough could use the rewrite of their spiritual DNA to achieve a different result than becoming a Mistborn.[^11] [^12] Burning [[Duralumin - The Coppermind|duralumin]] in conjunction with lerasium does not have any effect on the strength of the Mistborn created,[^13] but the size of the bead does affect the strength of the Mistborn created.[^14]
 
-Alloys of lerasium have the side effect of turning those who burn them into [Mistings](https://coppermind.net/wiki/Misting "Misting") of the alloy used.[^15] Alloys of lerasium and other God Metals can make those who burn them gain the [[Investiture - The Coppermind|Investiture]] associated with the God Metal.[^16] The primary effects of lerasium alloys are also unknown.
+Alloys of lerasium have the side effect of turning those who burn them into [[Allomancy - The Coppermind|Mistings]] of the alloy used.[^15] Alloys of lerasium and other God Metals can make those who burn them gain the [[Investiture - The Coppermind|Investiture]] associated with the God Metal.[^16] The primary effects of lerasium alloys are also unknown.
 
 ### Savantism
 

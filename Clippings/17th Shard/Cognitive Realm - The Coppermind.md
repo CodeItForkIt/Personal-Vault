@@ -92,7 +92,7 @@ Other regions that can be found in the Cognitive Realm include:
 - [[Silverlight - The Coppermind|Silverlight]] -- an ancient city built above the [[Silverlight - The Coppermind#Perpendicularity|Silverlight Nexus]], famous for its universities.[^39]
 - A world that is an empty wasteland of near-nothingness.[^40]
 - A place where [[Hoid - The Coppermind|Hoid]] keeps his "home base." [^41] [^42]
-- The [Vapor–Firmament corridor](https://coppermind.net/wiki/Vapor%E2%80%93Firmament_corridor "Vapor–Firmament corridor") -- a route patrolled by the [Malwish](https://coppermind.net/wiki/Malwish "Malwish") that runs relatively near the Drominad subastral [^35]
+- The [Vapor–Firmament corridor](https://coppermind.net/wiki/Vapor%E2%80%93Firmament_corridor "Vapor–Firmament corridor") -- a route patrolled by the [[Southern Scadrian - The Coppermind|Malwish]] that runs relatively near the Drominad subastral [^35]
 
 ## Geography and Ecology
 

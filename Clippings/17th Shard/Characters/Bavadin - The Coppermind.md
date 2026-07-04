@@ -108,7 +108,7 @@ Once [Telsin Ladrian](https://coppermind.net/wiki/Telsin_Ladrian "Telsin Ladrian
 ## Trivia
 
 - Among the original Vessels, [Brandon](https://coppermind.net/wiki/Brandon "Brandon") is very fond of Bavadin.[^32] Part of the reason he regretted moving on from *[White Sand](https://coppermind.net/wiki/White_Sand "White Sand")* is that he couldn't properly introduce Bavadin in-story just then.[^9] He has since introduced Bavadin in [The Lost Metal](https://coppermind.net/wiki/The_Lost_Metal "The Lost Metal").
-- Bavadin appears to be genderfluid by various Word of Brandons, with Brandon even going as far as to saying her gender changes depending on the day,[^10] telling fans to not "get too hung up on gender... where Bavadin is concerned";[^9] and [Shai](https://coppermind.net/wiki/Shai "Shai"), when describing Autonomy, said "He, she, they, it varies".[^8] Brandon has also previously not corrected fans referring to Bavadin with he/him pronouns, and used the same terminology for them.[^7]
+- Bavadin appears to be genderfluid by various Word of Brandons, with Brandon even going as far as to saying her gender changes depending on the day,[^10] telling fans to not "get too hung up on gender... where Bavadin is concerned";[^9] and [[Wan ShaiLu - The Coppermind|Shai]], when describing Autonomy, said "He, she, they, it varies".[^8] Brandon has also previously not corrected fans referring to Bavadin with he/him pronouns, and used the same terminology for them.[^7]
 
 ## Notes
 

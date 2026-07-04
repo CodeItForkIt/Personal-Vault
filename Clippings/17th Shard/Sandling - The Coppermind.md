@@ -16,7 +16,7 @@ favicon: "/favicon.ico"
 > 
 > —Kenton [^1]
 
-**Sandlings**, often called **deep sandlings**, are creatures that live in the deep sand on the [Dayside](https://coppermind.net/wiki/Dayside "Dayside") of [[Taldain - The Coppermind|Taldain]].[^1]
+**Sandlings**, often called **deep sandlings**, are creatures that live in the deep sand on the [[Taldain - The Coppermind|Dayside]] of [[Taldain - The Coppermind|Taldain]].[^1]
 
 ## Appearance and Anatomy
 

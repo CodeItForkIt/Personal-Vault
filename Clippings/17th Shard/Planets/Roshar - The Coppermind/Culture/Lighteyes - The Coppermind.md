@@ -12,11 +12,11 @@ favicon: "/favicon.ico"
 ---
 ## Lighteyes
 
-A **lighteyes** is a person with lightly colored, bright eyes, such as blue, green, yellow, light grey, or violet.[^1] [^2] In the [Vorin](https://coppermind.net/wiki/Vorin "Vorin") kingdoms of [Alethkar](https://coppermind.net/wiki/Alethkar "Alethkar"), [Jah Keved](https://coppermind.net/wiki/Jah_Keved "Jah Keved"), and [[Kharbranth - The Coppermind|Kharbranth]], they form the nobility, ruling over the [[Darkeyes - The Coppermind|darkeyes]]. Lighteyes are ranked in ten different levels, in accordance with the dahn caste system.
+A **lighteyes** is a person with lightly colored, bright eyes, such as blue, green, yellow, light grey, or violet.[^1] [^2] In the [[Vorinism - The Coppermind|Vorin]] kingdoms of [Alethkar](https://coppermind.net/wiki/Alethkar "Alethkar"), [Jah Keved](https://coppermind.net/wiki/Jah_Keved "Jah Keved"), and [[Kharbranth - The Coppermind|Kharbranth]], they form the nobility, ruling over the [[Darkeyes - The Coppermind|darkeyes]]. Lighteyes are ranked in ten different levels, in accordance with the dahn caste system.
 
 ## Overview
 
-According to the [Vorin](https://coppermind.net/wiki/Vorin "Vorin") religion, all lighteyes are born to rule and are superior to the [[Darkeyes - The Coppermind|darkeyes]], leading to a class system based on eye color.
+According to the [[Vorinism - The Coppermind|Vorin]] religion, all lighteyes are born to rule and are superior to the [[Darkeyes - The Coppermind|darkeyes]], leading to a class system based on eye color.
 
 The defining characteristic of a lighteyes is not merely the actual color of their eyes, but that they have a light and distinguishable color. For example, although grey is not normally considered a bright color, having light grey eyes qualifies one as a lighteyes.[^1] Conversely, although green is normally seen as a light color, having deep, dark green eyes that look muddled and is hard to distinguish from brown or black in average light would qualify one as a [[Darkeyes - The Coppermind|darkeyes]].[^3]
 
@@ -28,9 +28,9 @@ Sometimes when important lighteyes die, their corpses are Soulcast into stone or
 
 Permanently changing one's birth eye color is generally not possible. However, three exceedingly rare methods are currently known to change one's eye color.
 
-It is a well-known legend within [Vorin](https://coppermind.net/wiki/Vorin "Vorin") society that if a man wins a [Shardblade](https://coppermind.net/wiki/Shardblade "Shardblade") on the battlefield, he will become a lighteyes, regardless of his previous station in life.[^10] Even if his eye color didn't physically change, he would still be promoted to fourth dahn by virtue of being a Shardbearer.[^11] The exact color of the Shardbearer's eyes depends on the specific type of Blade they bonded to.[^12] This legend, though a foundation of Vorin society, went untested for centuries, until [[Adolin Kholin - The Coppermind|Adolin Kholin]] won a full set of [Shards](https://coppermind.net/wiki/Shardbearer "Shardbearer") and gifted them to the former bridgeman [Kaladin Stormblessed](https://coppermind.net/wiki/Kaladin_Stormblessed "Kaladin Stormblessed"). Kaladin, remembering the event in which his friends were killed, stepped aside and commanded his lieutenant, [[Moash - The Coppermind|Moash]], to take the Shards. Upon receiving the Shards, Moash's eyes did indeed lighten, from a dark brown to a tan color.[^13] This effect lasts only as long as the formerly darkeyed Shardbearer keeps ownership of his Shardblade, as Moash's eyes changed again upon losing his.
+It is a well-known legend within [[Vorinism - The Coppermind|Vorin]] society that if a man wins a [Shardblade](https://coppermind.net/wiki/Shardblade "Shardblade") on the battlefield, he will become a lighteyes, regardless of his previous station in life.[^10] Even if his eye color didn't physically change, he would still be promoted to fourth dahn by virtue of being a Shardbearer.[^11] The exact color of the Shardbearer's eyes depends on the specific type of Blade they bonded to.[^12] This legend, though a foundation of Vorin society, went untested for centuries, until [[Adolin Kholin - The Coppermind|Adolin Kholin]] won a full set of [Shards](https://coppermind.net/wiki/Shardbearer "Shardbearer") and gifted them to the former bridgeman [[Kaladin - The Coppermind|Kaladin Stormblessed]]. Kaladin, remembering the event in which his friends were killed, stepped aside and commanded his lieutenant, [[Moash - The Coppermind|Moash]], to take the Shards. Upon receiving the Shards, Moash's eyes did indeed lighten, from a dark brown to a tan color.[^13] This effect lasts only as long as the formerly darkeyed Shardbearer keeps ownership of his Shardblade, as Moash's eyes changed again upon losing his.
 
-A second method of becoming a lighteyes is to become either a [[Surgebinding - The Coppermind|Surgebinder]] or [Knight Radiant](https://coppermind.net/wiki/Knight_Radiant "Knight Radiant"). According to [Skar](https://coppermind.net/wiki/Skar "Skar"), [[Kaladin - The Coppermind|Kaladin's]] eyes changed while fighting to save [[Dalinar Kholin - The Coppermind|Dalinar]] during the [Battle of the Tower](https://coppermind.net/wiki/Battle_of_the_Tower "Battle of the Tower"), although it was only for a short moment, as other men still recognize him as a darkeyes during the fight.[^5] During this battle, Kaladin only said up to the Second Ideal of the [Immortal Words](https://coppermind.net/wiki/Immortal_Words "Immortal Words") and did not recognize himself as a Knight Radiant. Later, during the [[Battle of Narak - The Coppermind|Battle of Narak]], after Kaladin says the Third Ideal of the Immortal Words and recognizes himself as a true Knight Radiant, his eyes turn pale blue, lighter than any king.[^14] They stay pale blue for several hours after summoning [Syl](https://coppermind.net/wiki/Syl "Syl") before returning to brown, and Kaladin has to summon Syl several times a day to keep his eye blue.[^15] The longer a person is a Radiant, the longer it takes for their eyes to turn back.[^16] [^17]
+A second method of becoming a lighteyes is to become either a [[Surgebinding - The Coppermind|Surgebinder]] or [[Knights Radiant - The Coppermind|Knight Radiant]]. According to [Skar](https://coppermind.net/wiki/Skar "Skar"), [[Kaladin - The Coppermind|Kaladin's]] eyes changed while fighting to save [[Dalinar Kholin - The Coppermind|Dalinar]] during the [Battle of the Tower](https://coppermind.net/wiki/Battle_of_the_Tower "Battle of the Tower"), although it was only for a short moment, as other men still recognize him as a darkeyes during the fight.[^5] During this battle, Kaladin only said up to the Second Ideal of the [[Knights Radiant - The Coppermind|Immortal Words]] and did not recognize himself as a Knight Radiant. Later, during the [[Battle of Narak - The Coppermind|Battle of Narak]], after Kaladin says the Third Ideal of the Immortal Words and recognizes himself as a true Knight Radiant, his eyes turn pale blue, lighter than any king.[^14] They stay pale blue for several hours after summoning [[Sylphrena - The Coppermind|Syl]] before returning to brown, and Kaladin has to summon Syl several times a day to keep his eye blue.[^15] The longer a person is a Radiant, the longer it takes for their eyes to turn back.[^16] [^17]
 
 The final known method of changing eye color is by visiting the [[Nightwatcher - The Coppermind|Nightwatcher]].[^18]
 
@@ -52,9 +52,9 @@ The position of *Citylord*, may span multiple dahn, including fourth, fifth, and
 
 ### General Dahn Information
 
-Dahn is the caste system for lighteyes.[^24] Its counterpart for [[Darkeyes - The Coppermind|darkeyes]] is the [nahn](https://coppermind.net/wiki/Nahn "Nahn") system.
+Dahn is the caste system for lighteyes.[^24] Its counterpart for [[Darkeyes - The Coppermind|darkeyes]] is the [[Darkeyes - The Coppermind|nahn]] system.
 
-Since lighteyes are nobility in the Vorin kingdoms, the dahn system is superior to the nahn system. Holding even the tenth and lowest dahn socially outranks the highest level of [nahn](https://coppermind.net/wiki/Nahn "Nahn").[^5] However, there are situations in which practical reality makes the social standing between two persons less relevant or even reversed. For an extreme example, after [[Kaladin - The Coppermind|Kaladin]], a darkeyes, was promoted to captain, he was socially outranked by many lighteyed soldiers, yet still possessed higher military rank and authority than them.[^25] A worker, such as a carriage driver, would treat a wealthy darkeyes as any other master, since their wages would be paid by the darkeyed passenger.[^26]
+Since lighteyes are nobility in the Vorin kingdoms, the dahn system is superior to the nahn system. Holding even the tenth and lowest dahn socially outranks the highest level of [[Darkeyes - The Coppermind|nahn]].[^5] However, there are situations in which practical reality makes the social standing between two persons less relevant or even reversed. For an extreme example, after [[Kaladin - The Coppermind|Kaladin]], a darkeyes, was promoted to captain, he was socially outranked by many lighteyed soldiers, yet still possessed higher military rank and authority than them.[^25] A worker, such as a carriage driver, would treat a wealthy darkeyes as any other master, since their wages would be paid by the darkeyed passenger.[^26]
 
 Within the dahn system itself, there are ten different levels ranging from one to ten, with one being the highest and ten being the lowest. The highest levels of dahn implies immense power and authority while those at the lowest level of dahn are merely ordinary people.
 
@@ -68,7 +68,7 @@ It is difficult for a lighteyed person to raise their dahn, especially at the hi
 
 One can raise his dahn through two other, much more rare, methods. The first is through direct intervention by the king or a highprince.[^27] The second is to become a Shardbearer; by doing so, one immediately raises his dahn to that of the fourth rank, if he is not already at or above this rank.[^11]
 
-A person can also be demoted in dahn if they perform poorly in a given role.[^27] In particular, if an [ardent](https://coppermind.net/wiki/Ardent "Ardent") leaves the ardentia, he will be demoted to the tenth dahn.[^30]
+A person can also be demoted in dahn if they perform poorly in a given role.[^27] In particular, if an [[Vorinism - The Coppermind|ardent]] leaves the ardentia, he will be demoted to the tenth dahn.[^30]
 
 ### Inheritance of dahn
 
@@ -81,7 +81,7 @@ However, special rules apply to those of very high dahn or who hold certain spec
 ### First dahn
 
 - King [[Dalinar Kholin - The Coppermind|Dalinar Kholin]], King of [[Urithiru - The Coppermind|Urithiru]].[^32]
-- Queen [[Jasnah Kholin - The Coppermind|Jasnah Kholin]], Queen of [Alethkar](https://coppermind.net/wiki/Alethkar "Alethkar") (A ruler in her own right instead of marriage, in defiance of [Vorin](https://coppermind.net/wiki/Vorin "Vorin") tradition).[^33]
+- Queen [[Jasnah Kholin - The Coppermind|Jasnah Kholin]], Queen of [Alethkar](https://coppermind.net/wiki/Alethkar "Alethkar") (A ruler in her own right instead of marriage, in defiance of [[Vorinism - The Coppermind|Vorin]] tradition).[^33]
 - King [[Gavilar Kholin - The Coppermind|Gavilar Kholin]], former King of [Alethkar](https://coppermind.net/wiki/Alethkar "Alethkar").[^34]
 - King [[Elhokar Kholin - The Coppermind|Elhokar Kholin]], former King of Alethkar.
 - King [Hanavanar](https://coppermind.net/wiki/Hanavanar "Hanavanar"), former King of [Jah Keved](https://coppermind.net/wiki/Jah_Keved "Jah Keved").[^35] [^22]
@@ -125,7 +125,7 @@ However, special rules apply to those of very high dahn or who hold certain spec
 - [Lin Davar](https://coppermind.net/wiki/Lin_Davar "Lin Davar"), Head of [[House Davar - The Coppermind|House Davar]] and Shallan's father.[^28]
 - [[Balat Davar - The Coppermind|Balat Davar]], Shallan's brother.[^28]
 - [[Helaran Davar - The Coppermind|Helaran Davar]], Shallan's brother. (by virtue of Shardblade)
-- [Kaladin Stormblessed](https://coppermind.net/wiki/Kaladin_Stormblessed "Kaladin Stormblessed"), Knight Radiant, Order of Windrunners. (by virtue of Shardblade)
+- [[Kaladin - The Coppermind|Kaladin Stormblessed]], Knight Radiant, Order of Windrunners. (by virtue of Shardblade)
 - [Teft](https://coppermind.net/wiki/Teft "Teft"), Knight Radiant, Order of Windrunners. (by virtue of Shardblade)
 
 ### Eighth dahn

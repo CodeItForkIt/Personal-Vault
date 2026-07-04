@@ -13,7 +13,7 @@ favicon: /favicon.ico
 ---
 ## Reod
 
-The **Reod** was an event that occurred on [[Sel - The Coppermind|Sel]] about ten years prior to the [Fjordell](https://coppermind.net/wiki/Fjordell "Fjordell") [invasion of Arelon](https://coppermind.net/wiki/Invasion_of_Arelon "Invasion of Arelon").[^1] The word Reod is based on [[Aon - The Coppermind#Reo|Aon Reo]] which means punishment.[^2]
+The **Reod** was an event that occurred on [[Sel - The Coppermind|Sel]] about ten years prior to the [[Fjorden - The Coppermind|Fjordell]] [invasion of Arelon](https://coppermind.net/wiki/Invasion_of_Arelon "Invasion of Arelon").[^1] The word Reod is based on [[Aon - The Coppermind#Reo|Aon Reo]] which means punishment.[^2]
 
 The Reod was a massive earthquake that created an enormous [chasm](https://coppermind.net/wiki/Chasm "Chasm") in the south of [[Arelon - The Coppermind|Arelon]].[^3] It altered the landscape to the point where the [[Aon - The Coppermind|Aons]] used by [Elantrians](https://coppermind.net/wiki/Elantrian "Elantrian"), which are based upon the landscape of Arelon, were no longer accurate.[^4] This caused all Aons to cease functioning, including the massive Aon Rao created by the city of Elantris and its surrounding cities, preventing the Elantrians from accessing [[Investiture - The Coppermind|Investiture]], and afflicting them with an [[Shaod - The Coppermind#Incomplete Shaod|incomplete Shaod]] transformation. It was seen by [[Shu-Keseg - The Coppermind|Shu-Keseg]] and [[Shu-Dereth - The Coppermind|Shu-Dereth]] as a curse upon the Elantrians for their pagan ways.
 

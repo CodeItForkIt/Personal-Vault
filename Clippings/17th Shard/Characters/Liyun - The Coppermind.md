@@ -16,7 +16,7 @@ favicon: /favicon.ico
 ---
 ## Liyun
 
-**Liyun** is the [kihomaban](https://coppermind.net/wiki/Kihomaban "Kihomaban"), or warden, of the [[Yoki-hijo - The Coppermind|yoki-hijo]] [[Yumi - The Coppermind|Yumi]]. She was killed by the [[Father machine - The Coppermind|father machine]], but her soul persists as a [[Nightmare - The Coppermind|nightmare]].[^2]
+**Liyun** is the [[Yoki-hijo - The Coppermind|kihomaban]], or warden, of the [[Yoki-hijo - The Coppermind|yoki-hijo]] [[Yumi - The Coppermind|Yumi]]. She was killed by the [[Father machine - The Coppermind|father machine]], but her soul persists as a [[Nightmare - The Coppermind|nightmare]].[^2]
 
 ## Appearance and Personality
 
