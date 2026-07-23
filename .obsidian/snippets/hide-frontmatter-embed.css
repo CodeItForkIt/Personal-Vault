@@ -1,0 +1,13 @@
+/* Hide frontmatter/properties (including tag pills) inside embedded
+   note previews — i.e. Canvas file nodes — without touching how
+   properties look when you open a note directly.
+   Source: https://forum.obsidian.md/t/106038 */
+
+.markdown-embed .metadata-container,
+.markdown-embed-content .metadata-container {
+    display: none !important;
+}
+
+.mod-inside-iframe.is-live-preview .metadata-container {
+    display: none !important;
+}
