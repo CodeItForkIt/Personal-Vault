@@ -88,16 +88,6 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "9feefd8a39ced674",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
-            }
           }
         ]
       }
@@ -132,26 +122,17 @@
             }
           },
           {
-            "id": "d88a923143a8c48d",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
-            }
-          },
-          {
             "id": "7d6accbf20ad7534",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Clippings/17th Shard/Characters/Szeth - The Coppermind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Szeth - The Coppermind"
             }
           },
           {
@@ -195,16 +176,6 @@
               },
               "icon": "lucide-list",
               "title": "Outline"
-            }
-          },
-          {
-            "id": "565d456f552cda04",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
             }
           },
           {

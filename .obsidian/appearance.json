@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "metadata-icon-auto-gen"
   ],
-  "translucency": true
+  "translucency": true,
+  "accentColor": "#1079f7"
 }
