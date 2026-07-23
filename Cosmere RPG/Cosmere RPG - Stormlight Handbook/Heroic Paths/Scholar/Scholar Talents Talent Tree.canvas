@@ -1,0 +1,50 @@
+{
+  "nodes": [
+    {
+      "id": "q3kyxjXQKH7HOodc",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Erudition.md",
+      "x": 1910,
+      "y": 600,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "aZ0dtSQyYoKDF24z",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Surgeon.md",
+      "x": 2970,
+      "y": 2120,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "COG529NsluYVeRoG",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Strategist.md",
+      "x": 2440,
+      "y": 1810,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "jzASzpGYaQgEFZjk",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Artifabrian/Artifabrian.md",
+      "x": 1380,
+      "y": 1810,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/scholar.webp",
+      "x": 1380,
+      "y": 300,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": []
+}

@@ -1,0 +1,50 @@
+{
+  "nodes": [
+    {
+      "id": "WC0ohLNFyCo7imzh",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Ashspren Bond.md",
+      "x": 3562,
+      "y": 1913,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "Gah8wxSsaoptYYXj",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Abrasion Talents/Abrasion Talents.md",
+      "x": -117,
+      "y": 1340,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "JcQr7SWc0tDC0KYu",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Division Talents.md",
+      "x": 2502,
+      "y": 1340,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "Bh233BBIZtPWeHsz",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/First Ideal Dustbringer.md",
+      "x": 3032,
+      "y": 588,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg132_path_banner_Dustbringer.webp",
+      "x": -117,
+      "y": 288,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": []
+}

@@ -1,0 +1,120 @@
+{
+  "nodes": [
+    {
+      "id": "wWdEUS6bqRKgvB7A",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Watchful Eye.md",
+      "x": -265,
+      "y": -1280,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "CcxX2Kjy0hCrRGjm",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Quick Analysis.md",
+      "x": -265,
+      "y": -660,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "rkXhT3oHP4IJuNIl",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Gather Evidence.md",
+      "x": -265,
+      "y": -40,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "zcQkOcCHYpLIGjUW",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Sleuths Instincts.md",
+      "x": -265,
+      "y": 580,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "A5tc99JjtjafYg2n",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Get Em Talking.md",
+      "x": 1855,
+      "y": -1280,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "Vi7f5MiosecU6T6I",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Baleful.md",
+      "x": 1855,
+      "y": -660,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "I9XMSYb4zQS6Jrlk",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Hardy.md",
+      "x": 1855,
+      "y": -40,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "iDklxJACkOI8V6vw",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Close the Case.md",
+      "x": 1855,
+      "y": 580,
+      "width": 460,
+      "height": 240
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "wWdEUS6bqRKgvB7A",
+      "fromSide": "right",
+      "toNode": "CcxX2Kjy0hCrRGjm",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "CcxX2Kjy0hCrRGjm",
+      "fromSide": "right",
+      "toNode": "rkXhT3oHP4IJuNIl",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "I9XMSYb4zQS6Jrlk",
+      "fromSide": "right",
+      "toNode": "zcQkOcCHYpLIGjUW",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "A5tc99JjtjafYg2n",
+      "fromSide": "right",
+      "toNode": "Vi7f5MiosecU6T6I",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "Vi7f5MiosecU6T6I",
+      "fromSide": "right",
+      "toNode": "I9XMSYb4zQS6Jrlk",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "I9XMSYb4zQS6Jrlk",
+      "fromSide": "right",
+      "toNode": "iDklxJACkOI8V6vw",
+      "toSide": "left"
+    }
+  ]
+}

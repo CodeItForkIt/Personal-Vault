@@ -1,0 +1,136 @@
+{
+  "nodes": [
+    {
+      "id": "Dt8y6PO2JsnSSH8A",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Abrasion Talents/Frictionless Motion.md",
+      "x": 4240,
+      "y": 575,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "EwxDUQJT9UAkCzGz",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Abrasion Talents/Reverse Abrasion.md",
+      "x": 5830,
+      "y": 575,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "2uTQwFl0PrSXaEYi",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Abrasion Talents/Stormlight Reclamation.md",
+      "x": 6360,
+      "y": 1505,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "snDMS0wIYekrLltw",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Abrasion Talents/Graceful Skating.md",
+      "x": 4240,
+      "y": 1505,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "rVO5IHOx5znFQuyD",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Abrasion Talents/Distant Surgebinding.md",
+      "x": 5830,
+      "y": 1505,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "0NKnRIDns9F9HMxs",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Abrasion Talents/Slippery Target.md",
+      "x": 4240,
+      "y": 1815,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "6EWHtEuQswLYnETa",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Abrasion Talents/Slick Combatant.md",
+      "x": 4240,
+      "y": 2435,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "sUVfCV1lV2LqmPKK",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Abrasion Talents/Smooth Operator.md",
+      "x": 5830,
+      "y": 2125,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Abrasion_Surge-glyph.svg",
+      "x": 4240,
+      "y": 275,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "EwxDUQJT9UAkCzGz",
+      "fromSide": "right",
+      "toNode": "2uTQwFl0PrSXaEYi",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "Dt8y6PO2JsnSSH8A",
+      "fromSide": "right",
+      "toNode": "snDMS0wIYekrLltw",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "EwxDUQJT9UAkCzGz",
+      "fromSide": "right",
+      "toNode": "rVO5IHOx5znFQuyD",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "snDMS0wIYekrLltw",
+      "fromSide": "right",
+      "toNode": "0NKnRIDns9F9HMxs",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "0NKnRIDns9F9HMxs",
+      "fromSide": "right",
+      "toNode": "6EWHtEuQswLYnETa",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "rVO5IHOx5znFQuyD",
+      "fromSide": "right",
+      "toNode": "sUVfCV1lV2LqmPKK",
+      "toSide": "left"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "0NKnRIDns9F9HMxs",
+      "fromSide": "right",
+      "toNode": "sUVfCV1lV2LqmPKK",
+      "toSide": "left"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nodes": [
+    {
+      "id": "F2mjMq72o7r2Qxbf",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Cultivationspren Bond.md",
+      "x": 3392,
+      "y": 2650,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "VEwKkVYyRY1MrhG0",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Abrasion Talents/Abrasion Talents.md",
+      "x": 2862,
+      "y": 1723,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "YZTDvL1IjuT6UQDe",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Progression Talents/Progression Talents.md",
+      "x": 106,
+      "y": 1723,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "KlE7gh8AAMRQkAeF",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Edgedancer/Talents/First Ideal Edgedancer.md",
+      "x": 3922,
+      "y": 883,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg140_path_banner_Edgedancer.webp",
+      "x": 106,
+      "y": 583,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": []
+}

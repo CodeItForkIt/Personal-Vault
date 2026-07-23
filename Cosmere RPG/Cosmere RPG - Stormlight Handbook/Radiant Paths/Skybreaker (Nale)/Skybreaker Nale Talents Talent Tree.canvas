@@ -1,0 +1,50 @@
+{
+  "nodes": [
+    {
+      "id": "IUADEvqzWpOgLMDh",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker (Nale)/Talents/Highspren Bond/Highspren Bond.md",
+      "x": 4098,
+      "y": 2650,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "FYWBWD69iUa6DiUD",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker (Nale)/Talents/First Ideal Nale Skybreaker.md",
+      "x": 4628,
+      "y": 883,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "byMuoDf5OvSMdmp7",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker (Nale)/Talents/Division Talents.md",
+      "x": 353,
+      "y": 1413,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "8hrdhFreVCPDEXDA",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker (Nale)/Talents/Gravitation Talents.md",
+      "x": 4098,
+      "y": 1723,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg164_path_banner_Skybreaker.webp",
+      "x": 353,
+      "y": 583,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": []
+}

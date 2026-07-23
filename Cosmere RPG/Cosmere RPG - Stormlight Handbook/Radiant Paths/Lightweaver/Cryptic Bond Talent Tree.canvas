@@ -1,0 +1,120 @@
+{
+  "nodes": [
+    {
+      "id": "1Vmcgxo6yB5Ji3iM",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Lightweaver/Talents/Cryptic Bond/Second Ideal Lightweaver.md",
+      "x": 1413,
+      "y": 310,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "6RlkVvFXCcva7zb0",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Lightweaver/Talents/Cryptic Bond/Third Ideal Lightweaver.md",
+      "x": 1413,
+      "y": 930,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "CALJ8YcduAFHDTn5",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Lightweaver/Talents/Cryptic Bond/Fourth Ideal Lightweaver.md",
+      "x": 1413,
+      "y": 2170,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "ntZcQG6isNCIwfW7",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Lightweaver/Talents/Cryptic Bond/Deepened Bond.md",
+      "x": -176,
+      "y": 1860,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "jBRYMlVBwPoquoOa",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Lightweaver/Talents/Cryptic Bond/Physical Illusion.md",
+      "x": 3533,
+      "y": 1860,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "Tus9tgf5QBp6xXju",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Lightweaver/Talents/Cryptic Bond/Invested.md",
+      "x": 3533,
+      "y": 310,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "80wPODXHAgZi8FGN",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Lightweaver/Talents/Cryptic Bond/Wound Regeneration.md",
+      "x": 3533,
+      "y": 930,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "kZMTpb0n96Mht8Lq",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Lightweaver/Talents/Cryptic Bond/Take Squire Lightweaver.md",
+      "x": 1943,
+      "y": 1860,
+      "width": 460,
+      "height": 240
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "1Vmcgxo6yB5Ji3iM",
+      "fromSide": "right",
+      "toNode": "6RlkVvFXCcva7zb0",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "6RlkVvFXCcva7zb0",
+      "fromSide": "right",
+      "toNode": "CALJ8YcduAFHDTn5",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "6RlkVvFXCcva7zb0",
+      "fromSide": "right",
+      "toNode": "ntZcQG6isNCIwfW7",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "80wPODXHAgZi8FGN",
+      "fromSide": "right",
+      "toNode": "jBRYMlVBwPoquoOa",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "Tus9tgf5QBp6xXju",
+      "fromSide": "right",
+      "toNode": "80wPODXHAgZi8FGN",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "6RlkVvFXCcva7zb0",
+      "fromSide": "right",
+      "toNode": "kZMTpb0n96Mht8Lq",
+      "toSide": "left"
+    }
+  ]
+}

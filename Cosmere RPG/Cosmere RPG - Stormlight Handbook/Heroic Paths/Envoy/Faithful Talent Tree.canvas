@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "id": "adEpbs3dLCofv3Qd",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Customary Garb.md",
+      "x": 0,
+      "y": -1015,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "woz19OBMJTN3Mk68",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Devoted Presence.md",
+      "x": 0,
+      "y": -395,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "EygjZhSTxuvrFFgj",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Stalwart Presence.md",
+      "x": 0,
+      "y": 225,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "UnlukLNcTwx8bJ2L",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Sage Counsel.md",
+      "x": 0,
+      "y": 845,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "ox088B6gAjOIpL6O",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Inspired Zeal.md",
+      "x": 1590,
+      "y": 845,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "OAcKpY594CtiTLrZ",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Applied Motivation.md",
+      "x": 1590,
+      "y": -85,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "AiGOPprq9Wm8KE6W",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Galvanize.md",
+      "x": 1590,
+      "y": -1015,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "yvY2zQYKWq1yJ6Gs",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Composed.md",
+      "x": 2120,
+      "y": -395,
+      "width": 460,
+      "height": 240
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "adEpbs3dLCofv3Qd",
+      "fromSide": "right",
+      "toNode": "woz19OBMJTN3Mk68",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "woz19OBMJTN3Mk68",
+      "fromSide": "right",
+      "toNode": "EygjZhSTxuvrFFgj",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "EygjZhSTxuvrFFgj",
+      "fromSide": "right",
+      "toNode": "UnlukLNcTwx8bJ2L",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "EygjZhSTxuvrFFgj",
+      "fromSide": "right",
+      "toNode": "ox088B6gAjOIpL6O",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "OAcKpY594CtiTLrZ",
+      "fromSide": "right",
+      "toNode": "ox088B6gAjOIpL6O",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "AiGOPprq9Wm8KE6W",
+      "fromSide": "right",
+      "toNode": "OAcKpY594CtiTLrZ",
+      "toSide": "left"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "AiGOPprq9Wm8KE6W",
+      "fromSide": "right",
+      "toNode": "yvY2zQYKWq1yJ6Gs",
+      "toSide": "left"
+    }
+  ]
+}

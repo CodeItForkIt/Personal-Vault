@@ -1,0 +1,120 @@
+{
+  "nodes": [
+    {
+      "id": "UpivDU0AJEGCQFVA",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Deadly Trap.md",
+      "x": -3180,
+      "y": -2870,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "MRzDJsi8lNgzwHoA",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Experienced Trapper.md",
+      "x": -3180,
+      "y": -1280,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "F2OJza3CWg67izkk",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Surefooted.md",
+      "x": -2650,
+      "y": 930,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "M0jOXY1qplBNkEu3",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Hunters Edge.md",
+      "x": -4240,
+      "y": 930,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "TM43LubUq1KuhIHN",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Feral Connection.md",
+      "x": -2120,
+      "y": 930,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "MdvIPmcN5NzkIaDm",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Pack Hunting.md",
+      "x": -530,
+      "y": 930,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "tvgfSvb42ooYN1cM",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Protective Bond.md",
+      "x": -1060,
+      "y": -1280,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "YrpD4IE5yjmTSdfM",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Animal Bond.md",
+      "x": -1060,
+      "y": -2870,
+      "width": 460,
+      "height": 240
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "UpivDU0AJEGCQFVA",
+      "fromSide": "right",
+      "toNode": "MRzDJsi8lNgzwHoA",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "MRzDJsi8lNgzwHoA",
+      "fromSide": "right",
+      "toNode": "F2OJza3CWg67izkk",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "MRzDJsi8lNgzwHoA",
+      "fromSide": "right",
+      "toNode": "M0jOXY1qplBNkEu3",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "tvgfSvb42ooYN1cM",
+      "fromSide": "right",
+      "toNode": "TM43LubUq1KuhIHN",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "tvgfSvb42ooYN1cM",
+      "fromSide": "right",
+      "toNode": "MdvIPmcN5NzkIaDm",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "YrpD4IE5yjmTSdfM",
+      "fromSide": "right",
+      "toNode": "tvgfSvb42ooYN1cM",
+      "toSide": "left"
+    }
+  ]
+}

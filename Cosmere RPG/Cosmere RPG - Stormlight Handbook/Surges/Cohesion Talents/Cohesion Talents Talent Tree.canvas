@@ -1,0 +1,129 @@
+{
+  "nodes": [
+    {
+      "id": "BE12thtyRxuxcVVn",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Cohesion Talents/Memories of Stone.md",
+      "x": 6360,
+      "y": 575,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "ID0KkABcdcSkFmu8",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Cohesion Talents/Stone Spear.md",
+      "x": 4240,
+      "y": 575,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "QE4k0az78H4W8m3U",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Cohesion Talents/Sinkhole.md",
+      "x": 4240,
+      "y": 1195,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "kaBibVmjVEsLdgEu",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Cohesion Talents/Tunneling.md",
+      "x": 6360,
+      "y": 1195,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "rtnfZQIp0xmSbJrw",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Cohesion Talents/True Stoneshaping.md",
+      "x": 6360,
+      "y": 1815,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "F7hUkqbGRgUBT8XP",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Cohesion Talents/Flowing Earth.md",
+      "x": 6360,
+      "y": 2435,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "guXvGkII3PWc8KDN",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Cohesion Talents/Through the Stone.md",
+      "x": 4240,
+      "y": 1815,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "ZtZEnn3ixqROfv3S",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Cohesion Talents/Unbound Cohesion.md",
+      "x": 4240,
+      "y": 2435,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Cohesion_Surge-glyph.svg",
+      "x": 4240,
+      "y": 275,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "ID0KkABcdcSkFmu8",
+      "fromSide": "right",
+      "toNode": "QE4k0az78H4W8m3U",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "QE4k0az78H4W8m3U",
+      "fromSide": "right",
+      "toNode": "kaBibVmjVEsLdgEu",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "kaBibVmjVEsLdgEu",
+      "fromSide": "right",
+      "toNode": "rtnfZQIp0xmSbJrw",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "rtnfZQIp0xmSbJrw",
+      "fromSide": "right",
+      "toNode": "F7hUkqbGRgUBT8XP",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "QE4k0az78H4W8m3U",
+      "fromSide": "right",
+      "toNode": "guXvGkII3PWc8KDN",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "guXvGkII3PWc8KDN",
+      "fromSide": "right",
+      "toNode": "ZtZEnn3ixqROfv3S",
+      "toSide": "left"
+    }
+  ]
+}

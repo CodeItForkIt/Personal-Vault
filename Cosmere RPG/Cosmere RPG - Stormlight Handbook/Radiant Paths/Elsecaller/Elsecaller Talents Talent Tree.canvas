@@ -1,0 +1,50 @@
+{
+  "nodes": [
+    {
+      "id": "GglSp85GAMK3d0G4",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Inkspren Bond.md",
+      "x": 5565,
+      "y": 3445,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "Nb5KK8B5kwkbTsp2",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transformation Talents/Transformation Talents.md",
+      "x": 53,
+      "y": 1900,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "Il69AwW65AddToZO",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Transportation Talents.md",
+      "x": 4505,
+      "y": 1590,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "u167NZQIKQ2WaeW4",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/First Ideal Elsecaller.md",
+      "x": 5035,
+      "y": 1060,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg148_path_banner_Elsecaller.webp",
+      "x": 53,
+      "y": 760,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": []
+}

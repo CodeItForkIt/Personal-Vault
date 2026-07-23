@@ -1,0 +1,50 @@
+{
+  "nodes": [
+    {
+      "id": "oxPAyX8ZpI1yG8no",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Investigator.md",
+      "x": 1780,
+      "y": 2220,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "dLfBVQI1KHOsB0eI",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Spy.md",
+      "x": 2840,
+      "y": 2220,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "415lhJGuGrFCrQJk",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Thief.md",
+      "x": 3370,
+      "y": 2220,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "UakPDM2aMunto5yy",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Opportunist.md",
+      "x": 2310,
+      "y": 600,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/agent.webp",
+      "x": 1780,
+      "y": 300,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": []
+}

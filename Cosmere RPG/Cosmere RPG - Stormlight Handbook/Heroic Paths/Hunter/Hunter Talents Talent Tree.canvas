@@ -1,0 +1,50 @@
+{
+  "nodes": [
+    {
+      "id": "QWqxfWirLIhiSGXb",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Seek Quarry.md",
+      "x": 2310,
+      "y": 600,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "xepLT7a50g5CLzsZ",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Archer.md",
+      "x": 1780,
+      "y": 2220,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "zGtgLhjkcjYZW2cu",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Assassin/Assassin.md",
+      "x": 2840,
+      "y": 2220,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "x0i7an6byWHqaEzQ",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Tracker.md",
+      "x": 3370,
+      "y": 2220,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/hunter.webp",
+      "x": 1780,
+      "y": 300,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": []
+}

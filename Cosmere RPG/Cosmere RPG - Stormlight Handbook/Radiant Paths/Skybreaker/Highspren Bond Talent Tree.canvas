@@ -1,0 +1,120 @@
+{
+  "nodes": [
+    {
+      "id": "vMNd0s7BMsMvjuFg",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Talents/Highspren Bond/Soaring Destruction.md",
+      "x": 3003,
+      "y": -750,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "uXn7nMCvJMh3eoS3",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Talents/Highspren Bond/Invested.md",
+      "x": 3003,
+      "y": -130,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "jIoUcLbBoed4gx1q",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Talents/Highspren Bond/Wound Regeneration.md",
+      "x": 3003,
+      "y": 800,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "0b225yKN8ouIOfRV",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Talents/Highspren Bond/Take Squire Skybreaker.md",
+      "x": 1413,
+      "y": 800,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "7zDdbhdX3UDoepRr",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Talents/Highspren Bond/Third Ideal Skybreaker.md",
+      "x": 883,
+      "y": -130,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "xtJ7nW3z3v4DBwQ7",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Talents/Highspren Bond/Second Ideal Skybreaker.md",
+      "x": 883,
+      "y": -750,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "b2AplsoQpoDTZgFK",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Talents/Highspren Bond/Fourth Ideal Skybreaker.md",
+      "x": 883,
+      "y": 1110,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "JkdDihkr9qITG1Fq",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Talents/Highspren Bond/Deepened Bond.md",
+      "x": -706,
+      "y": 800,
+      "width": 460,
+      "height": 240
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "vMNd0s7BMsMvjuFg",
+      "fromSide": "right",
+      "toNode": "uXn7nMCvJMh3eoS3",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "uXn7nMCvJMh3eoS3",
+      "fromSide": "right",
+      "toNode": "jIoUcLbBoed4gx1q",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "7zDdbhdX3UDoepRr",
+      "fromSide": "right",
+      "toNode": "0b225yKN8ouIOfRV",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "xtJ7nW3z3v4DBwQ7",
+      "fromSide": "right",
+      "toNode": "7zDdbhdX3UDoepRr",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "7zDdbhdX3UDoepRr",
+      "fromSide": "right",
+      "toNode": "b2AplsoQpoDTZgFK",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "7zDdbhdX3UDoepRr",
+      "fromSide": "right",
+      "toNode": "JkdDihkr9qITG1Fq",
+      "toSide": "left"
+    }
+  ]
+}

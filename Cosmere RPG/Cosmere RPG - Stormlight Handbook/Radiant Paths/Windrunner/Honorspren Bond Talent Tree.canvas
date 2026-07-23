@@ -1,0 +1,120 @@
+{
+  "nodes": [
+    {
+      "id": "60PTjyEM1Sd4HAeC",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Windrunner/Talents/Honorspren Bond/Second Ideal Windrunner.md",
+      "x": 2296,
+      "y": 133,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "FYHWdUzeHA23iSoq",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Windrunner/Talents/Honorspren Bond/Third Ideal Windrunner.md",
+      "x": 2296,
+      "y": 753,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "WtcoYQTSfgrq0GLW",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Windrunner/Talents/Honorspren Bond/Deepened Bond.md",
+      "x": 706,
+      "y": 1683,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "9K9YKNyVds9LaFNs",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Windrunner/Talents/Honorspren Bond/Fourth Ideal Windrunner.md",
+      "x": 2296,
+      "y": 1993,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "TUJbW9M1aAlUXlmY",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Windrunner/Talents/Honorspren Bond/Reverse Lashing.md",
+      "x": 4416,
+      "y": 133,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "KcoHFfmj3CJ2g9q9",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Windrunner/Talents/Honorspren Bond/Invested.md",
+      "x": 4416,
+      "y": 753,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "kvvNiQo3arxjr0UN",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Windrunner/Talents/Honorspren Bond/Wound Regeneration.md",
+      "x": 4416,
+      "y": 1683,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "pJuq3kfVlGRjLOTO",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Windrunner/Talents/Honorspren Bond/Take Squire Windrunner.md",
+      "x": 2826,
+      "y": 1683,
+      "width": 460,
+      "height": 240
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "60PTjyEM1Sd4HAeC",
+      "fromSide": "right",
+      "toNode": "FYHWdUzeHA23iSoq",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "FYHWdUzeHA23iSoq",
+      "fromSide": "right",
+      "toNode": "WtcoYQTSfgrq0GLW",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "FYHWdUzeHA23iSoq",
+      "fromSide": "right",
+      "toNode": "9K9YKNyVds9LaFNs",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "TUJbW9M1aAlUXlmY",
+      "fromSide": "right",
+      "toNode": "KcoHFfmj3CJ2g9q9",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "KcoHFfmj3CJ2g9q9",
+      "fromSide": "right",
+      "toNode": "kvvNiQo3arxjr0UN",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "FYHWdUzeHA23iSoq",
+      "fromSide": "right",
+      "toNode": "pJuq3kfVlGRjLOTO",
+      "toSide": "left"
+    }
+  ]
+}
