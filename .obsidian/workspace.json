@@ -15,9 +15,9 @@
               "state": {
                 "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Agent Talents Talent Tree.canvas",
                 "viewState": {
-                  "x": 13374.301734710869,
-                  "y": 8241.74039919697,
-                  "zoom": -4
+                  "x": 8524.772369688702,
+                  "y": 6260.072508462941,
+                  "zoom": -1.3833333333333309
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -116,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Agent Talents Talent Tree.canvas",
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Opportunist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Agent Talents Talent Tree"
+              "title": "Outgoing links from Opportunist"
             }
           },
           {

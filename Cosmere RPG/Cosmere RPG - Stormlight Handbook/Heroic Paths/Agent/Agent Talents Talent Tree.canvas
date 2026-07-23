@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"background","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg076_path_Agent_STEVE PRESCOTT.webp","x":4282,"y":1970,"width":19670,"height":12926},
 		{"id":"wWdEUS6bqRKgvB7A","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Watchful Eye.md","x":6132,"y":6200,"width":640,"height":420},
 		{"id":"CcxX2Kjy0hCrRGjm","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Quick Analysis.md","x":6132,"y":8240,"width":640,"height":420},
 		{"id":"rkXhT3oHP4IJuNIl","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Gather Evidence.md","x":6132,"y":10790,"width":640,"height":420},
@@ -25,8 +24,9 @@
 		{"id":"qKJafrNWxnXBxNXo","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Surefooted.md","x":20732,"y":9260,"width":640,"height":420},
 		{"id":"LcUQdj52UPVXB8Yg","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Shadow Step.md","x":19272,"y":15380,"width":640,"height":420},
 		{"id":"VFzT258ZcCF25Gqu","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Tricksters Hand.md","x":21462,"y":15380,"width":640,"height":420},
-		{"id":"UakPDM2aMunto5yy","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Opportunist.md","x":14892,"y":2190,"width":640,"height":420},
-		{"id":"banner","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/agent.webp","x":6132,"y":1890,"width":260,"height":260}
+		{"id":"fe98632ff64ce931","x":6452,"y":1600,"width":3409,"height":2240,"type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg076_path_Agent_STEVE PRESCOTT.webp"},
+		{"id":"banner","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/agent.webp","x":6452,"y":1600,"width":260,"height":260},
+		{"id":"UakPDM2aMunto5yy","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Opportunist.md","x":7840,"y":1600,"width":317,"height":260}
 	],
 	"edges":[
 		{"id":"edge0","fromNode":"wWdEUS6bqRKgvB7A","fromSide":"right","toNode":"CcxX2Kjy0hCrRGjm","toSide":"left"},
