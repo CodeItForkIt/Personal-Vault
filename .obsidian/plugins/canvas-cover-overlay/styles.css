@@ -1,0 +1,43 @@
+.canvas-cover-overlay-host {
+	position: relative;
+	overflow: hidden;
+}
+
+.canvas-cover-overlay {
+	position: absolute;
+	inset: 0;
+	z-index: 2;
+	pointer-events: none;
+	border-radius: inherit;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	opacity: var(--canvas-cover-overlay-opacity, 0.9);
+	mix-blend-mode: normal;
+	transition: opacity 120ms ease-out;
+}
+
+.canvas-node.is-selected .canvas-cover-overlay {
+	opacity: var(--canvas-cover-overlay-selected-opacity, 1);
+}
+
+.canvas-cover-view-background-host {
+	position: relative;
+	overflow: hidden;
+	isolation: isolate;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+}
+
+.canvas-cover-view-background-layer {
+	position: absolute;
+	inset: 0;
+	pointer-events: none;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	z-index: -1;
+	transition: opacity 120ms ease-out;
+}

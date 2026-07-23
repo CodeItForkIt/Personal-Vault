@@ -1,0 +1,129 @@
+{
+  "nodes": [
+    {
+      "id": "54SZAo3ap6sk457I",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Risky Behavior.md",
+      "x": -3650,
+      "y": -3870,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "tdegsJN4XRGNXv2N",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Double Down.md",
+      "x": -3650,
+      "y": -1680,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "Rcvh5GBG7WyZ7VvO",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Underworld Contacts.md",
+      "x": -5110,
+      "y": 1530,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "DOKhs5BqWoW0YICG",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Fast Talker.md",
+      "x": -2920,
+      "y": 1530,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "vfSCjnUQwvBLxHzB",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Cheap Shot.md",
+      "x": -730,
+      "y": -3870,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "qKJafrNWxnXBxNXo",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Surefooted.md",
+      "x": -730,
+      "y": -1680,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "LcUQdj52UPVXB8Yg",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Shadow Step.md",
+      "x": -2190,
+      "y": 1530,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "VFzT258ZcCF25Gqu",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Tricksters Hand.md",
+      "x": 0,
+      "y": 1530,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/theft-pickpocket-bribery-brown.webp",
+      "x": -5110,
+      "y": -4170,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "54SZAo3ap6sk457I",
+      "fromSide": "right",
+      "toNode": "tdegsJN4XRGNXv2N",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "tdegsJN4XRGNXv2N",
+      "fromSide": "right",
+      "toNode": "Rcvh5GBG7WyZ7VvO",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "tdegsJN4XRGNXv2N",
+      "fromSide": "right",
+      "toNode": "DOKhs5BqWoW0YICG",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "vfSCjnUQwvBLxHzB",
+      "fromSide": "right",
+      "toNode": "qKJafrNWxnXBxNXo",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "qKJafrNWxnXBxNXo",
+      "fromSide": "right",
+      "toNode": "LcUQdj52UPVXB8Yg",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "qKJafrNWxnXBxNXo",
+      "fromSide": "right",
+      "toNode": "VFzT258ZcCF25Gqu",
+      "toSide": "left"
+    }
+  ]
+}

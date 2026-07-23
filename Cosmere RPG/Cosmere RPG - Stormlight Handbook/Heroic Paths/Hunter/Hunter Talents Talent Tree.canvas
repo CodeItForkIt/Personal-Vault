@@ -1,0 +1,375 @@
+{
+  "nodes": [
+    {
+      "id": "background",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg092_path_Hunter_STEVE PRESCOTT.webp",
+      "x": 4282,
+      "y": 1970,
+      "width": 19670,
+      "height": 14050
+    },
+    {
+      "id": "QWqxfWirLIhiSGXb",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Seek Quarry.md",
+      "x": 12702,
+      "y": 2190,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "fM8xFw0iClC4vOy5",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Tagging Shot.md",
+      "x": 6132,
+      "y": 6200,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "S3P7OCHdbbc0bSNp",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Combat Training.md",
+      "x": 9052,
+      "y": 6200,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "zeIIvtQJXivFQFBk",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Exploit Weakness.md",
+      "x": 6132,
+      "y": 11300,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "4T1oysAm7BceuMoh",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Sharp Eye.md",
+      "x": 6132,
+      "y": 8240,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "JCrK3vqt5CI9mDm6",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Steady Aim.md",
+      "x": 9052,
+      "y": 8240,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "eSI9CoNC5rkjbh7C",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Hardy.md",
+      "x": 6862,
+      "y": 11300,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "tYVocxBrDNO8LK8Z",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Unrelenting Salvo.md",
+      "x": 6132,
+      "y": 15380,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "EvvJ59y4sgxalzTV",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Backstep.md",
+      "x": 9052,
+      "y": 15380,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "UYP5V7HvGc8Gu3Jv",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Assassin/Talents/Startling Blow.md",
+      "x": 11972,
+      "y": 6200,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "BHxwz7JtTreAsemq",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Assassin/Talents/Fatal Thrust.md",
+      "x": 11972,
+      "y": 8240,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "s2rD2PLmsT5Vrthg",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Assassin/Talents/Killing Edge.md",
+      "x": 15622,
+      "y": 6200,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "y1q4cIkloXYqaWy8",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Assassin/Talents/Shadowing.md",
+      "x": 15622,
+      "y": 8240,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "o6NgdIBNkIcDds9X",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Assassin/Talents/Sidestep.md",
+      "x": 11972,
+      "y": 11300,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "JLquIssdHHLbsYiH",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Assassin/Talents/Cold Eyes.md",
+      "x": 15622,
+      "y": 11300,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "CfBJM6TSLWsAKH6F",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Assassin/Talents/Mighty.md",
+      "x": 11972,
+      "y": 15380,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "wpuCiXFlc5zoSayC",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Assassin/Talents/Swift Strikes.md",
+      "x": 15622,
+      "y": 15380,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "UpivDU0AJEGCQFVA",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Deadly Trap.md",
+      "x": 17812,
+      "y": 6200,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "MRzDJsi8lNgzwHoA",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Experienced Trapper.md",
+      "x": 17812,
+      "y": 9260,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "F2OJza3CWg67izkk",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Surefooted.md",
+      "x": 18542,
+      "y": 15380,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "M0jOXY1qplBNkEu3",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Hunters Edge.md",
+      "x": 16352,
+      "y": 15380,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "TM43LubUq1KuhIHN",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Feral Connection.md",
+      "x": 19272,
+      "y": 15380,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "MdvIPmcN5NzkIaDm",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Pack Hunting.md",
+      "x": 21462,
+      "y": 15380,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "tvgfSvb42ooYN1cM",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Protective Bond.md",
+      "x": 20732,
+      "y": 9260,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "YrpD4IE5yjmTSdfM",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Animal Bond.md",
+      "x": 20732,
+      "y": 6200,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/hunter.webp",
+      "x": 6132,
+      "y": 1890,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "4T1oysAm7BceuMoh",
+      "fromSide": "right",
+      "toNode": "zeIIvtQJXivFQFBk",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "fM8xFw0iClC4vOy5",
+      "fromSide": "right",
+      "toNode": "4T1oysAm7BceuMoh",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "S3P7OCHdbbc0bSNp",
+      "fromSide": "right",
+      "toNode": "JCrK3vqt5CI9mDm6",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "JCrK3vqt5CI9mDm6",
+      "fromSide": "right",
+      "toNode": "eSI9CoNC5rkjbh7C",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "eSI9CoNC5rkjbh7C",
+      "fromSide": "right",
+      "toNode": "tYVocxBrDNO8LK8Z",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "JCrK3vqt5CI9mDm6",
+      "fromSide": "right",
+      "toNode": "EvvJ59y4sgxalzTV",
+      "toSide": "left"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "UYP5V7HvGc8Gu3Jv",
+      "fromSide": "right",
+      "toNode": "BHxwz7JtTreAsemq",
+      "toSide": "left"
+    },
+    {
+      "id": "edge7",
+      "fromNode": "s2rD2PLmsT5Vrthg",
+      "fromSide": "right",
+      "toNode": "y1q4cIkloXYqaWy8",
+      "toSide": "left"
+    },
+    {
+      "id": "edge8",
+      "fromNode": "y1q4cIkloXYqaWy8",
+      "fromSide": "right",
+      "toNode": "o6NgdIBNkIcDds9X",
+      "toSide": "left"
+    },
+    {
+      "id": "edge9",
+      "fromNode": "y1q4cIkloXYqaWy8",
+      "fromSide": "right",
+      "toNode": "JLquIssdHHLbsYiH",
+      "toSide": "left"
+    },
+    {
+      "id": "edge10",
+      "fromNode": "JLquIssdHHLbsYiH",
+      "fromSide": "right",
+      "toNode": "CfBJM6TSLWsAKH6F",
+      "toSide": "left"
+    },
+    {
+      "id": "edge11",
+      "fromNode": "JLquIssdHHLbsYiH",
+      "fromSide": "right",
+      "toNode": "wpuCiXFlc5zoSayC",
+      "toSide": "left"
+    },
+    {
+      "id": "edge12",
+      "fromNode": "UpivDU0AJEGCQFVA",
+      "fromSide": "right",
+      "toNode": "MRzDJsi8lNgzwHoA",
+      "toSide": "left"
+    },
+    {
+      "id": "edge13",
+      "fromNode": "MRzDJsi8lNgzwHoA",
+      "fromSide": "right",
+      "toNode": "F2OJza3CWg67izkk",
+      "toSide": "left"
+    },
+    {
+      "id": "edge14",
+      "fromNode": "MRzDJsi8lNgzwHoA",
+      "fromSide": "right",
+      "toNode": "M0jOXY1qplBNkEu3",
+      "toSide": "left"
+    },
+    {
+      "id": "edge15",
+      "fromNode": "tvgfSvb42ooYN1cM",
+      "fromSide": "right",
+      "toNode": "TM43LubUq1KuhIHN",
+      "toSide": "left"
+    },
+    {
+      "id": "edge16",
+      "fromNode": "tvgfSvb42ooYN1cM",
+      "fromSide": "right",
+      "toNode": "MdvIPmcN5NzkIaDm",
+      "toSide": "left"
+    },
+    {
+      "id": "edge17",
+      "fromNode": "YrpD4IE5yjmTSdfM",
+      "fromSide": "right",
+      "toNode": "tvgfSvb42ooYN1cM",
+      "toSide": "left"
+    }
+  ]
+}

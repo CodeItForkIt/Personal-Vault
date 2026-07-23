@@ -1,0 +1,129 @@
+{
+  "nodes": [
+    {
+      "id": "kJGekoxNfpqCzTdp",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Sound Advice.md",
+      "x": -365,
+      "y": -1680,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "aUtouVdUQDPuiYzc",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Lessons in Patience.md",
+      "x": -365,
+      "y": -660,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "oh4GqUqUNXBwlT0V",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Instill Confidence.md",
+      "x": -365,
+      "y": 360,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "Rye8hv9Y8tk5Dh0t",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Foresight.md",
+      "x": -365,
+      "y": 1380,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "yc8k8IKDtLkpVtk3",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Practical Demonstration.md",
+      "x": 2555,
+      "y": -1680,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "GiVa7PceM72WOI0M",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Mighty.md",
+      "x": 2555,
+      "y": -660,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "HKlwQnh0ntnr7vsx",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Guiding Oration.md",
+      "x": 2555,
+      "y": 360,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "vknDqrN673fhLmC3",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Rallying Shout.md",
+      "x": 2555,
+      "y": 1380,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/diplomacy-writing-letter.webp",
+      "x": -365,
+      "y": -1980,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "kJGekoxNfpqCzTdp",
+      "fromSide": "right",
+      "toNode": "aUtouVdUQDPuiYzc",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "aUtouVdUQDPuiYzc",
+      "fromSide": "right",
+      "toNode": "oh4GqUqUNXBwlT0V",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "oh4GqUqUNXBwlT0V",
+      "fromSide": "right",
+      "toNode": "Rye8hv9Y8tk5Dh0t",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "yc8k8IKDtLkpVtk3",
+      "fromSide": "right",
+      "toNode": "GiVa7PceM72WOI0M",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "GiVa7PceM72WOI0M",
+      "fromSide": "right",
+      "toNode": "HKlwQnh0ntnr7vsx",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "HKlwQnh0ntnr7vsx",
+      "fromSide": "right",
+      "toNode": "vknDqrN673fhLmC3",
+      "toSide": "left"
+    }
+  ]
+}

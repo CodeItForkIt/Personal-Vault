@@ -1,0 +1,375 @@
+{
+  "nodes": [
+    {
+      "id": "background",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg110_path_Scholar_STEVE PRESCOTT.webp",
+      "x": 3552,
+      "y": 1970,
+      "width": 19670,
+      "height": 14050
+    },
+    {
+      "id": "q3kyxjXQKH7HOodc",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Erudition.md",
+      "x": 11972,
+      "y": 2190,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "7Fk7eo7AUMmAqGVo",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Field Medicine.md",
+      "x": 17812,
+      "y": 6200,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "SJLnN2dcAwIH2YU8",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Emotional Intelligence.md",
+      "x": 20732,
+      "y": 6200,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "AxDW9XVvkk0N99dC",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Collected.md",
+      "x": 20732,
+      "y": 9260,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "x6XkMskLHmvPR88q",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Applied Medicine.md",
+      "x": 20732,
+      "y": 11810,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "5Q98Pl6KIDX3gQJU",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Anatomical Insight.md",
+      "x": 15622,
+      "y": 9260,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "GH3BsV3o3YQVQEuv",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Swift Healer.md",
+      "x": 17812,
+      "y": 9770,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "Eb95yyzkjRK8E57D",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Ongoing Care.md",
+      "x": 17812,
+      "y": 15380,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "XVcayzddA0m6iCXq",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Resuscitation.md",
+      "x": 20732,
+      "y": 15380,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "vEOwttuJbqFPhC4Q",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Strategize.md",
+      "x": 11242,
+      "y": 6200,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "okXns8O0iM1NQMUu",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Mind and Body.md",
+      "x": 14892,
+      "y": 6200,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "LOxcjnKcFnXVFIhe",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Know Your Moment.md",
+      "x": 14892,
+      "y": 9260,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "llSOwSrMFjFJzlqF",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Composed.md",
+      "x": 11242,
+      "y": 9260,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "vJIYCJ1pBRCOutzE",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Deep Contemplation.md",
+      "x": 14892,
+      "y": 11810,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "N8UN2HRNLOHExl3Z",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Keen Insight.md",
+      "x": 14892,
+      "y": 15380,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "ToRtUKr4OFQkTcZN",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Contingency.md",
+      "x": 11242,
+      "y": 11810,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "ggMht3w3W2xkuj6I",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Turning Point.md",
+      "x": 11242,
+      "y": 15380,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "aPfqJeHefxos2CZK",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Artifabrian/Talents/Efficient Engineer.md",
+      "x": 5402,
+      "y": 6200,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "xopPXDKPI78Akd38",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Artifabrian/Talents/Prized Acquisition.md",
+      "x": 8322,
+      "y": 6200,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "STvnpsjTZuADa0pR",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Artifabrian/Talents/Inventive Design.md",
+      "x": 8322,
+      "y": 15380,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "y0xVwMOjNpQsARhc",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Artifabrian/Talents/Overcharge.md",
+      "x": 6862,
+      "y": 15380,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "2I07gsq3fzIqDZsL",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Artifabrian/Talents/Deep Study.md",
+      "x": 6862,
+      "y": 9260,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "Py5pkceYhWOovPl7",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Artifabrian/Talents/Fine Handiwork.md",
+      "x": 5402,
+      "y": 9260,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "sFoLojZ06Ye9F03J",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Artifabrian/Talents/Experimental Tinkering.md",
+      "x": 5402,
+      "y": 11810,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "9eYtj1Zkz0MaOAf8",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Artifabrian/Talents/Overwhelm with Details.md",
+      "x": 5402,
+      "y": 15380,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/scholar.webp",
+      "x": 5402,
+      "y": 1890,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "SJLnN2dcAwIH2YU8",
+      "fromSide": "right",
+      "toNode": "AxDW9XVvkk0N99dC",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "AxDW9XVvkk0N99dC",
+      "fromSide": "right",
+      "toNode": "x6XkMskLHmvPR88q",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "7Fk7eo7AUMmAqGVo",
+      "fromSide": "right",
+      "toNode": "5Q98Pl6KIDX3gQJU",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "7Fk7eo7AUMmAqGVo",
+      "fromSide": "right",
+      "toNode": "GH3BsV3o3YQVQEuv",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "GH3BsV3o3YQVQEuv",
+      "fromSide": "right",
+      "toNode": "Eb95yyzkjRK8E57D",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "GH3BsV3o3YQVQEuv",
+      "fromSide": "right",
+      "toNode": "XVcayzddA0m6iCXq",
+      "toSide": "left"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "okXns8O0iM1NQMUu",
+      "fromSide": "right",
+      "toNode": "LOxcjnKcFnXVFIhe",
+      "toSide": "left"
+    },
+    {
+      "id": "edge7",
+      "fromNode": "vEOwttuJbqFPhC4Q",
+      "fromSide": "right",
+      "toNode": "llSOwSrMFjFJzlqF",
+      "toSide": "left"
+    },
+    {
+      "id": "edge8",
+      "fromNode": "llSOwSrMFjFJzlqF",
+      "fromSide": "right",
+      "toNode": "vJIYCJ1pBRCOutzE",
+      "toSide": "left"
+    },
+    {
+      "id": "edge9",
+      "fromNode": "vJIYCJ1pBRCOutzE",
+      "fromSide": "right",
+      "toNode": "N8UN2HRNLOHExl3Z",
+      "toSide": "left"
+    },
+    {
+      "id": "edge10",
+      "fromNode": "llSOwSrMFjFJzlqF",
+      "fromSide": "right",
+      "toNode": "ToRtUKr4OFQkTcZN",
+      "toSide": "left"
+    },
+    {
+      "id": "edge11",
+      "fromNode": "ToRtUKr4OFQkTcZN",
+      "fromSide": "right",
+      "toNode": "ggMht3w3W2xkuj6I",
+      "toSide": "left"
+    },
+    {
+      "id": "edge12",
+      "fromNode": "xopPXDKPI78Akd38",
+      "fromSide": "right",
+      "toNode": "STvnpsjTZuADa0pR",
+      "toSide": "left"
+    },
+    {
+      "id": "edge13",
+      "fromNode": "xopPXDKPI78Akd38",
+      "fromSide": "right",
+      "toNode": "y0xVwMOjNpQsARhc",
+      "toSide": "left"
+    },
+    {
+      "id": "edge14",
+      "fromNode": "aPfqJeHefxos2CZK",
+      "fromSide": "right",
+      "toNode": "2I07gsq3fzIqDZsL",
+      "toSide": "left"
+    },
+    {
+      "id": "edge15",
+      "fromNode": "aPfqJeHefxos2CZK",
+      "fromSide": "right",
+      "toNode": "Py5pkceYhWOovPl7",
+      "toSide": "left"
+    },
+    {
+      "id": "edge16",
+      "fromNode": "Py5pkceYhWOovPl7",
+      "fromSide": "right",
+      "toNode": "sFoLojZ06Ye9F03J",
+      "toSide": "left"
+    },
+    {
+      "id": "edge17",
+      "fromNode": "sFoLojZ06Ye9F03J",
+      "fromSide": "right",
+      "toNode": "9eYtj1Zkz0MaOAf8",
+      "toSide": "left"
+    }
+  ]
+}
