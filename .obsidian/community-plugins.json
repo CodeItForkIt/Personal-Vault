@@ -10,7 +10,6 @@
   "templater-obsidian",
   "table-editor-obsidian",
   "calendar",
-  "make-md",
   "obsidian-view-mode-by-frontmatter",
   "obsidian-bulk-rename-plugin",
   "frontmatter-markdown-links",
@@ -20,5 +19,6 @@
   "auto-download-images-after-web-clipping",
   "clipping-link-resolver",
   "obsidian-local-rest-api",
-  "file-tree-alternative"
+  "file-tree-alternative",
+  "obsidian-git"
 ]
