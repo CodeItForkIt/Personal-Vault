@@ -11,17 +11,14 @@
             "id": "cc6eb41868c1ffc7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Champion Talent Tree.canvas",
-                "viewState": {
-                  "x": 1018.3005197505197,
-                  "y": -113.87567567567557,
-                  "zoom": -1.2637840525333779
-                }
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Leader.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Champion Talent Tree"
+              "icon": "lucide-file",
+              "title": "Leader"
             }
           },
           {
@@ -129,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Champion/Talents/Combat Coordination.md",
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Leader.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Combat Coordination"
+              "title": "Outgoing links from Leader"
             }
           },
           {
@@ -217,6 +214,8 @@
   },
   "active": "cc6eb41868c1ffc7",
   "lastOpenFiles": [
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Champion Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Leader Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Leader.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Envoy.md",
@@ -261,8 +260,6 @@
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Illumination Talents/Illumination Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Gravitation Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Division Talents Talent Tree.canvas",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Cohesion Talents/Cohesion Talents Talent Tree.canvas",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Adhesion Talents/Adhesion Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/attachments/pg265_YuNerig_Anatomy_Tom Babbey.webp",
     "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/attachments/pg264_YuNerig_Tom Babbey.webp",
     "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/attachments/pg263_journal_Whitespine_BEN MCSWEENEY & DARREN CALVERT.webp",
