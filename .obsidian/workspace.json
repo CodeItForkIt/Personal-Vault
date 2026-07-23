@@ -15,8 +15,8 @@
               "state": {
                 "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Champion Talent Tree.canvas",
                 "viewState": {
-                  "x": 1025,
-                  "y": -230,
+                  "x": 1018.3005197505197,
+                  "y": -113.87567567567557,
                   "zoom": -1.2637840525333779
                 }
               },
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Champion Talent Tree.canvas",
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Champion/Talents/Combat Coordination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Champion Talent Tree"
+              "title": "Outgoing links from Combat Coordination"
             }
           },
           {
