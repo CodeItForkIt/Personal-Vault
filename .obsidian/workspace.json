@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "Szeth - The Coppermind"
             }
-          },
-          {
-            "id": "957474a40b1c69d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Mask.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Mask"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,16 +95,25 @@
             "state": {
               "type": "mk-path-view",
               "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "icon": "lucide-ghost",
+              "title": "mk-path-view"
+            }
+          },
+          {
+            "id": "9feefd8a39ced674",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 372.5,
-    "collapsed": true
+    "width": 372.5
   },
   "right": {
     "id": "fec9c62883330444",
@@ -218,8 +213,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -228,8 +223,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -253,56 +248,66 @@
       "pseudo-mica:Change vibrancy": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "957474a40b1c69d1",
+  "active": "df84a608f0ea1482",
   "lastOpenFiles": [
-    "Clippings/17th Shard/Characters/Szeth - The Coppermind.md",
+    "conflict-files-obsidian-git.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Talents",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist",
+    "Tags/#path",
+    "Tags/#talent_tree",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Artifabrian/Talents",
+    "Clippings/what-if.xkcd.com/attachments/Coast-to-Coast-Coasting-6(2).png",
+    "Clippings/what-if.xkcd.com/attachments/Coast-to-Coast-Coasting-5(2).png",
+    "Clippings/what-if.xkcd.com/attachments/Coast-to-Coast-Coasting-4(2).png",
+    "Clippings/what-if.xkcd.com/attachments/Coast-to-Coast-Coasting-3(2).png",
+    "Clippings/what-if.xkcd.com/attachments/Coast-to-Coast-Coasting-2(2).png",
+    "Clippings/what-if.xkcd.com/attachments/Coast-to-Coast-Coasting-1(2).png",
+    "Clippings/what-if.xkcd.com/attachments/Coast-to-Coast-Coasting-6.png",
+    "Clippings/what-if.xkcd.com/attachments/Coast-to-Coast-Coasting-5.png",
+    "Clippings/what-if.xkcd.com/attachments/Coast-to-Coast-Coasting-4.png",
+    "Clippings/what-if.xkcd.com/attachments/Coast-to-Coast-Coasting-3.png",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Leader Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Leader Talents.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico Talent Tree.canvas",
     "The Mask.md",
-    "Tags/Untitled.md",
-    "Untitled 15.md",
-    "Clippings/17th Shard/Planets/Komashi - The Coppermind/Places of Interest/Kilahito - The Coppermind.md",
-    "Clippings/17th Shard/Vivenna's Blade - The Coppermind.md",
-    "Clippings/17th Shard/attachments/Silverlight---The-Coppermind-1.svg",
-    "Clippings/17th Shard/Silverlight - The Coppermind.md",
-    "Clippings/17th Shard/attachments/Ire---The-Coppermind-2.svg",
-    "Clippings/17th Shard/attachments/Ire---The-Coppermind-1.png",
-    "Clippings/17th Shard/Seventeenth Shard - The Coppermind.md",
-    "Clippings/17th Shard/Ire - The Coppermind.md",
-    "Clippings/17th Shard/Initiation - The Coppermind.md",
-    "Clippings/17th Shard/CategoryWorldhoppers - The Coppermind.md",
-    "Clippings/17th Shard/attachments/Threnody---The-Coppermind-1.webp",
-    "Clippings/17th Shard/Vax - The Coppermind.md",
-    "Clippings/17th Shard/Threnody - The Coppermind.md",
-    "Clippings/17th Shard/Obrodai - The Coppermind.md",
-    "Clippings/17th Shard/attachments/Lumar---The-Coppermind-3.jpg",
-    "Clippings/17th Shard/attachments/Lumar---The-Coppermind-2.jpg",
-    "Clippings/17th Shard/attachments/Lumar---The-Coppermind-1.jpg",
-    "Clippings/17th Shard/Mythos - The Coppermind.md",
-    "Clippings/17th Shard/Lumar - The Coppermind.md",
-    "Clippings/17th Shard/Bjendal - The Coppermind.md",
-    "Clippings/17th Shard/attachments/Canticle---The-Coppermind-1.jpg",
-    "Clippings/17th Shard/Braize - The Coppermind.md",
-    "Clippings/17th Shard/Canticle - The Coppermind.md",
-    "Clippings/17th Shard/attachments/First-of-the-Sun---The-Coppermind-2.jpg",
-    "Clippings/17th Shard/attachments/First-of-the-Sun---The-Coppermind-1.jpg",
-    "Clippings/17th Shard/Dhatri - The Coppermind.md",
-    "Clippings/17th Shard/First of the Sun - The Coppermind.md",
-    "Clippings/17th Shard/Intent - The Coppermind.md",
-    "Clippings/17th Shard/Aether spores - The Coppermind.md",
-    "Clippings/17th Shard/Lunagree - The Coppermind.md",
-    "Clippings/17th Shard/Midnight Essence - The Coppermind.md",
-    "Clippings/17th Shard/Spore eater - The Coppermind.md",
-    "Clippings/17th Shard/Planets/Komashi - The Coppermind/Investiture Manifestations",
-    "Clippings/17th Shard/Planets/Komashi - The Coppermind/Places of Interest",
-    "Clippings/17th Shard/Planets/Komashi - The Coppermind/Nations",
-    "Clippings/17th Shard/Planets/Komashi - The Coppermind",
-    "Clippings/17th Shard/Planets/Sel - The Coppermind/Species",
-    "Clippings/17th Shard/Planets/Sel - The Coppermind/Language",
-    "Clippings/17th Shard/Planets/Sel - The Coppermind/Places of Interest",
-    "Clippings/17th Shard/Planets/Sel - The Coppermind/Nations",
-    "Clippings/17th Shard/Planets/Sel - The Coppermind",
-    "Clippings/17th Shard/Planets/Scadrial - The Coppermind/Places of Interest"
+    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Notable Characters/Ylt the Truthwatcher.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Notable Characters/Poahu.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Notable Characters/Kaiana the Truthwatcher.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Notable Characters/Axies the Collector.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Minor Characters/Taszo-son-Clutio.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Minor Characters/Veth.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Minor Characters/Lilinum the Devastating One.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Tension/Effects/Hardened Defense.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Singer/Fused/Warform Singer.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Singer/Fused/Stormform Regal.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Singer/Fused/Shadowform Zealot.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Singer/Fused/Nimbleform Singer.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Singer/Fused/Direform Regal.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Singer/Fused/Deepest One.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 7/Ryel.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 7/Tyche.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 7/Rit-daughter-Clutio.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 6/Yana.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 6/Teba.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 5/Vanzi.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 6/Shull.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 6/Nanath.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Tension Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Cohesion Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Transportation Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transformation Talents/Transformation Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Tension Talents/Tension Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Progression Talents/Progression Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Illumination Talents/Illumination Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Gravitation Talents Talent Tree.canvas"
   ]
 }
