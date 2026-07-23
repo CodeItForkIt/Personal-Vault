@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poetry/Light.md",
+                "file": "Poetry/The Mask.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Light"
+              "title": "The Mask"
             }
           },
           {
@@ -126,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Poetry/Light.md",
+                "file": "Poetry/The Mask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Light"
+              "title": "Outgoing links from The Mask"
             }
           },
           {
@@ -214,8 +214,10 @@
   },
   "active": "cc6eb41868c1ffc7",
   "lastOpenFiles": [
-    "Poetry/Ship of Theseus.md",
+    "Poetry/Rocks.md",
+    "Poetry/The Mask.md",
     "Poetry/Light.md",
+    "Poetry/Ship of Theseus.md",
     "Poetry/Fear.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Leader.md",
     "Poetry",
@@ -243,8 +245,6 @@
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Willshaper/Talents/Lightspren Bond/Third Ideal Willshaper.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Willshaper/Talents/Lightspren Bond/Wound Regeneration.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Willshaper/Talents/Lightspren Bond/Take Squire Willshaper.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Willshaper/Talents/Lightspren Bond/Spiritual Cohesion.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Willshaper/Talents/Lightspren Bond/Second Ideal Willshaper.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Notable Characters",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Minor Characters",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Windrunner/Talents/Honorspren Bond",
