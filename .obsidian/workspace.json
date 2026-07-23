@@ -11,14 +11,10 @@
             "id": "cc6eb41868c1ffc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/17th Shard/Planets/Komashi - The Coppermind/Places of Interest/Noodle Pupil - The Coppermind.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Noodle Pupil - The Coppermind"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -35,8 +31,7 @@
               "title": "Szeth - The Coppermind"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,12 +122,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clippings/17th Shard/Characters/Szeth - The Coppermind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Szeth - The Coppermind"
+              "title": "Outgoing links"
             }
           },
           {
@@ -213,8 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df84a608f0ea1482",
+  "active": "cc6eb41868c1ffc7",
   "lastOpenFiles": [
+    "Clippings/17th Shard/Planets/Komashi - The Coppermind/Places of Interest/Noodle Pupil - The Coppermind.md",
+    "Clippings/17th Shard/Characters/Szeth - The Coppermind.md",
     "conflict-files-obsidian-git.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Talents",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist",
@@ -261,7 +257,6 @@
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 6/Teba.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 5/Vanzi.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 6/Shull.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 6/Nanath.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Tension Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Cohesion Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Transportation Talents Talent Tree.canvas",
