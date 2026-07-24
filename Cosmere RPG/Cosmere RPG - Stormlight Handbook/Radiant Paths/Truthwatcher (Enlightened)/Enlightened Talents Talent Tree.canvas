@@ -1,0 +1,105 @@
+{
+  "nodes": [
+    {
+      "id": "background",
+      "type": "group",
+      "x": -220.0,
+      "y": -220.0,
+      "width": 3270.0,
+      "height": 3120.0,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg189_Enlightened Mistspren_Sami Rytkonen.webp",
+      "backgroundStyle": "cover"
+    },
+    {
+      "id": "vdwQDmCQAPTGPgEC",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher (Enlightened)/Talents/Enlightened Talents/Glimpse The Future.md",
+      "x": 0.0,
+      "y": 1240.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "RcIcRzmHly946j6k",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher (Enlightened)/Talents/Enlightened Talents/Search the Past.md",
+      "x": 2190.0,
+      "y": 1240.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "oUtUGMUfCg4pdyKV",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher (Enlightened)/Talents/Enlightened Talents/Vision Void.md",
+      "x": 2190.0,
+      "y": 2260.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "1XeIxze3FLedzlUM",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher (Enlightened)/Talents/Enlightened Talents/Alter Fortune.md",
+      "x": 0.0,
+      "y": 2260.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "oww1F8Bzpvwl2S2J",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher (Enlightened)/Talents/Future Sight.md",
+      "x": 730.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/beams-rays-orange-purple.webp",
+      "x": 0.0,
+      "y": -300.0,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "oww1F8Bzpvwl2S2J",
+      "fromSide": "right",
+      "toNode": "vdwQDmCQAPTGPgEC",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "oww1F8Bzpvwl2S2J",
+      "fromSide": "right",
+      "toNode": "RcIcRzmHly946j6k",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "vdwQDmCQAPTGPgEC",
+      "fromSide": "right",
+      "toNode": "oUtUGMUfCg4pdyKV",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "RcIcRzmHly946j6k",
+      "fromSide": "right",
+      "toNode": "oUtUGMUfCg4pdyKV",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "vdwQDmCQAPTGPgEC",
+      "fromSide": "right",
+      "toNode": "1XeIxze3FLedzlUM",
+      "toSide": "left"
+    }
+  ]
+}

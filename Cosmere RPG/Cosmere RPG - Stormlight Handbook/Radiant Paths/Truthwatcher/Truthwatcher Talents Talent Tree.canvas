@@ -1,0 +1,148 @@
+{
+  "nodes": [
+    {
+      "id": "background",
+      "type": "group",
+      "x": -220,
+      "y": -220,
+      "width": 12030.0,
+      "height": 7490.0,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg184_path_Truthwatcher_SONDERFLEX STUDIOS.webp",
+      "backgroundStyle": "cover"
+    },
+    {
+      "id": "AuTSqoLwPDowKl71",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/First Ideal Truthwatcher.md",
+      "x": 0,
+      "y": 0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "ROSzBWLySR66WHeY",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Spiritual Healing.md",
+      "x": 10950.0,
+      "y": 3570.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "iiqfCwijaW1nyyQQ",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Invested.md",
+      "x": 10950.0,
+      "y": 4590.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "KLXsiA6aDMO74eRn",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Wound Regeneration.md",
+      "x": 10950.0,
+      "y": 6120.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "zKBRxPTNxx3wjrJa",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Take Squire Truthwatcher.md",
+      "x": 8760.0,
+      "y": 6120.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "KVM53TXkWon2i81b",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Third Ideal Truthwatcher.md",
+      "x": 8030.0,
+      "y": 4590.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "gabJKxi0dSlsgnbj",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Deepened Bond.md",
+      "x": 5840.0,
+      "y": 6120.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "o1Ss0ZxI5vvbCtrL",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Fourth Ideal Truthwatcher.md",
+      "x": 8030.0,
+      "y": 6630.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "3lp1bh8MIB9DfHjD",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Second Ideal Truthwatcher.md",
+      "x": 8030.0,
+      "y": 3570.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg180_path_banner_Truthwatcher.webp",
+      "x": 0,
+      "y": -300,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "ROSzBWLySR66WHeY",
+      "fromSide": "right",
+      "toNode": "iiqfCwijaW1nyyQQ",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "iiqfCwijaW1nyyQQ",
+      "fromSide": "right",
+      "toNode": "KLXsiA6aDMO74eRn",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "KVM53TXkWon2i81b",
+      "fromSide": "right",
+      "toNode": "zKBRxPTNxx3wjrJa",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "3lp1bh8MIB9DfHjD",
+      "fromSide": "right",
+      "toNode": "KVM53TXkWon2i81b",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "KVM53TXkWon2i81b",
+      "fromSide": "right",
+      "toNode": "gabJKxi0dSlsgnbj",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "KVM53TXkWon2i81b",
+      "fromSide": "right",
+      "toNode": "o1Ss0ZxI5vvbCtrL",
+      "toSide": "left"
+    }
+  ]
+}

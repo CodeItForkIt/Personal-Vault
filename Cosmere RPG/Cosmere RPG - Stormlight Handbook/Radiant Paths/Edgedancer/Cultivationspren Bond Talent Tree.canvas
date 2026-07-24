@@ -1,0 +1,129 @@
+{
+  "nodes": [
+    {
+      "id": "UW8gq05a42bjjNuR",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Edgedancers Grace.md",
+      "x": 5110.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "FBfjnnhLN7zmAo00",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Invested.md",
+      "x": 5110.0,
+      "y": 1020.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "L1GN9FV1J6NsP5ni",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Wound Regeneration.md",
+      "x": 5110.0,
+      "y": 2550.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "AOtH3DkHgfLY1kXy",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Take Squire Edgedancer.md",
+      "x": 2920.0,
+      "y": 2550.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "37mV8wH0ul5ahtvW",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Third Ideal Edgedancer.md",
+      "x": 2190.0,
+      "y": 1020.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "y6A13Qxtll3sHaEq",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Second Ideal Edgedancer.md",
+      "x": 2190.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "GKVsDkf05cBDVoih",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Fourth Ideal Edgedancer.md",
+      "x": 2190.0,
+      "y": 3060.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "hoNHgk2XeadasDWF",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Deepened Bond.md",
+      "x": 0.0,
+      "y": 2550.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/energy-stream-link-white.webp",
+      "x": 0.0,
+      "y": -300.0,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "UW8gq05a42bjjNuR",
+      "fromSide": "right",
+      "toNode": "FBfjnnhLN7zmAo00",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "FBfjnnhLN7zmAo00",
+      "fromSide": "right",
+      "toNode": "L1GN9FV1J6NsP5ni",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "37mV8wH0ul5ahtvW",
+      "fromSide": "right",
+      "toNode": "AOtH3DkHgfLY1kXy",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "y6A13Qxtll3sHaEq",
+      "fromSide": "right",
+      "toNode": "37mV8wH0ul5ahtvW",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "37mV8wH0ul5ahtvW",
+      "fromSide": "right",
+      "toNode": "GKVsDkf05cBDVoih",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "37mV8wH0ul5ahtvW",
+      "fromSide": "right",
+      "toNode": "hoNHgk2XeadasDWF",
+      "toSide": "left"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "nodes": [
+    {
+      "id": "8HPvMawuuZI2kKkO",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Shard Training.md",
+      "x": 0.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "r8D4lhqVonbFN9qb",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Stonestance.md",
+      "x": 2920.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "Ch3QBXpnd1GVT5r7",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Mighty.md",
+      "x": 2920.0,
+      "y": 1020.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "retL5impRJy4Qk0d",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Bloodstance.md",
+      "x": 2920.0,
+      "y": 2040.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "5EIQCpcVyteuZgGR",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Windstance.md",
+      "x": 0.0,
+      "y": 1020.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "S3BnoMvNYru3sGA5",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Shattering Blow.md",
+      "x": 0.0,
+      "y": 2040.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "dxBnerEtstm21Kv9",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Precise Parry.md",
+      "x": 0.0,
+      "y": 3060.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "aexWlm4UJnlI7nla",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Meteoric Leap.md",
+      "x": 2920.0,
+      "y": 3060.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg254_Shardplate_SAMI RYTKÖNEN.webp",
+      "x": 0.0,
+      "y": -300.0,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "r8D4lhqVonbFN9qb",
+      "fromSide": "right",
+      "toNode": "Ch3QBXpnd1GVT5r7",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "Ch3QBXpnd1GVT5r7",
+      "fromSide": "right",
+      "toNode": "retL5impRJy4Qk0d",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "8HPvMawuuZI2kKkO",
+      "fromSide": "right",
+      "toNode": "retL5impRJy4Qk0d",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "8HPvMawuuZI2kKkO",
+      "fromSide": "right",
+      "toNode": "5EIQCpcVyteuZgGR",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "5EIQCpcVyteuZgGR",
+      "fromSide": "right",
+      "toNode": "S3BnoMvNYru3sGA5",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "S3BnoMvNYru3sGA5",
+      "fromSide": "right",
+      "toNode": "dxBnerEtstm21Kv9",
+      "toSide": "left"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "retL5impRJy4Qk0d",
+      "fromSide": "right",
+      "toNode": "aexWlm4UJnlI7nla",
+      "toSide": "left"
+    }
+  ]
+}

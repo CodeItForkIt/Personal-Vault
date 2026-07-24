@@ -1,0 +1,129 @@
+{
+  "nodes": [
+    {
+      "id": "2y9v68hjZm29UyRB",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico/Talents/Tactical Ploy.md",
+      "x": 4380.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "FIsOZYRbkkh8mAuN",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico/Talents/Cutthroat Tactics.md",
+      "x": 2190.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "N8VuwrsSzN4DMQDh",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico/Talents/Rumormonger.md",
+      "x": 2190.0,
+      "y": 510.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "SLlQdQA15jAZ8zfA",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico/Talents/Well Dressed.md",
+      "x": 2190.0,
+      "y": 2040.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "BzkxN7ghNIIItQHv",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico/Talents/Baleful.md",
+      "x": 4380.0,
+      "y": 1530.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "Tks9wHuh6EtIXzLc",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico/Talents/Set at Odds.md",
+      "x": 4380.0,
+      "y": 3060.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "cIsZzzNAxi9vXFfu",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico/Talents/Shrewd Command.md",
+      "x": 0.0,
+      "y": 1530.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "AacdZ3E9jDFjfa6a",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico/Talents/Grand Deception.md",
+      "x": 0.0,
+      "y": 3060.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/shirt-collared-grey.webp",
+      "x": 0.0,
+      "y": -300.0,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "FIsOZYRbkkh8mAuN",
+      "fromSide": "right",
+      "toNode": "N8VuwrsSzN4DMQDh",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "N8VuwrsSzN4DMQDh",
+      "fromSide": "right",
+      "toNode": "SLlQdQA15jAZ8zfA",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "N8VuwrsSzN4DMQDh",
+      "fromSide": "right",
+      "toNode": "BzkxN7ghNIIItQHv",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "BzkxN7ghNIIItQHv",
+      "fromSide": "right",
+      "toNode": "Tks9wHuh6EtIXzLc",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "N8VuwrsSzN4DMQDh",
+      "fromSide": "right",
+      "toNode": "cIsZzzNAxi9vXFfu",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "cIsZzzNAxi9vXFfu",
+      "fromSide": "right",
+      "toNode": "AacdZ3E9jDFjfa6a",
+      "toSide": "left"
+    }
+  ]
+}

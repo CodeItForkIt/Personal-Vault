@@ -1,0 +1,129 @@
+{
+  "nodes": [
+    {
+      "id": "AF6Ka5miQeeMUlJJ",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Steadfast Challenge.md",
+      "x": 0.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "Rl7Wu6cBaADtJ1FM",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Collected.md",
+      "x": 2920.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "L0fzMlUHeYTNai3V",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Withering Retort.md",
+      "x": 0.0,
+      "y": 1020.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "HJfoZR5Y4l27dkEr",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Calm Appeal.md",
+      "x": 0.0,
+      "y": 2040.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "6UKY664hhtVcITgZ",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Peaceful Solution.md",
+      "x": 0.0,
+      "y": 3060.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "GP0bkpXgdcR9mWmq",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Well Dressed.md",
+      "x": 2920.0,
+      "y": 1020.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "DG56Em8UeyI4soT5",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/High Society Contacts.md",
+      "x": 2920.0,
+      "y": 2040.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "s5QL1RiwNTIAD2d9",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Practiced Oratory.md",
+      "x": 2920.0,
+      "y": 3060.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/diplomacy-unity-alliance.webp",
+      "x": 0.0,
+      "y": -300.0,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "AF6Ka5miQeeMUlJJ",
+      "fromSide": "right",
+      "toNode": "L0fzMlUHeYTNai3V",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "L0fzMlUHeYTNai3V",
+      "fromSide": "right",
+      "toNode": "HJfoZR5Y4l27dkEr",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "HJfoZR5Y4l27dkEr",
+      "fromSide": "right",
+      "toNode": "6UKY664hhtVcITgZ",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "AF6Ka5miQeeMUlJJ",
+      "fromSide": "right",
+      "toNode": "GP0bkpXgdcR9mWmq",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "GP0bkpXgdcR9mWmq",
+      "fromSide": "right",
+      "toNode": "DG56Em8UeyI4soT5",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "DG56Em8UeyI4soT5",
+      "fromSide": "right",
+      "toNode": "s5QL1RiwNTIAD2d9",
+      "toSide": "left"
+    }
+  ]
+}

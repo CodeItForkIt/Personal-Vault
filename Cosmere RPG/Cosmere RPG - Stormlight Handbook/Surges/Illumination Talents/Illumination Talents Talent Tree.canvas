@@ -1,0 +1,146 @@
+{
+  "nodes": [
+    {
+      "id": "background",
+      "type": "group",
+      "x": -220.0,
+      "y": -220.0,
+      "width": 4000.0,
+      "height": 3920.0,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Illumination_Surge-glyph.svg",
+      "backgroundStyle": "cover"
+    },
+    {
+      "id": "qKvavvyfZYLOmbC9",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Illumination Talents/Lingering Lightweavings.md",
+      "x": 2920.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "OStKIgsNjfmK9imu",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Illumination Talents/Distracting Illusion.md",
+      "x": 0.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "1CabKL7uTNP8q5QF",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Illumination Talents/Disorienting Flash.md",
+      "x": 0.0,
+      "y": 1020.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "laSVMP5jxHgGkMT7",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Illumination Talents/Spiritual Illumination.md",
+      "x": 0.0,
+      "y": 2040.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "PJMq2UP2YJdIaEhA",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Illumination Talents/Painful Truth.md",
+      "x": 0.0,
+      "y": 3060.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "wvk3AwKcwC7cpCDb",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Illumination Talents/Stormlight Reclamation.md",
+      "x": 2920.0,
+      "y": 1020.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "9c0cQsnPieil49Jc",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Illumination Talents/Multiplicative Lightweaving.md",
+      "x": 2920.0,
+      "y": 2040.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "oi696swaiwif6W06",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Illumination Talents/Endless Illusions.md",
+      "x": 2920.0,
+      "y": 3060.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Illumination_Surge-glyph.svg",
+      "x": 0.0,
+      "y": -300.0,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "OStKIgsNjfmK9imu",
+      "fromSide": "right",
+      "toNode": "1CabKL7uTNP8q5QF",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "1CabKL7uTNP8q5QF",
+      "fromSide": "right",
+      "toNode": "laSVMP5jxHgGkMT7",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "laSVMP5jxHgGkMT7",
+      "fromSide": "right",
+      "toNode": "PJMq2UP2YJdIaEhA",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "OStKIgsNjfmK9imu",
+      "fromSide": "right",
+      "toNode": "wvk3AwKcwC7cpCDb",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "wvk3AwKcwC7cpCDb",
+      "fromSide": "right",
+      "toNode": "9c0cQsnPieil49Jc",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "laSVMP5jxHgGkMT7",
+      "fromSide": "right",
+      "toNode": "oi696swaiwif6W06",
+      "toSide": "left"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "9c0cQsnPieil49Jc",
+      "fromSide": "right",
+      "toNode": "oi696swaiwif6W06",
+      "toSide": "left"
+    }
+  ]
+}

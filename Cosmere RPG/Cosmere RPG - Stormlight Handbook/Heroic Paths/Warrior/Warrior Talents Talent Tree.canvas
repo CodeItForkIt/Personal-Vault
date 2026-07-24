@@ -1,0 +1,383 @@
+{
+  "nodes": [
+    {
+      "id": "background",
+      "type": "group",
+      "x": -220.0,
+      "y": -220.0,
+      "width": 23710.0,
+      "height": 21950.0,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg116_path_Warrior_STEVE PRESCOTT.webp",
+      "backgroundStyle": "cover"
+    },
+    {
+      "id": "uGM2wxEIa0E6ocW9",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Vigilant Stance.md",
+      "x": 5840.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "7lNoSYBLMM6ww2dv",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Talents/Practiced Kata.md",
+      "x": 0.0,
+      "y": 16200.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "c6uVudrUXB1Tisvn",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Talents/Ironstance.md",
+      "x": 0.0,
+      "y": 17220.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "kDnQ8Pz7SqVxiWZP",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Talents/Surefooted.md",
+      "x": 0.0,
+      "y": 18240.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "BqMGofewnoJn0qo8",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Talents/Flamestance.md",
+      "x": 2190.0,
+      "y": 16200.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "LZrexKYksPdZ0ORk",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Talents/Signature Weapon.md",
+      "x": 2920.0,
+      "y": 17220.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "gKUs5KSTOOMaxOMq",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Talents/Feinting Strike.md",
+      "x": 2190.0,
+      "y": 17730.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "NLhDvTq7ff7DqGDl",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Talents/Vinestance.md",
+      "x": 0.0,
+      "y": 19260.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "d0688jj684zfv4Qb",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Talents/Wits End.md",
+      "x": 2190.0,
+      "y": 19260.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "8HPvMawuuZI2kKkO",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Shard Training.md",
+      "x": 11680.0,
+      "y": 16200.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "r8D4lhqVonbFN9qb",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Stonestance.md",
+      "x": 14600.0,
+      "y": 16200.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "Ch3QBXpnd1GVT5r7",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Mighty.md",
+      "x": 14600.0,
+      "y": 17220.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "retL5impRJy4Qk0d",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Bloodstance.md",
+      "x": 14600.0,
+      "y": 18240.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "5EIQCpcVyteuZgGR",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Windstance.md",
+      "x": 11680.0,
+      "y": 17220.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "S3BnoMvNYru3sGA5",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Shattering Blow.md",
+      "x": 11680.0,
+      "y": 18240.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "dxBnerEtstm21Kv9",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Precise Parry.md",
+      "x": 11680.0,
+      "y": 19260.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "aexWlm4UJnlI7nla",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Meteoric Leap.md",
+      "x": 14600.0,
+      "y": 19260.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "5sB7TItVOrmnti69",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Cautious Advance.md",
+      "x": 18980.0,
+      "y": 16200.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "70ybHY6RWsepZ1FH",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Combat Training.md",
+      "x": 22630.0,
+      "y": 16200.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "5ycwmke8bxMzY1Y3",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Defensive Position.md",
+      "x": 18980.0,
+      "y": 18390.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "57HQJO0erdFYBl0s",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Wary.md",
+      "x": 17520.0,
+      "y": 21090.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "6mWNgzJDdhniKf1k",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Formation Drills.md",
+      "x": 19710.0,
+      "y": 21090.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "lndfYMn1qdYtZAXR",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Devastating Blow.md",
+      "x": 20440.0,
+      "y": 17150.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "JeTODkUGT3gu0NP9",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Hardy.md",
+      "x": 22630.0,
+      "y": 18390.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "yJroYOvBp0goBIZG",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Swift Strikes.md",
+      "x": 22630.0,
+      "y": 21090.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/warrior.webp",
+      "x": 0.0,
+      "y": -300.0,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "7lNoSYBLMM6ww2dv",
+      "fromSide": "right",
+      "toNode": "c6uVudrUXB1Tisvn",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "c6uVudrUXB1Tisvn",
+      "fromSide": "right",
+      "toNode": "kDnQ8Pz7SqVxiWZP",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "BqMGofewnoJn0qo8",
+      "fromSide": "right",
+      "toNode": "LZrexKYksPdZ0ORk",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "BqMGofewnoJn0qo8",
+      "fromSide": "right",
+      "toNode": "gKUs5KSTOOMaxOMq",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "gKUs5KSTOOMaxOMq",
+      "fromSide": "right",
+      "toNode": "NLhDvTq7ff7DqGDl",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "gKUs5KSTOOMaxOMq",
+      "fromSide": "right",
+      "toNode": "d0688jj684zfv4Qb",
+      "toSide": "left"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "r8D4lhqVonbFN9qb",
+      "fromSide": "right",
+      "toNode": "Ch3QBXpnd1GVT5r7",
+      "toSide": "left"
+    },
+    {
+      "id": "edge7",
+      "fromNode": "Ch3QBXpnd1GVT5r7",
+      "fromSide": "right",
+      "toNode": "retL5impRJy4Qk0d",
+      "toSide": "left"
+    },
+    {
+      "id": "edge8",
+      "fromNode": "8HPvMawuuZI2kKkO",
+      "fromSide": "right",
+      "toNode": "retL5impRJy4Qk0d",
+      "toSide": "left"
+    },
+    {
+      "id": "edge9",
+      "fromNode": "8HPvMawuuZI2kKkO",
+      "fromSide": "right",
+      "toNode": "5EIQCpcVyteuZgGR",
+      "toSide": "left"
+    },
+    {
+      "id": "edge10",
+      "fromNode": "5EIQCpcVyteuZgGR",
+      "fromSide": "right",
+      "toNode": "S3BnoMvNYru3sGA5",
+      "toSide": "left"
+    },
+    {
+      "id": "edge11",
+      "fromNode": "S3BnoMvNYru3sGA5",
+      "fromSide": "right",
+      "toNode": "dxBnerEtstm21Kv9",
+      "toSide": "left"
+    },
+    {
+      "id": "edge12",
+      "fromNode": "retL5impRJy4Qk0d",
+      "fromSide": "right",
+      "toNode": "aexWlm4UJnlI7nla",
+      "toSide": "left"
+    },
+    {
+      "id": "edge13",
+      "fromNode": "5sB7TItVOrmnti69",
+      "fromSide": "right",
+      "toNode": "5ycwmke8bxMzY1Y3",
+      "toSide": "left"
+    },
+    {
+      "id": "edge14",
+      "fromNode": "5ycwmke8bxMzY1Y3",
+      "fromSide": "right",
+      "toNode": "57HQJO0erdFYBl0s",
+      "toSide": "left"
+    },
+    {
+      "id": "edge15",
+      "fromNode": "5ycwmke8bxMzY1Y3",
+      "fromSide": "right",
+      "toNode": "6mWNgzJDdhniKf1k",
+      "toSide": "left"
+    },
+    {
+      "id": "edge16",
+      "fromNode": "70ybHY6RWsepZ1FH",
+      "fromSide": "right",
+      "toNode": "lndfYMn1qdYtZAXR",
+      "toSide": "left"
+    },
+    {
+      "id": "edge17",
+      "fromNode": "70ybHY6RWsepZ1FH",
+      "fromSide": "right",
+      "toNode": "JeTODkUGT3gu0NP9",
+      "toSide": "left"
+    },
+    {
+      "id": "edge18",
+      "fromNode": "JeTODkUGT3gu0NP9",
+      "fromSide": "right",
+      "toNode": "yJroYOvBp0goBIZG",
+      "toSide": "left"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "nodes": [
+    {
+      "id": "7Fk7eo7AUMmAqGVo",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Field Medicine.md",
+      "x": 2190.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "SJLnN2dcAwIH2YU8",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Emotional Intelligence.md",
+      "x": 5110.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "AxDW9XVvkk0N99dC",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Collected.md",
+      "x": 5110.0,
+      "y": 1020.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "x6XkMskLHmvPR88q",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Applied Medicine.md",
+      "x": 5110.0,
+      "y": 2040.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "5Q98Pl6KIDX3gQJU",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Anatomical Insight.md",
+      "x": 0.0,
+      "y": 1020.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "GH3BsV3o3YQVQEuv",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Swift Healer.md",
+      "x": 2190.0,
+      "y": 1530.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "Eb95yyzkjRK8E57D",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Ongoing Care.md",
+      "x": 2190.0,
+      "y": 3060.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "XVcayzddA0m6iCXq",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Resuscitation.md",
+      "x": 5110.0,
+      "y": 3060.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/bowl-herbs-green.webp",
+      "x": 0.0,
+      "y": -300.0,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "SJLnN2dcAwIH2YU8",
+      "fromSide": "right",
+      "toNode": "AxDW9XVvkk0N99dC",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "AxDW9XVvkk0N99dC",
+      "fromSide": "right",
+      "toNode": "x6XkMskLHmvPR88q",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "7Fk7eo7AUMmAqGVo",
+      "fromSide": "right",
+      "toNode": "5Q98Pl6KIDX3gQJU",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "7Fk7eo7AUMmAqGVo",
+      "fromSide": "right",
+      "toNode": "GH3BsV3o3YQVQEuv",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "GH3BsV3o3YQVQEuv",
+      "fromSide": "right",
+      "toNode": "Eb95yyzkjRK8E57D",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "GH3BsV3o3YQVQEuv",
+      "fromSide": "right",
+      "toNode": "XVcayzddA0m6iCXq",
+      "toSide": "left"
+    }
+  ]
+}

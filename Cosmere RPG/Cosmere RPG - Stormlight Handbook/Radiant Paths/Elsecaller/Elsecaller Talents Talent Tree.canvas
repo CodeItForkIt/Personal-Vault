@@ -1,0 +1,148 @@
+{
+  "nodes": [
+    {
+      "id": "background",
+      "type": "group",
+      "x": -220,
+      "y": -220,
+      "width": 12030.0,
+      "height": 7490.0,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg152_path_Elsecaller_SONDERFLEX STUDIOS.webp",
+      "backgroundStyle": "cover"
+    },
+    {
+      "id": "u167NZQIKQ2WaeW4",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/First Ideal Elsecaller.md",
+      "x": 0,
+      "y": 0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "NwJbWyQgOkuq0BrF",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Elsecallers Perspicacity.md",
+      "x": 10950.0,
+      "y": 3570.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "uKrWbM0LxpEZpWLh",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Invested.md",
+      "x": 10950.0,
+      "y": 4590.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "m9rtRKt4Yyz4Y1pZ",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Wound Regeneration.md",
+      "x": 10950.0,
+      "y": 6120.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "P1g6kks4xxHsYrc5",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Take Squire Elsecaller.md",
+      "x": 8760.0,
+      "y": 6120.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "IgGXhh4px0fQN9tz",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Third Ideal Elsecaller.md",
+      "x": 8030.0,
+      "y": 4590.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "2TjF5HfbMxvZUSRG",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Deepened Bond.md",
+      "x": 5840.0,
+      "y": 6120.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "IwmyX4CmpAMijtFp",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Fourth Ideal Elsecaller.md",
+      "x": 8030.0,
+      "y": 6630.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "BKUads5d153qBsV5",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Second Ideal Elsecaller.md",
+      "x": 8030.0,
+      "y": 3570.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg148_path_banner_Elsecaller.webp",
+      "x": 0,
+      "y": -300,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "NwJbWyQgOkuq0BrF",
+      "fromSide": "right",
+      "toNode": "uKrWbM0LxpEZpWLh",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "uKrWbM0LxpEZpWLh",
+      "fromSide": "right",
+      "toNode": "m9rtRKt4Yyz4Y1pZ",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "IgGXhh4px0fQN9tz",
+      "fromSide": "right",
+      "toNode": "P1g6kks4xxHsYrc5",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "BKUads5d153qBsV5",
+      "fromSide": "right",
+      "toNode": "IgGXhh4px0fQN9tz",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "IgGXhh4px0fQN9tz",
+      "fromSide": "right",
+      "toNode": "2TjF5HfbMxvZUSRG",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "IgGXhh4px0fQN9tz",
+      "fromSide": "right",
+      "toNode": "IwmyX4CmpAMijtFp",
+      "toSide": "left"
+    }
+  ]
+}

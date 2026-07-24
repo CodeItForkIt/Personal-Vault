@@ -1,0 +1,376 @@
+{
+  "nodes": [
+    {
+      "id": "background",
+      "type": "group",
+      "x": -220.0,
+      "y": -220.0,
+      "width": 20790.0,
+      "height": 14630.0,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg100_path_Leader_STEVE PRESCOTT.webp",
+      "backgroundStyle": "cover"
+    },
+    {
+      "id": "wgxsZWkUInZrtsu8",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Decisive Command.md",
+      "x": 0.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "2E5mzDcEzo4rE6jE",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Champion/Talents/Combat Coordination.md",
+      "x": 5110.0,
+      "y": 10710.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "X9qcnXuqiXRGTUMy",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Champion/Talents/Valiant Intervention.md",
+      "x": 8030.0,
+      "y": 10710.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "y9BkA59vdG5HzMCS",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Champion/Talents/Hardy.md",
+      "x": 8030.0,
+      "y": 11730.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "iMsjpL78utvnimNI",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Champion/Talents/Resolute Stand.md",
+      "x": 8030.0,
+      "y": 12750.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "GYfAl4hvNdZuH9na",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Champion/Talents/Imposing Posture.md",
+      "x": 5110.0,
+      "y": 11730.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "2zWCDpdJm9b7Mh8p",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Champion/Talents/Mighty.md",
+      "x": 5110.0,
+      "y": 12750.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "7iTBBTbS15Ip862W",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Champion/Talents/Resilient Hero.md",
+      "x": 5110.0,
+      "y": 13770.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "ChAhsTdgRxKu1mlI",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Champion/Talents/Demonstrative Command.md",
+      "x": 8030.0,
+      "y": 13770.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "YNVO9ufOtAFTSH6K",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Composed.md",
+      "x": 10220.0,
+      "y": 10710.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "ALRaWDocUYf7XRkX",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Well-Supplied.md",
+      "x": 10220.0,
+      "y": 11730.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "iQAGYb2kCUuMUQ9G",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Through the Fray.md",
+      "x": 13140.0,
+      "y": 10710.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "vHyGYEBpIc37hlfy",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Customary Garb.md",
+      "x": 13140.0,
+      "y": 11730.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "UdXcLsM5KueeUiLL",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Confident Command.md",
+      "x": 10220.0,
+      "y": 12240.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "PjpzsZPqTHVnUhLy",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Relentless March.md",
+      "x": 10220.0,
+      "y": 13770.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "amKUzDN6m9vr0I9A",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Authority.md",
+      "x": 13140.0,
+      "y": 12750.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "qg1KIjUOAkjZ7tu1",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Synchronized Assault.md",
+      "x": 13140.0,
+      "y": 13770.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "2y9v68hjZm29UyRB",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico/Talents/Tactical Ploy.md",
+      "x": 19710.0,
+      "y": 10710.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "FIsOZYRbkkh8mAuN",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico/Talents/Cutthroat Tactics.md",
+      "x": 17520.0,
+      "y": 10710.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "N8VuwrsSzN4DMQDh",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico/Talents/Rumormonger.md",
+      "x": 17520.0,
+      "y": 11220.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "SLlQdQA15jAZ8zfA",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico/Talents/Well Dressed.md",
+      "x": 17520.0,
+      "y": 12750.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "BzkxN7ghNIIItQHv",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico/Talents/Baleful.md",
+      "x": 19710.0,
+      "y": 12240.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "Tks9wHuh6EtIXzLc",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico/Talents/Set at Odds.md",
+      "x": 19710.0,
+      "y": 13770.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "cIsZzzNAxi9vXFfu",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico/Talents/Shrewd Command.md",
+      "x": 15329.999999999998,
+      "y": 12240.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "AacdZ3E9jDFjfa6a",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico/Talents/Grand Deception.md",
+      "x": 15329.999999999998,
+      "y": 13770.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/leader.webp",
+      "x": 0.0,
+      "y": -300.0,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "X9qcnXuqiXRGTUMy",
+      "fromSide": "right",
+      "toNode": "y9BkA59vdG5HzMCS",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "y9BkA59vdG5HzMCS",
+      "fromSide": "right",
+      "toNode": "iMsjpL78utvnimNI",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "2E5mzDcEzo4rE6jE",
+      "fromSide": "right",
+      "toNode": "GYfAl4hvNdZuH9na",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "GYfAl4hvNdZuH9na",
+      "fromSide": "right",
+      "toNode": "2zWCDpdJm9b7Mh8p",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "iMsjpL78utvnimNI",
+      "fromSide": "right",
+      "toNode": "7iTBBTbS15Ip862W",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "iMsjpL78utvnimNI",
+      "fromSide": "right",
+      "toNode": "ChAhsTdgRxKu1mlI",
+      "toSide": "left"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "YNVO9ufOtAFTSH6K",
+      "fromSide": "right",
+      "toNode": "ALRaWDocUYf7XRkX",
+      "toSide": "left"
+    },
+    {
+      "id": "edge7",
+      "fromNode": "iQAGYb2kCUuMUQ9G",
+      "fromSide": "right",
+      "toNode": "vHyGYEBpIc37hlfy",
+      "toSide": "left"
+    },
+    {
+      "id": "edge8",
+      "fromNode": "vHyGYEBpIc37hlfy",
+      "fromSide": "right",
+      "toNode": "UdXcLsM5KueeUiLL",
+      "toSide": "left"
+    },
+    {
+      "id": "edge9",
+      "fromNode": "UdXcLsM5KueeUiLL",
+      "fromSide": "right",
+      "toNode": "PjpzsZPqTHVnUhLy",
+      "toSide": "left"
+    },
+    {
+      "id": "edge10",
+      "fromNode": "UdXcLsM5KueeUiLL",
+      "fromSide": "right",
+      "toNode": "amKUzDN6m9vr0I9A",
+      "toSide": "left"
+    },
+    {
+      "id": "edge11",
+      "fromNode": "amKUzDN6m9vr0I9A",
+      "fromSide": "right",
+      "toNode": "qg1KIjUOAkjZ7tu1",
+      "toSide": "left"
+    },
+    {
+      "id": "edge12",
+      "fromNode": "FIsOZYRbkkh8mAuN",
+      "fromSide": "right",
+      "toNode": "N8VuwrsSzN4DMQDh",
+      "toSide": "left"
+    },
+    {
+      "id": "edge13",
+      "fromNode": "N8VuwrsSzN4DMQDh",
+      "fromSide": "right",
+      "toNode": "SLlQdQA15jAZ8zfA",
+      "toSide": "left"
+    },
+    {
+      "id": "edge14",
+      "fromNode": "N8VuwrsSzN4DMQDh",
+      "fromSide": "right",
+      "toNode": "BzkxN7ghNIIItQHv",
+      "toSide": "left"
+    },
+    {
+      "id": "edge15",
+      "fromNode": "BzkxN7ghNIIItQHv",
+      "fromSide": "right",
+      "toNode": "Tks9wHuh6EtIXzLc",
+      "toSide": "left"
+    },
+    {
+      "id": "edge16",
+      "fromNode": "N8VuwrsSzN4DMQDh",
+      "fromSide": "right",
+      "toNode": "cIsZzzNAxi9vXFfu",
+      "toSide": "left"
+    },
+    {
+      "id": "edge17",
+      "fromNode": "cIsZzzNAxi9vXFfu",
+      "fromSide": "right",
+      "toNode": "AacdZ3E9jDFjfa6a",
+      "toSide": "left"
+    }
+  ]
+}

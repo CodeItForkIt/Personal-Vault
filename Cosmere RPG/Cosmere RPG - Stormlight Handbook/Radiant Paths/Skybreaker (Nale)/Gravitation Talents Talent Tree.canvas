@@ -1,0 +1,146 @@
+{
+  "nodes": [
+    {
+      "id": "background",
+      "type": "group",
+      "x": -220.0,
+      "y": -220.0,
+      "width": 4000.0,
+      "height": 3920.0,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Gravitation_Surge-glyph.svg",
+      "backgroundStyle": "cover"
+    },
+    {
+      "id": "GQAGmI6H8VqwF0Pq",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Flying Ace.md",
+      "x": 0.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "sPSQZmjEUdi8IeGR",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Stable Flight.md",
+      "x": 0.0,
+      "y": 1020.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "QHt9oB6bQclSx4MH",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Group Flight.md",
+      "x": 0.0,
+      "y": 2040.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "i0G4JNXmQEQ858mI",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Aerial Squadron.md",
+      "x": 0.0,
+      "y": 3060.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "oVu1TpjCI4ncvffB",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Gravitational Slam.md",
+      "x": 2190.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "VvnhrNdkMuBhFw44",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Multiple Lashings.md",
+      "x": 2920.0,
+      "y": 1020.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "fCWNPIFQ6SEOOJGU",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Lashing Shot.md",
+      "x": 2190.0,
+      "y": 1530.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "REijAT2kPmprgK2y",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Master of the Skies.md",
+      "x": 2190.0,
+      "y": 3060.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Gravitation_Surge-glyph.svg",
+      "x": 0.0,
+      "y": -300.0,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "GQAGmI6H8VqwF0Pq",
+      "fromSide": "right",
+      "toNode": "sPSQZmjEUdi8IeGR",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "sPSQZmjEUdi8IeGR",
+      "fromSide": "right",
+      "toNode": "QHt9oB6bQclSx4MH",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "QHt9oB6bQclSx4MH",
+      "fromSide": "right",
+      "toNode": "i0G4JNXmQEQ858mI",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "oVu1TpjCI4ncvffB",
+      "fromSide": "right",
+      "toNode": "VvnhrNdkMuBhFw44",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "oVu1TpjCI4ncvffB",
+      "fromSide": "right",
+      "toNode": "fCWNPIFQ6SEOOJGU",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "fCWNPIFQ6SEOOJGU",
+      "fromSide": "right",
+      "toNode": "REijAT2kPmprgK2y",
+      "toSide": "left"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "QHt9oB6bQclSx4MH",
+      "fromSide": "right",
+      "toNode": "REijAT2kPmprgK2y",
+      "toSide": "left"
+    }
+  ]
+}

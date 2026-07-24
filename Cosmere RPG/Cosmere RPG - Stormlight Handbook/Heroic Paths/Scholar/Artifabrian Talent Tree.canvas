@@ -1,0 +1,129 @@
+{
+  "nodes": [
+    {
+      "id": "aPfqJeHefxos2CZK",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Artifabrian/Talents/Efficient Engineer.md",
+      "x": 0.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "xopPXDKPI78Akd38",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Artifabrian/Talents/Prized Acquisition.md",
+      "x": 2920.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "STvnpsjTZuADa0pR",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Artifabrian/Talents/Inventive Design.md",
+      "x": 2920.0,
+      "y": 3060.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "y0xVwMOjNpQsARhc",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Artifabrian/Talents/Overcharge.md",
+      "x": 1460.0,
+      "y": 3060.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "2I07gsq3fzIqDZsL",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Artifabrian/Talents/Deep Study.md",
+      "x": 1460.0,
+      "y": 1020.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "Py5pkceYhWOovPl7",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Artifabrian/Talents/Fine Handiwork.md",
+      "x": 0.0,
+      "y": 1020.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "sFoLojZ06Ye9F03J",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Artifabrian/Talents/Experimental Tinkering.md",
+      "x": 0.0,
+      "y": 1530.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "9eYtj1Zkz0MaOAf8",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Artifabrian/Talents/Overwhelm with Details.md",
+      "x": 0.0,
+      "y": 3060.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/gem-oval-red.webp",
+      "x": 0.0,
+      "y": -300.0,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "xopPXDKPI78Akd38",
+      "fromSide": "right",
+      "toNode": "STvnpsjTZuADa0pR",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "xopPXDKPI78Akd38",
+      "fromSide": "right",
+      "toNode": "y0xVwMOjNpQsARhc",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "aPfqJeHefxos2CZK",
+      "fromSide": "right",
+      "toNode": "2I07gsq3fzIqDZsL",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "aPfqJeHefxos2CZK",
+      "fromSide": "right",
+      "toNode": "Py5pkceYhWOovPl7",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "Py5pkceYhWOovPl7",
+      "fromSide": "right",
+      "toNode": "sFoLojZ06Ye9F03J",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "sFoLojZ06Ye9F03J",
+      "fromSide": "right",
+      "toNode": "9eYtj1Zkz0MaOAf8",
+      "toSide": "left"
+    }
+  ]
+}

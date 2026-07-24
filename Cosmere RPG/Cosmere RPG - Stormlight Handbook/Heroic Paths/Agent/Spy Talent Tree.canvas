@@ -1,0 +1,129 @@
+{
+  "nodes": [
+    {
+      "id": "jLEigkNOMCuqIkOX",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Talents/Sure Outcome.md",
+      "x": 0.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "K2GOgEk6ls5rsEzc",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Talents/Collected.md",
+      "x": 0.0,
+      "y": 1020.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "Q5jHGYvoMNFx6b07",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Talents/Subtle Takedown.md",
+      "x": 0.0,
+      "y": 1530.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "GjzPBBhAvtL9ymTI",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Talents/Mercurial Facade.md",
+      "x": 0.0,
+      "y": 3060.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "B7kB7fMZw93GlJLI",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Talents/Plausible Excuse.md",
+      "x": 2190.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "zDEe0ak43nOlFOS2",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Talents/Cover Story.md",
+      "x": 2190.0,
+      "y": 1020.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "wcnHo4W1w0H21hIj",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Talents/Mighty.md",
+      "x": 2190.0,
+      "y": 3060.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "YncJWzujDMA2DkRS",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Talents/High Society Contacts.md",
+      "x": 2920.0,
+      "y": 3060.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/crosshair-scope-sniper-green.webp",
+      "x": 0.0,
+      "y": -300.0,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "jLEigkNOMCuqIkOX",
+      "fromSide": "right",
+      "toNode": "K2GOgEk6ls5rsEzc",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "zDEe0ak43nOlFOS2",
+      "fromSide": "right",
+      "toNode": "Q5jHGYvoMNFx6b07",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "Q5jHGYvoMNFx6b07",
+      "fromSide": "right",
+      "toNode": "GjzPBBhAvtL9ymTI",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "B7kB7fMZw93GlJLI",
+      "fromSide": "right",
+      "toNode": "zDEe0ak43nOlFOS2",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "zDEe0ak43nOlFOS2",
+      "fromSide": "right",
+      "toNode": "wcnHo4W1w0H21hIj",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "zDEe0ak43nOlFOS2",
+      "fromSide": "right",
+      "toNode": "YncJWzujDMA2DkRS",
+      "toSide": "left"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "nodes": [
+    {
+      "id": "7lNoSYBLMM6ww2dv",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Talents/Practiced Kata.md",
+      "x": 0.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "c6uVudrUXB1Tisvn",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Talents/Ironstance.md",
+      "x": 0.0,
+      "y": 1020.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "kDnQ8Pz7SqVxiWZP",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Talents/Surefooted.md",
+      "x": 0.0,
+      "y": 2040.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "BqMGofewnoJn0qo8",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Talents/Flamestance.md",
+      "x": 2190.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "LZrexKYksPdZ0ORk",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Talents/Signature Weapon.md",
+      "x": 2920.0,
+      "y": 1020.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "gKUs5KSTOOMaxOMq",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Talents/Feinting Strike.md",
+      "x": 2190.0,
+      "y": 1530.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "NLhDvTq7ff7DqGDl",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Talents/Vinestance.md",
+      "x": 0.0,
+      "y": 3060.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "d0688jj684zfv4Qb",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Talents/Wits End.md",
+      "x": 2190.0,
+      "y": 3060.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/maneuver-sword-katana-yellow.webp",
+      "x": 0.0,
+      "y": -300.0,
+      "width": 500,
+      "height": 260
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "7lNoSYBLMM6ww2dv",
+      "fromSide": "right",
+      "toNode": "c6uVudrUXB1Tisvn",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "c6uVudrUXB1Tisvn",
+      "fromSide": "right",
+      "toNode": "kDnQ8Pz7SqVxiWZP",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "BqMGofewnoJn0qo8",
+      "fromSide": "right",
+      "toNode": "LZrexKYksPdZ0ORk",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "BqMGofewnoJn0qo8",
+      "fromSide": "right",
+      "toNode": "gKUs5KSTOOMaxOMq",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "gKUs5KSTOOMaxOMq",
+      "fromSide": "right",
+      "toNode": "NLhDvTq7ff7DqGDl",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "gKUs5KSTOOMaxOMq",
+      "fromSide": "right",
+      "toNode": "d0688jj684zfv4Qb",
+      "toSide": "left"
+    }
+  ]
+}
