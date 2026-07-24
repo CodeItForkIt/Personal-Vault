@@ -2,7 +2,6 @@
 	"nodes":[
 		{"id":"background","type":"group","backgroundStyle":"ratio","x":-220,"y":-220,"width":4000,"height":2629,"background":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg136_path_Dustbringer_SONDERFLEX STUDIOS.webp"},
 		{"id":"banner","type":"group","backgroundStyle":"ratio","x":0,"y":-300,"width":230,"height":260,"background":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg132_path_banner_Dustbringer.webp"},
-		{"id":"KqbDFgQlvlJOakj3","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Wound Regeneration.md","x":2920,"y":2360,"width":640,"height":420},
 		{"id":"Bh233BBIZtPWeHsz","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/First Ideal Dustbringer.md","x":0,"y":0,"width":640,"height":420},
 		{"id":"XS4DGIGMbPfhl5Vt","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Second Ideal Dustbringer.md","x":1460,"y":900,"width":640,"height":420},
 		{"id":"b13Sb2NznQguSW4y","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Third Ideal Dustbringer.md","x":1460,"y":1630,"width":640,"height":420},
@@ -10,7 +9,8 @@
 		{"id":"gTdD04LjkcoU67Hz","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Deepened Bond.md","x":730,"y":2360,"width":640,"height":420},
 		{"id":"lFR6bgi6I4oU79ai","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Take Squire Dustbringer.md","x":2190,"y":2360,"width":640,"height":420},
 		{"id":"pBR89nFwfgv6Yz7L","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Searing Dust Storm.md","x":2920,"y":900,"width":640,"height":420},
-		{"id":"9qDzOz2mevd6wCsF","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Invested.md","x":2920,"y":1630,"width":640,"height":420}
+		{"id":"9qDzOz2mevd6wCsF","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Invested.md","x":2920,"y":1630,"width":640,"height":420},
+		{"id":"KqbDFgQlvlJOakj3","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Wound Regeneration.md","x":2920,"y":2360,"width":640,"height":420}
 	],
 	"edges":[
 		{"id":"edge0","fromNode":"Bh233BBIZtPWeHsz","fromSide":"bottom","toNode":"XS4DGIGMbPfhl5Vt","toSide":"top"},

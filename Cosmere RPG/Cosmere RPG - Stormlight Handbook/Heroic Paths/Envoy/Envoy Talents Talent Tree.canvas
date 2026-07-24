@@ -1,58 +1,426 @@
 {
-	"nodes":[
-		{"id":"background","type":"group","backgroundStyle":"ratio","x":-220,"y":-220,"width":6193,"height":4070,"background":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg084_path_Envoy_STEVE PRESCOTT.webp"},
-		{"id":"banner","type":"group","backgroundStyle":"ratio","x":0,"y":-300,"width":260,"height":260,"background":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/envoy.webp"},
-		{"id":"s5QL1RiwNTIAD2d9","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Practiced Oratory.md","x":730,"y":3140,"width":640,"height":420},
-		{"id":"adEpbs3dLCofv3Qd","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Customary Garb.md","x":2190,"y":950,"width":640,"height":420},
-		{"id":"woz19OBMJTN3Mk68","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Devoted Presence.md","x":2190,"y":1680,"width":640,"height":420},
-		{"id":"EygjZhSTxuvrFFgj","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Stalwart Presence.md","x":2190,"y":2700,"width":640,"height":420},
-		{"id":"UnlukLNcTwx8bJ2L","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Sage Counsel.md","x":2190,"y":3210,"width":640,"height":420},
-		{"id":"ox088B6gAjOIpL6O","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Inspired Zeal.md","x":2920,"y":3210,"width":640,"height":420},
-		{"id":"OAcKpY594CtiTLrZ","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Applied Motivation.md","x":2920,"y":2190,"width":640,"height":420},
-		{"id":"AiGOPprq9Wm8KE6W","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Galvanize.md","x":2920,"y":950,"width":640,"height":420},
-		{"id":"yvY2zQYKWq1yJ6Gs","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Composed.md","x":3650,"y":1680,"width":640,"height":420},
-		{"id":"kJGekoxNfpqCzTdp","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Sound Advice.md","x":4380,"y":950,"width":640,"height":420},
-		{"id":"aUtouVdUQDPuiYzc","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Lessons in Patience.md","x":4380,"y":1680,"width":640,"height":420},
-		{"id":"oh4GqUqUNXBwlT0V","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Instill Confidence.md","x":4380,"y":2410,"width":640,"height":420},
-		{"id":"Rye8hv9Y8tk5Dh0t","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Foresight.md","x":4380,"y":3140,"width":640,"height":420},
-		{"id":"yc8k8IKDtLkpVtk3","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Practical Demonstration.md","x":5475,"y":950,"width":640,"height":420},
-		{"id":"GiVa7PceM72WOI0M","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Mighty.md","x":5475,"y":1680,"width":640,"height":420},
-		{"id":"HKlwQnh0ntnr7vsx","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Guiding Oration.md","x":5475,"y":2410,"width":640,"height":420},
-		{"id":"vknDqrN673fhLmC3","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Rallying Shout.md","x":5475,"y":3140,"width":640,"height":420},
-		{"id":"CHVa9z4YqfoZEIEs","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Rousing Presence.md","x":1460,"y":0,"width":640,"height":420},
-		{"id":"AF6Ka5miQeeMUlJJ","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Steadfast Challenge.md","x":0,"y":950,"width":640,"height":420},
-		{"id":"Rl7Wu6cBaADtJ1FM","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Collected.md","x":730,"y":950,"width":640,"height":420},
-		{"id":"L0fzMlUHeYTNai3V","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Withering Retort.md","x":0,"y":1680,"width":640,"height":420},
-		{"id":"HJfoZR5Y4l27dkEr","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Calm Appeal.md","x":0,"y":2410,"width":640,"height":420},
-		{"id":"6UKY664hhtVcITgZ","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Peaceful Solution.md","x":0,"y":3140,"width":640,"height":420},
-		{"id":"GP0bkpXgdcR9mWmq","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Well Dressed.md","x":730,"y":1680,"width":640,"height":420},
-		{"id":"DG56Em8UeyI4soT5","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/High Society Contacts.md","x":730,"y":2410,"width":640,"height":420}
-	],
-	"edges":[
-		{"id":"edge0","fromNode":"CHVa9z4YqfoZEIEs","fromSide":"bottom","toNode":"AF6Ka5miQeeMUlJJ","toSide":"top"},
-		{"id":"edge1","fromNode":"CHVa9z4YqfoZEIEs","fromSide":"bottom","toNode":"Rl7Wu6cBaADtJ1FM","toSide":"top"},
-		{"id":"edge2","fromNode":"AF6Ka5miQeeMUlJJ","fromSide":"bottom","toNode":"L0fzMlUHeYTNai3V","toSide":"top"},
-		{"id":"edge3","fromNode":"L0fzMlUHeYTNai3V","fromSide":"bottom","toNode":"HJfoZR5Y4l27dkEr","toSide":"top"},
-		{"id":"edge4","fromNode":"HJfoZR5Y4l27dkEr","fromSide":"bottom","toNode":"6UKY664hhtVcITgZ","toSide":"top"},
-		{"id":"edge5","fromNode":"AF6Ka5miQeeMUlJJ","fromSide":"bottom","toNode":"GP0bkpXgdcR9mWmq","toSide":"top"},
-		{"id":"edge6","fromNode":"GP0bkpXgdcR9mWmq","fromSide":"bottom","toNode":"DG56Em8UeyI4soT5","toSide":"top"},
-		{"id":"edge7","fromNode":"DG56Em8UeyI4soT5","fromSide":"bottom","toNode":"s5QL1RiwNTIAD2d9","toSide":"top"},
-		{"id":"edge8","fromNode":"CHVa9z4YqfoZEIEs","fromSide":"bottom","toNode":"adEpbs3dLCofv3Qd","toSide":"top"},
-		{"id":"edge9","fromNode":"adEpbs3dLCofv3Qd","fromSide":"bottom","toNode":"woz19OBMJTN3Mk68","toSide":"top"},
-		{"id":"edge10","fromNode":"woz19OBMJTN3Mk68","fromSide":"bottom","toNode":"EygjZhSTxuvrFFgj","toSide":"top"},
-		{"id":"edge11","fromNode":"EygjZhSTxuvrFFgj","fromSide":"bottom","toNode":"UnlukLNcTwx8bJ2L","toSide":"top"},
-		{"id":"edge12","fromNode":"EygjZhSTxuvrFFgj","fromSide":"bottom","toNode":"ox088B6gAjOIpL6O","toSide":"top"},
-		{"id":"edge13","fromNode":"OAcKpY594CtiTLrZ","fromSide":"bottom","toNode":"ox088B6gAjOIpL6O","toSide":"top"},
-		{"id":"edge14","fromNode":"AiGOPprq9Wm8KE6W","fromSide":"bottom","toNode":"OAcKpY594CtiTLrZ","toSide":"top"},
-		{"id":"edge15","fromNode":"CHVa9z4YqfoZEIEs","fromSide":"bottom","toNode":"AiGOPprq9Wm8KE6W","toSide":"top"},
-		{"id":"edge16","fromNode":"AiGOPprq9Wm8KE6W","fromSide":"bottom","toNode":"yvY2zQYKWq1yJ6Gs","toSide":"top"},
-		{"id":"edge17","fromNode":"CHVa9z4YqfoZEIEs","fromSide":"bottom","toNode":"kJGekoxNfpqCzTdp","toSide":"top"},
-		{"id":"edge18","fromNode":"kJGekoxNfpqCzTdp","fromSide":"bottom","toNode":"aUtouVdUQDPuiYzc","toSide":"top"},
-		{"id":"edge19","fromNode":"aUtouVdUQDPuiYzc","fromSide":"bottom","toNode":"oh4GqUqUNXBwlT0V","toSide":"top"},
-		{"id":"edge20","fromNode":"oh4GqUqUNXBwlT0V","fromSide":"bottom","toNode":"Rye8hv9Y8tk5Dh0t","toSide":"top"},
-		{"id":"edge21","fromNode":"CHVa9z4YqfoZEIEs","fromSide":"bottom","toNode":"yc8k8IKDtLkpVtk3","toSide":"top"},
-		{"id":"edge22","fromNode":"yc8k8IKDtLkpVtk3","fromSide":"bottom","toNode":"GiVa7PceM72WOI0M","toSide":"top"},
-		{"id":"edge23","fromNode":"GiVa7PceM72WOI0M","fromSide":"bottom","toNode":"HKlwQnh0ntnr7vsx","toSide":"top"},
-		{"id":"edge24","fromNode":"HKlwQnh0ntnr7vsx","fromSide":"bottom","toNode":"vknDqrN673fhLmC3","toSide":"top"}
-	]
+  "nodes": [
+    {
+      "id": "background",
+      "type": "group",
+      "x": -220.0,
+      "y": -220,
+      "width": 6555.0,
+      "height": 4070.0,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg084_path_Envoy_STEVE PRESCOTT.webp",
+      "backgroundStyle": "ratio"
+    },
+    {
+      "id": "CHVa9z4YqfoZEIEs",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Rousing Presence.md",
+      "x": 1460.0,
+      "y": 0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "AF6Ka5miQeeMUlJJ",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Steadfast Challenge.md",
+      "x": 0.0,
+      "y": 950.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "Rl7Wu6cBaADtJ1FM",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Collected.md",
+      "x": 730.0,
+      "y": 950.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "L0fzMlUHeYTNai3V",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Withering Retort.md",
+      "x": 0.0,
+      "y": 1680.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "HJfoZR5Y4l27dkEr",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Calm Appeal.md",
+      "x": 0.0,
+      "y": 2410.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "6UKY664hhtVcITgZ",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Peaceful Solution.md",
+      "x": 0.0,
+      "y": 3140.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "GP0bkpXgdcR9mWmq",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Well Dressed.md",
+      "x": 730.0,
+      "y": 1680.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "DG56Em8UeyI4soT5",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/High Society Contacts.md",
+      "x": 730.0,
+      "y": 2410.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "s5QL1RiwNTIAD2d9",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Practiced Oratory.md",
+      "x": 730.0,
+      "y": 3140.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "adEpbs3dLCofv3Qd",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Customary Garb.md",
+      "x": 2190.0,
+      "y": 950.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "woz19OBMJTN3Mk68",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Devoted Presence.md",
+      "x": 2190.0,
+      "y": 1680.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "EygjZhSTxuvrFFgj",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Stalwart Presence.md",
+      "x": 2190.0,
+      "y": 2700.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "UnlukLNcTwx8bJ2L",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Sage Counsel.md",
+      "x": 2190.0,
+      "y": 3210.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "ox088B6gAjOIpL6O",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Inspired Zeal.md",
+      "x": 2920.0,
+      "y": 3210.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "OAcKpY594CtiTLrZ",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Applied Motivation.md",
+      "x": 2920.0,
+      "y": 2190.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "AiGOPprq9Wm8KE6W",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Galvanize.md",
+      "x": 2920.0,
+      "y": 950.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "yvY2zQYKWq1yJ6Gs",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Composed.md",
+      "x": 3650.0,
+      "y": 1680.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "kJGekoxNfpqCzTdp",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Sound Advice.md",
+      "x": 4380.0,
+      "y": 950.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "aUtouVdUQDPuiYzc",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Lessons in Patience.md",
+      "x": 4380.0,
+      "y": 1680.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "oh4GqUqUNXBwlT0V",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Instill Confidence.md",
+      "x": 4380.0,
+      "y": 2410.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "Rye8hv9Y8tk5Dh0t",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Foresight.md",
+      "x": 4380.0,
+      "y": 3140.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "yc8k8IKDtLkpVtk3",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Practical Demonstration.md",
+      "x": 5475.0,
+      "y": 950.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "GiVa7PceM72WOI0M",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Mighty.md",
+      "x": 5475.0,
+      "y": 1680.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "HKlwQnh0ntnr7vsx",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Guiding Oration.md",
+      "x": 5475.0,
+      "y": 2410.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "vknDqrN673fhLmC3",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Rallying Shout.md",
+      "x": 5475.0,
+      "y": 3140.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "banner",
+      "type": "group",
+      "x": 0.0,
+      "y": -300,
+      "width": 500,
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/envoy.webp",
+      "backgroundStyle": "ratio"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "CHVa9z4YqfoZEIEs",
+      "fromSide": "bottom",
+      "toNode": "AF6Ka5miQeeMUlJJ",
+      "toSide": "top"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "CHVa9z4YqfoZEIEs",
+      "fromSide": "bottom",
+      "toNode": "Rl7Wu6cBaADtJ1FM",
+      "toSide": "top"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "AF6Ka5miQeeMUlJJ",
+      "fromSide": "bottom",
+      "toNode": "L0fzMlUHeYTNai3V",
+      "toSide": "top"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "L0fzMlUHeYTNai3V",
+      "fromSide": "bottom",
+      "toNode": "HJfoZR5Y4l27dkEr",
+      "toSide": "top"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "HJfoZR5Y4l27dkEr",
+      "fromSide": "bottom",
+      "toNode": "6UKY664hhtVcITgZ",
+      "toSide": "top"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "AF6Ka5miQeeMUlJJ",
+      "fromSide": "bottom",
+      "toNode": "GP0bkpXgdcR9mWmq",
+      "toSide": "top"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "GP0bkpXgdcR9mWmq",
+      "fromSide": "bottom",
+      "toNode": "DG56Em8UeyI4soT5",
+      "toSide": "top"
+    },
+    {
+      "id": "edge7",
+      "fromNode": "DG56Em8UeyI4soT5",
+      "fromSide": "bottom",
+      "toNode": "s5QL1RiwNTIAD2d9",
+      "toSide": "top"
+    },
+    {
+      "id": "edge8",
+      "fromNode": "CHVa9z4YqfoZEIEs",
+      "fromSide": "bottom",
+      "toNode": "adEpbs3dLCofv3Qd",
+      "toSide": "top"
+    },
+    {
+      "id": "edge9",
+      "fromNode": "adEpbs3dLCofv3Qd",
+      "fromSide": "bottom",
+      "toNode": "woz19OBMJTN3Mk68",
+      "toSide": "top"
+    },
+    {
+      "id": "edge10",
+      "fromNode": "woz19OBMJTN3Mk68",
+      "fromSide": "bottom",
+      "toNode": "EygjZhSTxuvrFFgj",
+      "toSide": "top"
+    },
+    {
+      "id": "edge11",
+      "fromNode": "EygjZhSTxuvrFFgj",
+      "fromSide": "bottom",
+      "toNode": "UnlukLNcTwx8bJ2L",
+      "toSide": "top"
+    },
+    {
+      "id": "edge12",
+      "fromNode": "EygjZhSTxuvrFFgj",
+      "fromSide": "bottom",
+      "toNode": "ox088B6gAjOIpL6O",
+      "toSide": "top"
+    },
+    {
+      "id": "edge13",
+      "fromNode": "OAcKpY594CtiTLrZ",
+      "fromSide": "bottom",
+      "toNode": "ox088B6gAjOIpL6O",
+      "toSide": "top"
+    },
+    {
+      "id": "edge14",
+      "fromNode": "AiGOPprq9Wm8KE6W",
+      "fromSide": "bottom",
+      "toNode": "OAcKpY594CtiTLrZ",
+      "toSide": "top"
+    },
+    {
+      "id": "edge15",
+      "fromNode": "CHVa9z4YqfoZEIEs",
+      "fromSide": "bottom",
+      "toNode": "AiGOPprq9Wm8KE6W",
+      "toSide": "top"
+    },
+    {
+      "id": "edge16",
+      "fromNode": "AiGOPprq9Wm8KE6W",
+      "fromSide": "bottom",
+      "toNode": "yvY2zQYKWq1yJ6Gs",
+      "toSide": "top"
+    },
+    {
+      "id": "edge17",
+      "fromNode": "CHVa9z4YqfoZEIEs",
+      "fromSide": "bottom",
+      "toNode": "kJGekoxNfpqCzTdp",
+      "toSide": "top"
+    },
+    {
+      "id": "edge18",
+      "fromNode": "kJGekoxNfpqCzTdp",
+      "fromSide": "bottom",
+      "toNode": "aUtouVdUQDPuiYzc",
+      "toSide": "top"
+    },
+    {
+      "id": "edge19",
+      "fromNode": "aUtouVdUQDPuiYzc",
+      "fromSide": "bottom",
+      "toNode": "oh4GqUqUNXBwlT0V",
+      "toSide": "top"
+    },
+    {
+      "id": "edge20",
+      "fromNode": "oh4GqUqUNXBwlT0V",
+      "fromSide": "bottom",
+      "toNode": "Rye8hv9Y8tk5Dh0t",
+      "toSide": "top"
+    },
+    {
+      "id": "edge21",
+      "fromNode": "CHVa9z4YqfoZEIEs",
+      "fromSide": "bottom",
+      "toNode": "yc8k8IKDtLkpVtk3",
+      "toSide": "top"
+    },
+    {
+      "id": "edge22",
+      "fromNode": "yc8k8IKDtLkpVtk3",
+      "fromSide": "bottom",
+      "toNode": "GiVa7PceM72WOI0M",
+      "toSide": "top"
+    },
+    {
+      "id": "edge23",
+      "fromNode": "GiVa7PceM72WOI0M",
+      "fromSide": "bottom",
+      "toNode": "HKlwQnh0ntnr7vsx",
+      "toSide": "top"
+    },
+    {
+      "id": "edge24",
+      "fromNode": "HKlwQnh0ntnr7vsx",
+      "fromSide": "bottom",
+      "toNode": "vknDqrN673fhLmC3",
+      "toSide": "top"
+    }
+  ]
 }
