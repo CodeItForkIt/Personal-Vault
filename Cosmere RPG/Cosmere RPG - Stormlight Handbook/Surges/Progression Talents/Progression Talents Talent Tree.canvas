@@ -5,10 +5,10 @@
       "type": "group",
       "x": -220.0,
       "y": -220.0,
-      "width": 4000.0,
-      "height": 3920.0,
+      "width": 2321.0,
+      "height": 3050.0,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Progression_Surge-glyph.svg",
-      "backgroundStyle": "cover"
+      "backgroundStyle": "ratio"
     },
     {
       "id": "e6R5nW7zcgZtW2pX",
@@ -23,7 +23,7 @@
       "id": "h41LsOz73GutMMne",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Progression Talents/Explosive Growth.md",
-      "x": 2920.0,
+      "x": 1241.0,
       "y": 0.0,
       "width": 640,
       "height": 420
@@ -33,7 +33,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Progression Talents/Swift Regeneration.md",
       "x": 0.0,
-      "y": 1020.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -41,8 +41,8 @@
       "id": "oaVA5RLm9g8SkGX3",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Progression Talents/Overgrowth.md",
-      "x": 2920.0,
-      "y": 1020.0,
+      "x": 1241.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -50,8 +50,8 @@
       "id": "0RFp4nS4Vieg5Pmi",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Progression Talents/Reliable Progression.md",
-      "x": 2920.0,
-      "y": 2040.0,
+      "x": 1241.0,
+      "y": 1460.0,
       "width": 640,
       "height": 420
     },
@@ -60,7 +60,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Progression Talents/Extended Regrowth.md",
       "x": 0.0,
-      "y": 2040.0,
+      "y": 1460.0,
       "width": 640,
       "height": 420
     },
@@ -69,7 +69,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Progression Talents/From the Brink.md",
       "x": 0.0,
-      "y": 3060.0,
+      "y": 2190.0,
       "width": 640,
       "height": 420
     },
@@ -77,19 +77,20 @@
       "id": "kpM28tlQ7dMeGRcc",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Progression Talents/Font of Life.md",
-      "x": 2920.0,
-      "y": 3060.0,
+      "x": 1241.0,
+      "y": 2190.0,
       "width": 640,
       "height": 420
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Progression_Surge-glyph.svg",
+      "type": "group",
       "x": 0.0,
       "y": -300.0,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Progression_Surge-glyph.svg",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [

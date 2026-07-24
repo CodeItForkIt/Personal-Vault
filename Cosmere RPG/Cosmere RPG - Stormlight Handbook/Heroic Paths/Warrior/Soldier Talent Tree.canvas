@@ -4,7 +4,7 @@
       "id": "5sB7TItVOrmnti69",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Cautious Advance.md",
-      "x": 1460.0,
+      "x": 730.0,
       "y": 0.0,
       "width": 640,
       "height": 420
@@ -13,7 +13,7 @@
       "id": "70ybHY6RWsepZ1FH",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Combat Training.md",
-      "x": 5110.0,
+      "x": 3650.0,
       "y": 0.0,
       "width": 640,
       "height": 420
@@ -22,7 +22,7 @@
       "id": "5ycwmke8bxMzY1Y3",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Defensive Position.md",
-      "x": 1460.0,
+      "x": 730.0,
       "y": 2190.0,
       "width": 640,
       "height": 420
@@ -32,7 +32,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Wary.md",
       "x": 0.0,
-      "y": 4890.0,
+      "y": 4380.0,
       "width": 640,
       "height": 420
     },
@@ -40,8 +40,8 @@
       "id": "6mWNgzJDdhniKf1k",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Formation Drills.md",
-      "x": 2190.0,
-      "y": 4890.0,
+      "x": 1460.0,
+      "y": 4380.0,
       "width": 640,
       "height": 420
     },
@@ -49,8 +49,8 @@
       "id": "lndfYMn1qdYtZAXR",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Devastating Blow.md",
-      "x": 2920.0,
-      "y": 950.0,
+      "x": 2190.0,
+      "y": 1460.0,
       "width": 640,
       "height": 420
     },
@@ -58,7 +58,7 @@
       "id": "JeTODkUGT3gu0NP9",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Hardy.md",
-      "x": 5110.0,
+      "x": 3650.0,
       "y": 2190.0,
       "width": 640,
       "height": 420
@@ -67,19 +67,20 @@
       "id": "yJroYOvBp0goBIZG",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Swift Strikes.md",
-      "x": 5110.0,
-      "y": 4890.0,
+      "x": 3650.0,
+      "y": 4380.0,
       "width": 640,
       "height": 420
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/infantry-armored.webp",
+      "type": "group",
       "x": 0.0,
       "y": -300.0,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/infantry-armored.webp",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [

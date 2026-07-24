@@ -5,16 +5,16 @@
       "type": "group",
       "x": -220.0,
       "y": -220.0,
-      "width": 23710.0,
-      "height": 23990.0,
+      "width": 10205.0,
+      "height": 6380.625,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg092_path_Hunter_STEVE PRESCOTT.webp",
-      "backgroundStyle": "cover"
+      "backgroundStyle": "ratio"
     },
     {
       "id": "QWqxfWirLIhiSGXb",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Seek Quarry.md",
-      "x": 5840.0,
+      "x": 2190.0,
       "y": 0.0,
       "width": 640,
       "height": 420
@@ -24,7 +24,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Tagging Shot.md",
       "x": 0.0,
-      "y": 17730.0,
+      "y": 1140.625,
       "width": 640,
       "height": 420
     },
@@ -32,8 +32,8 @@
       "id": "S3P7OCHdbbc0bSNp",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Combat Training.md",
-      "x": 2920.0,
-      "y": 17730.0,
+      "x": 1460.0,
+      "y": 1140.625,
       "width": 640,
       "height": 420
     },
@@ -42,7 +42,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Exploit Weakness.md",
       "x": 0.0,
-      "y": 19770.0,
+      "y": 2600.625,
       "width": 640,
       "height": 420
     },
@@ -51,7 +51,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Sharp Eye.md",
       "x": 0.0,
-      "y": 18750.0,
+      "y": 1870.625,
       "width": 640,
       "height": 420
     },
@@ -59,8 +59,8 @@
       "id": "JCrK3vqt5CI9mDm6",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Steady Aim.md",
-      "x": 2920.0,
-      "y": 18750.0,
+      "x": 1460.0,
+      "y": 1870.625,
       "width": 640,
       "height": 420
     },
@@ -69,7 +69,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Hardy.md",
       "x": 730.0,
-      "y": 19770.0,
+      "y": 2600.625,
       "width": 640,
       "height": 420
     },
@@ -78,7 +78,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Unrelenting Salvo.md",
       "x": 0.0,
-      "y": 20790.0,
+      "y": 3330.625,
       "width": 640,
       "height": 420
     },
@@ -86,8 +86,8 @@
       "id": "EvvJ59y4sgxalzTV",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Backstep.md",
-      "x": 2920.0,
-      "y": 20790.0,
+      "x": 1460.0,
+      "y": 3330.625,
       "width": 640,
       "height": 420
     },
@@ -95,8 +95,8 @@
       "id": "UYP5V7HvGc8Gu3Jv",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Assassin/Talents/Startling Blow.md",
-      "x": 11680.0,
-      "y": 17730.0,
+      "x": 2920.0,
+      "y": 1140.625,
       "width": 640,
       "height": 420
     },
@@ -104,8 +104,8 @@
       "id": "BHxwz7JtTreAsemq",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Assassin/Talents/Fatal Thrust.md",
-      "x": 11680.0,
-      "y": 18750.0,
+      "x": 2920.0,
+      "y": 1870.625,
       "width": 640,
       "height": 420
     },
@@ -113,8 +113,8 @@
       "id": "s2rD2PLmsT5Vrthg",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Assassin/Talents/Killing Edge.md",
-      "x": 14600.0,
-      "y": 17730.0,
+      "x": 4015.0,
+      "y": 1140.625,
       "width": 640,
       "height": 420
     },
@@ -122,8 +122,8 @@
       "id": "y1q4cIkloXYqaWy8",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Assassin/Talents/Shadowing.md",
-      "x": 14600.0,
-      "y": 18750.0,
+      "x": 4015.0,
+      "y": 1870.625,
       "width": 640,
       "height": 420
     },
@@ -131,8 +131,8 @@
       "id": "o6NgdIBNkIcDds9X",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Assassin/Talents/Sidestep.md",
-      "x": 11680.0,
-      "y": 19770.0,
+      "x": 2920.0,
+      "y": 2600.625,
       "width": 640,
       "height": 420
     },
@@ -140,8 +140,8 @@
       "id": "JLquIssdHHLbsYiH",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Assassin/Talents/Cold Eyes.md",
-      "x": 14600.0,
-      "y": 19770.0,
+      "x": 4015.0,
+      "y": 2600.625,
       "width": 640,
       "height": 420
     },
@@ -149,8 +149,8 @@
       "id": "CfBJM6TSLWsAKH6F",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Assassin/Talents/Mighty.md",
-      "x": 11680.0,
-      "y": 20790.0,
+      "x": 2920.0,
+      "y": 3330.625,
       "width": 640,
       "height": 420
     },
@@ -158,8 +158,8 @@
       "id": "wpuCiXFlc5zoSayC",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Assassin/Talents/Swift Strikes.md",
-      "x": 14600.0,
-      "y": 20790.0,
+      "x": 4015.0,
+      "y": 3330.625,
       "width": 640,
       "height": 420
     },
@@ -167,8 +167,8 @@
       "id": "UpivDU0AJEGCQFVA",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Deadly Trap.md",
-      "x": 18980.0,
-      "y": 17730.0,
+      "x": 5475.0,
+      "y": 1140.625,
       "width": 640,
       "height": 420
     },
@@ -176,8 +176,8 @@
       "id": "MRzDJsi8lNgzwHoA",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Experienced Trapper.md",
-      "x": 18980.0,
-      "y": 19920.0,
+      "x": 5475.0,
+      "y": 3330.625,
       "width": 640,
       "height": 420
     },
@@ -185,8 +185,8 @@
       "id": "F2OJza3CWg67izkk",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Surefooted.md",
-      "x": 19710.0,
-      "y": 23130.0,
+      "x": 6205.0,
+      "y": 5520.625,
       "width": 640,
       "height": 420
     },
@@ -194,8 +194,8 @@
       "id": "M0jOXY1qplBNkEu3",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Hunters Edge.md",
-      "x": 17520.0,
-      "y": 23130.0,
+      "x": 4745.0,
+      "y": 5520.625,
       "width": 640,
       "height": 420
     },
@@ -203,8 +203,8 @@
       "id": "TM43LubUq1KuhIHN",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Feral Connection.md",
-      "x": 20440.0,
-      "y": 23130.0,
+      "x": 7665.0,
+      "y": 5520.625,
       "width": 640,
       "height": 420
     },
@@ -212,8 +212,8 @@
       "id": "MdvIPmcN5NzkIaDm",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Pack Hunting.md",
-      "x": 22630.0,
-      "y": 23130.0,
+      "x": 9125.0,
+      "y": 5520.625,
       "width": 640,
       "height": 420
     },
@@ -221,8 +221,8 @@
       "id": "tvgfSvb42ooYN1cM",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Protective Bond.md",
-      "x": 21900.0,
-      "y": 19920.0,
+      "x": 8395.0,
+      "y": 3330.625,
       "width": 640,
       "height": 420
     },
@@ -230,19 +230,20 @@
       "id": "YrpD4IE5yjmTSdfM",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Animal Bond.md",
-      "x": 21900.0,
-      "y": 17730.0,
+      "x": 8395.0,
+      "y": 1140.625,
       "width": 640,
       "height": 420
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/hunter.webp",
+      "type": "group",
       "x": 0.0,
       "y": -300.0,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/hunter.webp",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [

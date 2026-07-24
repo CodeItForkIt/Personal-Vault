@@ -14,7 +14,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Quick Analysis.md",
       "x": 0.0,
-      "y": 1020.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -23,7 +23,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Gather Evidence.md",
       "x": 0.0,
-      "y": 2040.0,
+      "y": 1460.0,
       "width": 640,
       "height": 420
     },
@@ -32,7 +32,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Sleuths Instincts.md",
       "x": 0.0,
-      "y": 3060.0,
+      "y": 2190.0,
       "width": 640,
       "height": 420
     },
@@ -40,7 +40,7 @@
       "id": "A5tc99JjtjafYg2n",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Get Em Talking.md",
-      "x": 2920.0,
+      "x": 1095.0,
       "y": 0.0,
       "width": 640,
       "height": 420
@@ -49,8 +49,8 @@
       "id": "Vi7f5MiosecU6T6I",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Baleful.md",
-      "x": 2920.0,
-      "y": 1020.0,
+      "x": 1095.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -58,8 +58,8 @@
       "id": "I9XMSYb4zQS6Jrlk",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Hardy.md",
-      "x": 2920.0,
-      "y": 2040.0,
+      "x": 1095.0,
+      "y": 1460.0,
       "width": 640,
       "height": 420
     },
@@ -67,19 +67,20 @@
       "id": "iDklxJACkOI8V6vw",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Close the Case.md",
-      "x": 2920.0,
-      "y": 3060.0,
+      "x": 1095.0,
+      "y": 2190.0,
       "width": 640,
       "height": 420
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/third-eye-blue-red.webp",
+      "type": "group",
       "x": 0.0,
       "y": -300.0,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/third-eye-blue-red.webp",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [

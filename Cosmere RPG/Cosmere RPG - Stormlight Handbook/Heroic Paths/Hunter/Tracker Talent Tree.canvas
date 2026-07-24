@@ -4,7 +4,7 @@
       "id": "UpivDU0AJEGCQFVA",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Deadly Trap.md",
-      "x": 1460.0,
+      "x": 730.0,
       "y": 0.0,
       "width": 640,
       "height": 420
@@ -13,7 +13,7 @@
       "id": "MRzDJsi8lNgzwHoA",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Experienced Trapper.md",
-      "x": 1460.0,
+      "x": 730.0,
       "y": 2190.0,
       "width": 640,
       "height": 420
@@ -22,8 +22,8 @@
       "id": "F2OJza3CWg67izkk",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Surefooted.md",
-      "x": 2190.0,
-      "y": 5400.0,
+      "x": 1460.0,
+      "y": 4380.0,
       "width": 640,
       "height": 420
     },
@@ -32,7 +32,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Hunters Edge.md",
       "x": 0.0,
-      "y": 5400.0,
+      "y": 4380.0,
       "width": 640,
       "height": 420
     },
@@ -41,7 +41,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Feral Connection.md",
       "x": 2920.0,
-      "y": 5400.0,
+      "y": 4380.0,
       "width": 640,
       "height": 420
     },
@@ -49,8 +49,8 @@
       "id": "MdvIPmcN5NzkIaDm",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Pack Hunting.md",
-      "x": 5110.0,
-      "y": 5400.0,
+      "x": 4380.0,
+      "y": 4380.0,
       "width": 640,
       "height": 420
     },
@@ -58,7 +58,7 @@
       "id": "tvgfSvb42ooYN1cM",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Protective Bond.md",
-      "x": 4380.0,
+      "x": 3650.0,
       "y": 2190.0,
       "width": 640,
       "height": 420
@@ -67,19 +67,20 @@
       "id": "YrpD4IE5yjmTSdfM",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Animal Bond.md",
-      "x": 4380.0,
+      "x": 3650.0,
       "y": 0.0,
       "width": 640,
       "height": 420
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/arrow-upward-blue.webp",
+      "type": "group",
       "x": 0.0,
       "y": -300.0,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/arrow-upward-blue.webp",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [

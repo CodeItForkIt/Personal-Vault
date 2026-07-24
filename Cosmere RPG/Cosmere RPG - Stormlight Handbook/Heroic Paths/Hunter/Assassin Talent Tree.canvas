@@ -14,7 +14,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Assassin/Talents/Fatal Thrust.md",
       "x": 0.0,
-      "y": 1020.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -22,7 +22,7 @@
       "id": "s2rD2PLmsT5Vrthg",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Assassin/Talents/Killing Edge.md",
-      "x": 2920.0,
+      "x": 1095.0,
       "y": 0.0,
       "width": 640,
       "height": 420
@@ -31,8 +31,8 @@
       "id": "y1q4cIkloXYqaWy8",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Assassin/Talents/Shadowing.md",
-      "x": 2920.0,
-      "y": 1020.0,
+      "x": 1095.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -41,7 +41,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Assassin/Talents/Sidestep.md",
       "x": 0.0,
-      "y": 2040.0,
+      "y": 1460.0,
       "width": 640,
       "height": 420
     },
@@ -49,8 +49,8 @@
       "id": "JLquIssdHHLbsYiH",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Assassin/Talents/Cold Eyes.md",
-      "x": 2920.0,
-      "y": 2040.0,
+      "x": 1095.0,
+      "y": 1460.0,
       "width": 640,
       "height": 420
     },
@@ -59,7 +59,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Assassin/Talents/Mighty.md",
       "x": 0.0,
-      "y": 3060.0,
+      "y": 2190.0,
       "width": 640,
       "height": 420
     },
@@ -67,19 +67,20 @@
       "id": "wpuCiXFlc5zoSayC",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Assassin/Talents/Swift Strikes.md",
-      "x": 2920.0,
-      "y": 3060.0,
+      "x": 1095.0,
+      "y": 2190.0,
       "width": 640,
       "height": 420
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/strike-dagger-skull-white.webp",
+      "type": "group",
       "x": 0.0,
       "y": -300.0,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/strike-dagger-skull-white.webp",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [

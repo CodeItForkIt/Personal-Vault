@@ -5,16 +5,16 @@
       "type": "group",
       "x": -220.0,
       "y": -220.0,
-      "width": 4000.0,
-      "height": 3920.0,
+      "width": 2175.0,
+      "height": 3050.0,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Cohesion_Surge-glyph.svg",
-      "backgroundStyle": "cover"
+      "backgroundStyle": "ratio"
     },
     {
       "id": "BE12thtyRxuxcVVn",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Cohesion Talents/Memories of Stone.md",
-      "x": 2920.0,
+      "x": 1095.0,
       "y": 0.0,
       "width": 640,
       "height": 420
@@ -33,7 +33,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Cohesion Talents/Sinkhole.md",
       "x": 0.0,
-      "y": 1020.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -41,8 +41,8 @@
       "id": "kaBibVmjVEsLdgEu",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Cohesion Talents/Tunneling.md",
-      "x": 2920.0,
-      "y": 1020.0,
+      "x": 1095.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -50,8 +50,8 @@
       "id": "rtnfZQIp0xmSbJrw",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Cohesion Talents/True Stoneshaping.md",
-      "x": 2920.0,
-      "y": 2040.0,
+      "x": 1095.0,
+      "y": 1460.0,
       "width": 640,
       "height": 420
     },
@@ -59,8 +59,8 @@
       "id": "F7hUkqbGRgUBT8XP",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Cohesion Talents/Flowing Earth.md",
-      "x": 2920.0,
-      "y": 3060.0,
+      "x": 1095.0,
+      "y": 2190.0,
       "width": 640,
       "height": 420
     },
@@ -69,7 +69,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Cohesion Talents/Through the Stone.md",
       "x": 0.0,
-      "y": 2040.0,
+      "y": 1460.0,
       "width": 640,
       "height": 420
     },
@@ -78,18 +78,19 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Cohesion Talents/Unbound Cohesion.md",
       "x": 0.0,
-      "y": 3060.0,
+      "y": 2190.0,
       "width": 640,
       "height": 420
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Cohesion_Surge-glyph.svg",
+      "type": "group",
       "x": 0.0,
       "y": -300.0,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Cohesion_Surge-glyph.svg",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [

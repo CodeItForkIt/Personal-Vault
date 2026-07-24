@@ -5,16 +5,16 @@
       "type": "group",
       "x": -220.0,
       "y": -220.0,
-      "width": 17870.0,
-      "height": 11060.0,
+      "width": 5825.0,
+      "height": 6138.333333333333,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg136_path_Dustbringer_SONDERFLEX STUDIOS.webp",
-      "backgroundStyle": "cover"
+      "backgroundStyle": "ratio"
     },
     {
       "id": "lbD95Jw620o0yCvs",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer (Canon)/Talents/First Ideal Canon Dustbringer.md",
-      "x": 5840.0,
+      "x": 1825.0,
       "y": 0.0,
       "width": 640,
       "height": 420
@@ -23,8 +23,8 @@
       "id": "b13Sb2NznQguSW4y",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Third Ideal Dustbringer.md",
-      "x": 13870.000000000002,
-      "y": 8160.0,
+      "x": 3285.0,
+      "y": 4038.333333333333,
       "width": 640,
       "height": 420
     },
@@ -32,8 +32,8 @@
       "id": "yz6jRxBKzdxGaG40",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Fourth Ideal Dustbringer.md",
-      "x": 13870.000000000002,
-      "y": 10200.0,
+      "x": 3285.0,
+      "y": 5278.333333333333,
       "width": 640,
       "height": 420
     },
@@ -41,8 +41,8 @@
       "id": "gTdD04LjkcoU67Hz",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Deepened Bond.md",
-      "x": 11680.0,
-      "y": 9690.0,
+      "x": 2555.0,
+      "y": 4768.333333333333,
       "width": 640,
       "height": 420
     },
@@ -50,8 +50,8 @@
       "id": "lFR6bgi6I4oU79ai",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Take Squire Dustbringer.md",
-      "x": 14600.000000000002,
-      "y": 9690.0,
+      "x": 4015.0,
+      "y": 4768.333333333333,
       "width": 640,
       "height": 420
     },
@@ -59,8 +59,8 @@
       "id": "9qDzOz2mevd6wCsF",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Invested.md",
-      "x": 16790.0,
-      "y": 8160.0,
+      "x": 4745.0,
+      "y": 4038.333333333333,
       "width": 640,
       "height": 420
     },
@@ -68,8 +68,8 @@
       "id": "KqbDFgQlvlJOakj3",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Wound Regeneration.md",
-      "x": 16790.0,
-      "y": 9690.0,
+      "x": 4745.0,
+      "y": 4768.333333333333,
       "width": 640,
       "height": 420
     },
@@ -77,8 +77,8 @@
       "id": "ZsEgBjnt913IQPCn",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Searing Dust Storm.md",
-      "x": 16790.0,
-      "y": 7140.0,
+      "x": 4745.0,
+      "y": 3308.333333333333,
       "width": 640,
       "height": 420
     },
@@ -86,8 +86,8 @@
       "id": "KDSU1FvOw6XCT4Iq",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer (Canon)/Talents/Ashspren Bond/Second Ideal Canon Dustbringer.md",
-      "x": 13870.000000000002,
-      "y": 7140.0,
+      "x": 3285.0,
+      "y": 3308.333333333333,
       "width": 640,
       "height": 420
     },
@@ -96,7 +96,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Bodily Decay.md",
       "x": 0.0,
-      "y": 3570.0,
+      "y": 608.3333333333333,
       "width": 640,
       "height": 420
     },
@@ -104,8 +104,8 @@
       "id": "ROJTJgGcOWJNK5EK",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Eroding Escape.md",
-      "x": 2920.0,
-      "y": 3570.0,
+      "x": 1095.0,
+      "y": 608.3333333333333,
       "width": 640,
       "height": 420
     },
@@ -114,7 +114,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Igniting Division.md",
       "x": 0.0,
-      "y": 4590.0,
+      "y": 1338.3333333333333,
       "width": 640,
       "height": 420
     },
@@ -123,7 +123,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Devastating Division.md",
       "x": 0.0,
-      "y": 6630.0,
+      "y": 2798.333333333333,
       "width": 640,
       "height": 420
     },
@@ -132,7 +132,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Gout of Flame.md",
       "x": 0.0,
-      "y": 5610.0,
+      "y": 2068.333333333333,
       "width": 640,
       "height": 420
     },
@@ -140,8 +140,8 @@
       "id": "ZT7bIbxjwdoAmXz5",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Spark Sending.md",
-      "x": 2920.0,
-      "y": 4590.0,
+      "x": 1095.0,
+      "y": 1338.3333333333333,
       "width": 640,
       "height": 420
     },
@@ -149,8 +149,8 @@
       "id": "96rEXUoXeP4ZPrdR",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Unleashed Entropy.md",
-      "x": 2920.0,
-      "y": 6630.0,
+      "x": 1095.0,
+      "y": 2798.333333333333,
       "width": 640,
       "height": 420
     },
@@ -158,19 +158,20 @@
       "id": "ePs6HrIxbRCFYmR0",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Inescapable Spark.md",
-      "x": 2920.0,
-      "y": 5610.0,
+      "x": 1095.0,
+      "y": 2068.333333333333,
       "width": 640,
       "height": 420
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg132_path_banner_Dustbringer.webp",
+      "type": "group",
       "x": 0.0,
       "y": -300.0,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg132_path_banner_Dustbringer.webp",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [

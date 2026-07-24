@@ -5,16 +5,16 @@
       "type": "group",
       "x": -220.0,
       "y": -220.0,
-      "width": 14950.0,
-      "height": 14630.0,
+      "width": 6555.0,
+      "height": 7462.5,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg084_path_Envoy_STEVE PRESCOTT.webp",
-      "backgroundStyle": "cover"
+      "backgroundStyle": "ratio"
     },
     {
       "id": "CHVa9z4YqfoZEIEs",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Rousing Presence.md",
-      "x": 3650.0,
+      "x": 1460.0,
       "y": 0.0,
       "width": 640,
       "height": 420
@@ -24,7 +24,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Steadfast Challenge.md",
       "x": 0.0,
-      "y": 10710.0,
+      "y": 4412.5,
       "width": 640,
       "height": 420
     },
@@ -32,8 +32,8 @@
       "id": "Rl7Wu6cBaADtJ1FM",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Collected.md",
-      "x": 2920.0,
-      "y": 10710.0,
+      "x": 730.0,
+      "y": 4412.5,
       "width": 640,
       "height": 420
     },
@@ -42,7 +42,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Withering Retort.md",
       "x": 0.0,
-      "y": 11730.0,
+      "y": 5142.5,
       "width": 640,
       "height": 420
     },
@@ -51,7 +51,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Calm Appeal.md",
       "x": 0.0,
-      "y": 12750.0,
+      "y": 5872.5,
       "width": 640,
       "height": 420
     },
@@ -60,7 +60,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Peaceful Solution.md",
       "x": 0.0,
-      "y": 13770.0,
+      "y": 6602.5,
       "width": 640,
       "height": 420
     },
@@ -68,8 +68,8 @@
       "id": "GP0bkpXgdcR9mWmq",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Well Dressed.md",
-      "x": 2920.0,
-      "y": 11730.0,
+      "x": 730.0,
+      "y": 5142.5,
       "width": 640,
       "height": 420
     },
@@ -77,8 +77,8 @@
       "id": "DG56Em8UeyI4soT5",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/High Society Contacts.md",
-      "x": 2920.0,
-      "y": 12750.0,
+      "x": 730.0,
+      "y": 5872.5,
       "width": 640,
       "height": 420
     },
@@ -86,8 +86,8 @@
       "id": "s5QL1RiwNTIAD2d9",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Talents/Practiced Oratory.md",
-      "x": 2920.0,
-      "y": 13770.0,
+      "x": 730.0,
+      "y": 6602.5,
       "width": 640,
       "height": 420
     },
@@ -95,8 +95,8 @@
       "id": "adEpbs3dLCofv3Qd",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Customary Garb.md",
-      "x": 7300.0,
-      "y": 3570.0,
+      "x": 2190.0,
+      "y": 1642.5,
       "width": 640,
       "height": 420
     },
@@ -104,8 +104,8 @@
       "id": "woz19OBMJTN3Mk68",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Devoted Presence.md",
-      "x": 7300.0,
-      "y": 4590.0,
+      "x": 2190.0,
+      "y": 2372.5,
       "width": 640,
       "height": 420
     },
@@ -113,8 +113,8 @@
       "id": "EygjZhSTxuvrFFgj",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Stalwart Presence.md",
-      "x": 7300.0,
-      "y": 5610.0,
+      "x": 2190.0,
+      "y": 3392.5,
       "width": 640,
       "height": 420
     },
@@ -122,8 +122,8 @@
       "id": "UnlukLNcTwx8bJ2L",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Sage Counsel.md",
-      "x": 7300.0,
-      "y": 6630.0,
+      "x": 2190.0,
+      "y": 3902.5,
       "width": 640,
       "height": 420
     },
@@ -131,8 +131,8 @@
       "id": "ox088B6gAjOIpL6O",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Inspired Zeal.md",
-      "x": 9490.0,
-      "y": 6630.0,
+      "x": 2920.0,
+      "y": 3902.5,
       "width": 640,
       "height": 420
     },
@@ -140,8 +140,8 @@
       "id": "OAcKpY594CtiTLrZ",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Applied Motivation.md",
-      "x": 9490.0,
-      "y": 5100.0,
+      "x": 2920.0,
+      "y": 2882.5,
       "width": 640,
       "height": 420
     },
@@ -149,8 +149,8 @@
       "id": "AiGOPprq9Wm8KE6W",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Galvanize.md",
-      "x": 9490.0,
-      "y": 3570.0,
+      "x": 2920.0,
+      "y": 1642.5,
       "width": 640,
       "height": 420
     },
@@ -158,8 +158,8 @@
       "id": "yvY2zQYKWq1yJ6Gs",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Composed.md",
-      "x": 10220.0,
-      "y": 4590.0,
+      "x": 3650.0,
+      "y": 2372.5,
       "width": 640,
       "height": 420
     },
@@ -167,8 +167,8 @@
       "id": "kJGekoxNfpqCzTdp",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Sound Advice.md",
-      "x": 10950.0,
-      "y": 10710.0,
+      "x": 4380.0,
+      "y": 4412.5,
       "width": 640,
       "height": 420
     },
@@ -176,8 +176,8 @@
       "id": "aUtouVdUQDPuiYzc",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Lessons in Patience.md",
-      "x": 10950.0,
-      "y": 11730.0,
+      "x": 4380.0,
+      "y": 5142.5,
       "width": 640,
       "height": 420
     },
@@ -185,8 +185,8 @@
       "id": "oh4GqUqUNXBwlT0V",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Instill Confidence.md",
-      "x": 10950.0,
-      "y": 12750.0,
+      "x": 4380.0,
+      "y": 5872.5,
       "width": 640,
       "height": 420
     },
@@ -194,8 +194,8 @@
       "id": "Rye8hv9Y8tk5Dh0t",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Foresight.md",
-      "x": 10950.0,
-      "y": 13770.0,
+      "x": 4380.0,
+      "y": 6602.5,
       "width": 640,
       "height": 420
     },
@@ -203,8 +203,8 @@
       "id": "yc8k8IKDtLkpVtk3",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Practical Demonstration.md",
-      "x": 13870.0,
-      "y": 10710.0,
+      "x": 5475.0,
+      "y": 4412.5,
       "width": 640,
       "height": 420
     },
@@ -212,8 +212,8 @@
       "id": "GiVa7PceM72WOI0M",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Mighty.md",
-      "x": 13870.0,
-      "y": 11730.0,
+      "x": 5475.0,
+      "y": 5142.5,
       "width": 640,
       "height": 420
     },
@@ -221,8 +221,8 @@
       "id": "HKlwQnh0ntnr7vsx",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Guiding Oration.md",
-      "x": 13870.0,
-      "y": 12750.0,
+      "x": 5475.0,
+      "y": 5872.5,
       "width": 640,
       "height": 420
     },
@@ -230,19 +230,20 @@
       "id": "vknDqrN673fhLmC3",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Rallying Shout.md",
-      "x": 13870.0,
-      "y": 13770.0,
+      "x": 5475.0,
+      "y": 6602.5,
       "width": 640,
       "height": 420
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/envoy.webp",
+      "type": "group",
       "x": 0.0,
       "y": -300.0,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/envoy.webp",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [

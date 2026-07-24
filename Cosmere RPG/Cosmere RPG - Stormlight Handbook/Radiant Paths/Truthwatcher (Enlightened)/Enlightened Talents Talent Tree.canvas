@@ -5,17 +5,17 @@
       "type": "group",
       "x": -220.0,
       "y": -220.0,
-      "width": 3270.0,
-      "height": 3120.0,
+      "width": 2540.0,
+      "height": 2320.0,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg189_Enlightened Mistspren_Sami Rytkonen.webp",
-      "backgroundStyle": "cover"
+      "backgroundStyle": "ratio"
     },
     {
       "id": "vdwQDmCQAPTGPgEC",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher (Enlightened)/Talents/Enlightened Talents/Glimpse The Future.md",
       "x": 0.0,
-      "y": 1240.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -23,8 +23,8 @@
       "id": "RcIcRzmHly946j6k",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher (Enlightened)/Talents/Enlightened Talents/Search the Past.md",
-      "x": 2190.0,
-      "y": 1240.0,
+      "x": 1460.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -32,8 +32,8 @@
       "id": "oUtUGMUfCg4pdyKV",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher (Enlightened)/Talents/Enlightened Talents/Vision Void.md",
-      "x": 2190.0,
-      "y": 2260.0,
+      "x": 1460.0,
+      "y": 1460.0,
       "width": 640,
       "height": 420
     },
@@ -42,7 +42,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher (Enlightened)/Talents/Enlightened Talents/Alter Fortune.md",
       "x": 0.0,
-      "y": 2260.0,
+      "y": 1460.0,
       "width": 640,
       "height": 420
     },
@@ -57,12 +57,13 @@
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/beams-rays-orange-purple.webp",
+      "type": "group",
       "x": 0.0,
       "y": -300.0,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/beams-rays-orange-purple.webp",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [

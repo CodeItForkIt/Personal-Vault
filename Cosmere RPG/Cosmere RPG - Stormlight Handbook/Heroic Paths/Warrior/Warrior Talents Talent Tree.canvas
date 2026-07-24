@@ -5,16 +5,16 @@
       "type": "group",
       "x": -220.0,
       "y": -220.0,
-      "width": 23710.0,
-      "height": 21950.0,
+      "width": 9840.0,
+      "height": 6357.8125,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg116_path_Warrior_STEVE PRESCOTT.webp",
-      "backgroundStyle": "cover"
+      "backgroundStyle": "ratio"
     },
     {
       "id": "uGM2wxEIa0E6ocW9",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Vigilant Stance.md",
-      "x": 5840.0,
+      "x": 2555.0,
       "y": 0.0,
       "width": 640,
       "height": 420
@@ -24,7 +24,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Talents/Practiced Kata.md",
       "x": 0.0,
-      "y": 16200.0,
+      "y": 1117.8125,
       "width": 640,
       "height": 420
     },
@@ -33,7 +33,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Talents/Ironstance.md",
       "x": 0.0,
-      "y": 17220.0,
+      "y": 1847.8125,
       "width": 640,
       "height": 420
     },
@@ -42,7 +42,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Talents/Surefooted.md",
       "x": 0.0,
-      "y": 18240.0,
+      "y": 2867.8125,
       "width": 640,
       "height": 420
     },
@@ -50,8 +50,8 @@
       "id": "BqMGofewnoJn0qo8",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Talents/Flamestance.md",
-      "x": 2190.0,
-      "y": 16200.0,
+      "x": 1095.0,
+      "y": 1117.8125,
       "width": 640,
       "height": 420
     },
@@ -59,8 +59,8 @@
       "id": "LZrexKYksPdZ0ORk",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Talents/Signature Weapon.md",
-      "x": 2920.0,
-      "y": 17220.0,
+      "x": 1825.0,
+      "y": 1847.8125,
       "width": 640,
       "height": 420
     },
@@ -68,8 +68,8 @@
       "id": "gKUs5KSTOOMaxOMq",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Talents/Feinting Strike.md",
-      "x": 2190.0,
-      "y": 17730.0,
+      "x": 1095.0,
+      "y": 2357.8125,
       "width": 640,
       "height": 420
     },
@@ -78,7 +78,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Talents/Vinestance.md",
       "x": 0.0,
-      "y": 19260.0,
+      "y": 3377.8125,
       "width": 640,
       "height": 420
     },
@@ -86,8 +86,8 @@
       "id": "d0688jj684zfv4Qb",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Talents/Wits End.md",
-      "x": 2190.0,
-      "y": 19260.0,
+      "x": 1095.0,
+      "y": 3377.8125,
       "width": 640,
       "height": 420
     },
@@ -95,8 +95,8 @@
       "id": "8HPvMawuuZI2kKkO",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Shard Training.md",
-      "x": 11680.0,
-      "y": 16200.0,
+      "x": 3285.0,
+      "y": 1117.8125,
       "width": 640,
       "height": 420
     },
@@ -104,8 +104,8 @@
       "id": "r8D4lhqVonbFN9qb",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Stonestance.md",
-      "x": 14600.0,
-      "y": 16200.0,
+      "x": 4380.0,
+      "y": 1117.8125,
       "width": 640,
       "height": 420
     },
@@ -113,8 +113,8 @@
       "id": "Ch3QBXpnd1GVT5r7",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Mighty.md",
-      "x": 14600.0,
-      "y": 17220.0,
+      "x": 4380.0,
+      "y": 1847.8125,
       "width": 640,
       "height": 420
     },
@@ -122,8 +122,8 @@
       "id": "retL5impRJy4Qk0d",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Bloodstance.md",
-      "x": 14600.0,
-      "y": 18240.0,
+      "x": 4380.0,
+      "y": 2577.8125,
       "width": 640,
       "height": 420
     },
@@ -131,8 +131,8 @@
       "id": "5EIQCpcVyteuZgGR",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Windstance.md",
-      "x": 11680.0,
-      "y": 17220.0,
+      "x": 3285.0,
+      "y": 1847.8125,
       "width": 640,
       "height": 420
     },
@@ -140,8 +140,8 @@
       "id": "S3BnoMvNYru3sGA5",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Shattering Blow.md",
-      "x": 11680.0,
-      "y": 18240.0,
+      "x": 3285.0,
+      "y": 2577.8125,
       "width": 640,
       "height": 420
     },
@@ -149,8 +149,8 @@
       "id": "dxBnerEtstm21Kv9",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Precise Parry.md",
-      "x": 11680.0,
-      "y": 19260.0,
+      "x": 3285.0,
+      "y": 3307.8125,
       "width": 640,
       "height": 420
     },
@@ -158,8 +158,8 @@
       "id": "aexWlm4UJnlI7nla",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Meteoric Leap.md",
-      "x": 14600.0,
-      "y": 19260.0,
+      "x": 4380.0,
+      "y": 3307.8125,
       "width": 640,
       "height": 420
     },
@@ -167,8 +167,8 @@
       "id": "5sB7TItVOrmnti69",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Cautious Advance.md",
-      "x": 18980.0,
-      "y": 16200.0,
+      "x": 5840.0,
+      "y": 1117.8125,
       "width": 640,
       "height": 420
     },
@@ -176,8 +176,8 @@
       "id": "70ybHY6RWsepZ1FH",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Combat Training.md",
-      "x": 22630.0,
-      "y": 16200.0,
+      "x": 8760.0,
+      "y": 1117.8125,
       "width": 640,
       "height": 420
     },
@@ -185,8 +185,8 @@
       "id": "5ycwmke8bxMzY1Y3",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Defensive Position.md",
-      "x": 18980.0,
-      "y": 18390.0,
+      "x": 5840.0,
+      "y": 3307.8125,
       "width": 640,
       "height": 420
     },
@@ -194,8 +194,8 @@
       "id": "57HQJO0erdFYBl0s",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Wary.md",
-      "x": 17520.0,
-      "y": 21090.0,
+      "x": 5110.0,
+      "y": 5497.8125,
       "width": 640,
       "height": 420
     },
@@ -203,8 +203,8 @@
       "id": "6mWNgzJDdhniKf1k",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Formation Drills.md",
-      "x": 19710.0,
-      "y": 21090.0,
+      "x": 6570.0,
+      "y": 5497.8125,
       "width": 640,
       "height": 420
     },
@@ -212,8 +212,8 @@
       "id": "lndfYMn1qdYtZAXR",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Devastating Blow.md",
-      "x": 20440.0,
-      "y": 17150.0,
+      "x": 7300.0,
+      "y": 2577.8125,
       "width": 640,
       "height": 420
     },
@@ -221,8 +221,8 @@
       "id": "JeTODkUGT3gu0NP9",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Hardy.md",
-      "x": 22630.0,
-      "y": 18390.0,
+      "x": 8760.0,
+      "y": 3307.8125,
       "width": 640,
       "height": 420
     },
@@ -230,19 +230,20 @@
       "id": "yJroYOvBp0goBIZG",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Swift Strikes.md",
-      "x": 22630.0,
-      "y": 21090.0,
+      "x": 8760.0,
+      "y": 5497.8125,
       "width": 640,
       "height": 420
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/warrior.webp",
+      "type": "group",
       "x": 0.0,
       "y": -300.0,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/warrior.webp",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [

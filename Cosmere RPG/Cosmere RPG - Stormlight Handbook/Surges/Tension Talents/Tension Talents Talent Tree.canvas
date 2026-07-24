@@ -5,10 +5,10 @@
       "type": "group",
       "x": -220.0,
       "y": -220.0,
-      "width": 4000.0,
-      "height": 3920.0,
+      "width": 1956.0,
+      "height": 3050.0,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Tension_Surge-glyph.svg",
-      "backgroundStyle": "cover"
+      "backgroundStyle": "ratio"
     },
     {
       "id": "3pYFYjsjvHPbhOvn",
@@ -24,7 +24,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Tension Talents/Rigged Weaponry.md",
       "x": 0.0,
-      "y": 1020.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -33,7 +33,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Tension Talents/Cloth Mastery.md",
       "x": 0.0,
-      "y": 2040.0,
+      "y": 1460.0,
       "width": 640,
       "height": 420
     },
@@ -42,7 +42,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Tension Talents/Fine Control.md",
       "x": 0.0,
-      "y": 3060.0,
+      "y": 2190.0,
       "width": 640,
       "height": 420
     },
@@ -50,7 +50,7 @@
       "id": "9WCMQ0qxHNERipgp",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Tension Talents/Stormlight Reclamation.md",
-      "x": 2920.0,
+      "x": 876.0,
       "y": 0.0,
       "width": 640,
       "height": 420
@@ -59,8 +59,8 @@
       "id": "JUhYmSdyBrHptwUH",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Tension Talents/Extended Tension.md",
-      "x": 2920.0,
-      "y": 1020.0,
+      "x": 876.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -68,8 +68,8 @@
       "id": "AyM4Qo95TmO5ozVx",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Tension Talents/Surface Tension.md",
-      "x": 2920.0,
-      "y": 2040.0,
+      "x": 876.0,
+      "y": 1460.0,
       "width": 640,
       "height": 420
     },
@@ -77,19 +77,20 @@
       "id": "wNiCPS9ZavUN6OR5",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Tension Talents/Clothsmith.md",
-      "x": 2920.0,
-      "y": 3060.0,
+      "x": 876.0,
+      "y": 2190.0,
       "width": 640,
       "height": 420
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Tension_Surge-glyph.svg",
+      "type": "group",
       "x": 0.0,
       "y": -300.0,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Tension_Surge-glyph.svg",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [

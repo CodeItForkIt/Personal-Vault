@@ -5,10 +5,10 @@
       "type": "group",
       "x": -220.0,
       "y": -220.0,
-      "width": 4000.0,
-      "height": 3920.0,
+      "width": 2540.0,
+      "height": 3340.0,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Abrasion_Surge-glyph.svg",
-      "backgroundStyle": "cover"
+      "backgroundStyle": "ratio"
     },
     {
       "id": "Dt8y6PO2JsnSSH8A",
@@ -23,7 +23,7 @@
       "id": "EwxDUQJT9UAkCzGz",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Abrasion Talents/Reverse Abrasion.md",
-      "x": 2190.0,
+      "x": 730.0,
       "y": 0.0,
       "width": 640,
       "height": 420
@@ -32,8 +32,8 @@
       "id": "2uTQwFl0PrSXaEYi",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Abrasion Talents/Stormlight Reclamation.md",
-      "x": 2920.0,
-      "y": 1530.0,
+      "x": 1460.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -42,7 +42,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Abrasion Talents/Graceful Skating.md",
       "x": 0.0,
-      "y": 1530.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -50,8 +50,8 @@
       "id": "rVO5IHOx5znFQuyD",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Abrasion Talents/Distant Surgebinding.md",
-      "x": 2190.0,
-      "y": 1530.0,
+      "x": 730.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -60,7 +60,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Abrasion Talents/Slippery Target.md",
       "x": 0.0,
-      "y": 2040.0,
+      "y": 1460.0,
       "width": 640,
       "height": 420
     },
@@ -69,7 +69,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Abrasion Talents/Slick Combatant.md",
       "x": 0.0,
-      "y": 3060.0,
+      "y": 2480.0,
       "width": 640,
       "height": 420
     },
@@ -77,19 +77,20 @@
       "id": "sUVfCV1lV2LqmPKK",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Abrasion Talents/Smooth Operator.md",
-      "x": 2190.0,
-      "y": 2550.0,
+      "x": 730.0,
+      "y": 1970.0,
       "width": 640,
       "height": 420
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Abrasion_Surge-glyph.svg",
+      "type": "group",
       "x": 0.0,
       "y": -300.0,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Abrasion_Surge-glyph.svg",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [

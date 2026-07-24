@@ -5,10 +5,10 @@
       "type": "group",
       "x": -220.0,
       "y": -220.0,
-      "width": 4000.0,
-      "height": 3920.0,
+      "width": 2540.0,
+      "height": 3120.0,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Gravitation_Surge-glyph.svg",
-      "backgroundStyle": "cover"
+      "backgroundStyle": "ratio"
     },
     {
       "id": "GQAGmI6H8VqwF0Pq",
@@ -24,7 +24,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Stable Flight.md",
       "x": 0.0,
-      "y": 1020.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -33,7 +33,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Group Flight.md",
       "x": 0.0,
-      "y": 2040.0,
+      "y": 1750.0,
       "width": 640,
       "height": 420
     },
@@ -42,7 +42,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Aerial Squadron.md",
       "x": 0.0,
-      "y": 3060.0,
+      "y": 2260.0,
       "width": 640,
       "height": 420
     },
@@ -50,7 +50,7 @@
       "id": "oVu1TpjCI4ncvffB",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Gravitational Slam.md",
-      "x": 2190.0,
+      "x": 730.0,
       "y": 0.0,
       "width": 640,
       "height": 420
@@ -59,8 +59,8 @@
       "id": "VvnhrNdkMuBhFw44",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Multiple Lashings.md",
-      "x": 2920.0,
-      "y": 1020.0,
+      "x": 1460.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -68,8 +68,8 @@
       "id": "fCWNPIFQ6SEOOJGU",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Lashing Shot.md",
-      "x": 2190.0,
-      "y": 1530.0,
+      "x": 730.0,
+      "y": 1240.0,
       "width": 640,
       "height": 420
     },
@@ -77,19 +77,20 @@
       "id": "REijAT2kPmprgK2y",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Master of the Skies.md",
-      "x": 2190.0,
-      "y": 3060.0,
+      "x": 730.0,
+      "y": 2260.0,
       "width": 640,
       "height": 420
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Gravitation_Surge-glyph.svg",
+      "type": "group",
       "x": 0.0,
       "y": -300.0,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Gravitation_Surge-glyph.svg",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [

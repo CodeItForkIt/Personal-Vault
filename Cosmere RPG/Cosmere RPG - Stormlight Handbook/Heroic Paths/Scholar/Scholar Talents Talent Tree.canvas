@@ -5,16 +5,16 @@
       "type": "group",
       "x": -220.0,
       "y": -220.0,
-      "width": 23710.0,
-      "height": 14630.0,
+      "width": 7285.0,
+      "height": 6915.0,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg110_path_Scholar_STEVE PRESCOTT.webp",
-      "backgroundStyle": "cover"
+      "backgroundStyle": "ratio"
     },
     {
       "id": "q3kyxjXQKH7HOodc",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Erudition.md",
-      "x": 5840.0,
+      "x": 2190.0,
       "y": 0.0,
       "width": 640,
       "height": 420
@@ -23,8 +23,8 @@
       "id": "7Fk7eo7AUMmAqGVo",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Field Medicine.md",
-      "x": 19710.0,
-      "y": 10710.0,
+      "x": 5110.0,
+      "y": 3795.0,
       "width": 640,
       "height": 420
     },
@@ -32,8 +32,8 @@
       "id": "SJLnN2dcAwIH2YU8",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Emotional Intelligence.md",
-      "x": 22630.0,
-      "y": 10710.0,
+      "x": 6205.0,
+      "y": 3795.0,
       "width": 640,
       "height": 420
     },
@@ -41,8 +41,8 @@
       "id": "AxDW9XVvkk0N99dC",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Collected.md",
-      "x": 22630.0,
-      "y": 11730.0,
+      "x": 6205.0,
+      "y": 4525.0,
       "width": 640,
       "height": 420
     },
@@ -50,8 +50,8 @@
       "id": "x6XkMskLHmvPR88q",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Applied Medicine.md",
-      "x": 22630.0,
-      "y": 12750.0,
+      "x": 6205.0,
+      "y": 5545.0,
       "width": 640,
       "height": 420
     },
@@ -59,8 +59,8 @@
       "id": "5Q98Pl6KIDX3gQJU",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Anatomical Insight.md",
-      "x": 17520.0,
-      "y": 11730.0,
+      "x": 4380.0,
+      "y": 4525.0,
       "width": 640,
       "height": 420
     },
@@ -68,8 +68,8 @@
       "id": "GH3BsV3o3YQVQEuv",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Swift Healer.md",
-      "x": 19710.0,
-      "y": 12240.0,
+      "x": 5110.0,
+      "y": 5035.0,
       "width": 640,
       "height": 420
     },
@@ -77,8 +77,8 @@
       "id": "Eb95yyzkjRK8E57D",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Ongoing Care.md",
-      "x": 19710.0,
-      "y": 13770.0,
+      "x": 5110.0,
+      "y": 6055.0,
       "width": 640,
       "height": 420
     },
@@ -86,8 +86,8 @@
       "id": "XVcayzddA0m6iCXq",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Resuscitation.md",
-      "x": 22630.0,
-      "y": 13770.0,
+      "x": 6205.0,
+      "y": 6055.0,
       "width": 640,
       "height": 420
     },
@@ -95,8 +95,8 @@
       "id": "vEOwttuJbqFPhC4Q",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Strategize.md",
-      "x": 11680.0,
-      "y": 7140.0,
+      "x": 2920.0,
+      "y": 1095.0,
       "width": 640,
       "height": 420
     },
@@ -104,8 +104,8 @@
       "id": "okXns8O0iM1NQMUu",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Mind and Body.md",
-      "x": 14600.0,
-      "y": 7140.0,
+      "x": 3650.0,
+      "y": 1095.0,
       "width": 640,
       "height": 420
     },
@@ -113,8 +113,8 @@
       "id": "LOxcjnKcFnXVFIhe",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Know Your Moment.md",
-      "x": 14600.0,
-      "y": 8160.0,
+      "x": 3650.0,
+      "y": 1825.0,
       "width": 640,
       "height": 420
     },
@@ -122,8 +122,8 @@
       "id": "llSOwSrMFjFJzlqF",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Composed.md",
-      "x": 11680.0,
-      "y": 8160.0,
+      "x": 2920.0,
+      "y": 1825.0,
       "width": 640,
       "height": 420
     },
@@ -131,8 +131,8 @@
       "id": "vJIYCJ1pBRCOutzE",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Deep Contemplation.md",
-      "x": 14600.0,
-      "y": 9180.0,
+      "x": 3650.0,
+      "y": 2555.0,
       "width": 640,
       "height": 420
     },
@@ -140,8 +140,8 @@
       "id": "N8UN2HRNLOHExl3Z",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Keen Insight.md",
-      "x": 14600.0,
-      "y": 10200.0,
+      "x": 3650.0,
+      "y": 3285.0,
       "width": 640,
       "height": 420
     },
@@ -149,8 +149,8 @@
       "id": "ToRtUKr4OFQkTcZN",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Contingency.md",
-      "x": 11680.0,
-      "y": 9180.0,
+      "x": 2920.0,
+      "y": 2555.0,
       "width": 640,
       "height": 420
     },
@@ -158,8 +158,8 @@
       "id": "ggMht3w3W2xkuj6I",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Turning Point.md",
-      "x": 11680.0,
-      "y": 10200.0,
+      "x": 2920.0,
+      "y": 3285.0,
       "width": 640,
       "height": 420
     },
@@ -168,7 +168,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Artifabrian/Talents/Efficient Engineer.md",
       "x": 0.0,
-      "y": 7140.0,
+      "y": 1095.0,
       "width": 640,
       "height": 420
     },
@@ -176,8 +176,8 @@
       "id": "xopPXDKPI78Akd38",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Artifabrian/Talents/Prized Acquisition.md",
-      "x": 2920.0,
-      "y": 7140.0,
+      "x": 1460.0000000000002,
+      "y": 1095.0,
       "width": 640,
       "height": 420
     },
@@ -185,8 +185,8 @@
       "id": "STvnpsjTZuADa0pR",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Artifabrian/Talents/Inventive Design.md",
-      "x": 2920.0,
-      "y": 10200.0,
+      "x": 1460.0000000000002,
+      "y": 3285.0,
       "width": 640,
       "height": 420
     },
@@ -194,8 +194,8 @@
       "id": "y0xVwMOjNpQsARhc",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Artifabrian/Talents/Overcharge.md",
-      "x": 1460.0000000000002,
-      "y": 10200.0,
+      "x": 730.0000000000002,
+      "y": 3285.0,
       "width": 640,
       "height": 420
     },
@@ -203,8 +203,8 @@
       "id": "2I07gsq3fzIqDZsL",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Artifabrian/Talents/Deep Study.md",
-      "x": 1460.0000000000002,
-      "y": 8160.0,
+      "x": 730.0000000000002,
+      "y": 1825.0,
       "width": 640,
       "height": 420
     },
@@ -213,7 +213,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Artifabrian/Talents/Fine Handiwork.md",
       "x": 0.0,
-      "y": 8160.0,
+      "y": 1825.0,
       "width": 640,
       "height": 420
     },
@@ -222,7 +222,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Artifabrian/Talents/Experimental Tinkering.md",
       "x": 0.0,
-      "y": 8670.0,
+      "y": 2555.0,
       "width": 640,
       "height": 420
     },
@@ -231,18 +231,19 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Artifabrian/Talents/Overwhelm with Details.md",
       "x": 0.0,
-      "y": 10200.0,
+      "y": 3285.0,
       "width": 640,
       "height": 420
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/scholar.webp",
+      "type": "group",
       "x": 0.0,
       "y": -300.0,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/scholar.webp",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [

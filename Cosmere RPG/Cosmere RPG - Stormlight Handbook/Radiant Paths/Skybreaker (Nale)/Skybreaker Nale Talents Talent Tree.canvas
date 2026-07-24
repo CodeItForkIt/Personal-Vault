@@ -5,16 +5,16 @@
       "type": "group",
       "x": -220.0,
       "y": -220.0,
-      "width": 18600.0,
-      "height": 14630.0,
+      "width": 8428.666666666666,
+      "height": 9030.0,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg168_path_Skybreaker_SONDERFLEX STUDIOS.webp",
-      "backgroundStyle": "cover"
+      "backgroundStyle": "ratio"
     },
     {
       "id": "FYWBWD69iUa6DiUD",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker (Nale)/Talents/First Ideal Nale Skybreaker.md",
-      "x": 17520.0,
+      "x": 7348.666666666666,
       "y": 0.0,
       "width": 640,
       "height": 420
@@ -23,8 +23,8 @@
       "id": "vMNd0s7BMsMvjuFg",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Talents/Highspren Bond/Soaring Destruction.md",
-      "x": 16790.0,
-      "y": 10710.0,
+      "x": 6618.666666666666,
+      "y": 6200.0,
       "width": 640,
       "height": 420
     },
@@ -32,8 +32,8 @@
       "id": "uXn7nMCvJMh3eoS3",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Talents/Highspren Bond/Invested.md",
-      "x": 16790.0,
-      "y": 11730.0,
+      "x": 6618.666666666666,
+      "y": 6930.0,
       "width": 640,
       "height": 420
     },
@@ -41,8 +41,8 @@
       "id": "jIoUcLbBoed4gx1q",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Talents/Highspren Bond/Wound Regeneration.md",
-      "x": 16790.0,
-      "y": 13260.0,
+      "x": 6618.666666666666,
+      "y": 7660.0,
       "width": 640,
       "height": 420
     },
@@ -50,8 +50,8 @@
       "id": "0b225yKN8ouIOfRV",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Talents/Highspren Bond/Take Squire Skybreaker.md",
-      "x": 14600.000000000002,
-      "y": 13260.0,
+      "x": 5888.666666666666,
+      "y": 7660.0,
       "width": 640,
       "height": 420
     },
@@ -59,8 +59,8 @@
       "id": "b2AplsoQpoDTZgFK",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Talents/Highspren Bond/Fourth Ideal Skybreaker.md",
-      "x": 13870.000000000002,
-      "y": 13770.0,
+      "x": 5158.666666666666,
+      "y": 8170.0,
       "width": 640,
       "height": 420
     },
@@ -68,8 +68,8 @@
       "id": "JkdDihkr9qITG1Fq",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Talents/Highspren Bond/Deepened Bond.md",
-      "x": 11680.000000000002,
-      "y": 13260.0,
+      "x": 4428.666666666666,
+      "y": 7660.0,
       "width": 640,
       "height": 420
     },
@@ -77,8 +77,8 @@
       "id": "p4jGkSu0YT9YK9k8",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker (Nale)/Talents/Highspren Bond/Third Ideal Nale Skybreaker.md",
-      "x": 13870.000000000002,
-      "y": 11730.0,
+      "x": 5158.666666666666,
+      "y": 6930.0,
       "width": 640,
       "height": 420
     },
@@ -86,8 +86,8 @@
       "id": "1TfgJKc0cn4Aqpbs",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker (Nale)/Talents/Highspren Bond/Second Ideal Nale Skybreaker.md",
-      "x": 13870.000000000002,
-      "y": 10710.0,
+      "x": 5158.666666666666,
+      "y": 6200.0,
       "width": 640,
       "height": 420
     },
@@ -96,7 +96,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Bodily Decay.md",
       "x": 0.0,
-      "y": 3569.9999999999995,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -104,8 +104,8 @@
       "id": "ROJTJgGcOWJNK5EK",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Eroding Escape.md",
-      "x": 2920.0,
-      "y": 3569.9999999999995,
+      "x": 1095.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -114,7 +114,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Igniting Division.md",
       "x": 0.0,
-      "y": 4590.0,
+      "y": 1460.0,
       "width": 640,
       "height": 420
     },
@@ -123,7 +123,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Devastating Division.md",
       "x": 0.0,
-      "y": 6630.0,
+      "y": 2919.9999999999995,
       "width": 640,
       "height": 420
     },
@@ -132,7 +132,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Gout of Flame.md",
       "x": 0.0,
-      "y": 5610.0,
+      "y": 2190.0,
       "width": 640,
       "height": 420
     },
@@ -140,8 +140,8 @@
       "id": "ZT7bIbxjwdoAmXz5",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Spark Sending.md",
-      "x": 2920.0,
-      "y": 4590.0,
+      "x": 1095.0,
+      "y": 1460.0,
       "width": 640,
       "height": 420
     },
@@ -149,8 +149,8 @@
       "id": "96rEXUoXeP4ZPrdR",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Unleashed Entropy.md",
-      "x": 2920.0,
-      "y": 6630.0,
+      "x": 1095.0,
+      "y": 2919.9999999999995,
       "width": 640,
       "height": 420
     },
@@ -158,8 +158,8 @@
       "id": "ePs6HrIxbRCFYmR0",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Inescapable Spark.md",
-      "x": 2920.0,
-      "y": 5610.0,
+      "x": 1095.0,
+      "y": 2190.0,
       "width": 640,
       "height": 420
     },
@@ -167,8 +167,8 @@
       "id": "GQAGmI6H8VqwF0Pq",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Flying Ace.md",
-      "x": 11680.000000000002,
-      "y": 7140.0,
+      "x": 4428.666666666666,
+      "y": 3429.9999999999995,
       "width": 640,
       "height": 420
     },
@@ -176,8 +176,8 @@
       "id": "sPSQZmjEUdi8IeGR",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Stable Flight.md",
-      "x": 11680.000000000002,
-      "y": 8160.0,
+      "x": 4428.666666666666,
+      "y": 4160.0,
       "width": 640,
       "height": 420
     },
@@ -185,8 +185,8 @@
       "id": "QHt9oB6bQclSx4MH",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Group Flight.md",
-      "x": 11680.000000000002,
-      "y": 9180.0,
+      "x": 4428.666666666666,
+      "y": 5180.0,
       "width": 640,
       "height": 420
     },
@@ -194,8 +194,8 @@
       "id": "i0G4JNXmQEQ858mI",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Aerial Squadron.md",
-      "x": 11680.000000000002,
-      "y": 10200.0,
+      "x": 4428.666666666666,
+      "y": 5690.0,
       "width": 640,
       "height": 420
     },
@@ -203,8 +203,8 @@
       "id": "oVu1TpjCI4ncvffB",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Gravitational Slam.md",
-      "x": 13870.000000000002,
-      "y": 7140.0,
+      "x": 5158.666666666666,
+      "y": 3429.9999999999995,
       "width": 640,
       "height": 420
     },
@@ -212,8 +212,8 @@
       "id": "VvnhrNdkMuBhFw44",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Multiple Lashings.md",
-      "x": 14600.000000000002,
-      "y": 8160.0,
+      "x": 5888.666666666666,
+      "y": 4160.0,
       "width": 640,
       "height": 420
     },
@@ -221,8 +221,8 @@
       "id": "fCWNPIFQ6SEOOJGU",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Lashing Shot.md",
-      "x": 13870.000000000002,
-      "y": 8670.0,
+      "x": 5158.666666666666,
+      "y": 4670.0,
       "width": 640,
       "height": 420
     },
@@ -230,19 +230,20 @@
       "id": "REijAT2kPmprgK2y",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Master of the Skies.md",
-      "x": 13870.000000000002,
-      "y": 10200.0,
+      "x": 5158.666666666666,
+      "y": 5690.0,
       "width": 640,
       "height": 420
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg164_path_banner_Skybreaker.webp",
+      "type": "group",
       "x": 0.0,
       "y": -300.0,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg164_path_banner_Skybreaker.webp",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [

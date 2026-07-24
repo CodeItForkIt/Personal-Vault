@@ -5,17 +5,17 @@
       "type": "group",
       "x": -220.0,
       "y": -220.0,
-      "width": 4000.0,
-      "height": 3920.0,
+      "width": 1810.0,
+      "height": 3050.0,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/attachments/Tension_Surge-glyph.svg",
-      "backgroundStyle": "cover"
+      "backgroundStyle": "ratio"
     },
     {
       "id": "zJT3gkSvrUFjq8YG",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Tension/Clothsmith.md",
-      "x": 2920.0,
-      "y": 3060.0,
+      "x": 730.0,
+      "y": 2190.0,
       "width": 640,
       "height": 420
     },
@@ -24,7 +24,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Tension/Fine Control.md",
       "x": 0.0,
-      "y": 3060.0,
+      "y": 2190.0,
       "width": 640,
       "height": 420
     },
@@ -33,7 +33,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Tension/Cloth Mastery.md",
       "x": 0.0,
-      "y": 2040.0,
+      "y": 1460.0,
       "width": 640,
       "height": 420
     },
@@ -41,8 +41,8 @@
       "id": "kGiTOqzwBRbSpJzH",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Tension/Surface Tension.md",
-      "x": 2920.0,
-      "y": 2040.0,
+      "x": 730.0,
+      "y": 1460.0,
       "width": 640,
       "height": 420
     },
@@ -50,8 +50,8 @@
       "id": "ux14dJ4ZkjWwul1D",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Tension/Extended Tension.md",
-      "x": 2920.0,
-      "y": 1020.0,
+      "x": 730.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -59,7 +59,7 @@
       "id": "92G3rmOBNHSV9jqd",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Tension/Stormlight Reclamation.md",
-      "x": 2920.0,
+      "x": 730.0,
       "y": 0.0,
       "width": 640,
       "height": 420
@@ -69,7 +69,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Tension/Rigged Weaponry.md",
       "x": 0.0,
-      "y": 1020.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -84,12 +84,13 @@
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/attachments/Tension_Surge-glyph.svg",
+      "type": "group",
       "x": 0.0,
       "y": -300.0,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/attachments/Tension_Surge-glyph.svg",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [

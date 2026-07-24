@@ -5,10 +5,10 @@
       "type": "group",
       "x": -220,
       "y": -220,
-      "width": 12030.0,
-      "height": 7490.0,
+      "width": 4000.0,
+      "height": 3730.0,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg136_path_Dustbringer_SONDERFLEX STUDIOS.webp",
-      "backgroundStyle": "cover"
+      "backgroundStyle": "ratio"
     },
     {
       "id": "Bh233BBIZtPWeHsz",
@@ -23,8 +23,8 @@
       "id": "XS4DGIGMbPfhl5Vt",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Second Ideal Dustbringer.md",
-      "x": 8030.0,
-      "y": 3570.0,
+      "x": 1460.0,
+      "y": 900.0,
       "width": 640,
       "height": 420
     },
@@ -32,8 +32,8 @@
       "id": "b13Sb2NznQguSW4y",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Third Ideal Dustbringer.md",
-      "x": 8030.0,
-      "y": 4590.0,
+      "x": 1460.0,
+      "y": 1630.0,
       "width": 640,
       "height": 420
     },
@@ -41,8 +41,8 @@
       "id": "yz6jRxBKzdxGaG40",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Fourth Ideal Dustbringer.md",
-      "x": 8030.0,
-      "y": 6630.0,
+      "x": 1460.0,
+      "y": 2870.0,
       "width": 640,
       "height": 420
     },
@@ -50,8 +50,8 @@
       "id": "gTdD04LjkcoU67Hz",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Deepened Bond.md",
-      "x": 5840.0,
-      "y": 6120.0,
+      "x": 730.0,
+      "y": 2360.0,
       "width": 640,
       "height": 420
     },
@@ -59,8 +59,8 @@
       "id": "lFR6bgi6I4oU79ai",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Take Squire Dustbringer.md",
-      "x": 8760.0,
-      "y": 6120.0,
+      "x": 2190.0,
+      "y": 2360.0,
       "width": 640,
       "height": 420
     },
@@ -68,8 +68,8 @@
       "id": "pBR89nFwfgv6Yz7L",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Searing Dust Storm.md",
-      "x": 10950.0,
-      "y": 3570.0,
+      "x": 2920.0,
+      "y": 900.0,
       "width": 640,
       "height": 420
     },
@@ -77,8 +77,8 @@
       "id": "9qDzOz2mevd6wCsF",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Invested.md",
-      "x": 10950.0,
-      "y": 4590.0,
+      "x": 2920.0,
+      "y": 1630.0,
       "width": 640,
       "height": 420
     },
@@ -86,19 +86,20 @@
       "id": "KqbDFgQlvlJOakj3",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Wound Regeneration.md",
-      "x": 10950.0,
-      "y": 6120.0,
+      "x": 2920.0,
+      "y": 2360.0,
       "width": 640,
       "height": 420
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg132_path_banner_Dustbringer.webp",
+      "type": "group",
       "x": 0,
       "y": -300,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg132_path_banner_Dustbringer.webp",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [

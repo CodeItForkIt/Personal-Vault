@@ -5,16 +5,16 @@
       "type": "group",
       "x": -220.0,
       "y": -220.0,
-      "width": 5460.0,
-      "height": 4650.0,
+      "width": 2540.0,
+      "height": 3049.9999999999995,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/background_Shattered Plains_by_Anthony_Avon.webp",
-      "backgroundStyle": "cover"
+      "backgroundStyle": "ratio"
     },
     {
       "id": "fLzaiHsXBChkPxAb",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Singer/Change Form.md",
-      "x": 2920.0,
+      "x": 730.0,
       "y": 0.0,
       "width": 640,
       "height": 420
@@ -24,7 +24,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Singer/Forms of Finesse.md",
       "x": 0.0,
-      "y": 1750.0,
+      "y": 729.9999999999999,
       "width": 640,
       "height": 420
     },
@@ -32,8 +32,8 @@
       "id": "NscZBjJwcvdlHzDU",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Singer/Forms of Wisdom.md",
-      "x": 2920.0,
-      "y": 1750.0,
+      "x": 730.0,
+      "y": 729.9999999999999,
       "width": 640,
       "height": 420
     },
@@ -41,8 +41,8 @@
       "id": "db550idikbffDP7r",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Singer/Forms of Resolve.md",
-      "x": 4380.0,
-      "y": 1750.0,
+      "x": 1460.0,
+      "y": 729.9999999999999,
       "width": 640,
       "height": 420
     },
@@ -51,7 +51,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Singer/Forms of Destruction.md",
       "x": 0.0,
-      "y": 3790.0,
+      "y": 2189.9999999999995,
       "width": 640,
       "height": 420
     },
@@ -59,8 +59,8 @@
       "id": "a3mOvyysQPqsUrhM",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Singer/Forms of Expansion.md",
-      "x": 2920.0,
-      "y": 3790.0,
+      "x": 730.0,
+      "y": 2189.9999999999995,
       "width": 640,
       "height": 420
     },
@@ -68,8 +68,8 @@
       "id": "EVinPHwKm1T9Ty4S",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Singer/Forms of Mystery.md",
-      "x": 4380.0,
-      "y": 3790.0,
+      "x": 1460.0,
+      "y": 2189.9999999999995,
       "width": 640,
       "height": 420
     },
@@ -77,19 +77,20 @@
       "id": "f61luAzbdqBxqjpm",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Singer/Ambitious Mind.md",
-      "x": 2920.0,
-      "y": 2260.0,
+      "x": 730.0,
+      "y": 1459.9999999999998,
       "width": 640,
       "height": 420
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/singer-ancestry-card.webp",
+      "type": "group",
       "x": 0.0,
       "y": -300.0,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/singer-ancestry-card.webp",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [

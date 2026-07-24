@@ -14,7 +14,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Devoted Presence.md",
       "x": 0.0,
-      "y": 1020.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -23,7 +23,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Stalwart Presence.md",
       "x": 0.0,
-      "y": 2040.0,
+      "y": 1750.0,
       "width": 640,
       "height": 420
     },
@@ -32,7 +32,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Sage Counsel.md",
       "x": 0.0,
-      "y": 3060.0,
+      "y": 2260.0,
       "width": 640,
       "height": 420
     },
@@ -40,8 +40,8 @@
       "id": "ox088B6gAjOIpL6O",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Inspired Zeal.md",
-      "x": 2190.0,
-      "y": 3060.0,
+      "x": 730.0,
+      "y": 2260.0,
       "width": 640,
       "height": 420
     },
@@ -49,8 +49,8 @@
       "id": "OAcKpY594CtiTLrZ",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Applied Motivation.md",
-      "x": 2190.0,
-      "y": 1530.0,
+      "x": 730.0,
+      "y": 1240.0,
       "width": 640,
       "height": 420
     },
@@ -58,7 +58,7 @@
       "id": "AiGOPprq9Wm8KE6W",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Galvanize.md",
-      "x": 2190.0,
+      "x": 730.0,
       "y": 0.0,
       "width": 640,
       "height": 420
@@ -67,19 +67,20 @@
       "id": "yvY2zQYKWq1yJ6Gs",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Composed.md",
-      "x": 2920.0,
-      "y": 1020.0,
+      "x": 1460.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/cleric-grey.webp",
+      "type": "group",
       "x": 0.0,
       "y": -300.0,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/cleric-grey.webp",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [

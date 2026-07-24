@@ -5,10 +5,10 @@
       "type": "group",
       "x": -220.0,
       "y": -220.0,
-      "width": 5460.0,
-      "height": 3920.0,
+      "width": 2540.0,
+      "height": 3050.0,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Transportation_Surge-glyph.svg",
-      "backgroundStyle": "cover"
+      "backgroundStyle": "ratio"
     },
     {
       "id": "h71DzSOVAXZ2DPaF",
@@ -24,7 +24,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Cognitive Vision.md",
       "x": 0.0,
-      "y": 1020.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -32,8 +32,8 @@
       "id": "Zdjjpck1WLAYUygk",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Shared Transportation.md",
-      "x": 1460.0,
-      "y": 2040.0,
+      "x": 730.0,
+      "y": 1460.0,
       "width": 640,
       "height": 420
     },
@@ -41,8 +41,8 @@
       "id": "1h1m4SoJGoVbYyHW",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Elsegate.md",
-      "x": 1460.0,
-      "y": 3060.0,
+      "x": 730.0,
+      "y": 2190.0,
       "width": 640,
       "height": 420
     },
@@ -50,7 +50,7 @@
       "id": "mYFjV8tBywSTMUhv",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Realmic Evasion.md",
-      "x": 4380.0,
+      "x": 1460.0,
       "y": 0.0,
       "width": 640,
       "height": 420
@@ -59,8 +59,8 @@
       "id": "EgsXrH08FbNDKxGR",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Realmic Step.md",
-      "x": 4380.0,
-      "y": 1020.0,
+      "x": 1460.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -68,8 +68,8 @@
       "id": "a2tZpqyRtgCiZf9m",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Elsecalling.md",
-      "x": 4380.0,
-      "y": 2040.0,
+      "x": 1460.0,
+      "y": 1460.0,
       "width": 640,
       "height": 420
     },
@@ -77,19 +77,20 @@
       "id": "sw7TtHx8KBp5hAvv",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Realmwalker.md",
-      "x": 4380.0,
-      "y": 3060.0,
+      "x": 1460.0,
+      "y": 2190.0,
       "width": 640,
       "height": 420
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Transportation_Surge-glyph.svg",
+      "type": "group",
       "x": 0.0,
       "y": -300.0,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Transportation_Surge-glyph.svg",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [

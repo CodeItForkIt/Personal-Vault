@@ -13,7 +13,7 @@
       "id": "r8D4lhqVonbFN9qb",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Stonestance.md",
-      "x": 2920.0,
+      "x": 1095.0,
       "y": 0.0,
       "width": 640,
       "height": 420
@@ -22,8 +22,8 @@
       "id": "Ch3QBXpnd1GVT5r7",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Mighty.md",
-      "x": 2920.0,
-      "y": 1020.0,
+      "x": 1095.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -31,8 +31,8 @@
       "id": "retL5impRJy4Qk0d",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Bloodstance.md",
-      "x": 2920.0,
-      "y": 2040.0,
+      "x": 1095.0,
+      "y": 1460.0,
       "width": 640,
       "height": 420
     },
@@ -41,7 +41,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Windstance.md",
       "x": 0.0,
-      "y": 1020.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -50,7 +50,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Shattering Blow.md",
       "x": 0.0,
-      "y": 2040.0,
+      "y": 1460.0,
       "width": 640,
       "height": 420
     },
@@ -59,7 +59,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Precise Parry.md",
       "x": 0.0,
-      "y": 3060.0,
+      "y": 2190.0,
       "width": 640,
       "height": 420
     },
@@ -67,19 +67,20 @@
       "id": "aexWlm4UJnlI7nla",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Talents/Meteoric Leap.md",
-      "x": 2920.0,
-      "y": 3060.0,
+      "x": 1095.0,
+      "y": 2190.0,
       "width": 640,
       "height": 420
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg254_Shardplate_SAMI RYTKÖNEN.webp",
+      "type": "group",
       "x": 0.0,
       "y": -300.0,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg254_Shardplate_SAMI RYTKÖNEN.webp",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [

@@ -5,16 +5,16 @@
       "type": "group",
       "x": -220.0,
       "y": -220.0,
-      "width": 6920.0,
-      "height": 7490.0,
+      "width": 3999.9999999999995,
+      "height": 3559.9999999999995,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg160_path_Lightweaver_SONDERFLEX STUDIOS.webp",
-      "backgroundStyle": "cover"
+      "backgroundStyle": "ratio"
     },
     {
       "id": "tatqmtwgMfZbIG6q",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Lightweaver/Talents/First Ideal Lightweaver.md",
-      "x": 5840.0,
+      "x": 2919.9999999999995,
       "y": 0.0,
       "width": 640,
       "height": 420
@@ -23,8 +23,8 @@
       "id": "1Vmcgxo6yB5Ji3iM",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Lightweaver/Talents/Cryptic Bond/Second Ideal Lightweaver.md",
-      "x": 2189.9999999999995,
-      "y": 3570.0,
+      "x": 730.0,
+      "y": 729.9999999999999,
       "width": 640,
       "height": 420
     },
@@ -32,8 +32,8 @@
       "id": "6RlkVvFXCcva7zb0",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Lightweaver/Talents/Cryptic Bond/Third Ideal Lightweaver.md",
-      "x": 2189.9999999999995,
-      "y": 4590.0,
+      "x": 730.0,
+      "y": 1459.9999999999995,
       "width": 640,
       "height": 420
     },
@@ -41,8 +41,8 @@
       "id": "CALJ8YcduAFHDTn5",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Lightweaver/Talents/Cryptic Bond/Fourth Ideal Lightweaver.md",
-      "x": 2189.9999999999995,
-      "y": 6630.0,
+      "x": 730.0,
+      "y": 2699.9999999999995,
       "width": 640,
       "height": 420
     },
@@ -51,7 +51,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Lightweaver/Talents/Cryptic Bond/Deepened Bond.md",
       "x": 0.0,
-      "y": 6120.0,
+      "y": 2189.9999999999995,
       "width": 640,
       "height": 420
     },
@@ -59,8 +59,8 @@
       "id": "jBRYMlVBwPoquoOa",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Lightweaver/Talents/Cryptic Bond/Physical Illusion.md",
-      "x": 5110.0,
-      "y": 6120.0,
+      "x": 2189.9999999999995,
+      "y": 2189.9999999999995,
       "width": 640,
       "height": 420
     },
@@ -68,8 +68,8 @@
       "id": "Tus9tgf5QBp6xXju",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Lightweaver/Talents/Cryptic Bond/Invested.md",
-      "x": 5110.0,
-      "y": 3570.0,
+      "x": 2189.9999999999995,
+      "y": 729.9999999999999,
       "width": 640,
       "height": 420
     },
@@ -77,8 +77,8 @@
       "id": "80wPODXHAgZi8FGN",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Lightweaver/Talents/Cryptic Bond/Wound Regeneration.md",
-      "x": 5110.0,
-      "y": 4590.0,
+      "x": 2189.9999999999995,
+      "y": 1459.9999999999995,
       "width": 640,
       "height": 420
     },
@@ -86,19 +86,20 @@
       "id": "kZMTpb0n96Mht8Lq",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Lightweaver/Talents/Cryptic Bond/Take Squire Lightweaver.md",
-      "x": 2920.0000000000005,
-      "y": 6120.0,
+      "x": 1459.9999999999995,
+      "y": 2189.9999999999995,
       "width": 640,
       "height": 420
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg156_path_banner_Lightweaver.webp",
+      "type": "group",
       "x": 0.0,
       "y": -300.0,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg156_path_banner_Lightweaver.webp",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [

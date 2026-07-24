@@ -4,18 +4,18 @@
       "id": "background",
       "type": "group",
       "x": -220,
-      "y": -220.0,
-      "width": 14950.0,
-      "height": 7490.0,
+      "y": -220,
+      "width": 6190.0,
+      "height": 4800.0,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg184_path_Truthwatcher_SONDERFLEX STUDIOS.webp",
-      "backgroundStyle": "cover"
+      "backgroundStyle": "ratio"
     },
     {
       "id": "AuTSqoLwPDowKl71",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/First Ideal Truthwatcher.md",
       "x": 0,
-      "y": 0.0,
+      "y": 0,
       "width": 640,
       "height": 420
     },
@@ -23,8 +23,8 @@
       "id": "ROSzBWLySR66WHeY",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Spiritual Healing.md",
-      "x": 10950.0,
-      "y": 3570.0,
+      "x": 2920.0,
+      "y": 1970.0,
       "width": 640,
       "height": 420
     },
@@ -32,8 +32,8 @@
       "id": "iiqfCwijaW1nyyQQ",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Invested.md",
-      "x": 10950.0,
-      "y": 4590.0,
+      "x": 2920.0,
+      "y": 2700.0,
       "width": 640,
       "height": 420
     },
@@ -41,8 +41,8 @@
       "id": "KLXsiA6aDMO74eRn",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Wound Regeneration.md",
-      "x": 10950.0,
-      "y": 6120.0,
+      "x": 2920.0,
+      "y": 3430.0,
       "width": 640,
       "height": 420
     },
@@ -50,8 +50,8 @@
       "id": "zKBRxPTNxx3wjrJa",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Take Squire Truthwatcher.md",
-      "x": 8760.0,
-      "y": 6120.0,
+      "x": 2190.0,
+      "y": 3430.0,
       "width": 640,
       "height": 420
     },
@@ -59,8 +59,8 @@
       "id": "KVM53TXkWon2i81b",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Third Ideal Truthwatcher.md",
-      "x": 8030.0,
-      "y": 4590.0,
+      "x": 1460.0,
+      "y": 2700.0,
       "width": 640,
       "height": 420
     },
@@ -68,8 +68,8 @@
       "id": "gabJKxi0dSlsgnbj",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Deepened Bond.md",
-      "x": 5840.0,
-      "y": 6120.0,
+      "x": 730.0,
+      "y": 3430.0,
       "width": 640,
       "height": 420
     },
@@ -77,8 +77,8 @@
       "id": "o1Ss0ZxI5vvbCtrL",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Fourth Ideal Truthwatcher.md",
-      "x": 8030.0,
-      "y": 6630.0,
+      "x": 1460.0,
+      "y": 3940.0,
       "width": 640,
       "height": 420
     },
@@ -86,8 +86,8 @@
       "id": "3lp1bh8MIB9DfHjD",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Second Ideal Truthwatcher.md",
-      "x": 8030.0,
-      "y": 3570.0,
+      "x": 1460.0,
+      "y": 1970.0,
       "width": 640,
       "height": 420
     },
@@ -95,8 +95,8 @@
       "id": "vdwQDmCQAPTGPgEC",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher (Enlightened)/Talents/Enlightened Talents/Glimpse The Future.md",
-      "x": 11680.0,
-      "y": 1240.0,
+      "x": 3650.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -104,8 +104,8 @@
       "id": "RcIcRzmHly946j6k",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher (Enlightened)/Talents/Enlightened Talents/Search the Past.md",
-      "x": 13870.0,
-      "y": 1240.0,
+      "x": 5110.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -113,8 +113,8 @@
       "id": "oUtUGMUfCg4pdyKV",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher (Enlightened)/Talents/Enlightened Talents/Vision Void.md",
-      "x": 13870.0,
-      "y": 2260.0,
+      "x": 5110.0,
+      "y": 1460.0,
       "width": 640,
       "height": 420
     },
@@ -122,8 +122,8 @@
       "id": "1XeIxze3FLedzlUM",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher (Enlightened)/Talents/Enlightened Talents/Alter Fortune.md",
-      "x": 11680.0,
-      "y": 2260.0,
+      "x": 3650.0,
+      "y": 1460.0,
       "width": 640,
       "height": 420
     },
@@ -131,19 +131,20 @@
       "id": "oww1F8Bzpvwl2S2J",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher (Enlightened)/Talents/Future Sight.md",
-      "x": 12410.0,
+      "x": 4380.0,
       "y": 0.0,
       "width": 640,
       "height": 420
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg180_path_banner_Truthwatcher.webp",
+      "type": "group",
       "x": 0,
-      "y": -300.0,
+      "y": -300,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg180_path_banner_Truthwatcher.webp",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [

@@ -5,16 +5,16 @@
       "type": "group",
       "x": -220.0,
       "y": -220,
-      "width": 6920.0,
-      "height": 7490.0,
+      "width": 4000.0,
+      "height": 3830.0,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg168_path_Skybreaker_SONDERFLEX STUDIOS.webp",
-      "backgroundStyle": "cover"
+      "backgroundStyle": "ratio"
     },
     {
       "id": "LPrnR9N8KelUVCKM",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Talents/First Ideal Skybreaker.md",
-      "x": 5840.0,
+      "x": 2920.0,
       "y": 0,
       "width": 640,
       "height": 420
@@ -23,8 +23,8 @@
       "id": "vMNd0s7BMsMvjuFg",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Talents/Highspren Bond/Soaring Destruction.md",
-      "x": 5110.0,
-      "y": 3570.0,
+      "x": 2190.0,
+      "y": 1000.0,
       "width": 640,
       "height": 420
     },
@@ -32,8 +32,8 @@
       "id": "uXn7nMCvJMh3eoS3",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Talents/Highspren Bond/Invested.md",
-      "x": 5110.0,
-      "y": 4590.0,
+      "x": 2190.0,
+      "y": 1730.0,
       "width": 640,
       "height": 420
     },
@@ -41,8 +41,8 @@
       "id": "jIoUcLbBoed4gx1q",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Talents/Highspren Bond/Wound Regeneration.md",
-      "x": 5110.0,
-      "y": 6120.0,
+      "x": 2190.0,
+      "y": 2460.0,
       "width": 640,
       "height": 420
     },
@@ -50,8 +50,8 @@
       "id": "0b225yKN8ouIOfRV",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Talents/Highspren Bond/Take Squire Skybreaker.md",
-      "x": 2920.0,
-      "y": 6120.0,
+      "x": 1460.0,
+      "y": 2460.0,
       "width": 640,
       "height": 420
     },
@@ -59,8 +59,8 @@
       "id": "7zDdbhdX3UDoepRr",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Talents/Highspren Bond/Third Ideal Skybreaker.md",
-      "x": 2190.0,
-      "y": 4590.0,
+      "x": 730.0,
+      "y": 1730.0,
       "width": 640,
       "height": 420
     },
@@ -68,8 +68,8 @@
       "id": "xtJ7nW3z3v4DBwQ7",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Talents/Highspren Bond/Second Ideal Skybreaker.md",
-      "x": 2190.0,
-      "y": 3570.0,
+      "x": 730.0,
+      "y": 1000.0,
       "width": 640,
       "height": 420
     },
@@ -77,8 +77,8 @@
       "id": "b2AplsoQpoDTZgFK",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Talents/Highspren Bond/Fourth Ideal Skybreaker.md",
-      "x": 2190.0,
-      "y": 6630.0,
+      "x": 730.0,
+      "y": 2970.0,
       "width": 640,
       "height": 420
     },
@@ -87,18 +87,19 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Talents/Highspren Bond/Deepened Bond.md",
       "x": 0.0,
-      "y": 6120.0,
+      "y": 2460.0,
       "width": 640,
       "height": 420
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg164_path_banner_Skybreaker.webp",
+      "type": "group",
       "x": 0.0,
       "y": -300,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg164_path_banner_Skybreaker.webp",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [

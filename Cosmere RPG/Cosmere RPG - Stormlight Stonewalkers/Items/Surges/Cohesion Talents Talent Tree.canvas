@@ -5,17 +5,17 @@
       "type": "group",
       "x": -220.0,
       "y": -220.0,
-      "width": 4000.0,
-      "height": 3920.0,
+      "width": 1810.0,
+      "height": 3120.0,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/attachments/Cohesion_Surge-glyph.svg",
-      "backgroundStyle": "cover"
+      "backgroundStyle": "ratio"
     },
     {
       "id": "D7CfFNUgT3VwxGiD",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Cohesion/Flowing Earth.md",
-      "x": 2920.0,
-      "y": 3060.0,
+      "x": 730.0,
+      "y": 2260.0,
       "width": 640,
       "height": 420
     },
@@ -23,8 +23,8 @@
       "id": "r9csXvrrtrOh0w3K",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Cohesion/True Stoneshaping.md",
-      "x": 2920.0,
-      "y": 2040.0,
+      "x": 730.0,
+      "y": 1750.0,
       "width": 640,
       "height": 420
     },
@@ -33,7 +33,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Cohesion/Unbound Cohesion.md",
       "x": 0.0,
-      "y": 3060.0,
+      "y": 2260.0,
       "width": 640,
       "height": 420
     },
@@ -42,7 +42,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Cohesion/Through the Stone.md",
       "x": 0.0,
-      "y": 2040.0,
+      "y": 1750.0,
       "width": 640,
       "height": 420
     },
@@ -50,8 +50,8 @@
       "id": "hzjTxkOns3yijsO5",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Cohesion/Tunneling.md",
-      "x": 2920.0,
-      "y": 1020.0,
+      "x": 730.0,
+      "y": 1240.0,
       "width": 640,
       "height": 420
     },
@@ -60,7 +60,7 @@
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Cohesion/Sinkhole.md",
       "x": 0.0,
-      "y": 510.0,
+      "y": 730.0,
       "width": 640,
       "height": 420
     },
@@ -68,7 +68,7 @@
       "id": "9KJliWkq5uy7BIPv",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Cohesion/Memories of Stone.md",
-      "x": 2920.0,
+      "x": 730.0,
       "y": 0.0,
       "width": 640,
       "height": 420
@@ -84,12 +84,13 @@
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/attachments/Cohesion_Surge-glyph.svg",
+      "type": "group",
       "x": 0.0,
       "y": -300.0,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/attachments/Cohesion_Surge-glyph.svg",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [

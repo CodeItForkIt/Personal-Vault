@@ -5,10 +5,10 @@
       "type": "group",
       "x": -220,
       "y": -220,
-      "width": 12030.0,
-      "height": 7490.0,
+      "width": 4000.0,
+      "height": 3730.0,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg152_path_Elsecaller_SONDERFLEX STUDIOS.webp",
-      "backgroundStyle": "cover"
+      "backgroundStyle": "ratio"
     },
     {
       "id": "u167NZQIKQ2WaeW4",
@@ -23,8 +23,8 @@
       "id": "NwJbWyQgOkuq0BrF",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Elsecallers Perspicacity.md",
-      "x": 10950.0,
-      "y": 3570.0,
+      "x": 2920.0,
+      "y": 900.0,
       "width": 640,
       "height": 420
     },
@@ -32,8 +32,8 @@
       "id": "uKrWbM0LxpEZpWLh",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Invested.md",
-      "x": 10950.0,
-      "y": 4590.0,
+      "x": 2920.0,
+      "y": 1630.0,
       "width": 640,
       "height": 420
     },
@@ -41,8 +41,8 @@
       "id": "m9rtRKt4Yyz4Y1pZ",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Wound Regeneration.md",
-      "x": 10950.0,
-      "y": 6120.0,
+      "x": 2920.0,
+      "y": 2360.0,
       "width": 640,
       "height": 420
     },
@@ -50,8 +50,8 @@
       "id": "P1g6kks4xxHsYrc5",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Take Squire Elsecaller.md",
-      "x": 8760.0,
-      "y": 6120.0,
+      "x": 2190.0,
+      "y": 2360.0,
       "width": 640,
       "height": 420
     },
@@ -59,8 +59,8 @@
       "id": "IgGXhh4px0fQN9tz",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Third Ideal Elsecaller.md",
-      "x": 8030.0,
-      "y": 4590.0,
+      "x": 1460.0,
+      "y": 1630.0,
       "width": 640,
       "height": 420
     },
@@ -68,8 +68,8 @@
       "id": "2TjF5HfbMxvZUSRG",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Deepened Bond.md",
-      "x": 5840.0,
-      "y": 6120.0,
+      "x": 730.0,
+      "y": 2360.0,
       "width": 640,
       "height": 420
     },
@@ -77,8 +77,8 @@
       "id": "IwmyX4CmpAMijtFp",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Fourth Ideal Elsecaller.md",
-      "x": 8030.0,
-      "y": 6630.0,
+      "x": 1460.0,
+      "y": 2870.0,
       "width": 640,
       "height": 420
     },
@@ -86,19 +86,20 @@
       "id": "BKUads5d153qBsV5",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Second Ideal Elsecaller.md",
-      "x": 8030.0,
-      "y": 3570.0,
+      "x": 1460.0,
+      "y": 900.0,
       "width": 640,
       "height": 420
     },
     {
       "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg148_path_banner_Elsecaller.webp",
+      "type": "group",
       "x": 0,
       "y": -300,
       "width": 500,
-      "height": 260
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg148_path_banner_Elsecaller.webp",
+      "backgroundStyle": "ratio"
     }
   ],
   "edges": [
