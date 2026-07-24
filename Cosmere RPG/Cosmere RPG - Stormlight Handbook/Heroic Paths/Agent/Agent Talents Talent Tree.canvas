@@ -9,7 +9,6 @@
 		{"id":"A5tc99JjtjafYg2n","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Get Em Talking.md","x":1095,"y":1141,"width":640,"height":420},
 		{"id":"Vi7f5MiosecU6T6I","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Baleful.md","x":1095,"y":1871,"width":640,"height":420},
 		{"id":"I9XMSYb4zQS6Jrlk","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Hardy.md","x":1095,"y":2601,"width":640,"height":420},
-		{"id":"banner","type":"file","background":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/agent.webp","backgroundStyle":"ratio","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/agent.webp","x":0,"y":-300,"width":260,"height":260},
 		{"id":"iDklxJACkOI8V6vw","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Close the Case.md","x":1095,"y":3331,"width":640,"height":420},
 		{"id":"jLEigkNOMCuqIkOX","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Talents/Sure Outcome.md","x":2555,"y":1141,"width":640,"height":420},
 		{"id":"K2GOgEk6ls5rsEzc","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Talents/Collected.md","x":2555,"y":1871,"width":640,"height":420},
@@ -26,7 +25,8 @@
 		{"id":"vfSCjnUQwvBLxHzB","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Cheap Shot.md","x":8395,"y":1141,"width":640,"height":420},
 		{"id":"qKJafrNWxnXBxNXo","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Surefooted.md","x":8395,"y":3331,"width":640,"height":420},
 		{"id":"LcUQdj52UPVXB8Yg","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Shadow Step.md","x":7665,"y":5521,"width":640,"height":420},
-		{"id":"VFzT258ZcCF25Gqu","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Tricksters Hand.md","x":9125,"y":5521,"width":640,"height":420}
+		{"id":"VFzT258ZcCF25Gqu","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Tricksters Hand.md","x":9125,"y":5521,"width":640,"height":420},
+		{"id":"banner","type":"file","background":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/agent.webp","backgroundStyle":"ratio","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/agent.webp","x":-260,"y":-260,"width":260,"height":260}
 	],
 	"edges":[
 		{"id":"edge0","fromNode":"wWdEUS6bqRKgvB7A","fromSide":"right","toNode":"CcxX2Kjy0hCrRGjm","toSide":"left"},

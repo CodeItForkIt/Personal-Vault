@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Agent Talents Talent Tree.canvas",
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Warrior Talents Talent Tree.canvas",
                 "viewState": {
-                  "x": 5632.996378042415,
-                  "y": 2361.655322861247,
-                  "zoom": -2.8198710130454914
+                  "x": 4517.083266441385,
+                  "y": 2424.58579132209,
+                  "zoom": -2.468059448153118
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Agent Talents Talent Tree"
+              "title": "Warrior Talents Talent Tree"
             }
           }
         ]
@@ -116,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Agent Talents Talent Tree.canvas",
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Warrior Talents Talent Tree.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Agent Talents Talent Tree"
+              "title": "Outgoing links from Warrior Talents Talent Tree"
             }
           },
           {
@@ -201,8 +201,15 @@
   },
   "active": "df84a608f0ea1482",
   "lastOpenFiles": [
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Envoy Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Scholar Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Leader Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Hunter Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Agent Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Minor Characters/Veth.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Minor Characters/Taszo-son-Clutio.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Minor Characters/Lilinum the Devastating One.md",
@@ -240,13 +247,6 @@
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 3",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Tension Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Cohesion Talents Talent Tree.canvas",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Transportation Talents Talent Tree.canvas",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transformation Talents/Transformation Talents Talent Tree.canvas",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Tension Talents/Tension Talents Talent Tree.canvas",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Progression Talents/Progression Talents Talent Tree.canvas",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Illumination Talents/Illumination Talents Talent Tree.canvas",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Gravitation Talents Talent Tree.canvas",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Division Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/attachments/wolf-howl-moon-forest-blue.webp",
     "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/attachments/wind-stream-blue-gray.webp",
     "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/attachments/wave-halt-stop.webp",
