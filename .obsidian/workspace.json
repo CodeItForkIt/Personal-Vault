@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Warrior Talents Talent Tree.canvas",
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Dustbringer Talents Talent Tree.canvas",
                 "viewState": {
-                  "x": 4517.083266441385,
-                  "y": 2424.58579132209,
-                  "zoom": -2.468059448153118
+                  "x": 1735.8000721649496,
+                  "y": 1436.2366391752587,
+                  "zoom": -2.1112378690561293
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Warrior Talents Talent Tree"
+              "title": "Dustbringer Talents Talent Tree"
             }
           }
         ]
@@ -116,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Warrior Talents Talent Tree.canvas",
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Dustbringer Talents Talent Tree.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Warrior Talents Talent Tree"
+              "title": "Outgoing links from Dustbringer Talents Talent Tree"
             }
           },
           {
@@ -201,7 +201,10 @@
   },
   "active": "df84a608f0ea1482",
   "lastOpenFiles": [
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Scholar.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Envoy Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Warrior Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Vigilant Stance.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Scholar Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Leader Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico Talent Tree.canvas",
@@ -236,7 +239,6 @@
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 6/Heth.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 6/Dymab.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 6/Cabsan.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 5/Yasiqqi.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Tension/Effects",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Singer/Fused",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various",
@@ -245,8 +247,6 @@
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 5",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 4",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 3",
-    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Tension Talents Talent Tree.canvas",
-    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Cohesion Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/attachments/wolf-howl-moon-forest-blue.webp",
     "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/attachments/wind-stream-blue-gray.webp",
     "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/attachments/wave-halt-stop.webp",

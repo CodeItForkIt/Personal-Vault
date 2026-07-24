@@ -105,45 +105,66 @@
   "edges": [
     {
       "id": "edge0",
-      "fromNode": "1Vmcgxo6yB5Ji3iM",
-      "fromSide": "right",
-      "toNode": "6RlkVvFXCcva7zb0",
-      "toSide": "left"
+      "fromNode": "tatqmtwgMfZbIG6q",
+      "fromSide": "bottom",
+      "toNode": "1Vmcgxo6yB5Ji3iM",
+      "toSide": "top"
     },
     {
       "id": "edge1",
-      "fromNode": "6RlkVvFXCcva7zb0",
-      "fromSide": "right",
-      "toNode": "CALJ8YcduAFHDTn5",
-      "toSide": "left"
+      "fromNode": "1Vmcgxo6yB5Ji3iM",
+      "fromSide": "bottom",
+      "toNode": "6RlkVvFXCcva7zb0",
+      "toSide": "top"
     },
     {
       "id": "edge2",
       "fromNode": "6RlkVvFXCcva7zb0",
-      "fromSide": "right",
-      "toNode": "ntZcQG6isNCIwfW7",
-      "toSide": "left"
+      "fromSide": "bottom",
+      "toNode": "CALJ8YcduAFHDTn5",
+      "toSide": "top"
     },
     {
       "id": "edge3",
-      "fromNode": "80wPODXHAgZi8FGN",
-      "fromSide": "right",
-      "toNode": "jBRYMlVBwPoquoOa",
-      "toSide": "left"
+      "fromNode": "6RlkVvFXCcva7zb0",
+      "fromSide": "bottom",
+      "toNode": "ntZcQG6isNCIwfW7",
+      "toSide": "top"
     },
     {
       "id": "edge4",
-      "fromNode": "Tus9tgf5QBp6xXju",
-      "fromSide": "right",
-      "toNode": "80wPODXHAgZi8FGN",
-      "toSide": "left"
+      "fromNode": "CALJ8YcduAFHDTn5",
+      "fromSide": "bottom",
+      "toNode": "jBRYMlVBwPoquoOa",
+      "toSide": "top"
     },
     {
       "id": "edge5",
+      "fromNode": "80wPODXHAgZi8FGN",
+      "fromSide": "bottom",
+      "toNode": "jBRYMlVBwPoquoOa",
+      "toSide": "top"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "tatqmtwgMfZbIG6q",
+      "fromSide": "bottom",
+      "toNode": "Tus9tgf5QBp6xXju",
+      "toSide": "top"
+    },
+    {
+      "id": "edge7",
+      "fromNode": "Tus9tgf5QBp6xXju",
+      "fromSide": "bottom",
+      "toNode": "80wPODXHAgZi8FGN",
+      "toSide": "top"
+    },
+    {
+      "id": "edge8",
       "fromNode": "6RlkVvFXCcva7zb0",
-      "fromSide": "right",
+      "fromSide": "bottom",
       "toNode": "kZMTpb0n96Mht8Lq",
-      "toSide": "left"
+      "toSide": "top"
     }
   ]
 }

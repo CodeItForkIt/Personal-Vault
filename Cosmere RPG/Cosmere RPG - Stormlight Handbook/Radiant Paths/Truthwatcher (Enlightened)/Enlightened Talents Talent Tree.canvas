@@ -70,37 +70,37 @@
     {
       "id": "edge0",
       "fromNode": "oww1F8Bzpvwl2S2J",
-      "fromSide": "right",
+      "fromSide": "bottom",
       "toNode": "vdwQDmCQAPTGPgEC",
-      "toSide": "left"
+      "toSide": "top"
     },
     {
       "id": "edge1",
       "fromNode": "oww1F8Bzpvwl2S2J",
-      "fromSide": "right",
+      "fromSide": "bottom",
       "toNode": "RcIcRzmHly946j6k",
-      "toSide": "left"
+      "toSide": "top"
     },
     {
       "id": "edge2",
       "fromNode": "vdwQDmCQAPTGPgEC",
-      "fromSide": "right",
+      "fromSide": "bottom",
       "toNode": "oUtUGMUfCg4pdyKV",
-      "toSide": "left"
+      "toSide": "top"
     },
     {
       "id": "edge3",
       "fromNode": "RcIcRzmHly946j6k",
-      "fromSide": "right",
+      "fromSide": "bottom",
       "toNode": "oUtUGMUfCg4pdyKV",
-      "toSide": "left"
+      "toSide": "top"
     },
     {
       "id": "edge4",
       "fromNode": "vdwQDmCQAPTGPgEC",
-      "fromSide": "right",
+      "fromSide": "bottom",
       "toNode": "1XeIxze3FLedzlUM",
-      "toSide": "left"
+      "toSide": "top"
     }
   ]
 }

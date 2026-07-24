@@ -87,44 +87,44 @@
     {
       "id": "edge0",
       "fromNode": "UW8gq05a42bjjNuR",
-      "fromSide": "right",
+      "fromSide": "bottom",
       "toNode": "FBfjnnhLN7zmAo00",
-      "toSide": "left"
+      "toSide": "top"
     },
     {
       "id": "edge1",
       "fromNode": "FBfjnnhLN7zmAo00",
-      "fromSide": "right",
+      "fromSide": "bottom",
       "toNode": "L1GN9FV1J6NsP5ni",
-      "toSide": "left"
+      "toSide": "top"
     },
     {
       "id": "edge2",
       "fromNode": "37mV8wH0ul5ahtvW",
-      "fromSide": "right",
+      "fromSide": "bottom",
       "toNode": "AOtH3DkHgfLY1kXy",
-      "toSide": "left"
+      "toSide": "top"
     },
     {
       "id": "edge3",
       "fromNode": "y6A13Qxtll3sHaEq",
-      "fromSide": "right",
+      "fromSide": "bottom",
       "toNode": "37mV8wH0ul5ahtvW",
-      "toSide": "left"
+      "toSide": "top"
     },
     {
       "id": "edge4",
       "fromNode": "37mV8wH0ul5ahtvW",
-      "fromSide": "right",
+      "fromSide": "bottom",
       "toNode": "GKVsDkf05cBDVoih",
-      "toSide": "left"
+      "toSide": "top"
     },
     {
       "id": "edge5",
       "fromNode": "37mV8wH0ul5ahtvW",
-      "fromSide": "right",
+      "fromSide": "bottom",
       "toNode": "hoNHgk2XeadasDWF",
-      "toSide": "left"
+      "toSide": "top"
     }
   ]
 }
