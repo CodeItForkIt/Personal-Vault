@@ -11,10 +11,17 @@
             "id": "df84a608f0ea1482",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Agent Talents Talent Tree.canvas",
+                "viewState": {
+                  "x": 10846.359999999999,
+                  "y": 15707.959999999972,
+                  "zoom": -4
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Agent Talents Talent Tree"
             }
           }
         ]
@@ -109,11 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Agent Talents Talent Tree.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Agent Talents Talent Tree"
             }
           },
           {

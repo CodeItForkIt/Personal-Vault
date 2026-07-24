@@ -1,376 +1,51 @@
 {
-  "nodes": [
-    {
-      "id": "background",
-      "type": "group",
-      "x": -220.0,
-      "y": -220.0,
-      "width": 23710.0,
-      "height": 23990.0,
-      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg076_path_Agent_STEVE PRESCOTT.webp",
-      "backgroundStyle": "cover"
-    },
-    {
-      "id": "UakPDM2aMunto5yy",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Opportunist.md",
-      "x": 5840.0,
-      "y": 0.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "wWdEUS6bqRKgvB7A",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Watchful Eye.md",
-      "x": 0.0,
-      "y": 17730.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "CcxX2Kjy0hCrRGjm",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Quick Analysis.md",
-      "x": 0.0,
-      "y": 18750.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "rkXhT3oHP4IJuNIl",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Gather Evidence.md",
-      "x": 0.0,
-      "y": 19770.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "zcQkOcCHYpLIGjUW",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Sleuths Instincts.md",
-      "x": 0.0,
-      "y": 20790.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "A5tc99JjtjafYg2n",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Get Em Talking.md",
-      "x": 2920.0,
-      "y": 17730.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "Vi7f5MiosecU6T6I",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Baleful.md",
-      "x": 2920.0,
-      "y": 18750.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "I9XMSYb4zQS6Jrlk",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Hardy.md",
-      "x": 2920.0,
-      "y": 19770.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "iDklxJACkOI8V6vw",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Close the Case.md",
-      "x": 2920.0,
-      "y": 20790.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "jLEigkNOMCuqIkOX",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Talents/Sure Outcome.md",
-      "x": 11680.0,
-      "y": 17730.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "K2GOgEk6ls5rsEzc",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Talents/Collected.md",
-      "x": 11680.0,
-      "y": 18750.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "Q5jHGYvoMNFx6b07",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Talents/Subtle Takedown.md",
-      "x": 11680.0,
-      "y": 19260.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "GjzPBBhAvtL9ymTI",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Talents/Mercurial Facade.md",
-      "x": 11680.0,
-      "y": 20790.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "B7kB7fMZw93GlJLI",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Talents/Plausible Excuse.md",
-      "x": 13870.0,
-      "y": 17730.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "zDEe0ak43nOlFOS2",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Talents/Cover Story.md",
-      "x": 13870.0,
-      "y": 18750.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "wcnHo4W1w0H21hIj",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Talents/Mighty.md",
-      "x": 13870.0,
-      "y": 20790.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "YncJWzujDMA2DkRS",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Talents/High Society Contacts.md",
-      "x": 14600.0,
-      "y": 20790.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "54SZAo3ap6sk457I",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Risky Behavior.md",
-      "x": 18980.0,
-      "y": 17730.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "tdegsJN4XRGNXv2N",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Double Down.md",
-      "x": 18980.0,
-      "y": 19920.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "Rcvh5GBG7WyZ7VvO",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Underworld Contacts.md",
-      "x": 17520.0,
-      "y": 23130.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "DOKhs5BqWoW0YICG",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Fast Talker.md",
-      "x": 19710.0,
-      "y": 23130.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "vfSCjnUQwvBLxHzB",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Cheap Shot.md",
-      "x": 21900.0,
-      "y": 17730.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "qKJafrNWxnXBxNXo",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Surefooted.md",
-      "x": 21900.0,
-      "y": 19920.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "LcUQdj52UPVXB8Yg",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Shadow Step.md",
-      "x": 20440.0,
-      "y": 23130.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "VFzT258ZcCF25Gqu",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Tricksters Hand.md",
-      "x": 22630.0,
-      "y": 23130.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "banner",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/agent.webp",
-      "x": 0.0,
-      "y": -300.0,
-      "width": 500,
-      "height": 260
-    }
-  ],
-  "edges": [
-    {
-      "id": "edge0",
-      "fromNode": "wWdEUS6bqRKgvB7A",
-      "fromSide": "right",
-      "toNode": "CcxX2Kjy0hCrRGjm",
-      "toSide": "left"
-    },
-    {
-      "id": "edge1",
-      "fromNode": "CcxX2Kjy0hCrRGjm",
-      "fromSide": "right",
-      "toNode": "rkXhT3oHP4IJuNIl",
-      "toSide": "left"
-    },
-    {
-      "id": "edge2",
-      "fromNode": "I9XMSYb4zQS6Jrlk",
-      "fromSide": "right",
-      "toNode": "zcQkOcCHYpLIGjUW",
-      "toSide": "left"
-    },
-    {
-      "id": "edge3",
-      "fromNode": "A5tc99JjtjafYg2n",
-      "fromSide": "right",
-      "toNode": "Vi7f5MiosecU6T6I",
-      "toSide": "left"
-    },
-    {
-      "id": "edge4",
-      "fromNode": "Vi7f5MiosecU6T6I",
-      "fromSide": "right",
-      "toNode": "I9XMSYb4zQS6Jrlk",
-      "toSide": "left"
-    },
-    {
-      "id": "edge5",
-      "fromNode": "I9XMSYb4zQS6Jrlk",
-      "fromSide": "right",
-      "toNode": "iDklxJACkOI8V6vw",
-      "toSide": "left"
-    },
-    {
-      "id": "edge6",
-      "fromNode": "jLEigkNOMCuqIkOX",
-      "fromSide": "right",
-      "toNode": "K2GOgEk6ls5rsEzc",
-      "toSide": "left"
-    },
-    {
-      "id": "edge7",
-      "fromNode": "zDEe0ak43nOlFOS2",
-      "fromSide": "right",
-      "toNode": "Q5jHGYvoMNFx6b07",
-      "toSide": "left"
-    },
-    {
-      "id": "edge8",
-      "fromNode": "Q5jHGYvoMNFx6b07",
-      "fromSide": "right",
-      "toNode": "GjzPBBhAvtL9ymTI",
-      "toSide": "left"
-    },
-    {
-      "id": "edge9",
-      "fromNode": "B7kB7fMZw93GlJLI",
-      "fromSide": "right",
-      "toNode": "zDEe0ak43nOlFOS2",
-      "toSide": "left"
-    },
-    {
-      "id": "edge10",
-      "fromNode": "zDEe0ak43nOlFOS2",
-      "fromSide": "right",
-      "toNode": "wcnHo4W1w0H21hIj",
-      "toSide": "left"
-    },
-    {
-      "id": "edge11",
-      "fromNode": "zDEe0ak43nOlFOS2",
-      "fromSide": "right",
-      "toNode": "YncJWzujDMA2DkRS",
-      "toSide": "left"
-    },
-    {
-      "id": "edge12",
-      "fromNode": "54SZAo3ap6sk457I",
-      "fromSide": "right",
-      "toNode": "tdegsJN4XRGNXv2N",
-      "toSide": "left"
-    },
-    {
-      "id": "edge13",
-      "fromNode": "tdegsJN4XRGNXv2N",
-      "fromSide": "right",
-      "toNode": "Rcvh5GBG7WyZ7VvO",
-      "toSide": "left"
-    },
-    {
-      "id": "edge14",
-      "fromNode": "tdegsJN4XRGNXv2N",
-      "fromSide": "right",
-      "toNode": "DOKhs5BqWoW0YICG",
-      "toSide": "left"
-    },
-    {
-      "id": "edge15",
-      "fromNode": "vfSCjnUQwvBLxHzB",
-      "fromSide": "right",
-      "toNode": "qKJafrNWxnXBxNXo",
-      "toSide": "left"
-    },
-    {
-      "id": "edge16",
-      "fromNode": "qKJafrNWxnXBxNXo",
-      "fromSide": "right",
-      "toNode": "LcUQdj52UPVXB8Yg",
-      "toSide": "left"
-    },
-    {
-      "id": "edge17",
-      "fromNode": "qKJafrNWxnXBxNXo",
-      "fromSide": "right",
-      "toNode": "VFzT258ZcCF25Gqu",
-      "toSide": "left"
-    }
-  ]
+	"nodes":[
+		{"id":"background","type":"group","backgroundStyle":"cover","x":-220,"y":-220,"width":23710,"height":23990,"background":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg076_path_Agent_STEVE PRESCOTT.webp"},
+		{"id":"wWdEUS6bqRKgvB7A","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Watchful Eye.md","x":0,"y":17730,"width":640,"height":420},
+		{"id":"CcxX2Kjy0hCrRGjm","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Quick Analysis.md","x":0,"y":18750,"width":640,"height":420},
+		{"id":"Vi7f5MiosecU6T6I","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Baleful.md","x":2920,"y":18750,"width":640,"height":420},
+		{"id":"K2GOgEk6ls5rsEzc","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Talents/Collected.md","x":11680,"y":18750,"width":640,"height":420},
+		{"id":"Q5jHGYvoMNFx6b07","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Talents/Subtle Takedown.md","x":11680,"y":19260,"width":640,"height":420},
+		{"id":"B7kB7fMZw93GlJLI","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Talents/Plausible Excuse.md","x":13870,"y":17730,"width":640,"height":420},
+		{"id":"zDEe0ak43nOlFOS2","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Talents/Cover Story.md","x":13870,"y":18750,"width":640,"height":420},
+		{"id":"54SZAo3ap6sk457I","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Risky Behavior.md","x":18980,"y":17730,"width":640,"height":420},
+		{"id":"vfSCjnUQwvBLxHzB","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Cheap Shot.md","x":21900,"y":17730,"width":640,"height":420},
+		{"id":"A5tc99JjtjafYg2n","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Get Em Talking.md","x":2920,"y":17730,"width":640,"height":420},
+		{"id":"jLEigkNOMCuqIkOX","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Talents/Sure Outcome.md","x":11680,"y":17730,"width":640,"height":420},
+		{"id":"rkXhT3oHP4IJuNIl","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Gather Evidence.md","x":0,"y":19770,"width":640,"height":420},
+		{"id":"I9XMSYb4zQS6Jrlk","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Hardy.md","x":2920,"y":19770,"width":640,"height":420},
+		{"id":"tdegsJN4XRGNXv2N","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Double Down.md","x":18980,"y":19920,"width":640,"height":420},
+		{"id":"qKJafrNWxnXBxNXo","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Surefooted.md","x":21900,"y":19920,"width":640,"height":420},
+		{"id":"zcQkOcCHYpLIGjUW","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Sleuths Instincts.md","x":0,"y":20790,"width":640,"height":420},
+		{"id":"iDklxJACkOI8V6vw","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Close the Case.md","x":2920,"y":20790,"width":640,"height":420},
+		{"id":"GjzPBBhAvtL9ymTI","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Talents/Mercurial Facade.md","x":11680,"y":20790,"width":640,"height":420},
+		{"id":"wcnHo4W1w0H21hIj","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Talents/Mighty.md","x":13870,"y":20790,"width":640,"height":420},
+		{"id":"YncJWzujDMA2DkRS","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy/Talents/High Society Contacts.md","x":14600,"y":20790,"width":640,"height":420},
+		{"id":"Rcvh5GBG7WyZ7VvO","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Underworld Contacts.md","x":17520,"y":23130,"width":640,"height":420},
+		{"id":"DOKhs5BqWoW0YICG","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Fast Talker.md","x":19710,"y":23130,"width":640,"height":420},
+		{"id":"LcUQdj52UPVXB8Yg","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Shadow Step.md","x":20440,"y":23130,"width":640,"height":420},
+		{"id":"VFzT258ZcCF25Gqu","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Tricksters Hand.md","x":22630,"y":23130,"width":640,"height":420},
+		{"id":"UakPDM2aMunto5yy","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Opportunist.md","x":5840,"y":0,"width":640,"height":420},
+		{"id":"banner","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/agent.webp","x":0,"y":-300,"width":260,"height":260}
+	],
+	"edges":[
+		{"id":"edge0","fromNode":"wWdEUS6bqRKgvB7A","fromSide":"right","toNode":"CcxX2Kjy0hCrRGjm","toSide":"left"},
+		{"id":"edge1","fromNode":"CcxX2Kjy0hCrRGjm","fromSide":"right","toNode":"rkXhT3oHP4IJuNIl","toSide":"left"},
+		{"id":"edge2","fromNode":"I9XMSYb4zQS6Jrlk","fromSide":"right","toNode":"zcQkOcCHYpLIGjUW","toSide":"left"},
+		{"id":"edge3","fromNode":"A5tc99JjtjafYg2n","fromSide":"right","toNode":"Vi7f5MiosecU6T6I","toSide":"left"},
+		{"id":"edge4","fromNode":"Vi7f5MiosecU6T6I","fromSide":"right","toNode":"I9XMSYb4zQS6Jrlk","toSide":"left"},
+		{"id":"edge5","fromNode":"I9XMSYb4zQS6Jrlk","fromSide":"right","toNode":"iDklxJACkOI8V6vw","toSide":"left"},
+		{"id":"edge6","fromNode":"jLEigkNOMCuqIkOX","fromSide":"right","toNode":"K2GOgEk6ls5rsEzc","toSide":"left"},
+		{"id":"edge7","fromNode":"zDEe0ak43nOlFOS2","fromSide":"right","toNode":"Q5jHGYvoMNFx6b07","toSide":"left"},
+		{"id":"edge8","fromNode":"Q5jHGYvoMNFx6b07","fromSide":"right","toNode":"GjzPBBhAvtL9ymTI","toSide":"left"},
+		{"id":"edge9","fromNode":"B7kB7fMZw93GlJLI","fromSide":"right","toNode":"zDEe0ak43nOlFOS2","toSide":"left"},
+		{"id":"edge10","fromNode":"zDEe0ak43nOlFOS2","fromSide":"right","toNode":"wcnHo4W1w0H21hIj","toSide":"left"},
+		{"id":"edge11","fromNode":"zDEe0ak43nOlFOS2","fromSide":"right","toNode":"YncJWzujDMA2DkRS","toSide":"left"},
+		{"id":"edge12","fromNode":"54SZAo3ap6sk457I","fromSide":"right","toNode":"tdegsJN4XRGNXv2N","toSide":"left"},
+		{"id":"edge13","fromNode":"tdegsJN4XRGNXv2N","fromSide":"right","toNode":"Rcvh5GBG7WyZ7VvO","toSide":"left"},
+		{"id":"edge14","fromNode":"tdegsJN4XRGNXv2N","fromSide":"right","toNode":"DOKhs5BqWoW0YICG","toSide":"left"},
+		{"id":"edge15","fromNode":"vfSCjnUQwvBLxHzB","fromSide":"right","toNode":"qKJafrNWxnXBxNXo","toSide":"left"},
+		{"id":"edge16","fromNode":"qKJafrNWxnXBxNXo","fromSide":"right","toNode":"LcUQdj52UPVXB8Yg","toSide":"left"},
+		{"id":"edge17","fromNode":"qKJafrNWxnXBxNXo","fromSide":"right","toNode":"VFzT258ZcCF25Gqu","toSide":"left"}
+	]
 }
