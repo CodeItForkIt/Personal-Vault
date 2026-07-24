@@ -11,17 +11,10 @@
             "id": "df84a608f0ea1482",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Agent Talents Talent Tree.canvas",
-                "viewState": {
-                  "x": 8524.772369688702,
-                  "y": 6260.072508462941,
-                  "zoom": -1.3833333333333309
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Agent Talents Talent Tree"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -116,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Opportunist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Opportunist"
+              "title": "Outgoing links"
             }
           },
           {
@@ -194,16 +186,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "pseudo-mica:Change vibrancy": false,
-      "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "df84a608f0ea1482",
   "lastOpenFiles": [
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Agent Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Dustbringer Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Dustbringer.md",
     "Clippings/17th Shard/Characters/Szeth - The Coppermind.md",
@@ -249,7 +239,6 @@
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Illumination Talents/Illumination Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Gravitation Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Division Talents Talent Tree.canvas",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Cohesion Talents/Cohesion Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/attachments/wolf-howl-moon-forest-blue.webp",
     "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/attachments/wind-stream-blue-gray.webp",
     "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/attachments/wave-halt-stop.webp",
