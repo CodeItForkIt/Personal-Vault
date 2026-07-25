@@ -1,130 +1,21 @@
 {
-  "nodes": [
-    {
-      "id": "YNVO9ufOtAFTSH6K",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Composed.md",
-      "x": 0.0,
-      "y": 0.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "ALRaWDocUYf7XRkX",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Well-Supplied.md",
-      "x": 0.0,
-      "y": 730.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "iQAGYb2kCUuMUQ9G",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Through the Fray.md",
-      "x": 1095.0,
-      "y": 0.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "vHyGYEBpIc37hlfy",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Customary Garb.md",
-      "x": 1095.0,
-      "y": 730.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "UdXcLsM5KueeUiLL",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Confident Command.md",
-      "x": 0.0,
-      "y": 1460.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "PjpzsZPqTHVnUhLy",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Relentless March.md",
-      "x": 0.0,
-      "y": 2555.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "amKUzDN6m9vr0I9A",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Authority.md",
-      "x": 1095.0,
-      "y": 1970.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "qg1KIjUOAkjZ7tu1",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Synchronized Assault.md",
-      "x": 1095.0,
-      "y": 2555.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "banner",
-      "type": "group",
-      "x": 0.0,
-      "y": -300.0,
-      "width": 500,
-      "height": 260,
-      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/spearfighter.webp",
-      "backgroundStyle": "ratio"
-    }
-  ],
-  "edges": [
-    {
-      "id": "edge0",
-      "fromNode": "YNVO9ufOtAFTSH6K",
-      "fromSide": "bottom",
-      "toNode": "ALRaWDocUYf7XRkX",
-      "toSide": "top"
-    },
-    {
-      "id": "edge1",
-      "fromNode": "iQAGYb2kCUuMUQ9G",
-      "fromSide": "bottom",
-      "toNode": "vHyGYEBpIc37hlfy",
-      "toSide": "top"
-    },
-    {
-      "id": "edge2",
-      "fromNode": "vHyGYEBpIc37hlfy",
-      "fromSide": "bottom",
-      "toNode": "UdXcLsM5KueeUiLL",
-      "toSide": "top"
-    },
-    {
-      "id": "edge3",
-      "fromNode": "UdXcLsM5KueeUiLL",
-      "fromSide": "bottom",
-      "toNode": "PjpzsZPqTHVnUhLy",
-      "toSide": "top"
-    },
-    {
-      "id": "edge4",
-      "fromNode": "UdXcLsM5KueeUiLL",
-      "fromSide": "bottom",
-      "toNode": "amKUzDN6m9vr0I9A",
-      "toSide": "top"
-    },
-    {
-      "id": "edge5",
-      "fromNode": "amKUzDN6m9vr0I9A",
-      "fromSide": "bottom",
-      "toNode": "qg1KIjUOAkjZ7tu1",
-      "toSide": "top"
-    }
-  ]
+	"nodes":[
+		{"id":"banner","type":"group","backgroundStyle":"ratio","x":0,"y":-300,"width":260,"height":260,"background":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/spearfighter.webp"},
+		{"id":"YNVO9ufOtAFTSH6K","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Composed.md","x":0,"y":0,"width":640,"height":420},
+		{"id":"ALRaWDocUYf7XRkX","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Well-Supplied.md","x":0,"y":730,"width":640,"height":420},
+		{"id":"iQAGYb2kCUuMUQ9G","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Through the Fray.md","x":1095,"y":0,"width":640,"height":420},
+		{"id":"vHyGYEBpIc37hlfy","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Customary Garb.md","x":1095,"y":730,"width":640,"height":420},
+		{"id":"UdXcLsM5KueeUiLL","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Confident Command.md","x":0,"y":1460,"width":640,"height":420},
+		{"id":"PjpzsZPqTHVnUhLy","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Relentless March.md","x":0,"y":2555,"width":640,"height":420},
+		{"id":"amKUzDN6m9vr0I9A","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Authority.md","x":1095,"y":1970,"width":640,"height":420},
+		{"id":"qg1KIjUOAkjZ7tu1","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Synchronized Assault.md","x":1095,"y":2555,"width":640,"height":420}
+	],
+	"edges":[
+		{"id":"edge0","fromNode":"YNVO9ufOtAFTSH6K","fromSide":"bottom","toNode":"ALRaWDocUYf7XRkX","toSide":"top"},
+		{"id":"edge1","fromNode":"iQAGYb2kCUuMUQ9G","fromSide":"bottom","toNode":"vHyGYEBpIc37hlfy","toSide":"top"},
+		{"id":"edge2","fromNode":"vHyGYEBpIc37hlfy","fromSide":"bottom","toNode":"UdXcLsM5KueeUiLL","toSide":"top"},
+		{"id":"edge3","fromNode":"UdXcLsM5KueeUiLL","fromSide":"bottom","toNode":"PjpzsZPqTHVnUhLy","toSide":"top"},
+		{"id":"edge4","fromNode":"UdXcLsM5KueeUiLL","fromSide":"bottom","toNode":"amKUzDN6m9vr0I9A","toSide":"top"},
+		{"id":"edge5","fromNode":"amKUzDN6m9vr0I9A","fromSide":"bottom","toNode":"qg1KIjUOAkjZ7tu1","toSide":"top"}
+	]
 }

@@ -1,130 +1,21 @@
 {
-  "nodes": [
-    {
-      "id": "fM8xFw0iClC4vOy5",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Tagging Shot.md",
-      "x": 0.0,
-      "y": 0.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "S3P7OCHdbbc0bSNp",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Combat Training.md",
-      "x": 1460.0,
-      "y": 0.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "zeIIvtQJXivFQFBk",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Exploit Weakness.md",
-      "x": 0.0,
-      "y": 1460.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "4T1oysAm7BceuMoh",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Sharp Eye.md",
-      "x": 0.0,
-      "y": 730.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "JCrK3vqt5CI9mDm6",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Steady Aim.md",
-      "x": 1460.0,
-      "y": 730.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "eSI9CoNC5rkjbh7C",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Hardy.md",
-      "x": 730.0,
-      "y": 1460.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "tYVocxBrDNO8LK8Z",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Unrelenting Salvo.md",
-      "x": 0.0,
-      "y": 2190.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "EvvJ59y4sgxalzTV",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Backstep.md",
-      "x": 1460.0,
-      "y": 2190.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "banner",
-      "type": "group",
-      "x": 0.0,
-      "y": -300.0,
-      "width": 500,
-      "height": 260,
-      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/archer.webp",
-      "backgroundStyle": "ratio"
-    }
-  ],
-  "edges": [
-    {
-      "id": "edge0",
-      "fromNode": "4T1oysAm7BceuMoh",
-      "fromSide": "bottom",
-      "toNode": "zeIIvtQJXivFQFBk",
-      "toSide": "top"
-    },
-    {
-      "id": "edge1",
-      "fromNode": "fM8xFw0iClC4vOy5",
-      "fromSide": "bottom",
-      "toNode": "4T1oysAm7BceuMoh",
-      "toSide": "top"
-    },
-    {
-      "id": "edge2",
-      "fromNode": "S3P7OCHdbbc0bSNp",
-      "fromSide": "bottom",
-      "toNode": "JCrK3vqt5CI9mDm6",
-      "toSide": "top"
-    },
-    {
-      "id": "edge3",
-      "fromNode": "JCrK3vqt5CI9mDm6",
-      "fromSide": "bottom",
-      "toNode": "eSI9CoNC5rkjbh7C",
-      "toSide": "top"
-    },
-    {
-      "id": "edge4",
-      "fromNode": "eSI9CoNC5rkjbh7C",
-      "fromSide": "bottom",
-      "toNode": "tYVocxBrDNO8LK8Z",
-      "toSide": "top"
-    },
-    {
-      "id": "edge5",
-      "fromNode": "JCrK3vqt5CI9mDm6",
-      "fromSide": "bottom",
-      "toNode": "EvvJ59y4sgxalzTV",
-      "toSide": "top"
-    }
-  ]
+	"nodes":[
+		{"id":"banner","type":"group","backgroundStyle":"ratio","x":0,"y":-300,"width":260,"height":260,"background":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/archer.webp"},
+		{"id":"fM8xFw0iClC4vOy5","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Tagging Shot.md","x":0,"y":0,"width":640,"height":420},
+		{"id":"S3P7OCHdbbc0bSNp","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Combat Training.md","x":1460,"y":0,"width":640,"height":420},
+		{"id":"zeIIvtQJXivFQFBk","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Exploit Weakness.md","x":0,"y":1460,"width":640,"height":420},
+		{"id":"4T1oysAm7BceuMoh","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Sharp Eye.md","x":0,"y":730,"width":640,"height":420},
+		{"id":"JCrK3vqt5CI9mDm6","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Steady Aim.md","x":1460,"y":730,"width":640,"height":420},
+		{"id":"eSI9CoNC5rkjbh7C","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Hardy.md","x":730,"y":1460,"width":640,"height":420},
+		{"id":"tYVocxBrDNO8LK8Z","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Unrelenting Salvo.md","x":0,"y":2190,"width":640,"height":420},
+		{"id":"EvvJ59y4sgxalzTV","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer/Talents/Backstep.md","x":1460,"y":2190,"width":640,"height":420}
+	],
+	"edges":[
+		{"id":"edge0","fromNode":"4T1oysAm7BceuMoh","fromSide":"bottom","toNode":"zeIIvtQJXivFQFBk","toSide":"top"},
+		{"id":"edge1","fromNode":"fM8xFw0iClC4vOy5","fromSide":"bottom","toNode":"4T1oysAm7BceuMoh","toSide":"top"},
+		{"id":"edge2","fromNode":"S3P7OCHdbbc0bSNp","fromSide":"bottom","toNode":"JCrK3vqt5CI9mDm6","toSide":"top"},
+		{"id":"edge3","fromNode":"JCrK3vqt5CI9mDm6","fromSide":"bottom","toNode":"eSI9CoNC5rkjbh7C","toSide":"top"},
+		{"id":"edge4","fromNode":"eSI9CoNC5rkjbh7C","fromSide":"bottom","toNode":"tYVocxBrDNO8LK8Z","toSide":"top"},
+		{"id":"edge5","fromNode":"JCrK3vqt5CI9mDm6","fromSide":"bottom","toNode":"EvvJ59y4sgxalzTV","toSide":"top"}
+	]
 }
