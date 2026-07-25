@@ -3,10 +3,10 @@
     {
       "id": "background",
       "type": "group",
-      "x": -220,
-      "y": -220,
-      "width": 4000.0,
-      "height": 3730.0,
+      "x": -220.0,
+      "y": -220.0,
+      "width": 9266.428571428572,
+      "height": 6260.0,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg184_path_Truthwatcher_SONDERFLEX STUDIOS.webp",
       "backgroundStyle": "ratio"
     },
@@ -14,8 +14,8 @@
       "id": "AuTSqoLwPDowKl71",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/First Ideal Truthwatcher.md",
-      "x": 0,
-      "y": 0,
+      "x": 5266.428571428572,
+      "y": 0.0,
       "width": 640,
       "height": 420
     },
@@ -23,8 +23,8 @@
       "id": "ROSzBWLySR66WHeY",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Spiritual Healing.md",
-      "x": 2920.0,
-      "y": 900.0,
+      "x": 8186.428571428572,
+      "y": 3430.0,
       "width": 640,
       "height": 420
     },
@@ -32,8 +32,8 @@
       "id": "iiqfCwijaW1nyyQQ",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Invested.md",
-      "x": 2920.0,
-      "y": 1630.0,
+      "x": 8186.428571428572,
+      "y": 4160.0,
       "width": 640,
       "height": 420
     },
@@ -41,8 +41,8 @@
       "id": "KLXsiA6aDMO74eRn",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Wound Regeneration.md",
-      "x": 2920.0,
-      "y": 2360.0,
+      "x": 8186.428571428572,
+      "y": 4890.0,
       "width": 640,
       "height": 420
     },
@@ -50,8 +50,8 @@
       "id": "zKBRxPTNxx3wjrJa",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Take Squire Truthwatcher.md",
-      "x": 2190.0,
-      "y": 2360.0,
+      "x": 7456.428571428572,
+      "y": 4890.0,
       "width": 640,
       "height": 420
     },
@@ -59,8 +59,8 @@
       "id": "KVM53TXkWon2i81b",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Third Ideal Truthwatcher.md",
-      "x": 1460.0,
-      "y": 1630.0,
+      "x": 6726.428571428572,
+      "y": 4160.0,
       "width": 640,
       "height": 420
     },
@@ -68,8 +68,8 @@
       "id": "gabJKxi0dSlsgnbj",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Deepened Bond.md",
-      "x": 730.0,
-      "y": 2360.0,
+      "x": 5996.428571428572,
+      "y": 4890.0,
       "width": 640,
       "height": 420
     },
@@ -77,8 +77,8 @@
       "id": "o1Ss0ZxI5vvbCtrL",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Fourth Ideal Truthwatcher.md",
-      "x": 1460.0,
-      "y": 2870.0,
+      "x": 6726.428571428572,
+      "y": 5400.0,
       "width": 640,
       "height": 420
     },
@@ -86,16 +86,160 @@
       "id": "3lp1bh8MIB9DfHjD",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Second Ideal Truthwatcher.md",
-      "x": 1460.0,
-      "y": 900.0,
+      "x": 6726.428571428572,
+      "y": 3430.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "qKvavvyfZYLOmbC9",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Illumination Talents/Lingering Lightweavings.md",
+      "x": 1314.0,
+      "y": 730.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "OStKIgsNjfmK9imu",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Illumination Talents/Distracting Illusion.md",
+      "x": 0.0,
+      "y": 730.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "1CabKL7uTNP8q5QF",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Illumination Talents/Disorienting Flash.md",
+      "x": 0.0,
+      "y": 1460.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "laSVMP5jxHgGkMT7",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Illumination Talents/Spiritual Illumination.md",
+      "x": 0.0,
+      "y": 2190.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "PJMq2UP2YJdIaEhA",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Illumination Talents/Painful Truth.md",
+      "x": 0.0,
+      "y": 2920.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "wvk3AwKcwC7cpCDb",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Illumination Talents/Stormlight Reclamation.md",
+      "x": 1314.0,
+      "y": 1460.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "9c0cQsnPieil49Jc",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Illumination Talents/Multiplicative Lightweaving.md",
+      "x": 1314.0,
+      "y": 2190.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "oi696swaiwif6W06",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Illumination Talents/Endless Illusions.md",
+      "x": 1314.0,
+      "y": 2920.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "e6R5nW7zcgZtW2pX",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Progression Talents/Injury Regrowth.md",
+      "x": 3295.428571428572,
+      "y": 730.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "h41LsOz73GutMMne",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Progression Talents/Explosive Growth.md",
+      "x": 4536.428571428572,
+      "y": 730.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "GdFN7iqx74wFCFk4",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Progression Talents/Swift Regeneration.md",
+      "x": 3295.428571428572,
+      "y": 1460.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "oaVA5RLm9g8SkGX3",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Progression Talents/Overgrowth.md",
+      "x": 4536.428571428572,
+      "y": 1460.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "0RFp4nS4Vieg5Pmi",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Progression Talents/Reliable Progression.md",
+      "x": 4536.428571428572,
+      "y": 2190.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "JhVdNVc8iabpoK5g",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Progression Talents/Extended Regrowth.md",
+      "x": 3295.428571428572,
+      "y": 2190.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "nkEHrBY6MHdvlt0X",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Progression Talents/From the Brink.md",
+      "x": 3295.428571428572,
+      "y": 2920.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "kpM28tlQ7dMeGRcc",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Progression Talents/Font of Life.md",
+      "x": 4536.428571428572,
+      "y": 2920.0,
       "width": 640,
       "height": 420
     },
     {
       "id": "banner",
       "type": "group",
-      "x": 0,
-      "y": -300,
+      "x": 0.0,
+      "y": -300.0,
       "width": 500,
       "height": 260,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg180_path_banner_Truthwatcher.webp",
@@ -157,6 +301,132 @@
       "fromNode": "AuTSqoLwPDowKl71",
       "fromSide": "bottom",
       "toNode": "3lp1bh8MIB9DfHjD",
+      "toSide": "top"
+    },
+    {
+      "id": "edge8",
+      "fromNode": "AuTSqoLwPDowKl71",
+      "fromSide": "bottom",
+      "toNode": "qKvavvyfZYLOmbC9",
+      "toSide": "top"
+    },
+    {
+      "id": "edge9",
+      "fromNode": "AuTSqoLwPDowKl71",
+      "fromSide": "bottom",
+      "toNode": "OStKIgsNjfmK9imu",
+      "toSide": "top"
+    },
+    {
+      "id": "edge10",
+      "fromNode": "OStKIgsNjfmK9imu",
+      "fromSide": "bottom",
+      "toNode": "1CabKL7uTNP8q5QF",
+      "toSide": "top"
+    },
+    {
+      "id": "edge11",
+      "fromNode": "1CabKL7uTNP8q5QF",
+      "fromSide": "bottom",
+      "toNode": "laSVMP5jxHgGkMT7",
+      "toSide": "top"
+    },
+    {
+      "id": "edge12",
+      "fromNode": "laSVMP5jxHgGkMT7",
+      "fromSide": "bottom",
+      "toNode": "PJMq2UP2YJdIaEhA",
+      "toSide": "top"
+    },
+    {
+      "id": "edge13",
+      "fromNode": "OStKIgsNjfmK9imu",
+      "fromSide": "bottom",
+      "toNode": "wvk3AwKcwC7cpCDb",
+      "toSide": "top"
+    },
+    {
+      "id": "edge14",
+      "fromNode": "wvk3AwKcwC7cpCDb",
+      "fromSide": "bottom",
+      "toNode": "9c0cQsnPieil49Jc",
+      "toSide": "top"
+    },
+    {
+      "id": "edge15",
+      "fromNode": "laSVMP5jxHgGkMT7",
+      "fromSide": "bottom",
+      "toNode": "oi696swaiwif6W06",
+      "toSide": "top"
+    },
+    {
+      "id": "edge16",
+      "fromNode": "9c0cQsnPieil49Jc",
+      "fromSide": "bottom",
+      "toNode": "oi696swaiwif6W06",
+      "toSide": "top"
+    },
+    {
+      "id": "edge17",
+      "fromNode": "AuTSqoLwPDowKl71",
+      "fromSide": "bottom",
+      "toNode": "e6R5nW7zcgZtW2pX",
+      "toSide": "top"
+    },
+    {
+      "id": "edge18",
+      "fromNode": "AuTSqoLwPDowKl71",
+      "fromSide": "bottom",
+      "toNode": "h41LsOz73GutMMne",
+      "toSide": "top"
+    },
+    {
+      "id": "edge19",
+      "fromNode": "e6R5nW7zcgZtW2pX",
+      "fromSide": "bottom",
+      "toNode": "GdFN7iqx74wFCFk4",
+      "toSide": "top"
+    },
+    {
+      "id": "edge20",
+      "fromNode": "h41LsOz73GutMMne",
+      "fromSide": "bottom",
+      "toNode": "oaVA5RLm9g8SkGX3",
+      "toSide": "top"
+    },
+    {
+      "id": "edge21",
+      "fromNode": "oaVA5RLm9g8SkGX3",
+      "fromSide": "bottom",
+      "toNode": "0RFp4nS4Vieg5Pmi",
+      "toSide": "top"
+    },
+    {
+      "id": "edge22",
+      "fromNode": "GdFN7iqx74wFCFk4",
+      "fromSide": "bottom",
+      "toNode": "JhVdNVc8iabpoK5g",
+      "toSide": "top"
+    },
+    {
+      "id": "edge23",
+      "fromNode": "JhVdNVc8iabpoK5g",
+      "fromSide": "bottom",
+      "toNode": "nkEHrBY6MHdvlt0X",
+      "toSide": "top"
+    },
+    {
+      "id": "edge24",
+      "fromNode": "JhVdNVc8iabpoK5g",
+      "fromSide": "bottom",
+      "toNode": "kpM28tlQ7dMeGRcc",
+      "toSide": "top"
+    },
+    {
+      "id": "edge25",
+      "fromNode": "0RFp4nS4Vieg5Pmi",
+      "fromSide": "bottom",
+      "toNode": "kpM28tlQ7dMeGRcc",
       "toSide": "top"
     }
   ]

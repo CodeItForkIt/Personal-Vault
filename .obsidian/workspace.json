@@ -13,15 +13,32 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Dustbringer Talents Talent Tree.canvas",
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Ashspren Bond Talent Tree.canvas",
                 "viewState": {
-                  "x": 1735.8000721649496,
-                  "y": 1436.2366391752587,
-                  "zoom": -2.1112378690561293
+                  "x": 1415,
+                  "y": 1045,
+                  "zoom": -1.6090530441194317
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Dustbringer Talents Talent Tree"
+              "title": "Ashspren Bond Talent Tree"
+            }
+          },
+          {
+            "id": "a60021815e0d7c65",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Division Talents Talent Tree.canvas",
+                "viewState": {
+                  "x": 867.5,
+                  "y": 1265,
+                  "zoom": -1.827609528495426
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Division Talents Talent Tree"
             }
           }
         ]
@@ -116,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Dustbringer Talents Talent Tree.canvas",
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Ashspren Bond Talent Tree.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dustbringer Talents Talent Tree"
+              "title": "Outgoing links from Ashspren Bond Talent Tree"
             }
           },
           {
@@ -201,6 +218,24 @@
   },
   "active": "df84a608f0ea1482",
   "lastOpenFiles": [
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Dustbringer Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Division Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Abrasion Talents/Abrasion Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Home.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Adversaries/Uncategorized/Magnified One Rival Variant.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Adversaries/Uncategorized/Heavy Shardbearer.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/attachments/portrait_Ezriah.webp",
+    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/attachments/map-1_varikev-market-square.webp",
+    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/attachments/ICON_shield_spiked.webp",
+    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/attachments/ICON_lance_raysium.webp",
+    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/attachments/ICON_honorblade_jezrien.webp",
+    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/attachments/ICON_ballista_hand.webp",
+    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/attachments/Ezriah_VALERIA CASALE.webp",
+    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Items/Weapons of Wind and Truth/Spiked Shield.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Items/Weapons of Wind and Truth/Raysium Lance.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Items/Weapons of Wind and Truth/Hand Ballista.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Items/Uncategorized/Jezriens Honorblade.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Journal/01 - The Recruit.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Scholar.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Envoy Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Warrior Talents Talent Tree.canvas",
@@ -211,8 +246,6 @@
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Hunter Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief Talent Tree.canvas",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Agent Talents Talent Tree.canvas",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Spy Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Minor Characters/Veth.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Minor Characters/Taszo-son-Clutio.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Minor Characters/Lilinum the Devastating One.md",
@@ -230,15 +263,6 @@
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Notable Characters",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Minor Characters",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 7/Tyche.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 7/Ryel.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 7/Rit-daughter-Clutio.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 6/Yana.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 6/Teba.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 6/Shull.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 6/Nanath.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 6/Heth.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 6/Dymab.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 6/Cabsan.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Tension/Effects",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Singer/Fused",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various",
@@ -249,13 +273,6 @@
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Ch. 3",
     "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/attachments/wolf-howl-moon-forest-blue.webp",
     "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/attachments/wind-stream-blue-gray.webp",
-    "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/attachments/wave-halt-stop.webp",
-    "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/attachments/unarmed-punch-fist-blue.webp",
-    "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/attachments/trail-streak-pink.webp",
-    "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/attachments/thumbsup-approval-like.webp",
-    "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/attachments/theft-pickpocket-bribery-brown.webp",
-    "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/attachments/terrain-rocks-brown.webp",
-    "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/attachments/tail-strike-bone-orange.webp",
-    "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/attachments/swords-triple-orange.webp"
+    "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/attachments/wave-halt-stop.webp"
   ]
 }

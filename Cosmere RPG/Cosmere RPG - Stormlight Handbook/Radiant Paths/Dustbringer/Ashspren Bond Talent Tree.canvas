@@ -1,130 +1,21 @@
 {
-  "nodes": [
-    {
-      "id": "XS4DGIGMbPfhl5Vt",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Second Ideal Dustbringer.md",
-      "x": 730.0,
-      "y": 0.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "b13Sb2NznQguSW4y",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Third Ideal Dustbringer.md",
-      "x": 730.0,
-      "y": 729.9999999999999,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "yz6jRxBKzdxGaG40",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Fourth Ideal Dustbringer.md",
-      "x": 730.0,
-      "y": 1969.9999999999998,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "gTdD04LjkcoU67Hz",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Deepened Bond.md",
-      "x": 0.0,
-      "y": 1459.9999999999998,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "lFR6bgi6I4oU79ai",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Take Squire Dustbringer.md",
-      "x": 1460.0,
-      "y": 1459.9999999999998,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "pBR89nFwfgv6Yz7L",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Searing Dust Storm.md",
-      "x": 2190.0,
-      "y": 0.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "9qDzOz2mevd6wCsF",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Invested.md",
-      "x": 2190.0,
-      "y": 729.9999999999999,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "KqbDFgQlvlJOakj3",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Wound Regeneration.md",
-      "x": 2190.0,
-      "y": 1459.9999999999998,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "banner",
-      "type": "group",
-      "x": 0.0,
-      "y": -300.0,
-      "width": 500,
-      "height": 260,
-      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/energy-stream-link-white.webp",
-      "backgroundStyle": "ratio"
-    }
-  ],
-  "edges": [
-    {
-      "id": "edge0",
-      "fromNode": "XS4DGIGMbPfhl5Vt",
-      "fromSide": "bottom",
-      "toNode": "b13Sb2NznQguSW4y",
-      "toSide": "top"
-    },
-    {
-      "id": "edge1",
-      "fromNode": "b13Sb2NznQguSW4y",
-      "fromSide": "bottom",
-      "toNode": "yz6jRxBKzdxGaG40",
-      "toSide": "top"
-    },
-    {
-      "id": "edge2",
-      "fromNode": "b13Sb2NznQguSW4y",
-      "fromSide": "bottom",
-      "toNode": "gTdD04LjkcoU67Hz",
-      "toSide": "top"
-    },
-    {
-      "id": "edge3",
-      "fromNode": "b13Sb2NznQguSW4y",
-      "fromSide": "bottom",
-      "toNode": "lFR6bgi6I4oU79ai",
-      "toSide": "top"
-    },
-    {
-      "id": "edge4",
-      "fromNode": "pBR89nFwfgv6Yz7L",
-      "fromSide": "bottom",
-      "toNode": "9qDzOz2mevd6wCsF",
-      "toSide": "top"
-    },
-    {
-      "id": "edge5",
-      "fromNode": "9qDzOz2mevd6wCsF",
-      "fromSide": "bottom",
-      "toNode": "KqbDFgQlvlJOakj3",
-      "toSide": "top"
-    }
-  ]
+	"nodes":[
+		{"id":"banner","type":"group","backgroundStyle":"ratio","x":0,"y":-300,"width":260,"height":260,"background":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/energy-stream-link-white.webp"},
+		{"id":"XS4DGIGMbPfhl5Vt","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Second Ideal Dustbringer.md","x":730,"y":0,"width":640,"height":420},
+		{"id":"b13Sb2NznQguSW4y","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Third Ideal Dustbringer.md","x":730,"y":730,"width":640,"height":420},
+		{"id":"yz6jRxBKzdxGaG40","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Fourth Ideal Dustbringer.md","x":730,"y":1970,"width":640,"height":420},
+		{"id":"gTdD04LjkcoU67Hz","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Deepened Bond.md","x":0,"y":1460,"width":640,"height":420},
+		{"id":"lFR6bgi6I4oU79ai","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Take Squire Dustbringer.md","x":1460,"y":1460,"width":640,"height":420},
+		{"id":"pBR89nFwfgv6Yz7L","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Searing Dust Storm.md","x":2190,"y":0,"width":640,"height":420},
+		{"id":"9qDzOz2mevd6wCsF","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Invested.md","x":2190,"y":730,"width":640,"height":420},
+		{"id":"KqbDFgQlvlJOakj3","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Talents/Ashspren Bond/Wound Regeneration.md","x":2190,"y":1460,"width":640,"height":420}
+	],
+	"edges":[
+		{"id":"edge0","fromNode":"XS4DGIGMbPfhl5Vt","fromSide":"bottom","toNode":"b13Sb2NznQguSW4y","toSide":"top"},
+		{"id":"edge1","fromNode":"b13Sb2NznQguSW4y","fromSide":"bottom","toNode":"yz6jRxBKzdxGaG40","toSide":"top"},
+		{"id":"edge2","fromNode":"b13Sb2NznQguSW4y","fromSide":"bottom","toNode":"gTdD04LjkcoU67Hz","toSide":"top"},
+		{"id":"edge3","fromNode":"b13Sb2NznQguSW4y","fromSide":"bottom","toNode":"lFR6bgi6I4oU79ai","toSide":"top"},
+		{"id":"edge4","fromNode":"pBR89nFwfgv6Yz7L","fromSide":"bottom","toNode":"9qDzOz2mevd6wCsF","toSide":"top"},
+		{"id":"edge5","fromNode":"9qDzOz2mevd6wCsF","fromSide":"bottom","toNode":"KqbDFgQlvlJOakj3","toSide":"top"}
+	]
 }
