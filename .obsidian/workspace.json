@@ -38,8 +38,7 @@
               "title": "Leader Talents Talent Tree"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Leader Talents Talent Tree.canvas",
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/03 - Ch 2 Origins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Leader Talents Talent Tree"
+              "title": "Outgoing links from 03 - Ch 2 Origins"
             }
           },
           {
@@ -214,8 +213,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64fe6c574c69b535",
+  "active": "df84a608f0ea1482",
   "lastOpenFiles": [
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Leader Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Hunter Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Archer Talent Tree.canvas",
@@ -227,7 +227,6 @@
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Skybreaker Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Skybreaker.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Stoneward/Stoneward Talents Talent Tree.canvas",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Willshaper/Willshaper Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/03 - Ch 2 Origins.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/02 - Ch 1 Character Creation.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Edgedancer/Edgedancer.md",
