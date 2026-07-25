@@ -20,23 +20,6 @@
               "icon": "lucide-file",
               "title": "03 - Ch 2 Origins"
             }
-          },
-          {
-            "id": "a60021815e0d7c65",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Division Talents Talent Tree.canvas",
-                "viewState": {
-                  "x": 867.5,
-                  "y": 1265,
-                  "zoom": -1.827609528495426
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Division Talents Talent Tree"
-            }
           }
         ]
       }
@@ -215,8 +198,9 @@
   },
   "active": "df84a608f0ea1482",
   "lastOpenFiles": [
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher (Enlightened)/Truthwatcher Enlightened Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Singer/Singer Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/03 - Ch 2 Origins.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher (Enlightened)/Truthwatcher Enlightened Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/02 - Ch 1 Character Creation.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Edgedancer/Edgedancer.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer (Canon)/Division Talents Talent Tree.canvas",
@@ -245,7 +229,6 @@
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Warrior Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Vigilant Stance.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Scholar Talents Talent Tree.canvas",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Leader Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Minor Characters/Veth.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Minor Characters/Taszo-son-Clutio.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Minor Characters/Lilinum the Devastating One.md",

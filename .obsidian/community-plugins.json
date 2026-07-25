@@ -10,5 +10,6 @@
   "auto-download-images-after-web-clipping",
   "clipping-link-resolver",
   "obsidian-git",
-  "canvas-cover-overlay"
+  "canvas-cover-overlay",
+  "obsidian-front-matter-title-plugin"
 ]
