@@ -27,15 +27,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Truthwatcher Talents Talent Tree.canvas",
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Dustbringer Talents Talent Tree.canvas",
                 "viewState": {
-                  "x": 6198.1500409812425,
-                  "y": 3468.5156429510303,
-                  "zoom": -1.4292630450355488
+                  "x": 4496.5,
+                  "y": 2844,
+                  "zoom": -2.8340480889340514
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Truthwatcher Talents Talent Tree"
+              "title": "Dustbringer Talents Talent Tree"
             }
           }
         ],
@@ -131,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Truthwatcher Talents Talent Tree.canvas",
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Dustbringer Talents Talent Tree.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Truthwatcher Talents Talent Tree"
+              "title": "Outgoing links from Dustbringer Talents Talent Tree"
             }
           },
           {
@@ -216,6 +216,14 @@
   },
   "active": "64fe6c574c69b535",
   "lastOpenFiles": [
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Elsecaller Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Lightweaver/Lightweaver Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Skybreaker Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Skybreaker.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Stoneward/Stoneward Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Willshaper/Willshaper Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Windrunner/Windrunner Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Truthwatcher Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/03 - Ch 2 Origins.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Singer/Singer Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher (Enlightened)/Truthwatcher Enlightened Talents Talent Tree.canvas",
@@ -223,10 +231,6 @@
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Edgedancer/Edgedancer.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer (Canon)/Division Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer (Canon)/Dustbringer Talents Canon Talent Tree.canvas",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Ashspren Bond Talent Tree.canvas",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Dustbringer Talents Talent Tree.canvas",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Division Talents Talent Tree.canvas",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Abrasion Talents/Abrasion Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Home.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Adversaries/Uncategorized/Magnified One Rival Variant.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Adversaries/Uncategorized/Heavy Shardbearer.md",
@@ -243,8 +247,6 @@
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Items/Uncategorized/Jezriens Honorblade.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Journal/01 - The Recruit.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Scholar.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Envoy Talents Talent Tree.canvas",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Warrior Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Vigilant Stance.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Minor Characters/Veth.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Minor Characters/Taszo-son-Clutio.md",
@@ -257,7 +259,6 @@
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Singer/Fused/Warform Singer.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Singer/Fused/Stormform Regal.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Singer/Fused/Shadowform Zealot.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Singer/Fused/Nimbleform Singer.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Notable Characters",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Minor Characters",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Tension/Effects",
