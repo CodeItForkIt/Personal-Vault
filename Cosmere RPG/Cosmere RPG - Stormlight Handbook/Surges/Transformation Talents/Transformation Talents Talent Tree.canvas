@@ -5,7 +5,7 @@
       "type": "group",
       "x": -220.0,
       "y": -220.0,
-      "width": 2905.0,
+      "width": 2540.0,
       "height": 3050.0,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Transformation_Surge-glyph.svg",
       "backgroundStyle": "ratio"
@@ -50,7 +50,7 @@
       "id": "sZZal2jSyfEkj9E2",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transformation Talents/Living Soulcasting.md",
-      "x": 1825.0,
+      "x": 1460.0,
       "y": 0.0,
       "width": 640,
       "height": 420
@@ -59,7 +59,7 @@
       "id": "XwFL4Ym7q0yr76St",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transformation Talents/Bloodcasting.md",
-      "x": 1825.0,
+      "x": 1460.0,
       "y": 730.0,
       "width": 640,
       "height": 420
@@ -68,7 +68,7 @@
       "id": "3rIWL631s8Wy7IPA",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transformation Talents/Flamecasting.md",
-      "x": 1095.0,
+      "x": 1460.0,
       "y": 1460.0,
       "width": 640,
       "height": 420
@@ -86,7 +86,7 @@
       "id": "RD2OUC7uUp99knNa",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transformation Talents/Distant Surgebinding.md",
-      "x": 0.0,
+      "x": 730.0,
       "y": 1460.0,
       "width": 640,
       "height": 420

@@ -1348,7 +1348,7 @@ aliases: ["Glossary and Index"]
 
 **Singer (talent tree):**
 
-[[Ancestries/Singer/Singer Talents|Singer Talents]]
+[[Ancestries/Singer/Singer Talents Talent Tree.canvas|Singer Talents]]
 
 **singer forms:** See forms, singer.
 

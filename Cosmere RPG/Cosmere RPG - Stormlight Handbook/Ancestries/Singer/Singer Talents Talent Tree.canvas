@@ -1,25 +1,161 @@
 {
-	"nodes":[
-		{"id":"background","type":"group","backgroundStyle":"ratio","x":-220,"y":-220,"width":2357,"height":3050,"background":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/background_Shattered Plains_by_Anthony_Avon.webp"},
-		{"id":"banner","type":"group","backgroundStyle":"ratio","x":0,"y":-300,"width":260,"height":260,"background":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/singer-ancestry-card.webp"},
-		{"id":"fLzaiHsXBChkPxAb","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Singer/Change Form.md","x":730,"y":0,"width":640,"height":420},
-		{"id":"17bDq8M1YKaNQ9TK","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Singer/Forms of Finesse.md","x":0,"y":730,"width":640,"height":420},
-		{"id":"NscZBjJwcvdlHzDU","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Singer/Forms of Wisdom.md","x":730,"y":730,"width":640,"height":420},
-		{"id":"db550idikbffDP7r","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Singer/Forms of Resolve.md","x":1460,"y":730,"width":640,"height":420},
-		{"id":"6ftBICp56SEYxkhE","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Singer/Forms of Destruction.md","x":0,"y":2190,"width":640,"height":420},
-		{"id":"a3mOvyysQPqsUrhM","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Singer/Forms of Expansion.md","x":730,"y":2190,"width":640,"height":420},
-		{"id":"EVinPHwKm1T9Ty4S","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Singer/Forms of Mystery.md","x":1460,"y":2190,"width":640,"height":420},
-		{"id":"f61luAzbdqBxqjpm","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Singer/Ambitious Mind.md","x":730,"y":1460,"width":640,"height":420}
-	],
-	"edges":[
-		{"id":"edge0","fromNode":"fLzaiHsXBChkPxAb","fromSide":"bottom","toNode":"17bDq8M1YKaNQ9TK","toSide":"top"},
-		{"id":"edge1","fromNode":"fLzaiHsXBChkPxAb","fromSide":"bottom","toNode":"NscZBjJwcvdlHzDU","toSide":"top"},
-		{"id":"edge2","fromNode":"fLzaiHsXBChkPxAb","fromSide":"bottom","toNode":"db550idikbffDP7r","toSide":"top"},
-		{"id":"edge3","fromNode":"f61luAzbdqBxqjpm","fromSide":"bottom","toNode":"6ftBICp56SEYxkhE","toSide":"top"},
-		{"id":"edge4","fromNode":"f61luAzbdqBxqjpm","fromSide":"bottom","toNode":"a3mOvyysQPqsUrhM","toSide":"top"},
-		{"id":"edge5","fromNode":"f61luAzbdqBxqjpm","fromSide":"bottom","toNode":"EVinPHwKm1T9Ty4S","toSide":"top"},
-		{"id":"edge6","fromNode":"17bDq8M1YKaNQ9TK","fromSide":"bottom","toNode":"f61luAzbdqBxqjpm","toSide":"top"},
-		{"id":"edge7","fromNode":"db550idikbffDP7r","fromSide":"bottom","toNode":"f61luAzbdqBxqjpm","toSide":"top"},
-		{"id":"edge8","fromNode":"NscZBjJwcvdlHzDU","fromSide":"bottom","toNode":"f61luAzbdqBxqjpm","toSide":"top"}
-	]
+  "nodes": [
+    {
+      "id": "background",
+      "type": "group",
+      "x": -220.0,
+      "y": -220.0,
+      "width": 2540.0,
+      "height": 3049.9999999999995,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/background_Shattered Plains_by_Anthony_Avon.webp",
+      "backgroundStyle": "ratio"
+    },
+    {
+      "id": "fLzaiHsXBChkPxAb",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Singer/Change Form.md",
+      "x": 730.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "17bDq8M1YKaNQ9TK",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Singer/Forms of Finesse.md",
+      "x": 0.0,
+      "y": 729.9999999999999,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "NscZBjJwcvdlHzDU",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Singer/Forms of Wisdom.md",
+      "x": 730.0,
+      "y": 729.9999999999999,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "db550idikbffDP7r",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Singer/Forms of Resolve.md",
+      "x": 1460.0,
+      "y": 729.9999999999999,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "6ftBICp56SEYxkhE",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Singer/Forms of Destruction.md",
+      "x": 0.0,
+      "y": 2189.9999999999995,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "a3mOvyysQPqsUrhM",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Singer/Forms of Expansion.md",
+      "x": 730.0,
+      "y": 2189.9999999999995,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "EVinPHwKm1T9Ty4S",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Singer/Forms of Mystery.md",
+      "x": 1460.0,
+      "y": 2189.9999999999995,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "f61luAzbdqBxqjpm",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Singer/Ambitious Mind.md",
+      "x": 730.0,
+      "y": 1459.9999999999998,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "banner",
+      "type": "group",
+      "x": 0.0,
+      "y": -300.0,
+      "width": 500,
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/singer-ancestry-card.webp",
+      "backgroundStyle": "ratio"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "fLzaiHsXBChkPxAb",
+      "fromSide": "bottom",
+      "toNode": "17bDq8M1YKaNQ9TK",
+      "toSide": "top"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "fLzaiHsXBChkPxAb",
+      "fromSide": "bottom",
+      "toNode": "NscZBjJwcvdlHzDU",
+      "toSide": "top"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "fLzaiHsXBChkPxAb",
+      "fromSide": "bottom",
+      "toNode": "db550idikbffDP7r",
+      "toSide": "top"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "f61luAzbdqBxqjpm",
+      "fromSide": "bottom",
+      "toNode": "6ftBICp56SEYxkhE",
+      "toSide": "top"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "f61luAzbdqBxqjpm",
+      "fromSide": "bottom",
+      "toNode": "a3mOvyysQPqsUrhM",
+      "toSide": "top"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "f61luAzbdqBxqjpm",
+      "fromSide": "bottom",
+      "toNode": "EVinPHwKm1T9Ty4S",
+      "toSide": "top"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "17bDq8M1YKaNQ9TK",
+      "fromSide": "bottom",
+      "toNode": "f61luAzbdqBxqjpm",
+      "toSide": "top"
+    },
+    {
+      "id": "edge7",
+      "fromNode": "db550idikbffDP7r",
+      "fromSide": "bottom",
+      "toNode": "f61luAzbdqBxqjpm",
+      "toSide": "top"
+    },
+    {
+      "id": "edge8",
+      "fromNode": "NscZBjJwcvdlHzDU",
+      "fromSide": "bottom",
+      "toNode": "f61luAzbdqBxqjpm",
+      "toSide": "top"
+    }
+  ]
 }

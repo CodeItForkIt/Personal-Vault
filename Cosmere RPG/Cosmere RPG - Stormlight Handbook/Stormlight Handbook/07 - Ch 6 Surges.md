@@ -169,7 +169,7 @@ When another character steps on or otherwise interacts with a surface or object 
 
 ## Abrasion Talents
 
-The following talents, presented here in alphabetical order, appear in the [[Surges/Abrasion Talents/Abrasion Talents|Abrasion talent tree]] for the Dustbringer and Edgedancer paths.
+The following talents, presented here in alphabetical order, appear in the [[Surges/Abrasion Talents/Abrasion Talents Talent Tree.canvas|Abrasion talent tree]] for the Dustbringer and Edgedancer paths.
 
 \
 
@@ -227,7 +227,7 @@ A character can try to break apart two objects you’ve Lashed together. To do s
 
 ## Adhesion Talents
 
-The following talents, presented here in alphabetical order, appear in the [[Surges/Adhesion Talents/Adhesion Talents|Adhesion talent tree]] for the Windrunner path.
+The following talents, presented here in alphabetical order, appear in the [[Surges/Adhesion Talents/Adhesion Talents Talent Tree.canvas|Adhesion talent tree]] for the Windrunner path.
 
 \
 
@@ -279,7 +279,7 @@ When a Cohesion infusion runs out, the stone returns to its previously rigid sta
 
 ## Cohesion Talents
 
-The following talents, presented here in alphabetical order, appear in the [[Surges/Cohesion Talents/Cohesion Talents|Cohesion talent tree]] for the Stoneward and Willshaper paths.
+The following talents, presented here in alphabetical order, appear in the [[Surges/Cohesion Talents/Cohesion Talents Talent Tree.canvas|Cohesion talent tree]] for the Stoneward and Willshaper paths.
 
 \
 
@@ -333,7 +333,7 @@ If a character is willing, you can easily destroy an object in their possession.
 
 ## Division Talents
 
-The following talents, presented here in alphabetical order, appear in the [[Surges/Division Talents/Division Talents|Division talent tree]] for the Dustbringer and Skybreaker paths.
+The following talents, presented here in alphabetical order, appear in the [[Surges/Division Talents/Division Talents Talent Tree.canvas|Division talent tree]] for the Dustbringer and Skybreaker paths.
 
 \
 
@@ -383,7 +383,7 @@ When flying or moving something with a Basic Lashing, you don’t usually need t
 
 ## Gravitation Talents
 
-The following talents, presented here in alphabetical order, appear in the [[Surges/Gravitation Talents/Gravitation Talents|Gravitation talent tree]] for the Skybreaker and Windrunner paths.
+The following talents, presented here in alphabetical order, appear in the [[Surges/Gravitation Talents/Gravitation Talents Talent Tree.canvas|Gravitation talent tree]] for the Skybreaker and Windrunner paths.
 
 \
 
@@ -451,7 +451,7 @@ Tests aren’t the only way to detect an illusion (or to become suspicious of on
 
 ## Illumination Talents
 
-The following talents, presented here in alphabetical order, appear in the [[Surges/Illumination Talents/Illumination Talents|Illumination talent tree]] for the Lightweaver and Truthwatcher paths.
+The following talents, presented here in alphabetical order, appear in the [[Surges/Illumination Talents/Illumination Talents Talent Tree.canvas|Illumination talent tree]] for the Lightweaver and Truthwatcher paths.
 
 \
 
@@ -493,7 +493,7 @@ Regrowth heals by transforming the target’s Physical form to better match thei
 
 ## Progression Talents
 
-The following talents, presented here in alphabetical order, appear in the [[Surges/Progression Talents/Progression Talents|Progression talent tree]] for the Edgedancer and Truthwatcher paths.
+The following talents, presented here in alphabetical order, appear in the [[Surges/Progression Talents/Progression Talents Talent Tree.canvas|Progression talent tree]] for the Edgedancer and Truthwatcher paths.
 
 \
 
@@ -547,7 +547,7 @@ A character can try to bend an object you’ve stiffened with your Tension. To d
 
 ## Tension Talents
 
-The following talents, presented here in alphabetical order, appear in the [[Surges/Tension Talents/Tension Talents|Tension talent tree]] for the Stoneward path.
+The following talents, presented here in alphabetical order, appear in the [[Surges/Tension Talents/Tension Talents Talent Tree.canvas|Tension talent tree]] for the Stoneward path.
 
 \
 
@@ -598,7 +598,7 @@ It’s up to you and your GM to resolve such creative uses. In general, if your 
 
 ## Transformation Talents
 
-The following talents, presented here in alphabetical order, appear in the [[Surges/Transformation Talents/Transformation Talents|Transformation talent tree]] for the Elsecaller and Lightweaver paths.
+The following talents, presented here in alphabetical order, appear in the [[Surges/Transformation Talents/Transformation Talents Talent Tree.canvas|Transformation talent tree]] for the Elsecaller and Lightweaver paths.
 
 \
 
@@ -628,7 +628,7 @@ The surge of Transportation allows you to transition yourself and others between
 
 ## Transportation Talents
 
-The following talents, presented here in alphabetical order, appear in the [[Surges/Transportation Talents/Transportation Talents|Transportation talent tree]] for the Elsecaller and Willshaper paths.
+The following talents, presented here in alphabetical order, appear in the [[Surges/Transportation Talents/Transportation Talents Talent Tree.canvas|Transportation talent tree]] for the Elsecaller and Willshaper paths.
 
 ![[pg239_Elsecaller Transportation_RANDY VARGAS.webp]]
 
