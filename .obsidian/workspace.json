@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/07 - Ch 6 Surges.md",
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Actions/Stormlight/Regenerate.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07 - Ch 6 Surges"
+              "title": "Regenerate"
             }
           },
           {
@@ -130,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/07 - Ch 6 Surges.md",
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Actions/Stormlight/Regenerate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 07 - Ch 6 Surges"
+              "title": "Outgoing links from Regenerate"
             }
           },
           {
@@ -215,6 +215,12 @@
   },
   "active": "df84a608f0ea1482",
   "lastOpenFiles": [
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Actions/Stormlight/Enhance.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Actions/Stormlight/Breathe Stormlight.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Actions/Uncategorized/Stormlight Actions Pack.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Actions/Uncategorized/Common Actions Pack.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Actions/Uncategorized/Basic Actions Pack.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/07 - Ch 6 Surges.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/02 - Ch 1 Character Creation.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/Stormlight World Guide/03 - Ch 2 Nations and Cultures.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/Stormlight World Guide/06 - Ch 5 Allies and Organizations.md",
@@ -252,12 +258,6 @@
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/attachments/ICON_honorblade_jezrien.webp",
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/attachments/ICON_ballista_hand.webp",
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/attachments/Ezriah_VALERIA CASALE.webp",
-    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Items/Weapons of Wind and Truth/Spiked Shield.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Items/Weapons of Wind and Truth/Raysium Lance.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Items/Weapons of Wind and Truth/Hand Ballista.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Items/Uncategorized/Jezriens Honorblade.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Journal/01 - The Recruit.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Scholar.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Notable Characters",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Minor Characters",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Tension/Effects",
