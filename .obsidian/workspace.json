@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Windrunner/Windrunner Talents Talent Tree.canvas",
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Leader Talents Talent Tree.canvas",
                 "viewState": {
-                  "x": 3422.5,
-                  "y": 1555,
-                  "zoom": -2.22843617092855
+                  "x": 1681.955485415385,
+                  "y": 3950.1953403140787,
+                  "zoom": -2.5127075810373407
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Windrunner Talents Talent Tree"
+              "title": "Leader Talents Talent Tree"
             }
           },
           {
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Windrunner/Windrunner Talents Talent Tree.canvas",
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Leader Talents Talent Tree.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Windrunner Talents Talent Tree"
+              "title": "Outgoing links from Leader Talents Talent Tree"
             }
           },
           {
@@ -218,6 +218,7 @@
   },
   "active": "df84a608f0ea1482",
   "lastOpenFiles": [
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Windrunner/Windrunner Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Willshaper/Willshaper Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher (Enlightened)/Truthwatcher Enlightened Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher (Enlightened)/Enlightened Talents Talent Tree.canvas",
@@ -229,7 +230,6 @@
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Skybreaker Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Lightweaver/Lightweaver Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Elsecaller Talents Talent Tree.canvas",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Edgedancer/Edgedancer Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Edgedancer/Edgedancer.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Agent.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/03 - Ch 2 Origins.md",
