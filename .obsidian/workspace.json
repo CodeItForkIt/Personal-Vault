@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "-file:.png -file:.jpg -file:.webp -file:.svg  file:3",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -215,9 +215,12 @@
   },
   "active": "df84a608f0ea1482",
   "lastOpenFiles": [
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/04 - Ch 3 Character Statistics.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/02 - Ch 1 Character Creation.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/Stormlight World Guide/03 - Ch 2 Nations and Cultures.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/Stormlight World Guide/06 - Ch 5 Allies and Organizations.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/Stormlight World Guide/12 - Appendix C Index of Terms.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Cultures/Uncategorized/Listener.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/02 - Ch 1 Character Creation.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/04 - Ch 3 Character Statistics.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/03 - Ch 2 Origins.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/16 - Appendix 1 Animal Companions.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/19 - Glossary and Index.md",
@@ -255,9 +258,6 @@
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Items/Uncategorized/Jezriens Honorblade.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Journal/01 - The Recruit.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Scholar.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Vigilant Stance.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Minor Characters/Veth.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Minor Characters/Taszo-son-Clutio.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Notable Characters",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Minor Characters",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Tension/Effects",
