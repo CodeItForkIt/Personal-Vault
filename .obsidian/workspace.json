@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/17 - Appendix 2 Tables.md",
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Cultures/Uncategorized/Listener.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17 - Appendix 2 Tables"
+              "title": "Listener"
             }
           },
           {
@@ -130,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/17 - Appendix 2 Tables.md",
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Cultures/Uncategorized/Listener.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 17 - Appendix 2 Tables"
+              "title": "Outgoing links from Listener"
             }
           },
           {
@@ -215,8 +215,12 @@
   },
   "active": "df84a608f0ea1482",
   "lastOpenFiles": [
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/04 - Ch 3 Character Statistics.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/03 - Ch 2 Origins.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/16 - Appendix 1 Animal Companions.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/19 - Glossary and Index.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/18 - Appendix 3 Skill Trees.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/17 - Appendix 2 Tables.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/04 - Ch 3 Character Statistics.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Truthwatcher.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher (Enlightened)/Truthwatcher Enlightened Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Stoneward/Stoneward.md",
@@ -254,10 +258,6 @@
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Minor Characters/Veth.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Minor Characters/Taszo-son-Clutio.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Minor Characters/Lilinum the Devastating One.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Notable Characters/Ylt the Truthwatcher.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Notable Characters/Poahu.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Notable Characters/Kaiana the Truthwatcher.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Notable Characters/Axies the Collector.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Notable Characters",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Named/Various/Minor Characters",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Tension/Effects",
