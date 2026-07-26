@@ -3,9 +3,9 @@
     {
       "id": "background",
       "type": "group",
-      "x": -220.0,
+      "x": -672.0158647044448,
       "y": -220.0,
-      "width": 1810.0,
+      "width": 2714.0317294088895,
       "height": 3120.0,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/attachments/Cohesion_Surge-glyph.svg",
       "backgroundStyle": "ratio"
@@ -50,7 +50,7 @@
       "id": "hzjTxkOns3yijsO5",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Cohesion/Tunneling.md",
-      "x": 730.0,
+      "x": 365.0,
       "y": 1240.0,
       "width": 640,
       "height": 420
@@ -59,7 +59,7 @@
       "id": "EzZLMwtX8q3ltK4d",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Cohesion/Sinkhole.md",
-      "x": 0.0,
+      "x": 365.0,
       "y": 730.0,
       "width": 640,
       "height": 420

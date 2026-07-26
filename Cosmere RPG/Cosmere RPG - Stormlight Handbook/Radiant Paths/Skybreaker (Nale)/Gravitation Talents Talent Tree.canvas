@@ -3,9 +3,9 @@
     {
       "id": "background",
       "type": "group",
-      "x": -220.0,
+      "x": -399.38029467168985,
       "y": -220.0,
-      "width": 2540.0,
+      "width": 2898.7605893433797,
       "height": 3120.0,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Gravitation_Surge-glyph.svg",
       "backgroundStyle": "ratio"
@@ -32,7 +32,7 @@
       "id": "QHt9oB6bQclSx4MH",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Gravitation Talents/Group Flight.md",
-      "x": 0.0,
+      "x": 730.0,
       "y": 1750.0,
       "width": 640,
       "height": 420

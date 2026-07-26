@@ -3,9 +3,9 @@
     {
       "id": "background",
       "type": "group",
-      "x": -220.0,
+      "x": -518.7912149923072,
       "y": -220.0,
-      "width": 2540.0,
+      "width": 3137.5824299846145,
       "height": 3340.0,
       "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Abrasion_Surge-glyph.svg",
       "backgroundStyle": "ratio"
@@ -59,7 +59,7 @@
       "id": "0NKnRIDns9F9HMxs",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Abrasion Talents/Slippery Target.md",
-      "x": 0.0,
+      "x": 730.0,
       "y": 1460.0,
       "width": 640,
       "height": 420
@@ -68,7 +68,7 @@
       "id": "6EWHtEuQswLYnETa",
       "type": "file",
       "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Abrasion Talents/Slick Combatant.md",
-      "x": 0.0,
+      "x": 730.0,
       "y": 2480.0,
       "width": 640,
       "height": 420
