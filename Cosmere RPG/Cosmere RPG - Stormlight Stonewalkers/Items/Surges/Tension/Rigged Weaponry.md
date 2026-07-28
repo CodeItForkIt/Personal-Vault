@@ -10,7 +10,7 @@ aliases: ["Rigged Weaponry"]
 
 **Prerequisite:** [[Items/Surges/Tension/Tension Parry|Tension Parry]] talent
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *Dynamic use of Tension on cloth or rope allows you to augment your martial prowess.*
 

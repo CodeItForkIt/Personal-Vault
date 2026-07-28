@@ -8,7 +8,7 @@ aliases: ["Rumormonger"]
 ---
 ![[music-singing-voice-blue.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *In social circles where rumors swirl and eddy, your patron’s name creates vast ripples.*
 

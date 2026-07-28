@@ -8,7 +8,7 @@ aliases: ["Swift Regeneration"]
 ---
 ![[cross-beam-green.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You can heal yourself with greater efficiency and make those infused with your Regrowth more resistant to injury.*
 

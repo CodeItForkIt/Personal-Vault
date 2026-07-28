@@ -20,7 +20,7 @@ The following options are available when an enemy gains an Opportunity or Compli
 
 **Opportunity.** An enemy can spend Opportunity to prevent the chasmfiend from spending focus until the end of the chasmfiend's next turn.
 
-**Complication.** The GM can spend Complication from an enemy's test to have the chasmfiend use their Trumpet action as r without spending focus.
+**Complication.** The GM can spend Complication from an enemy's test to have the chasmfiend use their Trumpet action as Reaction without spending focus.
 
 ##### Tactics
 

@@ -8,7 +8,7 @@ aliases: ["Second Ideal (Nale Skybreaker)"]
 ---
 ![[fog-gas-smoke-dense-gray.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You seek to deepen your Nahel bond with your highspren by speaking the Second Ideal.*
 

@@ -8,7 +8,7 @@ aliases: ["Third Ideal (Willshaper)"]
 ---
 ![[abstract-ribbons-red-orange.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You seek to advance your Nahel bond even further by speaking the Third Ideal.*
 

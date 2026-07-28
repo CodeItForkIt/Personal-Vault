@@ -146,7 +146,7 @@ Each talent lists its activation type after its prerequisites. These activation 
 
 - **Special Activation (\*).** Some talents don’t necessarily cost an action or reaction; instead, you choose to activate them in other specific ways, such as by taking a short or long rest, by spending focus as part of another action, or by simply choosing to reroll a die (no action required). You can find the rules for activating these talents in that talent’s description; if a particular action type isn’t named, you can freely activate the effect when the described circumstances occur.
 
-- **Always Active (8).** Some talents always affect your character. Sometimes known as “passive” or “ongoing” effects, these don’t require you to use an action or do anything else to benefit from them. For example, a talent that permanently increases your health is always active and you needn’t choose when you benefit from it. By contrast, if a talent requires a conscious choice such as rerolling a die, the talent is considered a special activation (\*), even if you can do it any time you encounter that situation.
+- **Always Active (8).** Some talents always affect your character. Sometimes known as “passive” or “ongoing” effects, these don’t require you to use an action or do anything else to benefit from them. For example, a talent that permanently increases your health is always active and you needn’t choose when you benefit from it. By contrast, if a talent requires a conscious choice such as rerolling a die, the talent is considered a special activation (Special Activation), even if you can do it any time you encounter that situation.
 
 *“Do not dismiss your own talents because you envy those of another.”*\
 

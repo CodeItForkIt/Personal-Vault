@@ -8,7 +8,7 @@ aliases: ["Experienced Trapper"]
 ---
 ![[pin-round.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You’re adept at living off the land, confidently hunting with your traps and foraging for resources.*
 

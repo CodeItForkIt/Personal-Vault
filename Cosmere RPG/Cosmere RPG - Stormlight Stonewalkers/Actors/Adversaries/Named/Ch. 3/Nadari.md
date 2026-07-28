@@ -23,7 +23,7 @@ A **thief** begins by using Disorienting Distraction and—if trying to avoid a 
 ### Quick Hands
 *1*
 
-When a character triggers a Reactive Strike reaction from the Nadari, the Nadari can instead use their Pickpocket as r (without spending focus for a Reactive Strike).
+When a character triggers a Reactive Strike reaction from the Nadari, the Nadari can instead use their Pickpocket as Reaction (without spending focus for a Reactive Strike).
 
 ### Disorienting Distraction
 *1 act*
@@ -38,7 +38,7 @@ The Nadari attempts to rifle through the belongings of a humanoid within 5 feet 
 ### Slippery
 *1 rea*
 
-After an enemy ends a Move action within 5 feet of the Nadari, the Nadari can use the Disengage action as r. If the Nadari ends this movement in cover or in an area where an enemy's primary sense is obscured, enemies affected by that cover or obscured senses gain a disadvantage on attacks against the Nadari until the end of the Nadari's next turn.
+After an enemy ends a Move action within 5 feet of the Nadari, the Nadari can use the Disengage action as Reaction. If the Nadari ends this movement in cover or in an area where an enemy's primary sense is obscured, enemies affected by that cover or obscured senses gain a disadvantage on attacks against the Nadari until the end of the Nadari's next turn.
 
 ### Strike: Dagger
 *1 act*

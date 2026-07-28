@@ -8,7 +8,7 @@ aliases: ["Second Ideal (Truthwatcher)"]
 ---
 ![[eye-ringed-glow-angry-large-teal.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You seek to deepen your Nahel bond with your mistspren by speaking the Second Ideal.*
 

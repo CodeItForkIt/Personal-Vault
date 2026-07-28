@@ -8,7 +8,7 @@ aliases: ["Realmic Evasion"]
 ---
 ![[arrows-circling-pink.webp|64]]
 
-**Activation:** r
+**Activation:** Reaction
 
 *You dodge danger, momentarily transporting yourself between the Physical and Cognitive Realms, then return after the danger has passed.*
 

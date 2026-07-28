@@ -8,7 +8,7 @@ aliases: ["Rigged Weaponry"]
 ---
 ![[whip-red-yellow.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *Dynamic use of Tension on cloth or rope allows you to augment your martial prowess.*
 

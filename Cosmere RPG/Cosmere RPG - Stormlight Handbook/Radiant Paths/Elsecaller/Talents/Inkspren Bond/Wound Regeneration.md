@@ -8,7 +8,7 @@ aliases: ["Wound Regeneration"]
 ---
 ![[cross-embers-glow-yellow-purple.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You can use Stormlight to rapidly recover from injuries.*
 

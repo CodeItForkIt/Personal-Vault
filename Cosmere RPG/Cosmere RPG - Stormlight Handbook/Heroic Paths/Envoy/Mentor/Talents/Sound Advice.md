@@ -8,8 +8,8 @@ aliases: ["Sound Advice"]
 ---
 ![[diplomacy-offering-ritual.webp|64]]
 
-**Activation:** r
+**Activation:** Reaction
 
 *You know failure can be an excellent teacher, but only if its origin is understood, so you encourage your allies to grow from their inevitable setbacks.*
 
-After an ally you can influence fails a skill test, you can spend 1 focus to use your Rousing Presence on them as r.
+After an ally you can influence fails a skill test, you can spend 1 focus to use your Rousing Presence on them as Reaction.

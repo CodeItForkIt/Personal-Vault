@@ -8,7 +8,7 @@ aliases: ["Second Ideal (Canon Dustbringer)"]
 ---
 ![[wind-stream-red.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You seek to deepen your Nahel bond with your ashspren by speaking the Second Ideal.*
 

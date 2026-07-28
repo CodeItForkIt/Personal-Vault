@@ -8,7 +8,7 @@ aliases: ["Second Ideal (Willshaper)"]
 ---
 ![[trail-streak-impact-blue.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You seek to deepen your Nahel bond with your lightspren by speaking the Second Ideal.*
 

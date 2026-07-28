@@ -8,7 +8,7 @@ aliases: ["Fourth Ideal (Willshaper)"]
 ---
 ![[buff-flight-wings-runes-purple-orange.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You seek to become a full Knight Radiant by speaking the Fourth Ideal.*
 
