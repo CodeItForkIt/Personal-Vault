@@ -8,7 +8,7 @@ aliases: ["Signature Weapon"]
 ---
 ![[strike-sword-slashing-red.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You have trained extensively with a particular weapon and can exploit all the advantages it offers.*
 

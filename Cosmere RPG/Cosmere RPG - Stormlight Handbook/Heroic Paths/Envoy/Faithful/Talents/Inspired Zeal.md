@@ -8,7 +8,7 @@ aliases: ["Inspired Zeal"]
 ---
 ![[flame-burning-fist-strike.webp|64]]
 
-**Activation:** \*
+**Activation:** undefined
 
 *When an ally achieves new heights, your proclamations of their success inspire those around you.*
 

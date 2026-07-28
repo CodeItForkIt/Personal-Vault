@@ -8,7 +8,7 @@ aliases: ["Applied Motivation"]
 ---
 ![[silhouette-aura-energy.webp|64]]
 
-**Activation:** 8
+**Activation:** undefined
 
 *You skillfully motivate others with your words to keep them focused on the goal.*
 

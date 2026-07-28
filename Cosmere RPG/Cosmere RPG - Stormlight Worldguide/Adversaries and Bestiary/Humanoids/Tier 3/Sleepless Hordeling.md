@@ -18,9 +18,9 @@ aliases: ["Sleepless Hordeling"]
 
 The following options are available when an enemy gains an Opportunity or Complication during a scene with the Sleepless Hordeling:
 
-**Opportunity.** An enemy can spend O to prevent the Sleepless Hordeling from using their Ravage action or Swarm Weapon reaction until the start of the enemy's next turn.
+**Opportunity.** An enemy can spend Opportunity to prevent the Sleepless Hordeling from using their Ravage action or Swarm Weapon reaction until the start of the enemy's next turn.
 
-**Complication.** The GM can spend c from an enemy's test to use the Unsettle action as r against one or more enemies within 30 feet of them. The Sleepless Hordeling must spend 1 focus per enemy targeted (maximum 5).
+**Complication.** The GM can spend Complication from an enemy's test to use the Unsettle action as Reaction against one or more enemies within 30 feet of them. The Sleepless Hordeling must spend 1 focus per enemy targeted (maximum 5).
 
 ##### Tactics
 

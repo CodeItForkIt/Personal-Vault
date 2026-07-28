@@ -8,7 +8,7 @@ aliases: ["Forms of Resolve"]
 ---
 ![[illusion-evasion-echo-purple.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 You gain two new singer forms—[[Ancestries/Singer/Forms/Warform|Warform]] and [[Ancestries/Singer/Forms/Workform|Workform]]—which you can transform into using your Change Form.
 

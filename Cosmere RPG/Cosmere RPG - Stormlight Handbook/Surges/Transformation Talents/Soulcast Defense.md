@@ -8,7 +8,7 @@ aliases: ["Soulcast Defense"]
 ---
 ![[barrier-shield-dome-blue-purple.webp|64]]
 
-**Activation:** r
+**Activation:** Reaction
 
 *You Soulcast near-instinctively, able to transform projectiles in flight.*
 

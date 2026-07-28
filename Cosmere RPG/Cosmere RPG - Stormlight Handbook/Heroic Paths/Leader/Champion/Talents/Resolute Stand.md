@@ -8,7 +8,7 @@ aliases: ["Resolute Stand"]
 ---
 ![[silhouette-hold-beam-blue.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You project resolve, and even powerful groups of opponents find it hard to focus their attention elsewhere.*
 

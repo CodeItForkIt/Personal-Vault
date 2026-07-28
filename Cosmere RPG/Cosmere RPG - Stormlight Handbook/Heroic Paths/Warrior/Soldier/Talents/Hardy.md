@@ -8,7 +8,7 @@ aliases: ["Hardy"]
 ---
 ![[heart-glowing-red.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You’ve trained your body to endure pain and fatigue, keeping you in the fight until the bitter end.*
 

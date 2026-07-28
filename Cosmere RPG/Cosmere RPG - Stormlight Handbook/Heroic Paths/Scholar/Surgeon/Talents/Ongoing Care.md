@@ -8,7 +8,7 @@ aliases: ["Ongoing Care"]
 ---
 ![[heart-hand-gold-green.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *Medical care can be an arduous process that requires patience and periodic reassessment. You’ve studied the connection between physical and mental health, learning to support both on the long road to recovery.*
 

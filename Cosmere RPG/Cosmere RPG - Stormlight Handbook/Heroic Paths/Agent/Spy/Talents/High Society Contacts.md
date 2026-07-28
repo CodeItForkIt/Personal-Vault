@@ -8,7 +8,7 @@ aliases: ["High Society Contacts"]
 ---
 ![[diplomacy-handshake.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Action
 
 *Your patron’s name opens doors for you, even in unfamiliar places. By invoking their name or network in the right context, you can expand your influence even further.*
 

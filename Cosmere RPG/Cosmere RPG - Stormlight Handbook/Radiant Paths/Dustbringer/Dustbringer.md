@@ -76,4 +76,4 @@ In the modern era, most ashspren still haven’t forgiven humans for the Recrean
 >
 > **Physical Interaction.** Ashspren are nearly incorporeal in the Physical Realm. They can’t pass through objects, but they can press themselves completely flat against surfaces, enabling them to pass through almost any gap that’s at least a handspan long, even if its width is razor-thin.
 >
-> 0 or r **Test Assistance (Costs 1 Focus) .** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, ashspren can help with setting traps, dismantling objects, Crafting tests, and Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.
+> One Action or One Action **Test Assistance (Costs 1 Focus) .** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, ashspren can help with setting traps, dismantling objects, Crafting tests, and Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.

@@ -8,7 +8,7 @@ aliases: ["Distracting Illusion"]
 ---
 ![[ring-circle-smoke-blue.webp|64]]
 
-**Activation:** 1
+**Activation:** One Action
 
 *You create a moving, illusory copy of someone to distract your enemies.*
 

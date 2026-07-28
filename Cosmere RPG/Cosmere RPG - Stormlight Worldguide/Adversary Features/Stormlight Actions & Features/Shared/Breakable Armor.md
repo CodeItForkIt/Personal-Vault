@@ -8,4 +8,4 @@ aliases: ["Breakable Armor"]
 ---
 ![[shield-damaged-broken-gold.webp|64]]
 
-After the Actor Name is hit by an attack, the attacker can spend O to cause the Actor Name's Shardplate to lose 1 charge.
+After the Actor Name is hit by an attack, the attacker can spend Opportunity to cause the Actor Name's Shardplate to lose 1 charge.

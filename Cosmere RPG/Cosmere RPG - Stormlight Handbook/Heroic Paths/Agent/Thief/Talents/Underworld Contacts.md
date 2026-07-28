@@ -8,7 +8,7 @@ aliases: ["Underworld Contacts"]
 ---
 ![[diplomacy-handshake.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Action
 
 *When you travel in circles of ill repute, your patron or follower’s name carries remarkable weight.*
 

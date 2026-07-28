@@ -8,7 +8,7 @@ aliases: ["Customary Garb"]
 ---
 ![[robe-layered-white.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You’ve worn your uniform or traditional clothing for so long that it feels like a second skin, freeing your movements and granting you a deep well of confidence.*
 

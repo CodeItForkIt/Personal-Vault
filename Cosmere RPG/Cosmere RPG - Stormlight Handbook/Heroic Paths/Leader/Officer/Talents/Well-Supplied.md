@@ -8,7 +8,7 @@ aliases: ["Well-Supplied"]
 ---
 ![[sack-open-grain-red-tan.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You adeptly move the wheels of the military machine, acquiring the supplies needed to keep your unit in fighting shape.*
 

@@ -18,9 +18,9 @@ aliases: ["Dustbringer of the Fourth Ideal"]
 
 The following options are available when an enemy gains an Opportunity or Complication during a scene with the Dustbringer:
 
-**Opportunity.** An enemy can spend O to prevent the Dustbringer from using their **Burst of Flame** and **Regenerate** actions until the end of the Dustbringer's next turn.
+**Opportunity.** An enemy can spend Opportunity to prevent the Dustbringer from using their **Burst of Flame** and **Regenerate** actions until the end of the Dustbringer's next turn.
 
-**Complication.** The GM can spend c from an enemy's test to remove the Investiture cost from the Dustbringer's **Decaying Touch** action and **Skate** free action until the end of the Dustbringer's next turn.
+**Complication.** The GM can spend Complication from an enemy's test to remove the Investiture cost from the Dustbringer's **Decaying Touch** action and **Skate** free action until the end of the Dustbringer's next turn.
 
 ##### Tactics
 
@@ -43,7 +43,7 @@ While they have 1 Investiture or more, the Dustbringer of the Fourth Ideal can't
 
 **Graze** `2d10 Spirit average`;
 
-**Hit** `2d10 + 10 Spirit average`, and the Dustbringer of the Fourth Ideal can spend 1 focus to use the Disengage action as 0.
+**Hit** `2d10 + 10 Spirit average`, and the Dustbringer of the Fourth Ideal can spend 1 focus to use the Disengage action as Free Action.
 
 ### Regenerate
 *1 fre*
@@ -58,7 +58,7 @@ The Dustbringer of the Fourth Ideal is equipped with Shardplate. Before they tak
 ### Breakable Armor
 *1*
 
-After the Dustbringer of the Fourth Ideal is hit by an attack, the attacker can spend O to cause the Dustbringer of the Fourth Ideal's Shardplate to lose 1 charge.
+After the Dustbringer of the Fourth Ideal is hit by an attack, the attacker can spend Opportunity to cause the Dustbringer of the Fourth Ideal's Shardplate to lose 1 charge.
 
 ### Inescapable Decay
 *1 act*
@@ -82,7 +82,7 @@ The Dustbringer of the Fourth Ideal targets themself or an ally in reach, ending
 ### Burst of Flame
 *2 act*
 
-The Dustbringer of the Fourth Ideal emits a burst of fire that deals `1d12 Energy average` to each character within 20 feet of them and sets unattended objects in that area ablaze. Additionally, the Dustbringer of the Fourth Ideal can spend 1 focus or more to shower sparks onto that many enemies within 30 feet of them; each target must succeed on an *Test: `skill=agi dc=16`* or lose one 1 on their next turn.
+The Dustbringer of the Fourth Ideal emits a burst of fire that deals `1d12 Energy average` to each character within 20 feet of them and sets unattended objects in that area ablaze. Additionally, the Dustbringer of the Fourth Ideal can spend 1 focus or more to shower sparks onto that many enemies within 30 feet of them; each target must succeed on an *Test: `skill=agi dc=16`* or lose one One Action on their next turn.
 
 ### Strike: Shortbow
 *1 act*

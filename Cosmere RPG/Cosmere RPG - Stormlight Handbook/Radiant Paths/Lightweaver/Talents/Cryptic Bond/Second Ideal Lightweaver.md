@@ -8,7 +8,7 @@ aliases: ["Second Ideal (Lightweaver)"]
 ---
 ![[explosion-star-small-blue-yellow.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You seek to deepen your Nahel bond with your Cryptic by speaking the Second Ideal.*
 
@@ -16,4 +16,4 @@ Additionally, you gain the goal [[Radiant Paths/Lightweaver/Goals/Speak the Seco
 
 - You become **Empowered** until the end of that scene.
 
-- Your [[Actions/Stormlight/Enhance|Enhance]] action becomes more powerful. While your current **Investiture** is 1 or greater, you can use Enhance as 0, and you don’t need to spend Investiture to use this action or maintain its effect.
+- Your [[Actions/Stormlight/Enhance|Enhance]] action becomes more powerful. While your current **Investiture** is 1 or greater, you can use Enhance as Free Action, and you don’t need to spend Investiture to use this action or maintain its effect.

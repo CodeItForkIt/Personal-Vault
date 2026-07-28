@@ -12,4 +12,4 @@ aliases: ["Strike: Shardblade"]
 
 **Graze** `2d10 Spirit average`;
 
-**Hit** `2d10 + 8 Spirit average`, and the Actor Name can spend 1 focus to use the Disengage action as 0.
+**Hit** `2d10 + 8 Spirit average`, and the Actor Name can spend 1 focus to use the Disengage action as Free Action.

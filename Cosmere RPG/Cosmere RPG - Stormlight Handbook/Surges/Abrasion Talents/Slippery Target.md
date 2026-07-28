@@ -8,7 +8,7 @@ aliases: ["Slippery Target"]
 ---
 ![[crosshair-bars-yellow.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You make yourself so slick that glancing and hasty blows slide right off you.*
 

@@ -8,7 +8,7 @@ aliases: ["Bloodstance"]
 ---
 ![[strike-beam-blood-large-red-purple.webp|64]]
 
-**Activation:** 1
+**Activation:** Special Activation
 
 *You assume a reckless, violent stance that trades defense for deadly power.*
 

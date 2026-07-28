@@ -18,9 +18,9 @@ aliases: ["Thunderclast"]
 
 The following options are available when an enemy gains an Opportunity or Complication during a scene with the Thunderclast:
 
-**Opportunity.** An enemy can spend O to prevent the Thunderclast from using their Crushing Palm action or spending focus until the end of the Thunderclast's next turn.
+**Opportunity.** An enemy can spend Opportunity to prevent the Thunderclast from using their Crushing Palm action or spending focus until the end of the Thunderclast's next turn.
 
-**Complication.** The GM can spend c from an enemy's test to have the Thunderclast use their Crushing Palm action as r. The target gains a disadvantage on the Athletics test against this action.
+**Complication.** The GM can spend Complication from an enemy's test to have the Thunderclast use their Crushing Palm action as Reaction. The target gains a disadvantage on the Athletics test against this action.
 
 ##### Tactics
 

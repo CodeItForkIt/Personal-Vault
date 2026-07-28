@@ -8,7 +8,7 @@ aliases: ["Get 'Em Talking"]
 ---
 ![[thumbsup-approval-like.webp|64]]
 
-**Activation:** 2
+**Activation:** Always Active
 
 *With a leading question or cutting remark, you goad others into revealing their motives.*
 

@@ -25,7 +25,7 @@ The Axehound's attacks can't critically hit, and they're immediately defeated wh
 After an enemy within 30 feet of the Axehound falls Prone, the Axehound moves up to 15 feet toward them.
 
 ### Pack Instincts
-While within 5 feet of an ally, the Axehound can use the Gain Advantage action as 0.
+While within 5 feet of an ally, the Axehound can use the Gain Advantage action as Free Action.
 
 ### Strike: Bite
 *1 act*

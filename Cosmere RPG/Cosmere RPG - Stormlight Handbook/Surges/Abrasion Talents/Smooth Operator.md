@@ -8,7 +8,7 @@ aliases: ["Smooth Operator"]
 ---
 ![[ball-spinning-blue.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You’ve become so efficient at infusing yourself with Abrasion that it becomes subconscious, allowing you to slip around with effortless grace.*
 

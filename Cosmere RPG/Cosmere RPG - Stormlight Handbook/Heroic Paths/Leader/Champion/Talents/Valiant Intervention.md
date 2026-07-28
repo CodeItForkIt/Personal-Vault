@@ -8,7 +8,7 @@ aliases: ["Valiant Intervention"]
 ---
 ![[illusion-evasion-echo-purple.webp|64]]
 
-**Activation:** 1
+**Activation:** One Action
 
 *You dauntlessly approach your opposition, daring them to ignore you at their peril.*
 

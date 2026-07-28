@@ -66,7 +66,7 @@ Before the Heavy Shardbearer is unwillingly moved or knocked Prone, they ignore 
 ### Breakable Armor
 *1*
 
-After the Heavy Shardbearer is hit by an attack, the attacker can spend O to cause the Heavy Shardbearer's Shardplate to lose 1 charge.
+After the Heavy Shardbearer is hit by an attack, the attacker can spend Opportunity to cause the Heavy Shardbearer's Shardplate to lose 1 charge.
 
 ### Strike: Shardblade
 *1 act*

@@ -24,9 +24,9 @@ When Ylt the Truthwatcher swears the Third Ideal in [[Journal/07 - 07 What Was a
 
 The following options are available when an enemy gains an Opportunity or Complication during a scene with Ylt the Truthwatcher:
 
-**Opportunity.** An enemy can spend O to cause Ylt the Truthwatcher to burn too quickly through his Stormlight. Until the end of Ylt the Truthwatcher's next turn, double the Investiture cost of each Tension and Cohesion ability he uses.
+**Opportunity.** An enemy can spend Opportunity to cause Ylt the Truthwatcher to burn too quickly through his Stormlight. Until the end of Ylt the Truthwatcher's next turn, double the Investiture cost of each Tension and Cohesion ability he uses.
 
-**Complication.** When an attacker rolls a Complication while making a melee attack against Ylt the Truthwatcher with a non-special weapon, the GM can spend c to destroy that weapon with Ylt the Truthwatcher's Honorblade.
+**Complication.** When an attacker rolls a Complication while making a melee attack against Ylt the Truthwatcher with a non-special weapon, the GM can spend Complication to destroy that weapon with Ylt the Truthwatcher's Honorblade.
 
 ##### Tactics
 

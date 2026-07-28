@@ -8,7 +8,7 @@ aliases: ["Defensive Position"]
 ---
 ![[shield-block-gray-yellow.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You’ve learned when to withdraw and when to commit to a position, holding it unflinchingly.*
 

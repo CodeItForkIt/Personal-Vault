@@ -46,7 +46,7 @@ Before the Direform Regal is unwillingly moved or knocked Prone, they ignore tha
 ### Tackle
 *1 rea*
 
-When an enemy triggers a Reactive Strike from the Direform Regal, the Direform Regal can instead attempt to Grapple the enemy as r, spending focus as if they made a Reactive Strike. If the Grapple succeeds, the enemy also takes `1d6 Keen average` from the Direform Regal's carapace spikes.
+When an enemy triggers a Reactive Strike from the Direform Regal, the Direform Regal can instead attempt to Grapple the enemy as Reaction, spending focus as if they made a Reactive Strike. If the Grapple succeeds, the enemy also takes `1d6 Keen average` from the Direform Regal's carapace spikes.
 
 ### Strike: Hammer
 *1 act*

@@ -28,7 +28,7 @@ Shardplate adds the following unique traits:
 
 **Charges (4 charges).** Shardplate reinforces itself using Stormlight from its gems. An average set of Shardplate has 4 charges (though special sets might have more). Before you take damage while wearing Shardplate, you can expend a charge to increase your deflect value against that damage by 10. While the armor has at least 1 charge, it is Invested. When the armor runs out of charges, it no longer functions correctly; until recharged, it gains the **Cumbersome [6]** trait, and it loses the **Enhanced Attributes** and **Invested Ability Protection** traits.
 
-**Breakable.** Lucky hits against Shardplate can shatter plates of the armor, causing Stormlight to leak out. After you’re hit by an attack while wearing Shardplate, your opponent can spend O from that attack to cause your Shardplate to lose 1 charge.
+**Breakable.** Lucky hits against Shardplate can shatter plates of the armor, causing Stormlight to leak out. After you’re hit by an attack while wearing Shardplate, your opponent can spend Opportunity from that attack to cause your Shardplate to lose 1 charge.
 
 **Recharging.** Shardplate can be recharged in the usual manner (see “Using Items” at the beginning of this chapter), either via unencased gems or a Radiant. However, Shardplate charges require significantly more Investiture than most fabrials, requiring 5 Investiture or 5 gems (instead of 1) to restore a single charge.
 

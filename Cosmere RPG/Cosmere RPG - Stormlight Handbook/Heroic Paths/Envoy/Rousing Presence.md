@@ -8,7 +8,7 @@ aliases: ["Rousing Presence"]
 ---
 ![[intimidation-impressing.webp|64]]
 
-**Activation:** 1
+**Activation:** One Action
 
 *With a gesture, a facial expression, or a few scant words, you inspire others to excel.*
 

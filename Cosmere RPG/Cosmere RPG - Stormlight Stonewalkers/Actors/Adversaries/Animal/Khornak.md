@@ -42,7 +42,7 @@ The Khornak moves up to 15 feet in any direction while dragging an enemy they ha
 
 **Graze** `1d8 Impact average`;
 
-**Hit** `1d8 + 5 Impact average`, and the target becomes Restrained by the Khornak's jaw while the Khornak remains within 5 feet of them. The Khornak can spend 1 focus to also make the target Afflicted [`1d4 Vital`] until the target regains at least 1 health. As 2, the target or a character who can reach them can make a *Test: `skill=agi dc=16`* or *Test: `skill=ath dc=16`*, ending the Restrained condition on a success.
+**Hit** `1d8 + 5 Impact average`, and the target becomes Restrained by the Khornak's jaw while the Khornak remains within 5 feet of them. The Khornak can spend 1 focus to also make the target Afflicted [`1d4 Vital`] until the target regains at least 1 health. As Two Actions, the target or a character who can reach them can make a *Test: `skill=agi dc=16`* or *Test: `skill=ath dc=16`*, ending the Restrained condition on a success.
 
 While the Khornak is restraining this target, the Khornak can't make another Crushing Jaw attack.
 

@@ -18,9 +18,9 @@ aliases: ["Dymab"]
 
 The following options are available when an enemy gains an Opportunity or Complication during a scene with the Deepest One:
 
-**Opportunity.** An enemy can spend O to prevent the Deepest One from using their Surge of Cohesion and Regenerate actions until the end of the Deepest One's next turn. Additionally, if the Deepest One is submerged, they immediately emerge from that surface.
+**Opportunity.** An enemy can spend Opportunity to prevent the Deepest One from using their Surge of Cohesion and Regenerate actions until the end of the Deepest One's next turn. Additionally, if the Deepest One is submerged, they immediately emerge from that surface.
 
-**Complication.** The GM can spend c from an enemy's test to have the Deepest One use their abilities more efficiently. Until the end of their next turn, the Deepest One becomes Focused, and they don't need to spend Investiture to use their features or actions.
+**Complication.** The GM can spend Complication from an enemy's test to have the Deepest One use their abilities more efficiently. Until the end of their next turn, the Deepest One becomes Focused, and they don't need to spend Investiture to use their features or actions.
 
 ##### Tactics
 
@@ -46,7 +46,7 @@ Before the Dymab takes impact or keen damage from a non-wooden source, they can 
 
 The Dymab strangles a target they can sense within 5 feet of them. The target must succeed on a *Test: `skill=agi dc=17`* or become Restrained while the Deepest One remains within 5 feet of them. If the Restrained target is also Prone, they begin suffocating and are Afflicted [`2d10 Vital`] until they remove either the Restrained or Prone condition.
 
-As 2, the Restrained target can make a *Test: `skill=agi dc=17`*, removing the Restraind condition on a success. If the Dymab takes at least 20 damage on a single turn, the target escapes and is no longer Restrained.
+As Two Actions, the Restrained target can make a *Test: `skill=agi dc=17`*, removing the Restraind condition on a success. If the Dymab takes at least 20 damage on a single turn, the target escapes and is no longer Restrained.
 
 ### Surge of Cohesion
 *1 act*
@@ -58,7 +58,7 @@ Depending on the nature of the reshaping, this can cause an effect such as creat
 ### Entrap
 *1 rea*
 
-When an enemy triggers a Reactive Strike from the Dymab while the Dymab is submerged, the Dymab can instead use their Grasping Hands as r, spending focus as if they made a Reactive Strike.
+When an enemy triggers a Reactive Strike from the Dymab while the Dymab is submerged, the Dymab can instead use their Grasping Hands as Reaction, spending focus as if they made a Reactive Strike.
 
 ### Regenerate
 *1 fre*

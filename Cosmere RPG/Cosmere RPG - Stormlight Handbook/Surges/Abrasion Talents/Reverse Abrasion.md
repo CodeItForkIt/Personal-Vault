@@ -8,7 +8,7 @@ aliases: ["Reverse Abrasion"]
 ---
 ![[debuff-energy-hold-blue-yellow.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *Instead of making objects frictionless with Abrasion, you can now increase friction.*
 

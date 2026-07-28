@@ -219,7 +219,7 @@ This example of gameplay illustrates the flow of a conversation. Lisiril, Jhesh,
 
 **GM:** Okay, go ahead and make a Persuasion test to influence Jorni. Because you’ve never actually met Jorni before, raise the stakes.
 
-*Mia rolls a d20 along with the plot die, rolling a 12 on the d20 with a* C*2* *on the plot die. She adds her Persuasion modifier of +4, along with the +2 from the plot die, for a total of 18. That’s higher than Jorni’s Spiritual defense, which the GM set as the DC.*
+*Mia rolls a d20 along with the plot die, rolling a 12 on the d20 with a* Complication*2* *on the plot die. She adds her Persuasion modifier of +4, along with the +2 from the plot die, for a total of 18. That’s higher than Jorni’s Spiritual defense, which the GM set as the DC.*
 
 **GM:** Well, despite the slightly shady opening, you’re pretty persuasive. Jorni seems interested despite her skepticism.
 
@@ -247,7 +247,7 @@ This example of gameplay illustrates the flow of a conversation. Lisiril, Jhesh,
 
 **Rico (playing Aj):** No problem!
 
-*Taylor rolls a d20 along with the plot die, rolling a 17 on the d20 with a* C*4* *on the plot die. They add their Intimidation modifier of +2, along with the +4 from the plot die, for a total of 23. That’s higher than Jorni’s Cognitive defense (which the GM set as the DC).*
+*Taylor rolls a d20 along with the plot die, rolling a 17 on the d20 with a* Complication*4* *on the plot die. They add their Intimidation modifier of +2, along with the +4 from the plot die, for a total of 23. That’s higher than Jorni’s Cognitive defense (which the GM set as the DC).*
 
 **GM:** Jorni drops the line of questioning. Clearly you’re tough enough that it’s not worth the trouble.
 

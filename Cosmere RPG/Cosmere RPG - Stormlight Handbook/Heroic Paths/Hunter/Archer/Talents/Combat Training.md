@@ -8,7 +8,7 @@ aliases: ["Combat Training"]
 ---
 ![[swords-parry-block-blue.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You’ve been trained in the basics of weaponry and elementary battle tactics.*
 

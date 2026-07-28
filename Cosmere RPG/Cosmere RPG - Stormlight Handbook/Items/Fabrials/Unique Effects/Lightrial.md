@@ -14,6 +14,6 @@ This fabrial produces a dazzling burst of light or sound. As 1, make a Deception
 
 **Charges.** This fabrial has 3 charges.
 
-**Drawback.** The GM can spend C from using this fabrial to make you Disoriented until the end of your next turn.
+**Drawback.** The GM can spend Complication from using this fabrial to make you Disoriented until the end of your next turn.
 
-**Upgrade.** You can spend O from using this fabrial to also deal 1d6 vital damage to the target.
+**Upgrade.** You can spend Opportunity from using this fabrial to also deal 1d6 vital damage to the target.

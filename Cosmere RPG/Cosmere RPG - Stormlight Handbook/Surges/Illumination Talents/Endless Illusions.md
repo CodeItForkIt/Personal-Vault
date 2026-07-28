@@ -8,7 +8,7 @@ aliases: ["Endless Illusions"]
 ---
 ![[clock-stopwatch-white-blue.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You’ve become so efficient at powering your illusions that you can maintain them indefinitely.*
 

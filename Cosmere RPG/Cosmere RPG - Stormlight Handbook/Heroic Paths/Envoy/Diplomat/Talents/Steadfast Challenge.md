@@ -8,7 +8,7 @@ aliases: ["Steadfast Challenge"]
 ---
 ![[humanoid-single-yellow.webp|64]]
 
-**Activation:** 1
+**Activation:** One Action
 
 *You stand firm, locking eyes with your opponent and speaking a challenge with unnerving calm.*
 

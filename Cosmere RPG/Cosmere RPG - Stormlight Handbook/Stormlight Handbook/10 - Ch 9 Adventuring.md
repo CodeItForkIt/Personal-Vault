@@ -285,7 +285,7 @@ While Immobilized, your movement rate becomes 0, and you can’t move or be move
 
 While Prone, you are lying flat on the ground. While Prone, you are Slowed and melee attacks against you gain an advantage. You can use the Brace action without cover.
 
-You can stand up and end this condition as 0. After you do, your movement rate is reduced by 5 until the start of your next turn.
+You can stand up and end this condition as One Action. After you do, your movement rate is reduced by 5 until the start of your next turn.
 
 If you become Prone while climbing or flying, you fall and take damage as usual (see [[Stormlight Handbook/11 - Ch 10 Combat#Falling|Falling]] in chapter 10).
 

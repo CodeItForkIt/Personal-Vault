@@ -286,7 +286,7 @@ aliases: ["Glossary and Index"]
 
 [[Stormlight Handbook/05 - Ch 4 Heroic Paths|Animal Bond]], [[Stormlight Handbook/09 - Ch 8 Goals and Rewards#Example Companion: Animal|Example Companion: Animal]]
 
-**Complication (**C**):** A negative narrative effect that applies to the current skill test. Usually gained via the plot die or a natural 1.
+**Complication (**Complication**):** A negative narrative effect that applies to the current skill test. Usually gained via the plot die or a natural 1.
 
 [[Stormlight Handbook/01 - Introduction#Opportunities and Complications|Opportunities and Complications]], [[Stormlight Handbook/04 - Ch 3 Character Statistics#Varied Test Results|Varied Test Results]], [[Stormlight Handbook/11 - Ch 10 Combat|Opportunities and Complications in Combat]], [[Stormlight Handbook/12 - Ch 11 Conversations#When to Test|When to Test]]
 
@@ -1054,7 +1054,7 @@ aliases: ["Glossary and Index"]
 
 [[Stormlight Handbook/01 - Introduction|Adventuring and Advancement]]
 
-**Opportunity (**O**):** A beneficial narrative effect that applies to the current skill test. Usually gained via the plot die or a natural 20.
+**Opportunity (**Opportunity**):** A beneficial narrative effect that applies to the current skill test. Usually gained via the plot die or a natural 20.
 
 [[Stormlight Handbook/01 - Introduction#Opportunities and Complications|Opportunities and Complications]], [[Stormlight Handbook/04 - Ch 3 Character Statistics#Varied Test Results|Varied Test Results]], [[Stormlight Handbook/11 - Ch 10 Combat|Opportunities and Complications in Combat]], [[Stormlight Handbook/17 - Appendix 2 Tables|Conversation Opportunities and Complications]], [[Stormlight Handbook/14 - Ch 13 Gamemastering#Opportunities and Complications|Opportunities and Complications]]
 

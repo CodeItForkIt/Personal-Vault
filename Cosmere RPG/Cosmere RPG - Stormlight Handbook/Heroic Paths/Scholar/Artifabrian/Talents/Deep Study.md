@@ -8,7 +8,7 @@ aliases: ["Deep Study"]
 ---
 ![[academics-study-reading-book.webp|64]]
 
-**Activation:** 8
+**Activation:** Special Activation
 
 *Driven by academic inquiry, you love nothing more than getting lost in an archive of books, scrolls, and dusty secrets.*
 

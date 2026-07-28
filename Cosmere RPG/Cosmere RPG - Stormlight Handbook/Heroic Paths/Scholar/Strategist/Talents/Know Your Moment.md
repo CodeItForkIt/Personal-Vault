@@ -8,7 +8,7 @@ aliases: ["Know Your Moment"]
 ---
 ![[hourglass-tilted-glowing-gold.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *Conflict follows its own beat, rising and falling as powers struggle for dominance. Your knowledge of strategy, rhetoric, and history guides you on when to act for greatest effect.*
 

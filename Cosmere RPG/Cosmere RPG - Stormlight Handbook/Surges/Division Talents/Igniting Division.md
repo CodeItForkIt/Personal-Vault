@@ -8,7 +8,7 @@ aliases: ["Igniting Division"]
 ---
 ![[blast-jet-stream-embers-red.webp|64]]
 
-**Activation:** \*
+**Activation:** Always Active
 
 *You can make anything burn, even materials that are usually nonflammable.*
 

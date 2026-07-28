@@ -18,9 +18,9 @@ aliases: ["Husked One"]
 
 The following options are available when an enemy gains an Opportunity or Complication during a scene with the Husked One:
 
-**Opportunity.** An enemy can spend O to prevent the Husked One from using their Escape Husk action until the end of the Husked One's next turn. Alternatively, if the Husked One is in ribbon form, the O can be spent to force them to immediately use Reform Body (no action required) if the Husked One has enough Investiture to do so.
+**Opportunity.** An enemy can spend Opportunity to prevent the Husked One from using their Escape Husk action until the end of the Husked One's next turn. Alternatively, if the Husked One is in ribbon form, the Opportunity can be spent to force them to immediately use Reform Body (no action required) if the Husked One has enough Investiture to do so.
 
-**Complication.** The GM can spend c from an enemy's test to have the Husked One use their Impairing Blow action as r. The target gains a disadvantage on their Athletics test against this action.
+**Complication.** The GM can spend Complication from an enemy's test to have the Husked One use their Impairing Blow action as Reaction. The target gains a disadvantage on their Athletics test against this action.
 
 ##### Tactics
 
@@ -43,7 +43,7 @@ The Husked One can use their carapace like a shield, allowing them to use the Br
 ### Chokehold
 *1 act*
 
-The Husked One violently grabs a target within 5 feet of them. The target must succeed on a *Test: `skill=ath dc=18`* or become Restrained while the Husked One remains within 5 feet of them. The Husked One can spend 1 focus to also choke the target and make them Afflicted `2d10 Vital` until the target is no longer Restrained. As 2, the target or a character who can reach them can make a *Test: `skill=ath dc=18`*, ending he Restrained condition on a success.
+The Husked One violently grabs a target within 5 feet of them. The target must succeed on a *Test: `skill=ath dc=18`* or become Restrained while the Husked One remains within 5 feet of them. The Husked One can spend 1 focus to also choke the target and make them Afflicted `2d10 Vital` until the target is no longer Restrained. As Two Actions, the target or a character who can reach them can make a *Test: `skill=ath dc=18`*, ending he Restrained condition on a success.
 
 ### Escape Husk
 *1 act*
@@ -68,7 +68,7 @@ While in ribbon form, the Husked One reforms their Physical body, exiting their 
 ### Assassinate
 *1 fre*
 
-After the Husked One ends a Move action or uses their Reform Body action within 5 feet of an enemy, the Husked One can use their Impairing Blow on that enemy as 0.
+After the Husked One ends a Move action or uses their Reform Body action within 5 feet of an enemy, the Husked One can use their Impairing Blow on that enemy as Free Action.
 
 ### Regenerate
 *1 fre*
@@ -82,7 +82,7 @@ The Husked One recovers `1d6 + 3 Healing average`. They can use this free action
 
 **Graze** `2d8 Keen average`;
 
-**Hit** `2d8 + 11 Keen average`, and the Husked One can spend 1 focus to use the Disengage action as 0.
+**Hit** `2d8 + 11 Keen average`, and the Husked One can spend 1 focus to use the Disengage action as Free Action.
 
 ### Boss
 The Husked One can take both a fast turn and a slow turn each round. After an enemy finishes a turn, the Husked One can spend 1 focus to immediately use an extra 1 or 0. Additionally, they can spend 1 focus on their turn to remove a condition from themself.

@@ -8,7 +8,7 @@ aliases: ["Practiced Oratory"]
 ---
 ![[academics-book-study-runes.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *Thanks to your study of the history of rhetoric, you confidently craft your speeches for widespread appeal.*
 

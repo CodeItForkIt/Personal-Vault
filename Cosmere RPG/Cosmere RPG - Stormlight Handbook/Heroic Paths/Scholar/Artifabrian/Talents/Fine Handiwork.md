@@ -8,7 +8,7 @@ aliases: ["Fine Handiwork"]
 ---
 ![[map-chart-tan.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *Your dedication to quality and love for innovation ensure that your designs stand out from the crowd.*
 

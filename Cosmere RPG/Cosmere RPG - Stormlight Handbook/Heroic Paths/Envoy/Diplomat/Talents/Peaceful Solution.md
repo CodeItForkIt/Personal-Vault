@@ -8,7 +8,7 @@ aliases: ["Peaceful Solution"]
 ---
 ![[diplomacy-peace-alliance.webp|64]]
 
-**Activation:** 0
+**Activation:** Free Action
 
 *The best battle is one you don’t have to fight. If your calm appeals meet willing hearts, you’d rather end the conflict peacefully.*
 

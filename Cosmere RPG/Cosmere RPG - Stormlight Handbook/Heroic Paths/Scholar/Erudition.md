@@ -8,7 +8,7 @@ aliases: ["Erudition"]
 ---
 ![[academics-book-study-purple.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You’ve conditioned your mind to quickly assimilate, archive, and recall information. After brief but intensive study, you can navigate your newest areas of focus with impressive proficiency.*
 

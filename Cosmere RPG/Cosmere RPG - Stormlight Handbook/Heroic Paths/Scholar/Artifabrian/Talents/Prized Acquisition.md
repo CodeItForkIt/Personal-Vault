@@ -8,7 +8,7 @@ aliases: ["Prized Acquisition"]
 ---
 ![[gem-cut-faceted-square-purple.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *Through good fortune or hard work, you’ve acquired a gemstone of sufficient quality to practice crafting fabrials.*
 

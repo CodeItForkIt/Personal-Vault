@@ -8,7 +8,7 @@ aliases: ["Spark Sending"]
 ---
 ![[rune-sigil-red-orange.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You annihilate your targets from a distance by sending your entropic spark racing through a physical object, creating a chain reaction at its destination.*
 

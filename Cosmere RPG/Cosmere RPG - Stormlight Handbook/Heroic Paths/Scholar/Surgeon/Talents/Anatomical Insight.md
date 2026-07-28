@@ -8,8 +8,8 @@ aliases: ["Anatomical Insight"]
 ---
 ![[anatomy-organ-heart-red.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *Your knowledge of anatomy aids you in striking vital points to incapacitate your enemies while minimizing permanent harm.*
 
-When you hit a target of your size or smaller with an unarmed attack, you can spend 1 focus or O to apply the **Exhausted** condition to your target. The penalty applied by this condition equals half your ranks in **Medicine**, rounded up.
+When you hit a target of your size or smaller with an unarmed attack, you can spend 1 focus or Opportunity to apply the **Exhausted** condition to your target. The penalty applied by this condition equals half your ranks in **Medicine**, rounded up.

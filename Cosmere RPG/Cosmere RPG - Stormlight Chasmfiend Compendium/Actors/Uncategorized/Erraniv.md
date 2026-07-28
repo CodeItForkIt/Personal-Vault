@@ -66,7 +66,7 @@ Before the Erraniv is unwillingly moved or knocked Prone, they ignore that effec
 ### Breakable Armor
 *1*
 
-After the Erraniv is hit by an attack, the attacker can spend O to cause the Erraniv's Shardplate to lose 1 charge.
+After the Erraniv is hit by an attack, the attacker can spend Opportunity to cause the Erraniv's Shardplate to lose 1 charge.
 
 ### Strike: Shardblade
 *1 act*

@@ -8,7 +8,7 @@ aliases: ["Composed"]
 ---
 ![[meditation-chi-focus-blue.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *Your practiced composure enables you to push yourself to impressive limits without becoming distracted or losing track of threats in your environment.*
 

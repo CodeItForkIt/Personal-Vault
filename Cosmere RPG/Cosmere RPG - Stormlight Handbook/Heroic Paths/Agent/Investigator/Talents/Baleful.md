@@ -8,7 +8,7 @@ aliases: ["Baleful"]
 ---
 ![[target-glowing-yellow.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *With a severe stare, you crack the resolve of all but the most composed adversaries.*
 

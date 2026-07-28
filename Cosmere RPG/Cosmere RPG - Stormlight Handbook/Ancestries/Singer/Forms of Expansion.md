@@ -8,7 +8,7 @@ aliases: ["Forms of Expansion"]
 ---
 ![[abstract-ribbons-red-orange.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 You gain two new forms of power—[[Ancestries/Singer/Forms/Envoyform|Envoyform]] and [[Ancestries/Singer/Forms/Relayform|Relayform]]—which you can transform into using your [[Ancestries/Singer/Change Form|Change Form]].
 

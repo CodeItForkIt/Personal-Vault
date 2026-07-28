@@ -8,7 +8,7 @@ aliases: ["Group Flight"]
 ---
 ![[energy-stream-link-spiral-teal.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You can infuse multiple allies with Gravitation at once.*
 

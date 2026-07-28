@@ -27,7 +27,7 @@ At the start of each scene, if the Spear Infantry has their shield and isn't Sur
 ### Military Tactics
 *1 spe*
 
-Once per round, the Spear Infantry can spend 1 additional focus to use the Aid or Reactive Strike reaction without using their r.
+Once per round, the Spear Infantry can spend 1 additional focus to use the Aid or Reactive Strike reaction without using their Reaction.
 
 ### Shield Bash
 *1 act*

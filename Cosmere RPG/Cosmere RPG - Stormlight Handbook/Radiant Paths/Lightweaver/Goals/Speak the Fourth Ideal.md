@@ -14,4 +14,4 @@ After you complete this goal, you gain the following reward:
 
 - You become **Empowered** until the end of that scene.
 
-- You can call a swarm of creationspren as 1. This swarm manifests as [[Items/Armor/Shardplate Radiant|Shardplate (Radiant)]] around you or a willing character you can sense within 20 feet of you. This swarm lasts until you dismiss it (0) or manifest it on a different character.
+- You can call a swarm of creationspren as One Action. This swarm manifests as [[Items/Armor/Shardplate Radiant|Shardplate (Radiant)]] around you or a willing character you can sense within 20 feet of you. This swarm lasts until you dismiss it (Free Action) or manifest it on a different character.

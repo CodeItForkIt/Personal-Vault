@@ -8,7 +8,7 @@ aliases: ["Resilient Hero"]
 ---
 ![[shield-barrier-glowing-blue.webp|64]]
 
-**Activation:** r
+**Activation:** Reaction
 
 *You summon your last reserves and press forward despite grievous wounds.*
 

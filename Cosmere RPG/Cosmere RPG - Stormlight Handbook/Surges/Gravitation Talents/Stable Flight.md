@@ -8,7 +8,7 @@ aliases: ["Stable Flight"]
 ---
 ![[buff-flight-wings-runes-blue.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You’re an expert in launching attacks from afar in mid-flight.*
 

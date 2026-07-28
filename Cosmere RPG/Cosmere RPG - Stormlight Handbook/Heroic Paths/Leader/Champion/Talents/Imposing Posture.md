@@ -8,7 +8,7 @@ aliases: ["Imposing Posture"]
 ---
 ![[intimidation-impressing.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *On and off the battlefield, your powerful physique sends a clear message to your foes.*
 

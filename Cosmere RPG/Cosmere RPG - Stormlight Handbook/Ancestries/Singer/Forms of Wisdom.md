@@ -8,7 +8,7 @@ aliases: ["Forms of Wisdom"]
 ---
 ![[academics-book-study-runes.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 You gain two new singer forms—[[Ancestries/Singer/Forms/Mediationform|Mediationform]] and [[Ancestries/Singer/Forms/Scholarform|Scholarform]]—which you can transform into using your Change Form.
 

@@ -10,7 +10,7 @@ aliases: ["True Stoneshaping"]
 
 **Prerequisite:** Cohesion 2+; [[Items/Surges/Cohesion/Tunneling|Tunneling]] talent
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You no longer simply soften stone—you assert your will on it, molding it into complex shapes with a mere command.*
 

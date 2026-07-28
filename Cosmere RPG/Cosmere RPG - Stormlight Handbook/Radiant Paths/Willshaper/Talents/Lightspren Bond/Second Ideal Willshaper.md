@@ -16,4 +16,4 @@ You gain the goal [[Radiant Paths/Willshaper/Goals/Speak the Second Ideal|Speak 
 
 - You become **Empowered** until the end of that scene.
 
-- Your [[Actions/Stormlight/Enhance|Enhance]] action becomes more powerful. While your current Investiture is 1 or greater, you can use Enhance as 0, and you don’t need to spend Investiture to use this action or maintain its effect.
+- Your [[Actions/Stormlight/Enhance|Enhance]] action becomes more powerful. While your current Investiture is 1 or greater, you can use Enhance as One Action, and you don’t need to spend Investiture to use this action or maintain its effect.

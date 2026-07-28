@@ -8,7 +8,7 @@ aliases: ["Frictionless Motion"]
 ---
 ![[trail-streak-zigzag-yellow.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You become increasingly adept at using Abrasion to glide through your environment.*
 

@@ -8,7 +8,7 @@ aliases: ["Stalwart Presence"]
 ---
 ![[shield-barrier-glowing-blue.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *Your words carry the certainty of your beliefs, bolstering the endurance of even those who don’t share your faith.*
 

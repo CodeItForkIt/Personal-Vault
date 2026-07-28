@@ -8,8 +8,8 @@ aliases: ["Bodily Decay"]
 ---
 ![[blood-corruption-vomit-red.webp|64]]
 
-**Activation:** \*
+**Activation:** Always Active
 
 *You atrophy the bodies of your enemies, inflicting debilitating wounds.*
 
-When you hit with a **Division** attack, you can spend O to inflict an injury on one target of that attack.
+When you hit with a **Division** attack, you can spend Opportunity to inflict an injury on one target of that attack.

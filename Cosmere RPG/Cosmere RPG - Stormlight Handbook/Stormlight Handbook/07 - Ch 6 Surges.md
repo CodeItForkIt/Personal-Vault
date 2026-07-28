@@ -64,7 +64,7 @@ If your surge allows you to make an attack, these follow the standard rules in t
 
 - If you can’t sense the target, your test gains a disadvantage.
 
-- On a hit, add your surge skill modifier to the damage. If you want, you can spend O to turn your hit into a critical hit.
+- On a hit, add your surge skill modifier to the damage. If you want, you can spend Opportunity to turn your hit into a critical hit.
 
 - On a miss, you can spend 1 focus per target to graze instead.
 

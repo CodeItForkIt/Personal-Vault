@@ -8,7 +8,7 @@ aliases: ["Master of the Skies"]
 ---
 ![[debuff-energy-hold-levitate-blue-yellow.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You’ve become so efficient at infusing yourself with Gravitation that it becomes subconscious, allowing you to endlessly soar.*
 

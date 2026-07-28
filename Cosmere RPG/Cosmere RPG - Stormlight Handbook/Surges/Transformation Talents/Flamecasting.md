@@ -8,7 +8,7 @@ aliases: ["Flamecasting"]
 ---
 ![[flame-burning-embers-yellow.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You’ve learned the difficult art of Soulcasting Essences directly into instantaneous bursts of flame.*
 

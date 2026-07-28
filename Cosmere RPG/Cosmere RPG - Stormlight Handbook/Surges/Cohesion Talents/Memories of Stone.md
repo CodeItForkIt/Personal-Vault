@@ -8,7 +8,7 @@ aliases: ["Memories of Stone"]
 ---
 ![[mask-stone-eyes-orange.webp|64]]
 
-**Activation:** 2
+**Activation:** Two Actions
 
 *Your deepening knowledge of the earth allows you to commune with stone itself, gaining visions of things the stone has seen.*
 

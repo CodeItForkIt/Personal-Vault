@@ -8,7 +8,7 @@ aliases: ["Change Form"]
 ---
 ![[silhouette-hold-beam-blue.webp|64]]
 
-**Activation:** 3
+**Activation:** Three Actions
 
 *You learn to bond a spren during highstorms and change your form. This transformation alters not only your appearance, but your physical, cognitive, and spiritual strengths, and even your personality.*
 

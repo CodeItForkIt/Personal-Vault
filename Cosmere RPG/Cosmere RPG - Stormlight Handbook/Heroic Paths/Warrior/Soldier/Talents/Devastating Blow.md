@@ -8,7 +8,7 @@ aliases: ["Devastating Blow"]
 ---
 ![[strike-axe-red.webp|64]]
 
-**Activation:** 2
+**Activation:** Two Actions
 
 *Delivering a fatal strike requires not only skill, but resolve. You’ve learned to set aside any natural aversion to harming others, and when you strike to kill, you do so without mercy or hesitation.*
 

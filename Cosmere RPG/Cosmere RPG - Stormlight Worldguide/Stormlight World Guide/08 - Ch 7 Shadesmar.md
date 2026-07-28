@@ -59,7 +59,7 @@ The seas of Shadesmar are filled with an incalculable number of objects. If you�
 
 The most reliable way to find the bead you want is to spend time sorting through hundreds of them. When you take a short rest, you can forgo recovery and instead spend your time searching through the beads of the sea. When you do, you can usually identify a bead that matches the general criteria you’re looking for, which you can then carry with you for later use. The beads you can find are up to the GM’s discretion; you’re unlikely to find a specific unique object, but within reason, you can usually find something that meets your general needs.
 
-If you instead need to find a bead quickly, you can Use a Skill to make an Insight test; on a success, you find that bead. The DC of this test is set by the GM based on how specific and rare of an object you’re looking for. The GM is encouraged to raise the stakes on this test, and they can spend C to present an object that has challenging consequences. For example, if you’re looking for a lantern but roll a Complication, you might find a piece of broken glass instead.
+If you instead need to find a bead quickly, you can Use a Skill to make an Insight test; on a success, you find that bead. The DC of this test is set by the GM based on how specific and rare of an object you’re looking for. The GM is encouraged to raise the stakes on this test, and they can spend Complication to present an object that has challenging consequences. For example, if you’re looking for a lantern but roll a Complication, you might find a piece of broken glass instead.
 
 ### Manifesting Objects From Beads
 
@@ -109,7 +109,7 @@ Skilled Lightweavers and Elsecallers can even Soulcast from Shadesmar. If you ha
 
 The beads of Shadesmar are seemingly drawn to Investiture. In their masses, they can form waves and swirl dangerously around Surgebinders who are using their powers.
 
-When you test a surge skill while near a sea of beads, raise the stakes. You can spend O to direct the flow of the beads around yourself, allowing you to move up to 15 feet without triggering a Reactive Strike. However, the GM can spend C to cause the swirling beads to knock you off your feet, dealing 1d6 impact damage and potentially pushing you into the sea.
+When you test a surge skill while near a sea of beads, raise the stakes. You can spend Opportunity to direct the flow of the beads around yourself, allowing you to move up to 15 feet without triggering a Reactive Strike. However, the GM can spend Complication to cause the swirling beads to knock you off your feet, dealing 1d6 impact damage and potentially pushing you into the sea.
 
 ## Flames of People
 
@@ -219,7 +219,7 @@ During gameplay, lesser spren mostly act as interesting set dressing for the gro
 
 - **Discerning Emotions.** Since emotion spren are more visible than in the Physical Realm, characters gain an advantage on tests to discern the true emotions or motives of a person in Shadesmar.
 
-- **Flaring Tempers.** When tempers begin to heat and negative emotions begin to flare, the GM should raise the stakes on social tests. The GM can spend C to cause nearby angerspren to take interest (see [[Stormlight World Guide/09 - Ch 8 Adversaries and Bestiary|Chapter 8]] for their stat block) for their stat block).
+- **Flaring Tempers.** When tempers begin to heat and negative emotions begin to flare, the GM should raise the stakes on social tests. The GM can spend Complication to cause nearby angerspren to take interest (see [[Stormlight World Guide/09 - Ch 8 Adversaries and Bestiary|Chapter 8]] for their stat block) for their stat block).
 
 ## Radiant Spren Societies
 

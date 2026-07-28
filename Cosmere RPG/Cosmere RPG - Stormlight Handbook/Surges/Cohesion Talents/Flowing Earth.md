@@ -8,8 +8,8 @@ aliases: ["Flowing Earth"]
 ---
 ![[elements-air-earth-fire-water.webp|64]]
 
-**Activation:** \*
+**Activation:** Always Active
 
 *Shaping stone with Cohesion has become so natural that you can mold the ground beneath your feet as you actively sculpt other stone.*
 
-After you use **Cohesion** or spend at least 1 on one of its talents, you can shape the stone beneath your feet without spending additional Investiture to do so. The stone pushes you up to 5 feet × your ranks in **Cohesion**, and you can choose to be pushed in any direction, such as rising upward on a pillar. This movement doesn’t trigger [[Actions/Basic/Reactive Strike|Reactive Strikes]].
+After you use **Cohesion** or spend at least One Action on one of its talents, you can shape the stone beneath your feet without spending additional Investiture to do so. The stone pushes you up to 5 feet × your ranks in **Cohesion**, and you can choose to be pushed in any direction, such as rising upward on a pillar. This movement doesn’t trigger [[Actions/Basic/Reactive Strike|Reactive Strikes]].

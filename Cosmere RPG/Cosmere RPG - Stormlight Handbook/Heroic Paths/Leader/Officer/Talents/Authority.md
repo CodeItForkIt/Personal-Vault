@@ -8,7 +8,7 @@ aliases: ["Authority"]
 ---
 ![[silhouette-hold-change-blue.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *Your command experience helps you coordinate larger groups across greater distances.*
 

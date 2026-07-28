@@ -8,7 +8,7 @@ aliases: ["Emotional Intelligence"]
 ---
 ![[anatomy-organ-brain-pink-red.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You hone your intuition and understanding of others, enabling you to spot easy-to-miss signs of hidden symptoms and complicated feelings.*
 

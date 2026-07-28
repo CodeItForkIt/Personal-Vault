@@ -8,7 +8,7 @@ aliases: ["Distant Surgebinding"]
 ---
 ![[debuff-energy-snare-blue.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You can infuse targets from a greater distance.*
 

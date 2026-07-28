@@ -8,7 +8,7 @@ aliases: ["Stormlight Reclamation"]
 ---
 ![[orb-shadow-blue.webp|64]]
 
-**Activation:** 0
+**Activation:** Free Action
 
 *You can reclaim Stormlight from active illusions.*
 

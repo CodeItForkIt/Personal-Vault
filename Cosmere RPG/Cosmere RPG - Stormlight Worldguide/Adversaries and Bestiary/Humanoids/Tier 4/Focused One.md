@@ -18,9 +18,9 @@ aliases: ["Focused One"]
 
 The following options are available when an enemy gains an Opportunity or Complication during a scene with the Focused One:
 
-**Opportunity.** An enemy can spend O either to end the Focused One's Tight Form early, or to prevent the Focused One from using their Tight Form and from spending Investiture until the end of the Focused One's next turn.
+**Opportunity.** An enemy can spend Opportunity either to end the Focused One's Tight Form early, or to prevent the Focused One from using their Tight Form and from spending Investiture until the end of the Focused One's next turn.
 
-**Complication.** The GM can spend c from an enemy's test to have the Focused One use their Tight form as r without spending focus. Alternatively, if they're already in Tight Form, the c can be spent to use the Grapple action as r, gaining an advantage on its athletics test.
+**Complication.** The GM can spend Complication from an enemy's test to have the Focused One use their Tight form as Reaction without spending focus. Alternatively, if they're already in Tight Form, the Complication can be spent to use the Grapple action as Reaction, gaining an advantage on its athletics test.
 
 ##### Tactics
 

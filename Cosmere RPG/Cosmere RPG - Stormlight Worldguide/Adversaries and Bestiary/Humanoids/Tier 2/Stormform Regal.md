@@ -42,7 +42,7 @@ This attack gains a disadvantage unless the Stormform Regal spends 1 focus to ig
 ### Storm Leap
 *1 act*
 
-The Stormform Regal jumps up to 60 feet. If they land within 5 feet of an enemy, the Stormform Regal can use the Gain Advantage action as 0.
+The Stormform Regal jumps up to 60 feet. If they land within 5 feet of an enemy, the Stormform Regal can use the Gain Advantage action as Free Action.
 
 ### Electrical Charge
 *1 fre*

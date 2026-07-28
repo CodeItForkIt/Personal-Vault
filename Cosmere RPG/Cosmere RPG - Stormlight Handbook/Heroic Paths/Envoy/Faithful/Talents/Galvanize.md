@@ -8,7 +8,7 @@ aliases: ["Galvanize"]
 ---
 ![[orb-fireball-puzzle.webp|64]]
 
-**Activation:** 2
+**Activation:** Two Actions
 
 *You speak to an ally with infectious fervor, renewing their focus on your shared goals.*
 

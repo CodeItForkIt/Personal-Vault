@@ -80,4 +80,4 @@ Despite the overall censure of sapient physical entities in inkspren culture, a 
 >
 > **Physical Interaction.** Inkspren are nearly incorporeal in the Physical Realm. They can’t pass through objects, but they can change their size to pass through even the smallest gaps.
 >
-> 0 or r **Test Assistance (Costs 1 Focus) .** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, inkspren can help you with Deduction, Discipline, and Stealth tests, along with Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.
+> One Action or One Action **Test Assistance (Costs 1 Focus) .** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, inkspren can help you with Deduction, Discipline, and Stealth tests, along with Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.

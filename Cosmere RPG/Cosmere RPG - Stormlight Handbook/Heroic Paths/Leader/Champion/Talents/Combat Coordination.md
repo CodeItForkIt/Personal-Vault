@@ -8,8 +8,8 @@ aliases: ["Combat Coordination"]
 ---
 ![[target-glowing-yellow.webp|64]]
 
-**Activation:** 0
+**Activation:** Free Action
 
 *You lead through action, bolstering your allies with the momentum of your blows.*
 
-After you use the [[Actions/Basic/Strike|Strike]] action, use Decisive Command as 0. If your Strike didn’t hit, you also don’t have to spend the usual focus for Decisive Command.
+After you use the [[Actions/Basic/Strike|Strike]] action, use Decisive Command as Free Action. If your Strike didn’t hit, you also don’t have to spend the usual focus for Decisive Command.

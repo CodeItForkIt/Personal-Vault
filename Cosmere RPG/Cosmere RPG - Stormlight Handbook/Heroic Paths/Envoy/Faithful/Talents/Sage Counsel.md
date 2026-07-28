@@ -8,7 +8,7 @@ aliases: ["Sage Counsel"]
 ---
 ![[academics-study-reading-book.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You offer reassuring guidance alongside physical assistance, making your allies confident of your approval.*
 

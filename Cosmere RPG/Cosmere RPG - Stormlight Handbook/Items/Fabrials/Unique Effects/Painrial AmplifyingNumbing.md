@@ -16,6 +16,6 @@ It is a melee weapon that uses the Light Weaponry skill and deals 1d6 vital dama
 
 **Charges.** This fabrial has 3 charges.
 
-**Drawback.** The GM can spend C from this attack to cause this fabrial to lose 1 charge and deal you 1d6 vital damage.
+**Drawback.** The GM can spend Complication from this attack to cause this fabrial to lose 1 charge and deal you 1d6 vital damage.
 
-**Upgrade.** Before you take damage from an enemy, if this fabrial isn’t fully charged, you can use r to reduce that damage by 1d6 and regain 1 charge.
+**Upgrade.** Before you take damage from an enemy, if this fabrial isn’t fully charged, you can use Reaction to reduce that damage by 1d6 and regain 1 charge.

@@ -8,7 +8,7 @@ aliases: ["Shadowing"]
 ---
 ![[silhouette-robe-evil-glow.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You silently skulk toward your target, using cover, crowds, or other camouflage to remain unseen until it’s too late.*
 

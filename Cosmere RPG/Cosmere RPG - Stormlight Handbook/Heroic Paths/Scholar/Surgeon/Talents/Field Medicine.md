@@ -8,7 +8,7 @@ aliases: ["Field Medicine"]
 ---
 ![[textiles-stitching-leather-brown.webp|64]]
 
-**Activation:** 1
+**Activation:** One Action
 
 *You treat a minor wound by bandaging a gash, applying salves, or resetting a dislocated joint.*
 

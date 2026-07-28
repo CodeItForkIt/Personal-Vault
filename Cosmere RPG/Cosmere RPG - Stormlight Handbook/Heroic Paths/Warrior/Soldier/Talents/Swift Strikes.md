@@ -8,7 +8,7 @@ aliases: ["Swift Strikes"]
 ---
 ![[strikes-sword-scimitar.webp|64]]
 
-**Activation:** 1
+**Activation:** One Action
 
 You instinctively follow the tempo of battle, keeping the pressure on your foes at critical moments.
 

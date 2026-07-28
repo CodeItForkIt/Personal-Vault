@@ -21,7 +21,7 @@ A **Ghostblood enforcer** begins combat by striking with their **Dueling Cane**;
 ### Ruthless
 *1*
 
-After the Ghostblood Enforcer knocks an enemy Prone, they can make an additional Strike against that target as 0 on that turn (even if they've already used that Strike action).
+After the Ghostblood Enforcer knocks an enemy Prone, they can make an additional Strike against that target as Free Action on that turn (even if they've already used that Strike action).
 
 ### Burn Pewter
 *2 act*

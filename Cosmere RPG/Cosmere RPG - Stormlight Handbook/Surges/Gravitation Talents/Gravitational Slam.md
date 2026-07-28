@@ -8,7 +8,7 @@ aliases: ["Gravitational Slam"]
 ---
 ![[trail-streak-impact-blue.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *Your Basic Lashings become more forceful and potentially dangerous on impact.*
 

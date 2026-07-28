@@ -29,67 +29,67 @@ aliases: ["Appendix C: Tables"]
 |  |  |  |  |  |
 |----|----|----|----|----|
 | Name | Pronunciation | Chapter | Pronouns | Description |
-| [[Actors/Adversaries/Named/Ch. 5/Ashil|Ashil]] | AH-shill | 5 | he/him | A new recruit for the Tukari army; Sesemalex Guest Register host. |
-| [[Actors/Adversaries/Named/Ch. 4/Axoq|Axoq]] | AX-ock | 4 | he/him | A nostalgic Emuli medic captured by Ylt’s rear guard. |
-| [[Actors/Adversaries/Named/Ch. 5/Batazi|Batazi]] | buh-TAH-zee | 5 | she/her | Good-natured quartermaster of the Measured Response. |
-| [[Actors/Adversaries/Named/Ch. 1/Bordin|Bordin]] | BOR-din | 1 | he/him | The trusted footman of Highprince Dalinar Kholin who leads the Kholinar caravan transporting Taln and the Honorblade. |
-| [[Actors/Adversaries/Named/Ch. 2/Brightlord Meridas Amaram|Brightlord Meridas Amaram]] | MER-ih-dahs AM-uh-ram | 2 | he/him | A well-respected general of Highprince Sadeas, close friend of Dalinar Kholin, and secretly a Son of Honor. |
-| [[Actors/Adversaries/Named/Ch. 2/Brightness Bettani|Brightness Bettani]] | beh-TAH-nee | 2 | she/her | A flustered Alethi scribe for Highprince Dalinar. |
-| [[Actors/Adversaries/Named/Ch. 6/Cabsan|Cabsan]] | KAB-suhn | 6 | he/him | An Iriali shoemaker Kaiana knows on the Trail of Stars. |
-| [[Actors/Adversaries/Named/Ch. 2/Calinai|Calinai]] | KAL-ih-nai | 2 | she/her | A leader of a singer contingent searching the chasm for a family heirloom. |
-| [[Actors/Adversaries/Named/Ch. 5/Vaqqui|Captain Vaqqui]] | vah-KEE | 5 | they/them | The energetic Azish captain of the Measured Response; spouse to Jazirin. |
-| [[Actors/Adversaries/Named/Ch. 5/Chanil|Chanil]] | CHAN-ihl | 5 | he/him | Loxim’s newlywed husband; Sesemalex Guest Register host. |
-| [[Actors/Adversaries/Named/Ch. 3/Cipher|Cipher]] | SAI-fer | 3 | they/them | A Cryptic spren interested in boastful characters; found in the Chamber of the Heralds. |
-| [[Actors/Adversaries/Named/Ch. 6/Dymab|Dymab]] | DAI-mab | 6 | he/him | Lilinum’s counterpart; an orderly administrative Fused charged with overseeing Rall Elorim’s occupation and routing out the resistance. |
-| [[Actors/Adversaries/Named/Ch. 1/Ellar|Ellar]] | EH-lar | 1 | he/him | A self-important sergeant at the Kholin Caravan who harasses theHerald Taln; also leads a mission into the Shattered Plains. |
-| [[Actors/Adversaries/Named/Ch. 5/Farriqa|Farriqa]] | fuh-REE-kuh | 5 | she/her | A stormform Regal who joins the Battle for Ashiqqil Keep. |
-| [[Actors/Adversaries/Named/Ch. 5/Gamish|Gamish]] | GAH-mish | 5 | he/him | A despairing Emuli soldier in the Battle for Ashiqqil Keep. |
-| [[Actors/Adversaries/Named/Ch. 1/Hana|Hana]] | HAH-nuh | 1 | she/her | Rebin’s teenage daughter. |
+| [[Actors/Adversaries/Named/Ch. 5/Ashil\|Ashil]] | AH-shill | 5 | he/him | A new recruit for the Tukari army; Sesemalex Guest Register host. |
+| [[Actors/Adversaries/Named/Ch. 4/Axoq\|Axoq]] | AX-ock | 4 | he/him | A nostalgic Emuli medic captured by Ylt’s rear guard. |
+| [[Actors/Adversaries/Named/Ch. 5/Batazi\|Batazi]] | buh-TAH-zee | 5 | she/her | Good-natured quartermaster of the Measured Response. |
+| [[Actors/Adversaries/Named/Ch. 1/Bordin\|Bordin]] | BOR-din | 1 | he/him | The trusted footman of Highprince Dalinar Kholin who leads the Kholinar caravan transporting Taln and the Honorblade. |
+| [[Actors/Adversaries/Named/Ch. 2/Brightlord Meridas Amaram\|Brightlord Meridas Amaram]] | MER-ih-dahs AM-uh-ram | 2 | he/him | A well-respected general of Highprince Sadeas, close friend of Dalinar Kholin, and secretly a Son of Honor. |
+| [[Actors/Adversaries/Named/Ch. 2/Brightness Bettani\|Brightness Bettani]] | beh-TAH-nee | 2 | she/her | A flustered Alethi scribe for Highprince Dalinar. |
+| [[Actors/Adversaries/Named/Ch. 6/Cabsan\|Cabsan]] | KAB-suhn | 6 | he/him | An Iriali shoemaker Kaiana knows on the Trail of Stars. |
+| [[Actors/Adversaries/Named/Ch. 2/Calinai\|Calinai]] | KAL-ih-nai | 2 | she/her | A leader of a singer contingent searching the chasm for a family heirloom. |
+| [[Actors/Adversaries/Named/Ch. 5/Vaqqui\|Captain Vaqqui]] | vah-KEE | 5 | they/them | The energetic Azish captain of the Measured Response; spouse to Jazirin. |
+| [[Actors/Adversaries/Named/Ch. 5/Chanil\|Chanil]] | CHAN-ihl | 5 | he/him | Loxim’s newlywed husband; Sesemalex Guest Register host. |
+| [[Actors/Adversaries/Named/Ch. 3/Cipher\|Cipher]] | SAI-fer | 3 | they/them | A Cryptic spren interested in boastful characters; found in the Chamber of the Heralds. |
+| [[Actors/Adversaries/Named/Ch. 6/Dymab\|Dymab]] | DAI-mab | 6 | he/him | Lilinum’s counterpart; an orderly administrative Fused charged with overseeing Rall Elorim’s occupation and routing out the resistance. |
+| [[Actors/Adversaries/Named/Ch. 1/Ellar\|Ellar]] | EH-lar | 1 | he/him | A self-important sergeant at the Kholin Caravan who harasses theHerald Taln; also leads a mission into the Shattered Plains. |
+| [[Actors/Adversaries/Named/Ch. 5/Farriqa\|Farriqa]] | fuh-REE-kuh | 5 | she/her | A stormform Regal who joins the Battle for Ashiqqil Keep. |
+| [[Actors/Adversaries/Named/Ch. 5/Gamish\|Gamish]] | GAH-mish | 5 | he/him | A despairing Emuli soldier in the Battle for Ashiqqil Keep. |
+| [[Actors/Adversaries/Named/Ch. 1/Hana\|Hana]] | HAH-nuh | 1 | she/her | Rebin’s teenage daughter. |
 | Herald Nale | NAIL | 5 | he/him | The Herald of Justice; currently overseeing the Radiant Vanzi’s execution in Ashiqqil Keep. |
 | Herald Pailiah | PAY-lee-uh | 7 | she/her | The Herald of Knowledge, fallen to disoriented nostalgia, who has inspired a cult of acolytes. Also known as Pala (among other names.) |
 | Herald Taln | TALN | 1 | he/him | The disoriented Herald of War who is held by the Alethi. Also known as Talenel (among other names). |
-| [[Actors/Adversaries/Named/Ch. 6/Heth|Heth]] | HETH | 6 | he/him | An Iriali leader of the Iriali singer resistance movement. |
-| [[Actors/Adversaries/Named/Ch. 4/Horizons-Ever-Drifting|Horizons-Ever-Drifting]] | hor-IZE-uhns EV-er DRIHF-teeng | 4 | she/her | Kaiana’s wanderlust-filled mistspren. |
-| [[Actors/Adversaries/Named/Ch. 2/Ishali|Ishali]] | Ish-AHL-ee | 2 | she/her | The young artifabrian proprietor of the Blueworks. |
-| [[Actors/Adversaries/Named/Ch. 5/Jazima|Jazima]] | JA-zim-uh | 5 | she/her | The generous Emuli commander in the Battle for Ashiqqil Keep. |
-| [[Actors/Adversaries/Named/Ch. 5/Jazirin|Jazirin]] | JA-zihr-in | 5 | he/him | The Emuli pilot of the Measured Response; Captain Vaqqui’s husband. |
-| [[Actors/Adversaries/Named/Ch. 2/Ka|Ka]] | KAH | 2 | she/her | A server at the Ornery Chull. |
-| [[Actors/Adversaries/Named/Ch. 2/Kalay|Kalay]] | kuh-LAY | 2 | she/her | A skeptical ardent in the Devotary of the Mind in the Kholin warcamp. |
-| [[Actors/Adversaries/Named/Various/Minor Characters/Lilinum the Devastating One|Lilinum]] | LIL-ih-nuhm | 6 | she/her | Dymab’s counterpart; a chaotic and violent Fused overseeing the occupation of Rall Elorim who takes an interest in the characters. |
-| [[Actors/Adversaries/Named/Ch. 2/Lirdan|Lirdan]] | LEER-dehn | 2 | he/him | A belligerent and drunk Aladar soldier in the Red Rockbud. |
-| [[Actors/Adversaries/Named/Ch. 2/Liss|Liss]] | LISS | 2 | she/her | An assassin; the Stone Shamans' contact and fixer in the warcamps, hiding out in the Crem Oven bakery. |
-| [[Actors/Adversaries/Named/Ch. 3/Lorn|Lorn]] | LORN | 3 | he/him | An old man and ex-bandit; met on the road to Rathalas. |
-| [[Actors/Adversaries/Named/Ch. 5/Loxim|Loxim]] | LOHX-im | 5 | she/her | Chanil’s newlywed pregnant wife; Sesemalex Guest Register host. |
-| [[Actors/Adversaries/Named/Ch. 3/Nadari|Nadari]] | nuh-DAR-ee | 3 | she/her | A rough Alethi deserter who oversees operations in the Rathalas Devotary. |
-| [[Actors/Adversaries/Named/Ch. 6/Nanath|Nanath]] | nuh-NATH | 6 | he/him | An envoyform Regal watching over the Rall Elorim gates. |
+| [[Actors/Adversaries/Named/Ch. 6/Heth\|Heth]] | HETH | 6 | he/him | An Iriali leader of the Iriali singer resistance movement. |
+| [[Actors/Adversaries/Named/Ch. 4/Horizons-Ever-Drifting\|Horizons-Ever-Drifting]] | hor-IZE-uhns EV-er DRIHF-teeng | 4 | she/her | Kaiana’s wanderlust-filled mistspren. |
+| [[Actors/Adversaries/Named/Ch. 2/Ishali\|Ishali]] | Ish-AHL-ee | 2 | she/her | The young artifabrian proprietor of the Blueworks. |
+| [[Actors/Adversaries/Named/Ch. 5/Jazima\|Jazima]] | JA-zim-uh | 5 | she/her | The generous Emuli commander in the Battle for Ashiqqil Keep. |
+| [[Actors/Adversaries/Named/Ch. 5/Jazirin\|Jazirin]] | JA-zihr-in | 5 | he/him | The Emuli pilot of the Measured Response; Captain Vaqqui’s husband. |
+| [[Actors/Adversaries/Named/Ch. 2/Ka\|Ka]] | KAH | 2 | she/her | A server at the Ornery Chull. |
+| [[Actors/Adversaries/Named/Ch. 2/Kalay\|Kalay]] | kuh-LAY | 2 | she/her | A skeptical ardent in the Devotary of the Mind in the Kholin warcamp. |
+| [[Actors/Adversaries/Named/Various/Minor Characters/Lilinum the Devastating One\|Lilinum]] | LIL-ih-nuhm | 6 | she/her | Dymab’s counterpart; a chaotic and violent Fused overseeing the occupation of Rall Elorim who takes an interest in the characters. |
+| [[Actors/Adversaries/Named/Ch. 2/Lirdan\|Lirdan]] | LEER-dehn | 2 | he/him | A belligerent and drunk Aladar soldier in the Red Rockbud. |
+| [[Actors/Adversaries/Named/Ch. 2/Liss\|Liss]] | LISS | 2 | she/her | An assassin; the Stone Shamans' contact and fixer in the warcamps, hiding out in the Crem Oven bakery. |
+| [[Actors/Adversaries/Named/Ch. 3/Lorn\|Lorn]] | LORN | 3 | he/him | An old man and ex-bandit; met on the road to Rathalas. |
+| [[Actors/Adversaries/Named/Ch. 5/Loxim\|Loxim]] | LOHX-im | 5 | she/her | Chanil’s newlywed pregnant wife; Sesemalex Guest Register host. |
+| [[Actors/Adversaries/Named/Ch. 3/Nadari\|Nadari]] | nuh-DAR-ee | 3 | she/her | A rough Alethi deserter who oversees operations in the Rathalas Devotary. |
+| [[Actors/Adversaries/Named/Ch. 6/Nanath\|Nanath]] | nuh-NATH | 6 | he/him | An envoyform Regal watching over the Rall Elorim gates. |
 | Nattaqim | NAH-tuh-keem | 5 | she/her | The protective archivist at the Kadasix Archives. |
-| [[Actors/Adversaries/Named/Ch. 2/Nel|Nel]] | NEHL | 2 | she/her | The roguish and prying Bavlander proprietor of the Red Rockbud. |
-| [[Actors/Adversaries/Named/Ch. 1/Nen|Nen]] | NEN | 1 | he/him | An Alethi polearm merchant supplying the warcamps; met at the Covenant Stone Crossroads. |
+| [[Actors/Adversaries/Named/Ch. 2/Nel\|Nel]] | NEHL | 2 | she/her | The roguish and prying Bavlander proprietor of the Red Rockbud. |
+| [[Actors/Adversaries/Named/Ch. 1/Nen\|Nen]] | NEN | 1 | he/him | An Alethi polearm merchant supplying the warcamps; met at the Covenant Stone Crossroads. |
 | Nightwatcher | NITE-wah-chur | 4 | she/her | A legendary and enigmatic spren who offers visitors to her Valley boons balanced by curses. |
-| [[Actors/Adversaries/Named/Ch. 5/Odax|Odax]] | OH-dax | 5 | he/him | The manager of the Dawnchain market. |
+| [[Actors/Adversaries/Named/Ch. 5/Odax\|Odax]] | OH-dax | 5 | he/him | The manager of the Dawnchain market. |
 | Rit-daughter-Clutio | RIT DAH-tuhr KLOO-tee-oh | 7 | she/her | Taszo’s older sister who accepts the Honorblade if the characters return it to Shinovar. |
-| [[Actors/Adversaries/Named/Ch. 4/Roil|Roil]] | ROY-uhl | 4 | she/her | An ambitious Voidspren found during the Everstorm. |
-| [[Actors/Adversaries/Named/Ch. 7/Ryel|Ryel]] | rai-EHL | 7 | she/her | A skittish lookout for the Eyes of Pala; aligned with Ylt. |
-| [[Actors/Adversaries/Named/Ch. 2/Ryvlk|Ryvlk]] | RIH-vilk | 2 | he/him | A fast-talking Thaylen traveling menagerie owner outside theRuthar warcamp. |
-| [[Actors/Adversaries/Named/Ch. 2/Shansan|Shansan]] | SHAN-suhn | 2 | they/them | An expert on exotic glyphs; an ardent in the Devotary of the Mind in the Kholin warcamp. |
-| [[Actors/Adversaries/Named/Ch. 6/Shull|Shull]] | SHOOL | 6 | she/her | A wary member of the Rall Elorim singer resistance. |
-| [[Actors/Adversaries/Named/Ch. 1/Svalka|Svalka]] | SVAHL-kuh | 1 | she/her | A fashionable Thaylen cloth merchant supplying the warcamps; met at the Covenant Stone Crossroads. |
-| [[Actors/Adversaries/Named/Ch. 4/Tam|Tam]] | TAM | 4 | he/him | A singer crewmember of the Storm’s Jest who awakens during the Everstorm. |
-| [[Actors/Adversaries/Named/Various/Minor Characters/Taszo-son-Clutio|Taszo-son-Clutio]] | TAH-zo-suhn KLOO-tee-oh | 1 | he/him | A friendly monk whose quest brought him far from home to find Taln’s Honorblade. |
-| [[Actors/Adversaries/Named/Ch. 6/Teba|Teba]] | TEE-buh | 6 | she/her | An Odium-aligned singer assigned to escort the party in Rall Elorim. |
-| [[Actors/Adversaries/Named/Ch. 3/Teryn|Teryn]] | TARE-in | 3 | she/her | The pragmatic lieutenant of the deposed Bandit Queen. |
-| [[Actors/Adversaries/Named/Ch. 1/Tet Rebin|Tet Rebin]] | TEHT REE-bin | 1 | he/him | A Veden wine merchant whose wagon gets stuck in a rut; Hana’s father. |
-| [[Actors/Adversaries/Named/Ch. 3/Tuxli|Tuxli]] | TUHX-lee | 3 | she/her | A listener spy held captive in the Rathalas bandit prison. |
-| [[Actors/Adversaries/Named/Ch. 7/Tyche|Tyche]] | TAI-kee | 7 | he/him | Ylt’s fearful Enlightened mistspren. |
-| [[Actors/Adversaries/Named/Ch. 3/Ubo|Ubo]] | OO-boh | 3 | he/him | The placating Herdazian quartermaster of the Rathalas bandits. |
-| [[Actors/Adversaries/Named/Ch. 5/Vanzi|Vanzi]] | VAN-zee | 5 | he/him | A pacifistic Tukari Dustbringer; captured by Nale in Ashiqqil Keep and scheduled for execution. |
-| [[Actors/Adversaries/Named/Ch. 4/Veda|Veda]] | VAY-duh | 4 | she/her | A singer crewmember of the Storm’s Jest who awakens during the Everstorm. |
-| [[Actors/Adversaries/Named/Ch. 2/Vedolin|Vedolin]] | VEH-doh-lin | 2 | he/him | A shifty spy for Liss. |
-| [[Actors/Adversaries/Named/Various/Minor Characters/Veth|Veth]] | VETH | 1 | he/him | One of the Eyes of Pala, loyal to Ylt; armed and present at Taszo’s death. |
-| [[Actors/Adversaries/Named/Ch. 2/Volikk|Volikk]] | VO-lihk | 2 | she/her | Ryvlk’s Azish rival menagerie owner. |
-| [[Actors/Adversaries/Named/Ch. 6/Yana|Yana]] | YAH-nuh | 6 | she/her | An Odium-aligned singer assigned to escort the party in Rall Elorim. |
-| [[Actors/Adversaries/Named/Ch. 2/Yarren|Yarren]] | YAHR-uhn | 2 | he/him | A well-known ex-sergeant broker at the Spear Exchange. |
-| [[Actors/Adversaries/Named/Ch. 5/Yasiqqi|Yasiqqi]] | yuh-SEE-kee | 5 | they/them | An opinionated elderly artist; Sesemalex Guest Register host. |
+| [[Actors/Adversaries/Named/Ch. 4/Roil\|Roil]] | ROY-uhl | 4 | she/her | An ambitious Voidspren found during the Everstorm. |
+| [[Actors/Adversaries/Named/Ch. 7/Ryel\|Ryel]] | rai-EHL | 7 | she/her | A skittish lookout for the Eyes of Pala; aligned with Ylt. |
+| [[Actors/Adversaries/Named/Ch. 2/Ryvlk\|Ryvlk]] | RIH-vilk | 2 | he/him | A fast-talking Thaylen traveling menagerie owner outside theRuthar warcamp. |
+| [[Actors/Adversaries/Named/Ch. 2/Shansan\|Shansan]] | SHAN-suhn | 2 | they/them | An expert on exotic glyphs; an ardent in the Devotary of the Mind in the Kholin warcamp. |
+| [[Actors/Adversaries/Named/Ch. 6/Shull\|Shull]] | SHOOL | 6 | she/her | A wary member of the Rall Elorim singer resistance. |
+| [[Actors/Adversaries/Named/Ch. 1/Svalka\|Svalka]] | SVAHL-kuh | 1 | she/her | A fashionable Thaylen cloth merchant supplying the warcamps; met at the Covenant Stone Crossroads. |
+| [[Actors/Adversaries/Named/Ch. 4/Tam\|Tam]] | TAM | 4 | he/him | A singer crewmember of the Storm’s Jest who awakens during the Everstorm. |
+| [[Actors/Adversaries/Named/Various/Minor Characters/Taszo-son-Clutio\|Taszo-son-Clutio]] | TAH-zo-suhn KLOO-tee-oh | 1 | he/him | A friendly monk whose quest brought him far from home to find Taln’s Honorblade. |
+| [[Actors/Adversaries/Named/Ch. 6/Teba\|Teba]] | TEE-buh | 6 | she/her | An Odium-aligned singer assigned to escort the party in Rall Elorim. |
+| [[Actors/Adversaries/Named/Ch. 3/Teryn\|Teryn]] | TARE-in | 3 | she/her | The pragmatic lieutenant of the deposed Bandit Queen. |
+| [[Actors/Adversaries/Named/Ch. 1/Tet Rebin\|Tet Rebin]] | TEHT REE-bin | 1 | he/him | A Veden wine merchant whose wagon gets stuck in a rut; Hana’s father. |
+| [[Actors/Adversaries/Named/Ch. 3/Tuxli\|Tuxli]] | TUHX-lee | 3 | she/her | A listener spy held captive in the Rathalas bandit prison. |
+| [[Actors/Adversaries/Named/Ch. 7/Tyche\|Tyche]] | TAI-kee | 7 | he/him | Ylt’s fearful Enlightened mistspren. |
+| [[Actors/Adversaries/Named/Ch. 3/Ubo\|Ubo]] | OO-boh | 3 | he/him | The placating Herdazian quartermaster of the Rathalas bandits. |
+| [[Actors/Adversaries/Named/Ch. 5/Vanzi\|Vanzi]] | VAN-zee | 5 | he/him | A pacifistic Tukari Dustbringer; captured by Nale in Ashiqqil Keep and scheduled for execution. |
+| [[Actors/Adversaries/Named/Ch. 4/Veda\|Veda]] | VAY-duh | 4 | she/her | A singer crewmember of the Storm’s Jest who awakens during the Everstorm. |
+| [[Actors/Adversaries/Named/Ch. 2/Vedolin\|Vedolin]] | VEH-doh-lin | 2 | he/him | A shifty spy for Liss. |
+| [[Actors/Adversaries/Named/Various/Minor Characters/Veth\|Veth]] | VETH | 1 | he/him | One of the Eyes of Pala, loyal to Ylt; armed and present at Taszo’s death. |
+| [[Actors/Adversaries/Named/Ch. 2/Volikk\|Volikk]] | VO-lihk | 2 | she/her | Ryvlk’s Azish rival menagerie owner. |
+| [[Actors/Adversaries/Named/Ch. 6/Yana\|Yana]] | YAH-nuh | 6 | she/her | An Odium-aligned singer assigned to escort the party in Rall Elorim. |
+| [[Actors/Adversaries/Named/Ch. 2/Yarren\|Yarren]] | YAHR-uhn | 2 | he/him | A well-known ex-sergeant broker at the Spear Exchange. |
+| [[Actors/Adversaries/Named/Ch. 5/Yasiqqi\|Yasiqqi]] | yuh-SEE-kee | 5 | they/them | An opinionated elderly artist; Sesemalex Guest Register host. |
 
 ## Pronunciation Guide
 
@@ -163,24 +163,24 @@ aliases: ["Appendix C: Tables"]
 |  |  |
 |----|----|
 | Result | Example |
-| O | The PC notices that the crem pit was intentionally created. If they already knew this, they instead notice bandit footprints and sense the direction the bandit ambush will come from. |
-| C | The PC gets stuck in the crem puddle (see [[Journal/14 - 01 Honor Beyond the Storm#Ambush on the Road|Ambush on the Road]]). |
+| Opportunity | The PC notices that the crem pit was intentionally created. If they already knew this, they instead notice bandit footprints and sense the direction the bandit ambush will come from. |
+| Complication | The PC gets stuck in the crem puddle (see [[Journal/14 - 01 Honor Beyond the Storm#Ambush on the Road\|Ambush on the Road]]). |
 
 ## Road Ambush Opportunities and Complications
 
 |  |  |
 |----|----|
 | Result | Example |
-| O | If a bandit is within 5 feet of the crem puddle, they fall in and become Restrained. Otherwise, the rain-slicked ground causes one of the bandits to fall Prone. |
-| C | Rebin and Hana decide to make a run for it, and one of the bandits pursues them. |
+| Opportunity | If a bandit is within 5 feet of the crem puddle, they fall in and become Restrained. Otherwise, the rain-slicked ground causes one of the bandits to fall Prone. |
+| Complication | Rebin and Hana decide to make a run for it, and one of the bandits pursues them. |
 
 ## Caravan Ambush Opportunities and Complications
 
 |  |  |
 |----|----|
 | Result | Example |
-| O | An Alethi soldier arrives and thrusts his spear into one of the bandits fighting the PCs. That bandit takes 5 (`1d6 + 2`) damage. |
-| C | A bandit breaks down the door of Nen’s carriage, dragging him out by the throat. |
+| Opportunity | An Alethi soldier arrives and thrusts his spear into one of the bandits fighting the PCs. That bandit takes 5 (`1d6 + 2`) damage. |
+| Complication | A bandit breaks down the door of Nen’s carriage, dragging him out by the throat. |
 
 ## Highstorm Effects
 
@@ -208,7 +208,7 @@ aliases: ["Appendix C: Tables"]
 |----|----|----|----|
 | Scene | Scene Summary | Active Hook | Passive Hook |
 | Chasm Offensive | Sergeant Ellar is recruiting for an expedition to track down Parshendi scouts. | If the PCs ask Bordin for help finding Liss or information on the glyphs, he first asks them to help him with Ellar. | Bordin seeks the PCs out for a job. |
-| Guilty Spheres | A seedy gambling den is the perfect place to win spheres and information. | If the PCs seek information through unofficial channels (or ask the merchants in [[Journal/14 - 01 Honor Beyond the Storm|chapter 1]]), they’re pointed to the Red Rockbud gambling den. | After the PCs have earned a reputation for themselves by finishing two other scenes, they’re invited to the Red Rockbud. |
+| Guilty Spheres | A seedy gambling den is the perfect place to win spheres and information. | If the PCs seek information through unofficial channels (or ask the merchants in [[Journal/14 - 01 Honor Beyond the Storm\|chapter 1]]), they’re pointed to the Red Rockbud gambling den. | After the PCs have earned a reputation for themselves by finishing two other scenes, they’re invited to the Red Rockbud. |
 | Lost Radiants | Bickering ardents reveal the meaning of the bandits’ strange glyphs. | If the PCs ask about the bandits or their strange glyphs, they’re pointed to the ardents at the Devotary of the Mind. | Shansan seeks out the PCs when they rest, as the ardent has heard a rumor about the bandits’ strange glyphs. |
 | Menacing Menagerie | A Thaylen showman has brought strange chickens from Shinovar. | If the PCs ask about Shin or Stone Shamans, they’re told about the menagerie owner Ryvlk. | The PCs encounter Ryvlk’s menagerie while moving between warcamps. |
 | Scribe’s Spanreed | A scribe for House Kholin needs help fixing her spanreed. | If the PCs ask about Liss, try to track someone down, or seek information about the warcamps, they’re pointed toward Bettani’s bunker. | Bettani corrals the PCs while they wander through the Kholin warcamp. |
@@ -219,50 +219,50 @@ aliases: ["Appendix C: Tables"]
 |  |  |
 |----|----|
 | Result | Example |
-| O | Noises from the den draw the attention of a disapproving ardent (**[[Actors/Adversaries/Civilian/Expert|expert]]**), splitting Nel’s attention. |
-| C | **[[Actors/Adversaries/Named/Ch. 2/Lirdan|Lirdan]]** complains loudly. Succeed on a DC 14 Discipline test or lose 1 focus. |
+| Opportunity | Noises from the den draw the attention of a disapproving ardent (**[[Actors/Adversaries/Civilian/Expert\|expert]]**), splitting Nel’s attention. |
+| Complication | **[[Actors/Adversaries/Named/Ch. 2/Lirdan\|Lirdan]]** complains loudly. Succeed on a DC 14 Discipline test or lose 1 focus. |
 
 ## Whitespine Opportunities and Complications
 
 |  |  |
 |----|----|
 | Result | Example |
-| O | A whitespine finds a morsel of food near or inside the open wagon, becoming distracted and moving toward it. |
-| C | A whitespine breaks the cage of a starved **[[Actors/Adversaries/Animal/Axehound|axehound]]**, which joins the fray. |
+| Opportunity | A whitespine finds a morsel of food near or inside the open wagon, becoming distracted and moving toward it. |
+| Complication | A whitespine breaks the cage of a starved **[[Actors/Adversaries/Animal/Axehound\|axehound]]**, which joins the fray. |
 
 ## Bettani Opportunities and Complications
 
 |  |  |
 |----|----|
 | Result | Example |
-| O | There are enough spare fabrial parts at Bettani’s bunker or the Sebarial market to make a new spanreed pair. |
-| C | The characters spot a rival messenger (commoner) about to reach Sebarial’s market first. |
+| Opportunity | There are enough spare fabrial parts at Bettani’s bunker or the Sebarial market to make a new spanreed pair. |
+| Complication | The characters spot a rival messenger (commoner) about to reach Sebarial’s market first. |
 
 ## Vedolin Opportunities and Complications
 
 |  |  |
 |----|----|
 | Result | Example |
-| O | Vedolin trips on a bucket of slop and drops his knife. |
-| C | A heavy-laden cart loses its supports after being shoved. It starts rolling toward an unsuspecting crowd. |
+| Opportunity | Vedolin trips on a bucket of slop and drops his knife. |
+| Complication | A heavy-laden cart loses its supports after being shoved. It starts rolling toward an unsuspecting crowd. |
 
 ## Monastery Opportunities and Complications
 
 |  |  |
 |----|----|
 | Result | Example |
-| O | A captive patient escapes their cell, distracting the ardents and guards. |
-| O | An ardent has left a set of keys or tools in easy reach. |
-| C | A Sons of Honor agent (**[[Actors/Adversaries/Thief|thief]]**) is infiltrating the monastery at the same time and isn’t happy about sharing the shadows. |
-| C | An ardent sounds the alarm, drawing a guard to investigate. |
+| Opportunity | A captive patient escapes their cell, distracting the ardents and guards. |
+| Opportunity | An ardent has left a set of keys or tools in easy reach. |
+| Complication | A Sons of Honor agent (**[[Actors/Adversaries/Thief\|thief]]**) is infiltrating the monastery at the same time and isn’t happy about sharing the shadows. |
+| Complication | An ardent sounds the alarm, drawing a guard to investigate. |
 
 ## Ubo Opportunities and Complications
 
 |  |  |
 |----|----|
 | Result | Example |
-| O | Ubo covers for the PCs. Reduce the Bandits on Alert event by 1. |
-| C | A **zealot** approaches and questions the PCs about who recruited them and whether they’re loyal to Ylt. |
+| Opportunity | Ubo covers for the PCs. Reduce the Bandits on Alert event by 1. |
+| Complication | A **zealot** approaches and questions the PCs about who recruited them and whether they’re loyal to Ylt. |
 
 ## Stolen Goods
 
@@ -279,43 +279,43 @@ aliases: ["Appendix C: Tables"]
 |  |  |
 |----|----|
 | Result | Example |
-| O | The PCs overhear a useful detail about Rathalas. This could be that Ylt has a Shardblade, that Teryn is locked up in the prison, or that Kaiana’s loyalty seems to be wavering. |
-| C | Nadari notices something suspicious and investigates. The next test is an opposed test against Nadari using relevant skills. |
+| Opportunity | The PCs overhear a useful detail about Rathalas. This could be that Ylt has a Shardblade, that Teryn is locked up in the prison, or that Kaiana’s loyalty seems to be wavering. |
+| Complication | Nadari notices something suspicious and investigates. The next test is an opposed test against Nadari using relevant skills. |
 
 ## Bridges Opportunities and Complications
 
 |  |  |
 |----|----|
 | Result | Example |
-| O | An excellent vantage point reveals how most of the bridges connect. The party’s cognitive skill tests gain an advantage for the rest of the endeavor. |
-| C | A surface snaps behind the character, falling into the chasm below. Anyone behind them must find another route. |
-| C | The resonant trump of an axehound echoes throughthe chasm. Another axehound joins the pack that’s tracking the characters (see “[[Journal/03 - 03 The City That Smolders#Resolving the Endeavor|Resolving the Endeavor]]”). |
+| Opportunity | An excellent vantage point reveals how most of the bridges connect. The party’s cognitive skill tests gain an advantage for the rest of the endeavor. |
+| Complication | A surface snaps behind the character, falling into the chasm below. Anyone behind them must find another route. |
+| Complication | The resonant trump of an axehound echoes throughthe chasm. Another axehound joins the pack that’s tracking the characters (see “[[Journal/03 - 03 The City That Smolders#Resolving the Endeavor\|Resolving the Endeavor]]”). |
 
 ## Eavesdropping Opportunities and Complications
 
 |  |  |
 |----|----|
 | Result | Example |
-| O | The character overhears information they can use to influence Kaiana. During the upcoming conversation, they automatically succeed on one test of their choice. |
-| C | The character overhears information that raises doubts in their mind. They lose 1 focus. |
+| Opportunity | The character overhears information they can use to influence Kaiana. During the upcoming conversation, they automatically succeed on one test of their choice. |
+| Complication | The character overhears information that raises doubts in their mind. They lose 1 focus. |
 
 ## Kaiana Opportunities and Complications
 
 |  |  |
 |----|----|
 | Result | Example |
-| O | Teryn chimes in, expressing support for the PC’s point. Kaiana loses 1 focus. |
-| C | A bell tolls, signaling a change in guard shifts. Kaiana says the bandits will patrol this way soon. |
+| Opportunity | Teryn chimes in, expressing support for the PC’s point. Kaiana loses 1 focus. |
+| Complication | A bell tolls, signaling a change in guard shifts. Kaiana says the bandits will patrol this way soon. |
 
 ## Battle of the Hall Opportunities and Complications
 
 |  |  |
 |----|----|
 | Result | Example |
-| O | A loyalist bandit cheers on the PC’s victory, inspiring the PC and giving them the Focused condition until the end of the PC’s next turn. |
-| O | An enemy sees the tide of battle turning and flees. |
-| C | Debris rains down from above. The character and each other character within 5 feet of them must succeed on a DC 15 Agility test (using the Avoid Danger reaction) or take 3 (`1d6`) impact damage. |
-| C | The wooden platform further breaks, trappingthe character and making them Immobilized. The Immobilized character or a character who can reach them can Use a Skill (1) to make a DC 10 Athletics test; on a success, the character is freed from the wreckage. |
+| Opportunity | A loyalist bandit cheers on the PC’s victory, inspiring the PC and giving them the Focused condition until the end of the PC’s next turn. |
+| Opportunity | An enemy sees the tide of battle turning and flees. |
+| Complication | Debris rains down from above. The character and each other character within 5 feet of them must succeed on a DC 15 Agility test (using the Avoid Danger reaction) or take 3 (`1d6`) impact damage. |
+| Complication | The wooden platform further breaks, trappingthe character and making them Immobilized. The Immobilized character or a character who can reach them can Use a Skill (1) to make a DC 10 Athletics test; on a success, the character is freed from the wreckage. |
 
 ## Ship Integrity
 
@@ -331,28 +331,28 @@ aliases: ["Appendix C: Tables"]
 |  |  |
 |----|----|
 | Result | Example |
-| O | The PC’s quick thinking saves an NPC’s life. During “Resolving the Endeavor,” one less NPC dies. |
-| O | The PC finds a moment of respite in the storm, becoming Focused for `1d4` rounds. |
-| C | Lightning strikes the ship right next to a character, and they’re Disoriented for the rest of the endeavor. |
-| C | A PC is struck by falling debris and winded. They take 9 (`2d8`) Impact damage and become Exhausted [-1] for the rest of the endeavor. |
+| Opportunity | The PC’s quick thinking saves an NPC’s life. During “Resolving the Endeavor,” one less NPC dies. |
+| Opportunity | The PC finds a moment of respite in the storm, becoming Focused for `1d4` rounds. |
+| Complication | Lightning strikes the ship right next to a character, and they’re Disoriented for the rest of the endeavor. |
+| Complication | A PC is struck by falling debris and winded. They take 9 (`2d8`) Impact damage and become Exhausted [-1] for the rest of the endeavor. |
 
 ## Hexi Trenches Opportunities and Complications
 
 |  |  |
 |----|----|
 | Result | Example |
-| O | An opponent slips into the trenches, falling Prone and dropping their weapon. |
-| C | A rock disturbed during combat reveals itself as a hostile **[[Actors/Adversaries/Animal/Shellmite|shellmite]]**. |
+| Opportunity | An opponent slips into the trenches, falling Prone and dropping their weapon. |
+| Complication | A rock disturbed during combat reveals itself as a hostile **[[Actors/Adversaries/Animal/Shellmite\|shellmite]]**. |
 
 ## Grove Opportunities and Complications
 
 |  |  |
 |----|----|
 | Result | Example |
-| O | The highly Invested nature of the Valley allows you to Breathe Stormlight as **r**. |
-| O | Ylt acts in a way that Kaiana disapproves of. Kaiana loses 1 focus. |
-| C | The PC acts in a way that Kaiana disapproves of. Progress the Kaiana Aids Ylt event by 1. |
-| C | Knotted roots open beneath the PC, who can use the Avoid Danger reaction to make a DC 10 Agility test. Ona success, they safely catch themself. On a failure, or if they don’t use their reaction, the PC falls into an unseen hole, takes 3 (`1d6`) impact damage, and stumbles out of a foliage tunnel according to the Nightwatcher’s whims. |
+| Opportunity | The highly Invested nature of the Valley allows you to Breathe Stormlight as **r**. |
+| Opportunity | Ylt acts in a way that Kaiana disapproves of. Kaiana loses 1 focus. |
+| Complication | The PC acts in a way that Kaiana disapproves of. Progress the Kaiana Aids Ylt event by 1. |
+| Complication | Knotted roots open beneath the PC, who can use the Avoid Danger reaction to make a DC 10 Agility test. Ona success, they safely catch themself. On a failure, or if they don’t use their reaction, the PC falls into an unseen hole, takes 3 (`1d6`) impact damage, and stumbles out of a foliage tunnel according to the Nightwatcher’s whims. |
 
 ## Boons and Curses
 
@@ -377,76 +377,76 @@ aliases: ["Appendix C: Tables"]
 |  |  |
 |----|----|
 | Result | Example |
-| O | If at least two Emuli soldiers have fallen, another spear infantry breaks from the larger battle to join those carrying the battering ram. |
-| O | The Tukari forces need their arrows resupplied, so each can only use their Knife during their next turn. |
-| O or C | A wounded enemy or ally loses their conviction and flees. |
-| C | An archer fires on the character from a distant part ofthe battlefield, dealing 5 (`1d6 + 2`) keen damage. |
+| Opportunity | If at least two Emuli soldiers have fallen, another spear infantry breaks from the larger battle to join those carrying the battering ram. |
+| Opportunity | The Tukari forces need their arrows resupplied, so each can only use their Knife during their next turn. |
+| Opportunity or Complication | A wounded enemy or ally loses their conviction and flees. |
+| Complication | An archer fires on the character from a distant part ofthe battlefield, dealing 5 (`1d6 + 2`) keen damage. |
 
 ## Final Push Opportunities and Complications
 
 |  |  |
 |----|----|
 | Result | Example |
-| O | A barrel of oil explodes atop the gatehouse before being used, harming the Tukari defenders instead. |
-| C | An Emuli soldier cowers before **[[Actors/Adversaries/Named/Ch. 5/Farriqa|Farriqa]]**, too frightened to fight. |
+| Opportunity | A barrel of oil explodes atop the gatehouse before being used, harming the Tukari defenders instead. |
+| Complication | An Emuli soldier cowers before **[[Actors/Adversaries/Named/Ch. 5/Farriqa\|Farriqa]]**, too frightened to fight. |
 
 ## Lilinum’s Raid Opportunities and Complications
 
 |  |  |
 |----|----|
 | Result | Example |
-| O | A broken piece of furniture acts as a bridge over an area of dangerous terrain. |
-| C | In the flurry of battle, the PC accidentally causes the fires to spread to an adjacent area with a 5-foot-radius. |
+| Opportunity | A broken piece of furniture acts as a bridge over an area of dangerous terrain. |
+| Complication | In the flurry of battle, the PC accidentally causes the fires to spread to an adjacent area with a 5-foot-radius. |
 
 ## Sabotage Opportunities and Complications
 
 |  |  |
 |----|----|
 | Result | Example |
-| O | An alarm sounds elsewhere, luring singer patrols away. |
-| C | A chilling humanoid apparition appears in the shadows for a moment. The PC becomes Disoriented for the rest of the endeavor. |
+| Opportunity | An alarm sounds elsewhere, luring singer patrols away. |
+| Complication | A chilling humanoid apparition appears in the shadows for a moment. The PC becomes Disoriented for the rest of the endeavor. |
 
 ## Dirgehollow Well Opportunities and Complications
 
 |  |  |
 |----|----|
 | Result | Example |
-| O | Lilinum sees a shadow near one of the PCs and grows curious, speaking to it. Due to the distraction, she gains a disadvantage on attack rolls until the end of her next turn. |
-| C | A derelict wall crumbles over the character, dealing 3 (`1d6`) impact damage. |
+| Opportunity | Lilinum sees a shadow near one of the PCs and grows curious, speaking to it. Due to the distraction, she gains a disadvantage on attack rolls until the end of her next turn. |
+| Complication | A derelict wall crumbles over the character, dealing 3 (`1d6`) impact damage. |
 
 ## Sentry Opportunities and Complications
 
 |  |  |
 |----|----|
 | Result | Example |
-| O | The PC gets close enough to **[[Actors/Adversaries/Named/Ch. 7/Ryel|Ryel]]** to see her. She can’t make Stealth tests until she increases the distance. |
-| C | The PCs lose or break a weapon or piece of equipment. |
+| Opportunity | The PC gets close enough to **[[Actors/Adversaries/Named/Ch. 7/Ryel\|Ryel]]** to see her. She can’t make Stealth tests until she increases the distance. |
+| Complication | The PCs lose or break a weapon or piece of equipment. |
 
 ## Excavation Opportunities and Complications
 
 |  |  |
 |----|----|
 | Result | Example |
-| O | Characters can squeeze through the uncleared tunnel with a successful DC 14 Agility test—but if they fail, they’re stuck. |
-| C | The ceiling collapses, dealing 10 (`3d6`) impact damage to each character in the room. |
-| C | Two of Ylt’s followers (Eyes of Pala agents) come to investigate from the entry hall ([[Journal/07 - 07 What Was and What Could Be|Y4: Entry Hall]].) |
+| Opportunity | Characters can squeeze through the uncleared tunnel with a successful DC 14 Agility test—but if they fail, they’re stuck. |
+| Complication | The ceiling collapses, dealing 10 (`3d6`) impact damage to each character in the room. |
+| Complication | Two of Ylt’s followers (Eyes of Pala agents) come to investigate from the entry hall ([[Journal/07 - 07 What Was and What Could Be\|Y4: Entry Hall]].) |
 
 ## Vault Opportunities and Complications
 
 |  |  |
 |----|----|
 | Result | Example |
-| O | The PCs defy the fate Ylt has foreseen. Ylt loses 1 focus, and the next attack test against him gains an advantage. |
-| O or C | An errant shot hits the ropes of the greatshell carapace hanging overhead, and it partially collapses. Each character below the falling carapace must succeed on a DC 15 Agility test (using the Avoid Danger reaction) or take 14 (`4d6`) impact damage and become Restrained. A Restrained character or another character who can reach them can Use a Skill (1) to make a DC 15 Athletics test, freeing them on a success. |
-| C | Ylt foresees a PC’s actions and prepares for them. Until the end of the next round, he adds a disadvantage to all attack tests made by a PC of his choice. |
+| Opportunity | The PCs defy the fate Ylt has foreseen. Ylt loses 1 focus, and the next attack test against him gains an advantage. |
+| Opportunity or Complication | An errant shot hits the ropes of the greatshell carapace hanging overhead, and it partially collapses. Each character below the falling carapace must succeed on a DC 15 Agility test (using the Avoid Danger reaction) or take 14 (`4d6`) impact damage and become Restrained. A Restrained character or another character who can reach them can Use a Skill (1) to make a DC 15 Athletics test, freeing them on a success. |
+| Complication | Ylt foresees a PC’s actions and prepares for them. Until the end of the next round, he adds a disadvantage to all attack tests made by a PC of his choice. |
 
 ## Pailiah Opportunities and Complications
 
 |  |  |
 |----|----|
 | Result | Example |
-| O | Pailiah is particularly moved by an argument and loses 2 focus. |
-| C | Pailiah focuses on one PC, ignoring everyone else until that PC succeeds on a test. |
+| Opportunity | Pailiah is particularly moved by an argument and loses 2 focus. |
+| Complication | Pailiah focuses on one PC, ignoring everyone else until that PC succeeds on a test. |
 
 ## Pailiah’s Treasures
 

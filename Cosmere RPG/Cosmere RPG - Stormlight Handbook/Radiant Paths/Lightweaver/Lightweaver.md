@@ -92,6 +92,6 @@ Unlike many spren, a Cryptic who seeks to bond a human often doesn’t do so alo
 >
 > **Physical Interaction.** Cryptics are nearly incorporeal in the Physical Realm. They can’t pass through objects, but they can press themselves nearly flat against surfaces, enabling them to pass through gaps that are at least half an inch wide.
 >
-> 0 or r **Test Assistance (Costs 1 Focus) .** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, Cryptics can help with figuring out patterns (including ciphers and codes), picking locks, Deduction tests, and Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.
+> One Action or One Action **Test Assistance (Costs 1 Focus) .** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, Cryptics can help with figuring out patterns (including ciphers and codes), picking locks, Deduction tests, and Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.
 >
 > Once you speak the Third Ideal, your Cryptic becomes much better at detecting falsehoods, and you can use this Test Assistance ability to gain an advantage on a test to determine whether a character within your spren bond range is lying.

@@ -8,7 +8,7 @@ aliases: ["Lashing Shot"]
 ---
 ![[projectile-boulder-yellow.webp|64]]
 
-**Activation:** 2
+**Activation:** Two Actions
 
 *You apply multiple Basic Lashings to an object, launching it with several times the force of gravity.*
 

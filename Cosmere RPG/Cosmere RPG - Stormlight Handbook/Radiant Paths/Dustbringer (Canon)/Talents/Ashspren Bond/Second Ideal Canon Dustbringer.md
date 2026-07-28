@@ -20,4 +20,4 @@ You gain the goal [[Radiant Paths/Dustbringer/Goals/Speak the Second Ideal|Speak
 
 - You gain an additional skill on your character sheet for the above surge, starting with 1 rank.
 
-- Your [[Actions/Stormlight/Enhance|Enhance]] action becomes more powerful. While your current Investiture is 1 or greater, you can use Enhance as 0, and you don’t need to spend Investiture to use this action or maintain its effect.
+- Your [[Actions/Stormlight/Enhance|Enhance]] action becomes more powerful. While your current Investiture is 1 or greater, you can use Enhance as One Action, and you don’t need to spend Investiture to use this action or maintain its effect.

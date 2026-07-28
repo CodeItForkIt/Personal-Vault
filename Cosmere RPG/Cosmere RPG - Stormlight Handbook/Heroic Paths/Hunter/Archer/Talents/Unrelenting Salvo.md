@@ -8,7 +8,7 @@ aliases: ["Unrelenting Salvo"]
 ---
 ![[arrows-flying-salvo-blue.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *Drawing the bowstring with impressive speed, you fire again, using your first arrow’s path as your guide.*
 

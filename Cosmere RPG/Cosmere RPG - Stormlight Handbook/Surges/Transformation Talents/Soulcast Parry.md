@@ -8,7 +8,7 @@ aliases: ["Soulcast Parry"]
 ---
 ![[shield-barrier-deflect-teal.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You can use Soulcasting to defend against even more immediate threats.*
 

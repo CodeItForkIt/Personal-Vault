@@ -18,9 +18,9 @@ aliases: ["Heavenly One"]
 
 The following options are available when an enemy gains an Opportunity or Complication during a scene with the Heavenly One:
 
-**Opportunity.** An enemy can spend O to prevent the Heavenly One from using their Harry the Foe and Skyborn features, as well as their Surge of Gravitation and Regenerate actions, until the end of the Heavenly One's next turn.
+**Opportunity.** An enemy can spend Opportunity to prevent the Heavenly One from using their Harry the Foe and Skyborn features, as well as their Surge of Gravitation and Regenerate actions, until the end of the Heavenly One's next turn.
 
-**Complication.** The GM can spend c from an enemy's test to have the Heavenly One use their Surge of Gravitation as r, without spending Investiture to do so.
+**Complication.** The GM can spend Complication from an enemy's test to have the Heavenly One use their Surge of Gravitation as Reaction, without spending Investiture to do so.
 
 ##### Tactics
 

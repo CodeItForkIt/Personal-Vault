@@ -8,7 +8,7 @@ aliases: ["Formation Drills"]
 ---
 ![[infantry-army.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You coordinate your allies to march in a defensive formation with you.*
 

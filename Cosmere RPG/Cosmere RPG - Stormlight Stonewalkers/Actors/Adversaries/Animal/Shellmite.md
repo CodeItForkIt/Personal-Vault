@@ -26,7 +26,7 @@ An undetected Shellmite gains an advantage on attack tests. While the Shellmite 
 ### Feeding Frenzy
 *2 act*
 
-The Shellmite whips up a frenzy against an enemy within 5 feet of them. Each Shellmite within 5 feet of the target can use r to join the frenzy. The target takes `1d4 Keen average` per frenzied Shellmite.
+The Shellmite whips up a frenzy against an enemy within 5 feet of them. Each Shellmite within 5 feet of the target can use Reaction to join the frenzy. The target takes `1d4 Keen average` per frenzied Shellmite.
 
 ### Strike: Pincer
 *1 act*

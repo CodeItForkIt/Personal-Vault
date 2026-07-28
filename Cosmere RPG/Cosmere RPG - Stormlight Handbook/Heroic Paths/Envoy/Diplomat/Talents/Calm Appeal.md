@@ -8,7 +8,7 @@ aliases: ["Calm Appeal"]
 ---
 ![[thumbsup-approval-like.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Action
 
 *You draw on your enemy’s innate desire to live and continue pursuing their goals. Sowing seeds of doubt, you encourage them to reach a compromise.*
 

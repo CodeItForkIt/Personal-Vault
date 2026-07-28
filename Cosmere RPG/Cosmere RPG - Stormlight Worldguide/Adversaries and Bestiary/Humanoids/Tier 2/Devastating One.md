@@ -18,9 +18,9 @@ aliases: ["Devastating One"]
 
 The following options are available when an enemy gains an Opportunity or Complication during a scene with the Devastating One:
 
-**Opportunity.** An enemy can spend O to disable the Devastating One's Shroud of Dust feature and pervent them from using their Surge of Division and Regenerate actions until the end of the Devastating One's next turn.
+**Opportunity.** An enemy can spend Opportunity to disable the Devastating One's Shroud of Dust feature and pervent them from using their Surge of Division and Regenerate actions until the end of the Devastating One's next turn.
 
-**Complication.** The GM can spend c from an enemy's test to have the Devastating One use either their Strike: Claws or Devastating Touch action as r. When they do, they gain an advantage on that attack test.
+**Complication.** The GM can spend Complication from an enemy's test to have the Devastating One use either their Strike: Claws or Devastating Touch action as Reaction. When they do, they gain an advantage on that attack test.
 
 ##### Tactics
 

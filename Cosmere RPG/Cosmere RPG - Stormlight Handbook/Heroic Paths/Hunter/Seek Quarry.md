@@ -8,10 +8,10 @@ aliases: ["Seek Quarry"]
 ---
 ![[map-marked-red.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *Once you’ve found your prey’s trail, you unrelentingly pursue them and study their movements across the harshest of terrain.*
 
-After spending 1 minute mentally preparing, you choose a character who you can sense or who you’ve previously encountered. That character becomes your quarry until you choose to end this effect (0) or select a new quarry.
+After spending 1 minute mentally preparing, you choose a character who you can sense or who you’ve previously encountered. That character becomes your quarry until you choose to end this effect (Special Activation) or select a new quarry.
 
 Additionally, you gain an advantage on tests made to find, attack, or study your quarry (such as the [[Actions/Basic/Gain Advantage|Gain Advantage]] action).

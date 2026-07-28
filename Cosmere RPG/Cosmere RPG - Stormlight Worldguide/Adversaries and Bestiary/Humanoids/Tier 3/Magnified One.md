@@ -18,9 +18,9 @@ aliases: ["Magnified One"]
 
 The following options are available when an enemy gains an Opportunity or Complication during a scene with the Magnified One:
 
-**Opportunity.** An enemy can spend O to prevent the Magnified One from using any actions that cost Investiture until the end of the Magnified One's next turn.
+**Opportunity.** An enemy can spend Opportunity to prevent the Magnified One from using any actions that cost Investiture until the end of the Magnified One's next turn.
 
-**Complication.** The GM can spend c from an enemy's test to have the Magnified One use their Grow Carapace action as r.
+**Complication.** The GM can spend Complication from an enemy's test to have the Magnified One use their Grow Carapace action as Reaction.
 
 ##### Tactics
 
@@ -75,7 +75,7 @@ The Magnified One grows their carapace for additional armor or spikes, gaining t
 ### Magnified Charge
 *2 act*
 
-The Magnified One moves up to 25 feet in a straight line without triggering Reactive Strikes. The first time the Magnified One comes within 5 feet of each enemy during this move, the Magnified One can make a Carapace Weapon attack against that enemy as 0. On a hit, the enemy is also knocked Prone.
+The Magnified One moves up to 25 feet in a straight line without triggering Reactive Strikes. The first time the Magnified One comes within 5 feet of each enemy during this move, the Magnified One can make a Carapace Weapon attack against that enemy as Free Action. On a hit, the enemy is also knocked Prone.
 
 ### Surge of Progression
 *2 act*

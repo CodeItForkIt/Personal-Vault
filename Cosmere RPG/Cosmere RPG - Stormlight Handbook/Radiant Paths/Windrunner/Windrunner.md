@@ -84,8 +84,8 @@ The honorspren still remember how many of their number were killed in the Recrea
 >
 > **Physical Interaction.** Honorspren are mostly insubstantial in the Physical Realm, and at first, they have very little ability to affect their surroundings. They can’t pass through objects, but their malleable form enables them to pass through tight spaces like keyholes and closed storm shutters. Honorspren can interact with lightweight objects using their Push Object ability.
 >
-> 0 **Push Object (Costs 2 Focus).** Your honorspren slowly pushes an unattended, unsecured object that weighs no more than 0.1 pounds (but they aren’t strong enough to carry it). This movement must begin and end in your spren bond range. If your spren is trying to do so undetected, the GM might ask you to make a Stealth test against a DC they set.
+> One Action **Push Object (Costs 2 Focus).** Your honorspren slowly pushes an unattended, unsecured object that weighs no more than 0.1 pounds (but they aren’t strong enough to carry it). This movement must begin and end in your spren bond range. If your spren is trying to do so undetected, the GM might ask you to make a Stealth test against a DC they set.
 >
 > Once you speak the Third Ideal, your honorspren can push objects that weigh up to 1 pound.
 >
-> 0 or r **Test Assistance (Costs 1 Focus) .** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, honorspren can help with keeping track of time, predicting highstorms, Leadership tests, and Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.
+> One Action or One Action **Test Assistance (Costs 1 Focus) .** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, honorspren can help with keeping track of time, predicting highstorms, Leadership tests, and Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.

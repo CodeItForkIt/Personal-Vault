@@ -8,7 +8,7 @@ aliases: ["Tagging Shot"]
 ---
 ![[target-bullseye-archer-orange.webp|64]]
 
-**Activation:** 3
+**Activation:** Three Actions
 
 *Your careful shot wounds your target, causing them to leave behind a trail of blood, staggering footprints, or other marks of passage.*
 

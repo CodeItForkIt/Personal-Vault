@@ -8,4 +8,4 @@ aliases: ["Pack Instincts"]
 ---
 ![[wolf-howl-moon-forest-blue.webp|64]]
 
-While within 5 feet of an ally, the Actor Name can use the Gain Advantage action as 0.
+While within 5 feet of an ally, the Actor Name can use the Gain Advantage action as Free Action.

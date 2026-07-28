@@ -86,7 +86,7 @@ Nale’s faction of highspren don’t form a bond until their Skybreaker speaks 
 >
 > **Physical Interaction.** Highspren are nearly incorporeal in the Physical Realm, but they don’t have the ability to pass through objects. They lack malleable forms but are mostly two-dimensional; as a result, they can't shrink down, but can pass through very thin openings.
 >
-> 0 or r **Test Assistance (Costs 1 Focus) .** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, highspren can help with investigating crimes and determining guilt or innocent, Intimidation tests, and Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.
+> One Action or One Action **Test Assistance (Costs 1 Focus) .** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, highspren can help with investigating crimes and determining guilt or innocent, Intimidation tests, and Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.
 
 ------------------------------------------------------------------------
 

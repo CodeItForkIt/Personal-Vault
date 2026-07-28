@@ -8,7 +8,7 @@ aliases: ["Devoted Presence"]
 ---
 ![[sihouette-hold-beam-green.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *Your words fill your compatriots with purpose, helping them shrug off discomfort or surprise.*
 

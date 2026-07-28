@@ -8,7 +8,7 @@ aliases: ["Physical Illusion"]
 ---
 ![[explosion-beam-impact-silhouette.webp|64]]
 
-**Activation:** 2
+**Activation:** Two Actions
 
 *By mixing Transformation and Illumination, you create illusions with weight and tangibility.*
 

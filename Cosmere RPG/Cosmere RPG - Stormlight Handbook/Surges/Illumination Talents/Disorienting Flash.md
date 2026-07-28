@@ -8,7 +8,7 @@ aliases: ["Disorienting Flash"]
 ---
 ![[explosion-star-glow-blue.webp|64]]
 
-**Activation:** 2
+**Activation:** Two Actions
 
 *You create a brief burst of light and sound that attacks the senses of targets near you.*
 

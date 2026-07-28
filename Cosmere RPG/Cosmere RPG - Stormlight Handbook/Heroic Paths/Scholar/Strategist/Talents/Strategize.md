@@ -8,7 +8,7 @@ aliases: ["Strategize"]
 ---
 ![[academics-investigation-study-blue.webp|64]]
 
-**Activation:** \*
+**Activation:** Two Actions
 
 *You carefully observe and assess your problem from novel angles, creating a cunning plan to remove an obstacle, gain the edge, or counter a foe’s next move.*
 

@@ -14,7 +14,7 @@ The surge of Tension alters the rigidity of objects. This allows you to reinforc
 >
 > ***Radiant Orders:** Stoneward, Bondsmith*
 >
-> ***Activation:*** *1*
+> ***Activation:*** One Action
 >
 > *To use this surge, spend 1 or more Investiture to infuse a soft object within your reach; you must have a hand free and touch the target. The infusion uses 1 Investiture each round, and for the duration, the object becomes completely rigid.*
 >

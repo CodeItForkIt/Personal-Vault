@@ -8,7 +8,7 @@ aliases: ["Mind and Body"]
 ---
 ![[silhouette-hold-change-green.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You expand your intensive studies to include martial arts and fitness in addition to the cerebral arts.*
 

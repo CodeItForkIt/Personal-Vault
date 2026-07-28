@@ -35,7 +35,7 @@ The Ryshadium moves up to 40 feet in a straight line without triggering Reactive
 ### Loyal Companion
 *1 fre*
 
-While within 60 feet of their chosen rider, the Ryshadium can use the Move action as 0.
+While within 60 feet of their chosen rider, the Ryshadium can use the Move action as Free Action.
 
 ### Danger Sense
 *1 rea*

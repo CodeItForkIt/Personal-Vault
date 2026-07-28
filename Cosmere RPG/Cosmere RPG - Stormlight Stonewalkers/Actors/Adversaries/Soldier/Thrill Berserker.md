@@ -22,7 +22,7 @@ A **Thrill berserker** rushes into battle, undeterred by formidable enemies and 
 ### Infectious Thrill
 *1*
 
-When an enemy rolls a c on an attack test against the Thrill Berserker, the enemy gains a +3 bonus to that d20 roll. Regardless of whether the attack hits or misses, if any other characters are within 5 feet of the Thrill Berserker, the enemy must choose one. The enemy's attack also grazes the chosen character (without spending focus).
+When an enemy rolls a Complication on an attack test against the Thrill Berserker, the enemy gains a +3 bonus to that d20 roll. Regardless of whether the attack hits or misses, if any other characters are within 5 feet of the Thrill Berserker, the enemy must choose one. The enemy's attack also grazes the chosen character (without spending focus).
 
 ### Shield Bash
 *1 act*

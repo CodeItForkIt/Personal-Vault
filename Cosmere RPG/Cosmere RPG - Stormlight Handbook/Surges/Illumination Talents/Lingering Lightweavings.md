@@ -8,7 +8,7 @@ aliases: ["Lingering Lightweavings"]
 ---
 ![[runes-triangle-blue.webp|64]]
 
-**Activation:** \*
+**Activation:** One Action
 
 *You infuse spheres with your Illumination, creating illusions that linger long after you’ve moved away.*
 

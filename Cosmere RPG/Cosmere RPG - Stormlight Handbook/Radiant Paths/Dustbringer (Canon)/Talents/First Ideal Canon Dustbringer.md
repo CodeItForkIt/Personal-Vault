@@ -8,7 +8,7 @@ aliases: ["First Ideal (Canon Dustbringer)"]
 ---
 ![[fog-gas-smoke-dense-orange.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You begin the process of bonding an ashspren, giving you some small ability to breathe in and use Stormlight. You might be aware of this nascent bond, or clueless—using the powers subconsciously—until you get closer to speaking the First Ideal.*
 

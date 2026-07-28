@@ -31,7 +31,7 @@ A **Dustbringer of the Second Ideal** carves a destructive path in and out of me
 ### Burst of Flame
 *3 act*
 
-The Vanzi emits a burst of fire that deals `1d8 Energy average` to each character within 10 feet of them and sets unattended objects in that area ablaze. Additionally, the Vanzi can spend 1 focus or more to shower sparks onto that many enemies within 30 feet of them; each target must succeed on a *Test: `skill=agi dc=14`* or lose one 1 on their next turn.
+The Vanzi emits a burst of fire that deals `1d8 Energy average` to each character within 10 feet of them and sets unattended objects in that area ablaze. Additionally, the Vanzi can spend 1 focus or more to shower sparks onto that many enemies within 30 feet of them; each target must succeed on a *Test: `skill=agi dc=14`* or lose one One Action on their next turn.
 
 ### Eroding Escape
 *1 act*
@@ -58,7 +58,7 @@ While they have 1 Investiture or more, the Vanzi's movement is increased by 10 f
 
 **Graze** `1d6 Keen average`;
 
-**Hit** `1d6 + 6 Keen average`, and the Vanzi can spend 1 focus to use the Disengage action as 0.
+**Hit** `1d6 + 6 Keen average`, and the Vanzi can spend 1 focus to use the Disengage action as Free Action.
 
 ### Strike: Shortbow
 *1 act*

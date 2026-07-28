@@ -8,7 +8,7 @@ aliases: ["Applied Medicine"]
 ---
 ![[bowl-liquid-pink-yellow-green.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You’ve studied chemistry, anatomy, social behavior, and much more. Thanks to this broad foundation, you practice the complex art of healing with flexibility and confidence.*
 

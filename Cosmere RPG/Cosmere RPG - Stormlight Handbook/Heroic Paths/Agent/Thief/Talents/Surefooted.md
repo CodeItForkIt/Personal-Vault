@@ -8,7 +8,7 @@ aliases: ["Surefooted"]
 ---
 ![[feet-winged-boots-brown.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You move through treacherous terrain with confidence and speed.*
 

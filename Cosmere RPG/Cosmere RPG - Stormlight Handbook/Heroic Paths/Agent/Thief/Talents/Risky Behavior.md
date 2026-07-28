@@ -8,7 +8,7 @@ aliases: ["Risky Behavior"]
 ---
 ![[silhouette-aura-energy.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Action
 
 *You know that risk and reward are inseparable traveling companions, and you love seeing where this pair takes you.*
 

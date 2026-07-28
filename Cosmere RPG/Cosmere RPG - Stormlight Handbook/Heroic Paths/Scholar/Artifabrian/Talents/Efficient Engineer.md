@@ -8,7 +8,7 @@ aliases: ["Efficient Engineer"]
 ---
 ![[construction-carpentry-hammer.webp|64]]
 
-**Activation:** 8
+**Activation:** Special Activation
 
 *Solid work begins with practice and fundamentals like measuring twice before each cut. You’ve put in the hours, sweat, tears, and occasional blood to learn the basic tricks of the tinkerer’s trade.*
 

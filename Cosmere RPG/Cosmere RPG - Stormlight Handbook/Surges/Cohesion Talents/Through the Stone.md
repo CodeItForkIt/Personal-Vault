@@ -8,7 +8,7 @@ aliases: ["Through the Stone"]
 ---
 ![[projectile-boulder-dust.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *When you touch stone, you can sense and use your Cohesion through it from a much greater distance.*
 

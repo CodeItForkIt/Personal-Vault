@@ -8,7 +8,7 @@ aliases: ["Ironstance"]
 ---
 ![[strike-axe-energy-pink.webp|64]]
 
-**Activation:** 1
+**Activation:** Two Actions
 
 *You hold your weapon high, prepared to deliver a crushing blow downward when your opponent shows weakness.*
 

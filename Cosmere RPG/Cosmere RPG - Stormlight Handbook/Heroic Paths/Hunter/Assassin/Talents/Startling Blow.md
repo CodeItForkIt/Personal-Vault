@@ -8,7 +8,7 @@ aliases: ["Startling Blow"]
 ---
 ![[injury-face-impact-orange.webp|64]]
 
-**Activation:** 1
+**Activation:** One Action
 
 *You unexpectedly strike at your target’s weak point, dizzying your target and creating an opening for your next attack.*
 

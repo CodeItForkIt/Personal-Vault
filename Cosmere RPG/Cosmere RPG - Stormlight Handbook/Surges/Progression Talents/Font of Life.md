@@ -12,4 +12,4 @@ aliases: ["Font of Life"]
 
 *You’ve grown so powerful that growth and healing flow from you with incredible speed.*
 
-It costs you one fewer 1 to use **Progression** and its talents.
+It costs you one fewer One Action to use **Progression** and its talents.

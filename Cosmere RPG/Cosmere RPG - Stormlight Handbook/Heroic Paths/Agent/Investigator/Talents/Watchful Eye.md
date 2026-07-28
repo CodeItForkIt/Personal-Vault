@@ -8,7 +8,7 @@ aliases: ["Watchful Eye"]
 ---
 ![[hand-eye-black.webp|64]]
 
-**Activation:** r
+**Activation:** Always Active
 
 *Allies can be an asset or a liability, so you keep an eye on them for their protection and yours.*
 

@@ -8,7 +8,7 @@ aliases: ["Deep Contemplation"]
 ---
 ![[meditation-chi-focus-blue.webp|64]]
 
-**Activation:** 2
+**Activation:** Two Actions
 
 *You methodically search your mental archives for facts and information to help resolve your current situation.*
 

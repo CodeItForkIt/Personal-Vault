@@ -8,7 +8,7 @@ aliases: ["Gather Evidence"]
 ---
 ![[academics-investigation-puzzles.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *Observing clues in your environment, you slowly but surely build a mental model of the mysteries before you.*
 

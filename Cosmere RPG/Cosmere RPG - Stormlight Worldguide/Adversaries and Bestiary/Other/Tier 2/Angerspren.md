@@ -31,7 +31,7 @@ The Angerspren scrapes their claws and spines against one enemy they have Restra
 ### Tail Wrap
 *1 rea*
 
-When an enemy triggers a Reactive Strike from the Angerspren, the Angerspren can instead use their tail to attempt to Grapple the enemy as r, spending focus as if they made a Reactive Strike. While the Angerspren is grappling an enemy in this way, the effect ends if the target is more than 5 feet from the Angerspren, if the target succeeds on a *Test: `skill=dis dc=14`*, or if the Angerspren uses their Tail Wrap against another target.
+When an enemy triggers a Reactive Strike from the Angerspren, the Angerspren can instead use their tail to attempt to Grapple the enemy as Reaction, spending focus as if they made a Reactive Strike. While the Angerspren is grappling an enemy in this way, the effect ends if the target is more than 5 feet from the Angerspren, if the target succeeds on a *Test: `skill=dis dc=14`*, or if the Angerspren uses their Tail Wrap against another target.
 
 ### Strike: Bite
 *1 act*
@@ -43,4 +43,4 @@ When an enemy triggers a Reactive Strike from the Angerspren, the Angerspren can
 **Hit** `1d10 + 8 Keen average`
 
 ### Pack Instincts
-While within 5 feet of an ally, the Angerspren can use the Gain Advantage action as 0.
+While within 5 feet of an ally, the Angerspren can use the Gain Advantage action as Free Action.

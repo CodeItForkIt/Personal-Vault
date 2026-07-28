@@ -8,7 +8,7 @@ aliases: ["Deadly Trap"]
 ---
 ![[chain-steel-grey.webp|64]]
 
-**Activation:** 2
+**Activation:** Special Activation
 
 *You know how to build traps and snares to catch wildlife— or even deadlier game!*
 

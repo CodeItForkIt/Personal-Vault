@@ -8,7 +8,7 @@ aliases: ["Killing Edge"]
 ---
 ![[dagger-jeweled-purple.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *Your simple weapons seem humble beside ancient relics or weapons of war, but in your hands, even a rusty knife or pitted sling is as deadly as the finest steel.*
 

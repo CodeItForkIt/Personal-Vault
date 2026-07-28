@@ -8,7 +8,7 @@ aliases: ["Collected"]
 ---
 ![[illusion-evasion-echo-purple.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You’ve learned to be mindful of your immediate goals without losing sight of your deeper value, keeping you even-keeled amid chaos.*
 

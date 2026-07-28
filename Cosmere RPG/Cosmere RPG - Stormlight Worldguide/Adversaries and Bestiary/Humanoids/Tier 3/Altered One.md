@@ -19,9 +19,9 @@ aliases: ["Altered One"]
 
 The following options are available when an enemy gains an Opportunity or Complication during a scene with the Altered One:
 
-**Opportunity.** An enemy can spend O to prevent the Altered One from using their Tactical Insight, Surge of Transformation, and Regenerate actions until the end of the Atlered One's next turn.
+**Opportunity.** An enemy can spend Opportunity to prevent the Altered One from using their Tactical Insight, Surge of Transformation, and Regenerate actions until the end of the Atlered One's next turn.
 
-**Complication.** The GM can spend c from an enemy's test to have the Altered One use their Surge of Transformation action as r. Each target gains a disadvantage on their Agility or Athletics test against that action's effect.
+**Complication.** The GM can spend Complication from an enemy's test to have the Altered One use their Surge of Transformation action as Reaction. Each target gains a disadvantage on their Agility or Athletics test against that action's effect.
 
 ##### Tactics
 

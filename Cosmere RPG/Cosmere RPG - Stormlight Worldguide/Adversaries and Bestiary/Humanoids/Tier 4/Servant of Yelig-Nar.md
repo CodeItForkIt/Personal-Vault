@@ -18,9 +18,9 @@ aliases: ["Servant of Yelig-Nar"]
 
 The following options are available when an enemy gains an Opportunity or Complication during a scene with the servant of Yelig-nar:
 
-**Opportunity.** An enemy can spend O to use the Strike action as 0 against the servant of Yelig-nar. This Strike doesn't count toward the number of Strikes the enemy can use on their turn.
+**Opportunity.** An enemy can spend Opportunity to use the Strike action as Free Action against the servant of Yelig-nar. This Strike doesn't count toward the number of Strikes the enemy can use on their turn.
 
-**Complication.** The GM can spend c from an enemy's test to have the servant of Yelig-nar regain 2 Investiture then use their Unmade Gravitation action as r without spending Investiture.
+**Complication.** The GM can spend Complication from an enemy's test to have the servant of Yelig-nar regain 2 Investiture then use their Unmade Gravitation action as Reaction without spending Investiture.
 
 ##### Tactics
 
@@ -59,7 +59,7 @@ At the start of each round, the Servant of Yelig-Nar can spend 1 Investiture to 
 
 The Servant of Yelig-Nar chooses one of the following effects:
 
-- **Deadly Leap.** They leap up to 40 feet without triggering Reactive Strikes, then use their Shardblade as 0 against a character within reach. When they do so, they can't spend focus to knock the target Prone.
+- **Deadly Leap.** They leap up to 40 feet without triggering Reactive Strikes, then use their Shardblade as Free Action against a character within reach. When they do so, they can't spend focus to knock the target Prone.
 
 - **Flight.** The Servant of Yelig-Nar gains a flying rate of 40 feet until the start of their next turn. At the start of each of their turns, they can spend 1 Investiture to maintain this effect for an additional round.
 
@@ -88,4 +88,4 @@ The Servant of Yelig-Nar can take both a fast turn and a slow turn each round. A
 ### Mobile
 *1*
 
-When the Servant of Yelig-Nar willingly moves on their turn, they can choose to pause moving and use another action before finishing their available movement. They can resume that movement as 0 any time before the end of their turn.
+When the Servant of Yelig-Nar willingly moves on their turn, they can choose to pause moving and use another action before finishing their available movement. They can resume that movement as Free Action any time before the end of their turn.

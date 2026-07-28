@@ -8,11 +8,11 @@ aliases: ["Sharp Eye"]
 ---
 ![[eye-ringed-glow-angry-red.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *Your practiced eye discerns the strengths and vulnerabilities of your foes—especially your chosen quarry.*
 
-After you observe your quarry for 1, or after you observe another character for at least 1 minute, make a **Perception** test against their Cognitive defense.
+After you observe your quarry for Special Activation, or after you observe another character for at least 1 minute, make a **Perception** test against their Cognitive defense.
 
 On a success, you learn one of the following of your choice:
 

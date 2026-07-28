@@ -8,7 +8,7 @@ aliases: ["Demonstrative Command"]
 ---
 ![[control-influence-rally-purple.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You set an example from the front, applying your advice to your own actions.*
 

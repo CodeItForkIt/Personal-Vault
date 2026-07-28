@@ -439,26 +439,26 @@ aliases: ["Appendix 2: Tables"]
 |  |  |  |  |
 |----|----|----|----|
 | Gemstone | Chip | Mark | Broam |
-| [[Items/Loot/Diamond Mark|Diamond]] | 0.2 | 1 | 4 |
-| [[Items/Loot/Garnet Mark|Garnet]], [[Items/Loot/Heliodor Mark|heliodor]], [[Items/Loot/Topaz Mark|topaz]] | 1 | 5 | 20 |
-| [[Items/Loot/Ruby Mark|Ruby]], [[Items/Loot/Smokestone Mark|smokestone]], [[Items/Loot/Zircon Mark|zircon]] | 2 | 10 | 40 |
-| [[Items/Loot/Amethyst Mark|Amethyst]], [[Items/Loot/Sapphire Mark|sapphire]] | 5 | 25 | 100 |
-| [[Items/Loot/Emerald Mark|Emerald]] | 10 | 50 | 200 |
+| [[Items/Loot/Diamond Mark\|Diamond]] | 0.2 | 1 | 4 |
+| [[Items/Loot/Garnet Mark\|Garnet]], [[Items/Loot/Heliodor Mark\|heliodor]], [[Items/Loot/Topaz Mark\|topaz]] | 1 | 5 | 20 |
+| [[Items/Loot/Ruby Mark\|Ruby]], [[Items/Loot/Smokestone Mark\|smokestone]], [[Items/Loot/Zircon Mark\|zircon]] | 2 | 10 | 40 |
+| [[Items/Loot/Amethyst Mark\|Amethyst]], [[Items/Loot/Sapphire Mark\|sapphire]] | 5 | 25 | 100 |
+| [[Items/Loot/Emerald Mark\|Emerald]] | 10 | 50 | 200 |
 
 ## Light Weaponry
 
 |  |  |  |  |  |  |  |
 |----|----|----|----|----|----|----|
 | Type | Damage | Range | Traits | Expert Traits | Weight | Price |
-| [[Items/Weapons/Javelin|Javelin]] | 1d6 keen | Melee | Thrown [30/120] | Indirect | 2 lb. | 20 mk |
-| [[Items/Weapons/Knife|Knife]] | 1d4 keen | Melee | Discreet | Offhand, Thrown [20/60] | 1 lb. | 8 mk |
-| [[Items/Weapons/Mace|Mace]] | 1d6 impact | Melee | \_ | Momentum | 3 lb. | 20 mk |
-| [[Items/Weapons/Rapier|Rapier]] | 1d6 keen | Melee | Quickdraw | Defensive | 2 lb. | 100 mk |
-| [[Items/Weapons/Shortspear|Shortspear]] | 1d8 keen | Melee | Two-Handed | Unique: loses Two-Handed trait | 3 lb. | 10 mk |
-| [[Items/Weapons/Sidesword|Sidesword]] | 1d6 keen | Melee | Quickdraw | Offhand | 2 lb. | 40 mk |
-| [[Items/Weapons/Staff|Staff]] | 1d6 impact | Melee | Discreet, Two-Handed | Defensive | 4 lb. | 1 mk |
-| [[Items/Weapons/Shortbow|Shortbow]] | 1d6 keen | Ranged [80/320] | Two-Handed | Quickdraw | 2 lb. | 80 mk |
-| [[Items/Weapons/Sling|Sling]] | 1d4 impact | Ranged [30/120] | Discreet | Indirect | 1 lb. | 2 mk |
+| [[Items/Weapons/Javelin\|Javelin]] | 1d6 keen | Melee | Thrown [30/120] | Indirect | 2 lb. | 20 mk |
+| [[Items/Weapons/Knife\|Knife]] | 1d4 keen | Melee | Discreet | Offhand, Thrown [20/60] | 1 lb. | 8 mk |
+| [[Items/Weapons/Mace\|Mace]] | 1d6 impact | Melee | \_ | Momentum | 3 lb. | 20 mk |
+| [[Items/Weapons/Rapier\|Rapier]] | 1d6 keen | Melee | Quickdraw | Defensive | 2 lb. | 100 mk |
+| [[Items/Weapons/Shortspear\|Shortspear]] | 1d8 keen | Melee | Two-Handed | Unique: loses Two-Handed trait | 3 lb. | 10 mk |
+| [[Items/Weapons/Sidesword\|Sidesword]] | 1d6 keen | Melee | Quickdraw | Offhand | 2 lb. | 40 mk |
+| [[Items/Weapons/Staff\|Staff]] | 1d6 impact | Melee | Discreet, Two-Handed | Defensive | 4 lb. | 1 mk |
+| [[Items/Weapons/Shortbow\|Shortbow]] | 1d6 keen | Ranged [80/320] | Two-Handed | Quickdraw | 2 lb. | 80 mk |
+| [[Items/Weapons/Sling\|Sling]] | 1d4 impact | Ranged [30/120] | Discreet | Indirect | 1 lb. | 2 mk |
 
 ![[pg247_Light Weaponry_VINCENT DUTRAIT.webp]]
 
@@ -469,15 +469,15 @@ aliases: ["Appendix 2: Tables"]
 |  |  |  |  |  |  |  |
 |----|----|----|----|----|----|----|
 | Type | Damage | Range | Traits | Expert Traits | Weight | Price |
-| [[Items/Weapons/Axe|Axe]] | 1d6 keen | Melee | Thrown [20/60] | Offhand | 2 lb. | 20 mk |
-| [[Items/Weapons/Greatsword|Greatsword]] | 1d10 keen | Melee | Two-Handed | Deadly | 7 lb. | 200 mk |
-| [[Items/Weapons/Hammer|Hammer]] | 1d10 impact | Melee | Two-Handed | Momentum | 8 lb. | 40 mk |
-| [[Items/Weapons/Longspear|Longspear]] | 1d8 keen | Melee [+5] | Two-Handed | Defensive | 9 lb. | 15 mk |
-| [[Items/Weapons/Longsword|Longsword]] | 1d8 keen | Melee | Quickdraw, Two-Handed | Unique: loses Two-Handed trait | 3 lb. | 60 mk |
-| [[Items/Weapons/Poleaxe|Poleaxe]] | 1d10 keen | Melee | Two-Handed | Unique: Melee [+5] | 5 lb. | 40 mk |
-| [[Items/Weapons/Shield|Shield]] | 1d4 impact | Melee | Defensive | Offhand | 2 lb. | 10 mk |
-| [[Items/Weapons/Crossbow|Crossbow]] | 1d8 keen | Ranged [100/400] | Loaded [1], Two-Handed | Deadly | 7 lb. | 200 mk |
-| [[Items/Weapons/Longbow|Longbow]] | 1d6 keen | Ranged [150/600] | Two-Handed | Indirect | 3 lb. | 100 mk |
+| [[Items/Weapons/Axe\|Axe]] | 1d6 keen | Melee | Thrown [20/60] | Offhand | 2 lb. | 20 mk |
+| [[Items/Weapons/Greatsword\|Greatsword]] | 1d10 keen | Melee | Two-Handed | Deadly | 7 lb. | 200 mk |
+| [[Items/Weapons/Hammer\|Hammer]] | 1d10 impact | Melee | Two-Handed | Momentum | 8 lb. | 40 mk |
+| [[Items/Weapons/Longspear\|Longspear]] | 1d8 keen | Melee [+5] | Two-Handed | Defensive | 9 lb. | 15 mk |
+| [[Items/Weapons/Longsword\|Longsword]] | 1d8 keen | Melee | Quickdraw, Two-Handed | Unique: loses Two-Handed trait | 3 lb. | 60 mk |
+| [[Items/Weapons/Poleaxe\|Poleaxe]] | 1d10 keen | Melee | Two-Handed | Unique: Melee [+5] | 5 lb. | 40 mk |
+| [[Items/Weapons/Shield\|Shield]] | 1d4 impact | Melee | Defensive | Offhand | 2 lb. | 10 mk |
+| [[Items/Weapons/Crossbow\|Crossbow]] | 1d8 keen | Ranged [100/400] | Loaded [1], Two-Handed | Deadly | 7 lb. | 200 mk |
+| [[Items/Weapons/Longbow\|Longbow]] | 1d6 keen | Ranged [150/600] | Two-Handed | Indirect | 3 lb. | 100 mk |
 
 ![[pg246_Heavy Weaponry_VINCENT DUTRAIT.webp]]
 
@@ -608,14 +608,14 @@ aliases: ["Appendix 2: Tables"]
 |  |  |  |  |  |  |
 |----|----|----|----|----|----|
 | Type | Deflect Value | Traits | Expert Traits | Weight | Price |
-| [[Items/Armor/Uniform|Uniform]] | 0 | Presentable | \_ | 5 lb. | 40 mk |
-| [[Items/Armor/Leather|Leather]] | 1 | \_ | Presentable | 10 lb. | 60 mk |
-| [[Items/Armor/Chain|Chain]] | 2 | Cumbersome[3] | Unique: loses Cumbersome trait | 25 lb. | 80 mk |
-| [[Items/Armor/Breastplate|Breastplate]] | 2 | Cumbersome[3] | Presentable | 30 lb. | 120 mk |
-| [[Items/Armor/Half Plate|Half Plate]] | 3 | Cumbersome[4] | Unique: Cumbersome[3] instead of Cumbersome[4] | 40 lb. | 400 mk |
-| [[Items/Armor/Full Plate|Full Plate]] | 4 | Cumbersome[5] | \_ | 55 lb. | 1,600 mk |
-| [[Items/Armor/Shardplate|Shardplate]] | 5 | Dangerous, Unique | Unique: loses Dangerous trait | 1,400 lb. | Reward Only |
-| [[Items/Armor/Shardplate Radiant|Shardplate (Radiant)]] | 5 | Unique | \_ | Weightless | Talent Only |
+| [[Items/Armor/Uniform\|Uniform]] | 0 | Presentable | \_ | 5 lb. | 40 mk |
+| [[Items/Armor/Leather\|Leather]] | 1 | \_ | Presentable | 10 lb. | 60 mk |
+| [[Items/Armor/Chain\|Chain]] | 2 | Cumbersome[3] | Unique: loses Cumbersome trait | 25 lb. | 80 mk |
+| [[Items/Armor/Breastplate\|Breastplate]] | 2 | Cumbersome[3] | Presentable | 30 lb. | 120 mk |
+| [[Items/Armor/Half Plate\|Half Plate]] | 3 | Cumbersome[4] | Unique: Cumbersome[3] instead of Cumbersome[4] | 40 lb. | 400 mk |
+| [[Items/Armor/Full Plate\|Full Plate]] | 4 | Cumbersome[5] | \_ | 55 lb. | 1,600 mk |
+| [[Items/Armor/Shardplate\|Shardplate]] | 5 | Dangerous, Unique | Unique: loses Dangerous trait | 1,400 lb. | Reward Only |
+| [[Items/Armor/Shardplate Radiant\|Shardplate (Radiant)]] | 5 | Unique | \_ | Weightless | Talent Only |
 
 ![[pg253_Armor_SAMI RYTKÖNEN.webp]]
 
@@ -640,123 +640,123 @@ aliases: ["Appendix 2: Tables"]
 |  |  |  |
 |----|----|----|
 | Name | Weight | Price |
-| [[Items/Equipment/Alcohol 1 serving|Alcohol (1 Serving)]] | 0.2 lb. | 0.5-50 mk |
-| [[Items/Equipment/Alcohol bottle|Alcohol (bottle)]] | 2-4 lb. | 1-300 mk |
-| [[Items/Equipment/Anesthetic 5 doses|Anesthetic (5 doses)]] | 1.5 lb. | 75 mk |
-| [[Items/Equipment/Antiseptic potent 5 doses|Antiseptic (potent, 5 doses)]] | 1 lb. | 50 mk |
-| [[Items/Equipment/Antiseptic weak 5 doses|Antiseptic (weak, 5 doses)]] | 1 lb. | 25 mk |
-| [[Items/Equipment/Backpack|Backpack*]] | 5 lb. | 8 mk |
-| [[Items/Equipment/Barrel|Barrel*]] | 70 lb. | 15 mk |
-| [[Items/Equipment/Blanket|Blanket*]] | 2 lb. | 2 mk |
-| [[Items/Equipment/Book reference|Book (reference)]] | 1-5 lb. | 10-500 mk |
-| [[Items/Equipment/Bottle crem|Bottle (crem)*]] | 3 lb. | 0.5 mk |
-| [[Items/Equipment/Bottle glass|Bottle (glass)*]] | 2 lb. | 1 mk |
-| [[Items/Equipment/Bucket|Bucket*]] | 2 lb. | 1 mk |
-| [[Items/Equipment/Candle|Candle]] | 0.2 lb. | 0.2 mk |
-| [[Items/Equipment/Case leather|Case (leather)]] | 1 lb. | 4 mk |
-| [[Items/Equipment/Chain thick 10 feet|Chain (thick, 10 feet)]] | 10 lb. | 20 mk |
-| [[Items/Equipment/Chain thin 1 foot|Chain (thin, 1 foot)]] | 0.5 lb. | 20 mk |
-| [[Items/Equipment/Chest|Chest*]] | 25 lb. | 30 mk |
-| [[Items/Equipment/Clothing common|Clothing (common)]] | 3 lb. | 2 mk |
-| [[Items/Equipment/Clothing fine|Clothing (fine)]] | 6 lb. | 50-200 mk |
-| [[Items/Equipment/Clothing ragged|Clothing (ragged)]] | 1.5 lb. | 0.5 mk |
-| [[Items/Equipment/Crowbar|Crowbar]] | 3 lb. | 10 mk |
-| [[Items/Equipment/Ear Trumpet|Ear trumpet]] | 1 lb. | 50 mk |
-| [[Items/Equipment/Flask|Flask]] or [[Items/Equipment/Tankard|tankard]]\* | 1 lb. | 1 mk |
-| [[Items/Equipment/Flint and Steel|Flint and steel]] | 1.5 lb. | 4 mk |
-| [[Items/Equipment/Food ration 1 day|Food (ration, 1 day)]] | 0.5 lb. | 0.2 mk |
-| [[Items/Equipment/Food street 1 day|Food (street, 1 day)]] | 1.5 lb. | 3 mk |
-| [[Items/Equipment/Food fine 1 day|Food (fine, 1 day)]] | 0.5 lb. | 25 mk |
-| [[Items/Equipment/Grappling Hook|Grappling hook]] | 4 lb. | 10 mk |
-| [[Items/Equipment/Hammer handheld|Hammer (handheld)*]] | 3 lb. | 4 mk |
-| [[Items/Equipment/Ink 1-ounce bottle|Ink (1-ounce bottle)*]] | 0.2 lb. | 40 mk |
-| [[Items/Equipment/Ink Pen|Ink pen*]] | 0.1 lb. | 0.1 mk |
-| [[Items/Equipment/Jug|Jug]] or [[Items/Equipment/Pitcher|pitcher]]\* | 4 lb. | 2 mk |
-| [[Items/Equipment/Ladder 10-foot|Ladder (10-foot)*]] | 20 lb. | 5 mk |
-| [[Items/Equipment/Lantern oil|Lantern (oil)]] | 2 lb. | 20 mk |
-| [[Items/Equipment/Lantern sphere|Lantern (sphere)]] | 2 lb. | 20 mk |
-| [[Items/Equipment/Lock and Key|Lock and key]] | 1 lb. | 50 mk |
-| [[Items/Equipment/Lockpick|Lockpick]] | 0.5 lb. | 5 mk |
-| [[Items/Equipment/Magnifying Lens|Magnifying lens]] | 0.2 lb. | 400 mk |
-| [[Items/Equipment/Manacles|Manacles]] | 6 lb. | 10 mk |
-| [[Items/Equipment/Mirror handheld|Mirror (handheld)*]] | 2 lb. | 25 mk |
-| [[Items/Equipment/Musical Instrument|Musical instrument]] | 0.5-20 lb. | 1-50 mk |
-| [[Items/Equipment/Net hunting|Net (hunting)]] | 5 lb. | 4 mk |
-| [[Items/Equipment/Net fishing|Net (fishing)]] | 15 lb. | 10 mk |
-| [[Items/Equipment/Oil 1 flask|Oil (1 flask)]] | 1 lb. | 1 mk |
-| [[Items/Equipment/Paper or Parchment 1 sheet|Paper or parchment (1 sheet)*]] | 0.1 lb. | 0.5 mk |
-| [[Items/Equipment/Perfume 1 vial|Perfume (1 vial)*]] | 0.5 lb. | 20 mk |
-| [[Items/Equipment/Pick mining|Pick (mining)*]] | 10 lb. | 10 mk |
-| [[Items/Equipment/Poison weak 1 dose|Poison (weak, 1 dose)]] | 0.2 lb. | 20 mk |
-| [[Items/Equipment/Poison effectual 1 dose|Poison (effectual, 1 dose)]] | 0.2 lb. | 50 mk |
-| [[Items/Equipment/Poison potent 1 dose|Poison (potent, 1 dose)]] | 0.2 lb. | 120 mk |
-| [[Items/Equipment/Pot iron|Pot (iron)*]] | 10 lb. | 8 mk |
-| [[Items/Equipment/Pouch|Pouch*]] | 1 lb. | 1 mk |
-| [[Items/Equipment/Pulley system|Pulley system]] | 12 lb. | 100 mk |
-| [[Items/Equipment/Rope 50 feet|Rope (50 feet)]] | 5 lb. | 30 mk |
-| [[Items/Equipment/Sack|Sack*]] | 0.5 lb. | 0.2 mk |
-| [[Items/Equipment/Scale|Scale]] | 3 lb. | 20 mk |
-| [[Items/Equipment/Shovel|Shovel*]] | 5 lb. | 8 mk |
-| [[Items/Equipment/Soap|Soap*]] | 0.1 lb. | 1 mk |
-| [[Items/Equipment/Spyglass|Spyglass]] | 1 lb. | 500 mk |
-| [[Items/Equipment/Surgical Supplies|Surgical supplies]] | 3 lb. | 20 mk |
-| [[Items/Equipment/Tent two-person|Tent (two-person)*]] | 20 lb. | 10 mk |
-| [[Items/Equipment/Treatment medical 1 dose|Treatment (medical, 1 dose)]] | 0.2 lb. | 10 mk |
-| [[Items/Equipment/Tuning Fork|Tuning fork]] | 0.5 lb. | 50 mk |
-| [[Items/Equipment/Unencased Gem infused|Unencased gem (infused)]] | 0.01 lb. | 2 mk |
-| [[Items/Equipment/Vial glass|Vial (glass)*]] | 0.2 lb. | 4 mk |
-| [[Items/Equipment/Waterskin|Waterskin*]] | 1 lb. (empty) | 1 mk |
-| [[Items/Equipment/Wax 1 block|Wax (1 block)*]] | 0.5 lb. | 2 mk |
-| [[Items/Equipment/Whetstone|Whetstone*]] | 1 lb. | 0.2 mk |
+| [[Items/Equipment/Alcohol 1 serving\|Alcohol (1 Serving)]] | 0.2 lb. | 0.5-50 mk |
+| [[Items/Equipment/Alcohol bottle\|Alcohol (bottle)]] | 2-4 lb. | 1-300 mk |
+| [[Items/Equipment/Anesthetic 5 doses\|Anesthetic (5 doses)]] | 1.5 lb. | 75 mk |
+| [[Items/Equipment/Antiseptic potent 5 doses\|Antiseptic (potent, 5 doses)]] | 1 lb. | 50 mk |
+| [[Items/Equipment/Antiseptic weak 5 doses\|Antiseptic (weak, 5 doses)]] | 1 lb. | 25 mk |
+| [[Items/Equipment/Backpack\|Backpack*]] | 5 lb. | 8 mk |
+| [[Items/Equipment/Barrel\|Barrel*]] | 70 lb. | 15 mk |
+| [[Items/Equipment/Blanket\|Blanket*]] | 2 lb. | 2 mk |
+| [[Items/Equipment/Book reference\|Book (reference)]] | 1-5 lb. | 10-500 mk |
+| [[Items/Equipment/Bottle crem\|Bottle (crem)*]] | 3 lb. | 0.5 mk |
+| [[Items/Equipment/Bottle glass\|Bottle (glass)*]] | 2 lb. | 1 mk |
+| [[Items/Equipment/Bucket\|Bucket*]] | 2 lb. | 1 mk |
+| [[Items/Equipment/Candle\|Candle]] | 0.2 lb. | 0.2 mk |
+| [[Items/Equipment/Case leather\|Case (leather)]] | 1 lb. | 4 mk |
+| [[Items/Equipment/Chain thick 10 feet\|Chain (thick, 10 feet)]] | 10 lb. | 20 mk |
+| [[Items/Equipment/Chain thin 1 foot\|Chain (thin, 1 foot)]] | 0.5 lb. | 20 mk |
+| [[Items/Equipment/Chest\|Chest*]] | 25 lb. | 30 mk |
+| [[Items/Equipment/Clothing common\|Clothing (common)]] | 3 lb. | 2 mk |
+| [[Items/Equipment/Clothing fine\|Clothing (fine)]] | 6 lb. | 50-200 mk |
+| [[Items/Equipment/Clothing ragged\|Clothing (ragged)]] | 1.5 lb. | 0.5 mk |
+| [[Items/Equipment/Crowbar\|Crowbar]] | 3 lb. | 10 mk |
+| [[Items/Equipment/Ear Trumpet\|Ear trumpet]] | 1 lb. | 50 mk |
+| [[Items/Equipment/Flask\|Flask]] or [[Items/Equipment/Tankard\|tankard]]\* | 1 lb. | 1 mk |
+| [[Items/Equipment/Flint and Steel\|Flint and steel]] | 1.5 lb. | 4 mk |
+| [[Items/Equipment/Food ration 1 day\|Food (ration, 1 day)]] | 0.5 lb. | 0.2 mk |
+| [[Items/Equipment/Food street 1 day\|Food (street, 1 day)]] | 1.5 lb. | 3 mk |
+| [[Items/Equipment/Food fine 1 day\|Food (fine, 1 day)]] | 0.5 lb. | 25 mk |
+| [[Items/Equipment/Grappling Hook\|Grappling hook]] | 4 lb. | 10 mk |
+| [[Items/Equipment/Hammer handheld\|Hammer (handheld)*]] | 3 lb. | 4 mk |
+| [[Items/Equipment/Ink 1-ounce bottle\|Ink (1-ounce bottle)*]] | 0.2 lb. | 40 mk |
+| [[Items/Equipment/Ink Pen\|Ink pen*]] | 0.1 lb. | 0.1 mk |
+| [[Items/Equipment/Jug\|Jug]] or [[Items/Equipment/Pitcher\|pitcher]]\* | 4 lb. | 2 mk |
+| [[Items/Equipment/Ladder 10-foot\|Ladder (10-foot)*]] | 20 lb. | 5 mk |
+| [[Items/Equipment/Lantern oil\|Lantern (oil)]] | 2 lb. | 20 mk |
+| [[Items/Equipment/Lantern sphere\|Lantern (sphere)]] | 2 lb. | 20 mk |
+| [[Items/Equipment/Lock and Key\|Lock and key]] | 1 lb. | 50 mk |
+| [[Items/Equipment/Lockpick\|Lockpick]] | 0.5 lb. | 5 mk |
+| [[Items/Equipment/Magnifying Lens\|Magnifying lens]] | 0.2 lb. | 400 mk |
+| [[Items/Equipment/Manacles\|Manacles]] | 6 lb. | 10 mk |
+| [[Items/Equipment/Mirror handheld\|Mirror (handheld)*]] | 2 lb. | 25 mk |
+| [[Items/Equipment/Musical Instrument\|Musical instrument]] | 0.5-20 lb. | 1-50 mk |
+| [[Items/Equipment/Net hunting\|Net (hunting)]] | 5 lb. | 4 mk |
+| [[Items/Equipment/Net fishing\|Net (fishing)]] | 15 lb. | 10 mk |
+| [[Items/Equipment/Oil 1 flask\|Oil (1 flask)]] | 1 lb. | 1 mk |
+| [[Items/Equipment/Paper or Parchment 1 sheet\|Paper or parchment (1 sheet)*]] | 0.1 lb. | 0.5 mk |
+| [[Items/Equipment/Perfume 1 vial\|Perfume (1 vial)*]] | 0.5 lb. | 20 mk |
+| [[Items/Equipment/Pick mining\|Pick (mining)*]] | 10 lb. | 10 mk |
+| [[Items/Equipment/Poison weak 1 dose\|Poison (weak, 1 dose)]] | 0.2 lb. | 20 mk |
+| [[Items/Equipment/Poison effectual 1 dose\|Poison (effectual, 1 dose)]] | 0.2 lb. | 50 mk |
+| [[Items/Equipment/Poison potent 1 dose\|Poison (potent, 1 dose)]] | 0.2 lb. | 120 mk |
+| [[Items/Equipment/Pot iron\|Pot (iron)*]] | 10 lb. | 8 mk |
+| [[Items/Equipment/Pouch\|Pouch*]] | 1 lb. | 1 mk |
+| [[Items/Equipment/Pulley system\|Pulley system]] | 12 lb. | 100 mk |
+| [[Items/Equipment/Rope 50 feet\|Rope (50 feet)]] | 5 lb. | 30 mk |
+| [[Items/Equipment/Sack\|Sack*]] | 0.5 lb. | 0.2 mk |
+| [[Items/Equipment/Scale\|Scale]] | 3 lb. | 20 mk |
+| [[Items/Equipment/Shovel\|Shovel*]] | 5 lb. | 8 mk |
+| [[Items/Equipment/Soap\|Soap*]] | 0.1 lb. | 1 mk |
+| [[Items/Equipment/Spyglass\|Spyglass]] | 1 lb. | 500 mk |
+| [[Items/Equipment/Surgical Supplies\|Surgical supplies]] | 3 lb. | 20 mk |
+| [[Items/Equipment/Tent two-person\|Tent (two-person)*]] | 20 lb. | 10 mk |
+| [[Items/Equipment/Treatment medical 1 dose\|Treatment (medical, 1 dose)]] | 0.2 lb. | 10 mk |
+| [[Items/Equipment/Tuning Fork\|Tuning fork]] | 0.5 lb. | 50 mk |
+| [[Items/Equipment/Unencased Gem infused\|Unencased gem (infused)]] | 0.01 lb. | 2 mk |
+| [[Items/Equipment/Vial glass\|Vial (glass)*]] | 0.2 lb. | 4 mk |
+| [[Items/Equipment/Waterskin\|Waterskin*]] | 1 lb. (empty) | 1 mk |
+| [[Items/Equipment/Wax 1 block\|Wax (1 block)*]] | 0.5 lb. | 2 mk |
+| [[Items/Equipment/Whetstone\|Whetstone*]] | 1 lb. | 0.2 mk |
 
 ## Lodging
 
 |  |  |
 |----|----|
 | Lodging | Price per Person per Night |
-| [[Items/Travel/Lodging/Stormshelter|Stormshelter]] | Free to the public (if there's room) |
-| [[Items/Travel/Lodging/Modest Lodging|Modest]] | 2 mk |
-| [[Items/Travel/Lodging/Comfortable Lodging|Comfortable]] | 4 mk |
-| [[Items/Travel/Lodging/Wealthy Lodging|Wealthy]] | 8mk |
-| [[Items/Travel/Lodging/Aristocratic Lodging|Aristocratic]] | 20 mk |
+| [[Items/Travel/Lodging/Stormshelter\|Stormshelter]] | Free to the public (if there's room) |
+| [[Items/Travel/Lodging/Modest Lodging\|Modest]] | 2 mk |
+| [[Items/Travel/Lodging/Comfortable Lodging\|Comfortable]] | 4 mk |
+| [[Items/Travel/Lodging/Wealthy Lodging\|Wealthy]] | 8mk |
+| [[Items/Travel/Lodging/Aristocratic Lodging\|Aristocratic]] | 20 mk |
 
 ## Mounts
 
 |  |  |  |  |
 |----|----|----|----|
 | Mount | Travel Speed | Carrying Capacity | Purchase Price |
-| [[Items/Travel/Mounts/Chull|Chull]] | 2 mph | 1,500 lb. | 200 mk |
-| [[Items/Travel/Mounts/Horse|Horse]] | 4 mph | 500 lb. | 4,000 mk |
-| [[Items/Travel/Mounts/Ryshadium|Ryshadium]] | 6 mph | 1,000 lb | Reward Only |
+| [[Items/Travel/Mounts/Chull\|Chull]] | 2 mph | 1,500 lb. | 200 mk |
+| [[Items/Travel/Mounts/Horse\|Horse]] | 4 mph | 500 lb. | 4,000 mk |
+| [[Items/Travel/Mounts/Ryshadium\|Ryshadium]] | 6 mph | 1,000 lb | Reward Only |
 
 ## Vehicles
 
 |  |  |  |  |  |
 |----|----|----|----|----|
 | Vehicle | Type | Travel Speed | Rental Price per Day | Purchase Price |
-| [[Items/Travel/Vehicles/Chull cart|Chull cart]] | Land | 2 mph | 5 mk | 500 mk |
-| [[Items/Travel/Vehicles/Rowboat|Rowboat]] | Water | 3 mph downstream, 1 mph upstream | 3 mk | 250 mk |
-| [[Items/Travel/Vehicles/Merchant vessel|Merchant Vessel]] | Water | 5 mph | 50 mk | 10,000 mk |
-| [[Items/Travel/Vehicles/Warship|Warship]] | Water | 8 mph | 250 mk | 100,000 mk |
+| [[Items/Travel/Vehicles/Chull cart\|Chull cart]] | Land | 2 mph | 5 mk | 500 mk |
+| [[Items/Travel/Vehicles/Rowboat\|Rowboat]] | Water | 3 mph downstream, 1 mph upstream | 3 mk | 250 mk |
+| [[Items/Travel/Vehicles/Merchant vessel\|Merchant Vessel]] | Water | 5 mph | 50 mk | 10,000 mk |
+| [[Items/Travel/Vehicles/Warship\|Warship]] | Water | 8 mph | 250 mk | 100,000 mk |
 
 ## Standard Fabrials
 
 |  |  |  |  |
 |----|----|----|----|
 | Name | Charges | Weight | Purchase Price |
-| [[Items/Fabrials/Standard/Alerter|Alerter]] | 5 | 0.5-10 lb. | 500 mk |
-| [[Items/Fabrials/Standard/Attractor|Attractor]] | 5 | 8 lb. | 750 mk |
-| [[Items/Fabrials/Standard/Clock Fabrial|Clock Fabrial]] | 3 | 2 lb. | 200 mk |
-| [[Items/Fabrials/Standard/Drainer|Drainer]] | 2 | 0.5 lb. | 1,000 mk |
-| [[Items/Fabrials/Standard/Emotion Bracelet|Emotion Bracelet]] | 3 | 0.2 lb. | 200 mk |
-| [[Items/Fabrials/Standard/Freechair|Freechair]] | \_ | 12 lb. | free or 800 mk |
-| [[Items/Fabrials/Standard/Heatrial|Heatrial]] | 5 | 1-10 lb. | 50-500 mk |
-| [[Items/Fabrials/Standard/Painrial amplifying|Painrial (amplifying)]] | 3 | 1 lb. | 750 mk |
-| [[Items/Fabrials/Standard/Painrial numbing|Painrial (numbing)]] | 3 | 1 lb. | 750 mk |
-| [[Items/Fabrials/Standard/Repeller|Repeller]] | 5 | 8 lb. | 1,500 mk |
-| [[Items/Fabrials/Standard/Soulcaster|Soulcaster]] | 5 | 5 lb. | Reward only |
-| [[Items/Fabrials/Standard/Spanreed Pair|Spanreed (1 pair)]] | 3 | 1 lb. each | 100 mk |
-| [[Items/Fabrials/Standard/Suppressor|Suppressor]] | 2 | 1 lb. | Reward only |
+| [[Items/Fabrials/Standard/Alerter\|Alerter]] | 5 | 0.5-10 lb. | 500 mk |
+| [[Items/Fabrials/Standard/Attractor\|Attractor]] | 5 | 8 lb. | 750 mk |
+| [[Items/Fabrials/Standard/Clock Fabrial\|Clock Fabrial]] | 3 | 2 lb. | 200 mk |
+| [[Items/Fabrials/Standard/Drainer\|Drainer]] | 2 | 0.5 lb. | 1,000 mk |
+| [[Items/Fabrials/Standard/Emotion Bracelet\|Emotion Bracelet]] | 3 | 0.2 lb. | 200 mk |
+| [[Items/Fabrials/Standard/Freechair\|Freechair]] | \_ | 12 lb. | free or 800 mk |
+| [[Items/Fabrials/Standard/Heatrial\|Heatrial]] | 5 | 1-10 lb. | 50-500 mk |
+| [[Items/Fabrials/Standard/Painrial amplifying\|Painrial (amplifying)]] | 3 | 1 lb. | 750 mk |
+| [[Items/Fabrials/Standard/Painrial numbing\|Painrial (numbing)]] | 3 | 1 lb. | 750 mk |
+| [[Items/Fabrials/Standard/Repeller\|Repeller]] | 5 | 8 lb. | 1,500 mk |
+| [[Items/Fabrials/Standard/Soulcaster\|Soulcaster]] | 5 | 5 lb. | Reward only |
+| [[Items/Fabrials/Standard/Spanreed Pair\|Spanreed (1 pair)]] | 3 | 1 lb. each | 100 mk |
+| [[Items/Fabrials/Standard/Suppressor\|Suppressor]] | 2 | 1 lb. | Reward only |
 
 ## Item Crafting Test
 
@@ -809,9 +809,9 @@ aliases: ["Appendix 2: Tables"]
 |----|----|----|----|
 | d8 | General Drawbacks | General Upgrades | Requirements |
 | 1 | **Diminished Attacks.** made with this fabrial gain a disadvantage. | **Amplified Attacks.** made with this fabrial gain an advantage. | Can only be applied to fabrials that have an attack. |
-| 2 | **Delicate.** The GM can spend C to deactivate the fabrial until it is repaired with a successful DC 15 Crafting test. | **Reliable.** When making tests with this fabrial, ignore the first C you roll with it each scene. When you do, you gain no bonus from it. | Can only be applied to fabrials that require attack tests or other skill tests. |
-| 3 | **Dangerous.** The GM can spend C | **Fine-Tuned.** You can spend O to recover 1d4 focus. | Can only be applied to fabrials that require attack tests or other skill tests. |
-| 4 | **Inefficient.** When you roll C while within 5 feet of the activated fabrial, the GM can spend it to expend an additional charge. | **Efficient.** When you roll O while within 5 feet of the activated fabrial, you can spend it to make the fabrial regain a charge. | Can only be applied to fabrials that expend charges. |
+| 2 | **Delicate.** The GM can spend Complication to deactivate the fabrial until it is repaired with a successful DC 15 Crafting test. | **Reliable.** When making tests with this fabrial, ignore the first Complication you roll with it each scene. When you do, you gain no bonus from it. | Can only be applied to fabrials that require attack tests or other skill tests. |
+| 3 | **Dangerous.** The GM can spend Complication | **Fine-Tuned.** You can spend Opportunity to recover 1d4 focus. | Can only be applied to fabrials that require attack tests or other skill tests. |
+| 4 | **Inefficient.** When you roll Complication while within 5 feet of the activated fabrial, the GM can spend it to expend an additional charge. | **Efficient.** When you roll Opportunity while within 5 feet of the activated fabrial, you can spend it to make the fabrial regain a charge. | Can only be applied to fabrials that expend charges. |
 | 5 | **Lower Capacity.** Decrease the fabrial’s maximum charges by 1. | **Higher Capacity.** Increase the fabrial’s maximum charges by 1. | Can only be applied to fabrials that expend charges. |
 | 6 | **Short Ranged.** The fabrial’s range is halved. | **Long Ranged.** The fabrial’s range is doubled. | Can only be applied to fabrials that have a range or a radius. |
 | 7 | **Slower.** Decrease the movement rate of the effect by 50 percent. | **Faster.** Increase the movement rate of the effectby 50 percent. | Can only be applied to fabrials that grant you a movement rate or cause you to move. |
@@ -862,21 +862,21 @@ aliases: ["Appendix 2: Tables"]
 |  |  |  |
 |----|----|----|
 | Tier | Type | Charges |
-| 1 | [[Items/Fabrials/Unique Effects/Bindrial Area|Bindrial (area)]] | 3 |
-| 1 | [[Items/Fabrials/Unique Effects/Bindrial Self|Bindrial (self)]] | 5 |
-| 1 | [[Items/Fabrials/Unique Effects/Compressor|Compressor]] | 3 |
-| 1 | [[Items/Fabrials/Unique Effects/Cremrial|Cremrial]] | 5 |
-| 1 | [[Items/Fabrials/Unique Effects/Cultivator|Cultivator]] | 3 |
-| 2 | [[Items/Fabrials/Unique Effects/Accelerator|Accelerator]] | 3 |
-| 2 | [[Items/Fabrials/Unique Effects/Armor Augmenter|Armor Augmenter]] | 2 |
-| 2 | [[Items/Fabrials/Unique Effects/Ascender|Ascender]] | 5 |
-| 2 | [[Items/Fabrials/Unique Effects/Drainer|Drainer]] | 5 |
-| 2 | [[Items/Fabrials/Unique Effects/Liferial|Liferial]] | 3 |
-| 2 | [[Items/Fabrials/Unique Effects/Lightrial|Lightrial]] | 3 |
-| 2 | [[Items/Fabrials/Unique Effects/Painrial AmplifyingNumbing|Painrial (Amplifying/Numbing)]] | 3 |
-| 2 | [[Items/Fabrials/Unique Effects/Projectile|Projectile]] | 5 |
-| 3 | [[Items/Fabrials/Unique Effects/Disruptor|Disruptor]] | 4 |
-| 4 | [[Items/Fabrials/Unique Effects/Surge Fabrial|Surge Fabrial]] | 4 |
+| 1 | [[Items/Fabrials/Unique Effects/Bindrial Area\|Bindrial (area)]] | 3 |
+| 1 | [[Items/Fabrials/Unique Effects/Bindrial Self\|Bindrial (self)]] | 5 |
+| 1 | [[Items/Fabrials/Unique Effects/Compressor\|Compressor]] | 3 |
+| 1 | [[Items/Fabrials/Unique Effects/Cremrial\|Cremrial]] | 5 |
+| 1 | [[Items/Fabrials/Unique Effects/Cultivator\|Cultivator]] | 3 |
+| 2 | [[Items/Fabrials/Unique Effects/Accelerator\|Accelerator]] | 3 |
+| 2 | [[Items/Fabrials/Unique Effects/Armor Augmenter\|Armor Augmenter]] | 2 |
+| 2 | [[Items/Fabrials/Unique Effects/Ascender\|Ascender]] | 5 |
+| 2 | [[Items/Fabrials/Unique Effects/Drainer\|Drainer]] | 5 |
+| 2 | [[Items/Fabrials/Unique Effects/Liferial\|Liferial]] | 3 |
+| 2 | [[Items/Fabrials/Unique Effects/Lightrial\|Lightrial]] | 3 |
+| 2 | [[Items/Fabrials/Unique Effects/Painrial AmplifyingNumbing\|Painrial (Amplifying/Numbing)]] | 3 |
+| 2 | [[Items/Fabrials/Unique Effects/Projectile\|Projectile]] | 5 |
+| 3 | [[Items/Fabrials/Unique Effects/Disruptor\|Disruptor]] | 4 |
+| 4 | [[Items/Fabrials/Unique Effects/Surge Fabrial\|Surge Fabrial]] | 4 |
 
 ## Example Companions by Tier
 
@@ -1009,26 +1009,26 @@ aliases: ["Appendix 2: Tables"]
 
 ## Actions and Reactions
 
-|                                                          |      |
-|----------------------------------------------------------|------|
-| Type                                                     | Cost |
-| [[Actions/Basic/Aid|Aid]]                         | r    |
-| [[Actions/Basic/Avoid Danger|Avoid Danger]]       | r    |
-| [[Actions/Basic/Banter|Banter]]                   | 0    |
-| [[Actions/Basic/Brace|Brace]]                     | 1    |
-| [[Actions/Basic/Disengage|Disengage]]             | 1    |
-| [[Actions/Basic/Dodge|Dodge]]                     | r    |
-| [[Actions/Basic/Drop|Drop]]                       | 0    |
-| [[Actions/Basic/Gain Advantage|Gain Advantage]]   | 1    |
-| [[Actions/Basic/Grapple|Grapple]]                 | 2    |
-| [[Actions/Basic/Interact|Interact]]               | 1    |
-| [[Actions/Basic/Move|Move]]                       | 1    |
-| [[Actions/Basic/Reactive Strike|Reactive Strike]] | r    |
-| [[Actions/Basic/Ready|Ready]]                     | 1    |
-| [[Actions/Basic/Recover|Recover]]                 | 2    |
-| [[Actions/Basic/Shove|Shove]]                     | 2    |
-| [[Actions/Basic/Strike|Strike]]                   | 1    |
-| [[Actions/Basic/Use A Skill|Use a Skill]]         | 1    |
+|                                                          |          |
+|----------------------------------------------------------|----------|
+| Type                                                     | Cost     |
+| [[Actions/Basic/Aid\|Aid]]                         | Reaction |
+| [[Actions/Basic/Avoid Danger\|Avoid Danger]]       | Reaction |
+| [[Actions/Basic/Banter\|Banter]]                   | 0        |
+| [[Actions/Basic/Brace\|Brace]]                     | 1        |
+| [[Actions/Basic/Disengage\|Disengage]]             | 1        |
+| [[Actions/Basic/Dodge\|Dodge]]                     | Reaction |
+| [[Actions/Basic/Drop\|Drop]]                       | 0        |
+| [[Actions/Basic/Gain Advantage\|Gain Advantage]]   | 1        |
+| [[Actions/Basic/Grapple\|Grapple]]                 | 2        |
+| [[Actions/Basic/Interact\|Interact]]               | 1        |
+| [[Actions/Basic/Move\|Move]]                       | 1        |
+| [[Actions/Basic/Reactive Strike\|Reactive Strike]] | Reaction |
+| [[Actions/Basic/Ready\|Ready]]                     | 1        |
+| [[Actions/Basic/Recover\|Recover]]                 | 2        |
+| [[Actions/Basic/Shove\|Shove]]                     | 2        |
+| [[Actions/Basic/Strike\|Strike]]                   | 1        |
+| [[Actions/Basic/Use A Skill\|Use a Skill]]         | 1        |
 
 *\*You must spend* *1* *for Ready plus any* *1* *needed for the readied action.*
 

@@ -8,7 +8,7 @@ aliases: ["Invested"]
 ---
 ![[silhouette-hold-change-blue.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You learn to hold and wield greater quantities of Stormlight within yourself.*
 

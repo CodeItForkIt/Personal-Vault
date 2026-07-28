@@ -8,7 +8,7 @@ aliases: ["Cold Eyes"]
 ---
 ![[silhouette-robe-evil-power.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *As you eliminate one target, your gaze instinctively slides to the next threat.*
 

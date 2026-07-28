@@ -10,7 +10,7 @@ aliases: ["Memories of Stone"]
 
 **Prerequisite:** Speak the First Ideal (Willshaper or Stoneward)
 
-**Activation:** 2
+**Activation:** Two Actions
 
 *Your deepening knowledge of the earth allows you to commune with stone itself, gaining visions of things the stone has seen.*
 

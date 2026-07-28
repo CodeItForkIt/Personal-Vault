@@ -18,9 +18,9 @@ aliases: ["Skybreaker of the Fourth Ideal"]
 
 The following options are available when an enemy gains an Opportunity or Complication during a scene with the Skybreaker of the Fourth Ideal:
 
-**Opportunity.** An enemy can spend O to prevent the Skybreaker of the Fourth Ideal from using their Offensive Gravitation, Distant Decay, and Regenerate actions until the end of the Skybreaker of the Fourth Ideal's next turn.
+**Opportunity.** An enemy can spend Opportunity to prevent the Skybreaker of the Fourth Ideal from using their Offensive Gravitation, Distant Decay, and Regenerate actions until the end of the Skybreaker of the Fourth Ideal's next turn.
 
-**Complication.** The GM can spend c from an enemy's test to have the Skybreaker of the Fourth Ideal use their Distant Decay action as r.
+**Complication.** The GM can spend Complication from an enemy's test to have the Skybreaker of the Fourth Ideal use their Distant Decay action as Reaction.
 
 ##### Tactics
 
@@ -80,7 +80,7 @@ The Skybreaker of the Fourth Ideal is equipped with Shardplate. Before they take
 ### Breakable Armor
 *1*
 
-After the Skybreaker of the Fourth Ideal is hit by an attack, the attacker can spend O to cause the Skybreaker of the Fourth Ideal's Shardplate to lose 1 charge.
+After the Skybreaker of the Fourth Ideal is hit by an attack, the attacker can spend Opportunity to cause the Skybreaker of the Fourth Ideal's Shardplate to lose 1 charge.
 
 ### Inescapable Decay
 *2 act*

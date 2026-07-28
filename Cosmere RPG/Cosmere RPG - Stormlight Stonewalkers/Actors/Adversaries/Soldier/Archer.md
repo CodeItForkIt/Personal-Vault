@@ -22,7 +22,7 @@ Soldiers are trained to be effective on a battlefield in their specialized roles
 ### Take Aim
 *1 fre*
 
-On the Archer's first turn of each scene, if they aren't Surprised, they can use the Gain Advantage action as 0.
+On the Archer's first turn of each scene, if they aren't Surprised, they can use the Gain Advantage action as Free Action.
 
 ### Immobilizing Shot
 *1 rea*

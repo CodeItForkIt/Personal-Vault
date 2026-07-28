@@ -8,7 +8,7 @@ aliases: ["Distant Surgebinding"]
 ---
 ![[abstract-ribbons-red-orange.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You can infuse targets from a greater distance.*
 

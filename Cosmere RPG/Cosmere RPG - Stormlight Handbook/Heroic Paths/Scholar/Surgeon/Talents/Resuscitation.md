@@ -8,7 +8,7 @@ aliases: ["Resuscitation"]
 ---
 ![[heart-area-circle-red-green.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You quickly and efficiently treat a mortally wounded creature, seeking to pull them back from the brink by applying a tourniquet, administering an antidote, or even restarting failed organs.*
 

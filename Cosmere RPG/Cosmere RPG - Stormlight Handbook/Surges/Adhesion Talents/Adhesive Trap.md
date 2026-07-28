@@ -8,7 +8,7 @@ aliases: ["Adhesive Trap"]
 ---
 ![[explosion-impact-purple.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You can infuse Adhesion into surfaces, causing anyone who touches them to become stuck.*
 

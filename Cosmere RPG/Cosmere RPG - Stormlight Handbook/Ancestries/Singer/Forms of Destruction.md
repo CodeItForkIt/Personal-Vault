@@ -8,7 +8,7 @@ aliases: ["Forms of Destruction"]
 ---
 ![[orb-vortex.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 You gain two new forms of power—[[Ancestries/Singer/Forms/Direform|Direform]] and [[Ancestries/Singer/Forms/Stormform|Stormform]]—which you can transform into using your [[Ancestries/Singer/Change Form|Change Form]].
 

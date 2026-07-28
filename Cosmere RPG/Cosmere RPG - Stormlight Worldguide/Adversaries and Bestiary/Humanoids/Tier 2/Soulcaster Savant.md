@@ -53,7 +53,7 @@ The Soulcaster Savant touches a Medium or smaller object and makes a *Test: `ski
 ### Fire
 *2 act*
 
-The Soulcaster Savant transforms air into fire aroundtheir foes. Each enemy within 5 feet of them takes `2d8 Energy average`. The Soulcaster Savant can spend 1 focus per enemy in range to cause that fire to set the enemies' clothes aflame. A character in burning clothes becomes Afflicted [`2d8 Energy`] until they or a character who can reach them uses 1 to put out the fire.
+The Soulcaster Savant transforms air into fire aroundtheir foes. Each enemy within 5 feet of them takes `2d8 Energy average`. The Soulcaster Savant can spend 1 focus per enemy in range to cause that fire to set the enemies' clothes aflame. A character in burning clothes becomes Afflicted [`2d8 Energy`] until they or a character who can reach them uses Action to put out the fire.
 
 ### Soulcast Protection
 *1 rea*

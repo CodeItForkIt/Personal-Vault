@@ -8,7 +8,7 @@ aliases: ["Wary"]
 ---
 ![[eye-ringed-glow-angry-small-teal.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *Through your experience living in dangerous locations, you’ve learned to stay focused and respond quickly to unexpected hazards.*
 

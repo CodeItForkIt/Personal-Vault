@@ -8,7 +8,7 @@ aliases: ["Animal Bond"]
 ---
 ![[fang-tooth-venomous.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *Your animal companion is more than just a friend or working beast—they’re your partner. They warn you of danger, anticipate your needs, and follow your commands … most of the time, anyway.*
 
@@ -18,7 +18,7 @@ You can communicate simple concepts with your animal companion, and they general
 
 Your animal companion alerts you of incoming danger. While you can sense them within 10 feet of you, each of your defenses increases by 1. When you move, your animal companion automatically moves alongside you.
 
-During combat, your animal companion follows the rules for allied NPCs (see “Rounds and Turns” in chapter 10). However, if your animal companion hasn’t yet acted this round, you can use 0 to call on them to act during your turn. When you do, they gain either 1 or 2 (your choice) to immediately use actions of your choice, then at the start of their next turn, they gain that many fewer 1 than usual.
+During combat, your animal companion follows the rules for allied NPCs (see “Rounds and Turns” in chapter 10). However, if your animal companion hasn’t yet acted this round, you can use Special Activation to call on them to act during your turn. When you do, they gain either Special Activation or Special Activation (your choice) to immediately use actions of your choice, then at the start of their next turn, they gain that many fewer Special Activation than usual.
 
 In addition to the actions in chapter 10 and in your animal companion’s stat block, they can use the special [[Heroic Paths/Hunter/Tracker/Actions/Track|Track]] action.
 

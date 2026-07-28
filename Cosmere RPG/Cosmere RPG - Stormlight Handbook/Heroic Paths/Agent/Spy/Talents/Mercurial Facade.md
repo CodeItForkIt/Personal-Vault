@@ -8,7 +8,7 @@ aliases: ["Mercurial Facade"]
 ---
 ![[commoner.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Action
 
 *You know poise is essential to any disguise, and you can change your perceived persona simply by altering your gait and presence.*
 

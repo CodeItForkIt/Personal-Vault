@@ -54,4 +54,4 @@ The Midnight Essence's mannerisms unsettle its foes. Each enemy within 5 feet of
 ### Mimic Violence
 *1 rea*
 
-After a character the Midnight Essence can sense within 60 feet of it uses a free action or an action that costs no more than 1, the Midnight Essence crudely copies the same action, choosing a new target if it wishes. The Midnight Essence must be able to reasonably shift its form to mimic any objects or forces essential to that action, it can't use an action requiring Investiture, and it must spend focus if required by that action.
+After a character the Midnight Essence can sense within 60 feet of it uses a free action or an action that costs no more than One Action, the Midnight Essence crudely copies the same action, choosing a new target if it wishes. The Midnight Essence must be able to reasonably shift its form to mimic any objects or forces essential to that action, it can't use an action requiring Investiture, and it must spend focus if required by that action.

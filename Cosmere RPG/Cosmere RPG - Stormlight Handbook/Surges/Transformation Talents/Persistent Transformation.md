@@ -8,7 +8,7 @@ aliases: ["Persistent Transformation"]
 ---
 ![[arrows-circling-pink.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *Your force of will is so great that objects have a hard time denying you.*
 

@@ -8,7 +8,7 @@ aliases: ["Composed"]
 ---
 ![[silhouette-aura-energy.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *Through practiced composure, you push your limits without becoming distracted or losing track of threats.*
 

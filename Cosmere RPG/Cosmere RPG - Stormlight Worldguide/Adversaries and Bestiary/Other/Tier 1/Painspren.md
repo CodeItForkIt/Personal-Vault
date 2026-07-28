@@ -25,7 +25,7 @@ A **painspren** latches onto the wounds of the injured after finding them with t
 
 **Graze** `1d4 Impact average`;
 
-**Hit** `1d4 + 3 Impact average`, and the Painspren can spend 1 focus to attach to the target, making them Restrained while the Painspren remains within 5 feet of them. At the start of this Restrained target's turn, they take `1d4 Vital average` from each attached Painspren. The Restrained target or a character who can reach them can make a *Test: `skill=dis dc=10`* as 1, freeing the target from one attached Painspren on a success. While attached to a target, the Painspren can't use their Grip Enemy action.
+**Hit** `1d4 + 3 Impact average`, and the Painspren can spend 1 focus to attach to the target, making them Restrained while the Painspren remains within 5 feet of them. At the start of this Restrained target's turn, they take `1d4 Vital average` from each attached Painspren. The Restrained target or a character who can reach them can make a *Test: `skill=dis dc=10`* as One Action, freeing the target from one attached Painspren on a success. While attached to a target, the Painspren can't use their Grip Enemy action.
 
 ### Painsense
 *1 rea*

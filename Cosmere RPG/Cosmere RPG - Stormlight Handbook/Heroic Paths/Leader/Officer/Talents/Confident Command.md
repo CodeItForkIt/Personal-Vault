@@ -8,7 +8,7 @@ aliases: ["Confident Command"]
 ---
 ![[control-influence-rally-purple.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You deliver your words with care and conviction, letting them resound in the hearts of those under your command.*
 

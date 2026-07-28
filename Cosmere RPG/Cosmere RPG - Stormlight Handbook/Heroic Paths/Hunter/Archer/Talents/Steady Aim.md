@@ -8,7 +8,7 @@ aliases: ["Steady Aim"]
 ---
 ![[person-archery-bow-attack-orange.webp|64]]
 
-**Activation:** 1
+**Activation:** One Action
 
 *Your shot finds its mark even across dizzying distances.*
 

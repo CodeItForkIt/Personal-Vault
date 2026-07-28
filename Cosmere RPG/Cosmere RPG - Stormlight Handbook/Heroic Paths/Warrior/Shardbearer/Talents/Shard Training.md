@@ -8,7 +8,7 @@ aliases: ["Shard Training"]
 ---
 ![[warrior.webp|64]]
 
-Activation: \*
+Activation: Special Activation
 
 *Given the rarity of Shardblades and Shardplate, it’s exceptionally difficult to acquire firsthand experience with these relics. You’ve managed this feat, learning to deal blows for maximum effect and to absorb strikes as efficiently as possible.*
 

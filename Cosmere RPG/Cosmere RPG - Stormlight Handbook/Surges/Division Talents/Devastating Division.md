@@ -8,7 +8,7 @@ aliases: ["Devastating Division"]
 ---
 ![[barrier-shield-explosion-yellow.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *Your Division is especially potent and destructive.*
 

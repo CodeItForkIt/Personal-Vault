@@ -22,7 +22,7 @@ Radiant Shardblades add the following unique traits:
 
 **Faster Summoning.** When you use the Interact action to draw your Radiant Shardblade, it immediately materializes in your hand. You can dismiss your Radiant Shardblade with a mere thought (no action required), and it disappears into mist until you need it again.
 
-**Malleable Form.** You can use 0 to change the shape of your Radiant Shardblade, choosing any non-special melee weapon on the Weapons table. Your Blade uses that weapon’s skill and gains that weapon’s traits for as long as it’s in that shape; if you have an expertise in the chosen weapon, it gains those expert traits as well. You roll double the normal damage dice for that weapon (for example, a Shard longspear rolls 2d8 damage instead of 1d8), and it deals spirit damage instead of that weapon’s normal type.
+**Malleable Form.** You can use One Action to change the shape of your Radiant Shardblade, choosing any non-special melee weapon on the Weapons table. Your Blade uses that weapon’s skill and gains that weapon’s traits for as long as it’s in that shape; if you have an expertise in the chosen weapon, it gains those expert traits as well. You roll double the normal damage dice for that weapon (for example, a Shard longspear rolls 2d8 damage instead of 1d8), and it deals spirit damage instead of that weapon’s normal type.
 
 **Radiant Shardblade.** Your Radiant Shardblade has Faster Summoning instead of the Summoning/ Dismissing trait, and it doesn’t have the Dangerous trait of other Shardblades. Otherwise, it follows the rules for ordinary Shardblades.
 

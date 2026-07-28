@@ -27,7 +27,7 @@ At the start of each scene, if the Gamish has their shield and isn't Surprised, 
 ### Military Tactics
 *1 spe*
 
-Once per round, the Gamish can spend 1 additional focus to use the Aid or Reactive Strike reaction without using their r.
+Once per round, the Gamish can spend 1 additional focus to use the Aid or Reactive Strike reaction without using their Reaction.
 
 ### Shield Bash
 *1 act*

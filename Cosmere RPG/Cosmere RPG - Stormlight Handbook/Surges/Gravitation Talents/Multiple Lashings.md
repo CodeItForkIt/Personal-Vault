@@ -8,7 +8,7 @@ aliases: ["Multiple Lashings"]
 ---
 ![[portal-vortex-orange.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You can apply multiple Basic Lashings to an enemy.*
 

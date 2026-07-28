@@ -8,7 +8,7 @@ aliases: ["Superior Bond"]
 ---
 ![[debuff-chains-orb-movement-blue.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *Your Full Lashings can be broken only by the strongest of individuals.*
 

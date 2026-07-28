@@ -253,7 +253,7 @@ In addition to normal polyhedral dice, this game uses a custom die called the pl
 
 When you roll the plot die, the result might add a bonus to your test—but it can also result in unforeseen Opportunities or Complications arising from your actions, as described in the upcoming sections.
 
-The plot die has six sides, two of which are blank. Another two sides have an Opportunity symbol (O), and the final two sides have a Complication symbol (C). If you don’t own this game’s custom plot die, you can instead use a normal d6 and convert the results using the Plot Die diagram. Note that 1 and 2 are the “worst” results, though they offset the Complication by granting a bonus to that test (see [[Stormlight Handbook/01 - Introduction#Complication Bonus|Complication Bonus]]). The bonus is equal to the number shown on the Complication symbol—which is double the number rolled on a normal d6.
+The plot die has six sides, two of which are blank. Another two sides have an Opportunity symbol (Opportunity), and the final two sides have a Complication symbol (Complication). If you don’t own this game’s custom plot die, you can instead use a normal d6 and convert the results using the Plot Die diagram. Note that 1 and 2 are the “worst” results, though they offset the Complication by granting a bonus to that test (see [[Stormlight Handbook/01 - Introduction#Complication Bonus|Complication Bonus]]). The bonus is equal to the number shown on the Complication symbol—which is double the number rolled on a normal d6.
 
 ![[pg008_Plot Die-agram.svg]]
 
@@ -273,9 +273,9 @@ The stakes can only be raised once per test, and they can’t be raised after th
 
 ### Resolving a Plot Die Roll
 
-When you roll the plot die with your test, the effect depends on whether you roll an Opportunity (O), a Complication (C), or a blank.
+When you roll the plot die with your test, the effect depends on whether you roll an Opportunity (Opportunity), a Complication (Complication), or a blank.
 
-If you roll a blank on the plot die, no positive or negative side effects apply to your test, and you resolve the remainder of the test as normal. If you roll an O or C symbol, see [[Stormlight Handbook/01 - Introduction#Opportunities and Complications|Opportunities and Complications]].
+If you roll a blank on the plot die, no positive or negative side effects apply to your test, and you resolve the remainder of the test as normal. If you roll an Opportunity or Complication symbol, see [[Stormlight Handbook/01 - Introduction#Opportunities and Complications|Opportunities and Complications]].
 
 ### Raising the Stakes Yourself
 
@@ -442,7 +442,7 @@ This section presents an excerpt of gameplay from the middle of an adventure. Th
 
 **GM:** The guard jumps at the sight of you, attuning the Rhythm of the Terrors and grabbing her axe. Test Persuasion and raise the stakes!
 
-*Taylor rolls a d20 along with the plot die, rolling an 11 on the d20 and a* C*4* *on the plot die. They add their Persuasion modifier of +3, along with the +4 from the plot die, for a total of 18.*
+*Taylor rolls a d20 along with the plot die, rolling an 11 on the d20 and a* Complication*4* *on the plot die. They add their Persuasion modifier of +3, along with the +4 from the plot die, for a total of 18.*
 
 **Taylor (playing Jhesh):** Well, that’s an 18, but I got a Complication.
 
@@ -472,7 +472,7 @@ This section presents an excerpt of gameplay from the middle of an adventure. Th
 
 **GM:** Okay, make a DC 15 Transportation test for that. And raise the stakes again.
 
-*Mia rolls a 3 on the d20 for a total of only 7, but she rolls an* O*on the plot die.*
+*Mia rolls a 3 on the d20 for a total of only 7, but she rolls an* Opportunity*on the plot die.*
 
 **Mia (playing Lisiril):** Uh-oh, that’s a 7. But with an Opportunity! Can I spend it to at least emerge from Shadesmar into a shadowy side passage, where they can’t see me?
 

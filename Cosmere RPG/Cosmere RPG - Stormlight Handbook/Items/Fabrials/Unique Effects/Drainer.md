@@ -14,6 +14,6 @@ This fabrial drains the Stormlight from spheres, other fabrials, and even Radian
 
 **Charges.** This fabrial has 5 charges.
 
-**Drawback.** While carrying this fabrial, when you roll a Complication on any test involving another Invested object or character, the GM can spend C to drain 1 Investiture from that object or character.
+**Drawback.** While carrying this fabrial, when you roll a Complication on any test involving another Invested object or character, the GM can spend Complication to drain 1 Investiture from that object or character.
 
 **Upgrade.** This fabrial drains 2 Investiture instead of 1.

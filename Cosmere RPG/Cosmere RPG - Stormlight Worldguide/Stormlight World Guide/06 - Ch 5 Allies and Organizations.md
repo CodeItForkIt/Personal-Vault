@@ -97,7 +97,7 @@ The coalition might offer goals like the following:
 
 ### Patron Benefit: Coalition of Monarchs
 
-In addition to offering amenities, the coalition’s authority extends in part to you. When in member nations, you can invoke their patronage to gain an advantage on various tests, as shown on the Coalition Patron Advantages table. However, when you invoke the coalition’s name, the GM might spend C from this test to introduce various challenges, as not everyone in the member nations feels the same way about Dalinar’s coalition.
+In addition to offering amenities, the coalition’s authority extends in part to you. When in member nations, you can invoke their patronage to gain an advantage on various tests, as shown on the Coalition Patron Advantages table. However, when you invoke the coalition’s name, the GM might spend Complication from this test to introduce various challenges, as not everyone in the member nations feels the same way about Dalinar’s coalition.
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Coalition Patron Advantages]]
 
@@ -387,7 +387,7 @@ Venli might offer goals like the following:
 
 ### Patron Benefit: Venli
 
-Venli can provide you with connections to singers who resist Odium’s authority, and she can provide amenities when you’re traveling in areas inhabited by singers. Additionally, she can teach you much about Fused society because of her time working for them. When using her knowledge while in Odium-held territory, you gain an advantage on various tests based on your tier, as shown on the Venli Advantages table. However, the GM might spend C from these tests to introduce various challenges, as some of Venli’s information is out of date.
+Venli can provide you with connections to singers who resist Odium’s authority, and she can provide amenities when you’re traveling in areas inhabited by singers. Additionally, she can teach you much about Fused society because of her time working for them. When using her knowledge while in Odium-held territory, you gain an advantage on various tests based on your tier, as shown on the Venli Advantages table. However, the GM might spend Complication from these tests to introduce various challenges, as some of Venli’s information is out of date.
 
 Alternatively, Venli can take you on as a Willshaper squire instead of granting the above benefit.
 

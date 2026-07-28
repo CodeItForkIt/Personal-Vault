@@ -8,7 +8,7 @@ aliases: ["Overwhelm with Details"]
 ---
 ![[intimidation-impressing.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *When speaking about a topic you’re passionate about, you do so with unsurpassed authority and at unmatched length. The uninitiated can rarely withstand such a torrent of information without becoming lost amid the data.*
 

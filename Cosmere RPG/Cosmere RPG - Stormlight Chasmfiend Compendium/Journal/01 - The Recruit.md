@@ -63,15 +63,15 @@ To persuade Ezriah to consider joining the Knights Radiant or to otherwise stop 
 
 If a character is not actively contributing to the conversation, ask them to make a Perception test (DC 13). On a success, they notice Selik pull a spanreed out of his pocket and twist its ruby—as if signaling someone.
 
-If a character gains an Opportunity (O) or Complication (C), use the Conscientious Objector Opportunities and Complications table for inspiration.
+If a character gains an Opportunity (Opportunity) or Complication (Complication), use the Conscientious Objector Opportunities and Complications table for inspiration.
 
 **Conscientious Objector Opportunities and Complications**
 
 |  |  |
 |----|----|
 | **Result** | **Example** |
-| O | The crowd murmurs, impressed by your argument. A few of Ezriah’s supporters disperse, leaving the plaza. |
-| C | The crowd seems increasingly agitated. Lose 1 focus as they shout over you. |
+| Opportunity | The crowd murmurs, impressed by your argument. A few of Ezriah’s supporters disperse, leaving the plaza. |
+| Complication | The crowd seems increasingly agitated. Lose 1 focus as they shout over you. |
 
 ![[portrait_Ezriah.webp]]
 
@@ -130,15 +130,15 @@ During combat, characters might try to interact with the following elements of t
 
 **Stone Buildings.** The homes in this area are 20 feet tall and relatively easy to climb (DC 10 Athletics). Any character on a rooftop gains an advantage on Perception tests targeting characters below. A character who falls from a rooftop takes `2d6` Impact damage.
 
-If a character gains an Opportunity (O) or Complication (C), use the Shardbearer Assault table for inspiration.
+If a character gains an Opportunity (Opportunity) or Complication (Complication), use the Shardbearer Assault table for inspiration.
 
 **Shardbearer Assault Opportunities and Complications**
 
 |  |  |
 |----|----|
 | **Result** | **Example** |
-| O | Ezriah uses her Radiant abilities to heal herself or another character within reach, recovering `1d8 + 5` health. |
-| C | A nearby citizen dies, slain by an errant slice from Eranniv’s Shardblade. |
+| Opportunity | Ezriah uses her Radiant abilities to heal herself or another character within reach, recovering `1d8 + 5` health. |
+| Complication | A nearby citizen dies, slain by an errant slice from Eranniv’s Shardblade. |
 
 ![[map-1_varikev-market-square.webp]]
 

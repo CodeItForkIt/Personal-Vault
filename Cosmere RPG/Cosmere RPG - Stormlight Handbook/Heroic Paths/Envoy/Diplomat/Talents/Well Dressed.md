@@ -8,7 +8,7 @@ aliases: ["Well Dressed"]
 ---
 ![[robe-layered-purple.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You cleverly match your outfits to the occasion, always making the perfect statement.*
 

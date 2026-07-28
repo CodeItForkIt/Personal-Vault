@@ -8,8 +8,8 @@ aliases: ["Through the Fray"]
 ---
 ![[abstract-ribbons-red-orange.webp|64]]
 
-**Activation:** 1
+**Activation:** One Action
 
 *You skillfully spot opportunities to gain the upper hand, coordinating with your allies as they spring into action.*
 
-Choose an ally you can influence within 20 feet of you. Before the end of your turn, they can use the [[Actions/Basic/Disengage|Disengage]] or [[Actions/Basic/Gain Advantage|Gain Advantage]] action as r .
+Choose an ally you can influence within 20 feet of you. Before the end of your turn, they can use the [[Actions/Basic/Disengage|Disengage]] or [[Actions/Basic/Gain Advantage|Gain Advantage]] action as Reaction .

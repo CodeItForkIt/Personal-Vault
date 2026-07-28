@@ -8,8 +8,8 @@ aliases: ["Double Down"]
 ---
 ![[intimidation-impressing.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Action
 
 *When you decide to take a risk, you commit fully in pursuit of the greatest reward.*
 
-After you use your [[Heroic Paths/Agent/Opportunist|Opportunist]] talent, you can reroll the die one additional time. You must use this final result, and if it includes a c, you lose 2 focus.
+After you use your [[Heroic Paths/Agent/Opportunist|Opportunist]] talent, you can reroll the die one additional time. You must use this final result, and if it includes a Always Active, you lose 2 focus.

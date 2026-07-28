@@ -8,7 +8,7 @@ aliases: ["Expansive Transmuter"]
 ---
 ![[projectile-stone-bullet-pink.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You’ve become so powerful that you can Soulcast larger objects with much greater efficiency.*
 

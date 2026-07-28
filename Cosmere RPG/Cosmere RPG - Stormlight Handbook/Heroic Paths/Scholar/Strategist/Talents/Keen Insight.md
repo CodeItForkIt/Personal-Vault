@@ -8,7 +8,7 @@ aliases: ["Keen Insight"]
 ---
 ![[eye-ringed-glow-angry-teal.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *Everyone has weaknesses—and you have a knack for uncovering and exploiting them.*
 

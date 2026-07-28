@@ -8,7 +8,7 @@ aliases: ["Sleuth's Instincts"]
 ---
 ![[gaming-gambling-dice-gray.webp|64]]
 
-**Activation:** r
+**Activation:** Always Active
 
 *When cracking mysteries, you know that “why” can be as important as “who” or “how.” Once you understand motivations, other details easily fall into place.*
 

@@ -31,7 +31,7 @@ Axies the Collector must raise the stakes when making a risky or difficult skill
 ### Fun Fact
 *1 act*
 
-Axies the Collector chooses an ally he can influence within 20 feet of him, then makes a *Test: `skill=lor dc=15`* and raises the stakes. On a success, the chosen ally gains 2 focus. Whether the test succeeds or fails, on O, that ally's next test gains an advantage, and on c, that ally's next test gains a disadvantage.
+Axies the Collector chooses an ally he can influence within 20 feet of him, then makes a *Test: `skill=lor dc=15`* and raises the stakes. On a success, the chosen ally gains 2 focus. Whether the test succeeds or fails, on Opportunity, that ally's next test gains an advantage, and on Complication, that ally's next test gains a disadvantage.
 
 ### Shift Form
 *2 act*

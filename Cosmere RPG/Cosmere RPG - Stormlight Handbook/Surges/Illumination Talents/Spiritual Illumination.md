@@ -8,7 +8,7 @@ aliases: ["Spiritual Illumination"]
 ---
 ![[explosion-star-glow-silhouette.webp|64]]
 
-**Activation:** 1
+**Activation:** One Action
 
 *You use Lightweaving to show your allies inspiring possibilities of who they could become.*
 

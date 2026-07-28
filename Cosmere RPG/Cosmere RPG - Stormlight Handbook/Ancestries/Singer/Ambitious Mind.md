@@ -8,7 +8,7 @@ aliases: ["Ambitious Mind"]
 ---
 ![[eye-ringed-glow-angry-small-red.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *Your growing thirst for power opens you to the influence of Odium.*
 

@@ -8,7 +8,7 @@ aliases: ["Third Ideal (Lightweaver)"]
 ---
 ![[explosion-star-blue-yellow.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You seek to advance your Nahel bond even further by speaking the Third Ideal.*
 

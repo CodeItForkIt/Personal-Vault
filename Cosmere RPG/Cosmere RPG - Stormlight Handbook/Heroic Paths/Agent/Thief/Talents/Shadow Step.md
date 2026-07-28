@@ -8,7 +8,7 @@ aliases: ["Shadow Step"]
 ---
 ![[silhouette-robe-evil-glow.webp|64]]
 
-**Activation:** 0
+**Activation:** Free Action
 
 *You know every con artist’s trick for avoiding comeuppance, and you can slip from sight with ease.*
 

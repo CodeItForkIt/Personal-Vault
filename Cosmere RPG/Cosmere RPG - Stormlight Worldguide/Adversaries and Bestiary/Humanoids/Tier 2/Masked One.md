@@ -18,9 +18,9 @@ aliases: ["Masked One"]
 
 The following options are available when an enemy gains an Opportunity or Complication during a scene with the Masked One:
 
-**Opportunity.** An enemy can spend O either to see through the Masked One's disguise and all their illusions (no test required), or to prevent the Masked One from using their Cunning Tongue, Surge of Illumination, and Regenerate actions until the end of the Masked One's next turn.
+**Opportunity.** An enemy can spend Opportunity either to see through the Masked One's disguise and all their illusions (no test required), or to prevent the Masked One from using their Cunning Tongue, Surge of Illumination, and Regenerate actions until the end of the Masked One's next turn.
 
-**Complication.** The GM can spend c from an enemy's test to have the Masked One use their Strike: Staff as r, gaining an advantage on the attack test.
+**Complication.** The GM can spend Complication from an enemy's test to have the Masked One use their Strike: Staff as Reaction, gaining an advantage on the attack test.
 
 ##### Tactics
 
@@ -44,7 +44,7 @@ At the start of a scene, if the Masked One isn't Surprised, they can use their I
 ### Illusory Disguise
 *1 act*
 
-The Masked One creates an illusion to disguise themself as another character. While disguised, the Masked One has an advantage on attack tests against enemies unaware of their ruse. This disguise continues until they end it as 0 or use this action to change it.
+The Masked One creates an illusion to disguise themself as another character. While disguised, the Masked One has an advantage on attack tests against enemies unaware of their ruse. This disguise continues until they end it as Free Action or use this action to change it.
 
 ### Cunning Tongue
 *2 act*
@@ -54,7 +54,7 @@ The Masked One weaves manipulative words around an enemy they can influence, mak
 ### Surge of Illumination
 *1 act*
 
-The Masked One chooses a Large (10-foot) or smaller area or willing character within 30 feet ofthem, creating an illusion on the target which lasts until the end of the scene or until the Masked One chooses to end it as 0. It's an animated hologram with no sound, and it's revealed to be an illusion if something passes through it. On a character's turn, they can Use a Skill to determine it's an illusion with a successful *Test: `skill=ded dc=15`*.
+The Masked One chooses a Large (10-foot) or smaller area or willing character within 30 feet ofthem, creating an illusion on the target which lasts until the end of the scene or until the Masked One chooses to end it as Free Action. It's an animated hologram with no sound, and it's revealed to be an illusion if something passes through it. On a character's turn, they can Use a Skill to determine it's an illusion with a successful *Test: `skill=ded dc=15`*.
 
 Depending on the nature of the illusion, it can cause an effect such as disguising or duplicating an ally, blocking line of effect, or creating a flash of bright light that applies the Disoriented condition to characters within 10 feet of it. If the effect would apply a condition to a character, they can avoid it with a successful *Test: `skill=ded dc=15`*.
 

@@ -8,7 +8,7 @@ aliases: ["Cover Story"]
 ---
 ![[academics-merchant-scribe.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *By spinning vague rumors into popular gossip, you’ve created a false identity to inhabit.*
 

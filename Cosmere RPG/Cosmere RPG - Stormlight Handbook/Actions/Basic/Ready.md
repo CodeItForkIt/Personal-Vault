@@ -12,4 +12,4 @@ You prepare to respond to something happening on the battlefield. Choose the tri
 
 Your readied action must follow all other rules as if you were using it on your turn. For example, if you already used a [[Actions/Basic/Disengage|Disengage]] action, you can't ready a second **Disengage** action.
 
-*To use this action, you must use* 1 *for the **Ready** action itself, plus the number of* 1 *required for the action you chose to prepare.*
+*To use this action, you must use* One Action *for the **Ready** action itself, plus the number of* One Action *required for the action you chose to prepare.*

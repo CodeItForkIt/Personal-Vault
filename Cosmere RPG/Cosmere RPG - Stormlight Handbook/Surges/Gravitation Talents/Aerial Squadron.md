@@ -8,7 +8,7 @@ aliases: ["Aerial Squadron"]
 ---
 ![[arrows-up-trio-red.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You’ve trained your allies in aerial combat scenarios, readying them to fly together at a moment’s notice.*
 

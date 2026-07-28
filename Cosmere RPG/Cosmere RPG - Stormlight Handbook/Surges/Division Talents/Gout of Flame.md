@@ -8,7 +8,7 @@ aliases: ["Gout of Flame"]
 ---
 ![[beam-jet-stream-spiral-yellow.webp|64]]
 
-**Activation:** 2
+**Activation:** One Action
 
 *You use Division to spray heat and flame across a wide area.*
 

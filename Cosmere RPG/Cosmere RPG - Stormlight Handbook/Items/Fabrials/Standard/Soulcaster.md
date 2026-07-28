@@ -26,4 +26,4 @@ When you touch the Soulcaster to an object you want to transform, then tap one o
 
 If a non-Radiant character practices with a Soulcaster long enough, the GM might allow them to invest skill ranks into Transformation when they gain a level, but they still need the Soulcaster to use the surge.
 
-Soulcasters contain three gemstones that they need to function. The vast amounts of Investiture used can cause them to crac. The GM can spend c from using the Soulcaster to cause one gem to break. A broken gem must be replaced before the Soulcaster can be used again; doing so requires several hours of work from someone with the Fabrial Crafting specialist expertise.
+Soulcasters contain three gemstones that they need to function. The vast amounts of Investiture used can cause them to crac. The GM can spend Complication from using the Soulcaster to cause one gem to break. A broken gem must be replaced before the Soulcaster can be used again; doing so requires several hours of work from someone with the Fabrial Crafting specialist expertise.

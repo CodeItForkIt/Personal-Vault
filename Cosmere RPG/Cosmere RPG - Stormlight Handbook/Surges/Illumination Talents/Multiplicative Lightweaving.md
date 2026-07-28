@@ -8,7 +8,7 @@ aliases: ["Multiplicative Lightweaving"]
 ---
 ![[projectiles-trio-pink.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You effortlessly Lightweave multiple illusions at once.*
 

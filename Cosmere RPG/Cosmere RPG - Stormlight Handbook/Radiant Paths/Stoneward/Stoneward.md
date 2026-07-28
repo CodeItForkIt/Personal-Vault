@@ -84,4 +84,4 @@ When a peakspren seeks a prospective Radiant to bond, they tend to value jovial 
 >
 > When a peakspren leaves their rocky hiding place, they appear to be breaking out of the rock. The stone quickly melds back together and becomes whole, leaving no trace of the peakspren’s passage.
 >
-> 0 or r **Test Assistance (Costs 1 Focus) .** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, peakspren can help with supporting or coordinating individuals (especially unruly ones), Athletics tests, and Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.
+> One Action or One Action **Test Assistance (Costs 1 Focus) .** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, peakspren can help with supporting or coordinating individuals (especially unruly ones), Athletics tests, and Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.

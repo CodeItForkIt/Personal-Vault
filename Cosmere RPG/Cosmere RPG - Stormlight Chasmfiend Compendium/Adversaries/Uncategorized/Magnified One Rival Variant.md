@@ -48,7 +48,7 @@ When the Magnified One (Rival Variant) succeeds on the Grapple action against a 
 ### Magnified Charge
 *2 act*
 
-The Magnified One (Rival Variant) moves up to 25 feet in a straight line without triggering Reactive Strikes. The first time the Magnified One (Rival Variant) comes within 5 feet of each enemy during this move, the Magnified One (Rival Variant) can make a Carapace Weapon attack against that enemy as 1. On a hit, the enemy must succeed on *Test: `skill=ath dc=15`* or be knocked Prone.
+The Magnified One (Rival Variant) moves up to 25 feet in a straight line without triggering Reactive Strikes. The first time the Magnified One (Rival Variant) comes within 5 feet of each enemy during this move, the Magnified One (Rival Variant) can make a Carapace Weapon attack against that enemy as Free Action. On a hit, the enemy must succeed on *Test: `skill=ath dc=15`* or be knocked Prone.
 
 ### Strike: Carapace Weapon
 *1 act*

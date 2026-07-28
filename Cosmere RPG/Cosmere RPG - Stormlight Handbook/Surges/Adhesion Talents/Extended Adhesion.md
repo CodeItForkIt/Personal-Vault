@@ -8,7 +8,7 @@ aliases: ["Extended Adhesion"]
 ---
 ![[clock-stopwatch-white-blue.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *Your Full Lashings use less Stormlight, allowing them to last much longer.*
 

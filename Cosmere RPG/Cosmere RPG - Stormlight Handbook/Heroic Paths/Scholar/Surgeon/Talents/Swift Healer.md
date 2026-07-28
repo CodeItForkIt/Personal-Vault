@@ -8,10 +8,10 @@ aliases: ["Swift Healer"]
 ---
 ![[cross-beam-green.webp|64]]
 
-**Activation:** 0
+**Activation:** Free Action
 
 *Your practiced hands quickly dress wounds, even as the tides of battle ebb and flow around you.*
 
-You can use your Field Medicine as 0.
+You can use your Field Medicine as Free Action.
 
 Additionally, when you acquire this talent, you become more skilled in healing. When you use an ability that restores health to another character, they recover additional health equal to your ranks in **Medicine**.

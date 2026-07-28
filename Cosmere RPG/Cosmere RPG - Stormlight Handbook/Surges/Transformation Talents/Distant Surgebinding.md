@@ -8,7 +8,7 @@ aliases: ["Distant Surgebinding"]
 ---
 ![[trail-streak-pink.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You can Soulcast from a greater distance.*
 

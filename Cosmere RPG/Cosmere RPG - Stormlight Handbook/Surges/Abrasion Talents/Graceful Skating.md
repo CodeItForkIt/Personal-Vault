@@ -8,7 +8,7 @@ aliases: ["Graceful Skating"]
 ---
 ![[chevrons-down-yellow.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You dynamically skate around the battlefield, easily slipping away from your foes.*
 

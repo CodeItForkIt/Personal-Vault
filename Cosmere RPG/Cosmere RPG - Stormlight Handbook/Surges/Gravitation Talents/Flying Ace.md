@@ -8,7 +8,7 @@ aliases: ["Flying Ace"]
 ---
 ![[buff-flight-wings-blue.webp|64]]
 
-**Activation:** 1
+**Activation:** One Action
 
 *You are a master of the skies, adeptly wielding your weapon while in flight.*
 

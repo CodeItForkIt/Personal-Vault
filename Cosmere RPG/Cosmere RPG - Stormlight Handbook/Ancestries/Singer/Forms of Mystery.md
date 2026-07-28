@@ -8,7 +8,7 @@ aliases: ["Forms of Mystery"]
 ---
 ![[barrier-fire-pink.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 You gain two new forms of power—[[Ancestries/Singer/Forms/Decayform|Decayform]] and [[Ancestries/Singer/Forms/Nightform|Nightform]]—which you can transform into using your [[Ancestries/Singer/Change Form|Change Form]].
 
@@ -28,6 +28,6 @@ You’ve bonded with a nightspren, a type of Voidspren. While in this form, your
 
 Additionally, your bond with a nightspren has granted you precognitive abilities—whether you wish them or not. While in this form, you gain the [[Ancestries/Singer/Forms/Actions/Intervening Premonitions|Intervening Premonitions]] and [[Ancestries/Singer/Forms/Actions/Sporadic Premonitions|Sporadic Premonitions]] abilities:
 
-r **Intervening Premonitions.** At the start of each session, roll two d20s and record both results. When an enemy or willing ally you can sense makes a test, you can use this reaction to replace the test’s d20 roll with one of your recorded numbers. You can replace that number after you see their die roll and after they apply any advantages, but you must do so before the effects of the test are resolved. You lose a recorded number when you use it to replace a d20 roll or when the session ends, whichever comes first.
+Reaction **Intervening Premonitions.** At the start of each session, roll two d20s and record both results. When an enemy or willing ally you can sense makes a test, you can use this reaction to replace the test’s d20 roll with one of your recorded numbers. You can replace that number after you see their die roll and after they apply any advantages, but you must do so before the effects of the test are resolved. You lose a recorded number when you use it to replace a d20 roll or when the session ends, whichever comes first.
 
 \* **Sporadic Premonitions.** At the GM’s discretion, you might occasionally receive glimpses of the future at unpredictable times during gameplay. When this happens, the GM might describe vague flashes of imagery, sounds, and impressions in your mind, hinting at what may come.

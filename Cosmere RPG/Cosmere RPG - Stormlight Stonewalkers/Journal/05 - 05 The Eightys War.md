@@ -135,7 +135,7 @@ Eight Tukari **[[Actors/Adversaries/Soldier/Archer|archers]]** are stationed on 
 
 #### **Tukari Tactics**
 
-Unless the Tukari archers find themselves in melee with a PC, they focus fire on anyone holding the ram, using their Immobilizing Shot (r) to target the closest characters.
+Unless the Tukari archers find themselves in melee with a PC, they focus fire on anyone holding the ram, using their Immobilizing Shot (Reaction) to target the closest characters.
 
 #### **The Gate and the Battering Ram**
 

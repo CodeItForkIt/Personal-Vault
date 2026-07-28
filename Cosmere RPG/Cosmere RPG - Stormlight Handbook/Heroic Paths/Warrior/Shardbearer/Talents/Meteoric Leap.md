@@ -8,7 +8,7 @@ aliases: ["Meteoric Leap"]
 ---
 ![[projectile-shock-wave-blue.webp|64]]
 
-**Activation:** 2
+**Activation:** Special Activation
 
 *You vault aggressively above your foes and slam into them with your full weight—a leap made all the more terrifying by unyielding Shardplate.*
 

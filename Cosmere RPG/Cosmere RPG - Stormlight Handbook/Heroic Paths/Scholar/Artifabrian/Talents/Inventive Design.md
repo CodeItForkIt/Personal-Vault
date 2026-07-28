@@ -8,7 +8,7 @@ aliases: ["Inventive Design"]
 ---
 ![[burner-steel-grey.webp|64]]
 
-**Activation:** 8
+**Activation:** Special Activation
 
 *Your custom fabrials often integrate novel functionalities thanks to your deep knowledge of the stone with which you most commonly work.*
 

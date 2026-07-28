@@ -42,7 +42,7 @@ This attack gains a disadvantage unless the Farriqa spends 1 focus to ignore it.
 ### Storm Leap
 *1 act*
 
-The Farriqa jumps up to 60 feet. If they land within 5 feet of an enemy, the Farriqa can use the Gain Advantage action as 0.
+The Farriqa jumps up to 60 feet. If they land within 5 feet of an enemy, the Farriqa can use the Gain Advantage action as Free Action.
 
 ### Electrical Charge
 *1 fre*

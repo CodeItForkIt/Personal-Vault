@@ -8,7 +8,7 @@ aliases: ["Inescapable Spark"]
 ---
 ![[bolt-forked-red.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You can send your spark to far greater distances, seeking out targets around corners and through walls and corners.*
 

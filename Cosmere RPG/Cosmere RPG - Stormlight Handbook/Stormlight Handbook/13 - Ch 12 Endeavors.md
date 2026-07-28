@@ -333,7 +333,7 @@ This example of gameplay illustrates the flow of an endeavor. Lisiril, Jhesh, an
 
 **Game Master (GM):** It’s not a very big cave, but there are a couple tunnels to search. Test Stealth and raise the stakes!
 
-*Rico rolls a d20 along with the plot die, rolling a 2 on the d20 with a* C*4* *on the plot die. He adds his Stealth modifier of +4, along with the +4 from the plot die, for a total of 10. That’s lower than the thieves’ Spiritual defense (which the GM set as the DC).*
+*Rico rolls a d20 along with the plot die, rolling a 2 on the d20 with a* Complication*4* *on the plot die. He adds his Stealth modifier of +4, along with the +4 from the plot die, for a total of 10. That’s lower than the thieves’ Spiritual defense (which the GM set as the DC).*
 
 **Rico (playing Aj):** Uh, that’s a 10 with a Complication.
 
@@ -345,7 +345,7 @@ This example of gameplay illustrates the flow of an endeavor. Lisiril, Jhesh, an
 
 **Game Master (GM):** Make a Perception test for him, but raise the stakes because the thieves are already alerted!
 
-*Mia rolls a d20 along with the plot die, rolling a 14 on the d20 with a* C*2* *on the plot die. She adds her Perception modifier of +3, along with the +2 from the plot die, for a total of 19. That’s higher than the DC the GM set.*
+*Mia rolls a d20 along with the plot die, rolling a 14 on the d20 with a* Complication*2* *on the plot die. She adds her Perception modifier of +3, along with the +2 from the plot die, for a total of 19. That’s higher than the DC the GM set.*
 
 **Game Master (GM):** Scriven's inky form blends with the darkness as he slinks off to look around. Shortly afterward, he returns and says he thinks he’s found it! It’s hidden away in a cubby in the cave wall just to your left. Unfortunately, the cubby is cut from the other side, down a tunnel past the thieves. With that said, on to the second round!
 

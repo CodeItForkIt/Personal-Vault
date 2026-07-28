@@ -8,7 +8,7 @@ aliases: ["Forms of Finesse"]
 ---
 ![[air-wave-gust-blue.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 You gain two new singer forms—[[Ancestries/Singer/Forms/Artform|Artform]] and [[Ancestries/Singer/Forms/Nimbleform|Nimbleform]]—which you can transform into using your Change Form.
 

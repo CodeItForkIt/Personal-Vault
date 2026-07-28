@@ -8,7 +8,7 @@ aliases: ["Plausible Excuse"]
 ---
 ![[thumbsup-approval-like.webp|64]]
 
-**Activation:** r
+**Activation:** Reaction
 
 *Years of covert operations have taught you to dissemble on the spot, concocting a reasonable excuse for the most incriminating of behavior.*
 

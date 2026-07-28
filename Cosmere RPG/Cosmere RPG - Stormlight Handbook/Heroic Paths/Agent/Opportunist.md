@@ -8,7 +8,7 @@ aliases: ["Opportunist"]
 ---
 ![[silhouette-robe-evil-power.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You instinctively sense moments of consequence. In these moments where the scale teeters between disaster and glory, you can push yourself—and your luck—to tip the outcome in your favor.*
 

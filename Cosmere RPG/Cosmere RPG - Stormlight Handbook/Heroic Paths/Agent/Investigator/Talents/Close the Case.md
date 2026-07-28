@@ -8,7 +8,7 @@ aliases: ["Close the Case"]
 ---
 ![[figure-running-gray.webp|64]]
 
-**Activation:** 3
+**Activation:** Always Active
 
 *You’ve compiled information on your target’s motive and circumstances. Now, by pressing on your target’s desires, weaknesses, or guilt, you can convince them to back down.*
 

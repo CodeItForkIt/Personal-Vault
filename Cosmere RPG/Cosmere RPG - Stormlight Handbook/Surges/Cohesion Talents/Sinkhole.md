@@ -8,7 +8,7 @@ aliases: ["Sinkhole"]
 ---
 ![[projectile-stone-landslide.webp|64]]
 
-**Activation:** 1
+**Activation:** One Action
 
 *You cause the ground to soften so quickly that it can catch anyone standing in it by surprise.*
 

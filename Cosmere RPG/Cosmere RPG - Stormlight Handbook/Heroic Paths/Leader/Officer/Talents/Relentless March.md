@@ -8,7 +8,7 @@ aliases: ["Relentless March"]
 ---
 ![[feet-spurred-boots-brown.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You invigorate your troops, helping them push through fear, pain, and exhaustion under the worst of conditions.*
 

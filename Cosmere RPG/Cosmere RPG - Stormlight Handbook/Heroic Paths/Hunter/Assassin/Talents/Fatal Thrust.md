@@ -8,7 +8,7 @@ aliases: ["Fatal Thrust"]
 ---
 ![[strike-dagger-white-orange.webp|64]]
 
-**Activation:** 2
+**Activation:** Two Actions
 
 *You aim for your foe’s vitals with callous finesse, hoping to bring the fight to an end before it begins.*
 

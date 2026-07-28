@@ -10,4 +10,4 @@ aliases: ["Impaling Trap"]
 
 **Targets:** Physical defense
 
-You create a trap with caltrops, spikes, or other sharp objects. On a hit, the target takes `2d4` keen damage and becomes **Afflicted** [vital damage equal to 3 + your ranks in Survival] for 1 round, and you can spend O to inflict an injury on the target.
+You create a trap with caltrops, spikes, or other sharp objects. On a hit, the target takes `2d4` keen damage and becomes **Afflicted** [vital damage equal to 3 + your ranks in Survival] for 1 round, and you can spend Opportunity to inflict an injury on the target.

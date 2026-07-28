@@ -8,8 +8,8 @@ aliases: ["Cautious Advance"]
 ---
 ![[feet-winged-sandals-tan.webp|64]]
 
-**Activation:** 2
+**Activation:** Two Actions
 
 *You understand the hazards in your environment and the flow of battle, helping you find the safest path across the battlefield.*
 
-Move up to half your movement rate, ignoring difficult terrain, then gain 2 that can be spent only on the [[Actions/Basic/Brace|Brace]] or [[Actions/Basic/Gain Advantage|Gain Advantage]] actions.
+Move up to half your movement rate, ignoring difficult terrain, then gain Two Actions that can be spent only on the [[Actions/Basic/Brace|Brace]] or [[Actions/Basic/Gain Advantage|Gain Advantage]] actions.

@@ -35,7 +35,7 @@ While the Selik is in cover or an area where their enemy's primary sense is obsc
 **Hit** `1d4 + 8 Keen average`, and if the Selik had at least one advantage on this attack, they can spend 1 focus to deal an extra `4d4 Keen average`.
 
 ### Killer Instinct
-After the Selik ends a Move action within 5 feet of an enemy, if the Selik moved at least 20 feet this turn, they can use the Gain Advantage action as 0.
+After the Selik ends a Move action within 5 feet of an enemy, if the Selik moved at least 20 feet this turn, they can use the Gain Advantage action as Free Action.
 
 ### Twist the Knife
 Once per turn, when the Selik grazes, they can add their attack test modifier to that graze's damage.

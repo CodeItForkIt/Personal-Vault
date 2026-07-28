@@ -8,7 +8,7 @@ aliases: ["Living Soulcasting"]
 ---
 ![[strike-body-explode-disintegrate.webp|64]]
 
-**Activation:** 2
+**Activation:** Two Actions
 
 *You’ve mastered the subtleties of affecting living flesh with Soulcasting.*
 

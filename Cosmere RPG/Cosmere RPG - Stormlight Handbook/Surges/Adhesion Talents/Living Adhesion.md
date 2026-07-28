@@ -8,7 +8,7 @@ aliases: ["Living Adhesion"]
 ---
 ![[silhouette-fall-slip-prone.webp|64]]
 
-**Activation:** 8
+**Activation:** Always Active
 
 *You can apply Adhesion directly to other living beings, sticking their bodies to surfaces.*
 
