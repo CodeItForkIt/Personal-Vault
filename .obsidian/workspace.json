@@ -11,17 +11,14 @@
             "id": "df84a608f0ea1482",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Elsecaller Talents Talent Tree.canvas",
-                "viewState": {
-                  "x": 5740.021766473064,
-                  "y": 1056.3616787469666,
-                  "zoom": -1.3715165630939095
-                }
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Elsecaller.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Elsecaller Talents Talent Tree"
+              "icon": "lucide-file",
+              "title": "Elsecaller"
             }
           },
           {
@@ -133,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Elsecaller Talents Talent Tree.canvas",
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Elsecaller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Elsecaller Talents Talent Tree"
+              "title": "Outgoing links from Elsecaller"
             }
           },
           {
@@ -218,6 +215,7 @@
   },
   "active": "df84a608f0ea1482",
   "lastOpenFiles": [
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Elsecaller Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Dustbringer Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Envoy Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Agent Talents Talent Tree.canvas",
@@ -249,7 +247,6 @@
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Willshaper/Willshaper Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher (Enlightened)/Enlightened Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Truthwatcher Talents Talent Tree.canvas",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Mistspren Bond Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Edgedancer/Edgedancer.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Agent.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Skybreaker.md",
