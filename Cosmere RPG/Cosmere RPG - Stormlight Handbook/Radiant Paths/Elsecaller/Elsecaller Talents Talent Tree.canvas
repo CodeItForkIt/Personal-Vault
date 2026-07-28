@@ -1,449 +1,61 @@
 {
-  "nodes": [
-    {
-      "id": "background",
-      "type": "group",
-      "x": -220.0,
-      "y": -987.485714285714,
-      "width": 8088.0,
-      "height": 5314.971428571428,
-      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg152_path_Elsecaller_SONDERFLEX STUDIOS.webp",
-      "backgroundStyle": "ratio"
-    },
-    {
-      "id": "u167NZQIKQ2WaeW4",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/First Ideal Elsecaller.md",
-      "x": 3504.0000000000005,
-      "y": 0.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "NwJbWyQgOkuq0BrF",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Elsecallers Perspicacity.md",
-      "x": 6959.333333333333,
-      "y": 730.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "uKrWbM0LxpEZpWLh",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Invested.md",
-      "x": 6959.333333333333,
-      "y": 1460.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "m9rtRKt4Yyz4Y1pZ",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Wound Regeneration.md",
-      "x": 7008.0,
-      "y": 2189.9999999999995,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "P1g6kks4xxHsYrc5",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Take Squire Elsecaller.md",
-      "x": 6278.0,
-      "y": 2189.9999999999995,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "IgGXhh4px0fQN9tz",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Third Ideal Elsecaller.md",
-      "x": 5548.0,
-      "y": 1460.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "2TjF5HfbMxvZUSRG",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Deepened Bond.md",
-      "x": 4818.0,
-      "y": 2189.9999999999995,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "IwmyX4CmpAMijtFp",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Fourth Ideal Elsecaller.md",
-      "x": 5913.0,
-      "y": 2699.9999999999995,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "BKUads5d153qBsV5",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Second Ideal Elsecaller.md",
-      "x": 5548.0,
-      "y": 730.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "o8kFBFJHIsbZdoTR",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transformation Talents/Soulcast Defense.md",
-      "x": 0.0,
-      "y": 730.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "YC5Ckeb6WOG14Zxa",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transformation Talents/Soulcast Parry.md",
-      "x": 0.0,
-      "y": 1460.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "VLQ3aAJnOGwS37pF",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transformation Talents/Distant Surgebinding.md",
-      "x": 0.0,
-      "y": 2190.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "kYF8W8YmdbwBnsFF",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transformation Talents/Persistent Transformation.md",
-      "x": 0.0,
-      "y": 2920.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "sZZal2jSyfEkj9E2",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transformation Talents/Living Soulcasting.md",
-      "x": 1460.0,
-      "y": 730.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "XwFL4Ym7q0yr76St",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transformation Talents/Bloodcasting.md",
-      "x": 1460.0,
-      "y": 1460.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "3rIWL631s8Wy7IPA",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transformation Talents/Flamecasting.md",
-      "x": 1460.0,
-      "y": 2190.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "VF1pAGDC1NaMwhe6",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transformation Talents/Expansive Transmuter.md",
-      "x": 1095.0,
-      "y": 2920.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "RD2OUC7uUp99knNa",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transformation Talents/Distant Surgebinding.md",
-      "x": 730.0,
-      "y": 2190.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "h71DzSOVAXZ2DPaF",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Cognitive Farsight.md",
-      "x": 2628.0000000000005,
-      "y": 730.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "89seJux5vAFZ9XRl",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Cognitive Vision.md",
-      "x": 2628.0000000000005,
-      "y": 1460.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "Zdjjpck1WLAYUygk",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Shared Transportation.md",
-      "x": 3358.0000000000005,
-      "y": 2190.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "1h1m4SoJGoVbYyHW",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Elsegate.md",
-      "x": 3358.0000000000005,
-      "y": 2920.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "mYFjV8tBywSTMUhv",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Realmic Evasion.md",
-      "x": 4088.0000000000005,
-      "y": 730.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "EgsXrH08FbNDKxGR",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Realmic Step.md",
-      "x": 4088.0000000000005,
-      "y": 1460.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "a2tZpqyRtgCiZf9m",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Elsecalling.md",
-      "x": 4088.0000000000005,
-      "y": 2190.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "sw7TtHx8KBp5hAvv",
-      "type": "file",
-      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Realmwalker.md",
-      "x": 4088.0000000000005,
-      "y": 2920.0,
-      "width": 640,
-      "height": 420
-    },
-    {
-      "id": "banner",
-      "type": "group",
-      "x": 0.0,
-      "y": -300.0,
-      "width": 500,
-      "height": 260,
-      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg148_path_banner_Elsecaller.webp",
-      "backgroundStyle": "ratio"
-    }
-  ],
-  "edges": [
-    {
-      "id": "edge0",
-      "fromNode": "u167NZQIKQ2WaeW4",
-      "fromSide": "bottom",
-      "toNode": "NwJbWyQgOkuq0BrF",
-      "toSide": "top"
-    },
-    {
-      "id": "edge1",
-      "fromNode": "NwJbWyQgOkuq0BrF",
-      "fromSide": "bottom",
-      "toNode": "uKrWbM0LxpEZpWLh",
-      "toSide": "top"
-    },
-    {
-      "id": "edge2",
-      "fromNode": "uKrWbM0LxpEZpWLh",
-      "fromSide": "bottom",
-      "toNode": "m9rtRKt4Yyz4Y1pZ",
-      "toSide": "top"
-    },
-    {
-      "id": "edge3",
-      "fromNode": "IgGXhh4px0fQN9tz",
-      "fromSide": "bottom",
-      "toNode": "P1g6kks4xxHsYrc5",
-      "toSide": "top"
-    },
-    {
-      "id": "edge4",
-      "fromNode": "BKUads5d153qBsV5",
-      "fromSide": "bottom",
-      "toNode": "IgGXhh4px0fQN9tz",
-      "toSide": "top"
-    },
-    {
-      "id": "edge5",
-      "fromNode": "IgGXhh4px0fQN9tz",
-      "fromSide": "bottom",
-      "toNode": "2TjF5HfbMxvZUSRG",
-      "toSide": "top"
-    },
-    {
-      "id": "edge6",
-      "fromNode": "IgGXhh4px0fQN9tz",
-      "fromSide": "bottom",
-      "toNode": "IwmyX4CmpAMijtFp",
-      "toSide": "top"
-    },
-    {
-      "id": "edge7",
-      "fromNode": "u167NZQIKQ2WaeW4",
-      "fromSide": "bottom",
-      "toNode": "BKUads5d153qBsV5",
-      "toSide": "top"
-    },
-    {
-      "id": "edge8",
-      "fromNode": "u167NZQIKQ2WaeW4",
-      "fromSide": "bottom",
-      "toNode": "o8kFBFJHIsbZdoTR",
-      "toSide": "top"
-    },
-    {
-      "id": "edge9",
-      "fromNode": "o8kFBFJHIsbZdoTR",
-      "fromSide": "bottom",
-      "toNode": "YC5Ckeb6WOG14Zxa",
-      "toSide": "top"
-    },
-    {
-      "id": "edge10",
-      "fromNode": "YC5Ckeb6WOG14Zxa",
-      "fromSide": "bottom",
-      "toNode": "VLQ3aAJnOGwS37pF",
-      "toSide": "top"
-    },
-    {
-      "id": "edge11",
-      "fromNode": "RD2OUC7uUp99knNa",
-      "fromSide": "bottom",
-      "toNode": "kYF8W8YmdbwBnsFF",
-      "toSide": "top"
-    },
-    {
-      "id": "edge12",
-      "fromNode": "u167NZQIKQ2WaeW4",
-      "fromSide": "bottom",
-      "toNode": "sZZal2jSyfEkj9E2",
-      "toSide": "top"
-    },
-    {
-      "id": "edge13",
-      "fromNode": "sZZal2jSyfEkj9E2",
-      "fromSide": "bottom",
-      "toNode": "XwFL4Ym7q0yr76St",
-      "toSide": "top"
-    },
-    {
-      "id": "edge14",
-      "fromNode": "YC5Ckeb6WOG14Zxa",
-      "fromSide": "bottom",
-      "toNode": "3rIWL631s8Wy7IPA",
-      "toSide": "top"
-    },
-    {
-      "id": "edge15",
-      "fromNode": "3rIWL631s8Wy7IPA",
-      "fromSide": "bottom",
-      "toNode": "VF1pAGDC1NaMwhe6",
-      "toSide": "top"
-    },
-    {
-      "id": "edge16",
-      "fromNode": "YC5Ckeb6WOG14Zxa",
-      "fromSide": "bottom",
-      "toNode": "RD2OUC7uUp99knNa",
-      "toSide": "top"
-    },
-    {
-      "id": "edge17",
-      "fromNode": "u167NZQIKQ2WaeW4",
-      "fromSide": "bottom",
-      "toNode": "h71DzSOVAXZ2DPaF",
-      "toSide": "top"
-    },
-    {
-      "id": "edge18",
-      "fromNode": "h71DzSOVAXZ2DPaF",
-      "fromSide": "bottom",
-      "toNode": "89seJux5vAFZ9XRl",
-      "toSide": "top"
-    },
-    {
-      "id": "edge19",
-      "fromNode": "a2tZpqyRtgCiZf9m",
-      "fromSide": "bottom",
-      "toNode": "Zdjjpck1WLAYUygk",
-      "toSide": "top"
-    },
-    {
-      "id": "edge20",
-      "fromNode": "Zdjjpck1WLAYUygk",
-      "fromSide": "bottom",
-      "toNode": "1h1m4SoJGoVbYyHW",
-      "toSide": "top"
-    },
-    {
-      "id": "edge21",
-      "fromNode": "IwmyX4CmpAMijtFp",
-      "fromSide": "bottom",
-      "toNode": "1h1m4SoJGoVbYyHW",
-      "toSide": "top"
-    },
-    {
-      "id": "edge22",
-      "fromNode": "BKUads5d153qBsV5",
-      "fromSide": "bottom",
-      "toNode": "mYFjV8tBywSTMUhv",
-      "toSide": "top"
-    },
-    {
-      "id": "edge23",
-      "fromNode": "mYFjV8tBywSTMUhv",
-      "fromSide": "bottom",
-      "toNode": "EgsXrH08FbNDKxGR",
-      "toSide": "top"
-    },
-    {
-      "id": "edge24",
-      "fromNode": "EgsXrH08FbNDKxGR",
-      "fromSide": "bottom",
-      "toNode": "a2tZpqyRtgCiZf9m",
-      "toSide": "top"
-    },
-    {
-      "id": "edge25",
-      "fromNode": "IgGXhh4px0fQN9tz",
-      "fromSide": "bottom",
-      "toNode": "a2tZpqyRtgCiZf9m",
-      "toSide": "top"
-    },
-    {
-      "id": "edge26",
-      "fromNode": "a2tZpqyRtgCiZf9m",
-      "fromSide": "bottom",
-      "toNode": "sw7TtHx8KBp5hAvv",
-      "toSide": "top"
-    }
-  ]
+	"nodes":[
+		{"id":"background","type":"group","backgroundStyle":"ratio","x":-220,"y":-987,"width":8088,"height":5315,"background":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg152_path_Elsecaller_SONDERFLEX STUDIOS.webp"},
+		{"id":"banner","type":"group","backgroundStyle":"ratio","x":0,"y":-300,"width":230,"height":260,"background":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg148_path_banner_Elsecaller.webp"},
+		{"id":"u167NZQIKQ2WaeW4","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/First Ideal Elsecaller.md","x":3504,"y":0,"width":640,"height":420},
+		{"id":"IgGXhh4px0fQN9tz","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Third Ideal Elsecaller.md","x":5548,"y":1460,"width":640,"height":420},
+		{"id":"2TjF5HfbMxvZUSRG","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Deepened Bond.md","x":4818,"y":2190,"width":640,"height":420},
+		{"id":"IwmyX4CmpAMijtFp","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Fourth Ideal Elsecaller.md","x":5913,"y":2700,"width":640,"height":420},
+		{"id":"BKUads5d153qBsV5","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Second Ideal Elsecaller.md","x":5548,"y":730,"width":640,"height":420},
+		{"id":"VLQ3aAJnOGwS37pF","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transformation Talents/Distant Surgebinding.md","x":0,"y":2190,"width":640,"height":420},
+		{"id":"kYF8W8YmdbwBnsFF","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transformation Talents/Persistent Transformation.md","x":0,"y":2920,"width":640,"height":420},
+		{"id":"3rIWL631s8Wy7IPA","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transformation Talents/Flamecasting.md","x":1460,"y":2190,"width":640,"height":420},
+		{"id":"VF1pAGDC1NaMwhe6","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transformation Talents/Expansive Transmuter.md","x":1095,"y":2920,"width":640,"height":420},
+		{"id":"RD2OUC7uUp99knNa","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transformation Talents/Distant Surgebinding.md","x":730,"y":2190,"width":640,"height":420},
+		{"id":"h71DzSOVAXZ2DPaF","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Cognitive Farsight.md","x":2628,"y":730,"width":640,"height":420},
+		{"id":"89seJux5vAFZ9XRl","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Cognitive Vision.md","x":2628,"y":1460,"width":640,"height":420},
+		{"id":"Zdjjpck1WLAYUygk","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Shared Transportation.md","x":3358,"y":2190,"width":640,"height":420},
+		{"id":"1h1m4SoJGoVbYyHW","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Elsegate.md","x":3358,"y":2920,"width":640,"height":420},
+		{"id":"mYFjV8tBywSTMUhv","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Realmic Evasion.md","x":4088,"y":730,"width":640,"height":420},
+		{"id":"EgsXrH08FbNDKxGR","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Realmic Step.md","x":4088,"y":1460,"width":640,"height":420},
+		{"id":"a2tZpqyRtgCiZf9m","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Elsecalling.md","x":4088,"y":2190,"width":640,"height":420},
+		{"id":"sw7TtHx8KBp5hAvv","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Realmwalker.md","x":4088,"y":2920,"width":640,"height":420},
+		{"id":"NwJbWyQgOkuq0BrF","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Elsecallers Perspicacity.md","x":6959,"y":730,"width":640,"height":420},
+		{"id":"uKrWbM0LxpEZpWLh","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Invested.md","x":6959,"y":1460,"width":640,"height":420},
+		{"id":"m9rtRKt4Yyz4Y1pZ","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Wound Regeneration.md","x":7008,"y":2190,"width":640,"height":420},
+		{"id":"P1g6kks4xxHsYrc5","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Elsecaller/Talents/Inkspren Bond/Take Squire Elsecaller.md","x":6278,"y":2190,"width":640,"height":420},
+		{"id":"o8kFBFJHIsbZdoTR","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transformation Talents/Soulcast Defense.md","x":0,"y":730,"width":640,"height":420},
+		{"id":"YC5Ckeb6WOG14Zxa","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transformation Talents/Soulcast Parry.md","x":0,"y":1460,"width":640,"height":420},
+		{"id":"sZZal2jSyfEkj9E2","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transformation Talents/Living Soulcasting.md","x":1460,"y":730,"width":640,"height":420},
+		{"id":"XwFL4Ym7q0yr76St","type":"file","file":"Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transformation Talents/Bloodcasting.md","x":1460,"y":1460,"width":640,"height":420}
+	],
+	"edges":[
+		{"id":"edge0","fromNode":"u167NZQIKQ2WaeW4","fromSide":"bottom","toNode":"NwJbWyQgOkuq0BrF","toSide":"top"},
+		{"id":"edge1","fromNode":"NwJbWyQgOkuq0BrF","fromSide":"bottom","toNode":"uKrWbM0LxpEZpWLh","toSide":"top"},
+		{"id":"edge2","fromNode":"uKrWbM0LxpEZpWLh","fromSide":"bottom","toNode":"m9rtRKt4Yyz4Y1pZ","toSide":"top"},
+		{"id":"edge3","fromNode":"IgGXhh4px0fQN9tz","fromSide":"bottom","toNode":"P1g6kks4xxHsYrc5","toSide":"top"},
+		{"id":"edge4","fromNode":"BKUads5d153qBsV5","fromSide":"bottom","toNode":"IgGXhh4px0fQN9tz","toSide":"top"},
+		{"id":"edge5","fromNode":"IgGXhh4px0fQN9tz","fromSide":"bottom","toNode":"2TjF5HfbMxvZUSRG","toSide":"top"},
+		{"id":"edge6","fromNode":"IgGXhh4px0fQN9tz","fromSide":"bottom","toNode":"IwmyX4CmpAMijtFp","toSide":"top"},
+		{"id":"edge7","fromNode":"u167NZQIKQ2WaeW4","fromSide":"bottom","toNode":"BKUads5d153qBsV5","toSide":"top"},
+		{"id":"edge8","fromNode":"u167NZQIKQ2WaeW4","fromSide":"bottom","toNode":"o8kFBFJHIsbZdoTR","toSide":"top"},
+		{"id":"edge9","fromNode":"o8kFBFJHIsbZdoTR","fromSide":"bottom","toNode":"YC5Ckeb6WOG14Zxa","toSide":"top"},
+		{"id":"edge10","fromNode":"YC5Ckeb6WOG14Zxa","fromSide":"bottom","toNode":"VLQ3aAJnOGwS37pF","toSide":"top"},
+		{"id":"edge11","fromNode":"RD2OUC7uUp99knNa","fromSide":"bottom","toNode":"kYF8W8YmdbwBnsFF","toSide":"top"},
+		{"id":"edge12","fromNode":"u167NZQIKQ2WaeW4","fromSide":"bottom","toNode":"sZZal2jSyfEkj9E2","toSide":"top"},
+		{"id":"edge13","fromNode":"sZZal2jSyfEkj9E2","fromSide":"bottom","toNode":"XwFL4Ym7q0yr76St","toSide":"top"},
+		{"id":"edge14","fromNode":"YC5Ckeb6WOG14Zxa","fromSide":"bottom","toNode":"3rIWL631s8Wy7IPA","toSide":"top"},
+		{"id":"edge15","fromNode":"3rIWL631s8Wy7IPA","fromSide":"bottom","toNode":"VF1pAGDC1NaMwhe6","toSide":"top"},
+		{"id":"edge16","fromNode":"YC5Ckeb6WOG14Zxa","fromSide":"bottom","toNode":"RD2OUC7uUp99knNa","toSide":"top"},
+		{"id":"edge17","fromNode":"u167NZQIKQ2WaeW4","fromSide":"bottom","toNode":"h71DzSOVAXZ2DPaF","toSide":"top"},
+		{"id":"edge18","fromNode":"h71DzSOVAXZ2DPaF","fromSide":"bottom","toNode":"89seJux5vAFZ9XRl","toSide":"top"},
+		{"id":"edge19","fromNode":"a2tZpqyRtgCiZf9m","fromSide":"bottom","toNode":"Zdjjpck1WLAYUygk","toSide":"top"},
+		{"id":"edge20","fromNode":"Zdjjpck1WLAYUygk","fromSide":"bottom","toNode":"1h1m4SoJGoVbYyHW","toSide":"top"},
+		{"id":"edge21","fromNode":"IwmyX4CmpAMijtFp","fromSide":"bottom","toNode":"1h1m4SoJGoVbYyHW","toSide":"top"},
+		{"id":"edge22","fromNode":"BKUads5d153qBsV5","fromSide":"bottom","toNode":"mYFjV8tBywSTMUhv","toSide":"top"},
+		{"id":"edge23","fromNode":"mYFjV8tBywSTMUhv","fromSide":"bottom","toNode":"EgsXrH08FbNDKxGR","toSide":"top"},
+		{"id":"edge24","fromNode":"EgsXrH08FbNDKxGR","fromSide":"bottom","toNode":"a2tZpqyRtgCiZf9m","toSide":"top"},
+		{"id":"edge25","fromNode":"IgGXhh4px0fQN9tz","fromSide":"bottom","toNode":"a2tZpqyRtgCiZf9m","toSide":"top"},
+		{"id":"edge26","fromNode":"a2tZpqyRtgCiZf9m","fromSide":"bottom","toNode":"sw7TtHx8KBp5hAvv","toSide":"top"}
+	]
 }
