@@ -11,14 +11,17 @@
             "id": "df84a608f0ea1482",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/04 - Ch 3 Character Statistics.md",
-                "mode": "preview",
-                "source": false
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Dustbringer Talents Talent Tree.canvas",
+                "viewState": {
+                  "x": 3422.5,
+                  "y": 1814.5,
+                  "zoom": -2.4405686773952113
+                }
               },
-              "icon": "lucide-file",
-              "title": "04 - Ch 3 Character Statistics"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dustbringer Talents Talent Tree"
             }
           },
           {
@@ -130,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/04 - Ch 3 Character Statistics.md",
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Dustbringer/Dustbringer Talents Talent Tree.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 04 - Ch 3 Character Statistics"
+              "title": "Outgoing links from Dustbringer Talents Talent Tree"
             }
           },
           {
@@ -215,6 +218,9 @@
   },
   "active": "df84a608f0ea1482",
   "lastOpenFiles": [
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Envoy Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Agent Talents Talent Tree.canvas",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/04 - Ch 3 Character Statistics.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/02 - Ch 1 Character Creation.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Actions/Stormlight/Regenerate.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Actions/Stormlight/Enhance.md",
@@ -227,7 +233,6 @@
     "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/Stormlight World Guide/06 - Ch 5 Allies and Organizations.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Worldguide/Stormlight World Guide/12 - Appendix C Index of Terms.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Cultures/Uncategorized/Listener.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/04 - Ch 3 Character Statistics.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/03 - Ch 2 Origins.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/16 - Appendix 1 Animal Companions.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/19 - Glossary and Index.md",
@@ -245,12 +250,10 @@
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Truthwatcher Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Mistspren Bond Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Stoneward/Stoneward Talents Talent Tree.canvas",
-    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker (Nale)/Skybreaker Nale Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Edgedancer/Edgedancer.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Agent.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Skybreaker/Skybreaker.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Home.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Adversaries/Uncategorized/Magnified One Rival Variant.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/attachments/portrait_Ezriah.webp",
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/attachments/map-1_varikev-market-square.webp",
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/attachments/ICON_shield_spiked.webp",
