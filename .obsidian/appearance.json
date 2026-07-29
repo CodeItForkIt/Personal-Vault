@@ -2,7 +2,8 @@
   "cssTheme": "Cupertino",
   "enabledCssSnippets": [
     "hide-frontmatter-embed",
-    "metadata-icon-auto-gen"
+    "metadata-icon-auto-gen",
+    "noctalia"
   ],
   "translucency": true,
   "accentColor": "#1079f7"
