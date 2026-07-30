@@ -1,0 +1,130 @@
+{
+  "nodes": [
+    {
+      "id": "NBpy8OWDI5mXseFS",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Stoneward/Talents/Peakspren Bond/Cohesive Teamwork.md",
+      "x": 2141.333333333333,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "KKgTN0X2KLvc5rUl",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Stoneward/Talents/Peakspren Bond/Second Ideal Stoneward.md",
+      "x": 730.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "9iuljwysDGnmjWeD",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Stoneward/Talents/Peakspren Bond/Third Ideal Stoneward.md",
+      "x": 730.0,
+      "y": 729.9999999999999,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "ekV3ygLuRzRCd5ur",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Stoneward/Talents/Peakspren Bond/Fourth Ideal Stoneward.md",
+      "x": 1095.0,
+      "y": 1969.9999999999998,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "FHDoYNdquHTEULaI",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Stoneward/Talents/Peakspren Bond/Take Squire Stoneward.md",
+      "x": 1460.0,
+      "y": 1459.9999999999998,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "xoF3nk36sF5WdBj6",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Stoneward/Talents/Peakspren Bond/Wound Regeneration.md",
+      "x": 2190.0,
+      "y": 1459.9999999999998,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "u7eMQDtrQPNHKr6A",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Stoneward/Talents/Peakspren Bond/Invested.md",
+      "x": 2141.333333333333,
+      "y": 729.9999999999999,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "aaSMhFOeFJnbbOyi",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Stoneward/Talents/Peakspren Bond/Deepened Bond.md",
+      "x": 0.0,
+      "y": 1459.9999999999998,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "banner",
+      "type": "group",
+      "x": 0.0,
+      "y": -300.0,
+      "width": 500,
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/energy-stream-link-white.webp",
+      "backgroundStyle": "ratio"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "KKgTN0X2KLvc5rUl",
+      "fromSide": "bottom",
+      "toNode": "9iuljwysDGnmjWeD",
+      "toSide": "top"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "9iuljwysDGnmjWeD",
+      "fromSide": "bottom",
+      "toNode": "ekV3ygLuRzRCd5ur",
+      "toSide": "top"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "9iuljwysDGnmjWeD",
+      "fromSide": "bottom",
+      "toNode": "FHDoYNdquHTEULaI",
+      "toSide": "top"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "u7eMQDtrQPNHKr6A",
+      "fromSide": "bottom",
+      "toNode": "xoF3nk36sF5WdBj6",
+      "toSide": "top"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "NBpy8OWDI5mXseFS",
+      "fromSide": "bottom",
+      "toNode": "u7eMQDtrQPNHKr6A",
+      "toSide": "top"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "9iuljwysDGnmjWeD",
+      "fromSide": "bottom",
+      "toNode": "aaSMhFOeFJnbbOyi",
+      "toSide": "top"
+    }
+  ]
+}

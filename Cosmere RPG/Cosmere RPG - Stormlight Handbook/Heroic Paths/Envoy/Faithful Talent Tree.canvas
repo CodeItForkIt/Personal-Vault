@@ -1,0 +1,137 @@
+{
+  "nodes": [
+    {
+      "id": "adEpbs3dLCofv3Qd",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Customary Garb.md",
+      "x": 0.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "woz19OBMJTN3Mk68",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Devoted Presence.md",
+      "x": 0.0,
+      "y": 730.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "EygjZhSTxuvrFFgj",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Stalwart Presence.md",
+      "x": 730.0,
+      "y": 1750.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "UnlukLNcTwx8bJ2L",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Sage Counsel.md",
+      "x": 0.0,
+      "y": 2260.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "ox088B6gAjOIpL6O",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Inspired Zeal.md",
+      "x": 730.0,
+      "y": 2260.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "OAcKpY594CtiTLrZ",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Applied Motivation.md",
+      "x": 730.0,
+      "y": 1240.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "AiGOPprq9Wm8KE6W",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Galvanize.md",
+      "x": 730.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "yvY2zQYKWq1yJ6Gs",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Composed.md",
+      "x": 1460.0,
+      "y": 730.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "banner",
+      "type": "group",
+      "x": 0.0,
+      "y": -300.0,
+      "width": 500,
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/cleric-grey.webp",
+      "backgroundStyle": "ratio"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "adEpbs3dLCofv3Qd",
+      "fromSide": "bottom",
+      "toNode": "woz19OBMJTN3Mk68",
+      "toSide": "top"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "woz19OBMJTN3Mk68",
+      "fromSide": "bottom",
+      "toNode": "EygjZhSTxuvrFFgj",
+      "toSide": "top"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "EygjZhSTxuvrFFgj",
+      "fromSide": "bottom",
+      "toNode": "UnlukLNcTwx8bJ2L",
+      "toSide": "top"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "EygjZhSTxuvrFFgj",
+      "fromSide": "bottom",
+      "toNode": "ox088B6gAjOIpL6O",
+      "toSide": "top"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "OAcKpY594CtiTLrZ",
+      "fromSide": "bottom",
+      "toNode": "ox088B6gAjOIpL6O",
+      "toSide": "top"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "AiGOPprq9Wm8KE6W",
+      "fromSide": "bottom",
+      "toNode": "OAcKpY594CtiTLrZ",
+      "toSide": "top"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "AiGOPprq9Wm8KE6W",
+      "fromSide": "bottom",
+      "toNode": "yvY2zQYKWq1yJ6Gs",
+      "toSide": "top"
+    }
+  ]
+}

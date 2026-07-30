@@ -1,0 +1,17 @@
+---
+title: "Speak the Fourth Ideal"
+type: "goal"
+module: "Cosmere RPG - Stormlight Handbook"
+category: "Dustbringer / Goals"
+tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "goal"]
+aliases: ["Speak the Fourth Ideal"]
+---
+![[wind-vortex-swirl-red.webp|64]]
+
+*You seek to become a full Knight Radiant by speaking the Fourth Ideal.*
+
+After you complete this goal, you gain the following reward:
+
+- You become **Empowered** until the end of that scene.
+
+- You can call a swarm of flamespren as [[Items/Armor/Shardplate Radiant|Shardplate (Radiant)]] (see chapter 7).

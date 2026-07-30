@@ -1,0 +1,154 @@
+{
+  "nodes": [
+    {
+      "id": "background",
+      "type": "group",
+      "x": -333.9498579492549,
+      "y": -220.0,
+      "width": 2402.89971589851,
+      "height": 3050.0,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Tension_Surge-glyph.svg",
+      "backgroundStyle": "ratio"
+    },
+    {
+      "id": "EjjqGl9JjfCIN1br",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Bodily Decay.md",
+      "x": 0.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "ROJTJgGcOWJNK5EK",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Eroding Escape.md",
+      "x": 1095.0,
+      "y": 0.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "Qk8md2KWOfkhwNAP",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Igniting Division.md",
+      "x": 0.0,
+      "y": 730.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "094acNXl6DFP9m5C",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Devastating Division.md",
+      "x": 0.0,
+      "y": 2190.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "GQSkai8JpmnzKsXa",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Gout of Flame.md",
+      "x": 0.0,
+      "y": 1460.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "ZT7bIbxjwdoAmXz5",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Spark Sending.md",
+      "x": 1095.0,
+      "y": 730.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "96rEXUoXeP4ZPrdR",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Unleashed Entropy.md",
+      "x": 1095.0,
+      "y": 2190.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "ePs6HrIxbRCFYmR0",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Inescapable Spark.md",
+      "x": 1095.0,
+      "y": 1460.0,
+      "width": 640,
+      "height": 420
+    },
+    {
+      "id": "banner",
+      "type": "group",
+      "x": 0.0,
+      "y": -300.0,
+      "width": 500,
+      "height": 260,
+      "background": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/Tension_Surge-glyph.svg",
+      "backgroundStyle": "ratio"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "EjjqGl9JjfCIN1br",
+      "fromSide": "bottom",
+      "toNode": "Qk8md2KWOfkhwNAP",
+      "toSide": "top"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "GQSkai8JpmnzKsXa",
+      "fromSide": "bottom",
+      "toNode": "094acNXl6DFP9m5C",
+      "toSide": "top"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "Qk8md2KWOfkhwNAP",
+      "fromSide": "bottom",
+      "toNode": "GQSkai8JpmnzKsXa",
+      "toSide": "top"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "ROJTJgGcOWJNK5EK",
+      "fromSide": "bottom",
+      "toNode": "ZT7bIbxjwdoAmXz5",
+      "toSide": "top"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "EjjqGl9JjfCIN1br",
+      "fromSide": "bottom",
+      "toNode": "ZT7bIbxjwdoAmXz5",
+      "toSide": "top"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "GQSkai8JpmnzKsXa",
+      "fromSide": "bottom",
+      "toNode": "96rEXUoXeP4ZPrdR",
+      "toSide": "top"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "ePs6HrIxbRCFYmR0",
+      "fromSide": "bottom",
+      "toNode": "96rEXUoXeP4ZPrdR",
+      "toSide": "top"
+    },
+    {
+      "id": "edge7",
+      "fromNode": "ZT7bIbxjwdoAmXz5",
+      "fromSide": "bottom",
+      "toNode": "ePs6HrIxbRCFYmR0",
+      "toSide": "top"
+    }
+  ]
+}
