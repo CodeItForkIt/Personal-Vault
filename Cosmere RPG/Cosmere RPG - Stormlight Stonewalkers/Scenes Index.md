@@ -1,0 +1,28 @@
+# Scenes
+
+- 1.1 Stuck in the Crem
+- 1.2 The Caravan
+- 1.3 Battle With Veth
+- Cover Art
+- Stonewalkers Landing
+- 2.3 Monastery Interior
+- 2.1 Kholin Warcamp
+- 2.2 Temple Complex
+- 3.2 Canyon Floor
+- 3.3 Rathalas Prison
+- 3.4-3.5 The Hall and the Platform
+- 3.1 City of Rathalas
+- Maze of Bridges
+- 4.1 Hexi Trenches
+- 4.2 Cultivation's Valley
+- The Valley
+- 5.1 Battle for Ashiqqil Keep
+- Emuli Fortress
+- 6.1 Resistance Hideout
+- 6.2 Dirgehollow Well
+- Fabrial Survey
+- Rall Elorim
+- Within Rall Elorim
+- 7.1 Outer and Inner Vaults
+- 7.2 Pailiah’s Vault
+- The Herald Herself
