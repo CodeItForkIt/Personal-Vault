@@ -346,9 +346,8 @@ When triggered:
 
 ### Navigating Rathalas
 
-|              |                              |                        |
-|--------------|------------------------------|------------------------|
 | **Entrance** | **Leads To**                 | **Connects To**        |
+|--------------|------------------------------|------------------------|
 | A1           | Carpenters Yard (A4)         | A1, A3, A6             |
 | A2           | Devotary (A5)                | A2, A6, A7, A8         |
 | A3           | Maze of Bridges (A6)         | A3, A4, A5, A7         |
@@ -393,12 +392,14 @@ Climbing down the cliff into A4 (**DC 13 Athletics**).
 <colgroup>
 <col style="width: 100%" />
 </colgroup>
-<tbody>
+<thead>
 <tr>
 <th><h4 id="special-rule-sticky-fingers"><strong>Special Rule: Sticky Fingers</strong></h4>
 <p>PCs can examine crates of stolen goods (<strong>DC 15 Thievery</strong>), but doing so increases the number of required successes for the endeavor by 1. This is a good place to raise the stakes. On a success, the PC swipes one item from the Stolen Goods table.</p></th>
 </tr>
-&#10;</tbody>
+</thead>
+<tbody>
+</tbody>
 </table>
 
 #### A6: Maze of Bridges
@@ -865,9 +866,8 @@ Ryel provides information about the vault if caught.
 
 PCs can reach the entry hall (Y4) through one of 3 locations.
 
-|                         |                       |
-|-------------------------|-----------------------|
 | **Entrance**            | **Leads to Y4 By...** |
+|-------------------------|-----------------------|
 | Y1: Meditation Room     | Main Hallway          |
 | Y2: Flooded Crypt       | Underwater passageway |
 | Y3: Collapsed Mausoleum | Collapsed Tunnel      |

@@ -10,9 +10,8 @@ aliases: ["Appendix D: Tables"]
 
 ## Sphere Values
 
-|                          |      |      |       |
-|--------------------------|------|------|-------|
 | Gemestone                | Chip | Mark | Broam |
+|--------------------------|------|------|-------|
 | Diamond                  | 0.2  | 1    | 4     |
 | Garnet, heliodor, topaz  | 1    | 5    | 20    |
 | Ruby, smokestone, zircon | 2    | 10   | 40    |
@@ -33,9 +32,8 @@ aliases: ["Appendix D: Tables"]
 
 ## Herdazian Words
 
-|  |  |
-|----|----|
 | Herdazian | Meaning |
+|----|----|
 | Calah | Mink |
 | Chalispo | Old friend |
 | Chorlano | Someone who always causes trouble by trying to make things better |
@@ -58,9 +56,8 @@ aliases: ["Appendix D: Tables"]
 
 ## Rhythms of Roshar
 
-|                 |                 |
-|-----------------|-----------------|
 | Standard Rhythm | Rhythm of Power |
+|-----------------|-----------------|
 | Amusement       | Ridicule        |
 | Anticipation    | Craving         |
 | Anxiety         | Agony           |
@@ -84,9 +81,8 @@ aliases: ["Appendix D: Tables"]
 
 ## Shards of Adonalsium
 
-|              |                   |           |
-|--------------|-------------------|-----------|
 | Shard        | Original Vessel   | World     |
+|--------------|-------------------|-----------|
 | Ambition\*   | Uli Da            | Threnody  |
 | Autonomy     | Bavadin           | Taldain   |
 | Cultivation  | Koravellium Avast | Roshar    |
@@ -108,101 +104,23 @@ aliases: ["Appendix D: Tables"]
 
 ## Heralds
 
-<table class="sl-table">
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
-<tbody>
-<tr>
-<th><p>Name</p></th>
-<th><p>Order</p></th>
-<th><p>Vorin</p>
-<p>Number</p></th>
-<th><p>Essence</p></th>
-<th><p>Attributes</p></th>
-</tr>
-&#10;<tr>
-<td><p>Jezrien</p></td>
-<td><p>Windrunners</p></td>
-<td><p>1</p></td>
-<td><p>Zephyr</p></td>
-<td><p>Protecting, Leading</p></td>
-</tr>
-<tr>
-<td><p>Nale</p></td>
-<td><p>Skybreakers</p></td>
-<td><p>2</p></td>
-<td><p>Vapor</p></td>
-<td><p>Just, Confident</p></td>
-</tr>
-<tr>
-<td><p>Chanaranach</p></td>
-<td><p>Dustbringers</p></td>
-<td><p>3</p></td>
-<td><p>Spark</p></td>
-<td><p>Brave, Obedient</p></td>
-</tr>
-<tr>
-<td><p>Vedel</p></td>
-<td><p>Edgedancers</p></td>
-<td><p>4</p></td>
-<td><p>Lucentia (Light)</p></td>
-<td><p>Loving, Healing</p></td>
-</tr>
-<tr>
-<td><p>Pailiah</p></td>
-<td><p>Truthwatchers</p></td>
-<td><p>5</p></td>
-<td><p>Pulp</p></td>
-<td><p>Learned, Giving</p></td>
-</tr>
-<tr>
-<td><p>Shalash</p></td>
-<td><p>Lightweavers</p></td>
-<td><p>6</p></td>
-<td><p>Blood</p></td>
-<td><p>Creative, Honest</p></td>
-</tr>
-<tr>
-<td><p>Battar</p></td>
-<td><p>Elsecallers</p></td>
-<td><p>7</p></td>
-<td><p>Tallow</p></td>
-<td><p>Wise, Careful</p></td>
-</tr>
-<tr>
-<td><p>Kalak</p></td>
-<td><p>Willshapers</p></td>
-<td><p>8</p></td>
-<td><p>Foil</p></td>
-<td><p>Resolute, Builder</p></td>
-</tr>
-<tr>
-<td><p>Talenel</p></td>
-<td><p>Stonewards</p></td>
-<td><p>9</p></td>
-<td><p>Talus</p></td>
-<td><p>Dependable,Resourceful</p></td>
-</tr>
-<tr>
-<td><p>Ishar</p></td>
-<td><p>Bondsmiths</p></td>
-<td><p>10</p></td>
-<td><p>Sinew</p></td>
-<td><p>Pious, Guiding</p></td>
-</tr>
-</tbody>
-</table>
+| Name | Order | Vorin<br>Number | Essence | Attributes |
+|----|----|----|----|----|
+| Jezrien | Windrunners | 1 | Zephyr | Protecting, Leading |
+| Nale | Skybreakers | 2 | Vapor | Just, Confident |
+| Chanaranach | Dustbringers | 3 | Spark | Brave, Obedient |
+| Vedel | Edgedancers | 4 | Lucentia (Light) | Loving, Healing |
+| Pailiah | Truthwatchers | 5 | Pulp | Learned, Giving |
+| Shalash | Lightweavers | 6 | Blood | Creative, Honest |
+| Battar | Elsecallers | 7 | Tallow | Wise, Careful |
+| Kalak | Willshapers | 8 | Foil | Resolute, Builder |
+| Talenel | Stonewards | 9 | Talus | Dependable,Resourceful |
+| Ishar | Bondsmiths | 10 | Sinew | Pious, Guiding |
 
 ## Fused Brands
 
-|            |                      |                |
-|------------|----------------------|----------------|
 | Brand      | Meaning              | Surge          |
+|------------|----------------------|----------------|
 | Fannahn-im | The Altered Ones     | Transformation |
 | Makay-im   | The Deepest Ones     | Cohesion       |
 | Tatak-im   | The Devastating Ones | Division       |
@@ -215,9 +133,8 @@ aliases: ["Appendix D: Tables"]
 
 ## Coalition Patron Advantages
 
-|      |                                                 |                |
-|------|-------------------------------------------------|----------------|
 | Tier | Tests                                           | Bonus          |
+|------|-------------------------------------------------|----------------|
 | 1    | Persuasion                                      | One advantage  |
 | 2    | Intimidation, Persuasion                        | One advantage  |
 | 3    | Intimidation, Persuasion, Leadership            | Two advantages |
@@ -225,18 +142,16 @@ aliases: ["Appendix D: Tables"]
 
 ## Windrunner Flight Frequency
 
-|      |                |
-|------|----------------|
 | Tier | Frequency      |
+|------|----------------|
 | 1    | Once per month |
 | 2    | Once per week  |
 | 3+   | Unlimited      |
 
 ## Opposed Lightweaving Tests
 
-|      |         |
-|------|---------|
 | Tier | Modifer |
+|------|---------|
 | 1    | +4      |
 | 2    | +6      |
 | 3    | +8      |
@@ -244,9 +159,8 @@ aliases: ["Appendix D: Tables"]
 
 ## Venli Patron Advantages
 
-|      |                                                 |                |
-|------|-------------------------------------------------|----------------|
 | Tier | Tests                                           | Bonus          |
+|------|-------------------------------------------------|----------------|
 | 1    | Persuasion                                      | One advantage  |
 | 2    | Intimidation, Persuasion                        | One advantage  |
 | 3    | Intimidation, Persuasion, Leadership            | Two advantages |
@@ -254,18 +168,16 @@ aliases: ["Appendix D: Tables"]
 
 ## Skybreaker Flight Frequency
 
-|      |                |
-|------|----------------|
 | Tier | Frequency      |
+|------|----------------|
 | 1    | Once per month |
 | 2    | Once per week  |
 | 3+   | Unlimited      |
 
 ## Occupied Alethkar Scenes
 
-|  |  |
-|----|----|
 | d6 | Scene |
+|----|----|
 | 1 | A Windrunner flies by, pursued by two Heavenly Ones, and she drops something near you. |
 | 2 | A Devastating One gleefully burns down human buildings. |
 | 3 | A merchant claims to have a fabrial that can identify Masked Ones in disguise. |
@@ -275,9 +187,8 @@ aliases: ["Appendix D: Tables"]
 
 ## Rall Elorim Scenes
 
-|  |  |
-|----|----|
 | d6 | Scene |
+|----|----|
 | 1 | A colony of freshwater khornaks launches an attack from their canal nest. |
 | 2 | Members of the Iriali resistance attempt to confiscate your weapons. |
 | 3 | An Iriali sculptor asks passersby for a personal touch on her new prayer statue. |
@@ -287,9 +198,8 @@ aliases: ["Appendix D: Tables"]
 
 ## Shattered Plains Scenes
 
-|  |  |
-|----|----|
 | d6 | Scene |
+|----|----|
 | 1 | The ground shakes beneath the footfalls of a chasmfiend. Time is short before the beast arrives. |
 | 2 | Alethi deserters cross you on the plateaus. They press you for food, weapons, and shelter—at spearpoint if necessary. |
 | 3 | A team of Ghostblood researchers and spies are collecting the remains of Radiants and Fused from the chasms. |
@@ -299,9 +209,8 @@ aliases: ["Appendix D: Tables"]
 
 ## Urithiru Scenes
 
-|  |  |
-|----|----|
 | d6 | Scene |
+|----|----|
 | 1 | Several guards eye a chouta seller who has erected a food stall in an improper location. |
 | 2 | A scholar bends over a metal plate in the stone, trying to pry out its embedded ruby gemstones without damaging them. |
 | 3 | Two Radiants argue about the Recreance, then one of them summons their Shardblade. |
@@ -311,9 +220,8 @@ aliases: ["Appendix D: Tables"]
 
 ## Warcamp Scenes
 
-|  |  |
-|----|----|
 | d6 | Scene |
+|----|----|
 | 1 | Scavenging for discarded food in a back alley, a pack of feral axehounds strike. |
 | 2 | An escaped bridgeman tries to pickpocket something valuable, then flees. |
 | 3 | A drunken would-be duelist demands restitution for an imagined slight. |
@@ -323,9 +231,8 @@ aliases: ["Appendix D: Tables"]
 
 ## Manifested Bead Size
 
-|       |                      |
-|-------|----------------------|
 | Ranks | Size                 |
+|-------|----------------------|
 | 1     | Small (2.5 feet)     |
 | 2     | Medium (5 feet)      |
 | 3     | Large (10 feet)      |
@@ -334,9 +241,8 @@ aliases: ["Appendix D: Tables"]
 
 ## Bead Structure Size
 
-|       |                      |
-|-------|----------------------|
 | Ranks | Size                 |
+|-------|----------------------|
 | 1     | Small (2.5 feet)     |
 | 2     | Medium (5 feet)      |
 | 3     | Large (10 feet)      |
@@ -345,9 +251,8 @@ aliases: ["Appendix D: Tables"]
 
 ## Shadesmar Opportunities and Complications
 
-|  |  |
-|----|----|
 | Opportunities | Complications |
+|----|----|
 | The weather becomes more energetic, revitalizing the spren in your group and boosting their mood. | Your emotions attract a spren. It might not be dangerous, but it certainly starts getting in the way and disrupting your activities. |
 | You spot a trader ship on the sea of beads that might offer supplies, transport, or insight. | A ship in the Physical Realm passes through the area you're standing in. Flames dance around you, distracting from your task. |
 | A deadeye in your group suddenly reacts to something, giving a key piece of insight. | A deadeye in your group begins screaming at the worst possible time. |
@@ -356,9 +261,8 @@ aliases: ["Appendix D: Tables"]
 
 ## Shadesmar Scenes
 
-|       |               |
-|-------|---------------|
 | d20   | Scene         |
+|-------|---------------|
 | 1–10  | No scene      |
 | 11–12 | Bandits       |
 | 13–14 | Drowning      |
@@ -369,9 +273,8 @@ aliases: ["Appendix D: Tables"]
 
 ## City Scenes
 
-|  |  |
-|----|----|
 | d6 | Scene |
+|----|----|
 | 1 | The PCs are accosted by a city **guard** who claims the PCs are suspects in a murder investigation. |
 | 2 | The PCs are offered an audience with a local **brightlord** who could become their patron. |
 | 3 | The PCs witness a **Skybreaker of the Second Ideal** grappling someone who is crying out for help. |
@@ -381,9 +284,8 @@ aliases: ["Appendix D: Tables"]
 
 ## Wilderness Scenes
 
-|  |  |
-|----|----|
 | d4 | Scene |
+|----|----|
 | 1 | The characters encounter a pack of wild **axehounds**. |
 | 2 | The characters come across a herd of wild **Ryshadium**. |
 | 3 | An unexpected highstorm hits, and as the characters seek shelter, they enter the territory of a **whitespine**. |
@@ -391,9 +293,8 @@ aliases: ["Appendix D: Tables"]
 
 ## Ocean Scenes
 
-|  |  |
-|----|----|
 | d4 | Scene |
+|----|----|
 | 1 | While PCs are ashore during a break or sheltering from a highstorm, hungry **khornaks** surround the party’s boat. |
 | 2 | A sudden and unexpected storm besets the ship. Amid the winds and rains, swooping figures begin plucking crew members off the rigging. **Heavenly Ones** are concealing themselves in the storm and attacking the ship. |
 | 3 | The party sails toward what appears to be a friendly Thaylen ship, only to realize it has been seized by Fused. Now the only choices are to flee or face a ship filled with singer **spear infantry** and **archers**. |
@@ -401,9 +302,8 @@ aliases: ["Appendix D: Tables"]
 
 ## Personal Items
 
-|  |  |
-|----|----|
 | d6 | Personal Item |
+|----|----|
 | 1 | A hidden knife |
 | 2 | `2d10` diamond chips (commoner), marks (expert),or broams (socialite) in a small cloth bag |
 | 3 | A map scratched on a flattened cremling shell |
@@ -413,9 +313,8 @@ aliases: ["Appendix D: Tables"]
 
 ## Soulcasting Essences
 
-|            |                            |
-|------------|----------------------------|
 | Gemstone   | Essence                    |
+|------------|----------------------------|
 | Sapphire   | Translucent gas and air    |
 | Smokestone | Opaque gas, smoke, and fog |
 | Ruby       | Fire                       |
