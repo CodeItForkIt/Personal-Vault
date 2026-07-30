@@ -1,3 +1,0 @@
-# Scenes
-
-- Varikev Market Square
