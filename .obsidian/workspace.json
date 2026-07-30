@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Animal Companions/Animal/Tier 1/Skyeel.md",
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/05 - Ch 4 Heroic Paths.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skyeel"
+              "title": "05 - Ch 4 Heroic Paths"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/05 - Ch 4 Heroic Paths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 05 - Ch 4 Heroic Paths"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Animal Companions/Animal/Tier 1/Skyeel.md",
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/05 - Ch 4 Heroic Paths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Skyeel"
+              "title": "Outgoing links from 05 - Ch 4 Heroic Paths"
             }
           },
           {
@@ -173,8 +174,7 @@
               "title": "advanced-tables-toolbar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,6 +197,18 @@
   },
   "active": "64fe6c574c69b535",
   "lastOpenFiles": [
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/04 - Ch 3 Character Statistics.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg062_Azish_leader_Joel Holtzman.webp",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg065_Thievery_Svetlana Kostina.webp",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/awl-steel-brown.webp",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/wave-halt-stop.webp",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/crosshair-ringed-gray.webp",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/diplomacy-unity-alliance.webp",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/alcohol-jar-spirits-gray.webp",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/alcohol-beer-stein-wooden-brown.webp",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/spirit-mischief-fire-ice-blue.webp",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/crown-gold-blue.webp",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Animal Companions/Animal/Tier 1/Skyeel.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Animal Companions/Animal/Tier 1/Sarpenth.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Animal Companions/Animal/Tier 1/Mink.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Animal Companions/Animal/Tier 1/Poison Cremling.md",
@@ -221,30 +233,18 @@
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Actors Index.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Actors/Uncategorized/Selik.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Actors/Uncategorized/Ezriah.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Actors/Uncategorized/Erraniv.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Actors/Uncategorized/Commoner.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Actors/Uncategorized",
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Actors",
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Adversaries/Uncategorized",
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Adversaries",
-    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/attachments/ICON_shield_spiked.webp",
-    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/attachments/ICON_lance_raysium.webp",
-    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/attachments/ICON_ballista_hand.webp",
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Items/Weapons of Wind and Truth",
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Items/Uncategorized",
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Items",
-    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/attachments/ICON_honorblade_jezrien.webp",
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Journal",
-    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/attachments/map-1_varikev-market-square.webp",
-    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/attachments/portrait_Ezriah.webp",
-    "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/attachments/Ezriah_VALERIA CASALE.webp",
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/attachments",
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Tension Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Cohesion Talents Talent Tree.canvas",
-    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/attachments/buckler-wooden-boss-brown.webp",
-    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/attachments/barrier-ice-shield.webp",
-    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/attachments/orb-shadow-blue.webp",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Progression Talents/Progression Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Transportation Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Division Talents/Division Talents Talent Tree.canvas",
