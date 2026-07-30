@@ -10,9 +10,8 @@ aliases: ["Appendix C: Tables"]
 
 ## Heralds
 
-|  |  |  |  |  |  |
-|----|----|----|----|----|----|
 | Name | Order | Vorin Number | Surges | Essence | Attributes |
+|----|----|----|----|----|----|
 | Jezrien | Windrunners | 1 | Adhesion, Gravitation | Zephyr | Protecting, Leading |
 | Nale | Skybreakers | 2 | Gravitation, Division | Vapor | Just, Confident |
 | Chanaranach | Dustbringers | 3 | Division, Abrasion | Spark | Brave, Obedient |
@@ -26,9 +25,8 @@ aliases: ["Appendix C: Tables"]
 
 ## Minor Characters
 
-|  |  |  |  |  |
-|----|----|----|----|----|
 | Name | Pronunciation | Chapter | Pronouns | Description |
+|----|----|----|----|----|
 | [[Actors/Adversaries/Named/Ch. 5/Ashil\|Ashil]] | AH-shill | 5 | he/him | A new recruit for the Tukari army; Sesemalex Guest Register host. |
 | [[Actors/Adversaries/Named/Ch. 4/Axoq\|Axoq]] | AX-ock | 4 | he/him | A nostalgic Emuli medic captured by Ylt’s rear guard. |
 | [[Actors/Adversaries/Named/Ch. 5/Batazi\|Batazi]] | buh-TAH-zee | 5 | she/her | Good-natured quartermaster of the Measured Response. |
@@ -93,9 +91,8 @@ aliases: ["Appendix C: Tables"]
 
 ## Pronunciation Guide
 
-|                |                      |
-|----------------|----------------------|
 | Name           | Pronunciation        |
+|----------------|----------------------|
 | Alethi         | uh-LETH-ee           |
 | Alethkar       | AL-eth-kar           |
 | ardentia       | ar-DEN-tee-ah        |
@@ -138,9 +135,8 @@ aliases: ["Appendix C: Tables"]
 
 ## Character Backstory Ideas
 
-|  |  |  |  |
-|----|----|----|----|
 | Suggested Starting Paths | Reason | Questions | Suggested Goal |
+|----|----|----|----|
 | Agent or Hunter | Taszo mentioned his companions were killed by agents in green robes, their faces painted with strange glyphs. You can’t ignore a mystery like this, so you agreed to help him. | Why do you take a personal interest in the mysterious circumstances of the Shin monks’ assassination? | Solve the mystery of who killed Taszo’s companions and why. |
 | Envoy or Scholar | You’re interested in the people, cultures, or religions of the world. Perhaps knowledge beyond the ways of your home country will help you make a difference on the world stage. Given the insularity of the Shin, Taszo is one of the few Shin you’ve met, and you’ve agreed to aid him and explain local Alethi culture. | How will learning more about the world and its people help you? Why do the Shin matter particularly to you? | Learn about the Shin Stone Shamans. |
 | Agent or Leader | For the last year, you’ve been plagued by dreams of a dark storm, larger and more terrible than any highstorm. In the eye of the storm is a curly-haired Shin monk. A week ago, you met the monk from your dreams. He was looking for traveling companions, so you joined. | Why can’t you ignore these strange dreams? Have you shared your dreams with anyone, or do you keep them a secret? | Discover the meaning of your dreams. |
@@ -150,9 +146,8 @@ aliases: ["Appendix C: Tables"]
 
 ## Caravan Gossip
 
-|  |  |
-|----|----|
 | d4 | Gossip |
+|----|----|
 | 1 | The Alethi sergeant Ellar acts like he’s in charge, but he answers to Bordin, one of the guards by the locked wagon. |
 | 2 | The soldiers don’t know what is in the locked wagon;only Bordin does. |
 | 3 | The Alethi caravan was attacked by bandits two daysago. A few soldiers were wounded by crossbow bolts,but none were killed. |
@@ -160,33 +155,29 @@ aliases: ["Appendix C: Tables"]
 
 ## Wagon Opportunities and Complications
 
-|  |  |
-|----|----|
 | Result | Example |
+|----|----|
 | Opportunity | The PC notices that the crem pit was intentionally created. If they already knew this, they instead notice bandit footprints and sense the direction the bandit ambush will come from. |
 | Complication | The PC gets stuck in the crem puddle (see [[Journal/14 - 01 Honor Beyond the Storm#Ambush on the Road\|Ambush on the Road]]). |
 
 ## Road Ambush Opportunities and Complications
 
-|  |  |
-|----|----|
 | Result | Example |
+|----|----|
 | Opportunity | If a bandit is within 5 feet of the crem puddle, they fall in and become Restrained. Otherwise, the rain-slicked ground causes one of the bandits to fall Prone. |
 | Complication | Rebin and Hana decide to make a run for it, and one of the bandits pursues them. |
 
 ## Caravan Ambush Opportunities and Complications
 
-|  |  |
-|----|----|
 | Result | Example |
+|----|----|
 | Opportunity | An Alethi soldier arrives and thrusts his spear into one of the bandits fighting the PCs. That bandit takes 5 (`1d6 + 2`) damage. |
 | Complication | A bandit breaks down the door of Nen’s carriage, dragging him out by the throat. |
 
 ## Highstorm Effects
 
-|  |  |
-|----|----|
 | d4 | Effect |
+|----|----|
 | 1 | A strong gust of wind hits. Succeed on a DC 12 Agility test or fall Prone. |
 | 2 | A sheet of icy rain falls. Succeed on a DC 10 Discipline testor your ranged attacks gain a disadvantage until the end ofyour next turn. |
 | 3 | Lightning flashes dangerously close. Succeed on a DC 10Discipline test or gain the Disoriented condition until theend of your next turn. |
@@ -194,9 +185,8 @@ aliases: ["Appendix C: Tables"]
 
 ## Po’ahu’s Reactions
 
-|     |                                                           |
-|-----|-----------------------------------------------------------|
 | d4  | Reaction                                                  |
+|-----|-----------------------------------------------------------|
 | 1   | The rock emits the sound of grinding from within.         |
 | 2   | The rock gently vibrates.                                 |
 | 3   | The rock tumbles without being pushed.                    |
@@ -204,9 +194,8 @@ aliases: ["Appendix C: Tables"]
 
 ## Warcamp Scenes
 
-|  |  |  |  |
-|----|----|----|----|
 | Scene | Scene Summary | Active Hook | Passive Hook |
+|----|----|----|----|
 | Chasm Offensive | Sergeant Ellar is recruiting for an expedition to track down Parshendi scouts. | If the PCs ask Bordin for help finding Liss or information on the glyphs, he first asks them to help him with Ellar. | Bordin seeks the PCs out for a job. |
 | Guilty Spheres | A seedy gambling den is the perfect place to win spheres and information. | If the PCs seek information through unofficial channels (or ask the merchants in [[Journal/14 - 01 Honor Beyond the Storm\|chapter 1]]), they’re pointed to the Red Rockbud gambling den. | After the PCs have earned a reputation for themselves by finishing two other scenes, they’re invited to the Red Rockbud. |
 | Lost Radiants | Bickering ardents reveal the meaning of the bandits’ strange glyphs. | If the PCs ask about the bandits or their strange glyphs, they’re pointed to the ardents at the Devotary of the Mind. | Shansan seeks out the PCs when they rest, as the ardent has heard a rumor about the bandits’ strange glyphs. |
@@ -216,41 +205,36 @@ aliases: ["Appendix C: Tables"]
 
 ## Gambling Opportunities and Complications
 
-|  |  |
-|----|----|
 | Result | Example |
+|----|----|
 | Opportunity | Noises from the den draw the attention of a disapproving ardent (**[[Actors/Adversaries/Civilian/Expert\|expert]]**), splitting Nel’s attention. |
 | Complication | **[[Actors/Adversaries/Named/Ch. 2/Lirdan\|Lirdan]]** complains loudly. Succeed on a DC 14 Discipline test or lose 1 focus. |
 
 ## Whitespine Opportunities and Complications
 
-|  |  |
-|----|----|
 | Result | Example |
+|----|----|
 | Opportunity | A whitespine finds a morsel of food near or inside the open wagon, becoming distracted and moving toward it. |
 | Complication | A whitespine breaks the cage of a starved **[[Actors/Adversaries/Animal/Axehound\|axehound]]**, which joins the fray. |
 
 ## Bettani Opportunities and Complications
 
-|  |  |
-|----|----|
 | Result | Example |
+|----|----|
 | Opportunity | There are enough spare fabrial parts at Bettani’s bunker or the Sebarial market to make a new spanreed pair. |
 | Complication | The characters spot a rival messenger (commoner) about to reach Sebarial’s market first. |
 
 ## Vedolin Opportunities and Complications
 
-|  |  |
-|----|----|
 | Result | Example |
+|----|----|
 | Opportunity | Vedolin trips on a bucket of slop and drops his knife. |
 | Complication | A heavy-laden cart loses its supports after being shoved. It starts rolling toward an unsuspecting crowd. |
 
 ## Monastery Opportunities and Complications
 
-|  |  |
-|----|----|
 | Result | Example |
+|----|----|
 | Opportunity | A captive patient escapes their cell, distracting the ardents and guards. |
 | Opportunity | An ardent has left a set of keys or tools in easy reach. |
 | Complication | A Sons of Honor agent (**[[Actors/Adversaries/Thief\|thief]]**) is infiltrating the monastery at the same time and isn’t happy about sharing the shadows. |
@@ -258,17 +242,15 @@ aliases: ["Appendix C: Tables"]
 
 ## Ubo Opportunities and Complications
 
-|  |  |
-|----|----|
 | Result | Example |
+|----|----|
 | Opportunity | Ubo covers for the PCs. Reduce the Bandits on Alert event by 1. |
 | Complication | A **zealot** approaches and questions the PCs about who recruited them and whether they’re loyal to Ylt. |
 
 ## Stolen Goods
 
-|  |  |
-|----|----|
 | d4 | Item |
+|----|----|
 | 1 | Finely made ardent robes worth 75 marks. |
 | 2 | A book about the Azish Empire worth 30 marks. |
 | 3 | Two perfume vials worth 40 marks anda ***vial of*** ***effectual poison*** (1 dose). |
@@ -276,42 +258,37 @@ aliases: ["Appendix C: Tables"]
 
 ## Devotary Opportunities and Complications
 
-|  |  |
-|----|----|
 | Result | Example |
+|----|----|
 | Opportunity | The PCs overhear a useful detail about Rathalas. This could be that Ylt has a Shardblade, that Teryn is locked up in the prison, or that Kaiana’s loyalty seems to be wavering. |
 | Complication | Nadari notices something suspicious and investigates. The next test is an opposed test against Nadari using relevant skills. |
 
 ## Bridges Opportunities and Complications
 
-|  |  |
-|----|----|
 | Result | Example |
+|----|----|
 | Opportunity | An excellent vantage point reveals how most of the bridges connect. The party’s cognitive skill tests gain an advantage for the rest of the endeavor. |
 | Complication | A surface snaps behind the character, falling into the chasm below. Anyone behind them must find another route. |
 | Complication | The resonant trump of an axehound echoes throughthe chasm. Another axehound joins the pack that’s tracking the characters (see “[[Journal/03 - 03 The City That Smolders#Resolving the Endeavor\|Resolving the Endeavor]]”). |
 
 ## Eavesdropping Opportunities and Complications
 
-|  |  |
-|----|----|
 | Result | Example |
+|----|----|
 | Opportunity | The character overhears information they can use to influence Kaiana. During the upcoming conversation, they automatically succeed on one test of their choice. |
 | Complication | The character overhears information that raises doubts in their mind. They lose 1 focus. |
 
 ## Kaiana Opportunities and Complications
 
-|  |  |
-|----|----|
 | Result | Example |
+|----|----|
 | Opportunity | Teryn chimes in, expressing support for the PC’s point. Kaiana loses 1 focus. |
 | Complication | A bell tolls, signaling a change in guard shifts. Kaiana says the bandits will patrol this way soon. |
 
 ## Battle of the Hall Opportunities and Complications
 
-|  |  |
-|----|----|
 | Result | Example |
+|----|----|
 | Opportunity | A loyalist bandit cheers on the PC’s victory, inspiring the PC and giving them the Focused condition until the end of the PC’s next turn. |
 | Opportunity | An enemy sees the tide of battle turning and flees. |
 | Complication | Debris rains down from above. The character and each other character within 5 feet of them must succeed on a DC 15 Agility test (using the Avoid Danger reaction) or take 3 (`1d6`) impact damage. |
@@ -319,18 +296,16 @@ aliases: ["Appendix C: Tables"]
 
 ## Ship Integrity
 
-|        |                                  |          |
-|--------|----------------------------------|----------|
 | Damage | Ship State                       | Failures |
+|--------|----------------------------------|----------|
 | 30–44  | Minor repairs necessary.         | 1        |
 | 45–59  | Major structural works required. | 2        |
 | 60+    | Critical failure imminent.       | 3        |
 
 ## Everstorm Opportunities and Complications
 
-|  |  |
-|----|----|
 | Result | Example |
+|----|----|
 | Opportunity | The PC’s quick thinking saves an NPC’s life. During “Resolving the Endeavor,” one less NPC dies. |
 | Opportunity | The PC finds a moment of respite in the storm, becoming Focused for `1d4` rounds. |
 | Complication | Lightning strikes the ship right next to a character, and they’re Disoriented for the rest of the endeavor. |
@@ -338,17 +313,15 @@ aliases: ["Appendix C: Tables"]
 
 ## Hexi Trenches Opportunities and Complications
 
-|  |  |
-|----|----|
 | Result | Example |
+|----|----|
 | Opportunity | An opponent slips into the trenches, falling Prone and dropping their weapon. |
 | Complication | A rock disturbed during combat reveals itself as a hostile **[[Actors/Adversaries/Animal/Shellmite\|shellmite]]**. |
 
 ## Grove Opportunities and Complications
 
-|  |  |
-|----|----|
 | Result | Example |
+|----|----|
 | Opportunity | The highly Invested nature of the Valley allows you to Breathe Stormlight as **r**. |
 | Opportunity | Ylt acts in a way that Kaiana disapproves of. Kaiana loses 1 focus. |
 | Complication | The PC acts in a way that Kaiana disapproves of. Progress the Kaiana Aids Ylt event by 1. |
@@ -356,9 +329,8 @@ aliases: ["Appendix C: Tables"]
 
 ## Boons and Curses
 
-|  |  |  |
-|----|----|----|
 | Request | Boon | Curse |
+|----|----|----|
 | “Restore my fallen friend.” | A character returns to life who has been dead for no more than 1 minute and whose soul is willing. The character who requested this boon can always sense the direction to the revived character, no matter where they are in the world. | Both characters gain strange and distinctive “afterimages” that pull toward one another. Other characters can see these afterimages if they have the ability to sense spren in the Physical Realm, or if their Awareness is 5 or higher. |
 | “The ability to find Ylt.” | You gain the ability to sense the presence of and direction to all Heralds’ Honorblades. You can sense all ten at any distance, though you can’t distinguish between them. | While within 50 feet of an Honorblade that you’re not holding, you must spend 1 focus whenever you end your turn without having moved closer to the Honorblade. This effect continues after you’ve moved next to the Honorblade but aren’t holding it. |
 | “The power to defeat Ylt.” | Your muscles grow and expand, permanently increasing your Strength by 1. One of your hands becomes crystalline, increasing the size of your damage die for unarmed attacks (as if your Strength were 2 higher than it is). | Your new body isn’t as agile and dexterous as it once was. Permanently reduce your Speed by 1. |
@@ -374,9 +346,8 @@ aliases: ["Appendix C: Tables"]
 
 ## Tukari Opportunities and Complications
 
-|  |  |
-|----|----|
 | Result | Example |
+|----|----|
 | Opportunity | If at least two Emuli soldiers have fallen, another spear infantry breaks from the larger battle to join those carrying the battering ram. |
 | Opportunity | The Tukari forces need their arrows resupplied, so each can only use their Knife during their next turn. |
 | Opportunity or Complication | A wounded enemy or ally loses their conviction and flees. |
@@ -384,75 +355,66 @@ aliases: ["Appendix C: Tables"]
 
 ## Final Push Opportunities and Complications
 
-|  |  |
-|----|----|
 | Result | Example |
+|----|----|
 | Opportunity | A barrel of oil explodes atop the gatehouse before being used, harming the Tukari defenders instead. |
 | Complication | An Emuli soldier cowers before **[[Actors/Adversaries/Named/Ch. 5/Farriqa\|Farriqa]]**, too frightened to fight. |
 
 ## Lilinum’s Raid Opportunities and Complications
 
-|  |  |
-|----|----|
 | Result | Example |
+|----|----|
 | Opportunity | A broken piece of furniture acts as a bridge over an area of dangerous terrain. |
 | Complication | In the flurry of battle, the PC accidentally causes the fires to spread to an adjacent area with a 5-foot-radius. |
 
 ## Sabotage Opportunities and Complications
 
-|  |  |
-|----|----|
 | Result | Example |
+|----|----|
 | Opportunity | An alarm sounds elsewhere, luring singer patrols away. |
 | Complication | A chilling humanoid apparition appears in the shadows for a moment. The PC becomes Disoriented for the rest of the endeavor. |
 
 ## Dirgehollow Well Opportunities and Complications
 
-|  |  |
-|----|----|
 | Result | Example |
+|----|----|
 | Opportunity | Lilinum sees a shadow near one of the PCs and grows curious, speaking to it. Due to the distraction, she gains a disadvantage on attack rolls until the end of her next turn. |
 | Complication | A derelict wall crumbles over the character, dealing 3 (`1d6`) impact damage. |
 
 ## Sentry Opportunities and Complications
 
-|  |  |
-|----|----|
 | Result | Example |
+|----|----|
 | Opportunity | The PC gets close enough to **[[Actors/Adversaries/Named/Ch. 7/Ryel\|Ryel]]** to see her. She can’t make Stealth tests until she increases the distance. |
 | Complication | The PCs lose or break a weapon or piece of equipment. |
 
 ## Excavation Opportunities and Complications
 
-|  |  |
-|----|----|
 | Result | Example |
+|----|----|
 | Opportunity | Characters can squeeze through the uncleared tunnel with a successful DC 14 Agility test—but if they fail, they’re stuck. |
 | Complication | The ceiling collapses, dealing 10 (`3d6`) impact damage to each character in the room. |
 | Complication | Two of Ylt’s followers (Eyes of Pala agents) come to investigate from the entry hall ([[Journal/07 - 07 What Was and What Could Be\|Y4: Entry Hall]].) |
 
 ## Vault Opportunities and Complications
 
-|  |  |
-|----|----|
 | Result | Example |
+|----|----|
 | Opportunity | The PCs defy the fate Ylt has foreseen. Ylt loses 1 focus, and the next attack test against him gains an advantage. |
 | Opportunity or Complication | An errant shot hits the ropes of the greatshell carapace hanging overhead, and it partially collapses. Each character below the falling carapace must succeed on a DC 15 Agility test (using the Avoid Danger reaction) or take 14 (`4d6`) impact damage and become Restrained. A Restrained character or another character who can reach them can Use a Skill (1) to make a DC 15 Athletics test, freeing them on a success. |
 | Complication | Ylt foresees a PC’s actions and prepares for them. Until the end of the next round, he adds a disadvantage to all attack tests made by a PC of his choice. |
 
 ## Pailiah Opportunities and Complications
 
-|  |  |
-|----|----|
 | Result | Example |
+|----|----|
 | Opportunity | Pailiah is particularly moved by an argument and loses 2 focus. |
 | Complication | Pailiah focuses on one PC, ignoring everyone else until that PC succeeds on a test. |
 
 ## Pailiah’s Treasures
 
-|  |  |
-|----|----|
 | Object | Value |
+|----|----|
 | An old music box that plays an Alethi lullaby. | 125 mk |
 | A delicate broach shaped like a rocklily and ornamented with jewels. | 175 mk |
 | An obsidian statuette of a proud Ryshadium with a braided mane. | 200 mk |

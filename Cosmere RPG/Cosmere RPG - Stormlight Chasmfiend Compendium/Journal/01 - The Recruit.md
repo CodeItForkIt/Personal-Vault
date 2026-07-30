@@ -67,9 +67,8 @@ If a character gains an Opportunity (Opportunity) or Complication (Complication)
 
 **Conscientious Objector Opportunities and Complications**
 
-|  |  |
-|----|----|
 | **Result** | **Example** |
+|----|----|
 | Opportunity | The crowd murmurs, impressed by your argument. A few of Ezriah’s supporters disperse, leaving the plaza. |
 | Complication | The crowd seems increasingly agitated. Lose 1 focus as they shout over you. |
 
@@ -78,22 +77,9 @@ If a character gains an Opportunity (Opportunity) or Complication (Complication)
 > [!example] Roleplaying
 > ![[portrait_Ezriah.webp]]
 
-<table class="sl-rp-img">
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr>
-<th><p><strong>Roleplaying Ezriah</strong></p></th>
-</tr>
-&#10;<tr>
-<td><p><strong>Characteristics:</strong> Outspoken, opinionated, selfless.</p>
-<p><strong>Goal:</strong> To save lives by promoting peace.</p>
-<p><strong>Appearance:</strong> Ezriah (“EZ-ree-uh”; she/her) is a serious-looking young woman whose short red-and-black hair indicates her Veden heritage.</p>
-<p>In a culture that celebrates conquest, Ezriah yearns for peace. As a youth, she was sent away from Vedenar to become a ward of House Roion, eventually serving as a scribe at the Shattered Plains. While she endured the War of Reckoning, her family was slain in the Veden civil war. Now, her primary motivation is to save as many lives as possible.</p></td>
-</tr>
-</tbody>
-</table>
+| **Roleplaying Ezriah** |
+|----|
+| **Characteristics:** Outspoken, opinionated, selfless.<br>**Goal:** To save lives by promoting peace.<br>**Appearance:** Ezriah (“EZ-ree-uh”; she/her) is a serious-looking young woman whose short red-and-black hair indicates her Veden heritage.<br>In a culture that celebrates conquest, Ezriah yearns for peace. As a youth, she was sent away from Vedenar to become a ward of House Roion, eventually serving as a scribe at the Shattered Plains. While she endured the War of Reckoning, her family was slain in the Veden civil war. Now, her primary motivation is to save as many lives as possible. |
 
 ## Resisting Influence
 
@@ -134,9 +120,8 @@ If a character gains an Opportunity (Opportunity) or Complication (Complication)
 
 **Shardbearer Assault Opportunities and Complications**
 
-|  |  |
-|----|----|
 | **Result** | **Example** |
+|----|----|
 | Opportunity | Ezriah uses her Radiant abilities to heal herself or another character within reach, recovering `1d8 + 5` health. |
 | Complication | A nearby citizen dies, slain by an errant slice from Eranniv’s Shardblade. |
 
