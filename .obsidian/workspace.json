@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/02 - Ch 1 Character Creation.md",
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Items/Connections/Radiant Spren.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - Ch 1 Character Creation"
+              "title": "Radiant Spren"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/02 - Ch 1 Character Creation.md",
+                "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Items/Connections/Radiant Spren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 02 - Ch 1 Character Creation"
+              "title": "Outgoing links from Radiant Spren"
             }
           },
           {
@@ -198,6 +198,9 @@
   },
   "active": "64fe6c574c69b535",
   "lastOpenFiles": [
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Items/Connections/Noble Patron.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Items/Starting Kits/Academic Kit.md",
+    "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Stormlight Handbook/02 - Ch 1 Character Creation.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Home.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Scenes Index.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Chasmfiend Compendium/Actors Index.md",
@@ -238,9 +241,6 @@
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Soldier/Thrill Berserker.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Soldier/Spearmaster.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Soldier/Spear Infantry.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Soldier/Archer.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Singer/Fused/Warform Singer.md",
-    "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Actors/Adversaries/Singer/Fused/Stormform Regal.md",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Tension Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/Items/Surges/Cohesion Talents Talent Tree.canvas",
     "Cosmere RPG/Cosmere RPG - Stormlight Stonewalkers/attachments/buckler-wooden-boss-brown.webp",
