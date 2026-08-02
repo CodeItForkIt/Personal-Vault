@@ -9,10 +9,21 @@ aliases: ["Painspren"]
 # Painspren
 
 **Tier:** 1  
-**Size:** small  
-**Attributes:** Strength 1, Speed 3, Intellect 0, Willpower 3, Awareness 0, Presence 0  
-**Resources:** Health 12/12, Focus 5/5, Investiture 0  
-**Skills:** AGI 2, PRC 2
+**Size:** small
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 1 | 3 | 0 | 3 | 0 | 0 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 12/12 | 5/5 | 0 |
+
+**Speed:** 30 ft.
+
+| AGI | PRC |
+|---|---|
+| 2 | 2 |
 
 ##### Tactics
 

@@ -50,6 +50,8 @@ caravan and Kholin caravan. They can:
 
 #### [[Journal/11 - Appendix C Tables|Caravan Gossip]]
 
+[[Journal/11 - Appendix C Tables|Caravan Gossip]]
+
 ### GM Tips
 
 Give the characters time to explore the wagons before starting the next scene with Taszo.

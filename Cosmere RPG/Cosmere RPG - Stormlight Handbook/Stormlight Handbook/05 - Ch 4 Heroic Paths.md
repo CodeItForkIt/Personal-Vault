@@ -280,6 +280,8 @@ In addition to the [[Heroic Paths/Agent/Opportunist|Opportunist]] (Agent Key) ta
 
 As you level up, choose the [[Heroic Paths/Agent/Spy/Talents/Plausible Excuse|Plausible Excuse]] talent in the Spy specialty, and consider working toward [[Heroic Paths/Agent/Spy/Talents/Mercurial Facade|Mercurial Facade]].
 
+[[Heroic Paths/Agent/Agent|Agent]]
+
 **STEVE PRESCOTT**
 
 ## Agent Key Talent
@@ -289,6 +291,8 @@ The Agent key talent, Opportunist, unlocks access to the Agent specialties.
 **Starting Skill: Insight.** If you choose Agent as your starting path, gain a free skill rank in Insight.
 
 \
+
+[[Heroic Paths/Agent/Opportunist|Opportunist]]
 
 ## Investigator Specialty
 
@@ -300,19 +304,35 @@ The following talents, presented here in alphabetical order, appear in the Inves
 
 **ANTTI HAKOSAARI**
 
-\
+[[Heroic Paths/Agent/Investigator/Talents/Baleful|Baleful]]
 
 \
 
-\
+[[Heroic Paths/Agent/Investigator/Talents/Close the Case|Close the Case]]
 
 \
 
-\
+[[Heroic Paths/Agent/Investigator/Talents/Gather Evidence|Gather Evidence]]
 
 \
 
+[[Heroic Paths/Agent/Investigator/Talents/Get Em Talking|Get 'Em Talking]]
+
 \
+
+[[Heroic Paths/Agent/Investigator/Talents/Hardy|Hardy]]
+
+\
+
+[[Heroic Paths/Agent/Investigator/Talents/Quick Analysis|Quick Analysis]]
+
+\
+
+[[Heroic Paths/Agent/Investigator/Talents/Sleuths Instincts|Sleuth's Instincts]]
+
+\
+
+[[Heroic Paths/Agent/Investigator/Talents/Watchful Eye|Watchful Eye]]
 
  
 
@@ -322,19 +342,35 @@ The following talents, presented here in alphabetical order, appear in the Spy s
 
 \
 
-\
+[[Heroic Paths/Agent/Spy/Talents/Collected|Collected]]
 
 \
 
-\
+[[Heroic Paths/Agent/Spy/Talents/Cover Story|Cover Story]]
 
 \
 
-\
+[[Heroic Paths/Agent/Spy/Talents/High Society Contacts|High Society Contacts]]
 
 \
 
+[[Heroic Paths/Agent/Spy/Talents/Mercurial Facade|Mercurial Facade]]
+
 \
+
+[[Heroic Paths/Agent/Spy/Talents/Mighty|Mighty]]
+
+\
+
+[[Heroic Paths/Agent/Spy/Talents/Plausible Excuse|Plausible Excuse]]
+
+\
+
+[[Heroic Paths/Agent/Spy/Talents/Subtle Takedown|Subtle Takedown]]
+
+\
+
+[[Heroic Paths/Agent/Spy/Talents/Sure Outcome|Sure Outcome]]
 
  
 
@@ -342,19 +378,35 @@ The following talents, presented here in alphabetical order, appear in the Spy s
 
 The following talents, presented here in alphabetical order, appear in the Thief specialty on the Agent talent tree.
 
-\
+[[Heroic Paths/Agent/Thief/Talents/Cheap Shot|Cheap Shot]]
 
 \
 
-\
+[[Heroic Paths/Agent/Thief/Talents/Double Down|Double Down]]
 
 \
 
-\
+[[Heroic Paths/Agent/Thief/Talents/Fast Talker|Fast Talker]]
 
 \
 
+[[Heroic Paths/Agent/Thief/Talents/Risky Behavior|Risky Behavior]]
+
 \
+
+[[Heroic Paths/Agent/Thief/Talents/Shadow Step|Shadow Step]]
+
+\
+
+[[Heroic Paths/Agent/Thief/Talents/Surefooted|Surefooted]]
+
+\
+
+[[Heroic Paths/Agent/Thief/Talents/Tricksters Hand|Trickster’s Hand]]
+
+\
+
+[[Heroic Paths/Agent/Thief/Talents/Underworld Contacts|Underworld Contacts]]
 
   
 
@@ -428,6 +480,8 @@ In addition to the [[Heroic Paths/Envoy/Rousing Presence|Rousing Presence]] (Env
 
 As you level up, consider taking [[Heroic Paths/Envoy/Faithful/Talents/Customary Garb|Customary Garb]] then working toward [[Heroic Paths/Envoy/Faithful/Talents/Inspired Zeal|Inspired Zeal]], adding [[Heroic Paths/Envoy/Faithful/Talents/Composed|Composed]] for additional focus.
 
+[[Heroic Paths/Envoy/Envoy|Envoy]]
+
 **STEVE PRESCOTT**
 
 ## Envoy Key Talent
@@ -438,7 +492,7 @@ The Envoy key talent, Rousing Presence, unlocks access to the Envoy specialties.
 
 \
 
-**Rousing Presence (Envoy Key)**
+[[Heroic Paths/Envoy/Rousing Presence|Rousing Presence (Envoy Key)]]
 
 ## Diplomat Specialty
 
@@ -452,19 +506,35 @@ The following talents, presented here in alphabetical order, appear in the Diplo
 
 \
 
-\
+[[Heroic Paths/Envoy/Diplomat/Talents/Calm Appeal|Calm Appeal]]
 
 \
 
-\
+[[Heroic Paths/Envoy/Diplomat/Talents/Collected|Collected]]
 
 \
 
-\
+[[Heroic Paths/Envoy/Diplomat/Talents/High Society Contacts|High Society Contacts]]
 
 \
 
+[[Heroic Paths/Envoy/Diplomat/Talents/Peaceful Solution|Peaceful Solution]]
+
 \
+
+[[Heroic Paths/Envoy/Diplomat/Talents/Practiced Oratory|Practiced Oratory]]
+
+\
+
+[[Heroic Paths/Envoy/Diplomat/Talents/Steadfast Challenge|Steadfast Challenge]]
+
+\
+
+[[Heroic Paths/Envoy/Diplomat/Talents/Well Dressed|Well Dressed]]
+
+\
+
+[[Heroic Paths/Envoy/Diplomat/Talents/Withering Retort|Withering Retort]]
 
 ## Faithful Specialty
 
@@ -476,19 +546,35 @@ The following talents, presented here in alphabetical order, appear in the Faith
 
 \
 
-\
+[[Heroic Paths/Envoy/Faithful/Talents/Applied Motivation|Applied Motivation]]
 
 \
 
-\
+[[Heroic Paths/Envoy/Faithful/Talents/Composed|Composed]]
 
 \
 
-\
+[[Heroic Paths/Envoy/Faithful/Talents/Customary Garb|Customary Garb]]
 
 \
 
+[[Heroic Paths/Envoy/Faithful/Talents/Devoted Presence|Devoted Presence]]
+
 \
+
+[[Heroic Paths/Envoy/Faithful/Talents/Galvanize|Galvanize]]
+
+\
+
+[[Heroic Paths/Envoy/Faithful/Talents/Inspired Zeal|Inspired Zeal]]
+
+\
+
+[[Heroic Paths/Envoy/Faithful/Talents/Sage Counsel|Sage Counsel]]
+
+\
+
+[[Heroic Paths/Envoy/Faithful/Talents/Stalwart Presence|Stalwart Presence]]
 
 ## Mentor Specialty
 
@@ -502,19 +588,35 @@ The following talents, presented here in alphabetical order, appear in the Mento
 
 \
 
-\
+[[Heroic Paths/Envoy/Mentor/Talents/Foresight|Foresight]]
 
 \
 
-\
+[[Heroic Paths/Envoy/Mentor/Talents/Guiding Oration|Guiding Oration]]
 
 \
 
-\
+[[Heroic Paths/Envoy/Mentor/Talents/Instill Confidence|Instill Confidence]]
 
 \
 
+[[Heroic Paths/Envoy/Mentor/Talents/Lessons in Patience|Lessons in Patience]]
+
 \
+
+[[Heroic Paths/Envoy/Mentor/Talents/Mighty|Mighty]]
+
+\
+
+[[Heroic Paths/Envoy/Mentor/Talents/Practical Demonstration|Practical Demonstration]]
+
+\
+
+[[Heroic Paths/Envoy/Mentor/Talents/Rallying Shout|Rallying Shout]]
+
+\
+
+[[Heroic Paths/Envoy/Mentor/Talents/Sound Advice|Sound Advice]]
 
 ![[pg090_path_banner_hunter.webp]]
 
@@ -584,6 +686,8 @@ In addition to the [[Heroic Paths/Hunter/Seek Quarry|Seek Quarry]] (Hunter Key) 
 
 As you level up, consider working toward the [[Heroic Paths/Hunter/Tracker/Talents/Surefooted|Surefooted]] and [[Heroic Paths/Hunter/Tracker/Talents/Hunters Edge|Hunter’s Edge]] talents; if you gain an animal companion as a reward, choose [[Heroic Paths/Hunter/Tracker/Talents/Pack Hunting|Pack Hunting]] as well.
 
+[[Heroic Paths/Hunter/Hunter|Hunter]]
+
 **STEVE PRESCOTT**
 
 ## Hunter Key Talent
@@ -594,7 +698,7 @@ The Hunter key talent, Seek Quarry, unlocks access to the Hunter specialties.
 
 \
 
-**Seek Quarry (Hunter Key)**
+[[Heroic Paths/Hunter/Seek Quarry|Seek Quarry (Hunter Key)]]
 
 ## Archer Specialty
 
@@ -602,19 +706,35 @@ The following talents, presented here in alphabetical order, appear in the Arche
 
 \
 
-\
+[[Heroic Paths/Hunter/Archer/Talents/Backstep|Backstep]]
 
 \
 
-\
+[[Heroic Paths/Hunter/Archer/Talents/Combat Training|Combat Training]]
 
 \
 
-\
+[[Heroic Paths/Hunter/Archer/Talents/Exploit Weakness|Exploit Weakness]]
 
 \
 
+[[Heroic Paths/Hunter/Archer/Talents/Hardy|Hardy]]
+
 \
+
+[[Heroic Paths/Hunter/Archer/Talents/Sharp Eye|Sharp Eye]]
+
+\
+
+[[Heroic Paths/Hunter/Archer/Talents/Steady Aim|Steady Aim]]
+
+\
+
+[[Heroic Paths/Hunter/Archer/Talents/Tagging Shot|Tagging Shot]]
+
+\
+
+[[Heroic Paths/Hunter/Archer/Talents/Unrelenting Salvo|Unrelenting Salvo]]
 
 ## Assassin Specialty
 
@@ -622,19 +742,35 @@ The following talents, presented here in alphabetical order, appear in the Assas
 
 \
 
-\
+[[Heroic Paths/Hunter/Assassin/Talents/Cold Eyes|Cold Eyes]]
 
 \
 
-\
+[[Heroic Paths/Hunter/Assassin/Talents/Fatal Thrust|Fatal Thrust]]
 
 \
 
-\
+[[Heroic Paths/Hunter/Assassin/Talents/Killing Edge|Killing Edge]]
 
 \
 
+[[Heroic Paths/Hunter/Assassin/Talents/Mighty|Mighty]]
+
 \
+
+[[Heroic Paths/Hunter/Assassin/Talents/Shadowing|Shadowing]]
+
+\
+
+[[Heroic Paths/Hunter/Assassin/Talents/Sidestep|Sidestep]]
+
+\
+
+[[Heroic Paths/Hunter/Assassin/Talents/Startling Blow|Startling Blow]]
+
+\
+
+[[Heroic Paths/Hunter/Assassin/Talents/Swift Strikes|Swift Strikes]]
 
 ## Tracker Specialty
 
@@ -646,19 +782,35 @@ The following talents, presented here in alphabetical order, appear in the Track
 
 \
 
-\
+[[Heroic Paths/Hunter/Tracker/Talents/Animal Bond|Animal Bond]]
 
 \
 
-\
+[[Heroic Paths/Hunter/Tracker/Talents/Deadly Trap|Deadly Trap]]
 
 \
 
-\
+[[Heroic Paths/Hunter/Tracker/Talents/Experienced Trapper|Experienced Trapper]]
 
 \
 
+[[Heroic Paths/Hunter/Tracker/Talents/Feral Connection|Feral Connection]]
+
 \
+
+[[Heroic Paths/Hunter/Tracker/Talents/Hunters Edge|Hunter's Edge]]
+
+\
+
+[[Heroic Paths/Hunter/Tracker/Talents/Pack Hunting|Pack Hunting]]
+
+\
+
+[[Heroic Paths/Hunter/Tracker/Talents/Protective Bond|Protective Bond]]
+
+\
+
+[[Heroic Paths/Hunter/Tracker/Talents/Surefooted|Surefooted]]
 
 ![[pg098_path_banner_leader.webp]]
 
@@ -728,6 +880,8 @@ In addition to the [[Heroic Paths/Leader/Decisive Command|Decisive Command]] (Le
 
 As you level up, consider working toward the [[Heroic Paths/Leader/Officer/Talents/Synchronized Assault|Synchronized Assault]] talent then adding [[Heroic Paths/Leader/Officer/Talents/Composed|Composed]] for additional focus.
 
+[[Heroic Paths/Leader/Leader|Leader]]
+
 **STEVE PRESCOTT**
 
 ## Leader Key Talent
@@ -738,7 +892,7 @@ The Leader key talent, Decisive Command, unlocks access to the Leader specialtie
 
 \
 
-**Decisive Command (Leader Key)**
+[[Heroic Paths/Leader/Decisive Command|Decisive Command (Leader Key)]]
 
 ## Champion Specialty
 
@@ -750,19 +904,35 @@ The following talents, presented here in alphabetical order, appear in the Champ
 
 \
 
-\
+[[Heroic Paths/Leader/Champion/Talents/Combat Coordination|Combat Coordination]]
 
 \
 
-\
+[[Heroic Paths/Leader/Champion/Talents/Demonstrative Command|Demonstrative Command]]
 
 \
 
-\
+[[Heroic Paths/Leader/Champion/Talents/Hardy|Hardy]]
 
 \
 
+[[Heroic Paths/Leader/Champion/Talents/Imposing Posture|Imposing Posture]]
+
 \
+
+[[Heroic Paths/Leader/Champion/Talents/Mighty|Mighty]]
+
+\
+
+[[Heroic Paths/Leader/Champion/Talents/Resilient Hero|Resilient Hero]]
+
+\
+
+[[Heroic Paths/Leader/Champion/Talents/Resolute Stand|Resolute Stand]]
+
+\
+
+[[Heroic Paths/Leader/Champion/Talents/Valiant Intervention|Valiant Intervention]]
 
 ## Officer Specialty
 
@@ -774,19 +944,35 @@ The following talents, presented here in alphabetical order, appear in the Offic
 
 \
 
-\
+[[Heroic Paths/Leader/Officer/Talents/Authority|Authority]]
 
 \
 
-\
+[[Heroic Paths/Leader/Officer/Talents/Composed|Composed]]
 
 \
 
-\
+[[Heroic Paths/Leader/Officer/Talents/Confident Command|Confident Command]]
 
 \
 
+[[Heroic Paths/Leader/Officer/Talents/Customary Garb|Customary Garb]]
+
 \
+
+[[Heroic Paths/Leader/Officer/Talents/Through the Fray|Through the Fray]]
+
+\
+
+[[Heroic Paths/Leader/Officer/Talents/Relentless March|Relentless March]]
+
+\
+
+[[Heroic Paths/Leader/Officer/Talents/Synchronized Assault|Synchronized Assault]]
+
+\
+
+[[Heroic Paths/Leader/Officer/Talents/Well-Supplied|Well-Supplied]]
 
 ## Politico Specialty
 
@@ -798,19 +984,35 @@ The following talents, presented here in alphabetical order, appear in the Polit
 
 \
 
-\
+[[Heroic Paths/Leader/Politico/Talents/Baleful|Baleful]]
 
 \
 
-\
+[[Heroic Paths/Leader/Politico/Talents/Cutthroat Tactics|Cutthroat Tactics]]
 
 \
 
-\
+[[Heroic Paths/Leader/Politico/Talents/Grand Deception|Grand Deception]]
 
 \
 
+[[Heroic Paths/Leader/Politico/Talents/Rumormonger|Rumormonger]]
+
 \
+
+[[Heroic Paths/Leader/Politico/Talents/Set at Odds|Set at Odds]]
+
+\
+
+[[Heroic Paths/Leader/Politico/Talents/Shrewd Command|Shrewd Command]]
+
+\
+
+[[Heroic Paths/Leader/Politico/Talents/Tactical Ploy|Tactical Ploy]]
+
+\
+
+[[Heroic Paths/Leader/Politico/Talents/Well Dressed|Well Dressed]]
 
 ![[pg106_path_banner_scholar.webp]]
 
@@ -891,6 +1093,8 @@ For your Erudition (Scholar Key) talent, choose Equipment Crafting as your bonus
 
 As you level up, consider working toward the [[Heroic Paths/Scholar/Artifabrian/Talents/Inventive Design|Inventive Design]], [[Heroic Paths/Scholar/Artifabrian/Talents/Overcharge|Overcharge]], and [[Heroic Paths/Scholar/Artifabrian/Talents/Experimental Tinkering|Experimental Tinkering]] talents.
 
+[[Heroic Paths/Scholar/Scholar Talents Talent Tree.canvas|Scholar Talents]]
+
 **STEVE PRESCOTT**
 
 ## Scholar Key Talent
@@ -901,7 +1105,7 @@ The Scholar key talent, Erudition, unlocks access to the Scholar specialties.
 
 \
 
-**Erudition (Scholar Key)**
+[[Heroic Paths/Scholar/Erudition|Erudition (Scholar Key)]]
 
 ## Artifabrian Specialty
 
@@ -915,19 +1119,35 @@ The following talents, presented here in alphabetical order, appear in the Artif
 
 \
 
-\
+[[Heroic Paths/Scholar/Artifabrian/Talents/Deep Study|Deep Study]]
 
 \
 
-\
+[[Heroic Paths/Scholar/Artifabrian/Talents/Efficient Engineer|Efficient Engineer]]
 
 \
 
-\
+[[Heroic Paths/Scholar/Artifabrian/Talents/Experimental Tinkering|Experimental Tinkering]]
 
 \
 
+[[Heroic Paths/Scholar/Artifabrian/Talents/Fine Handiwork|Fine Handiwork]]
+
 \
+
+[[Heroic Paths/Scholar/Artifabrian/Talents/Inventive Design|Inventive Design]]
+
+\
+
+[[Heroic Paths/Scholar/Artifabrian/Talents/Overcharge|Overcharge]]
+
+\
+
+[[Heroic Paths/Scholar/Artifabrian/Talents/Overwhelm with Details|Overwhelm with Details]]
+
+\
+
+[[Heroic Paths/Scholar/Artifabrian/Talents/Prized Acquisition|Prized Acquisition]]
 
 ## Strategist Talents
 
@@ -935,19 +1155,35 @@ The following talents, presented here in alphabetical order, appear in the Strat
 
 \
 
-\
+[[Heroic Paths/Scholar/Strategist/Talents/Composed|Composed]]
 
 \
 
-\
+[[Heroic Paths/Scholar/Strategist/Talents/Contingency|Contingency]]
 
 \
 
-\
+[[Heroic Paths/Scholar/Strategist/Talents/Deep Contemplation|Deep Contemplation]]
 
 \
 
+[[Heroic Paths/Scholar/Strategist/Talents/Keen Insight|Keen Insight]]
+
 \
+
+[[Heroic Paths/Scholar/Strategist/Talents/Know Your Moment|Know Your Moment]]
+
+\
+
+[[Heroic Paths/Scholar/Strategist/Talents/Mind and Body|Mind and Body]]
+
+\
+
+[[Heroic Paths/Scholar/Strategist/Talents/Strategize|Strategize]]
+
+\
+
+[[Heroic Paths/Scholar/Strategist/Talents/Turning Point|Turning Point]]
 
 ## Surgeon Talents
 
@@ -955,19 +1191,35 @@ The following talents, presented here in alphabetical order, appear in the Surge
 
 \
 
-\
+[[Heroic Paths/Scholar/Surgeon/Talents/Anatomical Insight|Anatomical Insight]]
 
 \
 
-\
+[[Heroic Paths/Scholar/Surgeon/Talents/Applied Medicine|Applied Medicine]]
 
 \
 
-\
+[[Heroic Paths/Scholar/Surgeon/Talents/Collected|Collected]]
 
 \
 
+[[Heroic Paths/Scholar/Surgeon/Talents/Emotional Intelligence|Emotional Intelligence]]
+
 \
+
+[[Heroic Paths/Scholar/Surgeon/Talents/Field Medicine|Field Medicine]]
+
+\
+
+[[Heroic Paths/Scholar/Surgeon/Talents/Ongoing Care|Ongoing Care]]
+
+\
+
+[[Heroic Paths/Scholar/Surgeon/Talents/Resuscitation|Resuscitation]]
+
+\
+
+[[Heroic Paths/Scholar/Surgeon/Talents/Swift Healer|Swift Healer]]
 
 ![[pg114_path_banner_Warrior.webp]]
 
@@ -1039,6 +1291,8 @@ In addition to the [[Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance]] (War
 
 As you level up, take the [[Heroic Paths/Warrior/Duelist/Talents/Flamestance|Flamestance]] talent from the Duelist specialty. Also consider working toward [[Heroic Paths/Warrior/Duelist/Talents/Signature Weapon|Signature Weapon]] and [[Heroic Paths/Warrior/Duelist/Talents/Wits End|Wit’s End]].
 
+[[Heroic Paths/Warrior/Warrior Talents Talent Tree.canvas|Warrior Talents]]
+
 **STEVE PRESCOTT**
 
 ## Warrior Key Talent
@@ -1049,7 +1303,7 @@ The Warrior key talent, Vigilant Stance, unlocks access to the Warrior specialti
 
 \
 
-**Vigilant Stance (Warrior Key)**
+[[Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance (Warrior Key)]]
 
 ## Duelist Specialty
 
@@ -1061,19 +1315,35 @@ The following talents, presented here in alphabetical order, appear in the Dueli
 
 \
 
-\
+[[Heroic Paths/Warrior/Duelist/Talents/Feinting Strike|Feinting Strike]]
 
 \
 
-\
+[[Heroic Paths/Warrior/Duelist/Talents/Flamestance|Flamestance]]
 
 \
 
-\
+[[Heroic Paths/Warrior/Duelist/Talents/Ironstance|Ironstance]]
 
 \
 
+[[Heroic Paths/Warrior/Duelist/Talents/Practiced Kata|Practiced Kata]]
+
 \
+
+[[Heroic Paths/Warrior/Duelist/Talents/Signature Weapon|Signature Weapon]]
+
+\
+
+[[Heroic Paths/Warrior/Duelist/Talents/Surefooted|Surefooted]]
+
+\
+
+[[Heroic Paths/Warrior/Duelist/Talents/Vinestance|Vinestance]]
+
+\
+
+[[Heroic Paths/Warrior/Duelist/Talents/Wits End|Wit's End]]
 
 ## Shardbearer Specialty
 
@@ -1081,19 +1351,35 @@ The following talents, presented here in alphabetical order, appear in the Shard
 
 \
 
-\
+[[Heroic Paths/Warrior/Shardbearer/Talents/Bloodstance|Bloodstance]]
 
 \
 
-\
+[[Heroic Paths/Warrior/Shardbearer/Talents/Meteoric Leap|Meteoric Leap]]
 
 \
 
-\
+[[Heroic Paths/Warrior/Shardbearer/Talents/Mighty|Mighty]]
 
 \
 
+[[Heroic Paths/Warrior/Shardbearer/Talents/Precise Parry|Precise Parry]]
+
 \
+
+[[Heroic Paths/Warrior/Shardbearer/Talents/Shard Training|Shard Training]]
+
+\
+
+[[Heroic Paths/Warrior/Shardbearer/Talents/Shattering Blow|Shattering Blow]]
+
+\
+
+[[Heroic Paths/Warrior/Shardbearer/Talents/Stonestance|Stonestance]]
+
+\
+
+[[Heroic Paths/Warrior/Shardbearer/Talents/Windstance|Windstance]]
 
 ## Soldier Specialty
 
@@ -1101,16 +1387,32 @@ The following talents, presented here in alphabetical order, appear in the Soldi
 
 \
 
-\
+[[Heroic Paths/Warrior/Soldier/Talents/Cautious Advance|Cautious Advance]]
 
 \
 
-\
+[[Heroic Paths/Warrior/Soldier/Talents/Combat Training|Combat Training]]
 
 \
 
-\
+[[Heroic Paths/Warrior/Soldier/Talents/Defensive Position|Defensive Position]]
 
 \
 
+[[Heroic Paths/Warrior/Soldier/Talents/Devastating Blow|Devastating Blow]]
+
 \
+
+[[Heroic Paths/Warrior/Soldier/Talents/Formation Drills|Formation Drills]]
+
+\
+
+[[Heroic Paths/Warrior/Soldier/Talents/Hardy|Hardy]]
+
+\
+
+[[Heroic Paths/Warrior/Soldier/Talents/Swift Strikes|Swift Strikes]]
+
+\
+
+[[Heroic Paths/Warrior/Soldier/Talents/Wary|Wary]]

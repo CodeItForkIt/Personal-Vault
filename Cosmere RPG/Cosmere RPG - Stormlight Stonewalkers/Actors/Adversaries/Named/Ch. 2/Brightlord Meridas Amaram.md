@@ -9,10 +9,21 @@ aliases: ["Brightlord Meridas Amaram"]
 # Brightlord Meridas Amaram
 
 **Tier:** 2  
-**Size:** medium  
-**Attributes:** Strength 3, Speed 4, Intellect 2, Willpower 3, Awareness 2, Presence 4  
-**Resources:** Health 40/40, Focus 5/5, Investiture 0  
-**Skills:** AGI 2, HWP 3, LWP 3, DIS 1, INM 2, INS 2, LEA 2, PRS 2
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 3 | 4 | 2 | 3 | 2 | 4 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 40/40 | 5/5 | 0 |
+
+**Speed:** 40 ft.
+
+| AGI | HWP | LWP | DIS | INM | INS | LEA | PRS |
+|---|---|---|---|---|---|---|---|
+| 2 | 3 | 3 | 1 | 2 | 2 | 2 | 2 |
 
 ##### Tactics
 

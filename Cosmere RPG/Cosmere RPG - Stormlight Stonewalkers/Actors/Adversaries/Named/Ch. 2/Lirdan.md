@@ -9,11 +9,22 @@ aliases: ["Lirdan"]
 # Lirdan
 
 **Tier:** 1  
-**Size:** medium  
-**Attributes:** Strength 3, Speed 1, Intellect 1, Willpower 2, Awareness 3, Presence 1  
-**Resources:** Health 25/25, Focus 4/4, Investiture 0  
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 3 | 1 | 1 | 2 | 3 | 1 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 25/25 | 4/4 | 0 |
+
 **Deflect:** 2  
-**Skills:** ATH 2, HWP 2, DIS 2, INM 2, INS 1, PRC 2
+**Speed:** 10 ft.
+
+| ATH | HWP | DIS | INM | INS | PRC |
+|---|---|---|---|---|---|
+| 2 | 2 | 2 | 2 | 1 | 2 |
 
 ##### Tactics
 

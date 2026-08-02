@@ -9,10 +9,21 @@ aliases: ["Devastating One"]
 # Devastating One
 
 **Tier:** 2  
-**Size:** medium  
-**Attributes:** Strength 2, Speed 4, Intellect 6, Willpower 3, Awareness 4, Presence 1  
-**Resources:** Health 41/41, Focus 5/5, Investiture 6/6  
-**Skills:** AGI 3, ATH 3, LWP 3, DIS 4, INM 4, PRC 2, SUR 2, DVS 3
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 2 | 4 | 6 | 3 | 4 | 1 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 41/41 | 5/5 | 6/6 |
+
+**Speed:** 40 ft.
+
+| AGI | ATH | LWP | DIS | INM | PRC | SUR | DVS |
+|---|---|---|---|---|---|---|---|
+| 3 | 3 | 3 | 4 | 4 | 2 | 2 | 3 |
 
 ##### Opportunities and Complications
 

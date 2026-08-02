@@ -9,10 +9,21 @@ aliases: ["Chull (Large)"]
 # Chull (Large)
 
 **Tier:** 1  
-**Size:** large  
-**Attributes:** Strength 4, Speed 0, Intellect 0, Willpower 1, Awareness 3, Presence 0  
-**Resources:** Health 30/30, Focus 3/3, Investiture 0  
-**Skills:** ATH 2, PRC 2
+**Size:** large
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 4 | 0 | 0 | 1 | 3 | 0 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 30/30 | 3/3 | 0 |
+
+**Speed:** 0 ft.
+
+| ATH | PRC |
+|---|---|
+| 2 | 2 |
 
 ##### Tactics
 

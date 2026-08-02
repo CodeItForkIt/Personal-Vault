@@ -253,6 +253,8 @@ If a character gains an Opportunity or Complication, use the Ubo Opportunities a
 
 #### [[Journal/11 - Appendix C Tables|Ubo Opportunities and Complications]]
 
+[[Journal/11 - Appendix C Tables|Ubo Opportunities and Complications]]
+
 #### **Resisting Influence**
 
 Ubo has a Cognitive defense of 11, a Spiritual defense of 13, and 2 focus. In conversations, he spends focus to resist arguments that endanger the carpentry yard workers, but he has no love for the bandits and can be convinced to help the PCs in low-risk ways.
@@ -302,9 +304,13 @@ PCs can examine the crates of stolen goods (DC 15 Thievery), but doing so increa
 
 #### [[Journal/11 - Appendix C Tables|Stolen Goods]]
 
+[[Journal/11 - Appendix C Tables|Stolen Goods]]
+
 If a character gains an Opportunity or Complication, use the Devotary Opportunities and Complications table for inspiration.
 
 #### [[Journal/11 - Appendix C Tables|Devotary Opportunities and Complications]]
+
+[[Journal/11 - Appendix C Tables|Devotary Opportunities and Complications]]
 
 #### **Resolving the Endeavor**
 
@@ -344,6 +350,8 @@ If the party befriended Ubo the quartermaster in [[Journal/03 - 03 The City That
 If a character gains an Opportunity or Complication, use the Bridges Opportunities and Complications table for inspiration.
 
 #### [[Journal/11 - Appendix C Tables|Bridges Opportunities and Complications]]
+
+[[Journal/11 - Appendix C Tables|Bridges Opportunities and Complications]]
 
 #### **Resolving the Endeavor**
 
@@ -445,6 +453,8 @@ If a character gains an Opportunity or Complication on this Stealth test, use th
 
 #### [[Journal/11 - Appendix C Tables|Eavesdropping Opportunities and Complications]]
 
+[[Journal/11 - Appendix C Tables|Eavesdropping Opportunities and Complications]]
+
 ### Po’ahu’s Reaction
 
 Po’ahu immediately identifies Kaiana’s healing as Surgebinding, quietly wondering aloud if the woman has sworn the oaths.
@@ -488,6 +498,8 @@ Whenever the PCs address (or ignore) the bandits’ welfare, Teryn speaks up and
 If a character gains an Opportunity or Complication, use the Kaiana Opportunities and Complications table for inspiration.
 
 #### [[Journal/11 - Appendix C Tables|Kaiana Opportunities and Complications]]
+
+[[Journal/11 - Appendix C Tables|Kaiana Opportunities and Complications]]
 
 ### Resisting Influence
 
@@ -621,6 +633,8 @@ The following effects are active for this combat:
 If a character gains an Opportunity or Complication, use the Battle of the Hall Opportunities and Complications table for inspiration.
 
 #### [[Journal/11 - Appendix C Tables|Battle of the Hall Opportunities and Complications]]
+
+[[Journal/11 - Appendix C Tables|Battle of the Hall Opportunities and Complications]]
 
 ### Aftermath
 

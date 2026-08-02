@@ -9,11 +9,22 @@ aliases: ["Spear Infantry"]
 # Spear Infantry
 
 **Tier:** 1  
-**Size:** medium  
-**Attributes:** Strength 2, Speed 2, Intellect 1, Willpower 1, Awareness 2, Presence 1  
-**Resources:** Health 14/14, Focus 3/3, Investiture 0  
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 2 | 2 | 1 | 1 | 2 | 1 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 14/14 | 3/3 | 0 |
+
 **Deflect:** 2  
-**Skills:** ATH 2, HWP 2, LWP 1, DIS 1, INM 2, PRC 2
+**Speed:** 20 ft.
+
+| ATH | HWP | LWP | DIS | INM | PRC |
+|---|---|---|---|---|---|
+| 2 | 2 | 1 | 1 | 2 | 2 |
 
 ##### Tactics
 

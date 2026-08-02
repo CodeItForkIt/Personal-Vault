@@ -9,11 +9,22 @@ aliases: ["Axehound"]
 # Axehound
 
 **Tier:** 1  
-**Size:** small  
-**Attributes:** Strength 2, Speed 2, Intellect 0, Willpower 0, Awareness 3, Presence 0  
-**Resources:** Health 12/12, Focus 2/2, Investiture 0  
-**Senses:** 40 ft.  
-**Skills:** AGI 2, ATH 2, STL 1, PRC 2, SUR 1
+**Size:** small
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 2 | 2 | 0 | 0 | 3 | 0 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 12/12 | 2/2 | 0 |
+
+**Speed:** 20 ft.  
+**Senses:** 40 ft.
+
+| AGI | ATH | STL | PRC | SUR |
+|---|---|---|---|---|
+| 2 | 2 | 1 | 2 | 1 |
 
 ##### Tactics
 

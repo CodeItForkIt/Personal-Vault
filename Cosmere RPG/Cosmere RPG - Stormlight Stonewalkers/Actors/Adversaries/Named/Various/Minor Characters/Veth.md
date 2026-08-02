@@ -9,10 +9,21 @@ aliases: ["Veth"]
 # Veth
 
 **Tier:** 1  
-**Size:** medium  
-**Attributes:** Strength 2, Speed 2, Intellect 1, Willpower 1, Awareness 3, Presence 2  
-**Resources:** Health 40/40, Focus 3/3, Investiture 0  
-**Skills:** ATH 1, LWP 1, STL 2, DIS 2, INS 2, PRC 2
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 2 | 2 | 1 | 1 | 3 | 2 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 40/40 | 3/3 | 0 |
+
+**Speed:** 20 ft.
+
+| ATH | LWP | STL | DIS | INS | PRC |
+|---|---|---|---|---|---|
+| 1 | 1 | 2 | 2 | 2 | 2 |
 
 ##### Tactics
 

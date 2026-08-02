@@ -9,10 +9,21 @@ aliases: ["Shull"]
 # Shull
 
 **Tier:** 1  
-**Size:** medium  
-**Attributes:** Strength 3, Speed 1, Intellect 1, Willpower 2, Awareness 2, Presence 2  
-**Resources:** Health 24/24, Focus 4/4, Investiture 0  
-**Skills:** ATH 2, HWP 1, LWP 2, DIS 3, INM 2, LEA 2, PRC 2
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 3 | 1 | 1 | 2 | 2 | 2 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 24/24 | 4/4 | 0 |
+
+**Speed:** 10 ft.
+
+| ATH | HWP | LWP | DIS | INM | LEA | PRC |
+|---|---|---|---|---|---|---|
+| 2 | 1 | 2 | 3 | 2 | 2 | 2 |
 
 A **warform singer** is a brutally efficient combatant, especially when fighting alongside their warpair—another warform singer. Warpairs descend on a target together with their Warpair Coordination and, using their Martial Experience, they make multiple Axe attacks against a single foe to fell them. In a tight spot, the warform singer relies on their External Carapace for relief from an onslaught while their warpair continues fighting.
 

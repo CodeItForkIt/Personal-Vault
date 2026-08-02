@@ -123,6 +123,8 @@ The Warcamp Scenes table summarizes both hooks, while the scenes for each sectio
 
 #### [[Journal/11 - Appendix C Tables|Warcamp Scenes]]
 
+[[Journal/11 - Appendix C Tables|Warcamp Scenes]]
+
 ### Finding Liss
 
 Liss keeps a low profile and hasn’t used her name in any of her warcamp dealings. The Stone Shamans’ last meeting with her was in the Red Rockbud gambling den. Tracking Liss down requires following a series of leads, each of which is based on rumors from people who witnessed that meeting. The leads should be revealed in the following order:
@@ -144,6 +146,8 @@ Each time the party acquires a lead, Taszo’s peakspren Po’ahu grows more con
 Whenever a PC acquires a lead or acts with exceptional dependability (which is a core Stoneward tenet), roll on the Po’ahu’s Reactions table. Po’ahu fully emerges when the party meets Liss in [[Journal/02 - 02 Weepers Trail|The Contact]]. If the PCs drift far off task and abandon Taszo’s request, Po’ahu’s rock makes cracking sounds and shows signs of crumbling to dust.
 
 #### [[Journal/11 - Appendix C Tables|Po’ahu’s Reactions]]
+
+[[Journal/11 - Appendix C Tables|Po’ahu’s Reactions]]
 
 > [!tip] Path to Radiance: The First Ideal
 > A PC who has the First Ideal talent can advance their “Speak the First Ideal” goal during chapter 2. If your group has a fledgling Radiant, give them opportunities to advance their goal twice during this chapter.
@@ -293,6 +297,8 @@ If a character gains an Opportunity or Complication, use the Gambling Opportunit
 
 #### [[Journal/11 - Appendix C Tables|Gambling Opportunities and Complications]]
 
+[[Journal/11 - Appendix C Tables|Gambling Opportunities and Complications]]
+
 #### **Resolving the Game**
 
 If Nel is unable to resist influence, the characters win the game. If all PCs drop out before Nel, the conversation fails.
@@ -428,6 +434,8 @@ If a character gains an Opportunity or Complication, use the Whitespine Opportun
 
 #### [[Journal/11 - Appendix C Tables|Whitespine Opportunities and Complications]]
 
+[[Journal/11 - Appendix C Tables|Whitespine Opportunities and Complications]]
+
 ### Aftermath
 
 If the PCs are downed, the juvenile whitespines escape into the Shattered Plains without finishing off the party. Otherwise, the combat ends with the whitespines dead or in captivity.
@@ -488,6 +496,8 @@ If a character gains an Opportunity or Complication, use the Bettani Opportuniti
 
 #### [[Journal/11 - Appendix C Tables|Bettani Opportunities and Complications]]
 
+[[Journal/11 - Appendix C Tables|Bettani Opportunities and Complications]]
+
 ### Resolving the Endeavor
 
 The endeavor succeeds if the party accrues 4 successes before 3 failures, or if they otherwise complete the objective.
@@ -538,6 +548,8 @@ As a spy, give Vedolin an advantage on Agility and Stealth tests. As the party p
 If a character gains an Opportunity or Complication, use the Vedolin Opportunities or Complications table for inspiration.
 
 #### [[Journal/11 - Appendix C Tables|Vedolin Opportunities and Complications]]
+
+[[Journal/11 - Appendix C Tables|Vedolin Opportunities and Complications]]
 
 ### Resolving the Endeavor
 
@@ -701,6 +713,8 @@ During this endeavor, the party must overcome a series of five obstacles; the fi
 If a character gains an Opportunity or Complication, use the Monastery Opportunities and Complications table for inspiration.
 
 #### [[Journal/11 - Appendix C Tables|Monastery Opportunities and Complications]]
+
+[[Journal/11 - Appendix C Tables|Monastery Opportunities and Complications]]
 
 ### Resolving the Endeavor
 

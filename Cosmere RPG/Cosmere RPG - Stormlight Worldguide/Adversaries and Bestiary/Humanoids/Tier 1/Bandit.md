@@ -9,11 +9,22 @@ aliases: ["Bandit"]
 # Bandit
 
 **Tier:** 1  
-**Size:** medium  
-**Attributes:** Strength 1, Speed 1, Intellect 1, Willpower 0, Awareness 2, Presence 1  
-**Resources:** Health 11/11, Focus 2/2, Investiture 0  
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 1 | 1 | 1 | 0 | 2 | 1 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 11/11 | 2/2 | 0 |
+
 **Deflect:** 1  
-**Skills:** AGI 2, ATH 2, LWP 1, DIS 1, INM 3, PRC 1, SUR 1
+**Speed:** 10 ft.
+
+| AGI | ATH | LWP | DIS | INM | PRC | SUR |
+|---|---|---|---|---|---|---|
+| 2 | 2 | 1 | 1 | 3 | 1 | 1 |
 
 ##### Tactics
 

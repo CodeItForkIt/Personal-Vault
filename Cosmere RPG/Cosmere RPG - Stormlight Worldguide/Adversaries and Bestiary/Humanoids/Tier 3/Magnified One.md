@@ -9,10 +9,21 @@ aliases: ["Magnified One"]
 # Magnified One
 
 **Tier:** 3  
-**Size:** large  
-**Attributes:** Strength 7, Speed 1, Intellect 3, Willpower 3, Awareness 6, Presence 2  
-**Resources:** Health 200/200, Focus 7/7, Investiture 8/8  
-**Skills:** ATH 3, HWP 4, DIS 3, INM 1, LEA 3, PRC 4, PRG 4
+**Size:** large
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 7 | 1 | 3 | 3 | 6 | 2 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 200/200 | 7/7 | 8/8 |
+
+**Speed:** 10 ft.
+
+| ATH | HWP | DIS | INM | LEA | PRC | PRG |
+|---|---|---|---|---|---|---|
+| 3 | 4 | 3 | 1 | 3 | 4 | 4 |
 
 ##### Opportunities and Complications
 

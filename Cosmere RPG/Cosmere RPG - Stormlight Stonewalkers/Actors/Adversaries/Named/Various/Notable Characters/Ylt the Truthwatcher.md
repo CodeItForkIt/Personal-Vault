@@ -9,10 +9,21 @@ aliases: ["Ylt the Truthwatcher"]
 # Ylt the Truthwatcher
 
 **Tier:** 1  
-**Size:** medium  
-**Attributes:** Strength 2, Speed 3, Intellect 3, Willpower 3, Awareness 3, Presence 4  
-**Resources:** Health 80/80, Focus 5/5, Investiture 6/6  
-**Skills:** LWP 2, DED 3, DIS 3, INS 2, LEA 2, PRC 2, ILL 2, CHS 3, TSN 3, PRG 2
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 2 | 3 | 3 | 3 | 3 | 4 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 80/80 | 5/5 | 6/6 |
+
+**Speed:** 30 ft.
+
+| LWP | DED | DIS | INS | LEA | PRC | ILL | CHS | TSN | PRG |
+|---|---|---|---|---|---|---|---|---|---|
+| 2 | 3 | 3 | 2 | 2 | 2 | 2 | 3 | 3 | 2 |
 
 ##### Third Ideal Actions
 

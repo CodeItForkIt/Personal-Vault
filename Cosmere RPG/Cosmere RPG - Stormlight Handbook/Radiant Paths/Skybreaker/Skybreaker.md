@@ -90,20 +90,15 @@ Nale’s faction of highspren don’t form a bond until their Skybreaker speaks 
 
 ------------------------------------------------------------------------
 
-<div id="secret-UqZRrg9BN4mJ7mDX" class="section secret">
-
-#### GM Tip: Skybreakers and Canon
-
-Within the Stormlight Archive books, Skybreakers who serve Nale can’t even breathe in Stormlight upon speaking the First Ideal, let alone use surges. (However, it’s possible that independent Skybreakers who don’t follow Nale might ignore these restrictions.) If your group wishes to emulate this element of canon in your own game, Nale’s Skybreakers gain their abilities as follows:
-
-> **Second Ideal Goal.** Upon completing their “Speak the Second Ideal” goal, a Skybreaker gains access to Investiture and to the Breathe Stormlight, Enhance, and Regenerate actions. They also gain the surge of Gravitation and can choose its talents.
+> [!note]- GM Tip: Skybreakers and Canon
+> Within the Stormlight Archive books, Skybreakers who serve Nale can’t even breathe in Stormlight upon speaking the First Ideal, let alone use surges. (However, it’s possible that independent Skybreakers who don’t follow Nale might ignore these restrictions.) If your group wishes to emulate this element of canon in your own game, Nale’s Skybreakers gain their abilities as follows:
 >
-> **Third Ideal Goal.** Upon completing their “Speak the Third Ideal” goal, a Skybreaker gains the surge of Division and can choose its talents.
-
-To accomplish this delayed progression, replace the entire First Ideal talent with the following.
-
-> **First Ideal.** When you acquire this talent, your maximum health increases by 1 per level. This applies to all previous and future levels; for example, if you choose this talent at level 3, retroactively increase your maximum health by 3.
+> > **Second Ideal Goal.** Upon completing their “Speak the Second Ideal” goal, a Skybreaker gains access to Investiture and to the Breathe Stormlight, Enhance, and Regenerate actions. They also gain the surge of Gravitation and can choose its talents.
+> >
+> > **Third Ideal Goal.** Upon completing their “Speak the Third Ideal” goal, a Skybreaker gains the surge of Division and can choose its talents.
 >
-> Additionally, you gain the goal “Speak the First Ideal.” After you complete this goal, you become Empowered until the end of that scene, and your maximum and current focus increase by a number equal to your tier. When your tier increases by 1, your maximum and current focus do as well.
-
-</div>
+> To accomplish this delayed progression, replace the entire First Ideal talent with the following.
+>
+> > **First Ideal.** When you acquire this talent, your maximum health increases by 1 per level. This applies to all previous and future levels; for example, if you choose this talent at level 3, retroactively increase your maximum health by 3.
+> >
+> > Additionally, you gain the goal “Speak the First Ideal.” After you complete this goal, you become Empowered until the end of that scene, and your maximum and current focus increase by a number equal to your tier. When your tier increases by 1, your maximum and current focus do as well.

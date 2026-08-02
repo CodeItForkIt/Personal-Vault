@@ -9,10 +9,21 @@ aliases: ["Shellmite"]
 # Shellmite
 
 **Tier:** 1  
-**Size:** small  
-**Attributes:** Strength 2, Speed 1, Intellect 0, Willpower 1, Awareness 2, Presence 0  
-**Resources:** Health 9/9, Focus 3/3, Investiture 0  
-**Skills:** STL 2, PRC 2
+**Size:** small
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 2 | 1 | 0 | 1 | 2 | 0 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 9/9 | 3/3 | 0 |
+
+**Speed:** 10 ft.
+
+| STL | PRC |
+|---|---|
+| 2 | 2 |
 
 A **shellmite** uses their Rugged Camouflage to hide among common rocks. When unlucky travelers walk into a nest of shellmites, these crustaceans strike quickly with a Pincer, gaining an advantage on their first attack. Shellmites then use their Feeding Frenzy to overwhelm intruders, tearing and ripping at clothing and armor with their strong claws, while sticking together to take advantage of their numbers.
 

@@ -9,10 +9,21 @@ aliases: ["Focused One"]
 # Focused One
 
 **Tier:** 4  
-**Size:** large  
-**Attributes:** Strength 9, Speed 0, Intellect 3, Willpower 5, Awareness 4, Presence 5  
-**Resources:** Health 190/190, Focus 11/11, Investiture 7/7  
-**Skills:** ATH 5, HWP 5, DIS 5, INS 4, LEA 5, PRC 4, PRS 5, TSN 5
+**Size:** large
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 9 | 0 | 3 | 5 | 4 | 5 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 190/190 | 11/11 | 7/7 |
+
+**Speed:** 0 ft.
+
+| ATH | HWP | DIS | INS | LEA | PRC | PRS | TSN |
+|---|---|---|---|---|---|---|---|
+| 5 | 5 | 5 | 4 | 5 | 4 | 5 | 5 |
 
 ##### Opportunities and Complications
 

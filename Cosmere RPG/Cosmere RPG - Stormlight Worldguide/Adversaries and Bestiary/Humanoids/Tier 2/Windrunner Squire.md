@@ -9,10 +9,21 @@ aliases: ["Windrunner Squire"]
 # Windrunner Squire
 
 **Tier:** 2  
-**Size:** medium  
-**Attributes:** Strength 1, Speed 2, Intellect 1, Willpower 2, Awareness 3, Presence 3  
-**Resources:** Health 40/40, Focus 4/4, Investiture 2/2  
-**Skills:** AGI 3, HWP 3, LWP 3, DIS 3, INS 3, PRC 3, SUR 3, ADH 1, GRV 1
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 1 | 2 | 1 | 2 | 3 | 3 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 40/40 | 4/4 | 2/2 |
+
+**Speed:** 20 ft.
+
+| AGI | HWP | LWP | DIS | INS | PRC | SUR | ADH | GRV |
+|---|---|---|---|---|---|---|---|---|
+| 3 | 3 | 3 | 3 | 3 | 3 | 3 | 1 | 1 |
 
 ##### Tactics
 

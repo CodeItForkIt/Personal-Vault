@@ -9,10 +9,21 @@ aliases: ["Kaiana the Truthwatcher"]
 # Kaiana the Truthwatcher
 
 **Tier:** 1  
-**Size:** medium  
-**Attributes:** Strength 1, Speed 3, Intellect 1, Willpower 2, Awareness 3, Presence 3  
-**Resources:** Health 34/34, Focus 4/4, Investiture 5/5  
-**Skills:** AGI 2, LWP 2, DIS 2, MED 2, INS 2, LEA 1, PRC 2, ILL 1, PRG 2
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 1 | 3 | 1 | 2 | 3 | 3 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 34/34 | 4/4 | 5/5 |
+
+**Speed:** 30 ft.
+
+| AGI | LWP | DIS | MED | INS | LEA | PRC | ILL | PRG |
+|---|---|---|---|---|---|---|---|---|
+| 2 | 2 | 2 | 2 | 2 | 1 | 2 | 1 | 2 |
 
 ##### Tactics
 

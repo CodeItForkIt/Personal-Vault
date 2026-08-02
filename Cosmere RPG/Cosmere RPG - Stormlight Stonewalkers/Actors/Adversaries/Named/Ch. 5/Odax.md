@@ -9,10 +9,21 @@ aliases: ["Odax"]
 # Odax
 
 **Tier:** 1  
-**Size:** medium  
-**Attributes:** Strength 1, Speed 1, Intellect 1, Willpower 2, Awareness 2, Presence 1  
-**Resources:** Health 18/18, Focus 4/4, Investiture 0  
-**Skills:** AGI 1, ATH 1, LWP 1, CRA 1, DED 1, DEC 1, INS 2, PRC 2, PRS 2
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 1 | 1 | 1 | 2 | 2 | 1 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 18/18 | 4/4 | 0 |
+
+**Speed:** 10 ft.
+
+| AGI | ATH | LWP | CRA | DED | DEC | INS | PRC | PRS |
+|---|---|---|---|---|---|---|---|---|
+| 1 | 1 | 1 | 1 | 1 | 1 | 2 | 2 | 2 |
 
 ##### Tactics
 

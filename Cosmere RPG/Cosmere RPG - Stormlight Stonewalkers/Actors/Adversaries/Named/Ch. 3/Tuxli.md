@@ -9,10 +9,21 @@ aliases: ["Tuxli"]
 # Tuxli
 
 **Tier:** 1  
-**Size:** medium  
-**Attributes:** Strength 1, Speed 3, Intellect 3, Willpower 2, Awareness 3, Presence 2  
-**Resources:** Health 20/20, Focus 4/4, Investiture 0  
-**Skills:** AGI 2, LWP 2, STL 1, CRA 1, DED 2, LOR 1, PRC 2, SUR 2
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 1 | 3 | 3 | 2 | 3 | 2 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 20/20 | 4/4 | 0 |
+
+**Speed:** 30 ft.
+
+| AGI | LWP | STL | CRA | DED | LOR | PRC | SUR |
+|---|---|---|---|---|---|---|---|
+| 2 | 2 | 1 | 1 | 2 | 1 | 2 | 2 |
 
 ##### Tactics
 

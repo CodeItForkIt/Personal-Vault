@@ -9,10 +9,21 @@ aliases: ["Yu-Nerig"]
 # Yu-Nerig
 
 **Tier:** 2  
-**Size:** large  
-**Attributes:** Strength 5, Speed 3, Intellect 2, Willpower 3, Awareness 4, Presence 2  
-**Resources:** Health 144/144, Focus 5/5, Investiture 0  
-**Skills:** AGI 3, ATH 3, INM 3, PRC 1
+**Size:** large
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 5 | 3 | 2 | 3 | 4 | 2 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 144/144 | 5/5 | 0 |
+
+**Speed:** 30 ft.
+
+| AGI | ATH | INM | PRC |
+|---|---|---|---|
+| 3 | 3 | 3 | 1 |
 
 ##### Opportunities and Complications
 

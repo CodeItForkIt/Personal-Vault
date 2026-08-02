@@ -9,10 +9,21 @@ aliases: ["Greater Larkin"]
 # Greater Larkin
 
 **Tier:** 4  
-**Size:** small  
-**Attributes:** Strength 2, Speed 5, Intellect 2, Willpower 3, Awareness 4, Presence 2  
-**Resources:** Health 42/42, Focus 5/5, Investiture 0/6  
-**Skills:** AGI 3, DIS 2, INS 2, PRC 3, PRS 2, SUR 2
+**Size:** small
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 2 | 5 | 2 | 3 | 4 | 2 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 42/42 | 5/5 | 0/6 |
+
+**Speed:** 50 ft.
+
+| AGI | DIS | INS | PRC | PRS | SUR |
+|---|---|---|---|---|---|
+| 3 | 2 | 2 | 3 | 2 | 2 |
 
 ##### **Tactics**
 

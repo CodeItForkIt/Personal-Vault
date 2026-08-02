@@ -54,6 +54,8 @@ Shards require Vessels—sapient creatures from the Physical Realm who become in
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Shards of Adonalsium]]
 
+[[Stormlight World Guide/13 - Appendix D Tables|Shards of Adonalsium]]
+
 #### **Ascension**
 
 When a Vessel claims a Shard, they undergo Ascension, their body is subsumed, and their mind expands. The Vessel interprets the Shard’s power and has some effect on how it’ll manifest, but the Shard is ultimately bound by its Intent. For example, though Rayse saw himself as a Shard of Passion, his actions were still guided by the nature of Odium’s divine hatred.
@@ -334,6 +336,8 @@ This section explores the Heralds as revered figures, powerful beings, and indiv
 There are ten Heralds, each associated with one of the ten orders of the Knights Radiant and one of the Ten Essences (see [[Stormlight World Guide/09 - Ch 8 Adversaries and Bestiary#Soulcasting Essences|Soulcaster Savant]] in chapter 8). The Heralds table provides each Herald’s name, Radiant order, Essence, and attributes, listed in order of the Vorin number they’re associated with.
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Heralds]]
+
+[[Stormlight World Guide/13 - Appendix D Tables|Heralds]]
 
 ### Jezrien
 
@@ -777,6 +781,8 @@ Each Fused can only access a single surge, determined by their brand (their type
 For more information on the Fused brands, see [[Stormlight World Guide/09 - Ch 8 Adversaries and Bestiary|Fused]] in chapter 8.
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Fused Brands]]
+
+[[Stormlight World Guide/13 - Appendix D Tables|Fused Brands]]
 
 *"A Fused could also will their spirit from their body, freeing it to seek another host. Indeed, the humans had tried imprisoning Fused as a method of defeating them, but had found it to be futile."*
 

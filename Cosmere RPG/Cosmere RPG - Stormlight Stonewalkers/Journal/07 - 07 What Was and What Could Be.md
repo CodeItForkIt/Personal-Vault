@@ -96,6 +96,8 @@ If a character gains an Opportunity or Complication, use the Sentry Opportunitie
 
 #### [[Journal/11 - Appendix C Tables|Sentry Opportunities and Complications]]
 
+[[Journal/11 - Appendix C Tables|Sentry Opportunities and Complications]]
+
 ### Resolving the Endeavor
 
 The endeavor succeeds if the party closes the current distance to 0 or otherwise apprehends Ryel. The endeavor fails if the current distance reaches 6.
@@ -182,6 +184,8 @@ The tunnel is blocked by 15 feet of stone. The party can clear the passage by su
 If a character gains an Opportunity or Complication, use the Excavation Opportunities and Complications table for inspiration.
 
 #### [[Journal/11 - Appendix C Tables|Excavation Opportunities and Complications]]
+
+[[Journal/11 - Appendix C Tables|Excavation Opportunities and Complications]]
 
 ## Y4: Entry Hall
 
@@ -386,6 +390,8 @@ If a character gains an Opportunity or Complication, use the Vault Opportunities
 
 #### [[Journal/11 - Appendix C Tables|Vault Opportunities and Complications]]
 
+[[Journal/11 - Appendix C Tables|Vault Opportunities and Complications]]
+
 ### Aftermath
 
 The shadowform zealots and Ylt fight to the death. When Ylt is defeated, ***[[Items/Stonewalkers Unique Items/Talns Honorblade|Taln’s Honorblade]]*** falls to the floor. If Kaiana is with the party, she sits beside Ylt’s corpse, mourning his death and furious at him for going astray.
@@ -474,6 +480,8 @@ If a character gains an Opportunity or Complication, use the Pailiah Opportuniti
 
 #### [[Journal/11 - Appendix C Tables|Pailiah Opportunities and Complications]]
 
+[[Journal/11 - Appendix C Tables|Pailiah Opportunities and Complications]]
+
 ### Resolving the Conversation
 
 The conversation succeeds if the party convinces Pailiah to rejoin events in the world, either through making especially compelling arguments or because Pailiah no longer has enough focus to resist influence. If the party is unconvincing and fails multiple attempts to inspire Pailiah, she grows distracted by the items in her vault, and the conversation ends in failure.
@@ -499,6 +507,8 @@ If the PCs agree, Pailiah takes any object of theirs they offer. The more person
 When the party is ready to leave the vault, Pailiah asks each character to choose something from her treasures to remember her by. The Pailiah’s Treasures table lists potential choices.
 
 #### [[Journal/11 - Appendix C Tables|Pailiah’s Treasures]]
+
+[[Journal/11 - Appendix C Tables|Pailiah’s Treasures]]
 
 ## Epilogue
 

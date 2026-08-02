@@ -9,10 +9,21 @@ aliases: ["Ryshadium"]
 # Ryshadium
 
 **Tier:** 2  
-**Size:** large  
-**Attributes:** Strength 4, Speed 5, Intellect 1, Willpower 2, Awareness 4, Presence 1  
-**Resources:** Health 48/48, Focus 4/4, Investiture 0  
-**Skills:** AGI 3, ATH 3, INS 3, PRC 2
+**Size:** large
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 4 | 5 | 1 | 2 | 4 | 1 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 48/48 | 4/4 | 0 |
+
+**Speed:** 50 ft.
+
+| AGI | ATH | INS | PRC |
+|---|---|---|---|
+| 3 | 3 | 3 | 2 |
 
 ##### Tactics
 

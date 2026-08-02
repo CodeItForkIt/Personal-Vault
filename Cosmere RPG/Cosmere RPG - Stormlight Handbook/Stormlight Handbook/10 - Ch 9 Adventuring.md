@@ -393,6 +393,8 @@ Compare the result to the Injury Duration table to determine the duration of you
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Injury Duration]]
 
+[[Stormlight Handbook/17 - Appendix 2 Tables|Injury Duration]]
+
 ### Injury Effects
 
 Each injury remains until it heals (or for permanent injuries, potentially forever). When your character suffers an injury, you decide its effects. To do so, consider what caused the injury and what narrative you’re interested in for your character.
@@ -400,6 +402,8 @@ Each injury remains until it heals (or for permanent injuries, potentially forev
 The Injury Effects table suggests some effects an injury could have and how you might describe it in the story. Feel free to choose any entry on the table, roll a d8 on the table, or work with your GM to create a custom effect.
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Injury Effects]]
+
+[[Stormlight Handbook/17 - Appendix 2 Tables|Injury Effects]]
 
 ### Minor NPCs and Injuries
 

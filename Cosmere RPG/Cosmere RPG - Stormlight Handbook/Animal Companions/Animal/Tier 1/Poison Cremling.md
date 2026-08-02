@@ -9,14 +9,27 @@ aliases: ["Poison Cremling"]
 # Poison Cremling
 
 **Tier:** 1  
-**Size:** small  
-**Attributes:** Strength 1, Speed 3, Intellect 1, Willpower 0, Awareness 3, Presence 1  
-**Defenses:** Physical 0, Cognitive 0, Spiritual 0  
-**Resources:** Health 10/10, Focus 2/2, Investiture 0/0  
+**Size:** small
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 1 | 3 | 1 | 0 | 3 | 1 |
+
+| Physical | Cognitive | Spiritual |
+|---|---|---|
+| 0 | 0 | 0 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 10/10 | 2/2 | 0/0 |
+
 **Deflect:** 0  
-**Speed:** 0 ft.  
-**Senses:** 40 ft.  
-**Skills:** AGI 1, STL 2, THV 2, PRC 2, SUR 1
+**Speed:** 30 ft.  
+**Senses:** 40 ft.
+
+| AGI | STL | THV | PRC | SUR |
+|---|---|---|---|---|
+| 1 | 2 | 2 | 2 | 1 |
 
 ### Carapace
 Increase the Poison Cremling’s deflect value by +2.

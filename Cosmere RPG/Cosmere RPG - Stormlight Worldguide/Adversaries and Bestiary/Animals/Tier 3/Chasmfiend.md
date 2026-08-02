@@ -9,10 +9,21 @@ aliases: ["Chasmfiend"]
 # Chasmfiend
 
 **Tier:** 3  
-**Size:** gargantuan  
-**Attributes:** Strength 5, Speed 7, Intellect 2, Willpower 5, Awareness 5, Presence 2  
-**Resources:** Health 198/198, Focus 7/7, Investiture 0  
-**Skills:** AGI 4, ATH 4, INM 4, PRC 4
+**Size:** gargantuan
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 5 | 7 | 2 | 5 | 5 | 2 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 198/198 | 7/7 | 0 |
+
+**Speed:** 70 ft.
+
+| AGI | ATH | INM | PRC |
+|---|---|---|---|
+| 4 | 4 | 4 | 4 |
 
 ##### Opportunities and Complications
 

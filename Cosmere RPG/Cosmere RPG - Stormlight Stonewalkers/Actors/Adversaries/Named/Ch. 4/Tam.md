@@ -9,10 +9,21 @@ aliases: ["Tam"]
 # Tam
 
 **Tier:** 1  
-**Size:** medium  
-**Attributes:** Strength 0, Speed 1, Intellect 1, Willpower 0, Awareness 1, Presence 0  
-**Resources:** Health 10/10, Focus 2/2, Investiture 0  
-**Skills:** ATH 1, CRA 1, INS 1, PRC 1
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 0 | 1 | 1 | 0 | 1 | 0 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 10/10 | 2/2 | 0 |
+
+**Speed:** 10 ft.
+
+| ATH | CRA | INS | PRC |
+|---|---|---|---|
+| 1 | 1 | 1 | 1 |
 
 ##### Tactics
 

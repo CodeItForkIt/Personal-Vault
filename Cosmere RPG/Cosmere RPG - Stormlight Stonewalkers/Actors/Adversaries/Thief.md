@@ -9,12 +9,23 @@ aliases: ["Thief"]
 # Thief
 
 **Tier:** 1  
-**Size:** medium  
-**Attributes:** Strength 1, Speed 3, Intellect 2, Willpower 1, Awareness 2, Presence 1  
-**Resources:** Health 20/20, Focus 3/3, Investiture 0  
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 1 | 3 | 2 | 1 | 2 | 1 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 20/20 | 3/3 | 0 |
+
 **Deflect:** 1  
-**Senses:** 20 ft.  
-**Skills:** AGI 2, LWP 2, STL 2, THV 2, DEC 2, PRC 2, PRS 2
+**Speed:** 30 ft.  
+**Senses:** 20 ft.
+
+| AGI | LWP | STL | THV | DEC | PRC | PRS |
+|---|---|---|---|---|---|---|
+| 2 | 2 | 2 | 2 | 2 | 2 | 2 |
 
 ##### Tactics
 

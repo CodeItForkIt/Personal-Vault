@@ -9,10 +9,21 @@ aliases: ["Taszo-son-Clutio"]
 # Taszo-son-Clutio
 
 **Tier:** 1  
-**Size:** medium  
-**Attributes:** Strength 0, Speed 3, Intellect 1, Willpower 2, Awareness 2, Presence 1  
-**Resources:** Health 17/17, Focus 4/4, Investiture 0  
-**Skills:** DED 1, DIS 2, LOR 1, INS 2, PRC 2, PRS 2
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 0 | 3 | 1 | 2 | 2 | 1 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 17/17 | 4/4 | 0 |
+
+**Speed:** 30 ft.
+
+| DED | DIS | LOR | INS | PRC | PRS |
+|---|---|---|---|---|---|
+| 1 | 2 | 1 | 2 | 2 | 2 |
 
 ##### Tactics
 

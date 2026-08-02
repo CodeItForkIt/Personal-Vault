@@ -9,10 +9,21 @@ aliases: ["Skybreaker of the Fourth Ideal"]
 # Skybreaker of the Fourth Ideal
 
 **Tier:** 4  
-**Size:** medium  
-**Attributes:** Strength 3, Speed 3, Intellect 5, Willpower 4, Awareness 5, Presence 3  
-**Resources:** Health 65/65, Focus 6/6, Investiture 7/7  
-**Skills:** AGI 5, HWP 4, LWP 5, DED 4, DIS 4, INM 5, LOR 3, INS 4, LEA 5, PRC 3, GRV 4, DVS 3
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 3 | 3 | 5 | 4 | 5 | 3 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 65/65 | 6/6 | 7/7 |
+
+**Speed:** 30 ft.
+
+| AGI | HWP | LWP | DED | DIS | INM | LOR | INS | LEA | PRC | GRV | DVS |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 5 | 4 | 5 | 4 | 4 | 5 | 3 | 4 | 5 | 3 | 4 | 3 |
 
 ##### Opportunities and Complications
 

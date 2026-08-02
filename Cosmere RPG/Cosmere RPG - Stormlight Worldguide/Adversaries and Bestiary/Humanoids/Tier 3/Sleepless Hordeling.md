@@ -9,10 +9,21 @@ aliases: ["Sleepless Hordeling"]
 # Sleepless Hordeling
 
 **Tier:** 3  
-**Size:** small  
-**Attributes:** Strength 3, Speed 3, Intellect 4, Willpower 4, Awareness 6, Presence 3  
-**Resources:** Health 5/5, Focus 6/6, Investiture 0  
-**Skills:** AGI 3, STL 4, DIS 3, INM 4, LOR 2, DEC 3, INS 4, PRC 4
+**Size:** small
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 3 | 3 | 4 | 4 | 6 | 3 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 5/5 | 6/6 | 0 |
+
+**Speed:** 30 ft.
+
+| AGI | STL | DIS | INM | LOR | DEC | INS | PRC |
+|---|---|---|---|---|---|---|---|
+| 3 | 4 | 3 | 4 | 2 | 3 | 4 | 4 |
 
 ##### Opportunities and Complications
 

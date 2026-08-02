@@ -9,10 +9,21 @@ aliases: ["Magnified One (Rival Variant)"]
 # Magnified One (Rival Variant)
 
 **Tier:** 2  
-**Size:** large  
-**Attributes:** Strength 5, Speed 1, Intellect 2, Willpower 2, Awareness 5, Presence 2  
-**Resources:** Health 50/50, Focus 4/4, Investiture 7/7  
-**Skills:** ATH 2, HWP 3, DIS 2, INM 2, LEA 2, PRC 3
+**Size:** large
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 5 | 1 | 2 | 2 | 5 | 2 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 50/50 | 4/4 | 7/7 |
+
+**Speed:** 10 ft.
+
+| ATH | HWP | DIS | INM | LEA | PRC |
+|---|---|---|---|---|---|
+| 2 | 3 | 2 | 2 | 2 | 3 |
 
 ### Regenerative Carapace
 *1*

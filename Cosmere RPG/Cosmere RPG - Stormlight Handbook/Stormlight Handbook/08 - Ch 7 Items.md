@@ -88,6 +88,18 @@ Even more importantly, Radiants can draw Stormlight out of the gems to fuel Radi
 
 During step 6 of character creation, you choose one of the following sets of equipment. Each starting kit grants items such as spheres (roll the dice indicated to determine how many marks you start with), weapons or armor (see the [[Stormlight Handbook/08 - Ch 7 Items|Weapons]] tables and [[Stormlight Handbook/08 - Ch 7 Items|Armor]] table later in this chapter), other equipment (see the [[Stormlight Handbook/08 - Ch 7 Items|Equipment]] table later in this chapter), and more.
 
+[[Items/Starting Kits/Academic Kit|Academic Kit]]
+
+[[Items/Starting Kits/Artisan Kit|Artisan Kit]]
+
+[[Items/Starting Kits/Military Kit|Military Kit]]
+
+[[Items/Starting Kits/Courtier Kit|Courtier Kit]]
+
+[[Items/Starting Kits/Prisoner Kit|Prisoner Kit]]
+
+[[Items/Starting Kits/Underworld Kit|Underworld Kit]]
+
 ## Weapons
 
 Since the arrival of the Everstorm, it’s dangerous to travel unarmed, and even the most peaceful characters often take up weapons for self-defense.
@@ -855,9 +867,11 @@ This section presents the effects you can select for your unique fabrial. The Un
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Unique Fabrial Effect]]
 
-**Armor Augmenter**
+[[Items/Fabrials/Unique Effects/Accelerator|Accelerator]]
 
-**Ascender**
+[[Items/Fabrials/Unique Effects/Armor Augmenter|Armor Augmenter]]
+
+[[Items/Fabrials/Unique Effects/Ascender|Ascender]]
 
 ![[pg271_Custom_fabrials_illustration_MARIE SEEBERGER & SAMI RYTKÖNEN.webp]]
 
@@ -865,30 +879,30 @@ This section presents the effects you can select for your unique fabrial. The Un
 
 *"The glove locked into place. She released one of the distant weights, then carefully relaxed her fist, and the distant weight slowly moved down. Navani went up."*
 
-**Bindrial (Area)**
+[[Items/Fabrials/Unique Effects/Bindrial Area|Bindrial (Area)]]
 
-**Bindrial (Self)**
+[[Items/Fabrials/Unique Effects/Bindrial Self|Bindrial (Self)]]
 
-**Compressor**
+[[Items/Fabrials/Unique Effects/Compressor|Compressor]]
 
-**Cremrial**
+[[Items/Fabrials/Unique Effects/Cremrial|Cremrial]]
 
-**Cultivator**
+[[Items/Fabrials/Unique Effects/Cultivator|Cultivator]]
 
-**Disruptor**
+[[Items/Fabrials/Unique Effects/Disruptor|Disruptor]]
 
-**Drainer**
+[[Items/Fabrials/Unique Effects/Drainer|Drainer]]
 
-**Liferial**
+[[Items/Fabrials/Unique Effects/Liferial|Liferial]]
 
-**Lightrial**
+[[Items/Fabrials/Unique Effects/Lightrial|Lightrial]]
 
-**Painrial (Amplifying/Numbing)**
+[[Items/Fabrials/Unique Effects/Painrial AmplifyingNumbing|Painrial (Amplifying/Numbing)]]
 
 ![[STORMLIGHT_ITEM_Painrial_Augmenter_VINCENT DUTRAIT.webp]]![[STORMLIGHT_ITEM_Painrial_Diminisher_VINCENT DUTRAIT.webp]]
 
 **Painrials - VINCENT DUTRAIT**
 
-**Projectile**
+[[Items/Fabrials/Unique Effects/Projectile|Projectile]]
 
-**Surge Fabrial**
+[[Items/Fabrials/Unique Effects/Surge Fabrial|Surge Fabrial]]

@@ -9,10 +9,21 @@ aliases: ["Ryel"]
 # Ryel
 
 **Tier:** 2  
-**Size:** medium  
-**Attributes:** Strength 2, Speed 3, Intellect 2, Willpower 3, Awareness 4, Presence 2  
-**Resources:** Health 42/42, Focus 5/5, Investiture 0  
-**Skills:** ATH 2, HWP 3, LWP 2, STL 3, DIS 3, INM 2, INS 3, PRC 3
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 2 | 3 | 2 | 3 | 4 | 2 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 42/42 | 5/5 | 0 |
+
+**Speed:** 30 ft.
+
+| ATH | HWP | LWP | STL | DIS | INM | INS | PRC |
+|---|---|---|---|---|---|---|---|
+| 2 | 3 | 2 | 3 | 3 | 2 | 3 | 3 |
 
 ##### Tactics
 

@@ -171,6 +171,8 @@ If a character gains an Opportunity or Complication, use the Tukari Opportunitie
 
 #### [[Journal/11 - Appendix C Tables|Tukari Opportunities and Complications]]
 
+[[Journal/11 - Appendix C Tables|Tukari Opportunities and Complications]]
+
 ### Phase Outcome
 
 What happens next is determined by whether the Ashiqqil Gate Falls event is triggered.
@@ -258,6 +260,8 @@ The following effect is active during this phase of the battle:
 If a character gains an Opportunity or Complication, use the Final Push Opportunities and Complications table for inspiration.
 
 #### [[Journal/11 - Appendix C Tables|Final Push Opportunities and Complications]]
+
+[[Journal/11 - Appendix C Tables|Final Push Opportunities and Complications]]
 
 ### Phase Outcome
 

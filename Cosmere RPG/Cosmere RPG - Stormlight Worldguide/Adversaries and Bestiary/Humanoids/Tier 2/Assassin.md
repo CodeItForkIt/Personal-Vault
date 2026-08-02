@@ -9,11 +9,22 @@ aliases: ["Assassin"]
 # Assassin
 
 **Tier:** 2  
-**Size:** medium  
-**Attributes:** Strength 1, Speed 5, Intellect 2, Willpower 3, Awareness 3, Presence 2  
-**Resources:** Health 40/40, Focus 5/5, Investiture 0  
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 1 | 5 | 2 | 3 | 3 | 2 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 40/40 | 5/5 | 0 |
+
 **Deflect:** 1  
-**Skills:** AGI 3, ATH 3, LWP 3, STL 3, CRA 3, DED 3, INM 3, DEC 3, PRC 3
+**Speed:** 50 ft.
+
+| AGI | ATH | LWP | STL | CRA | DED | INM | DEC | PRC |
+|---|---|---|---|---|---|---|---|---|
+| 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 |
 
 ##### Tactics
 

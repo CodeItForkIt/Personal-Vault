@@ -9,10 +9,21 @@ aliases: ["Skyeel"]
 # Skyeel
 
 **Tier:** 1  
-**Size:** medium  
-**Attributes:** Strength 2, Speed 3, Intellect 0, Willpower 1, Awareness 3, Presence 0  
-**Resources:** Health 12/12, Focus 3/3, Investiture 0  
-**Skills:** AGI 1, STL 1, PRC 2, SUR 1
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 2 | 3 | 0 | 1 | 3 | 0 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 12/12 | 3/3 | 0 |
+
+**Speed:** 30 ft.
+
+| AGI | STL | PRC | SUR |
+|---|---|---|---|
+| 1 | 1 | 2 | 1 |
 
 ##### Tactics
 

@@ -70,6 +70,8 @@ Your Strength determines how much weight you can lift and carry, as shown on the
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Lifting and Carrying Capacity]]
 
+[[Stormlight Handbook/17 - Appendix 2 Tables|Lifting and Carrying Capacity]]
+
 **Lifting Capacity**
 
 Lifting capacity represents the maximum weight you can lift by yourself in one attempt. You can’t sustain this much weight for long, but if needed, you can safely lift it over your head.
@@ -113,6 +115,8 @@ Your Speed determines how quickly you can move in combat and other tense situati
 By default, you move by walking or similarly propelling across the surface of the ground; you can learn more about movement types in the [[Stormlight Handbook/11 - Ch 10 Combat|Movement and Positioning]] section of chapter 10.
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Movement Rate]]
+
+[[Stormlight Handbook/17 - Appendix 2 Tables|Movement Rate]]
 
 **Moving Outside Combat**
 
@@ -166,6 +170,8 @@ Your **recovery die** determines how efficiently you recover health and focus wh
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Recovery Die]]
 
+[[Stormlight Handbook/17 - Appendix 2 Tables|Recovery Die]]
+
 ### Affected Statistics
 
 Your Willpower score affects several of your statistics. When your Willpower changes, update the following sections of your character sheet:
@@ -188,6 +194,8 @@ Your senses encompass not only sight and hearing, but any other ways you might p
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Senses Range]]
 
+[[Stormlight Handbook/17 - Appendix 2 Tables|Senses Range]]
+
 ### Affected Statistics
 
 Your Awareness score affects several of your statistics. When your Awareness changes, update the following sections of your character sheet:
@@ -209,6 +217,8 @@ Presence is your charisma and bearing. It represents your ability to influence o
 When your adventures bring you to cities and other inhabited areas, you’ll often want to determine whether your character knows someone in the area. Your Presence score can help the GM decide whether you previously spent enough time in that region to have an existing connection to call on. The Establishing Connections table provides guidance on how long it takes you to establish these connections, but this varies with the situation and is up to the GM’s discretion.
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Establishing Connections]]
+
+[[Stormlight Handbook/17 - Appendix 2 Tables|Establishing Connections]]
 
 ### Affected Statistics
 
@@ -462,6 +472,8 @@ In many cases, the GM sets the DC based on their judgment of the difficulty of t
 The task’s difficulty should be gauged by the abilities of an average humanoid, not a player character. For example, if leaping a particular chasm would be nearly impossible for a random citizen of Urithiru, the Athletics test to do so would be DC 30.
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Difficulty Class Examples]]
+
+[[Stormlight Handbook/17 - Appendix 2 Tables|Difficulty Class Examples]]
 
 ![[pg057_KalvSzeth_Steve Argyle.webp]]
 
@@ -875,3 +887,5 @@ Thievery covers all manner of tasks that require precise manual dexterity or are
 ***An expert thief escapes with delicious pancakes.*** **- SVETLANA KOSTINA**
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Skill Examples]]
+
+[[Stormlight Handbook/17 - Appendix 2 Tables|Skill Examples]]

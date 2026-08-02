@@ -9,10 +9,21 @@ aliases: ["Midnight Essence"]
 # Midnight Essence
 
 **Tier:** 3  
-**Size:** medium  
-**Attributes:** Strength 5, Speed 4, Intellect 1, Willpower 4, Awareness 4, Presence 2  
-**Resources:** Health 52/52, Focus 6/6, Investiture 0  
-**Skills:** AGI 4, ATH 4, DEC 2, PRC 3, SUR 4
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 5 | 4 | 1 | 4 | 4 | 2 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 52/52 | 6/6 | 0 |
+
+**Speed:** 40 ft.
+
+| AGI | ATH | DEC | PRC | SUR |
+|---|---|---|---|---|
+| 4 | 4 | 2 | 3 | 4 |
 
 ##### Tactics
 

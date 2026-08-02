@@ -442,6 +442,8 @@ Disputes over land ownership are common in Herdaz. While most Herdazians who emi
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Herdazian Words]]
 
+[[Stormlight World Guide/13 - Appendix D Tables|Herdazian Words]]
+
 ![[pg047_Chouta Glyph_MARIE SEEBERGER.webp]]
 
 **Glyph for “Chouta” - MARIE SEEBERGER**
@@ -1298,3 +1300,5 @@ Singers who take on Regal forms of power gain access to a new set of rhythms tha
 *“You may speak now,” Venli said to Shumin. Venli changed her rhythm to that of Confidence—one of the old rhythms. The true rhythms, uncorrupted by the touch of Odium.*
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Rhythms of Roshar]]
+
+[[Stormlight World Guide/13 - Appendix D Tables|Rhythms of Roshar]]

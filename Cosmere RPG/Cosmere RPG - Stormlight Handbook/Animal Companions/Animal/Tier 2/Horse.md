@@ -9,14 +9,27 @@ aliases: ["Horse"]
 # Horse
 
 **Tier:** 2  
-**Size:** large  
-**Attributes:** Strength 3, Speed 4, Intellect 0, Willpower 1, Awareness 3, Presence 1  
-**Defenses:** Physical 0, Cognitive 0, Spiritual 0  
-**Resources:** Health 25/25, Focus 3/3, Investiture 0/0  
+**Size:** large
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 3 | 4 | 0 | 1 | 3 | 1 |
+
+| Physical | Cognitive | Spiritual |
+|---|---|---|
+| 0 | 0 | 0 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 25/25 | 3/3 | 0/0 |
+
 **Deflect:** 0  
 **Speed:** 40 ft.  
-**Senses:** 5 ft.  
-**Skills:** AGI 3, ATH 3, PRC 2
+**Senses:** 5 ft.
+
+| AGI | ATH | PRC |
+|---|---|---|
+| 3 | 3 | 2 |
 
 ### Beast of Burden
 *1*

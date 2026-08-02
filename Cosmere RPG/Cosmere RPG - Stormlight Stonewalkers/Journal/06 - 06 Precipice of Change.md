@@ -149,6 +149,8 @@ If a character gains an Opportunity or Complication, use the Lilinum’s Raid Op
 
 #### [[Journal/11 - Appendix C Tables|Lilinum’s Raid Opportunities and Complications]]
 
+[[Journal/11 - Appendix C Tables|Lilinum’s Raid Opportunities and Complications]]
+
 ### Aftermath
 
 When Odium’s loyal singers are defeated, an uneasy peace returns to the business. In addition to their weapons, the defeated singers collectively possess 75 **marks**, three flasks of ***oil***, and a ***flint and steel***.
@@ -255,6 +257,8 @@ If a character gains an Opportunity or Complication, use the Sabotage Opportunit
 
 #### [[Journal/11 - Appendix C Tables|Sabotage Opportunities and Complications]]
 
+[[Journal/11 - Appendix C Tables|Sabotage Opportunities and Complications]]
+
 ### Resolving the Endeavor
 
 To sabotage all six fabrials, the party must accrue 6 successes before 4 failures, or otherwise complete the objective.
@@ -358,6 +362,8 @@ The following effects are active during the combat:
 If a character gains an Opportunity or Complication, use the Dirgehollow Well Opportunities and Complications table for inspiration.
 
 #### [[Journal/11 - Appendix C Tables|Dirgehollow Well Opportunities and Complications]]
+
+[[Journal/11 - Appendix C Tables|Dirgehollow Well Opportunities and Complications]]
 
 ### Aftermath
 

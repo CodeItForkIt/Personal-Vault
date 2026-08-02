@@ -9,10 +9,21 @@ aliases: ["Direform Regal"]
 # Direform Regal
 
 **Tier:** 2  
-**Size:** medium  
-**Attributes:** Strength 5, Speed 3, Intellect 1, Willpower 3, Awareness 3, Presence 1  
-**Resources:** Health 42/42, Focus 5/5, Investiture 5/5  
-**Skills:** AGI 2, ATH 3, HWP 3, LWP 3, DIS 3, INM 3, PRC 2
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 5 | 3 | 1 | 3 | 3 | 1 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 42/42 | 5/5 | 5/5 |
+
+**Speed:** 30 ft.
+
+| AGI | ATH | HWP | LWP | DIS | INM | PRC |
+|---|---|---|---|---|---|---|
+| 2 | 3 | 3 | 3 | 3 | 3 | 2 |
 
 ##### Tactics
 

@@ -82,6 +82,8 @@ Rather than each gemstone having a unique value, they’re instead categorized i
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Sphere Values]]
 
+[[Stormlight World Guide/13 - Appendix D Tables|Sphere Values]]
+
 ## Highstorms and Stormlight
 
 The highstorm, a weather phenomenon unique to Roshar, has irrevocably shaped the world and its flora and fauna. Human and singer cultures are heavily influenced by highstorms; this is due in part to the danger they pose, but more importantly, these storms have long been the primary source of Investiture (in the form of Stormlight) on Roshar.

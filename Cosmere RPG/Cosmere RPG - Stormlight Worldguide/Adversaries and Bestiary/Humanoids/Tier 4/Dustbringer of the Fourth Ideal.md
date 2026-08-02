@@ -9,10 +9,21 @@ aliases: ["Dustbringer of the Fourth Ideal"]
 # Dustbringer of the Fourth Ideal
 
 **Tier:** 4  
-**Size:** medium  
-**Attributes:** Strength 2, Speed 4, Intellect 5, Willpower 4, Awareness 5, Presence 3  
-**Resources:** Health 65/65, Focus 6/6, Investiture 7/7  
-**Skills:** AGI 5, LWP 4, STL 4, DIS 3, INM 4, LEA 4, PRC 3, DVS 4, ABR 4
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 2 | 4 | 5 | 4 | 5 | 3 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 65/65 | 6/6 | 7/7 |
+
+**Speed:** 40 ft.
+
+| AGI | LWP | STL | DIS | INM | LEA | PRC | DVS | ABR |
+|---|---|---|---|---|---|---|---|---|
+| 5 | 4 | 4 | 3 | 4 | 4 | 3 | 4 | 4 |
 
 ##### Opportunities and Complications
 

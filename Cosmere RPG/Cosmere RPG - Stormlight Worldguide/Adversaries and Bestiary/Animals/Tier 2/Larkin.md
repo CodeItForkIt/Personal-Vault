@@ -9,10 +9,21 @@ aliases: ["Larkin"]
 # Larkin
 
 **Tier:** 2  
-**Size:** small  
-**Attributes:** Strength 1, Speed 3, Intellect 1, Willpower 2, Awareness 3, Presence 1  
-**Resources:** Health 14/14, Focus 4/4, Investiture 0/5  
-**Skills:** AGI 2, INS 1, PRC 2, SUR 1
+**Size:** small
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 1 | 3 | 1 | 2 | 3 | 1 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 14/14 | 4/4 | 0/5 |
+
+**Speed:** 30 ft.
+
+| AGI | INS | PRC | SUR |
+|---|---|---|---|
+| 2 | 1 | 2 | 1 |
 
 ##### **Tactics**
 

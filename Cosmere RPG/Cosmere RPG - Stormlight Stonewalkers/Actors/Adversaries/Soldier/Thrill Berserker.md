@@ -9,11 +9,22 @@ aliases: ["Thrill Berserker"]
 # Thrill Berserker
 
 **Tier:** 1  
-**Size:** medium  
-**Attributes:** Strength 2, Speed 2, Intellect 1, Willpower 3, Awareness 2, Presence 2  
-**Resources:** Health 22/22, Focus 5/5, Investiture 0  
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 2 | 2 | 1 | 3 | 2 | 2 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 22/22 | 5/5 | 0 |
+
 **Deflect:** 2  
-**Skills:** ATH 2, HWP 2, LWP 1, INM 2, LEA 1, PRC 2
+**Speed:** 20 ft.
+
+| ATH | HWP | LWP | INM | LEA | PRC |
+|---|---|---|---|---|---|
+| 2 | 2 | 1 | 2 | 1 | 2 |
 
 ##### Tactics
 

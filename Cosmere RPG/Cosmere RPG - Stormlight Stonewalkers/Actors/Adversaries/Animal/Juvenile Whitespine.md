@@ -9,11 +9,22 @@ aliases: ["Juvenile Whitespine"]
 # Juvenile Whitespine
 
 **Tier:** 1  
-**Size:** medium  
-**Attributes:** Strength 2, Speed 3, Intellect 0, Willpower 2, Awareness 3, Presence 0  
-**Resources:** Health 42/42, Focus 4/4, Investiture 0  
-**Senses:** 20 ft.  
-**Skills:** AGI 3, ATH 3, STL 3, INM 2, PRC 2, SUR 2
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 2 | 3 | 0 | 2 | 3 | 0 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 42/42 | 4/4 | 0 |
+
+**Speed:** 30 ft.  
+**Senses:** 20 ft.
+
+| AGI | ATH | STL | INM | PRC | SUR |
+|---|---|---|---|---|---|
+| 3 | 3 | 3 | 2 | 2 | 2 |
 
 ##### Tactics
 

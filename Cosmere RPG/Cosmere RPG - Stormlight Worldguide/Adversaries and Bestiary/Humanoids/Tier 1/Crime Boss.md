@@ -9,12 +9,23 @@ aliases: ["Crime Boss"]
 # Crime Boss
 
 **Tier:** 1  
-**Size:** medium  
-**Attributes:** Strength 2, Speed 3, Intellect 5, Willpower 2, Awareness 2, Presence 4  
-**Resources:** Health 50/50, Focus 6/6, Investiture 0  
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 2 | 3 | 5 | 2 | 2 | 4 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 50/50 | 6/6 | 0 |
+
 **Deflect:** 1  
-**Senses:** 20 ft.  
-**Skills:** LWP 3, THV 2, DED 3, DIS 4, INM 4, DEC 3, LEA 3, PRC 3, PRS 2
+**Speed:** 30 ft.  
+**Senses:** 20 ft.
+
+| LWP | THV | DED | DIS | INM | DEC | LEA | PRC | PRS |
+|---|---|---|---|---|---|---|---|---|
+| 3 | 2 | 3 | 4 | 4 | 3 | 3 | 3 | 2 |
 
 ##### Opportunities and Complications
 

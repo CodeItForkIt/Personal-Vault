@@ -9,14 +9,27 @@ aliases: ["Hunting Chicken (Hawk)"]
 # Hunting Chicken (Hawk)
 
 **Tier:** 1  
-**Size:** small  
-**Attributes:** Strength 2, Speed 3, Intellect 0, Willpower 1, Awareness 3, Presence 0  
-**Defenses:** Physical 0, Cognitive 0, Spiritual 0  
-**Resources:** Health 12/12, Focus 3/3, Investiture 0/0  
+**Size:** small
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 2 | 3 | 0 | 1 | 3 | 0 |
+
+| Physical | Cognitive | Spiritual |
+|---|---|---|
+| 0 | 0 | 0 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 12/12 | 3/3 | 0/0 |
+
 **Deflect:** 0  
 **Speed:** 10 ft.  
-**Senses:** 5 ft.  
-**Skills:** AGI 1, STL 1, PRC 2, SUR 1
+**Senses:** 5 ft.
+
+| AGI | STL | PRC | SUR |
+|---|---|---|---|
+| 1 | 1 | 2 | 1 |
 
 ### Fleet
 *1*
