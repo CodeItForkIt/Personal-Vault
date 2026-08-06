@@ -8,7 +8,7 @@ aliases: ["Spiritual Healing"]
 ---
 ![[day-night-sunset-sunrise.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You mix Illumination and Regrowth to skillfully repair the mind and soul.*
 

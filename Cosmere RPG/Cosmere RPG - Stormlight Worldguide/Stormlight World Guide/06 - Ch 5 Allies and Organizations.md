@@ -101,6 +101,8 @@ In addition to offering amenities, the coalition’s authority extends in part t
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Coalition Patron Advantages]]
 
+[[Stormlight World Guide/13 - Appendix D Tables|Coalition Patron Advantages]]
+
 ## Jasnah
 
 Few have dedicated themselves to history as much as Jasnah Kholin, the queen of Alethkar, a leading scholar of her time, and an Elsecaller of the Knights Radiant. Born to Gavilar and Navani Kholin, she was changed forever by the assassination of her father. On that dark night, she plunged into Shadesmar, witnessed Szeth defy gravity and murder Gavilar, and learned the listeners sought Gavilar’s death because of his plans to bring back their gods.
@@ -227,6 +229,8 @@ Alternatively, one of the members of Bridge Four can take you on as a Windrunner
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Windrunner Flight Frequency]]
 
+[[Stormlight World Guide/13 - Appendix D Tables|Windrunner Flight Frequency]]
+
 ## Shallan
 
 Shallan Davar is a Veden scholar and a Lightweaver of the Knights Radiant. Witty, clever, and brave, she discovered Urithiru and saved her allies during the rise of the Everstorm. Though Shallan has faced great adversity, she’s learning not to be suffocated by her past, and instead to boldly stride toward the future.
@@ -280,6 +284,8 @@ In addition to offering amenities, Shallan can provide help from one of her Ligh
 Alternatively, Shallan can take you on as a Lightweaver squire instead of granting the above benefit.
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Opposed Lightweaving Tests]]
+
+[[Stormlight World Guide/13 - Appendix D Tables|Opposed Lightweaving Tests]]
 
 ## Szeth
 
@@ -392,6 +398,8 @@ Venli can provide you with connections to singers who resist Odium’s authority
 Alternatively, Venli can take you on as a Willshaper squire instead of granting the above benefit.
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Venli Patron Advantages]]
+
+[[Stormlight World Guide/13 - Appendix D Tables|Venli Patron Advantages]]
 
 ## Navani
 
@@ -760,6 +768,8 @@ For PCs who are willing to risk association, the Skybreakers might offer goals l
 In addition to offering amenities (usually those of the local law enforcement), the order can dispatch a Skybreaker to fly your group around Roshar if you can contact them and persuade them that your mission aligns with their Ideals. This Skybreaker won’t knowingly fly you into any kind of danger or enemy territory that would require Gravitation tests to navigate. The amount of time it takes for them to arrive and help you is at the GM’s discretion based on your current circumstances. The Skybreaker Flight Frequency table lists how often you can call for this help, depending on your tier.
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Skybreaker Flight Frequency]]
+
+[[Stormlight World Guide/13 - Appendix D Tables|Skybreaker Flight Frequency]]
 
 ## Sons of Honor
 

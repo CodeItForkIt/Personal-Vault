@@ -9,10 +9,21 @@ aliases: ["Stormform Regal"]
 # Stormform Regal
 
 **Tier:** 2  
-**Size:** medium  
-**Attributes:** Strength 2, Speed 4, Intellect 2, Willpower 4, Awareness 1, Presence 3  
-**Resources:** Health 40/40, Focus 6/6, Investiture 5/5  
-**Skills:** AGI 3, ATH 3, LWP 2, DIS 2, INM 3, PRC 3
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 2 | 4 | 2 | 4 | 1 | 3 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 40/40 | 6/6 | 5/5 |
+
+**Speed:** 40 ft.
+
+| AGI | ATH | LWP | DIS | INM | PRC |
+|---|---|---|---|---|---|
+| 3 | 3 | 2 | 2 | 3 | 3 |
 
 ##### Tactics
 

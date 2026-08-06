@@ -9,11 +9,22 @@ aliases: ["Dustbringer of the Third Ideal"]
 # Dustbringer of the Third Ideal
 
 **Tier:** 3  
-**Size:** medium  
-**Attributes:** Strength 2, Speed 4, Intellect 4, Willpower 3, Awareness 4, Presence 1  
-**Resources:** Health 47/47, Focus 5/5, Investiture 6/6  
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 2 | 4 | 4 | 3 | 4 | 1 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 47/47 | 5/5 | 6/6 |
+
 **Deflect:** 2  
-**Skills:** AGI 4, LWP 4, STL 4, DIS 3, INM 3, LEA 4, PRC 3, DVS 4, ABR 3
+**Speed:** 40 ft.
+
+| AGI | LWP | STL | DIS | INM | LEA | PRC | DVS | ABR |
+|---|---|---|---|---|---|---|---|---|
+| 4 | 4 | 4 | 3 | 3 | 4 | 3 | 4 | 3 |
 
 ##### Opportunities and Complications
 

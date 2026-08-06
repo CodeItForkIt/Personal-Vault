@@ -9,11 +9,22 @@ aliases: ["Ghostblood Spy"]
 # Ghostblood Spy
 
 **Tier:** 1  
-**Size:** medium  
-**Attributes:** Strength 0, Speed 4, Intellect 2, Willpower 2, Awareness 1, Presence 2  
-**Resources:** Health 21/21, Focus 4/4, Investiture 0  
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 0 | 4 | 2 | 2 | 1 | 2 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 21/21 | 4/4 | 0 |
+
 **Deflect:** 1  
-**Skills:** AGI 1, LWP 2, STL 2, DED 2, LOR 1, DEC 2, INS 2, PRC 2, SUR 1
+**Speed:** 40 ft.
+
+| AGI | LWP | STL | DED | LOR | DEC | INS | PRC | SUR |
+|---|---|---|---|---|---|---|---|---|
+| 1 | 2 | 2 | 2 | 1 | 2 | 2 | 2 | 1 |
 
 ##### Tactics
 

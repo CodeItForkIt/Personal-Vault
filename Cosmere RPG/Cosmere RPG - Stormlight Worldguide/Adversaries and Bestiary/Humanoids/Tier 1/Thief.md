@@ -9,12 +9,23 @@ aliases: ["Thief"]
 # Thief
 
 **Tier:** 1  
-**Size:** medium  
-**Attributes:** Strength 1, Speed 3, Intellect 2, Willpower 1, Awareness 2, Presence 1  
-**Resources:** Health 20/20, Focus 3/3, Investiture 0  
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 1 | 3 | 2 | 1 | 2 | 1 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 20/20 | 3/3 | 0 |
+
 **Deflect:** 1  
-**Senses:** 20 ft.  
-**Skills:** AGI 2, LWP 2, STL 2, THV 2, DEC 2, PRC 2, PRS 2
+**Speed:** 30 ft.  
+**Senses:** 20 ft.
+
+| AGI | LWP | STL | THV | DEC | PRC | PRS |
+|---|---|---|---|---|---|---|
+| 2 | 2 | 2 | 2 | 2 | 2 | 2 |
 
 ##### Tactics
 
@@ -23,7 +34,7 @@ A **thief** begins by using **Disorienting Distraction** and—if trying to avoi
 ### Quick Hands
 *1*
 
-When a character triggers a Reactive Strike reaction from the Thief, the Thief can instead use their Pickpocket as r (without spending focus for a Reactive Strike).
+When a character triggers a Reactive Strike reaction from the Thief, the Thief can instead use their Pickpocket as Reaction (without spending focus for a Reactive Strike).
 
 ### Disorienting Distraction
 *1 act*
@@ -38,7 +49,7 @@ The Thief attempts to rifle through the belongings of a humanoid within 5 feet o
 ### Slippery
 *1 rea*
 
-After an enemy ends a Move action within 5 feet of the Thief, the Thief can use the Disengage action as r. If the Thief ends this movement in cover or in an area where an enemy's primary sense is obscured, enemies affected by that cover or obscured senses gain a disadvantage on attacks against the Thief until the end of the Thief's next turn.
+After an enemy ends a Move action within 5 feet of the Thief, the Thief can use the Disengage action as Reaction. If the Thief ends this movement in cover or in an area where an enemy's primary sense is obscured, enemies affected by that cover or obscured senses gain a disadvantage on attacks against the Thief until the end of the Thief's next turn.
 
 ### Strike: Dagger
 *1 act*

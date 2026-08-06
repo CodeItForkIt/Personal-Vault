@@ -302,6 +302,8 @@ The Radiant Orders Table summarizes the ten orders, then the following sections 
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Radiant Orders]]
 
+[[Stormlight Handbook/17 - Appendix 2 Tables|Radiant Orders]]
+
 > [!tip] Bonding Multiple Radiant Spren
 > Though incredibly uncommon, it’s possible to bond multiple Radiant spren—either two of the same type, or even two of different types. While each PC can usually only join one Radiant path, you and your GM can make an exception if it fits the story. For each spren bond, you must speak and maintain new oaths as described below.
 >
@@ -439,6 +441,8 @@ In the modern era, most ashspren still haven’t forgiven humans for the Recrean
 >
 > **0** **or** **r** **Test Assistance (Costs 1 Focus).** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, ashspren can help with setting traps, dismantling objects, Crafting tests, and Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.
 
+[[Radiant Paths/Dustbringer/Dustbringer Talents Talent Tree.canvas|Dustbringer Talents]]
+
 **SONDERFLEX STUDIOS**
 
 ## Dustbringer Key Talent
@@ -447,7 +451,7 @@ When a Dustbringer completes their goal from the First Ideal key talent, this un
 
 \
 
-**First Ideal (Dustbringer)**
+[[Radiant Paths/Dustbringer/Talents/First Ideal Dustbringer|First Ideal (Dustbringer)]]
 
 ## Ashspren Bond Talents
 
@@ -455,19 +459,35 @@ The following talents, presented here in alphabetical order, appear in the Ashsp
 
 \
 
-\
+[[Radiant Paths/Dustbringer/Talents/Ashspren Bond/Deepened Bond|Deepened Bond]]
 
 \
 
-\
+[[Radiant Paths/Dustbringer/Talents/Ashspren Bond/Fourth Ideal Dustbringer|Fourth Ideal (Dustbringer)]]
 
 \
 
-\
+[[Radiant Paths/Dustbringer/Talents/Ashspren Bond/Invested|Invested]]
 
 \
 
+[[Radiant Paths/Dustbringer/Talents/Ashspren Bond/Searing Dust Storm|Searing Dust Storm]]
+
 \
+
+[[Radiant Paths/Dustbringer/Talents/Ashspren Bond/Second Ideal Dustbringer|Second Ideal (Dustbringer)]]
+
+\
+
+[[Radiant Paths/Dustbringer/Talents/Ashspren Bond/Take Squire Dustbringer|Take Squire (Dustbringer)]]
+
+\
+
+[[Radiant Paths/Dustbringer/Talents/Ashspren Bond/Third Ideal Dustbringer|Third Ideal (Dustbringer)]]
+
+\
+
+[[Radiant Paths/Dustbringer/Talents/Ashspren Bond/Wound Regeneration|Wound Regeneration]]
 
 > [!tip] GM Tip: Dustbringers and Canon
 > Within the Stormlight Archive books, Dustbringers can’t access the surge of Division until at least the Second Ideal. If your group wishes to emulate this element of canon in your own game, you can use the [[Radiant Paths/Dustbringer (Canon)/Dustbringer Canon|Dustbringer (Canon)]] path instead.
@@ -606,6 +626,8 @@ While other spren usually regard Nahel bonds and the return of the Radiants with
 >
 > **0** **or** **r** **Test Assistance (Costs 1 Focus).** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, cultivationspren can help with finding common ground or similarly understanding someone you don’t share a culture or language with (though they must still speak at least one language), Insight tests, and Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.
 
+[[Radiant Paths/Edgedancer/Edgedancer Talents Talent Tree.canvas|Edgedancer Talents]]
+
 **SONDERFLEX STUDIOS**
 
 ## Edgedancer Key Talent
@@ -614,7 +636,7 @@ When an Edgedancer completes their goal from the First Ideal key talent, this un
 
 \
 
-**First Ideal (Edgedancer)**
+[[Radiant Paths/Edgedancer/Talents/First Ideal Edgedancer|First Ideal (Edgedancer)]]
 
 ## Cultivationspren Bond Talents
 
@@ -622,19 +644,35 @@ The following talents, presented here in alphabetical order, appear in the Culti
 
 \
 
-\
+[[Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Deepened Bond|Deepened Bond]]
 
 \
 
-\
+[[Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Edgedancers Grace|Edgedancer's Grace]]
 
 \
 
-\
+[[Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Fourth Ideal Edgedancer|Fourth Ideal (Edgedancer)]]
 
 \
 
+[[Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Invested|Invested]]
+
 \
+
+[[Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Second Ideal Edgedancer|Second Ideal (Edgedancer)]]
+
+\
+
+[[Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Take Squire Edgedancer|Take Squire (Edgedancer)]]
+
+\
+
+[[Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Third Ideal Edgedancer|Third Ideal (Edgedancer)]]
+
+\
+
+[[Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Wound Regeneration|Wound Regeneration]]
 
 ![[pg148_path_banner_Elsecaller.webp]]
 
@@ -760,6 +798,8 @@ Despite the overall censure of sapient physical entities in inkspren culture, a 
 >
 > **0** **or** **r** **Test Assistance (Costs 1 Focus).** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, inkspren can help you with Deduction, Discipline, and Stealth tests, along with Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.
 
+[[Radiant Paths/Elsecaller/Elsecaller Talents Talent Tree.canvas|Elsecaller Talents]]
+
 **SONDERFLEX STUDIOS**
 
 ## Elsecaller Key Talent
@@ -768,7 +808,7 @@ When an Elsecaller completes their goal from the First Ideal key talent, this un
 
 \
 
-**First Ideal (Elsecaller)**
+[[Radiant Paths/Elsecaller/Talents/First Ideal Elsecaller|First Ideal (Elsecaller)]]
 
 ## Inkspren Bond Talents
 
@@ -776,19 +816,35 @@ The following talents, presented here in alphabetical order, appear in the Inksp
 
 \
 
-\
+[[Radiant Paths/Elsecaller/Talents/Inkspren Bond/Deepened Bond|Deepened Bond]]
 
 \
 
-\
+[[Radiant Paths/Elsecaller/Talents/Inkspren Bond/Elsecallers Perspicacity|Elsecaller's Perspicacity]]
 
 \
 
-\
+[[Radiant Paths/Elsecaller/Talents/Inkspren Bond/Fourth Ideal Elsecaller|Fourth Ideal (Elsecaller)]]
 
 \
 
+[[Radiant Paths/Elsecaller/Talents/Inkspren Bond/Invested|Invested]]
+
 \
+
+[[Radiant Paths/Elsecaller/Talents/Inkspren Bond/Second Ideal Elsecaller|Second Ideal (Elsecaller)]]
+
+\
+
+[[Radiant Paths/Elsecaller/Talents/Inkspren Bond/Take Squire Elsecaller|Take Squire (Elsecaller)]]
+
+\
+
+[[Radiant Paths/Elsecaller/Talents/Inkspren Bond/Third Ideal Elsecaller|Third Ideal (Elsecaller)]]
+
+\
+
+[[Radiant Paths/Elsecaller/Talents/Inkspren Bond/Wound Regeneration|Wound Regeneration]]
 
 ![[pg156_path_banner_Lightweaver.webp]]
 
@@ -908,6 +964,8 @@ Unlike many spren, a Cryptic who seeks to bond a human often doesn’t do so alo
 >
 > Once you speak the Third Ideal, your Cryptic becomes much better at detecting falsehoods, and you can use this Test Assistance ability to gain an advantage on a test to determine whether a character within your spren bond range is lying.
 
+[[Radiant Paths/Lightweaver/Lightweaver Talents Talent Tree.canvas|Lightweaver Talents]]
+
 **SONDERFLEX STUDIOS**
 
 ## Lightweaver Key Talent
@@ -918,7 +976,7 @@ When a Lightweaver completes their goal from the First Ideal key talent, this un
 
 \
 
-**First Ideal (Lightweaver)**
+[[Radiant Paths/Lightweaver/Talents/First Ideal Lightweaver|First Ideal (Lightweaver)]]
 
 ## Cryptic Bond Talents
 
@@ -926,19 +984,35 @@ The following talents, presented here in alphabetical order, appear in the Crypt
 
 \
 
-\
+[[Radiant Paths/Lightweaver/Talents/Cryptic Bond/Deepened Bond|Deepened Bond]]
 
 \
 
-\
+[[Radiant Paths/Lightweaver/Talents/Cryptic Bond/Fourth Ideal Lightweaver|Fourth Ideal (Lightweaver)]]
 
 \
 
-\
+[[Radiant Paths/Lightweaver/Talents/Cryptic Bond/Invested|Invested]]
 
 \
 
+[[Radiant Paths/Lightweaver/Talents/Cryptic Bond/Physical Illusion|Physical Illusion]]
+
 \
+
+[[Radiant Paths/Lightweaver/Talents/Cryptic Bond/Second Ideal Lightweaver|Second Ideal (Lightweaver)]]
+
+\
+
+[[Radiant Paths/Lightweaver/Talents/Cryptic Bond/Take Squire Lightweaver|Take Squire (Lightweaver)]]
+
+\
+
+[[Radiant Paths/Lightweaver/Talents/Cryptic Bond/Third Ideal Lightweaver|Third Ideal (Lightweaver)]]
+
+\
+
+[[Radiant Paths/Lightweaver/Talents/Cryptic Bond/Wound Regeneration|Wound Regeneration]]
 
 ![[pg164_path_banner_Skybreaker.webp]]
 
@@ -1072,6 +1146,8 @@ Nale’s faction of highspren don’t form a bond until their Skybreaker speaks 
 >
 > **0** **or** **r** **Test Assistance (Costs 1 Focus).** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, highspren can help with investigating crimes and determining guilt or innocence, Intimidation tests, and Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.
 
+[[Radiant Paths/Skybreaker/Skybreaker Talents Talent Tree.canvas|Skybreaker Talents]]
+
 **SONDERFLEX STUDIOS**
 
 ## Skybreaker Key Talent
@@ -1082,7 +1158,7 @@ When a Skybreaker completes their goal from the First Ideal key talent, this unl
 
 \
 
-**First Ideal (Skybreaker)**
+[[Radiant Paths/Skybreaker/Talents/First Ideal Skybreaker|First Ideal (Skybreaker)]]
 
 ## Highspren Bond Talents
 
@@ -1090,19 +1166,35 @@ The following talents, presented here in alphabetical order, appear in the Highs
 
 \
 
-\
+[[Radiant Paths/Elsecaller/Talents/Inkspren Bond/Deepened Bond|Deepened Bond]]
 
 \
 
-\
+[[Radiant Paths/Elsecaller/Talents/Inkspren Bond/Fourth Ideal Elsecaller|Fourth Ideal (Elsecaller)]]
 
 \
 
-\
+[[Radiant Paths/Elsecaller/Talents/Inkspren Bond/Invested|Invested]]
 
 \
 
+[[Radiant Paths/Elsecaller/Talents/Inkspren Bond/Second Ideal Elsecaller|Second Ideal (Elsecaller)]]
+
 \
+
+[[Radiant Paths/Skybreaker/Talents/Highspren Bond/Soaring Destruction|Soaring Destruction]]
+
+\
+
+[[Radiant Paths/Skybreaker/Talents/Highspren Bond/Take Squire Skybreaker|Take Squire (Skybreaker)]]
+
+\
+
+[[Radiant Paths/Skybreaker/Talents/Highspren Bond/Third Ideal Skybreaker|Third Ideal (Skybreaker)]]
+
+\
+
+[[Radiant Paths/Skybreaker/Talents/Highspren Bond/Wound Regeneration|Wound Regeneration]]
 
 \
 
@@ -1253,6 +1345,8 @@ When a peakspren seeks a prospective Radiant to bond, they tend to value jovial 
 >
 > **0** **or** **rTest Assistance (Costs 1 Focus).** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, peakspren can help with supporting or coordinating individuals (especially unruly ones), Athletics tests, and Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.
 
+[[Radiant Paths/Stoneward/Stoneward Talents Talent Tree.canvas|Stoneward Talents]]
+
 **SONDERFLEX STUDIOS**
 
 ## Stoneward Key Talent
@@ -1261,7 +1355,7 @@ When a Stoneward completes their goal from the First Ideal key talent, this unlo
 
 \
 
-**First Ideal (Stoneward)**
+[[Radiant Paths/Stoneward/Talents/First Ideal Stoneward|First Ideal (Stoneward)]]
 
 ## Peakspren Bond Talents
 
@@ -1269,19 +1363,35 @@ The following talents, presented here in alphabetical order, appear in the Peaks
 
 \
 
-\
+[[Radiant Paths/Stoneward/Talents/Peakspren Bond/Cohesive Teamwork|Cohesive Teamwork]]
 
 \
 
-\
+[[Radiant Paths/Stoneward/Talents/Peakspren Bond/Deepened Bond|Deepened Bond]]
 
 \
 
-\
+[[Radiant Paths/Stoneward/Talents/Peakspren Bond/Fourth Ideal Stoneward|Fourth Ideal (Stoneward)]]
 
 \
 
+[[Radiant Paths/Stoneward/Talents/Peakspren Bond/Invested|Invested]]
+
 \
+
+[[Radiant Paths/Stoneward/Talents/Peakspren Bond/Second Ideal Stoneward|Second Ideal (Stoneward)]]
+
+\
+
+[[Radiant Paths/Stoneward/Talents/Peakspren Bond/Take Squire Stoneward|Take Squire (Stoneward)]]
+
+\
+
+[[Radiant Paths/Stoneward/Talents/Peakspren Bond/Third Ideal Stoneward|Third Ideal (Stoneward)]]
+
+\
+
+[[Radiant Paths/Stoneward/Talents/Peakspren Bond/Wound Regeneration|Wound Regeneration]]
 
 ![[pg180_path_banner_Truthwatcher.webp]]
 
@@ -1422,6 +1532,8 @@ Mistspren who have been Enlightened seem to take on new and simpler names such a
 >
 > **0** **or** **rTest Assistance (Costs 1 Focus).** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, mistspren can help with approaching and engaging in new experiences, understanding others’ perspectives, Persuasion tests, and Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.
 
+[[Radiant Paths/Truthwatcher/Truthwatcher Talents Talent Tree.canvas|Truthwatcher Talents]]
+
 **SONDERFLEX STUDIOS**
 
 ## Truthwatcher Key Talent
@@ -1430,7 +1542,7 @@ When a Truthwatcher completes their goal from the First Ideal key talent, this u
 
 \
 
-**First Ideal (Truthwatcher)**
+[[Radiant Paths/Truthwatcher/Talents/First Ideal Truthwatcher|First Ideal (Truthwatcher)]]
 
 ## Mistspren Bond Talents
 
@@ -1438,19 +1550,35 @@ The following talents, presented here in alphabetical order, appear in the Mists
 
 \
 
-\
+[[Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Deepened Bond|Deepened Bond]]
 
 \
 
-\
+[[Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Fourth Ideal Truthwatcher|Fourth Ideal (Truthwatcher)]]
 
 \
 
-\
+[[Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Invested|Invested]]
 
 \
 
+[[Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Second Ideal Truthwatcher|Second Ideal (Truthwatcher)]]
+
 \
+
+[[Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Spiritual Healing|Spiritual Healing]]
+
+\
+
+[[Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Take Squire Truthwatcher|Take Squire (Truthwatcher)]]
+
+\
+
+[[Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Third Ideal Truthwatcher|Third Ideal (Truthwatcher)]]
+
+\
+
+[[Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Wound Regeneration|Wound Regeneration]]
 
 \
 
@@ -1458,21 +1586,33 @@ The following talents, presented here in alphabetical order, appear in the Mists
 
 If you bond an Enlightened mistspren (see the earlier [[Stormlight Handbook/06 - Ch 5 Radiant Paths#Enlightened Mistspren|Enlightened Mistspren]] section), you gain the Future Sight talent for free. This unlocks access to the remaining talents in the Future Sight tree, which you can choose as usual when you gain a level.
 
+[[Radiant Paths/Truthwatcher (Enlightened)/Enlightened Talents Talent Tree.canvas|Enlightened Talents]]
+
 **An enlightened mistspren in the Physical Realm** **- SAMI RYTKÖNEN**
 
 \
 
-**Future Sight (Enlightened Key)**
+[[Radiant Paths/Truthwatcher (Enlightened)/Talents/Future Sight|Future Sight (Enlightened Key)]]
 
 \
 
-\
+[[Radiant Paths/Truthwatcher (Enlightened)/Talents/Enlightened Talents/Alter Fortune|Alter Fortune]]
 
 \
 
-\
+[[Radiant Paths/Truthwatcher (Enlightened)/Talents/Enlightened Talents/Glimpse The Future|Glimpse The Future]]
 
 \
+
+[[Radiant Paths/Truthwatcher (Enlightened)/Talents/Enlightened Talents/Search the Past|Search the Past]]
+
+\
+
+[[Stormlight Handbook/17 - Appendix 2 Tables|Past Sight DC]]
+
+\
+
+[[Radiant Paths/Truthwatcher (Enlightened)/Talents/Enlightened Talents/Vision Void|Vision Void]]
 
 ![[pg190_path_banner_Willshaper.webp]]
 
@@ -1608,6 +1748,8 @@ When a Reacher seeks a prospective Radiant, they first look for kindness and emp
 >
 > **0** **or** **r** **Test Assistance (Costs 1 Focus).** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, lightspren can help with tests related to travel and fair trade, Survival tests, and Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.
 
+[[Radiant Paths/Willshaper/Willshaper Talents Talent Tree.canvas|Willshaper Talents]]
+
 **SONDERFLEX STUDIOS**
 
 ## Willshaper Key Talent
@@ -1616,7 +1758,7 @@ When a Willshaper completes their goal from the First Ideal key talent, this unl
 
 \
 
-**First Ideal (Willshaper)**
+[[Radiant Paths/Willshaper/Talents/First Ideal Willshaper|First Ideal (Willshaper)]]
 
 ## Lightspren Bond Talents
 
@@ -1624,19 +1766,35 @@ The following talents, presented here in alphabetical order, appear in the Light
 
 \
 
-\
+[[Radiant Paths/Willshaper/Talents/Lightspren Bond/Deepened Bond|Deepened Bond]]
 
 \
 
-\
+[[Radiant Paths/Willshaper/Talents/Lightspren Bond/Fourth Ideal Willshaper|Fourth Ideal (Willshaper)]]
 
 \
 
-\
+[[Radiant Paths/Willshaper/Talents/Lightspren Bond/Invested|Invested]]
 
 \
 
+[[Radiant Paths/Willshaper/Talents/Lightspren Bond/Second Ideal Willshaper|Second Ideal (Willshaper)]]
+
 \
+
+[[Radiant Paths/Willshaper/Talents/Lightspren Bond/Spiritual Cohesion|Spiritual Cohesion]]
+
+\
+
+[[Radiant Paths/Willshaper/Talents/Lightspren Bond/Take Squire Willshaper|Take Squire (Willshaper)]]
+
+\
+
+[[Radiant Paths/Willshaper/Talents/Lightspren Bond/Third Ideal Willshaper|Third Ideal (Willshaper)]]
+
+\
+
+[[Radiant Paths/Willshaper/Talents/Lightspren Bond/Wound Regeneration|Wound Regeneration]]
 
 ![[pg198_path_banner_Windrunner.webp]]
 
@@ -1768,6 +1926,8 @@ The honorspren still remember how many of their number were killed in the Recrea
 >
 > **0** **or** **r** **Test Assistance (Costs 1 Focus).** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, honorspren can help with keeping track of time, predicting highstorms, Leadership tests, and Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.
 
+[[Radiant Paths/Windrunner/Windrunner Talents Talent Tree.canvas|Windrunner Talents]]
+
 **SONDERFLEX STUDIOS**
 
 ## Windrunner Key Talent
@@ -1776,7 +1936,7 @@ When a Windrunner completes their goal from the First Ideal key talent, this unl
 
 \
 
-**First Ideal (Windrunner)**
+[[Radiant Paths/Windrunner/Talents/First Ideal Windrunner|First Ideal (Windrunner)]]
 
 ## Honorspren Bond Talents
 
@@ -1784,19 +1944,35 @@ The following talents, presented here in alphabetical order, appear in the Honor
 
 \
 
-\
+[[Radiant Paths/Windrunner/Talents/Honorspren Bond/Deepened Bond|Deepened Bond]]
 
 \
 
-\
+[[Radiant Paths/Windrunner/Talents/Honorspren Bond/Fourth Ideal Windrunner|Fourth Ideal (Windrunner)]]
 
 \
 
-\
+[[Radiant Paths/Windrunner/Talents/Honorspren Bond/Invested|Invested]]
 
 \
 
+[[Radiant Paths/Windrunner/Talents/Honorspren Bond/Reverse Lashing|Reverse Lashing]]
+
 \
+
+[[Radiant Paths/Windrunner/Talents/Honorspren Bond/Second Ideal Windrunner|Second Ideal (Windrunner)]]
+
+\
+
+[[Radiant Paths/Windrunner/Talents/Honorspren Bond/Take Squire Windrunner|Take Squire (Windrunner)]]
+
+\
+
+[[Radiant Paths/Windrunner/Talents/Honorspren Bond/Third Ideal Windrunner|Third Ideal (Windrunner)]]
+
+\
+
+[[Radiant Paths/Windrunner/Talents/Honorspren Bond/Wound Regeneration|Wound Regeneration]]
 
 ![[pg206_path_banner_Bondsmith.webp]]
 

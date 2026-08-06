@@ -9,10 +9,21 @@ aliases: ["Masked One"]
 # Masked One
 
 **Tier:** 2  
-**Size:** medium  
-**Attributes:** Strength 1, Speed 4, Intellect 3, Willpower 2, Awareness 3, Presence 6  
-**Resources:** Health 38/38, Focus 4/4, Investiture 8/8  
-**Skills:** LWP 3, STL 3, THV 2, DED 2, INM 3, DEC 3, PRC 3, PRS 3, ILL 3
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 1 | 4 | 3 | 2 | 3 | 6 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 38/38 | 4/4 | 8/8 |
+
+**Speed:** 40 ft.
+
+| LWP | STL | THV | DED | INM | DEC | PRC | PRS | ILL |
+|---|---|---|---|---|---|---|---|---|
+| 3 | 3 | 2 | 2 | 3 | 3 | 3 | 3 | 3 |
 
 ##### Opportunities and Complications
 

@@ -8,7 +8,7 @@ aliases: ["Reliable Progression"]
 ---
 ![[debuff-chains-ropes-green.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *Through adept control of your Stormlight, your Growth and Regrowth become even more dependable.*
 

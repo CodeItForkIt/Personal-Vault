@@ -9,11 +9,22 @@ aliases: ["Teryn"]
 # Teryn
 
 **Tier:** 2  
-**Size:** medium  
-**Attributes:** Strength 3, Speed 2, Intellect 1, Willpower 3, Awareness 2, Presence 1  
-**Resources:** Health 38/38, Focus 5/5, Investiture 0  
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 3 | 2 | 1 | 3 | 2 | 1 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 38/38 | 5/5 | 0 |
+
 **Deflect:** 1  
-**Skills:** AGI 3, ATH 1, HWP 3, LWP 2, DIS 1, INM 1, PRC 3, SUR 1
+**Speed:** 20 ft.
+
+| AGI | ATH | HWP | LWP | DIS | INM | PRC | SUR |
+|---|---|---|---|---|---|---|---|
+| 3 | 1 | 3 | 2 | 1 | 1 | 3 | 1 |
 
 ##### Tactics
 

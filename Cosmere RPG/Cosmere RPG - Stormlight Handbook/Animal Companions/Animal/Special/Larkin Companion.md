@@ -9,14 +9,27 @@ aliases: ["Larkin (Companion)"]
 # Larkin (Companion)
 
 **Tier:** 1  
-**Size:** small  
-**Attributes:** Strength 1, Speed 3, Intellect 1, Willpower 2, Awareness 3, Presence 1  
-**Defenses:** Physical 0, Cognitive 0, Spiritual 0  
-**Resources:** Health 14/14, Focus 4/4, Investiture 5/5  
+**Size:** small
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 1 | 3 | 1 | 2 | 3 | 1 |
+
+| Physical | Cognitive | Spiritual |
+|---|---|---|
+| 0 | 0 | 0 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 14/14 | 4/4 | 5/5 |
+
 **Deflect:** 0  
-**Speed:** 0 ft.  
-**Senses:** 20 ft.  
-**Skills:** AGI 2, INS 1, PRC 2, SUR 1
+**Speed:** 30 ft.  
+**Senses:** 20 ft.
+
+| AGI | INS | PRC | SUR |
+|---|---|---|---|
+| 2 | 1 | 2 | 1 |
 
 ### Special Companion: Larkin
 

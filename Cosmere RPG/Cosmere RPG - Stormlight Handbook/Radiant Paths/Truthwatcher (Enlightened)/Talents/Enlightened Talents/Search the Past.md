@@ -8,7 +8,7 @@ aliases: ["Search the Past"]
 ---
 ![[hourglass-brown-orange.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You can attempt to direct your visions to see past events; the further back you look, the harder they are to glimpse.*
 

@@ -8,7 +8,7 @@ aliases: ["Instill Confidence"]
 ---
 ![[peace-luck-insult.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *Your presence brings clarity and encouragement, keeping others focused on their goal.*
 

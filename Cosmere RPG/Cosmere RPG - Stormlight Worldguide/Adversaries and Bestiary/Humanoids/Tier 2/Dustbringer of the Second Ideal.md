@@ -9,11 +9,22 @@ aliases: ["Dustbringer of the Second Ideal"]
 # Dustbringer of the Second Ideal
 
 **Tier:** 2  
-**Size:** medium  
-**Attributes:** Strength 2, Speed 3, Intellect 3, Willpower 2, Awareness 3, Presence 1  
-**Resources:** Health 40/40, Focus 4/4, Investiture 5/5  
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 2 | 3 | 3 | 2 | 3 | 1 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 40/40 | 4/4 | 5/5 |
+
 **Deflect:** 2  
-**Skills:** AGI 3, LWP 3, STL 3, DIS 2, INM 2, LEA 2, PRC 2, ABR 2, DVS 3
+**Speed:** 30 ft.
+
+| AGI | LWP | STL | DIS | INM | LEA | PRC | ABR | DVS |
+|---|---|---|---|---|---|---|---|---|
+| 3 | 3 | 3 | 2 | 2 | 2 | 2 | 2 | 3 |
 
 ##### Tactics
 

@@ -139,6 +139,8 @@ The Alethi merchant is **[[Actors/Adversaries/Named/Ch. 1/Nen|Nen]]** (commoner,
 
 #### [[Journal/11 - Appendix C Tables|Caravan Gossip]]
 
+[[Journal/11 - Appendix C Tables|Caravan Gossip]]
+
 ## House Kholin Caravan
 
 The party can integrate themselves with the Kholin caravan and learn some gossip by being useful to Bordin’s soldiers. If the PCs approach the Kholin caravan, read the following:
@@ -171,6 +173,8 @@ Alternatively, the commotion surrounding highstorm preparations allows any chara
 If the PCs linger here—either because Ellar allows them to or because they remain unnoticed—they can overhear interesting gossip with a successful DC 14 Perception test. You can choose or roll for gossip from the Caravan Gossip table.
 
 #### [[Journal/11 - Appendix C Tables|Caravan Gossip]]
+
+[[Journal/11 - Appendix C Tables|Caravan Gossip]]
 
 ### Bordin and the Guarded Wagon
 
@@ -324,6 +328,8 @@ If a character gains an Opportunity or Complication, use the Wagon Opportunities
 
 #### [[Journal/11 - Appendix C Tables|Wagon Opportunities and Complications]]
 
+[[Journal/11 - Appendix C Tables|Wagon Opportunities and Complications]]
+
 #### **Resolving the Endeavor**
 
 The endeavor succeeds if the party accrues 3 successes before 3 failures, or if they otherwise complete the objective.
@@ -414,6 +420,8 @@ If a character gains an Opportunity or Complication, use the Road Ambush Opportu
 
 #### [[Journal/11 - Appendix C Tables|Road Ambush Opportunities and Complications]]
 
+[[Journal/11 - Appendix C Tables|Road Ambush Opportunities and Complications]]
+
 ## Ambush at the Caravan
 
 If the PCs are trying to get into the locked Honorblade wagon when the bandits attack, add two additional **[[Actors/Adversaries/Bandit|bandits]]** to those attacking the party.
@@ -429,6 +437,8 @@ Characters might try to investigate or interact with the following elements of t
 If a character gains an Opportunity or Complication, use the Caravan Ambush Opportunities and Complications table for inspiration.
 
 #### [[Journal/11 - Appendix C Tables|Caravan Ambush Opportunities and Complications]]
+
+[[Journal/11 - Appendix C Tables|Caravan Ambush Opportunities and Complications]]
 
 ![[pg028_Map 1-2 The Caravan_EDUARDO NONATO CAVALCANTE.webp]]
 
@@ -529,6 +539,8 @@ During the combat with Veth (see **map 1.3**), the following effects are active:
 - **Leaving Shelter.** Following Ylt and Kaiana into the storm is impossible without the Stormlight healing that protects them both. If a PC moves more than 50 feet away from the Covenant Stone, warn that they will be exposed to the full force of the highstorm. If a PC enters the storm anyway, they take 6 (`1d12`) impact damage at the start of each of their turns.
 
 #### [[Journal/11 - Appendix C Tables|Highstorm Effects]]
+
+[[Journal/11 - Appendix C Tables|Highstorm Effects]]
 
 ![[pg031_Map 1-3 Battle with Veth_EDUARDO NONATO CAVALCANTE.webp]]
 

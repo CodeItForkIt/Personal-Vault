@@ -8,7 +8,7 @@ aliases: ["Cutthroat Tactics"]
 ---
 ![[blade-tip-orange.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You’ve learned to take risks if you want to get results. When briefing your allies, sometimes you downplay the danger to increase their confidence—and to increase the chances they’ll prevail.*
 

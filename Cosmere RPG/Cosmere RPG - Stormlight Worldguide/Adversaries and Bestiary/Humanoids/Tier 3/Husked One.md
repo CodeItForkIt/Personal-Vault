@@ -9,10 +9,21 @@ aliases: ["Husked One"]
 # Husked One
 
 **Tier:** 3  
-**Size:** large  
-**Attributes:** Strength 2, Speed 4, Intellect 7, Willpower 3, Awareness 2, Presence 4  
-**Resources:** Health 185/185, Focus 7/7, Investiture 6/6  
-**Skills:** AGI 4, LWP 4, DED 4, INM 4, INS 4, LEA 4, PRC 3, TRP 4
+**Size:** large
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 2 | 4 | 7 | 3 | 2 | 4 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 185/185 | 7/7 | 6/6 |
+
+**Speed:** 40 ft.
+
+| AGI | LWP | DED | INM | INS | LEA | PRC | TRP |
+|---|---|---|---|---|---|---|---|
+| 4 | 4 | 4 | 4 | 4 | 4 | 3 | 4 |
 
 ##### Opportunities and Complications
 

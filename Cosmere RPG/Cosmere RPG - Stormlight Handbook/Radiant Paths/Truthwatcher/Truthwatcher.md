@@ -44,15 +44,10 @@ Thousands of years after the Recreance, only a few Truthwatchers have appeared. 
 
 Enlightened Truthwatchers bond to mistspren that became willingly corrupted by the Unmade Sja-anat. This alters the spren’s appearance and the abilities granted by their spren bond. These unusual powers include future sight, which is believed to be related to Odium and Voidbinding. Renarin Kholin and the Enlightened mistspren Glys were the first known pair of this new type of Radiant, and they’ve begun carefully recruiting to bolster their number for the continued war against Odium.
 
-<div id="secret-PDD06WuzwCEMYhv7" class="section secret">
-
-#### Enlightened Truthwatchers
-
-With your GM’s permission, you might be able to bond with a mistspren who has been Enlightened by Sja-anat. As an Enlightened Truthwatcher, you begin having visions of the past and future. When you bond this mistspren, you gain the Future Sight key talent from the Enlightened talent tree (see the end of this “Truthwatcher” entry). Later, after you speak the First Ideal, you can choose additional talents from this talent tree, in addition to the talents from your Truthwatcher path.
-
-As these Truthwatchers continue experimenting with the surge, they usually become adept in Spiritual Lightweaving, which excels in affecting hearts and minds. When choosing Illumination talents, you’re encouraged to select talents from the left side of the tree. These talents include Distracting Illusion, Disorienting Flash, Spiritual Illumination, and Painful Truth; you might also choose Endless Illusions in addition to or instead of Painful Truth.
-
-</div>
+> [!note]- Enlightened Truthwatchers
+> With your GM’s permission, you might be able to bond with a mistspren who has been Enlightened by Sja-anat. As an Enlightened Truthwatcher, you begin having visions of the past and future. When you bond this mistspren, you gain the Future Sight key talent from the Enlightened talent tree (see the end of this “Truthwatcher” entry). Later, after you speak the First Ideal, you can choose additional talents from this talent tree, in addition to the talents from your Truthwatcher path.
+>
+> As these Truthwatchers continue experimenting with the surge, they usually become adept in Spiritual Lightweaving, which excels in affecting hearts and minds. When choosing Illumination talents, you’re encouraged to select talents from the left side of the tree. These talents include Distracting Illusion, Disorienting Flash, Spiritual Illumination, and Painful Truth; you might also choose Endless Illusions in addition to or instead of Painful Truth.
 
 ### Mistspren
 

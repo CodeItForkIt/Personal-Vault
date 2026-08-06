@@ -112,6 +112,8 @@ Depending on how much damage the ship took during the skyeel battle, this endeav
 
 #### [[Journal/11 - Appendix C Tables|Ship Integrity]]
 
+[[Journal/11 - Appendix C Tables|Ship Integrity]]
+
 ### Everstorm Hazards
 
 The party’s approaches to this endeavor should be guided by the hazards of the storm. Before each contribution, present one of the following hazards for the PCs to respond to:
@@ -131,6 +133,8 @@ During these hazards, the characters might notice wails of agony from the singer
 If a character gains an Opportunity or Complication, use the Everstorm Opportunities and Complications table for inspiration.
 
 #### [[Journal/11 - Appendix C Tables|Everstorm Opportunities and Complications]]
+
+[[Journal/11 - Appendix C Tables|Everstorm Opportunities and Complications]]
 
 ### Voidspren
 
@@ -302,6 +306,8 @@ If a character gains an Opportunity or Complication, use the Hexi Trenches Oppor
 
 #### [[Journal/11 - Appendix C Tables|Hexi Trenches Opportunities and Complications]]
 
+[[Journal/11 - Appendix C Tables|Hexi Trenches Opportunities and Complications]]
+
 ### Aftermath
 
 When the rearguard is defeated, the party can search the camp, speak with Axoq, and question any survivors. A PC can interrogate one of Ylt’s rearguard by succeeding on an Intimidation or Persuasion test against the acolyte’s Spiritual defense. On a success, the acolyte reveals that Ylt and Kaiana have headed onwards through the foothills to the Valley. They also reveal the direction in which the two went.
@@ -468,6 +474,8 @@ If a character gains an Opportunity or Complication, use the Grove Opportunities
 
 #### [[Journal/11 - Appendix C Tables|Grove Opportunities and Complications]]
 
+[[Journal/11 - Appendix C Tables|Grove Opportunities and Complications]]
+
 ### Resolving the Combat
 
 This combat ends when one of these conditions are met:
@@ -576,6 +584,8 @@ The PC can accept or reject her offer, but they only get one offer and can’t b
 If Kaiana is with the party, she refrains from asking a boon of the Nightwatcher.
 
 #### [[Journal/11 - Appendix C Tables|Boons and Curses]]
+
+[[Journal/11 - Appendix C Tables|Boons and Curses]]
 
 ### Leaving the Valley
 

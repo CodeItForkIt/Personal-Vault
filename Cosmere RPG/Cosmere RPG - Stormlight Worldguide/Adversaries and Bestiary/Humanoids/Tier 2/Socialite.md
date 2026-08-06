@@ -9,10 +9,21 @@ aliases: ["Socialite"]
 # Socialite
 
 **Tier:** 2  
-**Size:** medium  
-**Attributes:** Strength 2, Speed 2, Intellect 3, Willpower 3, Awareness 2, Presence 5  
-**Resources:** Health 38/38, Focus 5/5, Investiture 0  
-**Skills:** LWP 4, DED 1, DIS 1, DEC 3, INS 3, PRC 3, PRS 3
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 2 | 2 | 3 | 3 | 2 | 5 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 38/38 | 5/5 | 0 |
+
+**Speed:** 20 ft.
+
+| LWP | DED | DIS | DEC | INS | PRC | PRS |
+|---|---|---|---|---|---|---|
+| 4 | 1 | 1 | 3 | 3 | 3 | 3 |
 
 ##### Tactics
 

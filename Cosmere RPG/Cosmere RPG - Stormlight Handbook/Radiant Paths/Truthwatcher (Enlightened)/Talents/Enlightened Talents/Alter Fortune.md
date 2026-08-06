@@ -8,7 +8,7 @@ aliases: ["Alter Fortune"]
 ---
 ![[star-rising-purple.webp|64]]
 
-**Activation:** r
+**Activation:** Reaction
 
 *You use your glimpses of possibilities to control the outcome of events.*
 

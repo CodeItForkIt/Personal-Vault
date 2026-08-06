@@ -8,7 +8,7 @@ aliases: ["Fourth Ideal (Dustbringer)"]
 ---
 ![[wind-vortex-swirl-red.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You seek to become a full Knight Radiant by speaking the Fourth Ideal.*
 

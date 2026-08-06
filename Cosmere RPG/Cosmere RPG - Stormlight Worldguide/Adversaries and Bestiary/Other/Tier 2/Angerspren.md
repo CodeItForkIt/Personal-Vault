@@ -9,10 +9,21 @@ aliases: ["Angerspren"]
 # Angerspren
 
 **Tier:** 2  
-**Size:** medium  
-**Attributes:** Strength 3, Speed 5, Intellect 0, Willpower 4, Awareness 2, Presence 2  
-**Resources:** Health 38/38, Focus 6/6, Investiture 0  
-**Skills:** AGI 3, ATH 3, INM 3, PRC 3
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 3 | 5 | 0 | 4 | 2 | 2 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 38/38 | 6/6 | 0 |
+
+**Speed:** 50 ft.
+
+| AGI | ATH | INM | PRC |
+|---|---|---|---|
+| 3 | 3 | 3 | 3 |
 
 ##### Tactics
 

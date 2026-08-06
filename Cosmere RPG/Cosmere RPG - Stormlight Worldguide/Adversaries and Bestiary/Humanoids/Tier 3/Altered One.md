@@ -9,11 +9,22 @@ aliases: ["Altered One"]
 # Altered One
 
 **Tier:** 3  
-**Size:** medium  
-**Attributes:** Strength 1, Speed 3, Intellect 4, Willpower 6, Awareness 4, Presence 3  
-**Resources:** Health 60/60, Focus 8/8, Investiture 6/6  
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 1 | 3 | 4 | 6 | 4 | 3 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 60/60 | 8/8 | 6/6 |
+
 **Deflect:** 2  
-**Skills:** AGI 4, LWP 4, CRA 4, DED 4, DIS 4, INM 4, TRS 4
+**Speed:** 30 ft.
+
+| AGI | LWP | CRA | DED | DIS | INM | TRS |
+|---|---|---|---|---|---|---|
+| 4 | 4 | 4 | 4 | 4 | 4 | 4 |
 
 ##### Opportunities and Complications
 

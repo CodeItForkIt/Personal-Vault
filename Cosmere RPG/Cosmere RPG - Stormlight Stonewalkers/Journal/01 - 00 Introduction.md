@@ -90,6 +90,8 @@ For centuries, the Heralds led the fight in cataclysmic battles called the Desol
 
 #### [[Journal/11 - Appendix C Tables|Heralds]]
 
+[[Journal/11 - Appendix C Tables|Heralds]]
+
 ![[pg004_Ten Heralds statues 2_MARIE SEEBERGER.webp]]
 
 **Shalash, Battar, Kalak, Taln, and Ishar** **-** **MARIE SEEBERGER**
@@ -444,6 +446,8 @@ The Minor Characters table presents additional named characters from this advent
 
 #### [[Journal/11 - Appendix C Tables|Minor Characters]]
 
+[[Journal/11 - Appendix C Tables|Minor Characters]]
+
 ## Pronunciation Guide
 
 The Pronunciation Guide table provides guidance on pronouncing the names of notable events, locations, and items in this adventure. (See the previous [[Journal/01 - 00 Introduction|Notable Characters]] section for the pronunciation of NPC names.)
@@ -451,6 +455,8 @@ The Pronunciation Guide table provides guidance on pronouncing the names of nota
 As with all worlds in the cosmere, the Rosharan pronunciation of words varies by region and dialect. If a pronunciation here doesn’t match how you or your players say it, that doesn’t mean you’re wrong! It’s far more likely that you simply hail from a different land than the writer of this guide.
 
 #### [[Journal/11 - Appendix C Tables|Pronunciation Guide]]
+
+[[Journal/11 - Appendix C Tables|Pronunciation Guide]]
 
 ![[pg015_Disgustspren_ MARIE SEEBERGER.webp]]
 
@@ -483,6 +489,8 @@ Each player can also come up with their own backstories and goals related to Tas
 Though most PCs should have met Taszo during his travels, it’s possible one PC traveled as part of the original retinue of monks as a steward, local guide, or additional muscle.
 
 #### [[Journal/11 - Appendix C Tables|Character Backstory Ideas]]
+
+[[Journal/11 - Appendix C Tables|Character Backstory Ideas]]
 
 ## Character Relationships
 

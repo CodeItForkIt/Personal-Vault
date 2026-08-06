@@ -104,15 +104,27 @@ As usual, you must meet the prerequisites for these talents (see the [[Stormligh
 
 The following talents are available to characters with singer ancestry. See [[Stormlight Handbook/05 - Ch 4 Heroic Paths#Using Talents|Using Talents]] in chapter 4 for information on how to read and use these talents.
 
+[[Ancestries/Uncategorized/Singer|Singer]]
+
 **ANTHONY AVON**
+
+[[Ancestries/Singer/Change Form|Change Form]]
+
+[[Ancestries/Singer/Forms of Finesse|Forms of Finesse]]
+
+[[Ancestries/Singer/Forms of Resolve|Forms of Resolve]]
 
 ![[pg033_Warform_Katie Payne.webp]]![[pg034_workform_Katie Payne.webp]]
 
 **Warform & Workform - KATIE PAYNE**
 
+[[Ancestries/Singer/Forms of Wisdom|Forms of Wisdom]]
+
 ![[pg034_Scholarform_Katie Payne.webp]]
 
 **Scholarform - KATIE PAYNE**
+
+[[Ancestries/Singer/Ambitious Mind|Ambitious Mind]]
 
 *Forms of power. The ability to reshape the world. Strength beyond anything you’ve ever dreamed of having.*
 
@@ -124,13 +136,19 @@ The following talents are available to characters with singer ancestry. See [[St
 > [!tip] Rules Tip: Actions and Reactions
 > Some forms of power grant unique actions, reactions, or other abilities: stormform gives you the **Unleash Lightning** action, nightform gives you the [[Ancestries/Singer/Forms/Actions/Intervening Premonitions|Intervening Premonitions]] reaction, and some other forms alllow you to spend focus or Investiture on special effects without using an action. In chapter 9 ([[Stormlight Handbook/10 - Ch 9 Adventuring|Adventuring]]) and chapter 10 ([[Stormlight Handbook/11 - Ch 10 Combat|Combat]]), you’ll learn everything you need to know about using abilities like these—but if you’re not sure where to start, check out the [[Stormlight Handbook/05 - Ch 4 Heroic Paths#Anatomy of a Talent|Terms from Later Chapters]] sidebar in chapter 4.
 
+[[Ancestries/Singer/Forms of Destruction|Forms of Destruction]]
+
 ![[pg035_Direform_IRINA NORDSOL.webp]]
 
 **Direform - IRINA NORDSOL**
 
+[[Ancestries/Singer/Forms of Expansion|Forms of Expansion]]
+
 ![[pg036_Relayform_Irina Nordsol.webp]]
 
 **Relayform - IRINA NORDSOL**
+
+[[Ancestries/Singer/Forms of Mystery|Forms of Mystery]]
 
 ![[pg036_Decayform_Irina Nordsol.webp]]
 
@@ -151,37 +169,55 @@ Either way, these expertises signify your character knows information about that
 
 Each culture’s subsection begins with a brief description of that culture; these aren’t comprehensive, but they serve as a quick reference for the basic information you’d know with your cultural expertise. (If you’d like, you can learn much more about Roshar’s nations and cultures in chapter 2 of the *Stormlight World Guide*.) These summaries are followed by examples of common names from that culture. Each subsection concludes with the cultural expertise you gain if you choose that culture for your origins.
 
+[[Cultures/Uncategorized/Alethi|Alethi]]
+
 ![[pg039_Alethi_DEANDRA SCICLUNA.webp]]
 
 **Alethi - DEANDRA SCICLUNA**
+
+[[Cultures/Uncategorized/Azish|Azish]]
 
 ![[pg039_Azish_DEANDRA SCICLUNA copy.webp]]
 
 **Azish - DEANDRA SCICLUNA**
 
+[[Cultures/Uncategorized/Herdazian|Herdazian]]
+
 ![[pg040_Herdaz_DEANDRA SCICLUNA.webp]]
 
 **Herdazian - DEANDRA SCICLUNA**
+
+[[Cultures/Uncategorized/Iriali|Iriali]]
 
 ![[pg040_Iriali_DEANDRA SCICLUNA.webp]]
 
 **Iriali - DEANDRA SCICLUNA**
 
+[[Cultures/Uncategorized/Kharbranthian|Kharbranthian]]
+
 ![[pg041_Kharb_DEANDRA SCICLUNA.webp]]
 
 **Kharbranthian - DEANDRA SCICLUNA**
+
+[[Cultures/Uncategorized/Listener|Listener]]
 
 ![[pg041_Listener.webp]]
 
 **Listener - DEANDRA SCICLUNA**
 
+[[Cultures/Uncategorized/Natan|Natan]]
+
 ![[pg042_Natan_DEANDRA SCICLUNA.webp]]
 
 **Natan - DEANDRA SCICLUNA**
 
+[[Cultures/Uncategorized/Reshi|Reshi]]
+
 ![[pg042_Reshi.webp]]
 
 **Reshi - DEANDRA SCICLUNA**
+
+[[Cultures/Uncategorized/Shin|Shin]]
 
 ![[pg043_Shin.webp]]
 
@@ -189,17 +225,25 @@ Each culture’s subsection begins with a brief description of that culture; the
 
 "Those who subtract are allowed to walk on stone, because their lives are blasphemy."
 
+[[Cultures/Uncategorized/Thaylen|Thaylen]]
+
 ![[pg043_Thaylen.webp]]
 
 **Thaylen - DEANDRA SCICLUNA**
+
+[[Cultures/Uncategorized/Unkalaki|Unkalaki]]
 
 ![[pg044_Unkalaki_DEANDRA SCICLUNA.webp]]
 
 **Unkalaki - DEANDRA SCICLUNA**
 
+[[Cultures/Uncategorized/Veden|Veden]]
+
 ![[pg044_Veden_DEANDRA SCICLUNA.webp]]
 
 **Veden - DEANDRA SCICLUNA**
+
+[[Cultures/Uncategorized/Wayfarer|Wayfarer]]
 
 ### Other Cultures
 

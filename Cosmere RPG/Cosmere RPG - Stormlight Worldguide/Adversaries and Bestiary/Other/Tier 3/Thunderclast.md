@@ -9,10 +9,21 @@ aliases: ["Thunderclast"]
 # Thunderclast
 
 **Tier:** 3  
-**Size:** gargantuan  
-**Attributes:** Strength 9, Speed 5, Intellect 2, Willpower 7, Awareness 4, Presence 2  
-**Resources:** Health 215/215, Focus 11/11, Investiture 0  
-**Skills:** ATH 4, INM 4
+**Size:** gargantuan
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 9 | 5 | 2 | 7 | 4 | 2 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 215/215 | 11/11 | 0 |
+
+**Speed:** 50 ft.
+
+| ATH | INM |
+|---|---|
+| 4 | 4 |
 
 ##### Opportunities and Complications
 

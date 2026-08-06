@@ -9,10 +9,21 @@ aliases: ["Nightform Regal"]
 # Nightform Regal
 
 **Tier:** 2  
-**Size:** medium  
-**Attributes:** Strength 1, Speed 3, Intellect 4, Willpower 2, Awareness 5, Presence 1  
-**Resources:** Health 32/32, Focus 4/4, Investiture 7/7  
-**Skills:** LWP 3, STL 3, DED 4, LOR 4, INS 2, PRC 2
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 1 | 3 | 4 | 2 | 5 | 1 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 32/32 | 4/4 | 7/7 |
+
+**Speed:** 30 ft.
+
+| LWP | STL | DED | LOR | INS | PRC |
+|---|---|---|---|---|---|
+| 3 | 3 | 4 | 4 | 2 | 2 |
 
 ##### Tactics
 

@@ -9,10 +9,21 @@ aliases: ["Shadowform Zealot"]
 # Shadowform Zealot
 
 **Tier:** 1  
-**Size:** medium  
-**Attributes:** Strength 1, Speed 4, Intellect 1, Willpower 3, Awareness 2, Presence 2  
-**Resources:** Health 22/22, Focus 5/5, Investiture 4/4  
-**Skills:** AGI 1, LWP 2, STL 3, INM 2, PRC 2, SUR 2
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 1 | 4 | 1 | 3 | 2 | 2 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 22/22 | 5/5 | 4/4 |
+
+**Speed:** 40 ft.
+
+| AGI | LWP | STL | INM | PRC | SUR |
+|---|---|---|---|---|---|
+| 1 | 2 | 3 | 2 | 2 | 2 |
 
 A **Shadowform Zealot** is a slippery foe who takes advantage of tactical positioning. They move opponents into areas of shadow using Drag Through Shadows, then gather around to strike using their Shadow Claws. They wear down significant threats with Grieving Dirge, and if they need to position themselves or escape, Shadowform Zealots rely on Unbodied and Drag Through Shadows.
 

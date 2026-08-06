@@ -9,10 +9,21 @@ aliases: ["Cremling Swarm"]
 # Cremling Swarm
 
 **Tier:** 1  
-**Size:** medium  
-**Attributes:** Strength 1, Speed 3, Intellect 1, Willpower 2, Awareness 2, Presence 1  
-**Resources:** Health 22/22, Focus 4/4, Investiture 0  
-**Skills:** AGI 2
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 1 | 3 | 1 | 2 | 2 | 1 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 22/22 | 4/4 | 0 |
+
+**Speed:** 30 ft.
+
+| AGI |
+|---|
+| 2 |
 
 ##### Tactics
 

@@ -9,10 +9,21 @@ aliases: ["Flowing One"]
 # Flowing One
 
 **Tier:** 2  
-**Size:** medium  
-**Attributes:** Strength 1, Speed 6, Intellect 1, Willpower 4, Awareness 3, Presence 2  
-**Resources:** Health 45/45, Focus 6/6, Investiture 5/5  
-**Skills:** AGI 3, LWP 3, DIS 3, PRC 3, SUR 3, ABR 3
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 1 | 6 | 1 | 4 | 3 | 2 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 45/45 | 6/6 | 5/5 |
+
+**Speed:** 60 ft.
+
+| AGI | LWP | DIS | PRC | SUR | ABR |
+|---|---|---|---|---|---|
+| 3 | 3 | 3 | 3 | 3 | 3 |
 
 ##### Opportunities and Complications
 

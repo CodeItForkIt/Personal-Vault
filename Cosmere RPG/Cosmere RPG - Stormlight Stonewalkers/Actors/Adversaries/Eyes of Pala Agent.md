@@ -9,10 +9,21 @@ aliases: ["Eyes of Pala Agent"]
 # Eyes of Pala Agent
 
 **Tier:** 1  
-**Size:** medium  
-**Attributes:** Strength 2, Speed 2, Intellect 1, Willpower 2, Awareness 3, Presence 2  
-**Resources:** Health 25/25, Focus 4/4, Investiture 0  
-**Skills:** ATH 2, LWP 2, STL 2, DIS 2, INS 2, PRC 2
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 2 | 2 | 1 | 2 | 3 | 2 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 25/25 | 4/4 | 0 |
+
+**Speed:** 20 ft.
+
+| ATH | LWP | STL | DIS | INS | PRC |
+|---|---|---|---|---|---|
+| 2 | 2 | 2 | 2 | 2 | 2 |
 
 ##### Tactics
 

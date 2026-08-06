@@ -9,10 +9,21 @@ aliases: ["Skybreaker of the Second Ideal"]
 # Skybreaker of the Second Ideal
 
 **Tier:** 2  
-**Size:** medium  
-**Attributes:** Strength 2, Speed 3, Intellect 2, Willpower 3, Awareness 4, Presence 1  
-**Resources:** Health 40/40, Focus 5/5, Investiture 6/6  
-**Skills:** AGI 3, HWP 3, LWP 3, DED 3, DIS 3, INM 3, LOR 2, INS 3, PRC 2, GRV 2
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 2 | 3 | 2 | 3 | 4 | 1 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 40/40 | 5/5 | 6/6 |
+
+**Speed:** 30 ft.
+
+| AGI | HWP | LWP | DED | DIS | INM | LOR | INS | PRC | GRV |
+|---|---|---|---|---|---|---|---|---|---|
+| 3 | 3 | 3 | 3 | 3 | 3 | 2 | 3 | 2 | 2 |
 
 ##### Tactics
 

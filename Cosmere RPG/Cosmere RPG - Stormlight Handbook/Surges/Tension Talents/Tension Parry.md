@@ -8,7 +8,7 @@ aliases: ["Tension Parry"]
 ---
 ![[buckler-wooden-boss-brown.webp|64]]
 
-**Activation:** r
+**Activation:** Reaction
 
 *You stiffen clothing to block incoming attacks.*
 

@@ -236,6 +236,8 @@ For example, if your companion is a tier 1 Minion but you’ve just leveled up t
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Example Companions by Tier]]
 
+[[Stormlight Handbook/17 - Appendix 2 Tables|Example Companions by Tier]]
+
 ### Example Companion: Bodyguard
 
 Fighting skills are difficult to acquire, and you might be better suited to rely on a protector in physical confrontations. Even among the martially trained, bodyguards provide added protection and vigilance against danger.
@@ -271,6 +273,8 @@ As described in [[Stormlight Handbook/08 - Ch 7 Items|chapter 7]], fabrials are 
 For unique fabrials granted as rewards, the GM might give you a complete fabrial, or they might let you choose the effect and any upgrades while they select any drawbacks. At the GM’s discretion, they might also adjust the number of these drawbacks and upgrades.
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Example Fabrial Rewards]]
+
+[[Stormlight Handbook/17 - Appendix 2 Tables|Example Fabrial Rewards]]
 
 ### Gems as Rewards
 
@@ -308,6 +312,8 @@ This section presents three examples of patrons, but you can find many more in c
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Patron Amenities by Tier]]
 
+[[Stormlight Handbook/17 - Appendix 2 Tables|Patron Amenities by Tier]]
+
 ### Example Patron: Alethi Highprince
 
 As the most powerful of the warlords who rule over Alethkar, highprinces have resources few citizens can imagine. With a highprince’s backing, there are few ambitions you can’t pursue.
@@ -317,6 +323,8 @@ As the most powerful of the warlords who rule over Alethkar, highprinces have re
 However, when you add these advantages to a test, the GM can spend a Complication to have your use of the patron’s name raise other challenges—such as attracting the attention of their many powerful enemies.
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Highprince Authority]]
+
+[[Stormlight Handbook/17 - Appendix 2 Tables|Highprince Authority]]
 
 ### Example Patron: Knight Radiant
 
@@ -331,6 +339,8 @@ The power of currency is a force to be reckoned with on any world, including Ros
 **Economic Backing.** In addition to the amenities, the trader is willing to invest in your ventures. Whenever one or more player characters undertake a plan with the trader’s permission that supports their goals, the trader gives the group an operations budget to make necessary purchases, secure services, and more, as listed on the Economic Backing table. If multiple characters in the group have the same patron, the group receives the operations budget only once.
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Economic Backing]]
+
+[[Stormlight Handbook/17 - Appendix 2 Tables|Economic Backing]]
 
 ## Shards
 
@@ -358,6 +368,8 @@ Shardblades and Shardplate are detailed in the [[Stormlight Handbook/08 - Ch 7 I
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Shards by Tier]]
 
+[[Stormlight Handbook/17 - Appendix 2 Tables|Shards by Tier]]
+
 ## Titles
 
 Across different Rosharan societies, various **titles** of rank or nobility can be granted as a reward for deeds. In many societies, titles carry with them political privileges and responsibilities, property and estates, or even formal positions in a military or government. The Titles by Tier table provides examples of titles and their benefits.
@@ -379,6 +391,8 @@ A mid-ranking scion serves both as a religious leader and a government official 
 **Bureaucratic Cleric.** You are typically permitted access to both Azish governmental and religious archives. In addition, as long as your orders don’t contradict policy or religious doctrine, you have authority to direct lower-ranking scions and other Azish government workers to aid you in research or menial tasks while you concentrate on more important matters. These generally don’t require you to make a test, but when you need to make one, you gain an advantage on the test.
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Titles by Tier]]
+
+[[Stormlight Handbook/17 - Appendix 2 Tables|Titles by Tier]]
 
 ![[pg285_Banner of Kholin_SAMI RYTKÖNEN.webp]]
 

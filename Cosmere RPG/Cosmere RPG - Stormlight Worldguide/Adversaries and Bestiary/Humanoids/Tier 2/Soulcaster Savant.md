@@ -9,10 +9,21 @@ aliases: ["Soulcaster Savant"]
 # Soulcaster Savant
 
 **Tier:** 2  
-**Size:** medium  
-**Attributes:** Strength 1, Speed 2, Intellect 2, Willpower 4, Awareness 5, Presence 3  
-**Resources:** Health 32/32, Focus 6/6, Investiture 0  
-**Skills:** DIS 3, INM 2, LOR 2, INS 3, SUR 3
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 1 | 2 | 2 | 4 | 5 | 3 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 32/32 | 6/6 | 0 |
+
+**Speed:** 20 ft.
+
+| DIS | INM | LOR | INS | SUR |
+|---|---|---|---|---|
+| 3 | 2 | 2 | 3 | 3 |
 
 ##### Tactics
 

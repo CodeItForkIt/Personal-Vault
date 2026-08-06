@@ -99,6 +99,8 @@ The Conversation Opportunities and Complications table provides inspiration for 
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Conversation Opportunities and Complications]]
 
+[[Stormlight Handbook/17 - Appendix 2 Tables|Conversation Opportunities and Complications]]
+
 ### Using Abilities in Conversations
 
 While some talents, actions, and other abilities are focused on combat, you might find creative ways to use them for a contribution. Some abilities provide guidance for using them outside of combat (for example, see [[Stormlight Handbook/07 - Ch 6 Surges#Surge Infusions and Durations|Surge Infusions and Durations]] in chapter 6), while others are left to your creativity. It’s always up to the GM whether you can use an ability to contribute, and how.
@@ -157,6 +159,8 @@ If it comes to light that the information can be had for a price, an Inquiry mig
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Inquiry Opportunities and Complications]]
 
+[[Stormlight Handbook/17 - Appendix 2 Tables|Inquiry Opportunities and Complications]]
+
 ## Negotiation
 
 In a **Negotiation**, two or more interested groups are attempting to get something from each other, generally while expending as few resources as possible. Negotiations are a strange amalgam of competition and cooperation, with each side trying to levy every advantage at its disposal. However, for both sides to profit, there must be give and take, or one side might simply walk away.
@@ -166,6 +170,8 @@ At the outset of a Negotiation, the GM and players should discuss what the playe
 If one party stops dealing in good faith (or it’s revealed that they never intended to uphold their end of the bargain), a Negotiation might become a Scheme.
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Negotiation Opportunities and Complications]]
+
+[[Stormlight Handbook/17 - Appendix 2 Tables|Negotiation Opportunities and Complications]]
 
 ![[pg319_Oathgate Negotiation_Artem Demura.webp]]
 
@@ -181,6 +187,8 @@ If a Scheme is ever unveiled to all parties, the conversation likely ends. The u
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Scheme Opportunities and Complications]]
 
+[[Stormlight Handbook/17 - Appendix 2 Tables|Scheme Opportunities and Complications]]
+
 ## Social
 
 During a **Social** conversation, characters seek to form bonds, impress potential allies, and generally build interpersonal connections. Socializing is generally earnest, though that doesn’t mean that all participants must be wholly truthful. Characters may be pursuing hidden agendas, and rival NPCs may be working to undermine the PCs’ efforts.
@@ -190,6 +198,8 @@ At the outset of a Social scene, the GM should ask the players if their characte
 If one or more groups decide to pursue agendas, socializing can shift into any other conversation type as the GM and players see fit.
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Socializing Opportunities and Complications]]
+
+[[Stormlight Handbook/17 - Appendix 2 Tables|Socializing Opportunities and Complications]]
 
 ![[pg320_DalNav_MirandaMeeks.webp]]
 

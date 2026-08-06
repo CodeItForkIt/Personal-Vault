@@ -9,11 +9,22 @@ aliases: ["Archer"]
 # Archer
 
 **Tier:** 1  
-**Size:** medium  
-**Attributes:** Strength 2, Speed 1, Intellect 2, Willpower 1, Awareness 2, Presence 1  
-**Resources:** Health 12/12, Focus 3/3, Investiture 0  
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 2 | 1 | 2 | 1 | 2 | 1 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 12/12 | 3/3 | 0 |
+
 **Deflect:** 1  
-**Skills:** AGI 2, HWP 2, LWP 2, DIS 2, PRC 2, SUR 1
+**Speed:** 10 ft.
+
+| AGI | HWP | LWP | DIS | PRC | SUR |
+|---|---|---|---|---|---|
+| 2 | 2 | 2 | 2 | 2 | 1 |
 
 ##### Tactics
 

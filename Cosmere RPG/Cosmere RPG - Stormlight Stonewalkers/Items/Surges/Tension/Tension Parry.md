@@ -10,7 +10,7 @@ aliases: ["Tension Parry"]
 
 **Prerequisite:** Speak the First Ideal (Stoneward or Bondsmith)
 
-**Activation:** r
+**Activation:** Reaction
 
 *You stiffen clothing to block incoming attacks.*
 

@@ -9,10 +9,21 @@ aliases: ["Heavenly One"]
 # Heavenly One
 
 **Tier:** 3  
-**Size:** medium  
-**Attributes:** Strength 3, Speed 5, Intellect 1, Willpower 4, Awareness 6, Presence 2  
-**Resources:** Health 58/58, Focus 6/6, Investiture 8/8  
-**Skills:** AGI 4, HWP 4, LWP 4, DIS 4, INM 4, LEA 4, PRC 4, SUR 4, GRV 4
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 3 | 5 | 1 | 4 | 6 | 2 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 58/58 | 6/6 | 8/8 |
+
+**Speed:** 50 ft.
+
+| AGI | HWP | LWP | DIS | INM | LEA | PRC | SUR | GRV |
+|---|---|---|---|---|---|---|---|---|
+| 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
 
 ##### Opportunities and Complications
 

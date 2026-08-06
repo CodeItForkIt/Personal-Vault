@@ -9,10 +9,21 @@ aliases: ["Brightlord"]
 # Brightlord
 
 **Tier:** 2  
-**Size:** medium  
-**Attributes:** Strength 2, Speed 4, Intellect 1, Willpower 3, Awareness 2, Presence 4  
-**Resources:** Health 38/38, Focus 5/5, Investiture 0  
-**Skills:** AGI 3, LWP 3, DED 3, DIS 3, INM 4, INS 3, LEA 3, PRS 2
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 2 | 4 | 1 | 3 | 2 | 4 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 38/38 | 5/5 | 0 |
+
+**Speed:** 40 ft.
+
+| AGI | LWP | DED | DIS | INM | INS | LEA | PRS |
+|---|---|---|---|---|---|---|---|
+| 3 | 3 | 3 | 3 | 4 | 3 | 3 | 2 |
 
 ##### Tactics
 

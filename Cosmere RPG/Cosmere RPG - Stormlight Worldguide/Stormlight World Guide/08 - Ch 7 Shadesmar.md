@@ -73,6 +73,8 @@ Your ranks in Discipline determine how large of an object you can attempt to man
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Manifested Bead Size]]
 
+[[Stormlight World Guide/13 - Appendix D Tables|Manifested Bead Size]]
+
 #### **Manifesting an Object**
 
 Once you’ve located a bead you want to manifest, make a Discipline test; the DC for this test is usually 10, but the GM might increase or decrease it based on the object’s complexity. On a success, you must infuse 1 Investiture or more into the bead, then it immediately transforms into the physical object it represents. The object expends 1 Investiture each day; when all infused Investiture is expended, the object reverts back to a bead.
@@ -94,6 +96,8 @@ As with manifesting, you still need a bead to pattern your structure after; howe
 Your ranks in Crafting determine how large of an object or structure you can attempt to create, as shown on the Bead Structure Size chart. The object can’t exceed that size in either width, length, or height.
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Bead Structure Size]]
+
+[[Stormlight World Guide/13 - Appendix D Tables|Bead Structure Size]]
 
 #### **Creating a Structure**
 
@@ -374,6 +378,8 @@ The Shadesmar Opportunities and Complications table suggests some ideas for pote
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Shadesmar Opportunities and Complications]]
 
+[[Stormlight World Guide/13 - Appendix D Tables|Shadesmar Opportunities and Complications]]
+
 ## Shadesmar Scenes
 
 Shadesmar is rife with strange experiences and lurking dangers. As the adventurers traverse this realm, the GM can use scenes to escalate the narrative. For each day of travel (or at the GM’s discretion), roll a d20 and consult the Shadesmar Scenes table; a random scene occurs on a roll of 11 or higher.
@@ -381,6 +387,8 @@ Shadesmar is rife with strange experiences and lurking dangers. As the adventure
 When a scene occurs, use the scene indicated on the table or choose your own. The following descriptions suggest details for each scene. If you roll a scene you’ve already used, feel free to change some details (like the type of spren or Fused encountered), choose a new scene, or create one of your own.
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Shadesmar Scenes]]
+
+[[Stormlight World Guide/13 - Appendix D Tables|Shadesmar Scenes]]
 
 ## Bandits
 

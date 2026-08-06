@@ -9,7 +9,15 @@ aliases: ["Po’ahu"]
 # Po’ahu
 
 **Tier:** 1  
-**Size:** medium  
-**Attributes:** Strength 0, Speed 0, Intellect 0, Willpower 0, Awareness 0, Presence 0  
-**Resources:** Health 0, Focus 0, Investiture 0
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 0 | 0 | 0 | 0 | 0 | 0 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 0 | 0 | 0 |
+
+**Speed:** 0 ft.
 

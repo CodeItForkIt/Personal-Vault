@@ -9,10 +9,21 @@ aliases: ["Deepest One"]
 # Deepest One
 
 **Tier:** 2  
-**Size:** medium  
-**Attributes:** Strength 3, Speed 5, Intellect 1, Willpower 6, Awareness 4, Presence 2  
-**Resources:** Health 45/45, Focus 8/8, Investiture 6/6  
-**Skills:** AGI 2, LWP 3, STL 2, DIS 3, INS 2, PRC 3, SUR 2, CHS 3
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 3 | 5 | 1 | 6 | 4 | 2 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 45/45 | 8/8 | 6/6 |
+
+**Speed:** 50 ft.
+
+| AGI | LWP | STL | DIS | INS | PRC | SUR | CHS |
+|---|---|---|---|---|---|---|---|
+| 2 | 3 | 2 | 3 | 2 | 3 | 2 | 3 |
 
 ##### Opportunities and Complications
 

@@ -8,7 +8,7 @@ aliases: ["Shared Transportation"]
 ---
 ![[silhouette-hold-beam-blue.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You can keep your miniature perpendicularities open long enough to bring others along.*
 

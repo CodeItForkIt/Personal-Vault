@@ -8,7 +8,7 @@ aliases: ["Pack Hunting"]
 ---
 ![[paw-print-pair-purple.webp|64]]
 
-**Activation:** r
+**Activation:** Reaction
 
 *Like a predator who hunts in groups, you expose your quarry’s weaknesses, enabling your allies to fight alongside you with terrifying coordination.*
 

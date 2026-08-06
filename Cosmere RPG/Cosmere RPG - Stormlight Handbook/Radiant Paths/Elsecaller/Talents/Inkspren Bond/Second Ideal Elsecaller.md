@@ -8,7 +8,7 @@ aliases: ["Second Ideal (Elsecaller)"]
 ---
 ![[circled-gem-pink.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You seek to deepen your Nahel bond with your inkspren by speaking the Second Ideal.*
 

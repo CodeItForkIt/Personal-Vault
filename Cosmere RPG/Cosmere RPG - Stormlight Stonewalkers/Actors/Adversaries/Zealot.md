@@ -9,10 +9,21 @@ aliases: ["Zealot"]
 # Zealot
 
 **Tier:** 1  
-**Size:** medium  
-**Attributes:** Strength 3, Speed 1, Intellect 1, Willpower 2, Awareness 1, Presence 2  
-**Resources:** Health 12/12, Focus 4/4, Investiture 0  
-**Skills:** AGI 2, HWP 1, INM 1, PRC 2, SUR 2
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 3 | 1 | 1 | 2 | 1 | 2 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 12/12 | 4/4 | 0 |
+
+**Speed:** 10 ft.
+
+| AGI | HWP | INM | PRC | SUR |
+|---|---|---|---|---|
+| 2 | 1 | 1 | 2 | 2 |
 
 ##### Tactics
 

@@ -8,7 +8,7 @@ aliases: ["Glimpse The Future"]
 ---
 ![[clock-spinning-gold-pink.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You have vague visions of future possibilities, giving you some sway to divert your Fortune.*
 

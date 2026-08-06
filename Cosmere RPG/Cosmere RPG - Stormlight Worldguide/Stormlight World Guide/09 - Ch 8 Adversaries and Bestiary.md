@@ -57,17 +57,23 @@ Major city centers across Roshar allow the characters to explore unique cultures
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|City Scenes]]
 
+[[Stormlight World Guide/13 - Appendix D Tables|City Scenes]]
+
 ### Wilderness Scenes
 
 While traveling from one location to another, the characters might encounter danger in Roshar’s unforgiving wilderness.
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Wilderness Scenes]]
 
+[[Stormlight World Guide/13 - Appendix D Tables|Wilderness Scenes]]
+
 ### Ocean Scenes
 
 The continent of Roshar is surrounded by ocean, and people brave the seas for travel and trade.
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Ocean Scenes]]
+
+[[Stormlight World Guide/13 - Appendix D Tables|Ocean Scenes]]
 
 ![[pg184_Sea Voyage_RANDY VARGAS.webp]]
 
@@ -1120,6 +1126,8 @@ In the Vorin religion, the Ten Essences are linked to individual Heralds and are
 Soulcasting focuses on transforming items into an Essence, each of which is associated with a specific gem and type of material, as listed on the Soulcasting Essences table.
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Soulcasting Essences]]
+
+[[Stormlight World Guide/13 - Appendix D Tables|Soulcasting Essences]]
 
 > [!tip] Soulcaster Savant Tactics
 > A **[[Adversaries and Bestiary/Humanoids/Tier 2/Soulcaster Savant|Soulcaster savant]]** transforms material around them into one of the Ten Essences. By custom, ardents trained as Soulcasters don’t use these abilities against living people; if attacked, such a devout ardent would likely flee while using Soulcast Protection, or perhaps transform objects in their environment to help them escape (such as by creating cover with Smoke or Fire).

@@ -9,10 +9,21 @@ aliases: ["Servant of Yelig-Nar"]
 # Servant of Yelig-Nar
 
 **Tier:** 4  
-**Size:** large  
-**Attributes:** Strength 7, Speed 6, Intellect 4, Willpower 6, Awareness 5, Presence 2  
-**Resources:** Health 240/240, Focus 10/10, Investiture 9/9  
-**Skills:** AGI 5, ATH 5, HWP 5, LWP 5, INM 5, PRC 5, GRV 4, ILL 4, TRS 4, TRP 4, CHS 4, DVS 4, ABR 4, TSN 4, PRG 4
+**Size:** large
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 7 | 6 | 4 | 6 | 5 | 2 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 240/240 | 10/10 | 9/9 |
+
+**Speed:** 60 ft.
+
+| AGI | ATH | HWP | LWP | INM | PRC | GRV | ILL | TRS | TRP | CHS | DVS | ABR | TSN | PRG |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 5 | 5 | 5 | 5 | 5 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
 
 ##### Opportunities and Complications
 

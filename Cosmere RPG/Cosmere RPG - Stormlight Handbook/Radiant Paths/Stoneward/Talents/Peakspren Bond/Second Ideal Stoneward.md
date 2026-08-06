@@ -8,7 +8,7 @@ aliases: ["Second Ideal (Stoneward)"]
 ---
 ![[barrier-stone-explosion-debris.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You seek to deepen your Nahel bond with your peakspren by speaking the Second Ideal.*
 

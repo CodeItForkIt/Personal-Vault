@@ -8,7 +8,7 @@ aliases: ["Elsegate"]
 ---
 ![[silhouette-grow-shrink-blue.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You can create more stable perpendicularities that allow you to transport yourself and others to highly Invested locations, even across a significant distance.*
 

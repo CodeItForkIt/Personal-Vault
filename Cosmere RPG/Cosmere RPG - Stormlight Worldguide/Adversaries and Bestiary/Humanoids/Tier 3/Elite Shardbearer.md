@@ -9,10 +9,21 @@ aliases: ["Elite Shardbearer"]
 # Elite Shardbearer
 
 **Tier:** 3  
-**Size:** medium  
-**Attributes:** Strength 3, Speed 4, Intellect 1, Willpower 5, Awareness 3, Presence 4  
-**Resources:** Health 55/55, Focus 7/7, Investiture 0  
-**Skills:** AGI 4, HWP 5, LWP 4, DIS 3, INM 4, LEA 5, PRC 4, PRS 4
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 3 | 4 | 1 | 5 | 3 | 4 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 55/55 | 7/7 | 0 |
+
+**Speed:** 40 ft.
+
+| AGI | HWP | LWP | DIS | INM | LEA | PRC | PRS |
+|---|---|---|---|---|---|---|---|
+| 4 | 5 | 4 | 3 | 4 | 5 | 4 | 4 |
 
 ##### Tactics
 

@@ -8,7 +8,7 @@ aliases: ["Shrewd Command"]
 ---
 ![[wave-halt-stop.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *With a biting word or strategic glance, you cut to the heart of a conversation.*
 

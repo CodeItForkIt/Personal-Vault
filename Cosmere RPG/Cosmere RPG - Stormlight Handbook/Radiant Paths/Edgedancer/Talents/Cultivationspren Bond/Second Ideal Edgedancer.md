@@ -8,7 +8,7 @@ aliases: ["Second Ideal (Edgedancer)"]
 ---
 ![[fog-gas-smoke-dense-green.webp|64]]
 
-**Activation:** \*
+**Activation:** Special Activation
 
 *You seek to deepen your Nahel bond with your cultivationspren by speaking the Second Ideal.*
 

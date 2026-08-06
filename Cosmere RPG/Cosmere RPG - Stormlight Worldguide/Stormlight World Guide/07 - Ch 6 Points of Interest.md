@@ -168,6 +168,8 @@ The Occupied Alethkar Scenes table presents ideas for individual scenes you can 
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Occupied Alethkar Scenes]]
 
+[[Stormlight World Guide/13 - Appendix D Tables|Occupied Alethkar Scenes]]
+
 ## Rall Elorim
 
 Rall Elorim, the City of Shadows, is the capital of Iri. A vast overhang of natural stone shelters it, creating a safe haven from the highstorms—and shrouding much of the city in darkness. Freshwater cascades from the mountainous overhang, forming the Stormfalls, which collect in a reservoir that surrounds the city’s Oathgate. The shelter and the spray create a rich environment for plant life, leaving the city draped in vines and slick with algae.
@@ -260,6 +262,8 @@ The Rall Elorim Scenes table presents ideas for individual scenes you can use in
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Rall Elorim Scenes]]
 
+[[Stormlight World Guide/13 - Appendix D Tables|Rall Elorim Scenes]]
+
 ## Shattered Plains
 
 The Shattered Plains are a blasted land south of the Unclaimed Hills. The plains themselves are split by deep chasms, forming arid plateaus that face exceptionally dangerous high storms. These chasms break the terrain into a symmetrical pattern visible only from far above, radiating from a ruined city. The pattern seems the remnant of a great catastrophe, as if something struck the center of the plains.
@@ -343,6 +347,8 @@ The legendary chasmfiend Old Green Eyes is the largest, meanest beast out there,
 The Shattered Plains Scenes table presents ideas for individual scenes you can use in any campaign.
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Shattered Plains Scenes]]
+
+[[Stormlight World Guide/13 - Appendix D Tables|Shattered Plains Scenes]]
 
 ## Urithiru
 
@@ -437,6 +443,8 @@ Several entries in the library rooms mention a platform below Urithiru which cou
 The Urithiru Scenes table presents ideas for individual scenes you can use in any campaign.
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Urithiru Scenes]]
+
+[[Stormlight World Guide/13 - Appendix D Tables|Urithiru Scenes]]
 
 ![[pg163_Spy_LINDA LITHÉN.webp]]
 
@@ -551,3 +559,5 @@ Sebarial, Highprince of Commerce, suspects that Masked Ones have seized control 
 The Warcamp Scenes table presents ideas for individual scenes you can use in any campaign.
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Warcamp Scenes]]
+
+[[Stormlight World Guide/13 - Appendix D Tables|Warcamp Scenes]]

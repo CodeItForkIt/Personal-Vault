@@ -9,10 +9,21 @@ aliases: ["Khornak"]
 # Khornak
 
 **Tier:** 1  
-**Size:** medium  
-**Attributes:** Strength 3, Speed 2, Intellect 0, Willpower 2, Awareness 2, Presence 0  
-**Resources:** Health 26/26, Focus 4/4, Investiture 0  
-**Skills:** ATH 2, STL 2, PRC 1, SUR 2
+**Size:** medium
+
+| Strength | Speed | Intellect | Willpower | Awareness | Presence |
+|---|---|---|---|---|---|
+| 3 | 2 | 0 | 2 | 2 | 0 |
+
+| Health | Focus | Investiture |
+|---|---|---|
+| 26/26 | 4/4 | 0 |
+
+**Speed:** 20 ft.
+
+| ATH | STL | PRC | SUR |
+|---|---|---|---|
+| 2 | 2 | 1 | 2 |
 
 ##### Tactics
 

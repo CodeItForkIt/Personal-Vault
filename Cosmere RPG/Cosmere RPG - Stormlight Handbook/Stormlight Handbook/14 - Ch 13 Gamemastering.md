@@ -473,6 +473,8 @@ For example, if your party is tier 1, a tier 2 Rival adversary has a threat valu
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Scaling Adversary Threats]]
 
+[[Stormlight Handbook/17 - Appendix 2 Tables|Scaling Adversary Threats]]
+
 ## Adjusting Adversary Health
 
 After deciding on your scene difficulty and choosing adversaries, you might like to tweak the combat further (such as when compensating for a party optimized for combat). An easy way to do this is by adjusting an adversary’s health. Lower health helps weak parties maintain momentum, while higher health makes adversaries last longer so strong characters can make the most of their abilities.
@@ -753,6 +755,8 @@ Work with the GM on choosing your rewards. This helps you make sure it’s a goo
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Higher-Level Starting Rewards]]
 
+[[Stormlight Handbook/17 - Appendix 2 Tables|Higher-Level Starting Rewards]]
+
 ### Reward Prerequisites
 
 Some talents or other aspects of character advancement might have prerequisites related to rewards. As you work your way through each level of character advancement, assume that you gained each reward during the first level of its tier.
@@ -778,6 +782,8 @@ When roleplaying on Roshar, it’s often the small touches that have the biggest
 Spren are nearly omnipresent on Roshar and can appear at displays of strong emotions or alongside the natural elements of the world. [[Stormlight Handbook/06 - Ch 5 Radiant Paths|Chapter 5]] details the Radiant spren, but the Spren Types table lists common “lesser spren” you can sprinkle into your storytelling.
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Spren Types]]
+
+[[Stormlight Handbook/17 - Appendix 2 Tables|Spren Types]]
 
 ## Continuity
 
