@@ -18,7 +18,7 @@ Whether sneaking into a noble’s keep, stalking the streets of Luthadel for an 
 
 ## Setting the Scene
 
-At their core, endeavors allow you to work toward a defined goal while flexibly combining roleplay and skill tests to determine the outcome and consequences. This chapter offers specific guidance for four common types of endeavor—[[Mistborn Handbook/13 - Ch 12 Endeavors|Discovery]], [[Mistborn Handbook/13 - Ch 12 Endeavors|Exploration]], [[Mistborn Handbook/13 - Ch 12 Endeavors|Mission]], and [[Mistborn Handbook/13 - Ch 12 Endeavors|Pursuit]]—but these are merely inspiration, and the possibilities are endless.
+At their core, endeavors allow you to work toward a defined goal while flexibly combining roleplay and skill tests to determine the outcome and consequences. This chapter offers specific guidance for four common types of endeavor—[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/13 - Ch 12 Endeavors|Discovery]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/13 - Ch 12 Endeavors|Exploration]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/13 - Ch 12 Endeavors|Mission]], and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/13 - Ch 12 Endeavors|Pursuit]]—but these are merely inspiration, and the possibilities are endless.
 
 During endeavors, time flows at whatever pace best fits the story. In one moment, the GM might narrate a “zoomed-out” montage of events that span several hours. In the next moment, you might “zoom in” to focus on a tricky puzzle or environmental hazard for your group to enjoy playing out in real time.
 
@@ -30,7 +30,7 @@ At the start of the endeavor, the GM should make it clear what your objective is
 
 ## Set Endeavor Threshold
 
-Based on your objectives and the circumstances of the endeavor, the GM determines whether they want to use a collective threshold for the scene. If so, they choose how many successes or failures are required before the endeavor concludes (see “[[Mistborn Handbook/13 - Ch 12 Endeavors#Collective Thresholds|Collective Thresholds]]” and “[[Mistborn Handbook/13 - Ch 12 Endeavors#Setting the Threshold|Setting the Threshold]]”). They usually don’t share this information with you, instead keeping it in the background to inform how the endeavor’s story unfolds.
+Based on your objectives and the circumstances of the endeavor, the GM determines whether they want to use a collective threshold for the scene. If so, they choose how many successes or failures are required before the endeavor concludes (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/13 - Ch 12 Endeavors#Collective Thresholds|Collective Thresholds]]” and “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/13 - Ch 12 Endeavors#Setting the Threshold|Setting the Threshold]]”). They usually don’t share this information with you, instead keeping it in the background to inform how the endeavor’s story unfolds.
 
 ## Introduce Special Rules
 
@@ -38,7 +38,7 @@ Finally, the GM outlines any special rules that are in effect for the endeavor. 
 
 ## Order of Endeavors
 
-Endeavors unfold following the general guidelines for roleplaying (see “[[Mistborn Handbook/10 - Ch 9 Adventuring|Roleplaying]]” in chapter 9): the GM sets the scene, you decide what to do, the GM calls for tests based on what you’re attempting, then they narrate the results.
+Endeavors unfold following the general guidelines for roleplaying (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Roleplaying]]” in chapter 9): the GM sets the scene, you decide what to do, the GM calls for tests based on what you’re attempting, then they narrate the results.
 
 ## Flexible Rounds
 
@@ -46,7 +46,7 @@ Like in conversations, endeavors unfold in informal “rounds.” During each ro
 
 Time is malleable in endeavors, so the narrative flow of the scene affects how much time each individual round represents. Generally, this ebbs and flows with the story. However, if you ever need details on timing for one of your abilities, just ask the GM how much time is passing during a given round.
 
-Your group continues playing out rounds in this way until you succeed or fail at your objective—or until you get pulled into another combat, conversation, or endeavor scene (see “[[Mistborn Handbook/13 - Ch 12 Endeavors#Completing Endeavors|Completing Endeavors]]” later in this section).
+Your group continues playing out rounds in this way until you succeed or fail at your objective—or until you get pulled into another combat, conversation, or endeavor scene (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/13 - Ch 12 Endeavors#Completing Endeavors|Completing Endeavors]]” later in this section).
 
 ## Taking Your Turn
 
@@ -64,7 +64,7 @@ Usually, your group collectively works toward the endeavor’s objective. Each o
 
 A **collective threshold** helps the GM track your group’s progress. By giving a rough idea of the scene’s pacing, it guides the GM in deciding when the narrative should start working toward a conclusion.
 
-When using a collective threshold, the GM first decides how complex the endeavor should be (see “[[Mistborn Handbook/13 - Ch 12 Endeavors#Setting the Threshold|Setting the Threshold]]”), then tracks the total number of successful and failed skill tests made toward the objective. This progress can be tracked out in the open, but the GM usually keeps it secret and just uses it to inform how they tell the story.
+When using a collective threshold, the GM first decides how complex the endeavor should be (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/13 - Ch 12 Endeavors#Setting the Threshold|Setting the Threshold]]”), then tracks the total number of successful and failed skill tests made toward the objective. This progress can be tracked out in the open, but the GM usually keeps it secret and just uses it to inform how they tell the story.
 
 If your group reaches the needed number of successes, you attain your goal, but if you collectively fail too many times first, the endeavor resolves unfavorably.
 
@@ -76,9 +76,9 @@ If you find other creative solutions to the problem, you might be able to bypass
 
 #### Setting the Threshold
 
-The GM sets each endeavor’s collective threshold by thinking about the overall complexity of your group’s objective and how likely success feels in the narrative. The [[Mistborn Handbook/17 - Appendix 2 Tables|Collective Threshold Examples]] table provides inspiration for collective thresholds (and suggests an endeavor type for that scene), but your group should do whatever fits your story.
+The GM sets each endeavor’s collective threshold by thinking about the overall complexity of your group’s objective and how likely success feels in the narrative. The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Collective Threshold Examples]] table provides inspiration for collective thresholds (and suggests an endeavor type for that scene), but your group should do whatever fits your story.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Collective Threshold Examples]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Collective Threshold Examples]]
 
 ### Individual Thresholds
 
@@ -86,7 +86,7 @@ In endeavors where members of your group are working on different objectives and
 
 ### Interpreting Skill Tests
 
-During an endeavor, GMs should encourage players to use skills creatively. It’s obvious that a [[Mistborn Handbook/13 - Ch 12 Endeavors|Discovery]] endeavor benefits from Deduction and an [[Mistborn Handbook/13 - Ch 12 Endeavors|Exploration]] endeavor benefits from Survival, but every endeavor should have options for characters to use their physical, cognitive, and spiritual skills. The upcoming sections give examples of skill tests that might be relevant in different types of endeavors, but with enough creativity, nearly any skill can fit.
+During an endeavor, GMs should encourage players to use skills creatively. It’s obvious that a [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/13 - Ch 12 Endeavors|Discovery]] endeavor benefits from Deduction and an [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/13 - Ch 12 Endeavors|Exploration]] endeavor benefits from Survival, but every endeavor should have options for characters to use their physical, cognitive, and spiritual skills. The upcoming sections give examples of skill tests that might be relevant in different types of endeavors, but with enough creativity, nearly any skill can fit.
 
 Beyond skills, you can use other abilities to make progress in an endeavor. Some abilities, such as Metallic Art powers, generally don’t require a skill test but still make a demonstrable contribution to your group’s progress. In these cases, the GM may add a success to the threshold without requiring any kind of test.
 
@@ -122,7 +122,7 @@ When running the Discovery, the GM keeps track of your progress through an inves
 
 ## Investigative Web
 
-Whether your group is trying to learn the intended function of a strange medallion recovered from an airship or solve the murder of a noble, you’ll most likely start with a few leads. The GM can build an **investigative web** to structure the information given. This web is a map of an investigation: it contains each clue that can be found as part of the investigation, and the leads that clue generates pointing to other clues. Eventually, one or more of these clues should lead to the objective of the endeavor—whatever the group is trying to discover. See the “[[Mistborn Handbook/13 - Ch 12 Endeavors#Discovery Examples|Discovery Examples]]” section later in this section for a sample investigative web.
+Whether your group is trying to learn the intended function of a strange medallion recovered from an airship or solve the murder of a noble, you’ll most likely start with a few leads. The GM can build an **investigative web** to structure the information given. This web is a map of an investigation: it contains each clue that can be found as part of the investigation, and the leads that clue generates pointing to other clues. Eventually, one or more of these clues should lead to the objective of the endeavor—whatever the group is trying to discover. See the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/13 - Ch 12 Endeavors#Discovery Examples|Discovery Examples]]” section later in this section for a sample investigative web.
 
 ### No Threshold for Success
 
@@ -154,9 +154,9 @@ Even if a group fails a Discovery by reaching the allotted number of failures, t
 
 ## Discovery Examples
 
-Any skill can be used in an endeavor, but the [[Mistborn Handbook/17 - Appendix 2 Tables|Discovery Examples]] table presents inspiration for how characters might accomplish some tasks, along with an example of Opportunities and Complications.
+Any skill can be used in an endeavor, but the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Discovery Examples]] table presents inspiration for how characters might accomplish some tasks, along with an example of Opportunities and Complications.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Discovery Examples]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Discovery Examples]]
 
 ### Example Investigative Web
 
@@ -176,7 +176,7 @@ In **Exploration** endeavors, characters traverse unpredictable or precarious en
 
 The setting of an Exploration adds texture and flavor to the challenges the players face along the way. During these endeavors, danger is everywhere. Sometimes it seems as if Scadrial itself acts in opposition to those living on it. Away from civilization, death awaits those unable to identify an edible plant, find a safe water source, fend off predators, or navigate the mists at night.
 
-Regardless of the party’s intended objective for an Exploration, it’s imperative they remain vigilant when assessing environmental threats and managing their resources. This is reflected in the Against the Odds test they make together when faced with perilous circumstances (see “[[Mistborn Handbook/13 - Ch 12 Endeavors#Special Rule: Against the Odds|Special Rule: Against the Odds]]”). Although most Explorations represent time in transit, being intentional about these endeavors offers more than a means to an end. Along the way, characters might find useful information, unexpected allies, and breathtaking views.
+Regardless of the party’s intended objective for an Exploration, it’s imperative they remain vigilant when assessing environmental threats and managing their resources. This is reflected in the Against the Odds test they make together when faced with perilous circumstances (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/13 - Ch 12 Endeavors#Special Rule: Against the Odds|Special Rule: Against the Odds]]”). Although most Explorations represent time in transit, being intentional about these endeavors offers more than a means to an end. Along the way, characters might find useful information, unexpected allies, and breathtaking views.
 
 ### Determining the Objective
 
@@ -200,15 +200,15 @@ Once the objective of the Exploration is met, such as crossing the necessary dis
 
 ## Special Rule: Against the Odds
 
-Once per Exploration, a party may face perils above and beyond the typical woes of wilderness survival (and the tests they make to pursue their objective). When the GM introduces these perils, each character must make a related test—such as Survival, Athletics, or Leadership— to face these perils and avoid their consequences. Each character who fails their test suffers the effects of the peril they’re facing. The [[Mistborn Handbook/17 - Appendix 2 Tables|Against the Odds Examples]] table gives some examples of possible effects.
+Once per Exploration, a party may face perils above and beyond the typical woes of wilderness survival (and the tests they make to pursue their objective). When the GM introduces these perils, each character must make a related test—such as Survival, Athletics, or Leadership— to face these perils and avoid their consequences. Each character who fails their test suffers the effects of the peril they’re facing. The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Against the Odds Examples]] table gives some examples of possible effects.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Against the Odds Examples]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Against the Odds Examples]]
 
 ## Exploration Examples
 
-Any skill can be used in an endeavor, but the [[Mistborn Handbook/17 - Appendix 2 Tables|Exploration Examples]] table presents inspiration for how characters might accomplish some tasks, along with an example of Opportunities and Complications.
+Any skill can be used in an endeavor, but the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Exploration Examples]] table presents inspiration for how characters might accomplish some tasks, along with an example of Opportunities and Complications.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Exploration Examples]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Exploration Examples]]
 
 ![[pg346_HB12_Exploring the Ruins_Joshua Chia.webp]]
 
@@ -220,7 +220,7 @@ Any skill can be used in an endeavor, but the [[Mistborn Handbook/17 - Appendix 
 
 ## Running a Mission
 
-When planning a Mission, the GM defines a primary objective and any secondary objectives that group members might be interested in. They think through what hindrances the party must overcome to reach their objectives. Finally, the GM determines the amount of in-game time the group has to complete the Mission (see “[[Mistborn Handbook/13 - Ch 12 Endeavors#Special Rule: The Ticking Clock|Special Rule: The Ticking Clock]]”); this is usually based on the story around the Mission and what factors threaten to disrupt it.
+When planning a Mission, the GM defines a primary objective and any secondary objectives that group members might be interested in. They think through what hindrances the party must overcome to reach their objectives. Finally, the GM determines the amount of in-game time the group has to complete the Mission (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/13 - Ch 12 Endeavors#Special Rule: The Ticking Clock|Special Rule: The Ticking Clock]]”); this is usually based on the story around the Mission and what factors threaten to disrupt it.
 
 Since the stakes for Missions are so high, the GM should prepare a list of relevant Opportunities and Complications. The list of Complications should be especially robust.
 
@@ -242,9 +242,9 @@ For example, perhaps the party is breaking into a Steel Ministry building at nig
 
 ## Mission Examples
 
-Any skill can be used in an endeavor, but the [[Mistborn Handbook/17 - Appendix 2 Tables|Mission Examples]] table presents inspiration for how characters might accomplish some tasks, along with an example of Opportunities and Complications.
+Any skill can be used in an endeavor, but the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Mission Examples]] table presents inspiration for how characters might accomplish some tasks, along with an example of Opportunities and Complications.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Mission Examples]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Mission Examples]]
 
 ## Pursuit Endeavors
 
@@ -264,7 +264,7 @@ The GM should be as crafty as possible, adapting the target’s (or pursuer’s)
 
 ### Opposed Tests During Pursuits
 
-Because of a Pursuit’s focus on testing your skills against an opponent who is directly opposing your efforts, these endeavors are the perfect opportunity to use opposed tests (see “[[Mistborn Handbook/04 - Ch 3 Character Statistics#Difficulty Class|Difficulty Class]]” in chapter 3).
+Because of a Pursuit’s focus on testing your skills against an opponent who is directly opposing your efforts, these endeavors are the perfect opportunity to use opposed tests (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Difficulty Class|Difficulty Class]]” in chapter 3).
 
 When choosing and resolving skill tests during these endeavors, consider if your efforts are in direct opposition to those of the target’s. For example, if you’re trying to keep up with the target or spot them hiding while they’re trying to lose you in back alleys, or if you’re trying to grapple them to the ground, these would be good uses of opposed tests.
 
@@ -284,15 +284,15 @@ To use the distance track, the GM chooses a starting distance and an escape dist
 
 **Current Distance.** The distance is the current gap between the target and the pursuers. When a pursuer succeeds on a test, the gap closes by 1, but when they fail, the gap widens by 1. Similarly, when a target succeeds on a test, the gap widens by 1, but when they fail, the gap lessens by 1.
 
-The Pursuit ends when the current distance either reaches zero (meaning the target is caught) or reaches the escape distance (meaning the target escapes). The [[Mistborn Handbook/17 - Appendix 2 Tables|Closing the Distance]] table offers some suggested distances.
+The Pursuit ends when the current distance either reaches zero (meaning the target is caught) or reaches the escape distance (meaning the target escapes). The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Closing the Distance]] table offers some suggested distances.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Closing the Distance]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Closing the Distance]]
 
 ## Pursuit Examples
 
-Any skill can be used in an endeavor, but the [[Mistborn Handbook/17 - Appendix 2 Tables|Pursuit Examples]] table presents inspiration for how characters might accomplish some tasks, along with an example of Opportunities and Complications. The skills marked with an asterisk are especially good options for opposed tests, as discussed earlier.
+Any skill can be used in an endeavor, but the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Pursuit Examples]] table presents inspiration for how characters might accomplish some tasks, along with an example of Opportunities and Complications. The skills marked with an asterisk are especially good options for opposed tests, as discussed earlier.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Pursuit Examples]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Pursuit Examples]]
 
 ![[pg348_Vin Sneak_Deandra Scicluna.webp]]
 

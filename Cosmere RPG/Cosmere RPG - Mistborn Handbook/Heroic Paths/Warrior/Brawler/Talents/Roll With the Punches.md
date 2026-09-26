@@ -12,4 +12,4 @@ aliases: ["Roll With the Punches"]
 
 *You use your enemy’s ferocity to your advantage, moving nimbly through the gaps created by their strikes.*
 
-After you’re hit or grazed by an attack, you can use this reaction to move up to half your movement rate without triggering [[Actions/Basic/Reactive Strike|Reactive Strikes]].
+After you’re hit or grazed by an attack, you can use this reaction to move up to half your movement rate without triggering [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Reactive Strike|Reactive Strikes]].

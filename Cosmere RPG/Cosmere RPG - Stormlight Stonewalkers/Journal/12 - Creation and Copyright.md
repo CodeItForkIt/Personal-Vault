@@ -64,7 +64,7 @@ aliases: ["Creation and Copyright"]
 
 **Project Leads:** Lyla McBeath Fujiwara and Anthony Joyce-Rivera
 
-![[logo_Dragonsteel.svg]]![[logo_Brotherwise_logo.webp]]
+![[Cosmere RPG/Cosmere RPG - Mistborn Legacy/attachments/logo_Dragonsteel.svg]]![[logo_Brotherwise_logo.webp]]
 
 © 2025 by Brotherwise Games, LLC. Based on The Stormlight Archive® novels by Brandon Sanderson, copyright © 2010, 2014, 2017, 2020,
 

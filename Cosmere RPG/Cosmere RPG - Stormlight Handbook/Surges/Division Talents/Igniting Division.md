@@ -16,4 +16,4 @@ When you affect a target with **Division**, you can spend 1 or more additional I
 
 For the duration, the target becomes **Afflicted**, and the area within 5 feet of the target is lit on fire and becomes dangerous terrain. Both effects deal energy damage equal to your **Division** modifier. At the GM’s discretion, the dangerous terrain can spread on subsequent rounds.
 
-The target or a character within reach of it can[[Actions/Basic/Use A Skill| Use a Skill]] to make an **Agility** or **Athletics** test opposed by your **Division**. If they succeed, the target’s **Afflicted** condition ends early, but the ignited area continues to burn.
+The target or a character within reach of it can[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Use A Skill| Use a Skill]] to make an **Agility** or **Athletics** test opposed by your **Division**. If they succeed, the target’s **Afflicted** condition ends early, but the ignited area continues to burn.

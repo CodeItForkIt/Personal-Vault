@@ -12,4 +12,4 @@ aliases: ["Featherweight Slip"]
 
 *You dynamically adjust your weight in combat, helping you to mitigate heavy blows then nimbly dance away.*
 
-While storing weight, before you take impact or keen damage, you can use this reaction to reduce that damage by your **Feruchemy** modifier, then move up to 10 feet from its source without triggering [[Actions/Basic/Reactive Strike|Reactive Strikes]].
+While storing weight, before you take impact or keen damage, you can use this reaction to reduce that damage by your **Feruchemy** modifier, then move up to 10 feet from its source without triggering [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Reactive Strike|Reactive Strikes]].

@@ -14,4 +14,4 @@ aliases: ["Sensible Preparation"]
 
 When you burn tin, you can choose to not spend Investiture, and to instead gain the effects of that power as if you’d spent 1 Investiture.
 
-Additionally, burning tin ends the [[Mistborn Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]] condition on yourself, and you regain any actions or reactions you lost to that condition.
+Additionally, burning tin ends the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]] condition on yourself, and you regain any actions or reactions you lost to that condition.

@@ -62,7 +62,7 @@ aliases: ["Copyright"]
 
 **FoundryVTT(TM) Development Team (Team Metalworks):** Alexander Casey (Maccasey), Andrew Walker (TheFlyingP1g), Cera Sionnach, Christopher Krulewicz (DocSun), Dez384, Erik Scerri (MangoFVTT), Jonathan Trew (Zithith), Khunkurisu, Noah Gersh (kolastor), Stan van den Broek (stanvdb), Zachary Tooker (RostCS)
 
-![[logo_Dragonsteel.svg]]
+![[Cosmere RPG/Cosmere RPG - Mistborn Legacy/attachments/logo_Dragonsteel.svg]]
 
 © 2025 by Brotherwise Games, LLC. Based on The Stormlight Archive® novels by Brandon Sanderson, copyright © 2010, 2014, 2017, 2020, 2024 by Dragonsteel Entertainment, LLC, and used with the express permission of Dragonsteel Entertainment, LLC.
 

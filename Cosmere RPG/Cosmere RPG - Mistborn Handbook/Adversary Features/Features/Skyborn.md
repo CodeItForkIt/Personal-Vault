@@ -8,4 +8,4 @@ aliases: ["Skyborn"]
 ---
 # Skyborn
 
-The Actor Name doesn’t trigger [[Actions/Basic/Reactive Strike|Reactive Strikes]] while flying
+The Actor Name doesn’t trigger [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Reactive Strike|Reactive Strikes]] while flying

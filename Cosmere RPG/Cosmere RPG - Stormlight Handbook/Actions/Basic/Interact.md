@@ -8,7 +8,7 @@ aliases: ["Interact"]
 ---
 # Interact
 
-You quickly interact with an object you can reach. Unlike the [[Actions/Basic/Use A Skill|Use a Skill]] action, this action usually doesn’t require a skill test. For example, you might Interact to:
+You quickly interact with an object you can reach. Unlike the [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Actions/Basic/Use A Skill|Use a Skill]] action, this action usually doesn’t require a skill test. For example, you might Interact to:
 
 - Open or close a door.
 

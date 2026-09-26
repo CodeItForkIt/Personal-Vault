@@ -16,4 +16,4 @@ When you acquire this talent, gain a command die, which begins as a d4 and can i
 
 Spend 1 focus to choose an ally you can influence within 20 feet of you. The next time they make a test before the end of their next turn, they can roll your command die along with the other dice for that test. After rolling, they can choose one roll from that test, other than the plot die, and add the command die to it.
 
-Some [[Heroic Paths/Leader/Leader|Leader]] talents allow you to use your command die in other ways; you can do so even if an ally currently has a command die from you.
+Some [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Leader|Leader]] talents allow you to use your command die in other ways; you can do so even if an ally currently has a command die from you.

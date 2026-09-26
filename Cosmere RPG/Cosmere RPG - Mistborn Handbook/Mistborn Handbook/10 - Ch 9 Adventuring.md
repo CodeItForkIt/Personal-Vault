@@ -95,11 +95,11 @@ When the action “zooms in” and your individual actions have consequences, th
 
 This game’s rules focus primarily on scenes, as these typically need more guidance than fast-flowing narratives. Most scenes can be categorized as one of the following:
 
-**Combats** occur when one or more characters engage in a physically hostile conflict. In fights and battles, every second matters, positioning requires precision, and lives are on the line. [[Mistborn Handbook/11 - Ch 10 Combat|Chapter 10]] presents guidelines for combats.
+**Combats** occur when one or more characters engage in a physically hostile conflict. In fights and battles, every second matters, positioning requires precision, and lives are on the line. [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Chapter 10]] presents guidelines for combats.
 
-**Conversations** focus on times you’re communicating with other characters when the outcomes are uncertain and hold meaningful implications for the game’s story. These involve heated arguments, tense negotiations, intricate deceptions, and similar interactions. [[Mistborn Handbook/12 - Ch 11 Conversations|Chapter 11]] presents guidance for conversations.
+**Conversations** focus on times you’re communicating with other characters when the outcomes are uncertain and hold meaningful implications for the game’s story. These involve heated arguments, tense negotiations, intricate deceptions, and similar interactions. [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/12 - Ch 11 Conversations|Chapter 11]] presents guidance for conversations.
 
-**Endeavors** highlight times you’re trying to traverse, explore, discover, pursue, or sneak. In these scenes, your main opponent isn’t usually other characters— instead, it’s the environment or situation itself. [[Mistborn Handbook/13 - Ch 12 Endeavors|Chapter 12]] presents guidance for endeavors.
+**Endeavors** highlight times you’re trying to traverse, explore, discover, pursue, or sneak. In these scenes, your main opponent isn’t usually other characters— instead, it’s the environment or situation itself. [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/13 - Ch 12 Endeavors|Chapter 12]] presents guidance for endeavors.
 
 Not all sequences fit nicely into a single scene type— for example, you might begin with a conversation that quickly devolves into combat. And as with all rules of this game, the scene rules are guidelines. The GM may alter them, use only parts of a rule, or mix and match to best tell the story of your adventure. For example, you might use an action from the combat rules to throw a punch in a conversation, or you might resist the social influence of an NPC you’re conversing with during a chase endeavor.
 
@@ -109,11 +109,11 @@ Momentum is essential to good gameplay. When one scene’s main goal has been ac
 
 Answering one question often presents another. For example, the characters may celebrate stopping a gang encroaching into Elendel, only to learn that was exactly the opening the Set needed to make their next move. Or after successfully saving a small township from Ruin’s Inquisitors, they may learn the encroaching mists will force the population to move inward toward the Central Dominance, to areas controlled by other nobles.
 
-Sometimes scenes happen in quick succession, and what happens in one can have a dramatic impact on your character’s abilities and resources in the next. At other times, especially after particularly intense scenes, the party may need a break to recover, or the story may simply need to fast-forward until the next major development. This time between meaningful scenes is called downtime (see the upcoming “[[Mistborn Handbook/10 - Ch 9 Adventuring|Downtime]]” section).
+Sometimes scenes happen in quick succession, and what happens in one can have a dramatic impact on your character’s abilities and resources in the next. At other times, especially after particularly intense scenes, the party may need a break to recover, or the story may simply need to fast-forward until the next major development. This time between meaningful scenes is called downtime (see the upcoming “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Downtime]]” section).
 
 ## Statistics Across Scenes
 
-When one scene rolls into the next, your character’s statistics generally remain in the same state as in the previous scene. For example, your current health, focus, and Investiture remain the same until you get a chance to recover them, whether through abilities or by spending a meaningful amount of time resting (see the upcoming “[[Mistborn Handbook/10 - Ch 9 Adventuring|Resting]]” section).
+When one scene rolls into the next, your character’s statistics generally remain in the same state as in the previous scene. For example, your current health, focus, and Investiture remain the same until you get a chance to recover them, whether through abilities or by spending a meaningful amount of time resting (see the upcoming “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Resting]]” section).
 
 ## Events
 
@@ -163,7 +163,7 @@ A **short rest** is any uninterrupted period of an hour or longer in which you�
 
 ### Recovering Health and Focus
 
-After a short rest, you can roll your recovery die to determine how well you recover (see “[[Mistborn Handbook/04 - Ch 3 Character Statistics#Willpower|Willpower]]” in chapter 3 to determine the size of your recovery die). Add the roll result to your current health, your current focus, or a combination of the two. For example, if you roll a 5 on your recovery die, you might choose to recover 3 health and 2 focus.
+After a short rest, you can roll your recovery die to determine how well you recover (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Willpower|Willpower]]” in chapter 3 to determine the size of your recovery die). Add the roll result to your current health, your current focus, or a combination of the two. For example, if you roll a 5 on your recovery die, you might choose to recover 3 health and 2 focus.
 
 ### Alternative Benefits
 
@@ -171,7 +171,7 @@ If you prefer, you can forgo recovery yourself, and instead spend your rest time
 
 **Tend to Others.** You can provide medical assistance to one or more willing allies you’re resting with. When you do, they add your Medicine modifier to their recovery die roll.
 
-**Forage.** You can use Survival to forage for resources (see “[[Mistborn Handbook/04 - Ch 3 Character Statistics#Survival (Awareness)|Survival]]” in chapter 3).
+**Forage.** You can use Survival to forage for resources (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Survival (Awareness)|Survival]]” in chapter 3).
 
 **Store in Your Metalminds.** You can charge your Feruchemical metalminds during a short rest, which counts as one scene for that purpose.
 
@@ -191,13 +191,13 @@ A **long rest** is any uninterrupted period of eight hours or longer in which yo
 
 ### Recovering Health and Focus
 
-After a long rest, you recover all your lost health and focus. Additionally, your [[Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted]] penalty reduces by 1 (see “[[Mistborn Handbook/10 - Ch 9 Adventuring|Conditions]]” later in this chapter).
+After a long rest, you recover all your lost health and focus. Additionally, your [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted]] penalty reduces by 1 (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Conditions]]” later in this chapter).
 
 ### Alternative Benefits
 
 If you prefer, you can forgo recovery yourself, and instead spend your rest time to gain the following benefit:
 
-**Store in Your Metalminds.** You can charge your Feruchemical metalminds during a long rest, which counts as two scenes for that purpose. When you spend your long rest in this way, you become [[Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted [−1]]].
+**Store in Your Metalminds.** You can charge your Feruchemical metalminds during a long rest, which counts as two scenes for that purpose. When you spend your long rest in this way, you become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted [−1]]].
 
 ### Other Long Rest Effects
 
@@ -205,7 +205,7 @@ As with short rests, some talents and effects activate when you rest, and you ca
 
 ## Downtime
 
-Scenes account for most of the time you’ll spend playing this game, but between them, your character’s life goes on (such as while hiding, resting, working, or waiting). If you’re just taking a break for a few hours or a night, those rules are covered in the “[[Mistborn Handbook/10 - Ch 9 Adventuring|Resting]]” section. However, longer periods between scenes offer **downtime**, in which individual characters can freely recuperate or progress without being restrained by their party’s shared objectives.
+Scenes account for most of the time you’ll spend playing this game, but between them, your character’s life goes on (such as while hiding, resting, working, or waiting). If you’re just taking a break for a few hours or a night, those rules are covered in the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Resting]]” section. However, longer periods between scenes offer **downtime**, in which individual characters can freely recuperate or progress without being restrained by their party’s shared objectives.
 
 During downtime, a GM presents you and your fellow players with an opportunity to explain what you do during this open time. Some activities might be done in tandem with other party members, but characters often want to go pursue their own goals for a while.
 
@@ -217,7 +217,7 @@ The type of activities you choose (and the progress you can make on them) can va
 
 ## Resolving Downtime
 
-Once you know the length and limitations of your downtime, each player summarizes what their character intends to do with their time; the “[[Mistborn Handbook/10 - Ch 9 Adventuring#Downtime Activity Ideas|Downtime Activity Ideas]]” section suggests activities and how you and the GM might resolve those outcomes. After these summaries, the GM works with one player to determine that activity’s outcome, then repeats this with the other players.
+Once you know the length and limitations of your downtime, each player summarizes what their character intends to do with their time; the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Downtime Activity Ideas|Downtime Activity Ideas]]” section suggests activities and how you and the GM might resolve those outcomes. After these summaries, the GM works with one player to determine that activity’s outcome, then repeats this with the other players.
 
 ### Simple and Ambitious Activities
 
@@ -239,7 +239,7 @@ This section summarizes some of the more common **downtime activities** you migh
 
 ### Crafting
 
-You can craft items (such as the powerful firearms and explosives of Era 2), as described in the “[[Mistborn Handbook/08 - Ch 7 Items|Crafting]]” section of chapter 7. Since crafting can require many days depending on the complexity of the item, this activity is best accomplished during downtime.
+You can craft items (such as the powerful firearms and explosives of Era 2), as described in the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|Crafting]]” section of chapter 7. Since crafting can require many days depending on the complexity of the item, this activity is best accomplished during downtime.
 
 ### Mentoring in the Metallic Arts
 
@@ -247,7 +247,7 @@ If you have a patron who’s particularly skilled with one of your Allomantic or
 
 ### Recuperating
 
-Many injuries require time to heal. If you can dedicate downtime to recovery, this greatly speeds the healing process. Each day of downtime you spend dedicated to rest and recuperation counts as two days toward healing an injury (see “[[Mistborn Handbook/10 - Ch 9 Adventuring#Injuries|Injuries]]” later in this chapter).
+Many injuries require time to heal. If you can dedicate downtime to recovery, this greatly speeds the healing process. Each day of downtime you spend dedicated to rest and recuperation counts as two days toward healing an injury (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Injuries|Injuries]]” later in this chapter).
 
 ### Researching
 
@@ -273,7 +273,7 @@ It usually takes 20 days or longer to learn a new expertise, and each day costs 
 
 After the intense events and experiences of your adventures, you might feel driven to reexamine yourself and your values. If you dedicate 10 days or more to self reflection at the cost of 5 boxings per day, you can make mechanical changes to your character (such as switching talents or skill ranks). Most players use this for small tweaks such as swapping out a talent or two you later realize don’t fit your character’s current story. If you wish to make larger changes, discuss with your GM how these changes will be integrated into the story.
 
-At the end of these 10 days of downtime, you can rebuild your character using the “[[Mistborn Handbook/14 - Ch 13 Gamemastering|Starting at Higher Levels]]” rules in chapter 13, but maintaining the same number of levels you have now. Standard rules about prerequisites apply, and if you’ve earned any rewards during your adventures, they don’t count toward prerequisites for earlier levels. For example, if your character became fully trained in a Allomantic metal at level 5, you can’t choose talents for that metal with your first talent.
+At the end of these 10 days of downtime, you can rebuild your character using the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering|Starting at Higher Levels]]” rules in chapter 13, but maintaining the same number of levels you have now. Standard rules about prerequisites apply, and if you’ve earned any rewards during your adventures, they don’t count toward prerequisites for earlier levels. For example, if your character became fully trained in a Allomantic metal at level 5, you can’t choose talents for that metal with your first talent.
 
 You must work with your GM on this rebuild (no matter how large or small), and it’s up to them whether your changes fit the story. Be sure to tell them why you wish to rebuild your character, and work together on how it might impact the story and your character’s role and relationships within the group.
 
@@ -283,7 +283,7 @@ You can engage in a profession, whether that’s performing odd jobs around town
 
 ## Conditions
 
-Many effects can apply a temporary condition to you (for example, “you become Slowed”). These alter your abilities for the duration of that effect, as described in the upcoming “[[Mistborn Handbook/10 - Ch 9 Adventuring|Durations]]” section.
+Many effects can apply a temporary condition to you (for example, “you become Slowed”). These alter your abilities for the duration of that effect, as described in the upcoming “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Durations]]” section.
 
 If an effect doesn’t state its duration (or how you can remove the condition early), all the rules you need for determining that are in the condition itself.
 
@@ -303,9 +303,9 @@ Unlike most conditions, you can be Afflicted by multiple effects simultaneously.
 
 While Depleted of a power, you have no access to the specific Investiture needed for that power, and thus you can’t use it. While Depleted, you can’t spend Investiture to activate effects related to that power, you don’t count as Invested for effects related to that power, and you can’t benefit from that power’s nascent effects.
 
-If an effect makes you Depleted of a specific power, that power is specified in brackets after the condition name. For example, if you have the [[Metallic Arts/Gold/Gold Allomancy|Gold Allomancy]] power but become Depleted [Gold], you can’t use that power, its talents, or the nascent version of that power.
+If an effect makes you Depleted of a specific power, that power is specified in brackets after the condition name. For example, if you have the [[Gold Allomancy|Gold Allomancy]] power but become Depleted [Gold], you can’t use that power, its talents, or the nascent version of that power.
 
-Unlike most conditions, you can be Depleted of multiple powers simultaneously. You can remove this condition using the [[Actions/Metallic Arts/Allomancy/Drink Vial|Drink Vial]] action from chapter 5.
+Unlike most conditions, you can be Depleted of multiple powers simultaneously. You can remove this condition using the [[Drink Vial|Drink Vial]] action from chapter 5.
 
 ## Determined
 
@@ -313,7 +313,7 @@ While Determined, when you fail a test, you can add an Opportunity to the result
 
 ## Diminished
 
-While Diminished, one of your attributes temporarily decreases, as specified in brackets when you gain that condition. The specified attribute is reduced by the specified number; however, this reduction doesn’t change your defenses, maximum health, maximum focus, or maximum Investiture. (See “[[Mistborn Handbook/04 - Ch 3 Character Statistics|Attributes]]” in chapter 3 for details on what each attribute affects.)
+While Diminished, one of your attributes temporarily decreases, as specified in brackets when you gain that condition. The specified attribute is reduced by the specified number; however, this reduction doesn’t change your defenses, maximum health, maximum focus, or maximum Investiture. (See “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics|Attributes]]” in chapter 3 for details on what each attribute affects.)
 
 For example, if you have a Speed of 3 and become Diminished [Speed −2], you temporarily suffer the following drawbacks:
 
@@ -331,7 +331,7 @@ While Disoriented, your senses are disrupted, making most tasks difficult. You c
 
 ## Enhanced
 
-While Enhanced, one of your attributes temporarily increases, as specified in brackets when you gain that condition. The specified attribute gains a bonus equal to the specified number; however, this bonus doesn’t change your defenses, maximum health, maximum focus, or maximum Investiture. (See “[[Mistborn Handbook/04 - Ch 3 Character Statistics|Attributes]]” in chapter 3 for details on which statistics each attribute affects.)
+While Enhanced, one of your attributes temporarily increases, as specified in brackets when you gain that condition. The specified attribute gains a bonus equal to the specified number; however, this bonus doesn’t change your defenses, maximum health, maximum focus, or maximum Investiture. (See “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics|Attributes]]” in chapter 3 for details on which statistics each attribute affects.)
 
 For example, if you have a Speed of 3 and become Enhanced [Speed +2], you temporarily gain the following benefits:
 
@@ -363,11 +363,11 @@ While Immobilized, your movement rate becomes 0, and you can’t move or be move
 
 ## Prone
 
-While Prone, you’re lying flat on the ground. You are [[Mistborn Handbook/10 - Ch 9 Adventuring#Slowed|Slowed]] and melee attacks against you gain an advantage. You can use the [[Actions/Basic/Brace|Brace]] action without cover.
+While Prone, you’re lying flat on the ground. You are [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Slowed|Slowed]] and melee attacks against you gain an advantage. You can use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Brace|Brace]] action without cover.
 
 You can stand up and end this condition as 0. After you do, your movement rate is reduced by 5 until the start of your next turn.
 
-If you become Prone while climbing or flying, you fall and take damage as usual (see “[[Mistborn Handbook/11 - Ch 10 Combat#Falling|Falling]]” in chapter 10).
+If you become Prone while climbing or flying, you fall and take damage as usual (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat#Falling|Falling]]” in chapter 10).
 
 ## Restrained
 
@@ -387,7 +387,7 @@ While Surprised, you lose any reactions, you don’t gain a reaction at the star
 
 ## Unconscious
 
-While Unconscious, your movement rate becomes 0, you can’t move or communicate, and you’re unaware of your surroundings. When you gain this condition, you fall [[Mistborn Handbook/10 - Ch 9 Adventuring#Prone|Prone]] and drop anything you’re carrying. You can’t interact with your surroundings or use any actions or reactions. In combat, you always go slow, but you can’t do anything on your turn.
+While Unconscious, your movement rate becomes 0, you can’t move or communicate, and you’re unaware of your surroundings. When you gain this condition, you fall [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Prone|Prone]] and drop anything you’re carrying. You can’t interact with your surroundings or use any actions or reactions. In combat, you always go slow, but you can’t do anything on your turn.
 
 Enemies typically ignore Unconscious characters unless they have a strong reason to do otherwise.
 
@@ -397,7 +397,7 @@ NPCs automatically regain consciousness when they recover 1 health.
 
 ## Durations
 
-Some effects (such as conditions) last a specified number of rounds. If you’re in combat when that effect begins, note whether it begins in the fast PC phase, the fast NPC phase, the slow PC phase, or the slow NPC phase (see “[[Mistborn Handbook/11 - Ch 10 Combat#Turn Phases|Turn Phases]]” in chapter 10). The effect lasts until the beginning of that phase on the next round.
+Some effects (such as conditions) last a specified number of rounds. If you’re in combat when that effect begins, note whether it begins in the fast PC phase, the fast NPC phase, the slow PC phase, or the slow NPC phase (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat#Turn Phases|Turn Phases]]” in chapter 10). The effect lasts until the beginning of that phase on the next round.
 
 Other effects state exactly when they end. For example, if an effect ends “at the end of your next turn,” it doesn’t matter if your next turn is fast or slow—the effect ends when that turn does.
 
@@ -409,13 +409,13 @@ For simplicity, food and water are tracked per day. One day of food or water is 
 
 ## Insufficient Food
 
-You can go without **food** for a number of days up to your Willpower score before you begin to feel ill effects. For each day beyond this that you go without sufficient food, you become [[Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted [−1]]]. If this reduces you to [[Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted [−10]]] or lower, you die.
+You can go without **food** for a number of days up to your Willpower score before you begin to feel ill effects. For each day beyond this that you go without sufficient food, you become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted [−1]]]. If this reduces you to [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted [−10]]] or lower, you die.
 
 Once you consume a day’s worth of food, the count of days resets (though you remain Exhausted), and you can go without food for another number of days up to your Willpower score before you suffer more exhaustion.
 
 ## Insufficient Water
 
-You can’t go long without **water**. For each day you go without sufficient water, you become [[Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted [−1]]]. If this reduces you to [[Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted [−10]]] or lower, you die.
+You can’t go long without **water**. For each day you go without sufficient water, you become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted [−1]]]. If this reduces you to [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted [−10]]] or lower, you die.
 
 ## Damage, Injury, and Death
 
@@ -423,15 +423,15 @@ Whether you’re a brave rebel facing impossible odds in Era 1 or a dauntless ad
 
 ## Damage
 
-When you’re dealt **damage**, you reduce your current health by that amount (see “[[Mistborn Handbook/04 - Ch 3 Character Statistics#Health|Health]]” in chapter 3). If you’re wearing armor, your deflect value might reduce the amount of damage you suffer depending on that damage’s type (see “[[Mistborn Handbook/04 - Ch 3 Character Statistics|Deflect]]” in chapter 3).
+When you’re dealt **damage**, you reduce your current health by that amount (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Health|Health]]” in chapter 3). If you’re wearing armor, your deflect value might reduce the amount of damage you suffer depending on that damage’s type (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics|Deflect]]” in chapter 3).
 
-After you’re reduced to 0 health, you become [[Mistborn Handbook/10 - Ch 9 Adventuring#Unconscious|Unconscious]] and suffer an injury (see the upcoming “[[Mistborn Handbook/10 - Ch 9 Adventuring#Injuries|Injuries]]” section), putting you at risk of serious injury or death. Each time you take damage while at 0 health, you suffer another injury. If your injury doesn’t kill you, you remain [[Mistborn Handbook/10 - Ch 9 Adventuring#Unconscious|Unconscious]] until you recover health or choose to regain consciousness (as described in “[[Mistborn Handbook/10 - Ch 9 Adventuring|Conditions]]”).
+After you’re reduced to 0 health, you become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Unconscious|Unconscious]] and suffer an injury (see the upcoming “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Injuries|Injuries]]” section), putting you at risk of serious injury or death. Each time you take damage while at 0 health, you suffer another injury. If your injury doesn’t kill you, you remain [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Unconscious|Unconscious]] until you recover health or choose to regain consciousness (as described in “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Conditions]]”).
 
 ### Damage Types
 
 Different weapons, powers, and other effects deal different **damage types**. Most effects state what type of damage they deal. If an effect “deals extra damage” but doesn’t specify the type, the effect deals the same type as the underlying damage dealt.
 
-The type doesn’t usually change an effect, but other rules may affect some damage types. For example, if your armor gives you a deflect value, this reduces the damage you take when dealt energy, impact, or keen damage (see “[[Mistborn Handbook/08 - Ch 7 Items|Armor]]” in chapter 7). Similarly, some adversaries are less affected by certain damage types. When determining the damage type of various effects in your story, use the following guidelines:
+The type doesn’t usually change an effect, but other rules may affect some damage types. For example, if your armor gives you a deflect value, this reduces the damage you take when dealt energy, impact, or keen damage (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|Armor]]” in chapter 7). Similarly, some adversaries are less affected by certain damage types. When determining the damage type of various effects in your story, use the following guidelines:
 
 **Energy.** Effects related to heat and energy (such as fire and lightning) deal energy damage. This damage type is reduced by your deflect value.
 
@@ -445,7 +445,7 @@ The type doesn’t usually change an effect, but other rules may affect some dam
 
 ## Injuries
 
-Your health represents your general physical wellbeing and stamina, as described in [[Mistborn Handbook/04 - Ch 3 Character Statistics|chapter 3]]. As you recover health, you quickly heal minor wounds like scrapes and bruises. But when you suffer particularly grievous harm, you might suffer an **injury** that takes a while to heal— or that never heals at all.
+Your health represents your general physical wellbeing and stamina, as described in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics|chapter 3]]. As you recover health, you quickly heal minor wounds like scrapes and bruises. But when you suffer particularly grievous harm, you might suffer an **injury** that takes a while to heal— or that never heals at all.
 
 ### Suffering an Injury
 
@@ -453,7 +453,7 @@ You always suffer an injury when you’re reduced to 0 health and when you take
 
 ### Injury Rolls
 
-When you suffer an injury, you must make an **injury roll**. Major NPCs, such as recurring characters, make injury rolls in the same way. (For less prominent NPCs, see “[[Mistborn Handbook/10 - Ch 9 Adventuring#Minor NPCs and Injuries|Minor NPC and Injuries.]]”)
+When you suffer an injury, you must make an **injury roll**. Major NPCs, such as recurring characters, make injury rolls in the same way. (For less prominent NPCs, see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Minor NPCs and Injuries|Minor NPC and Injuries.]]”)
 
 An injury roll is not a skill test. Rather, when you make an injury roll, roll a d20 and apply the following modifiers:
 
@@ -463,9 +463,9 @@ An injury roll is not a skill test. Rather, when you make an injury roll, roll a
 
 **Injuries.** Subtract 5 from the roll for each injury you already have. (Unlike skill tests, the result of an injury roll can be a negative number!)
 
-Compare the result to the [[Mistborn Handbook/17 - Appendix 2 Tables|Injury Duration]] table to determine the duration of your injury, then see “[[Mistborn Handbook/10 - Ch 9 Adventuring#Injury Effects|Injury Effects]]” to determine its impact.
+Compare the result to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Injury Duration]] table to determine the duration of your injury, then see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Injury Effects|Injury Effects]]” to determine its impact.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Injury Duration]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Injury Duration]]
 
 ![[pg313_HB09_Recover_Kevin ONeill.webp]]
 
@@ -475,19 +475,19 @@ Compare the result to the [[Mistborn Handbook/17 - Appendix 2 Tables|Injury Dura
 
 Each injury remains until it heals (or for permanent injuries, potentially forever). When your character suffers an injury, you decide its effects. To do so, consider what caused the injury and what narrative you’re interested in for your character.
 
-The [[Mistborn Handbook/17 - Appendix 2 Tables|Injury Effects]] table suggests some effects an injury could have and how you might describe it in the story. Feel free to choose any entry on the table, roll a d8 on the table, or work with your GM to create a custom effect.
+The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Injury Effects]] table suggests some effects an injury could have and how you might describe it in the story. Feel free to choose any entry on the table, roll a d8 on the table, or work with your GM to create a custom effect.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Injury Effects]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Injury Effects]]
 
 ### Minor NPCs and Injuries
 
-If a minor NPC suffers an injury, they’re immediately defeated. When it fits the story, the PC inflicting the injury can choose whether the NPC dies or simply becomes [[Mistborn Handbook/10 - Ch 9 Adventuring#Unconscious|Unconscious]] with an injury. If [[Mistborn Handbook/10 - Ch 9 Adventuring#Unconscious|Unconscious]], the NPC can’t regain consciousness until they recover at least 1 health from another source; unlike PCs, NPCs can’t choose to regain consciousness on their own.
+If a minor NPC suffers an injury, they’re immediately defeated. When it fits the story, the PC inflicting the injury can choose whether the NPC dies or simply becomes [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Unconscious|Unconscious]] with an injury. If [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Unconscious|Unconscious]], the NPC can’t regain consciousness until they recover at least 1 health from another source; unlike PCs, NPCs can’t choose to regain consciousness on their own.
 
 At the GM’s discretion, NPCs significant to the scene or wider story might not be defeated when they suffer an injury, potentially allowing them to be revived by allies and rejoin the fight.
 
 ### Recovering From Injuries
 
-Temporary injuries heal after the specified duration— or if you recuperate during downtime, you heal twice as fast (see “[[Mistborn Handbook/10 - Ch 9 Adventuring|Downtime]]” earlier in this chapter). A few talents and other effects can also heal an injury.
+Temporary injuries heal after the specified duration— or if you recuperate during downtime, you heal twice as fast (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Downtime]]” earlier in this chapter). A few talents and other effects can also heal an injury.
 
 Permanent injuries won’t heal without supernatural intervention, but your character can adapt to injuries, including permanent ones. Losing a limb or use of a sense you’re accustomed to can certainly present practical challenges, but you can adapt with training, practice, specialty inventions, or the support of loved ones.
 
@@ -499,7 +499,7 @@ Permanent injuries won’t heal without supernatural intervention, but your char
 
 Though characters can suffer injuries during their adventures, each player has the freedom to reject any injury effect and choose something else that fits their story. This game’s injury rules aren’t intended for use when creating new characters with disabilities, nor to model how characters with disabilities operate in this game.
 
-For example, if you create a character who doesn’t have full use of all senses (such as a blind character), you don’t gain the [[Mistborn Handbook/10 - Ch 9 Adventuring#Disoriented|Disoriented]] condition. Instead, you follow the general character creation rules (unless you choose otherwise), since you’re assumed to have various techniques and tools for navigating daily life. Narratively, you might have certain logical limitations due to being unable to see—but you also have certain advantages, such as not relying on sight and not being deceived by purely visual illusions. If your character uses a mobility device, your movement rate is determined by your char acter’s Speed attribute, just as it is for any character.
+For example, if you create a character who doesn’t have full use of all senses (such as a blind character), you don’t gain the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Disoriented|Disoriented]] condition. Instead, you follow the general character creation rules (unless you choose otherwise), since you’re assumed to have various techniques and tools for navigating daily life. Narratively, you might have certain logical limitations due to being unable to see—but you also have certain advantages, such as not relying on sight and not being deceived by purely visual illusions. If your character uses a mobility device, your movement rate is determined by your char acter’s Speed attribute, just as it is for any character.
 
 Similarly, if you suffer a permanent injury during your adventures, you might eventually learn to compensate, removing the effects of any conditions it applied. In the story, you still experience the injury’s narrative effects, but you’ve found ways of adapting, and to represent that, you might even remove that injury’s mechanical condition.
 
@@ -509,7 +509,7 @@ If you suffer an injury, you’re encouraged to research the ways real people ha
 
 ## Death
 
-Player characters in this game are hardy and can usually withstand multiple grievous injuries before succumbing to them. However, as described in “[[Mistborn Handbook/10 - Ch 9 Adventuring#Injury Rolls|Injury Rolls,]]” each of your character’s injuries applies a penalty to future injury rolls, significantly increasing their chances of death.
+Player characters in this game are hardy and can usually withstand multiple grievous injuries before succumbing to them. However, as described in “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Injury Rolls|Injury Rolls,]]” each of your character’s injuries applies a penalty to future injury rolls, significantly increasing their chances of death.
 
 When your character dies, they can cling to consciousness just long enough to speak their final words: imparting one last wisdom, making one last quip, or saying one last goodbye. Their cognitive aspect then leaves their physical form, remaining in the Cognitive Realm for a short period before their soul rejoins the Spiritual Realm from whence it came.
 

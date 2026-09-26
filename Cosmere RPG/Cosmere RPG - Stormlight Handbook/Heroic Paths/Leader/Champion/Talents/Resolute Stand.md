@@ -14,4 +14,4 @@ aliases: ["Resolute Stand"]
 
 When you use your [[Heroic Paths/Leader/Champion/Talents/Valiant Intervention|Valiant Intervention]], you can spend focus up to your ranks in **Leadership** to target that many additional characters.
 
-Additionally, after you affect a target with Valiant Intervention, they can’t make [[Actions/Basic/Reactive Strike|Reactive Strikes]] against your allies until the end of that target’s next turn.
+Additionally, after you affect a target with Valiant Intervention, they can’t make [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Reactive Strike|Reactive Strikes]] against your allies until the end of that target’s next turn.

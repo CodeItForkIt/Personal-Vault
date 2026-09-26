@@ -12,4 +12,4 @@ aliases: ["Practiced Oratory"]
 
 *Thanks to your study of the history of rhetoric, you confidently craft your speeches for widespread appeal.*
 
-When you use your [[Heroic Paths/Envoy/Rousing Presence|Rousing Presence]] or [[Heroic Paths/Envoy/Diplomat/Talents/Steadfast Challenge|Steadfast Challenge]], you can spend focus up to your ranks in **Persuasion** to affect that many additional targets.
+When you use your [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Rousing Presence|Rousing Presence]] or [[Heroic Paths/Envoy/Diplomat/Talents/Steadfast Challenge|Steadfast Challenge]], you can spend focus up to your ranks in **Persuasion** to affect that many additional targets.

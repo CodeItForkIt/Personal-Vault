@@ -12,4 +12,4 @@ aliases: ["Modern Marveller"]
 
 *You’re a connoisseur of modern conveniences. From the workshop to the road, there’s no stopping you.*
 
-When you acquire this talent, gain the Automobile Mechanic utility expertise and a [[Items/Travel/Vehicles/Car Era 2|car]] (see “[[Mistborn Handbook/08 - Ch 7 Items#Vehicles|Vehicles]]” in chapter 7) with a hidden compartment. This secret storage compartment can hide an object that’s up to one-quarter of the car’s volume.
+When you acquire this talent, gain the Automobile Mechanic utility expertise and a [[Car Era 2|car]] (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items#Vehicles|Vehicles]]” in chapter 7) with a hidden compartment. This secret storage compartment can hide an object that’s up to one-quarter of the car’s volume.

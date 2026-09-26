@@ -14,8 +14,8 @@ aliases: ["True Sparking"]
 
 When you **Tap Mental Speed**, instead of just spending 1 charge, you can spend any number of charges, up to your Metallic Art limit. When you do, you experience the following effects until the end of your next turn (instead of the usual effects and duration):
 
-- You become [[Mistborn Handbook/10 - Ch 9 Adventuring#Enhanced|Enhanced]] [**Intellect**]. The bonus to this attribute equals 1 + the charges you spent to tap mental speed.
+- You become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Enhanced|Enhanced]] [**Intellect**]. The bonus to this attribute equals 1 + the charges you spent to tap mental speed.
 
-- When you use this talent and at the start of each of your turns, you gain a number of 1 equal to the amount of mental speed you’re tapping. You can only use those for the following actions: [[Actions/Basic/Ready|Ready]], [[Actions/Basic/Gain Advantage|Gain Advantage]] using your Intellect attribute, or [[Actions/Basic/Use A Skill|Use a Skill]] using your **Intellect** attribute.
+- When you use this talent and at the start of each of your turns, you gain a number of 1 equal to the amount of mental speed you’re tapping. You can only use those for the following actions: [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Ready|Ready]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Gain Advantage|Gain Advantage]] using your Intellect attribute, or [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Use A Skill|Use a Skill]] using your **Intellect** attribute.
 
 Before this mental speed tapping ends, you can maintain it for the same duration by spending 1 charge or more from your zincmind as 0.

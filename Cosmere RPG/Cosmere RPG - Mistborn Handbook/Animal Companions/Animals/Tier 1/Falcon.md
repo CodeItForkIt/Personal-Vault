@@ -34,7 +34,7 @@ Increase one or more of the Falcon’s movement rates by 10 feet.
 The Falcon gains an advantage on non-attack tests that rely on sight.
 
 ### Skyborn
-The Falcon doesn’t trigger [[Actions/Basic/Reactive Strike|Reactive Strikes]] while flying
+The Falcon doesn’t trigger [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Reactive Strike|Reactive Strikes]] while flying
 
 ### Minion
 The Falcon’s attacks can’t critically hit, and they’re immediately defeated when they suffer an injury.

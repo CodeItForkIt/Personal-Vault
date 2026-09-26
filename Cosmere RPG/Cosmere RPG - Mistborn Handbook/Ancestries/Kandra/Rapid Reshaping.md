@@ -12,4 +12,4 @@ aliases: ["Rapid Reshaping"]
 
 *Other kandra take hours, or even days, to imitate the forms of others. Thanks to your extensive practice, you can change your form in a fraction of the time.*
 
-You can use your [[Ancestries/Kandra/Kandra Disguise|Kandra Disguise]] talent to ingest the body of a character over a short rest, instead of over a long rest.
+You can use your [[Kandra Disguise|Kandra Disguise]] talent to ingest the body of a character over a short rest, instead of over a long rest.

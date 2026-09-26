@@ -291,7 +291,7 @@ Your test can gain an Opportunity or Complication when you roll the plot die, wh
 
 ### Spending an Opportunity
 
-![[Cosmere Opportunity dingbat.svg]]
+![[Cosmere RPG/Cosmere RPG - Mistborn Handbook/attachments/Cosmere Opportunity dingbat.svg]]
 
 When you gain an **Opportunity**, this applies a beneficial effect to the outcome of your current test (regardless of whether the test succeeds or fails). You can “spend” this Opportunity to choose one of the following effects:
 
@@ -307,7 +307,7 @@ Some abilities provide additional ways you can spend an Opportunity. If an abili
 
 ### Facing a Complication
 
-![[Cosmere Complication dingbat.svg]]
+![[Cosmere RPG/Cosmere RPG - Mistborn Handbook/attachments/Cosmere Complication dingbat.svg]]
 
 When you gain a **Complication**, this applies a negative side effect to the outcome of your current test (regardless of whether the test succeeds or fails). The GM should “spend” this Complication to choose one of the following effects:
 

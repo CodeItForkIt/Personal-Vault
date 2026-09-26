@@ -12,4 +12,4 @@ aliases: ["Deep Contemplation"]
 
 *You methodically search your mental archives for facts and information to help resolve your current situation.*
 
-Reassign up to 2 of the skills and expertises gained from your [[Heroic Paths/Scholar/Erudition|Erudition]].
+Reassign up to 2 of the skills and expertises gained from your [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Erudition|Erudition]].

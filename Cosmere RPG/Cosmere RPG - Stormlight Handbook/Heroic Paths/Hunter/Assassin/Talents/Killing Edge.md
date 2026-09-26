@@ -14,4 +14,4 @@ aliases: ["Killing Edge"]
 
 When you acquire this talent, gain weapon expertises in Knives and Slings.
 
-Additionally, while you wield a [[Items/Weapons/Knife|knife]] or [[Items/Weapons/Sling|sling]], it also has the **Deadly** and **Quickdraw** expert traits for you.
+Additionally, while you wield a [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Weapons/Knife|knife]] or [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Weapons/Sling|sling]], it also has the **Deadly** and **Quickdraw** expert traits for you.

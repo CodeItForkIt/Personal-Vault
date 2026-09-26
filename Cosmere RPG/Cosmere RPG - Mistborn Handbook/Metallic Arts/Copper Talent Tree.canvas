@@ -1,145 +1,23 @@
 {
-  "nodes": [
-    {
-      "id": "5Bub5ftMZH1nFJ4T",
-      "type": "file",
-      "file": "Metallic Arts/Copper/Talents/Allomancy/Covert Coordination.md",
-      "x": 340,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "2hbqLvnrA1Xksv2W",
-      "type": "file",
-      "file": "Metallic Arts/Copper/Talents/Feruchemy/Cramming Pupil.md",
-      "x": 340,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "LX8tH6zBFzdnta15",
-      "type": "file",
-      "file": "Metallic Arts/Copper/Talents/Allomancy/Efficient Smoker.md",
-      "x": 340,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "vU88OqyFtBj2TJdG",
-      "type": "file",
-      "file": "Metallic Arts/Copper/Talents/Feruchemy/Mnemonic Adept.md",
-      "x": 340,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "4QghHNsTC5YNMGqD",
-      "type": "file",
-      "file": "Metallic Arts/Copper/Talents/Feruchemy/Muscle Memory.md",
-      "x": 340,
-      "y": 480,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "FnzmdjCpx8Fy1fVc",
-      "type": "file",
-      "file": "Metallic Arts/Copper/Talents/Allomancy/Expanded Coppercloud.md",
-      "x": 0,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "5bha7DB2QR7PrBi7",
-      "type": "file",
-      "file": "Metallic Arts/Copper/Talents/Feruchemy/Expertise Archivist.md",
-      "x": 0,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "OBIUgbNlt0tDJUUk",
-      "type": "file",
-      "file": "Metallic Arts/Copper/Talents/Feruchemy/Indexed Coppermind.md",
-      "x": 0,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "gDo0qqqD5E5BLAVZ",
-      "type": "file",
-      "file": "Metallic Arts/Copper/Talents/Allomancy/Reflexive Cover.md",
-      "x": 0,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "SjcsbHWv4avOMzxZ",
-      "type": "file",
-      "file": "Metallic Arts/Copper/Talents/Feruchemy/Keeper of Knowledge.md",
-      "x": 680,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    }
-  ],
-  "edges": [
-    {
-      "id": "edge0",
-      "fromNode": "5bha7DB2QR7PrBi7",
-      "fromSide": "right",
-      "toNode": "2hbqLvnrA1Xksv2W",
-      "toSide": "left"
-    },
-    {
-      "id": "edge1",
-      "fromNode": "5bha7DB2QR7PrBi7",
-      "fromSide": "right",
-      "toNode": "4QghHNsTC5YNMGqD",
-      "toSide": "left"
-    },
-    {
-      "id": "edge2",
-      "fromNode": "gDo0qqqD5E5BLAVZ",
-      "fromSide": "right",
-      "toNode": "5Bub5ftMZH1nFJ4T",
-      "toSide": "left"
-    },
-    {
-      "id": "edge3",
-      "fromNode": "FnzmdjCpx8Fy1fVc",
-      "fromSide": "right",
-      "toNode": "LX8tH6zBFzdnta15",
-      "toSide": "left"
-    },
-    {
-      "id": "edge4",
-      "fromNode": "gDo0qqqD5E5BLAVZ",
-      "fromSide": "right",
-      "toNode": "LX8tH6zBFzdnta15",
-      "toSide": "left"
-    },
-    {
-      "id": "edge5",
-      "fromNode": "vU88OqyFtBj2TJdG",
-      "fromSide": "right",
-      "toNode": "SjcsbHWv4avOMzxZ",
-      "toSide": "left"
-    },
-    {
-      "id": "edge6",
-      "fromNode": "OBIUgbNlt0tDJUUk",
-      "fromSide": "right",
-      "toNode": "vU88OqyFtBj2TJdG",
-      "toSide": "left"
-    }
-  ]
+	"nodes":[
+		{"id":"5Bub5ftMZH1nFJ4T","type":"file","file":"Metallic Arts/Copper/Talents/Allomancy/Covert Coordination.md","x":340,"y":0,"width":280,"height":90},
+		{"id":"2hbqLvnrA1Xksv2W","type":"file","file":"Metallic Arts/Copper/Talents/Feruchemy/Cramming Pupil.md","x":340,"y":120,"width":280,"height":90},
+		{"id":"LX8tH6zBFzdnta15","type":"file","file":"Metallic Arts/Copper/Talents/Allomancy/Efficient Smoker.md","x":340,"y":240,"width":280,"height":90},
+		{"id":"vU88OqyFtBj2TJdG","type":"file","file":"Metallic Arts/Copper/Talents/Feruchemy/Mnemonic Adept.md","x":340,"y":360,"width":280,"height":90},
+		{"id":"4QghHNsTC5YNMGqD","type":"file","file":"Metallic Arts/Copper/Talents/Feruchemy/Muscle Memory.md","x":340,"y":480,"width":280,"height":90},
+		{"id":"FnzmdjCpx8Fy1fVc","type":"file","file":"Metallic Arts/Copper/Talents/Allomancy/Expanded Coppercloud.md","x":0,"y":0,"width":280,"height":90},
+		{"id":"5bha7DB2QR7PrBi7","type":"file","file":"Metallic Arts/Copper/Talents/Feruchemy/Expertise Archivist.md","x":0,"y":120,"width":280,"height":90},
+		{"id":"OBIUgbNlt0tDJUUk","type":"file","file":"Metallic Arts/Copper/Talents/Feruchemy/Indexed Coppermind.md","x":0,"y":240,"width":280,"height":90},
+		{"id":"gDo0qqqD5E5BLAVZ","type":"file","file":"Metallic Arts/Copper/Talents/Allomancy/Reflexive Cover.md","x":0,"y":360,"width":280,"height":90},
+		{"id":"SjcsbHWv4avOMzxZ","type":"file","file":"Metallic Arts/Copper/Talents/Feruchemy/Keeper of Knowledge.md","x":680,"y":0,"width":280,"height":90}
+	],
+	"edges":[
+		{"id":"edge0","fromNode":"5bha7DB2QR7PrBi7","fromSide":"right","toNode":"2hbqLvnrA1Xksv2W","toSide":"left"},
+		{"id":"edge1","fromNode":"5bha7DB2QR7PrBi7","fromSide":"right","toNode":"4QghHNsTC5YNMGqD","toSide":"left"},
+		{"id":"edge2","fromNode":"gDo0qqqD5E5BLAVZ","fromSide":"right","toNode":"5Bub5ftMZH1nFJ4T","toSide":"left"},
+		{"id":"edge3","fromNode":"FnzmdjCpx8Fy1fVc","fromSide":"right","toNode":"LX8tH6zBFzdnta15","toSide":"left"},
+		{"id":"edge4","fromNode":"gDo0qqqD5E5BLAVZ","fromSide":"right","toNode":"LX8tH6zBFzdnta15","toSide":"left"},
+		{"id":"edge5","fromNode":"vU88OqyFtBj2TJdG","fromSide":"right","toNode":"SjcsbHWv4avOMzxZ","toSide":"left"},
+		{"id":"edge6","fromNode":"OBIUgbNlt0tDJUUk","fromSide":"right","toNode":"vU88OqyFtBj2TJdG","toSide":"left"}
+	]
 }

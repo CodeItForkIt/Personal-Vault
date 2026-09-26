@@ -12,4 +12,4 @@ aliases: ["Selective Burst"]
 
 *You partition your Investiture reserves, allowing you to burst one ability without fully depleting yourself of the others.*
 
-When you **Burn Duralumin**, instead of spending your remaining Investiture, you can choose to become [[Mistborn Handbook/10 - Ch 9 Adventuring#Depleted|Depleted]] of the burst power. When you do, resolve the burst as though you spent your Investiture.
+When you **Burn Duralumin**, instead of spending your remaining Investiture, you can choose to become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Depleted|Depleted]] of the burst power. When you do, resolve the burst as though you spent your Investiture.

@@ -8,7 +8,7 @@ aliases: ["Copyright"]
 
 # Copyright
 
-![[Cosmere_MBC_Logo_4C.svg]]
+![[Cosmere RPG/Cosmere RPG - Mistborn Legacy/attachments/Cosmere_MBC_Logo_4C.svg]]
 
 **The Cosmere® RPG** was created by Brotherwise Games and Dragonsteel Entertainment.
 
@@ -74,7 +74,7 @@ aliases: ["Copyright"]
 
 ------------------------------------------------------------------------
 
-![[logo_Dragonsteel.svg]]![[logo_Brotherwise logo.webp]]
+![[Cosmere RPG/Cosmere RPG - Mistborn Legacy/attachments/logo_Dragonsteel.svg]]![[Cosmere RPG/Cosmere RPG - Mistborn Legacy/attachments/logo_Brotherwise logo.webp]]
 
 © 2026 by Brotherwise Games, LLC. Based on The Mistborn® Saga novels by Brandon Sanderson, copyright © 2006, 2007, 2008, 2011, 2015, 2016, 2022 by Dragonsteel Entertainment, LLC, and used with the express permission of Dragonsteel Entertainment, LLC.
 

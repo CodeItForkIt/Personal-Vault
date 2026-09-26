@@ -26,7 +26,7 @@ This RPG was also designed for Mistborn fans who aren’t familiar with tabletop
 
 ## Gather Your Crew
 
-Once you’ve found your players, it’s time to plan your first game. Beforehand, take time for a “session zero” to make sure everyone is on the same page about the game’s content, tone, and safety tools, as discussed in [[Mistborn Handbook/14 - Ch 13 Gamemastering|chapter 13]]. (Though a live session is optimal, this type of discussion can also take place via email or messaging.) If players are newer to RPGs, a session zero can also be a good time to help players build their characters. Allow at least an hour for a session zero.
+Once you’ve found your players, it’s time to plan your first game. Beforehand, take time for a “session zero” to make sure everyone is on the same page about the game’s content, tone, and safety tools, as discussed in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering|chapter 13]]. (Though a live session is optimal, this type of discussion can also take place via email or messaging.) If players are newer to RPGs, a session zero can also be a good time to help players build their characters. Allow at least an hour for a session zero.
 
 To prepare for the session, make sure you’re familiar with the rules. Visit [CosmereRPG.com](https://www.cosmererpg.com/) to print out quick reference sheets for players. If you’re playing with battle maps, be ready with miniatures or tokens and printed maps or dry-erase mats. Prepare a comfortable place to play and gather together.
 

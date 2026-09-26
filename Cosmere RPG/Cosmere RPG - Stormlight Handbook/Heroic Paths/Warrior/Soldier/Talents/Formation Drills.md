@@ -12,4 +12,4 @@ aliases: ["Formation Drills"]
 
 *You coordinate your allies to march in a defensive formation with you.*
 
-While an ally within 10 feet of you benefits from the [[Actions/Basic/Brace|Brace]] action, they also benefit from your Defensive Position as if they had that talent themself.
+While an ally within 10 feet of you benefits from the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Brace|Brace]] action, they also benefit from your Defensive Position as if they had that talent themself.

@@ -16,6 +16,6 @@ When you acquire this talent, you discover your heritage as a Ferring, gaining t
 
 - You gain the **Feruchemy** skill on your character sheet, starting with 1 rank in it. It uses your **Intellect** attribute.
 
-- Choose one Feruchemical power available in your era (see “[[Mistborn Handbook/07 - Ch 6 Metallic Arts|Metals of Scadrial]]” in chapter 6). You can only use the nascent version of this power for now.
+- Choose one Feruchemical power available in your era (see “[[07 - Ch 6 Metallic Arts|Metals of Scadrial]]” in chapter 6). You can only use the nascent version of this power for now.
 
 Additionally, you gain the Metalborn goal “**Construct Your Metalmind**.” After completing this goal, you gain its reward: You gain a metalmind, unlock the full version of your power, and can choose talents from its talent tree in chapter 6.

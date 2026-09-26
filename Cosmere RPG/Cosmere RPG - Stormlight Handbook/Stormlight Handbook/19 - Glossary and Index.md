@@ -62,7 +62,7 @@ aliases: ["Glossary and Index"]
 
 **Aid** **r(reaction):** Spend 1 focus to help an ally, granting them an advantage.
 
-[[Actions/Basic/Aid|Aid]]
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Aid|Aid]]
 
 **ally:** A character who considers you with friendliness or neutrality. You aren’t your own ally.
 
@@ -168,7 +168,7 @@ aliases: ["Glossary and Index"]
 
 **Avoid Danger** **r** **(reaction):** Make an Agility test to evade an imminent threat.
 
-[[Actions/Basic/Avoid Danger|Avoid Danger]]
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Avoid Danger|Avoid Danger]]
 
 **Awareness (attribute):** A number that represents your wisdom and connection to the world.
 
@@ -180,7 +180,7 @@ aliases: ["Glossary and Index"]
 
 **Banter** **0(free action):** Freely speak to characters near you.
 
-[[Actions/Basic/Banter|Banter]]
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Banter|Banter]]
 
 **Basic Lashing:** See Gravitation.
 
@@ -196,7 +196,7 @@ aliases: ["Glossary and Index"]
 
 **Brace** **1** **(action):** Take cover against incoming attacks, giving them a disadvantage.
 
-[[Actions/Basic/Brace|Brace]]
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Brace|Brace]]
 
 **Breathe Stormlight** **2** **(Stormlight action):** Draw Stormlight from nearby spheres and regain Investiture up to your maximum.
 
@@ -458,7 +458,7 @@ aliases: ["Glossary and Index"]
 
 **Disengage** **1** **(action):** Move 5 feet without triggering Reactive Stikes.
 
-[[Actions/Basic/Disengage|Disengage]]
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Disengage|Disengage]]
 
 **Disoriented (condition):** Your senses are disrupted, making it hard to perceive and react.
 
@@ -474,7 +474,7 @@ aliases: ["Glossary and Index"]
 
 **Dodge** **r** **(reaction):** Spend 1 focus to evade an attack, giving it a disadvantage.
 
-[[Actions/Basic/Dodge|Dodge]]
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Dodge|Dodge]]
 
 **downtime:** In the downtime between scenes, PCs can engage in personal pursuits.
 
@@ -482,7 +482,7 @@ aliases: ["Glossary and Index"]
 
 **Drop** **0** **(free action):** Let go of any number of objects you’re holding.
 
-[[Actions/Basic/Drop|Drop]]
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Drop|Drop]]
 
 **Duelist (Warrior specialty):**
 
@@ -692,7 +692,7 @@ aliases: ["Glossary and Index"]
 
 **Grapple** **2** **(action):** Make an Athletics test against Physical defense to grab your opponent, making them Restrained.
 
-[[Actions/Basic/Grapple|Grapple]]
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Grapple|Grapple]]
 
 **Gravitiation (surge, talent tree, uses Awareness):** The surge that manipulates gravitational attraction. Commonly used to create Basic Lashings, which temporarily attract an object to a different gravitational point.
 
@@ -820,7 +820,7 @@ aliases: ["Glossary and Index"]
 
 **Interact** **1** **(action):** Quickly manipulate an object you can reach, no test required.
 
-[[Actions/Basic/Interact|Interact]]
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Interact|Interact]]
 
 **Intimidation (skill, uses Willpower):** Induce fear in someone to secure their compliance.
 
@@ -1000,7 +1000,7 @@ aliases: ["Glossary and Index"]
 
 **Move** **1** **(action):** Move a distance up to your movement rate.
 
-[[Actions/Basic/Move|Move]]
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Move|Move]]
 
 - **movement rate:** Determined by Speed, this represents how fast and far you can move under pressure.
 
@@ -1208,15 +1208,15 @@ aliases: ["Glossary and Index"]
 
 **Reactive Strike** **r** **(reaction):** Spend 1 focus to make a melee attack against a retreating enemy.
 
-[[Actions/Basic/Reactive Strike|Reactive Strike]]
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Reactive Strike|Reactive Strike]]
 
 **Ready (action;** **1** **varies):** Prepare one of your other actions to respond to something else happening on the battlefield.
 
-[[Actions/Basic/Ready|Ready]]
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Ready|Ready]]
 
 **Recover** **2** **(action):** Take a break during combat, rolling your recovery die.
 
-[[Actions/Basic/Recover|Recover]]
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Recover|Recover]]
 
 **recovery die:** Determined by Willpower, this represents how efficiently you recover health and focus.
 
@@ -1344,7 +1344,7 @@ aliases: ["Glossary and Index"]
 
 **Shove** **2** **(action):** Make an Athletics test against Physical defense to attempt to forcibly move another character 5 feet.
 
-[[Actions/Basic/Shove|Shove]]
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Shove|Shove]]
 
 **Singer (talent tree):**
 
@@ -1538,7 +1538,7 @@ aliases: ["Glossary and Index"]
 
 **Strike** **1** **(action):** Make an attack against the Physical defense of a target in range.
 
-[[Actions/Basic/Strike|Strike]]
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Strike|Strike]]
 
 **Stunned (condition):** You can only manage the simplest of actions and can’t react.
 
@@ -1742,7 +1742,7 @@ aliases: ["Glossary and Index"]
 
 **Use a Skill** **1** **(action):** Perform a challenging task that requires a skill test.
 
-[[Actions/Basic/Use A Skill|Use A Skill]]
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Use A Skill|Use A Skill]]
 
 **utility expertise:** See expertise, utility.
 

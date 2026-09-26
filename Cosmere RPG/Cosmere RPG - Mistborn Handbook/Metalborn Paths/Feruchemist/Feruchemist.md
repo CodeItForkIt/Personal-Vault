@@ -32,9 +32,9 @@ By Era 2, few if any full Feruchemists remained. The Feruchemical powers dilute
 
 ## Building a Feruchemist
 
-Playing a Feruchemist can be intimidating due to the sheer number of Feruchemical powers and the need to track each metalmind separately. If you’re up for the challenge, the following “[[Mistborn Handbook/06 - Ch 5 Metalborn Paths#Iconic Feruchemist|Iconic Feruchemist]]” section provides an example build for characters inspired by the novels. Also consider these general tips for building an effective Feruchemist:
+Playing a Feruchemist can be intimidating due to the sheer number of Feruchemical powers and the need to track each metalmind separately. If you’re up for the challenge, the following “[[06 - Ch 5 Metalborn Paths#Iconic Feruchemist|Iconic Feruchemist]]” section provides an example build for characters inspired by the novels. Also consider these general tips for building an effective Feruchemist:
 
-**Attributes.** To increase your **Feruchemy** score and increase the number of metalminds you can wear, prioritize the **Intellect** attribute. Your other attributes largely depend on the first Feruchemical powers you plan to construct metalminds for. For example, powers that store a particular attribute (like [[Metallic Arts/Electrum/Electrum Feruchemy|Electrum Feruchemy]]) typically benefit from investing in that attribute; if your powers lend themself to combat (like [[Metallic Arts/Steel/Steel Feruchemy|Steel Feruchemy]]), consider **Strength** or **Speed** to empower your weapon attacks.
+**Attributes.** To increase your **Feruchemy** score and increase the number of metalminds you can wear, prioritize the **Intellect** attribute. Your other attributes largely depend on the first Feruchemical powers you plan to construct metalminds for. For example, powers that store a particular attribute (like [[Electrum Feruchemy|Electrum Feruchemy]]) typically benefit from investing in that attribute; if your powers lend themself to combat (like [[Steel Feruchemy|Steel Feruchemy]]), consider **Strength** or **Speed** to empower your weapon attacks.
 
 **Heroic Paths.** Many Feruchemists not only invest in their Metalborn path and its powers, but they supplement it with heroic talents. It’s a good idea to consider the build advice from any heroic paths of interest.
 

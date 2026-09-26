@@ -22,4 +22,4 @@ An unkeyed metalmind, which can be made of any Feruchemical metal, has the follo
 
 - If you store a charge in an unkeyed metalmind, it is no longer unkeyed, and it becomes a backup metalmind for you.
 
-The [[Mistborn Handbook/17 - Appendix 2 Tables|Unkeyed Metalminds by Tier]] table suggests an appropriate charge maximum for this reward.
+The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Unkeyed Metalminds by Tier]] table suggests an appropriate charge maximum for this reward.

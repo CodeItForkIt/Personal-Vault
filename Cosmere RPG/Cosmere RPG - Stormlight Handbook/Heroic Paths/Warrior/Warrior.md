@@ -30,13 +30,13 @@ Consider these general tips for building an effective Warrior:
 
 **Skills.** Useful skills include **Athletics**, **Light Weaponry**, **Heavy Weaponry**, **Intimidation**, **Leadership**, and **Persuasion**.
 
-**Other Heroic Paths.** The [[Heroic Paths/Leader/Leader|Leader]] and [[Heroic Paths/Hunter/Hunter|Hunter]] paths make excellent multi-path choices.
+**Other Heroic Paths.** The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Leader|Leader]] and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Hunter|Hunter]] paths make excellent multi-path choices.
 
 **Rewards.** When choosing rewards, you can’t go wrong with a [[Items/Weapons/Shardblade|Shardblade]], [[Items/Armor/Shardplate|Shardplate]], and a fancy military title.
 
 ### Warrior Key Talent
 
-The Warrior key talent, [[Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance]], unlocks access to the Warrior specialties.
+The Warrior key talent, [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance]], unlocks access to the Warrior specialties.
 
 **Starting Skill: Athletics.** If you choose Warrior as your starting path, gain a free skill rank in **Athletics**.
 

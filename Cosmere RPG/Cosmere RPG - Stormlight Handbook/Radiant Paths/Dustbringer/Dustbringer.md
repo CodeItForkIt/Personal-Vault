@@ -30,11 +30,11 @@ Beyond the [[Radiant Paths/Dustbringer/Goals/Speak the First Ideal|First Ideal]]
 >
 > Dustbringers are highly mobile, with a penchant for crafting and engineering. They also have a reputation for being thrill-seekers who dive headfirst into any situation. As such, the following heroic paths can be excellent precursors to the Dustbringer Radiant path:
 >
-> - [[Heroic Paths/Agent/Agent|Agent]] (Investigator or Thief)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Agent|Agent]] (Investigator or Thief)
 >
-> - [[Heroic Paths/Hunter/Hunter|Hunter]] (Archer, Assassin, or Tracker)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Hunter|Hunter]] (Archer, Assassin, or Tracker)
 >
-> - [[Heroic Paths/Scholar/Scholar|Scholar]] (Artifabrian or Strategist)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Scholar|Scholar]] (Artifabrian or Strategist)
 
 ### Dustbringer History
 

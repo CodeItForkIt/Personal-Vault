@@ -12,4 +12,4 @@ aliases: ["Profound Verve"]
 
 *Your Riotings can invigorate hearts and minds.*
 
-When you use your [[Metallic Arts/Zinc/Talents/Allomancy/Riot Resolve|Riot Resolve]], you can also choose a number of affected targets up to the Investiture you spent. Each of them becomes [[Mistborn Handbook/10 - Ch 9 Adventuring#Focused|Focused]] for the duration.
+When you use your [[Riot Resolve|Riot Resolve]], you can also choose a number of affected targets up to the Investiture you spent. Each of them becomes [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Focused|Focused]] for the duration.

@@ -1,22 +1,22 @@
 # Heroic Paths
 
 ## Agent
-- [[Heroic Paths/Agent/Agent|Agent]]
-- [[Heroic Paths/Agent/Agent Talents|Agent Talents]]
-- [[Heroic Paths/Agent/Opportunist|Opportunist]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Agent|Agent]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Agent Talents|Agent Talents]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Opportunist|Opportunist]]
 
 ### Agent / Investigator
-- [[Heroic Paths/Agent/Investigator/Investigator|Investigator]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Investigator|Investigator]]
 
 #### Agent / Investigator / Talents
-- [[Heroic Paths/Agent/Investigator/Talents/Baleful|Baleful]]
-- [[Heroic Paths/Agent/Investigator/Talents/Close the Case|Close the Case]]
-- [[Heroic Paths/Agent/Investigator/Talents/Gather Evidence|Gather Evidence]]
-- [[Heroic Paths/Agent/Investigator/Talents/Get Em Talking|Get 'Em Talking]]
-- [[Heroic Paths/Agent/Investigator/Talents/Hardy|Hardy]]
-- [[Heroic Paths/Agent/Investigator/Talents/Quick Analysis|Quick Analysis]]
-- [[Heroic Paths/Agent/Investigator/Talents/Sleuths Instincts|Sleuth's Instincts]]
-- [[Heroic Paths/Agent/Investigator/Talents/Watchful Eye|Watchful Eye]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Baleful|Baleful]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Close the Case|Close the Case]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Gather Evidence|Gather Evidence]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Get Em Talking|Get 'Em Talking]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Hardy|Hardy]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Quick Analysis|Quick Analysis]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Sleuths Instincts|Sleuth's Instincts]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Investigator/Talents/Watchful Eye|Watchful Eye]]
 
 ### Agent / Spy
 - [[Heroic Paths/Agent/Spy/Spy|Spy]]
@@ -32,22 +32,22 @@
 - [[Heroic Paths/Agent/Spy/Talents/Sure Outcome|Sure Outcome]]
 
 ### Agent / Thief
-- [[Heroic Paths/Agent/Thief/Thief|Thief]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Thief|Thief]]
 
 #### Agent / Thief / Talents
-- [[Heroic Paths/Agent/Thief/Talents/Cheap Shot|Cheap Shot]]
-- [[Heroic Paths/Agent/Thief/Talents/Double Down|Double Down]]
-- [[Heroic Paths/Agent/Thief/Talents/Fast Talker|Fast Talker]]
-- [[Heroic Paths/Agent/Thief/Talents/Risky Behavior|Risky Behavior]]
-- [[Heroic Paths/Agent/Thief/Talents/Shadow Step|Shadow Step]]
-- [[Heroic Paths/Agent/Thief/Talents/Surefooted|Surefooted]]
-- [[Heroic Paths/Agent/Thief/Talents/Tricksters Hand|Trickster’s Hand]]
-- [[Heroic Paths/Agent/Thief/Talents/Underworld Contacts|Underworld Contacts]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Cheap Shot|Cheap Shot]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Double Down|Double Down]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Fast Talker|Fast Talker]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Risky Behavior|Risky Behavior]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Shadow Step|Shadow Step]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Surefooted|Surefooted]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Tricksters Hand|Trickster’s Hand]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Agent/Thief/Talents/Underworld Contacts|Underworld Contacts]]
 
 ## Envoy
-- [[Heroic Paths/Envoy/Envoy|Envoy]]
-- [[Heroic Paths/Envoy/Envoy Talents|Envoy Talents]]
-- [[Heroic Paths/Envoy/Rousing Presence|Rousing Presence]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Envoy|Envoy]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Envoy Talents|Envoy Talents]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Rousing Presence|Rousing Presence]]
 
 ### Envoy / Diplomat
 - [[Heroic Paths/Envoy/Diplomat/Diplomat|Diplomat]]
@@ -63,35 +63,35 @@
 - [[Heroic Paths/Envoy/Diplomat/Talents/Withering Retort|Withering Retort]]
 
 ### Envoy / Faithful
-- [[Heroic Paths/Envoy/Faithful/Faithful|Faithful]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Faithful|Faithful]]
 
 #### Envoy / Faithful / Talents
-- [[Heroic Paths/Envoy/Faithful/Talents/Applied Motivation|Applied Motivation]]
-- [[Heroic Paths/Envoy/Faithful/Talents/Composed|Composed]]
-- [[Heroic Paths/Envoy/Faithful/Talents/Customary Garb|Customary Garb]]
-- [[Heroic Paths/Envoy/Faithful/Talents/Devoted Presence|Devoted Presence]]
-- [[Heroic Paths/Envoy/Faithful/Talents/Galvanize|Galvanize]]
-- [[Heroic Paths/Envoy/Faithful/Talents/Inspired Zeal|Inspired Zeal]]
-- [[Heroic Paths/Envoy/Faithful/Talents/Sage Counsel|Sage Counsel]]
-- [[Heroic Paths/Envoy/Faithful/Talents/Stalwart Presence|Stalwart Presence]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Applied Motivation|Applied Motivation]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Composed|Composed]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Customary Garb|Customary Garb]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Devoted Presence|Devoted Presence]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Galvanize|Galvanize]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Inspired Zeal|Inspired Zeal]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Sage Counsel|Sage Counsel]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Talents/Stalwart Presence|Stalwart Presence]]
 
 ### Envoy / Mentor
-- [[Heroic Paths/Envoy/Mentor/Mentor|Mentor]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Mentor|Mentor]]
 
 #### Envoy / Mentor / Talents
-- [[Heroic Paths/Envoy/Mentor/Talents/Foresight|Foresight]]
-- [[Heroic Paths/Envoy/Mentor/Talents/Guiding Oration|Guiding Oration]]
-- [[Heroic Paths/Envoy/Mentor/Talents/Instill Confidence|Instill Confidence]]
-- [[Heroic Paths/Envoy/Mentor/Talents/Lessons in Patience|Lessons in Patience]]
-- [[Heroic Paths/Envoy/Mentor/Talents/Mighty|Mighty]]
-- [[Heroic Paths/Envoy/Mentor/Talents/Practical Demonstration|Practical Demonstration]]
-- [[Heroic Paths/Envoy/Mentor/Talents/Rallying Shout|Rallying Shout]]
-- [[Heroic Paths/Envoy/Mentor/Talents/Sound Advice|Sound Advice]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Foresight|Foresight]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Guiding Oration|Guiding Oration]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Instill Confidence|Instill Confidence]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Lessons in Patience|Lessons in Patience]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Mighty|Mighty]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Practical Demonstration|Practical Demonstration]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Rallying Shout|Rallying Shout]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Talents/Sound Advice|Sound Advice]]
 
 ## Hunter
-- [[Heroic Paths/Hunter/Hunter|Hunter]]
-- [[Heroic Paths/Hunter/Hunter Talents|Hunter Talents]]
-- [[Heroic Paths/Hunter/Seek Quarry|Seek Quarry]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Hunter|Hunter]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Hunter Talents|Hunter Talents]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Seek Quarry|Seek Quarry]]
 
 ### Hunter / Archer
 - [[Heroic Paths/Hunter/Archer/Archer|Archer]]
@@ -120,7 +120,7 @@
 - [[Heroic Paths/Hunter/Assassin/Talents/Swift Strikes|Swift Strikes]]
 
 ### Hunter / Tracker
-- [[Heroic Paths/Hunter/Tracker/Tracker|Tracker]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Tracker|Tracker]]
 
 #### Hunter / Tracker / Actions
 - [[Heroic Paths/Hunter/Tracker/Actions/Entangling Trap|Entangling Trap]]
@@ -128,19 +128,19 @@
 - [[Heroic Paths/Hunter/Tracker/Actions/Track|Track]]
 
 #### Hunter / Tracker / Talents
-- [[Heroic Paths/Hunter/Tracker/Talents/Animal Bond|Animal Bond]]
-- [[Heroic Paths/Hunter/Tracker/Talents/Deadly Trap|Deadly Trap]]
-- [[Heroic Paths/Hunter/Tracker/Talents/Experienced Trapper|Experienced Trapper]]
-- [[Heroic Paths/Hunter/Tracker/Talents/Feral Connection|Feral Connection]]
-- [[Heroic Paths/Hunter/Tracker/Talents/Hunters Edge|Hunter's Edge]]
-- [[Heroic Paths/Hunter/Tracker/Talents/Pack Hunting|Pack Hunting]]
-- [[Heroic Paths/Hunter/Tracker/Talents/Protective Bond|Protective Bond]]
-- [[Heroic Paths/Hunter/Tracker/Talents/Surefooted|Surefooted]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Animal Bond|Animal Bond]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Deadly Trap|Deadly Trap]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Experienced Trapper|Experienced Trapper]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Feral Connection|Feral Connection]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Hunters Edge|Hunter's Edge]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Pack Hunting|Pack Hunting]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Protective Bond|Protective Bond]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Tracker/Talents/Surefooted|Surefooted]]
 
 ## Leader
-- [[Heroic Paths/Leader/Decisive Command|Decisive Command]]
-- [[Heroic Paths/Leader/Leader|Leader]]
-- [[Heroic Paths/Leader/Leader Talents|Leader Talents]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Decisive Command|Decisive Command]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Leader|Leader]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Leader Talents|Leader Talents]]
 
 ### Leader / Champion
 - [[Heroic Paths/Leader/Champion/Champion|Champion]]
@@ -156,35 +156,35 @@
 - [[Heroic Paths/Leader/Champion/Talents/Valiant Intervention|Valiant Intervention]]
 
 ### Leader / Officer
-- [[Heroic Paths/Leader/Officer/Officer|Officer]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Officer|Officer]]
 
 #### Leader / Officer / Talents
-- [[Heroic Paths/Leader/Officer/Talents/Authority|Authority]]
-- [[Heroic Paths/Leader/Officer/Talents/Composed|Composed]]
-- [[Heroic Paths/Leader/Officer/Talents/Confident Command|Confident Command]]
-- [[Heroic Paths/Leader/Officer/Talents/Customary Garb|Customary Garb]]
-- [[Heroic Paths/Leader/Officer/Talents/Relentless March|Relentless March]]
-- [[Heroic Paths/Leader/Officer/Talents/Synchronized Assault|Synchronized Assault]]
-- [[Heroic Paths/Leader/Officer/Talents/Through the Fray|Through the Fray]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Authority|Authority]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Composed|Composed]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Confident Command|Confident Command]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Customary Garb|Customary Garb]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Relentless March|Relentless March]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Synchronized Assault|Synchronized Assault]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Officer/Talents/Through the Fray|Through the Fray]]
 - [[Heroic Paths/Leader/Officer/Talents/Well-Supplied|Well-Supplied]]
 
 ### Leader / Politico
-- [[Heroic Paths/Leader/Politico/Politico|Politico]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico/Politico|Politico]]
 
 #### Leader / Politico / Talents
-- [[Heroic Paths/Leader/Politico/Talents/Baleful|Baleful]]
-- [[Heroic Paths/Leader/Politico/Talents/Cutthroat Tactics|Cutthroat Tactics]]
-- [[Heroic Paths/Leader/Politico/Talents/Grand Deception|Grand Deception]]
-- [[Heroic Paths/Leader/Politico/Talents/Rumormonger|Rumormonger]]
-- [[Heroic Paths/Leader/Politico/Talents/Set at Odds|Set at Odds]]
-- [[Heroic Paths/Leader/Politico/Talents/Shrewd Command|Shrewd Command]]
-- [[Heroic Paths/Leader/Politico/Talents/Tactical Ploy|Tactical Ploy]]
-- [[Heroic Paths/Leader/Politico/Talents/Well Dressed|Well Dressed]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico/Talents/Baleful|Baleful]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico/Talents/Cutthroat Tactics|Cutthroat Tactics]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico/Talents/Grand Deception|Grand Deception]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico/Talents/Rumormonger|Rumormonger]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico/Talents/Set at Odds|Set at Odds]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico/Talents/Shrewd Command|Shrewd Command]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico/Talents/Tactical Ploy|Tactical Ploy]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Politico/Talents/Well Dressed|Well Dressed]]
 
 ## Scholar
-- [[Heroic Paths/Scholar/Erudition|Erudition]]
-- [[Heroic Paths/Scholar/Scholar|Scholar]]
-- [[Heroic Paths/Scholar/Scholar Talents|Scholar Talents]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Erudition|Erudition]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Scholar|Scholar]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Scholar Talents|Scholar Talents]]
 
 ### Scholar / Artifabrian
 - [[Heroic Paths/Scholar/Artifabrian/Artifabrian|Artifabrian]]
@@ -200,36 +200,36 @@
 - [[Heroic Paths/Scholar/Artifabrian/Talents/Prized Acquisition|Prized Acquisition]]
 
 ### Scholar / Strategist
-- [[Heroic Paths/Scholar/Strategist/Strategist|Strategist]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Strategist|Strategist]]
 
 #### Scholar / Strategist / Talents
-- [[Heroic Paths/Scholar/Strategist/Talents/Composed|Composed]]
-- [[Heroic Paths/Scholar/Strategist/Talents/Contingency|Contingency]]
-- [[Heroic Paths/Scholar/Strategist/Talents/Deep Contemplation|Deep Contemplation]]
-- [[Heroic Paths/Scholar/Strategist/Talents/Keen Insight|Keen Insight]]
-- [[Heroic Paths/Scholar/Strategist/Talents/Know Your Moment|Know Your Moment]]
-- [[Heroic Paths/Scholar/Strategist/Talents/Mind and Body|Mind and Body]]
-- [[Heroic Paths/Scholar/Strategist/Talents/Strategize|Strategize]]
-- [[Heroic Paths/Scholar/Strategist/Talents/Turning Point|Turning Point]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Composed|Composed]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Contingency|Contingency]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Deep Contemplation|Deep Contemplation]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Keen Insight|Keen Insight]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Know Your Moment|Know Your Moment]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Mind and Body|Mind and Body]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Strategize|Strategize]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Turning Point|Turning Point]]
 
 ### Scholar / Surgeon
-- [[Heroic Paths/Scholar/Surgeon/Surgeon|Surgeon]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Surgeon|Surgeon]]
 
 #### Scholar / Surgeon / Talents
-- [[Heroic Paths/Scholar/Surgeon/Talents/Anatomical Insight|Anatomical Insight]]
-- [[Heroic Paths/Scholar/Surgeon/Talents/Applied Medicine|Applied Medicine]]
-- [[Heroic Paths/Scholar/Surgeon/Talents/Collected|Collected]]
-- [[Heroic Paths/Scholar/Surgeon/Talents/Emotional Intelligence|Emotional Intelligence]]
-- [[Heroic Paths/Scholar/Surgeon/Talents/Field Medicine|Field Medicine]]
-- [[Heroic Paths/Scholar/Surgeon/Talents/Ongoing Care|Ongoing Care]]
-- [[Heroic Paths/Scholar/Surgeon/Talents/Resuscitation|Resuscitation]]
-- [[Heroic Paths/Scholar/Surgeon/Talents/Swift Healer|Swift Healer]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Anatomical Insight|Anatomical Insight]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Applied Medicine|Applied Medicine]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Collected|Collected]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Emotional Intelligence|Emotional Intelligence]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Field Medicine|Field Medicine]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Ongoing Care|Ongoing Care]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Resuscitation|Resuscitation]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Surgeon/Talents/Swift Healer|Swift Healer]]
 
 ## Warrior
 - [[Heroic Paths/Warrior/End Stance|End Stance]]
-- [[Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance]]
-- [[Heroic Paths/Warrior/Warrior|Warrior]]
-- [[Heroic Paths/Warrior/Warrior Talents|Warrior Talents]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Warrior|Warrior]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Warrior Talents|Warrior Talents]]
 
 ### Warrior / Duelist
 - [[Heroic Paths/Warrior/Duelist/Duelist|Duelist]]
@@ -258,14 +258,14 @@
 - [[Heroic Paths/Warrior/Shardbearer/Talents/Windstance|Windstance]]
 
 ### Warrior / Soldier
-- [[Heroic Paths/Warrior/Soldier/Soldier|Soldier]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Soldier|Soldier]]
 
 #### Warrior / Soldier / Talents
-- [[Heroic Paths/Warrior/Soldier/Talents/Cautious Advance|Cautious Advance]]
-- [[Heroic Paths/Warrior/Soldier/Talents/Combat Training|Combat Training]]
-- [[Heroic Paths/Warrior/Soldier/Talents/Defensive Position|Defensive Position]]
-- [[Heroic Paths/Warrior/Soldier/Talents/Devastating Blow|Devastating Blow]]
-- [[Heroic Paths/Warrior/Soldier/Talents/Formation Drills|Formation Drills]]
-- [[Heroic Paths/Warrior/Soldier/Talents/Hardy|Hardy]]
-- [[Heroic Paths/Warrior/Soldier/Talents/Swift Strikes|Swift Strikes]]
-- [[Heroic Paths/Warrior/Soldier/Talents/Wary|Wary]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Cautious Advance|Cautious Advance]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Combat Training|Combat Training]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Defensive Position|Defensive Position]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Devastating Blow|Devastating Blow]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Formation Drills|Formation Drills]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Hardy|Hardy]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Swift Strikes|Swift Strikes]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Talents/Wary|Wary]]

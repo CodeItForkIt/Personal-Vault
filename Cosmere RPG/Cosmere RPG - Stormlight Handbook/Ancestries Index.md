@@ -34,5 +34,5 @@
 - [[Ancestries/Singer/Forms/Actions/Unleash Lightning|Unleash Lightning]]
 
 ## Uncategorized
-- [[Ancestries/Uncategorized/Human|Human]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Ancestries/Uncategorized/Human|Human]]
 - [[Ancestries/Uncategorized/Singer|Singer]]

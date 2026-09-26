@@ -12,4 +12,4 @@ aliases: ["Mediationform"]
 
 You’ve bonded with a bindspren. While in this form, your **Presence** increases by 1.
 
-Additionally, you don’t have to spend focus to use the [[Actions/Basic/Aid|Aid]] reaction.
+Additionally, you don’t have to spend focus to use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Aid|Aid]] reaction.

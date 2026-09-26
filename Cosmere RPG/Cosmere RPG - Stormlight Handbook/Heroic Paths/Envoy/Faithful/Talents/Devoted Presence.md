@@ -12,4 +12,4 @@ aliases: ["Devoted Presence"]
 
 *Your words fill your compatriots with purpose, helping them shrug off discomfort or surprise.*
 
-When you use your [[Heroic Paths/Envoy/Rousing Presence|Rousing Presence]] on one or more allies, you can spend 1 focus per target to remove any number of the following conditions from them: **Prone**, **Slowed**, **Stunned**, and **Surprised**.
+When you use your [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Rousing Presence|Rousing Presence]] on one or more allies, you can spend 1 focus per target to remove any number of the following conditions from them: **Prone**, **Slowed**, **Stunned**, and **Surprised**.

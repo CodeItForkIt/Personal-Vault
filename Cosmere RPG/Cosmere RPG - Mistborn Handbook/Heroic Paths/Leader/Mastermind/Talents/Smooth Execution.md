@@ -12,4 +12,4 @@ aliases: ["Smooth Execution"]
 
 *Few things are as satisfying as a well-executed plan. You and your allies bask in the thrill of triumph—it’ll be smooth sailing from here.*
 
-When your [[Heroic Paths/Leader/Mastermind/Talents/Master Plan|Master Plan]] event triggers, you and each ally you can influence become [[Mistborn Handbook/10 - Ch 9 Adventuring#Focused|Focused]] until the end of each target’s next turn.
+When your [[Master Plan|Master Plan]] event triggers, you and each ally you can influence become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Focused|Focused]] until the end of each target’s next turn.

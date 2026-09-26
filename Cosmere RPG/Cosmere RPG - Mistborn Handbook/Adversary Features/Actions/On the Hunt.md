@@ -8,4 +8,4 @@ aliases: ["On the Hunt"]
 ---
 # On the Hunt
 
-After an enemy within 30 feet of the Actor Name falls [[Mistborn Handbook/10 - Ch 9 Adventuring#Prone|Prone]], the Actor Name moves up to half their movement rate toward them.
+After an enemy within 30 feet of the Actor Name falls [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Prone|Prone]], the Actor Name moves up to half their movement rate toward them.

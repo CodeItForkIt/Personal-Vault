@@ -12,4 +12,4 @@ aliases: ["Slippery Target"]
 
 *You make yourself so slick that glancing and hasty blows slide right off you.*
 
-While you are infused with **Abrasion**, attacks can’t graze you and [[Actions/Basic/Reactive Strike|Reactive Strikes]] against you gain a disadvantage.
+While you are infused with **Abrasion**, attacks can’t graze you and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Reactive Strike|Reactive Strikes]] against you gain a disadvantage.

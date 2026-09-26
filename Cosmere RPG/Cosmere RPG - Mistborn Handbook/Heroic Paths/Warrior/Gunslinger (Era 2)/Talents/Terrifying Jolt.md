@@ -12,4 +12,4 @@ aliases: ["Terrifying Jolt"]
 
 *You place your shots for maximum psychological effect, keeping your enemies’ heads down even when you can’t hit them.*
 
-After you graze a target with an attack that deals keen damage, they lose 1 focus. If this reduces their focus to 0, they become [[Mistborn Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]] until the end of their next turn.
+After you graze a target with an attack that deals keen damage, they lose 1 focus. If this reduces their focus to 0, they become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]] until the end of their next turn.

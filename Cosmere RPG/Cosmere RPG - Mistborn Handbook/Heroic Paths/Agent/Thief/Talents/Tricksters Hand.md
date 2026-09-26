@@ -12,6 +12,6 @@ aliases: ["Trickster’s Hand"]
 
 *You execute your acts of skulduggery with such subtlety and dexterity that your marks struggle to follow.*
 
-Spend 2 focus to gain 2, which you can only use to make physical tests via the following actions: [[Actions/Basic/Use A Skill|Use a Skill]], [[Actions/Basic/Gain Advantage|Gain Advantage]], or an action from any [[Heroic Paths/Agent/Agent|Agent]] talent.
+Spend 2 focus to gain 2, which you can only use to make physical tests via the following actions: [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Use A Skill|Use a Skill]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Gain Advantage|Gain Advantage]], or an action from any [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Agent|Agent]] talent.
 
 During a conversation or endeavor, at the GM’s discretion, you can instead use both 2 to make an additional contribution for the round.

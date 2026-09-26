@@ -12,4 +12,4 @@ aliases: ["Ironstance"]
 
 *You hold your weapon high, prepared to deliver a crushing blow downward when your opponent shows weakness.*
 
-While in this stance, you gain an advantage on **Insight** tests. Additionally, when a character within your reach misses you or grazes you with an attack, you can use [[Actions/Basic/Reactive Strike|Reactive Strike]] against them as if they had voluntarily left your reach.
+While in this stance, you gain an advantage on **Insight** tests. Additionally, when a character within your reach misses you or grazes you with an attack, you can use [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Reactive Strike|Reactive Strike]] against them as if they had voluntarily left your reach.

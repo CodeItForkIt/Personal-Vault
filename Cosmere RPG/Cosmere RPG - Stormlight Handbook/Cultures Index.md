@@ -13,4 +13,4 @@
 - [[Cultures/Uncategorized/Thaylen|Thaylen]]
 - [[Cultures/Uncategorized/Unkalaki|Unkalaki]]
 - [[Cultures/Uncategorized/Veden|Veden]]
-- [[Cultures/Uncategorized/Wayfarer|Wayfarer]]
+- [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Cultures/Uncategorized/Wayfarer|Wayfarer]]

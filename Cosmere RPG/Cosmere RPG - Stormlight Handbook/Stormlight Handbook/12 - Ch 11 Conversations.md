@@ -123,7 +123,7 @@ If the GM decides that a particular argument is incredibly persuasive or hits on
 
 ### Resisting Mechanical Effects
 
-Any effect targeting a “character you can influence” can be resisted by that character (unless otherwise stated). If an effect doesn’t require the target to be influenceable, they generally can’t resist it; however, some effects (like the Scholar’s [[Heroic Paths/Scholar/Strategist/Talents/Keen Insight|Keen Insight]] talent) state that a target can resist the influence of that effect, even it isn’t an attempt to persuade the target. These effects can also be resisted by spending 2 focus, as if the effect were a socially oriented skill test.
+Any effect targeting a “character you can influence” can be resisted by that character (unless otherwise stated). If an effect doesn’t require the target to be influenceable, they generally can’t resist it; however, some effects (like the Scholar’s [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Strategist/Talents/Keen Insight|Keen Insight]] talent) state that a target can resist the influence of that effect, even it isn’t an attempt to persuade the target. These effects can also be resisted by spending 2 focus, as if the effect were a socially oriented skill test.
 
 ### Player Characters and Influence
 

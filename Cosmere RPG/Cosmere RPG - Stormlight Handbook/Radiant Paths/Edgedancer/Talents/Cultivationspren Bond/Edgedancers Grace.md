@@ -12,4 +12,4 @@ aliases: ["Edgedancer's Grace"]
 
 *You’ve mastered the supernatural grace told of the Edgedancers of yore.*
 
-After you start your turn with 1 Investiture or more, you gain an additional r, which you can use only to [[Actions/Basic/Avoid Danger|Avoid Danger]] or [[Actions/Basic/Dodge|Dodge]]. If you use the Dodge reaction in this way, ignore its focus cost.
+After you start your turn with 1 Investiture or more, you gain an additional r, which you can use only to [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Avoid Danger|Avoid Danger]] or [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Dodge|Dodge]]. If you use the Dodge reaction in this way, ignore its focus cost.

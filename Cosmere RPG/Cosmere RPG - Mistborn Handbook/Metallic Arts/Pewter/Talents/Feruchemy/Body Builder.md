@@ -14,7 +14,7 @@ aliases: ["Body Builder"]
 
 When you **Tap Strength**, instead of just spending 1 charge, you can spend any number of charges, up to your Metallic Art limit. When you do, you experience the following effects until the end of your next turn (instead of the usual effects and duration):
 
-- You become [[Mistborn Handbook/10 - Ch 9 Adventuring#Enhanced|Enhanced]] [**Strength**]. The bonus to this attribute equals 1 + the charges you spent to tap strength.
+- You become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Enhanced|Enhanced]] [**Strength**]. The bonus to this attribute equals 1 + the charges you spent to tap strength.
 
 - When you make a test that uses your **Strength** attribute (such as an unarmed attack), you gain a number of advantages equal to half the charges you spent to tap strength (rounded up).
 

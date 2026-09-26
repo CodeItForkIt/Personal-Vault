@@ -12,4 +12,4 @@ aliases: ["Hastened Dodge"]
 
 *Tapping speed makes you even more adept at dodging attacks.*
 
-When you use the [[Actions/Basic/Dodge|Dodge]] reaction while tapping speed, the triggering attack can’t graze you.
+When you use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Dodge|Dodge]] reaction while tapping speed, the triggering attack can’t graze you.

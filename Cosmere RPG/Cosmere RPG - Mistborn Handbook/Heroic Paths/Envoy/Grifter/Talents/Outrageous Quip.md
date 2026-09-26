@@ -12,4 +12,4 @@ aliases: ["Outrageous Quip"]
 
 *While keeping a straight face, you make a joke, insult, or absurd observation that leaves your opponent completely baffled.*
 
-Make a *Test: `skill=dec`* against the Spiritual defense of a character you can influence. On a success, your target becomes [[Mistborn Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]] until the start of your next turn.
+Make a *Test: `skill=dec`* against the Spiritual defense of a character you can influence. On a success, your target becomes [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]] until the start of your next turn.

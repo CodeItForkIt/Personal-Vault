@@ -1,413 +1,57 @@
 {
-  "nodes": [
-    {
-      "id": "RzF4E9p54ZXJO4FG",
-      "type": "file",
-      "file": "Heroic Paths/Scholar/Inventor/Talents/Acute Scrutiny.md",
-      "x": 680,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "Ra6qp9VgEHgph3GQ",
-      "type": "file",
-      "file": "Heroic Paths/Scholar/Surgeon/Talents/Anatomical Insight.md",
-      "x": 680,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "mk6LfVWcLOw3VdFM",
-      "type": "file",
-      "file": "Heroic Paths/Scholar/Surgeon/Talents/Collected.md",
-      "x": 680,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "jrIbWaF5vyzdaXfQ",
-      "type": "file",
-      "file": "Heroic Paths/Scholar/Strategist/Talents/Composed.md",
-      "x": 680,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "z5si39w1kwJ49oJq",
-      "type": "file",
-      "file": "Heroic Paths/Scholar/Inventor/Talents/Gunsmith.md",
-      "x": 680,
-      "y": 480,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "aSs6lpqfYmx2mIn3",
-      "type": "file",
-      "file": "Heroic Paths/Scholar/Strategist/Talents/Know Your Moment.md",
-      "x": 680,
-      "y": 600,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "UKyrnWygX59vdouu",
-      "type": "file",
-      "file": "Heroic Paths/Scholar/Surgeon/Talents/Swift Healer.md",
-      "x": 680,
-      "y": 720,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "KlFHlCmf0bBR9Li4",
-      "type": "file",
-      "file": "Heroic Paths/Scholar/Surgeon/Talents/Emotional Intelligence.md",
-      "x": 340,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "ng7XHOJCeBul4e5I",
-      "type": "file",
-      "file": "Heroic Paths/Scholar/Surgeon/Talents/Field Medicine.md",
-      "x": 340,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "rpDUm0EM6GjjBxt6",
-      "type": "file",
-      "file": "Heroic Paths/Scholar/Inventor/Talents/Hasty Adjustment.md",
-      "x": 340,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "j3wFsr8p52TgaQ0b",
-      "type": "file",
-      "file": "Heroic Paths/Scholar/Strategist/Talents/Mind and Body.md",
-      "x": 340,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "2887MEPjZpOEbhKk",
-      "type": "file",
-      "file": "Heroic Paths/Scholar/Inventor/Talents/Proficient Operator.md",
-      "x": 340,
-      "y": 480,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "vMd4UWz8usdN2yQS",
-      "type": "file",
-      "file": "Heroic Paths/Scholar/Strategist/Talents/Strategize.md",
-      "x": 340,
-      "y": 600,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "1RUoKFL1i4PjoJxq",
-      "type": "file",
-      "file": "Heroic Paths/Scholar/Inventor/Talents/Detonation Expert.md",
-      "x": 1360,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "J7uXcnzJVTtBet1c",
-      "type": "file",
-      "file": "Heroic Paths/Scholar/Strategist/Talents/Keen Insight.md",
-      "x": 1360,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "7wLTWUYRJLfTj2qW",
-      "type": "file",
-      "file": "Heroic Paths/Scholar/Inventor/Talents/Modern Marveller.md",
-      "x": 1360,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "Vh5LvLrbnc2eaWkr",
-      "type": "file",
-      "file": "Heroic Paths/Scholar/Strategist/Talents/Turning Point.md",
-      "x": 1360,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "LqbTxCn4gty4hwtX",
-      "type": "file",
-      "file": "Heroic Paths/Scholar/Surgeon/Talents/Applied Medicine.md",
-      "x": 1020,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "94i4LPnQeRN4VIwn",
-      "type": "file",
-      "file": "Heroic Paths/Scholar/Strategist/Talents/Contingency.md",
-      "x": 1020,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "NyA1WqUQqbsJ1rrG",
-      "type": "file",
-      "file": "Heroic Paths/Scholar/Strategist/Talents/Deep Contemplation.md",
-      "x": 1020,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "ywhkOZLodzTPVjhl",
-      "type": "file",
-      "file": "Heroic Paths/Scholar/Inventor/Talents/Its in Here Somewhere.md",
-      "x": 1020,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "GccV75vcfil1kJWE",
-      "type": "file",
-      "file": "Heroic Paths/Scholar/Surgeon/Talents/Ongoing Care.md",
-      "x": 1020,
-      "y": 480,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "5kqbvGEbHS03AfFr",
-      "type": "file",
-      "file": "Heroic Paths/Scholar/Inventor/Talents/Out of a Jam.md",
-      "x": 1020,
-      "y": 600,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "5xdFhymxEJdkuRe5",
-      "type": "file",
-      "file": "Heroic Paths/Scholar/Surgeon/Talents/Resuscitation.md",
-      "x": 1020,
-      "y": 720,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "x56JK3o0QVUCr1Ee",
-      "type": "file",
-      "file": "Heroic Paths/Scholar/Erudition.md",
-      "x": 0,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    }
-  ],
-  "edges": [
-    {
-      "id": "edge0",
-      "fromNode": "5kqbvGEbHS03AfFr",
-      "fromSide": "right",
-      "toNode": "1RUoKFL1i4PjoJxq",
-      "toSide": "left"
-    },
-    {
-      "id": "edge1",
-      "fromNode": "x56JK3o0QVUCr1Ee",
-      "fromSide": "right",
-      "toNode": "2887MEPjZpOEbhKk",
-      "toSide": "left"
-    },
-    {
-      "id": "edge2",
-      "fromNode": "z5si39w1kwJ49oJq",
-      "fromSide": "right",
-      "toNode": "5kqbvGEbHS03AfFr",
-      "toSide": "left"
-    },
-    {
-      "id": "edge3",
-      "fromNode": "UKyrnWygX59vdouu",
-      "fromSide": "right",
-      "toNode": "5xdFhymxEJdkuRe5",
-      "toSide": "left"
-    },
-    {
-      "id": "edge4",
-      "fromNode": "ywhkOZLodzTPVjhl",
-      "fromSide": "right",
-      "toNode": "7wLTWUYRJLfTj2qW",
-      "toSide": "left"
-    },
-    {
-      "id": "edge5",
-      "fromNode": "jrIbWaF5vyzdaXfQ",
-      "fromSide": "right",
-      "toNode": "94i4LPnQeRN4VIwn",
-      "toSide": "left"
-    },
-    {
-      "id": "edge6",
-      "fromNode": "UKyrnWygX59vdouu",
-      "fromSide": "right",
-      "toNode": "GccV75vcfil1kJWE",
-      "toSide": "left"
-    },
-    {
-      "id": "edge7",
-      "fromNode": "NyA1WqUQqbsJ1rrG",
-      "fromSide": "right",
-      "toNode": "J7uXcnzJVTtBet1c",
-      "toSide": "left"
-    },
-    {
-      "id": "edge8",
-      "fromNode": "x56JK3o0QVUCr1Ee",
-      "fromSide": "right",
-      "toNode": "KlFHlCmf0bBR9Li4",
-      "toSide": "left"
-    },
-    {
-      "id": "edge9",
-      "fromNode": "mk6LfVWcLOw3VdFM",
-      "fromSide": "right",
-      "toNode": "LqbTxCn4gty4hwtX",
-      "toSide": "left"
-    },
-    {
-      "id": "edge10",
-      "fromNode": "jrIbWaF5vyzdaXfQ",
-      "fromSide": "right",
-      "toNode": "NyA1WqUQqbsJ1rrG",
-      "toSide": "left"
-    },
-    {
-      "id": "edge11",
-      "fromNode": "ng7XHOJCeBul4e5I",
-      "fromSide": "right",
-      "toNode": "Ra6qp9VgEHgph3GQ",
-      "toSide": "left"
-    },
-    {
-      "id": "edge12",
-      "fromNode": "2887MEPjZpOEbhKk",
-      "fromSide": "right",
-      "toNode": "RzF4E9p54ZXJO4FG",
-      "toSide": "left"
-    },
-    {
-      "id": "edge13",
-      "fromNode": "rpDUm0EM6GjjBxt6",
-      "fromSide": "right",
-      "toNode": "RzF4E9p54ZXJO4FG",
-      "toSide": "left"
-    },
-    {
-      "id": "edge14",
-      "fromNode": "ng7XHOJCeBul4e5I",
-      "fromSide": "right",
-      "toNode": "UKyrnWygX59vdouu",
-      "toSide": "left"
-    },
-    {
-      "id": "edge15",
-      "fromNode": "94i4LPnQeRN4VIwn",
-      "fromSide": "right",
-      "toNode": "Vh5LvLrbnc2eaWkr",
-      "toSide": "left"
-    },
-    {
-      "id": "edge16",
-      "fromNode": "j3wFsr8p52TgaQ0b",
-      "fromSide": "right",
-      "toNode": "aSs6lpqfYmx2mIn3",
-      "toSide": "left"
-    },
-    {
-      "id": "edge17",
-      "fromNode": "x56JK3o0QVUCr1Ee",
-      "fromSide": "right",
-      "toNode": "j3wFsr8p52TgaQ0b",
-      "toSide": "left"
-    },
-    {
-      "id": "edge18",
-      "fromNode": "vMd4UWz8usdN2yQS",
-      "fromSide": "right",
-      "toNode": "jrIbWaF5vyzdaXfQ",
-      "toSide": "left"
-    },
-    {
-      "id": "edge19",
-      "fromNode": "KlFHlCmf0bBR9Li4",
-      "fromSide": "right",
-      "toNode": "mk6LfVWcLOw3VdFM",
-      "toSide": "left"
-    },
-    {
-      "id": "edge20",
-      "fromNode": "x56JK3o0QVUCr1Ee",
-      "fromSide": "right",
-      "toNode": "ng7XHOJCeBul4e5I",
-      "toSide": "left"
-    },
-    {
-      "id": "edge21",
-      "fromNode": "x56JK3o0QVUCr1Ee",
-      "fromSide": "right",
-      "toNode": "rpDUm0EM6GjjBxt6",
-      "toSide": "left"
-    },
-    {
-      "id": "edge22",
-      "fromNode": "x56JK3o0QVUCr1Ee",
-      "fromSide": "right",
-      "toNode": "vMd4UWz8usdN2yQS",
-      "toSide": "left"
-    },
-    {
-      "id": "edge23",
-      "fromNode": "RzF4E9p54ZXJO4FG",
-      "fromSide": "right",
-      "toNode": "ywhkOZLodzTPVjhl",
-      "toSide": "left"
-    },
-    {
-      "id": "edge24",
-      "fromNode": "rpDUm0EM6GjjBxt6",
-      "fromSide": "right",
-      "toNode": "z5si39w1kwJ49oJq",
-      "toSide": "left"
-    },
-    {
-      "id": "edge25",
-      "fromNode": "2887MEPjZpOEbhKk",
-      "fromSide": "right",
-      "toNode": "z5si39w1kwJ49oJq",
-      "toSide": "left"
-    }
-  ]
+	"nodes":[
+		{"id":"RzF4E9p54ZXJO4FG","type":"file","file":"Heroic Paths/Scholar/Inventor/Talents/Acute Scrutiny.md","x":680,"y":0,"width":280,"height":90},
+		{"id":"Ra6qp9VgEHgph3GQ","type":"file","file":"Heroic Paths/Scholar/Surgeon/Talents/Anatomical Insight.md","x":680,"y":120,"width":280,"height":90},
+		{"id":"mk6LfVWcLOw3VdFM","type":"file","file":"Heroic Paths/Scholar/Surgeon/Talents/Collected.md","x":680,"y":240,"width":280,"height":90},
+		{"id":"jrIbWaF5vyzdaXfQ","type":"file","file":"Heroic Paths/Scholar/Strategist/Talents/Composed.md","x":680,"y":360,"width":280,"height":90},
+		{"id":"z5si39w1kwJ49oJq","type":"file","file":"Heroic Paths/Scholar/Inventor/Talents/Gunsmith.md","x":680,"y":480,"width":280,"height":90},
+		{"id":"aSs6lpqfYmx2mIn3","type":"file","file":"Heroic Paths/Scholar/Strategist/Talents/Know Your Moment.md","x":680,"y":600,"width":280,"height":90},
+		{"id":"UKyrnWygX59vdouu","type":"file","file":"Heroic Paths/Scholar/Surgeon/Talents/Swift Healer.md","x":680,"y":720,"width":280,"height":90},
+		{"id":"KlFHlCmf0bBR9Li4","type":"file","file":"Heroic Paths/Scholar/Surgeon/Talents/Emotional Intelligence.md","x":340,"y":0,"width":280,"height":90},
+		{"id":"ng7XHOJCeBul4e5I","type":"file","file":"Heroic Paths/Scholar/Surgeon/Talents/Field Medicine.md","x":340,"y":120,"width":280,"height":90},
+		{"id":"rpDUm0EM6GjjBxt6","type":"file","file":"Heroic Paths/Scholar/Inventor/Talents/Hasty Adjustment.md","x":340,"y":240,"width":280,"height":90},
+		{"id":"j3wFsr8p52TgaQ0b","type":"file","file":"Heroic Paths/Scholar/Strategist/Talents/Mind and Body.md","x":340,"y":360,"width":280,"height":90},
+		{"id":"2887MEPjZpOEbhKk","type":"file","file":"Heroic Paths/Scholar/Inventor/Talents/Proficient Operator.md","x":340,"y":480,"width":280,"height":90},
+		{"id":"vMd4UWz8usdN2yQS","type":"file","file":"Heroic Paths/Scholar/Strategist/Talents/Strategize.md","x":340,"y":600,"width":280,"height":90},
+		{"id":"1RUoKFL1i4PjoJxq","type":"file","file":"Heroic Paths/Scholar/Inventor/Talents/Detonation Expert.md","x":1360,"y":0,"width":280,"height":90},
+		{"id":"J7uXcnzJVTtBet1c","type":"file","file":"Heroic Paths/Scholar/Strategist/Talents/Keen Insight.md","x":1360,"y":120,"width":280,"height":90},
+		{"id":"7wLTWUYRJLfTj2qW","type":"file","file":"Heroic Paths/Scholar/Inventor/Talents/Modern Marveller.md","x":1360,"y":240,"width":280,"height":90},
+		{"id":"Vh5LvLrbnc2eaWkr","type":"file","file":"Heroic Paths/Scholar/Strategist/Talents/Turning Point.md","x":1360,"y":360,"width":280,"height":90},
+		{"id":"LqbTxCn4gty4hwtX","type":"file","file":"Heroic Paths/Scholar/Surgeon/Talents/Applied Medicine.md","x":1020,"y":0,"width":280,"height":90},
+		{"id":"94i4LPnQeRN4VIwn","type":"file","file":"Heroic Paths/Scholar/Strategist/Talents/Contingency.md","x":1020,"y":120,"width":280,"height":90},
+		{"id":"NyA1WqUQqbsJ1rrG","type":"file","file":"Heroic Paths/Scholar/Strategist/Talents/Deep Contemplation.md","x":1020,"y":240,"width":280,"height":90},
+		{"id":"ywhkOZLodzTPVjhl","type":"file","file":"Heroic Paths/Scholar/Inventor/Talents/Its in Here Somewhere.md","x":1020,"y":360,"width":280,"height":90},
+		{"id":"GccV75vcfil1kJWE","type":"file","file":"Heroic Paths/Scholar/Surgeon/Talents/Ongoing Care.md","x":1020,"y":480,"width":280,"height":90},
+		{"id":"5kqbvGEbHS03AfFr","type":"file","file":"Heroic Paths/Scholar/Inventor/Talents/Out of a Jam.md","x":1020,"y":600,"width":280,"height":90},
+		{"id":"5xdFhymxEJdkuRe5","type":"file","file":"Heroic Paths/Scholar/Surgeon/Talents/Resuscitation.md","x":1020,"y":720,"width":280,"height":90},
+		{"id":"x56JK3o0QVUCr1Ee","type":"file","file":"Heroic Paths/Scholar/Erudition.md","x":0,"y":0,"width":280,"height":90}
+	],
+	"edges":[
+		{"id":"edge0","fromNode":"5kqbvGEbHS03AfFr","fromSide":"right","toNode":"1RUoKFL1i4PjoJxq","toSide":"left"},
+		{"id":"edge1","fromNode":"x56JK3o0QVUCr1Ee","fromSide":"right","toNode":"2887MEPjZpOEbhKk","toSide":"left"},
+		{"id":"edge2","fromNode":"z5si39w1kwJ49oJq","fromSide":"right","toNode":"5kqbvGEbHS03AfFr","toSide":"left"},
+		{"id":"edge3","fromNode":"UKyrnWygX59vdouu","fromSide":"right","toNode":"5xdFhymxEJdkuRe5","toSide":"left"},
+		{"id":"edge4","fromNode":"ywhkOZLodzTPVjhl","fromSide":"right","toNode":"7wLTWUYRJLfTj2qW","toSide":"left"},
+		{"id":"edge5","fromNode":"jrIbWaF5vyzdaXfQ","fromSide":"right","toNode":"94i4LPnQeRN4VIwn","toSide":"left"},
+		{"id":"edge6","fromNode":"UKyrnWygX59vdouu","fromSide":"right","toNode":"GccV75vcfil1kJWE","toSide":"left"},
+		{"id":"edge7","fromNode":"NyA1WqUQqbsJ1rrG","fromSide":"right","toNode":"J7uXcnzJVTtBet1c","toSide":"left"},
+		{"id":"edge8","fromNode":"x56JK3o0QVUCr1Ee","fromSide":"right","toNode":"KlFHlCmf0bBR9Li4","toSide":"left"},
+		{"id":"edge9","fromNode":"mk6LfVWcLOw3VdFM","fromSide":"right","toNode":"LqbTxCn4gty4hwtX","toSide":"left"},
+		{"id":"edge10","fromNode":"jrIbWaF5vyzdaXfQ","fromSide":"right","toNode":"NyA1WqUQqbsJ1rrG","toSide":"left"},
+		{"id":"edge11","fromNode":"ng7XHOJCeBul4e5I","fromSide":"right","toNode":"Ra6qp9VgEHgph3GQ","toSide":"left"},
+		{"id":"edge12","fromNode":"2887MEPjZpOEbhKk","fromSide":"right","toNode":"RzF4E9p54ZXJO4FG","toSide":"left"},
+		{"id":"edge13","fromNode":"rpDUm0EM6GjjBxt6","fromSide":"right","toNode":"RzF4E9p54ZXJO4FG","toSide":"left"},
+		{"id":"edge14","fromNode":"ng7XHOJCeBul4e5I","fromSide":"right","toNode":"UKyrnWygX59vdouu","toSide":"left"},
+		{"id":"edge15","fromNode":"94i4LPnQeRN4VIwn","fromSide":"right","toNode":"Vh5LvLrbnc2eaWkr","toSide":"left"},
+		{"id":"edge16","fromNode":"j3wFsr8p52TgaQ0b","fromSide":"right","toNode":"aSs6lpqfYmx2mIn3","toSide":"left"},
+		{"id":"edge17","fromNode":"x56JK3o0QVUCr1Ee","fromSide":"right","toNode":"j3wFsr8p52TgaQ0b","toSide":"left"},
+		{"id":"edge18","fromNode":"vMd4UWz8usdN2yQS","fromSide":"right","toNode":"jrIbWaF5vyzdaXfQ","toSide":"left"},
+		{"id":"edge19","fromNode":"KlFHlCmf0bBR9Li4","fromSide":"right","toNode":"mk6LfVWcLOw3VdFM","toSide":"left"},
+		{"id":"edge20","fromNode":"x56JK3o0QVUCr1Ee","fromSide":"right","toNode":"ng7XHOJCeBul4e5I","toSide":"left"},
+		{"id":"edge21","fromNode":"x56JK3o0QVUCr1Ee","fromSide":"right","toNode":"rpDUm0EM6GjjBxt6","toSide":"left"},
+		{"id":"edge22","fromNode":"x56JK3o0QVUCr1Ee","fromSide":"right","toNode":"vMd4UWz8usdN2yQS","toSide":"left"},
+		{"id":"edge23","fromNode":"RzF4E9p54ZXJO4FG","fromSide":"right","toNode":"ywhkOZLodzTPVjhl","toSide":"left"},
+		{"id":"edge24","fromNode":"rpDUm0EM6GjjBxt6","fromSide":"right","toNode":"z5si39w1kwJ49oJq","toSide":"left"},
+		{"id":"edge25","fromNode":"2887MEPjZpOEbhKk","fromSide":"right","toNode":"z5si39w1kwJ49oJq","toSide":"left"}
+	]
 }

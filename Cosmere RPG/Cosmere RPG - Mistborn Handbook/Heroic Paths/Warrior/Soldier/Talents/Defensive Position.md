@@ -12,6 +12,6 @@ aliases: ["Defensive Position"]
 
 *You’ve learned when to withdraw and when to commit to a position, holding it unflinchingly.*
 
-The [[Actions/Basic/Brace|Brace]] action adds two disadvantages to attacks against you, instead of one.
+The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Brace|Brace]] action adds two disadvantages to attacks against you, instead of one.
 
-Additionally, while you’re using a shield to [[Actions/Basic/Brace|Brace]], allies within 5 feet of you can [[Actions/Basic/Brace|Brace]] as if they had cover or a shield.
+Additionally, while you’re using a shield to [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Brace|Brace]], allies within 5 feet of you can [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Brace|Brace]] as if they had cover or a shield.

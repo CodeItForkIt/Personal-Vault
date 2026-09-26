@@ -28,11 +28,11 @@ Beyond the [[Radiant Paths/Truthwatcher/Goals/Speak the First Ideal|First Ideal]
 >
 > The Order of Truthwatchers attracts those who seek truth wherever it can be found: artifabrians, scientists, philosophers, journalists, and all manner of scholars and thinkers. As such, the following heroic paths can be excellent precursors to the Truthwatcher Radiant path:
 >
-> - [[Heroic Paths/Agent/Agent|Agent]] (Investigator or Thief)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Agent|Agent]] (Investigator or Thief)
 >
-> - [[Heroic Paths/Envoy/Envoy|Envoy]] (Diplomat or Faithful)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Envoy|Envoy]] (Diplomat or Faithful)
 >
-> - [[Heroic Paths/Scholar/Scholar|Scholar]] (Artifabrian, Strategist, or Surgeon)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Scholar|Scholar]] (Artifabrian, Strategist, or Surgeon)
 
 ### Truthwatcher History
 

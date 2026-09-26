@@ -16,6 +16,6 @@ While tapping strength, you gain the following additional effects:
 
 - Your deflect value increases by a number equal to half the charges you spent to tap strength, rounded up.
 
-- You can use your increased musculature as a shield, allowing you to [[Actions/Basic/Brace|Brace]] without nearby cover.
+- You can use your increased musculature as a shield, allowing you to [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Brace|Brace]] without nearby cover.
 
-- You count as cover for your allies (see “[[Mistborn Handbook/11 - Ch 10 Combat#Terrain|Terrain]]” in chapter 10).
+- You count as cover for your allies (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat#Terrain|Terrain]]” in chapter 10).

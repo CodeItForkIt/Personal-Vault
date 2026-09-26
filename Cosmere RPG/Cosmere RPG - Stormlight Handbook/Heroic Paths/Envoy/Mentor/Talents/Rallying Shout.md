@@ -12,4 +12,4 @@ aliases: ["Rallying Shout"]
 
 *Your words cut through pain, fatigue, and even unconsciousness, helping your allies regain their feet at critical moments.*
 
-When you use your [[Heroic Paths/Envoy/Rousing Presence|Rousing Presence]], you can target an **Unconscious** ally you can sense. When you do, the target is no longer **Unconscious**, and if they have 0 health, they roll their recovery die and recover health equal to the result + your ranks in **Leadership**.
+When you use your [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Rousing Presence|Rousing Presence]], you can target an **Unconscious** ally you can sense. When you do, the target is no longer **Unconscious**, and if they have 0 health, they roll their recovery die and recover health equal to the result + your ranks in **Leadership**.

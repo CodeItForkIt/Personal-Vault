@@ -12,4 +12,4 @@ aliases: ["Soaring Destruction"]
 
 *You excel at using Division while sweeping through the air with Gravitation.*
 
-After you [[Actions/Basic/Move|Move]] while maintaining a Basic Lashing on yourself with your **Gravitation** surge, spend 1 focus to gain 1, which can be used only for **Division** or one of its talents.
+After you [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Move|Move]] while maintaining a Basic Lashing on yourself with your **Gravitation** surge, spend 1 focus to gain 1, which can be used only for **Division** or one of its talents.

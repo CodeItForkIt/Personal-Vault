@@ -30,7 +30,7 @@ Individual items may contain more information on how to use their charges, but t
 
 ### Activating Items With Charges
 
-Some items with charges must be activated in a special way (such as by using the [[Actions/Basic/Interact|Interact]] action). If not specified, you can expend a charge without spending an action. When you expend a charge, you trigger that item’s effect, then the charge is lost until you recharge that item in the specified manner.
+Some items with charges must be activated in a special way (such as by using the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Interact|Interact]] action). If not specified, you can expend a charge without spending an action. When you expend a charge, you trigger that item’s effect, then the charge is lost until you recharge that item in the specified manner.
 
 ### Recharging Items
 
@@ -48,7 +48,7 @@ If an effect works differently on Invested items, this is specified in the effec
 
 ## Items With Statistics
 
-In this handbook, the names of items are usually listed without special formatting. However, when it might be helpful to know that a mentioned item has specific rules or statistics, the item name appears in bold italics. For example, a written adventure might state that “the characters find a ***[[Items/Equipment/Lockpick|lockpick]]***”; this lets you know that this isn’t just a narrative item, but that you should check this chapter to find out how it works in the rules.
+In this handbook, the names of items are usually listed without special formatting. However, when it might be helpful to know that a mentioned item has specific rules or statistics, the item name appears in bold italics. For example, a written adventure might state that “the characters find a ***[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Lockpick|lockpick]]***”; this lets you know that this isn’t just a narrative item, but that you should check this chapter to find out how it works in the rules.
 
 ## Spheres
 
@@ -122,13 +122,13 @@ If you aren’t wielding a weapon (or holding an object) in a hand, you have tha
 
 You can use the Interact action to draw a weapon in your possession and grasp it in your hand. After you do, you’re wielding that weapon and can use it for attacks and other effects.
 
-You can use the [[Actions/Basic/Drop|Drop]] free action to release a weapon you’re holding (for example, right before you [[Actions/Basic/Interact|Interact]] to draw a different weapon). When a scene begins and you’re not [[Stormlight Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]], it’s assumed you can instinctively draw your weapons before the first round (without using the Interact action). If you’re Surprised when a scene begins, you can’t instinctively draw your weapons.
+You can use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Drop|Drop]] free action to release a weapon you’re holding (for example, right before you [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Interact|Interact]] to draw a different weapon). When a scene begins and you’re not [[Stormlight Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]], it’s assumed you can instinctively draw your weapons before the first round (without using the Interact action). If you’re Surprised when a scene begins, you can’t instinctively draw your weapons.
 
 ### Offhand Weapons
 
 While wielding more than one weapon, you must choose which one is in your **main hand**. Attacks with that weapon are made as usual.
 
-When you wield a weapon that’s not in your main hand, it’s in your **offhand**. Before you use the [[Actions/Basic/Strike|Strike]] action using a weapon in your offhand, you must spend 2 focus. (Attacks other than the Strike action don’t require spending that focus.)
+When you wield a weapon that’s not in your main hand, it’s in your **offhand**. Before you use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Strike|Strike]] action using a weapon in your offhand, you must spend 2 focus. (Attacks other than the Strike action don’t require spending that focus.)
 
 Some characters might wield their weapons using methods other than hands. You can do this if you’re only wielding weapons that another character could with two hands. When you do, pick which weapon is considered your “main hand” and “offhand” (regardless of how you hold them), and otherwise follow the weapon rules. Unless your GM decides otherwise, you can’t wield more than two weapons (or one Two-Handed weapon) at a time, regardless of whether you use your hands to do so.
 
@@ -171,23 +171,23 @@ These rules apply to any weapon with that trait listed in its entry on the Weapo
 
 **Deadly.** When you hit a target with this weapon, you can spend O to cause the target to immediately suffer an injury.
 
-**Defensive.** While wielding this weapon, you can use the [[Actions/Basic/Brace|Brace]] action without cover nearby.
+**Defensive.** While wielding this weapon, you can use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Brace|Brace]] action without cover nearby.
 
 **Discreet.** This weapon is less obtrusive than others, and thus less likely to be confiscated in secure settings. In non-combat scenes, you gain an advantage on any test you make to disguise this weapon, to hide it on your person, or to convince others not to take it from you.
 
 **Fragile.** When you attack with this weapon, the GM can spend C to cause it to break after the attack is resolved.
 
-**Indirect.** This ranged weapon can arc shots over cover and obscuring terrain. If a target isn’t in your line of effect but you can sense them, you can still attack them with this weapon if there’s a reasonably open path for your projectile to indirectly arc to them. Your target can’t benefit from the [[Actions/Basic/Brace|Brace]] action against attacks made with this weapon.
+**Indirect.** This ranged weapon can arc shots over cover and obscuring terrain. If a target isn’t in your line of effect but you can sense them, you can still attack them with this weapon if there’s a reasonably open path for your projectile to indirectly arc to them. Your target can’t benefit from the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Brace|Brace]] action against attacks made with this weapon.
 
 **Loaded [X].** This weapon stores ammunition equal to the number indicated in brackets. To make a ranged attack with this weapon, you must spend 1 stored ammunition. As 1, you can reload this weapon to full ammunition. The GM can spend C from an attack with this weapon to reduce your stored ammunition; after they do, the weapon only has only one shot remaining.
 
 **Momentum.** When you attack using this weapon, if you already moved at least 10 feet in a straight line toward your target on this turn, you gain an advantage on the attack.
 
-**Offhand.** While wielding this weapon in your offhand, it only costs you 1 focus (instead of 2) to [[Actions/Basic/Strike|Strike]] with it.
+**Offhand.** While wielding this weapon in your offhand, it only costs you 1 focus (instead of 2) to [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Strike|Strike]] with it.
 
 **Pierce.** This weapon’s damage can’t be reduced by the target’s deflect value.
 
-**Quickdraw.** You can use the [[Actions/Basic/Interact|Interact]] action as 0 to draw this weapon.
+**Quickdraw.** You can use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Interact|Interact]] action as 0 to draw this weapon.
 
 **Thrown [X/Y].** You can throw this weapon at a target, making a ranged attack when you do (see [[Stormlight Handbook/11 - Ch 10 Combat#Ranged Attacks|Ranged Attacks]] in chapter 10). The two numbers in brackets express the weapon’s short and long range; as with ranged weapons, you gain a disadvantage when attacking a target outside short range. Once the weapon is thrown, it is lost until you recover it from your target.
 
@@ -228,7 +228,7 @@ Punches, kicks, thrown elbows, headbutts, and bites are examples of unarmed atta
 
 **Unique Traits.** Unarmed attacks add the following unique traits:
 
-**Always Available.** Unarmed attacks don’t count as weapon attacks, but they’re melee attacks intrinsic to each character. You don’t have to be holding a weapon to make an unarmed attack, and you can’t be disarmed of your unarmed attacks. You can make an unarmed attack even if both of your hands are holding weapons or other items, but when you do, that attack still counts as an attack using a hand of your choice. If you use the [[Actions/Basic/Strike|Strike]] action to make an unarmed attack, you might describe it as a punch, kick, or headbutt—but you must still choose which "hand" is making that attack, and you can't make another [[Actions/Basic/Strike|Strike]] using a weapon you're holding in that hand.
+**Always Available.** Unarmed attacks don’t count as weapon attacks, but they’re melee attacks intrinsic to each character. You don’t have to be holding a weapon to make an unarmed attack, and you can’t be disarmed of your unarmed attacks. You can make an unarmed attack even if both of your hands are holding weapons or other items, but when you do, that attack still counts as an attack using a hand of your choice. If you use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Strike|Strike]] action to make an unarmed attack, you might describe it as a punch, kick, or headbutt—but you must still choose which "hand" is making that attack, and you can't make another [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Strike|Strike]] using a weapon you're holding in that hand.
 
 **Strength Training.** When you make an unarmed attack, its damage die is based on your Strength score, as shown on the Unarmed Damage table.
 
@@ -236,7 +236,7 @@ Punches, kicks, thrown elbows, headbutts, and bites are examples of unarmed atta
 
 ## Half-Shards
 
-[[Items/Weapons/Longbow|Half-shards]] are diamond-shaped, two-handed kite shields with a special augmenter fabrial on the back, allowing them to resist the blows of Shardblades. Like normal shields, half-shards are designed primarily for defense, but they can also be wielded as weapons.
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Weapons/Longbow|Half-shards]] are diamond-shaped, two-handed kite shields with a special augmenter fabrial on the back, allowing them to resist the blows of Shardblades. Like normal shields, half-shards are designed primarily for defense, but they can also be wielded as weapons.
 
 **Unique Traits.** Half-shards have the following unique traits:
 
@@ -377,7 +377,7 @@ You can also choose for your [[Items/Armor/Shardplate Radiant|Radiant Shardplate
 
 **Living Armor.** You can use 1 to summon or dismiss any number of your armor pieces on your body (for example, to remove your helmet). Dismissing a few pieces doesn’t change your armor’s function unless you wish it to. Your armor maintains its count of charges when dismissed.
 
-**Restraining Armor.** You can summon the armor around a character you can sense within 20 feet of you who is willing, unaware of your presence or location, or [[Stormlight Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]]. When you try to summon it around an unwilling character, you must succeed on a Discipline test against their Physical defense. While the armor is around a character other than you, they gain all the benefits of wearing Shardplate, but they also become [[Stormlight Handbook/10 - Ch 9 Adventuring#Restrained|Restrained]]. Whenever this character takes damage, they automatically expend one of the armor’s charges to increase their deflect value by 10 against that damage. The Restrained condition ends and the armor is dismissed when you choose to dismiss it, when it drops to 0 charges, or when the character or an ally within reach of them succeeds on an Athletics test against the wearer’s Physical defense (via the [[Actions/Basic/Use A Skill|Use a Skill]] action).
+**Restraining Armor.** You can summon the armor around a character you can sense within 20 feet of you who is willing, unaware of your presence or location, or [[Stormlight Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]]. When you try to summon it around an unwilling character, you must succeed on a Discipline test against their Physical defense. While the armor is around a character other than you, they gain all the benefits of wearing Shardplate, but they also become [[Stormlight Handbook/10 - Ch 9 Adventuring#Restrained|Restrained]]. Whenever this character takes damage, they automatically expend one of the armor’s charges to increase their deflect value by 10 against that damage. The Restrained condition ends and the armor is dismissed when you choose to dismiss it, when it drops to 0 charges, or when the character or an ally within reach of them succeeds on an Athletics test against the wearer’s Physical defense (via the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Use A Skill|Use a Skill]] action).
 
 **Natural Recovery.** Radiant Shardplate naturally restores its charges over time, though if you wish, you can recharge it quickly using the normal rules. After a long rest, your Shardplate regains all its charges.
 
@@ -403,7 +403,7 @@ Some items in this section have variable prices, as many variations on that item
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Equipment]]
 
-**[[Items/Equipment/Alcohol 1 serving|Alcohol.]]** Every culture of Roshar has its own intoxicating traditions, such as beers, mudbeers, ciders, honu, shiki, juices, and lagers.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Alcohol 1 serving|Alcohol.]]** Every culture of Roshar has its own intoxicating traditions, such as beers, mudbeers, ciders, honu, shiki, juices, and lagers.
 
 In Vorin society, almost all forms of alcohol are referred to as “wine” regardless of their ingredients. Such wines are known by their distinct colors, which are infused into each beverage so they can be distinguished at a glance. From least intoxicating to most, the types of wine are: Pink, Orange, Yellow, Auburn, Red, Sapphire, Blue, Violet.
 
@@ -417,109 +417,109 @@ In Vorin society, almost all forms of alcohol are referred to as “wine” rega
 
 **Glass bottle of sapphire wine - VINCENT DUTRAIT**
 
-**[[Items/Equipment/Anesthetic 5 doses|Anesthetic.]]** Usually made from fathom bark or winterwort, you can apply a dose of anesthetic ointment to an injury after a short or long rest to reduce its recovery time by 1d4 days. Each injury can be treated with anesthetic only once per day.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Anesthetic 5 doses|Anesthetic.]]** Usually made from fathom bark or winterwort, you can apply a dose of anesthetic ointment to an injury after a short or long rest to reduce its recovery time by 1d4 days. Each injury can be treated with anesthetic only once per day.
 
-**[[Items/Equipment/Antiseptic potent 5 doses|Antiseptic (potent).]]** Knobweed milk, fourleaf sap, and lister’s oil can all be used to make a strong antiseptic. A dose can be applied to a character after a short rest to restore 2d6 health.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Antiseptic potent 5 doses|Antiseptic (potent).]]** Knobweed milk, fourleaf sap, and lister’s oil can all be used to make a strong antiseptic. A dose can be applied to a character after a short rest to restore 2d6 health.
 
-**[[Items/Equipment/Antiseptic weak 5 doses|Antiseptic (weak).]]** A dose of weak antiseptic, such as that made from larmic mucus, can be applied to a character after a short rest to restore 1d6 health.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Antiseptic weak 5 doses|Antiseptic (weak).]]** A dose of weak antiseptic, such as that made from larmic mucus, can be applied to a character after a short rest to restore 1d6 health.
 
-**[[Items/Equipment/Book reference|Book (reference).]]** Each reference book contains information on a particular topic, such as a historical era, engineering, biology, architecture, or crafting a particular type of fabrial. When you have time to reference a book while making a related test using your Intellect attribute, you’re considered to have an expertise in the topic (see [[Stormlight Handbook/04 - Ch 3 Character Statistics#Expertise Benefits|Expertise Benefits]] in chapter 3).
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Book reference|Book (reference).]]** Each reference book contains information on a particular topic, such as a historical era, engineering, biology, architecture, or crafting a particular type of fabrial. When you have time to reference a book while making a related test using your Intellect attribute, you’re considered to have an expertise in the topic (see [[Stormlight Handbook/04 - Ch 3 Character Statistics#Expertise Benefits|Expertise Benefits]] in chapter 3).
 
 ![[pg258_ITEM_Book_VINCENT DUTRAIT.webp]]
 
 **Book (reference) - VINCENT DUTRAIT**
 
-**[[Items/Equipment/Candle|Candle.]]** While lit, the candle sheds light in a 15-foot radius. It burns for up to 6 hours before becoming unusable.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Candle|Candle.]]** While lit, the candle sheds light in a 15-foot radius. It burns for up to 6 hours before becoming unusable.
 
-**[[Items/Equipment/Case leather|Case (leather).]]** A sealable, cylindrical case that can store up to ten pages of paper or parchment and protect them from the weather.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Case leather|Case (leather).]]** A sealable, cylindrical case that can store up to ten pages of paper or parchment and protect them from the weather.
 
-**[[Items/Equipment/Chain thick 10 feet|Chain (thick).]]** This sturdy chain can be used in securing cargo, shackling prisoners, and other situations where strength is essential. This chain can be broken by succeeding on a DC 30 Athletics test or by dealing 15 damage to it.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Chain thick 10 feet|Chain (thick).]]** This sturdy chain can be used in securing cargo, shackling prisoners, and other situations where strength is essential. This chain can be broken by succeeding on a DC 30 Athletics test or by dealing 15 damage to it.
 
-**[[Items/Equipment/Chain thin 1 foot|Chain (thin).]]** This thin chain is often used in jewelry and Soulcasters, usually made of precious metals in fine links. This chain can be broken by succeeding on a DC 20 Athletics test or by dealing 5 damage to it.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Chain thin 1 foot|Chain (thin).]]** This thin chain is often used in jewelry and Soulcasters, usually made of precious metals in fine links. This chain can be broken by succeeding on a DC 20 Athletics test or by dealing 5 damage to it.
 
-**[[Items/Equipment/Clothing common|Clothing (common).]]** Plain clothes are made of affordable materials and are generally undyed, helping you fit in among the commonfolk. While wearing these clothes, you gain an advantage on spiritual tests made to convince others you’re from the lower class.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Clothing common|Clothing (common).]]** Plain clothes are made of affordable materials and are generally undyed, helping you fit in among the commonfolk. While wearing these clothes, you gain an advantage on spiritual tests made to convince others you’re from the lower class.
 
-**[[Items/Equipment/Clothing fine|Clothing (fine).]]** Fine clothes are made of silks or other high-quality materials, colored using expensive dyes, and often stitched with fine embroidery. Wearing fine clothes helps you to blend into high society, such as noble banquets, without arousing suspicion. While wearing these clothes, you gain an advantage on spiritual tests made to convince others you’re from the upper class.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Clothing fine|Clothing (fine).]]** Fine clothes are made of silks or other high-quality materials, colored using expensive dyes, and often stitched with fine embroidery. Wearing fine clothes helps you to blend into high society, such as noble banquets, without arousing suspicion. While wearing these clothes, you gain an advantage on spiritual tests made to convince others you’re from the upper class.
 
-**[[Items/Equipment/Clothing ragged|Clothing (ragged).]]** This clothing may have once been of fine or common make, but it’s now barely holding together. While wearing these clothes, you gain an advantage on spiritual tests made to convince others you’re destitute.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Clothing ragged|Clothing (ragged).]]** This clothing may have once been of fine or common make, but it’s now barely holding together. While wearing these clothes, you gain an advantage on spiritual tests made to convince others you’re destitute.
 
-**[[Items/Equipment/Crowbar|Crowbar.]]** You can use a crowbar to gain an advantage on Athletics tests where the crowbar’s leverage can be applied.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Crowbar|Crowbar.]]** You can use a crowbar to gain an advantage on Athletics tests where the crowbar’s leverage can be applied.
 
-**[[Items/Equipment/Ear Trumpet|Ear Trumpet.]]** Distant sounds heard through an ear trumpet can be perceived as though at half the distance. At the GM’s discretion, more powerful ear trumpets may be available at higher prices.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Ear Trumpet|Ear Trumpet.]]** Distant sounds heard through an ear trumpet can be perceived as though at half the distance. At the GM’s discretion, more powerful ear trumpets may be available at higher prices.
 
-**[[Items/Equipment/Flint and Steel|Flint and Steel.]]** A flint and steel can be used as 1 to light abundant fuel within reach. Starting a fire under more challenging circumstances can take 1 minute or more. Herdazians often wear a tool called a sparkflicker as jewelry or other ornamentation; they can use this like flint and steel by quickly running their crystalline fingernails along it.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Flint and Steel|Flint and Steel.]]** A flint and steel can be used as 1 to light abundant fuel within reach. Starting a fire under more challenging circumstances can take 1 minute or more. Herdazians often wear a tool called a sparkflicker as jewelry or other ornamentation; they can use this like flint and steel by quickly running their crystalline fingernails along it.
 
 ![[pg258_ITEM_Sparkflicker_VINCENT DUTRAIT.webp]]
 
 **Flint and Steel (sparkflicker) - VINCENT DUTRAIT**
 
-**[[Items/Equipment/Food ration 1 day|Food (ration).]]** Rations are foods created for extended travel, such as jerky and hard-baked lavis cakes. They generally lack flavor, but if kept dry, they remain edible indefinitely.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Food ration 1 day|Food (ration).]]** Rations are foods created for extended travel, such as jerky and hard-baked lavis cakes. They generally lack flavor, but if kept dry, they remain edible indefinitely.
 
-**[[Items/Equipment/Food street 1 day|Food (street).]]** Every culture of Roshar has its own street confections, ranging from loaves of bread to more specific cultural foods like Herdazian chouta.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Food street 1 day|Food (street).]]** Every culture of Roshar has its own street confections, ranging from loaves of bread to more specific cultural foods like Herdazian chouta.
 
 ![[pg258_ITEM_Food_VINCENT DUTRAIT.webp]]
 
 **Street Food (lavis grain wraps) - VINCENT DUTRAIT**
 
-**[[Items/Equipment/Food fine 1 day|Food (fine).]]** Fine food can be found in high-class restaurants and on the tables of nobles’ feasts.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Food fine 1 day|Food (fine).]]** Fine food can be found in high-class restaurants and on the tables of nobles’ feasts.
 
-**[[Items/Equipment/Grappling Hook|Grappling Hook.]]** A grappling hook is typically attached to the end of a rope to aid in scaling or descending from walls and cliffs. A securely anchored grappling hook grants an advantage on Acrobatics and Athletics tests made to climb using its attached rope.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Grappling Hook|Grappling Hook.]]** A grappling hook is typically attached to the end of a rope to aid in scaling or descending from walls and cliffs. A securely anchored grappling hook grants an advantage on Acrobatics and Athletics tests made to climb using its attached rope.
 
-You can use an [[Actions/Basic/Interact|Interact]] action to attach the grappling hook to an anchor within reach without making a test. Alternatively, you can throw and attach it to a suitable anchor within 20 feet of you by succeeding on an Agility or Athletics test (DC set by the GM).
+You can use an [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Interact|Interact]] action to attach the grappling hook to an anchor within reach without making a test. Alternatively, you can throw and attach it to a suitable anchor within 20 feet of you by succeeding on an Agility or Athletics test (DC set by the GM).
 
-**[[Items/Equipment/Lantern oil|Lantern (oil).]]** While lit, this lantern sheds light in a 30-foot radius. It burns for up to 6 hours per pint of oil.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Lantern oil|Lantern (oil).]]** While lit, this lantern sheds light in a 30-foot radius. It burns for up to 6 hours per pint of oil.
 
 **[[Items/Equipment/Lantern sphere|Lantern (sphere).]]** This lantern includes a locked cage, usually just under 1 foot in diameter, into which infused spheres can be placed to shed light. Depending on how full the lantern is, it sheds a different radius of light: 60 feet when entirely filled with spheres, 30 feet when half full, 15 feet when quarter-filled, and 5 feet when at least 1 mark or broam is within it. The lock can be opened with its included key or a successful DC 15 Thievery test.
 
-**[[Items/Equipment/Lock and Key|Lock and Key.]]** This sturdy lock can be opened with its included key or a successful DC 20 Thievery test. At the GM’s discretion, locks that require higher DCs may be available at higher prices.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Lock and Key|Lock and Key.]]** This sturdy lock can be opened with its included key or a successful DC 20 Thievery test. At the GM’s discretion, locks that require higher DCs may be available at higher prices.
 
-**[[Items/Equipment/Lockpick|Lockpick.]]** You can use a lockpick to gain an advantage on Thievery tests made to pick a lock. After this test is resolved, the GM can spend C to cause the lockpick to break.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Lockpick|Lockpick.]]** You can use a lockpick to gain an advantage on Thievery tests made to pick a lock. After this test is resolved, the GM can spend C to cause the lockpick to break.
 
-**[[Items/Equipment/Magnifying Lens|Magnifying Lens.]]** You can use a magnifying lens to gain an advantage on skill tests made to appraise or inspect a small or highly detailed item.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Magnifying Lens|Magnifying Lens.]]** You can use a magnifying lens to gain an advantage on skill tests made to appraise or inspect a small or highly detailed item.
 
-**[[Items/Equipment/Manacles|Manacles.]]** These metal restraints, which come with a key, can bind the wrists or ankles of a Large or smaller character. They can be escaped with a successful DC 25 Agility test, broken by succeeding on a DC 25 Athletics test or by dealing 15 damage to them, or lockpicked by succeeding on a DC 20 Thievery test. At the GM’s discretion, manacles that require higher DCs may be available at higher prices.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Manacles|Manacles.]]** These metal restraints, which come with a key, can bind the wrists or ankles of a Large or smaller character. They can be escaped with a successful DC 25 Agility test, broken by succeeding on a DC 25 Athletics test or by dealing 15 damage to them, or lockpicked by succeeding on a DC 20 Thievery test. At the GM’s discretion, manacles that require higher DCs may be available at higher prices.
 
 ![[pg259_ITEM_Manacles_VINCENT DUTRAIT.webp]]
 
 **Manacles - VINCENT DUTRAIT**
 
-**[[Items/Equipment/Musical Instrument|Musical Instrument.]]** Every culture of Roshar has its preferred instruments and musical stylings. Instruments are often used for enjoyment, passing time, or busking for chips. When playing an instrument, you can determine the quality of your performance by making a skill test using a related skill (such as Agility for a stringed instrument, Athletics for drums, or Discipline for an instrument with many keys). If you have an expertise in that instrument, you gain an advantage on the test.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Musical Instrument|Musical Instrument.]]** Every culture of Roshar has its preferred instruments and musical stylings. Instruments are often used for enjoyment, passing time, or busking for chips. When playing an instrument, you can determine the quality of your performance by making a skill test using a related skill (such as Agility for a stringed instrument, Athletics for drums, or Discipline for an instrument with many keys). If you have an expertise in that instrument, you gain an advantage on the test.
 
-**[[Items/Equipment/Net hunting|Net (hunting).]]** This net of thick rope can ensnare animals or enemies. While holding this net, you can use 1 to make an Athletics test against the Physical defense of a Large or smaller character within 15 feet of you. On a hit, the character is [[Stormlight Handbook/10 - Ch 9 Adventuring#Restrained|Restrained]] and knocked [[Stormlight Handbook/10 - Ch 9 Adventuring#Prone|Prone]]. That character or another within reach can use the [[Actions/Basic/Interact|Interact]] action to make a DC 15 Athletics test, freeing the trapped character on a success. If a character is Restrained by multiple nets, they must be freed from each separately.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Net hunting|Net (hunting).]]** This net of thick rope can ensnare animals or enemies. While holding this net, you can use 1 to make an Athletics test against the Physical defense of a Large or smaller character within 15 feet of you. On a hit, the character is [[Stormlight Handbook/10 - Ch 9 Adventuring#Restrained|Restrained]] and knocked [[Stormlight Handbook/10 - Ch 9 Adventuring#Prone|Prone]]. That character or another within reach can use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Interact|Interact]] action to make a DC 15 Athletics test, freeing the trapped character on a success. If a character is Restrained by multiple nets, they must be freed from each separately.
 
-**[[Items/Equipment/Net fishing|Net (fishing).]]** This net of fine mesh is used to ensnare fish. You can use this net to gain an advantage on physical tests related to fishing.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Net fishing|Net (fishing).]]** This net of fine mesh is used to ensnare fish. You can use this net to gain an advantage on physical tests related to fishing.
 
-**[[Items/Equipment/Oil 1 flask|Oil.]]** Oil generally comes in a 1-pint flask made of dried crem. Oil is flammable and can be used to fuel oil lanterns, to create dangerous terrain in a space, or as an improvised weapon (sling). When you hit or graze a target with this improvised weapon, you coat the target in oil in addition to the normal damage. Following the attack, regardless of the result, the crem flask breaks and any unused oil is lost.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Oil 1 flask|Oil.]]** Oil generally comes in a 1-pint flask made of dried crem. Oil is flammable and can be used to fuel oil lanterns, to create dangerous terrain in a space, or as an improvised weapon (sling). When you hit or graze a target with this improvised weapon, you coat the target in oil in addition to the normal damage. Following the attack, regardless of the result, the crem flask breaks and any unused oil is lost.
 
 **Poison.** Often manufactured using Roshar’s deadly blackbane plant, poison comes in single-dose glass vials. As 1, you can pour it into food, liquid, or a container, or you can apply the poison to a melee weapon or a piece of ammunition you’re holding. When you do, the GM may require you to make a Stealth test to avoid discovery. When a character ingests the poison or is hit by an attack using the poisoned weapon or ammunition, the poison is expended, and the character suffers the following effects:
 
-- **[[Items/Equipment/Poison weak 1 dose|Weak Poison.]]** The target must succeed on a DC 12 Athletics test or take 1d6 vital damage.
+- **[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Poison weak 1 dose|Weak Poison.]]** The target must succeed on a DC 12 Athletics test or take 1d6 vital damage.
 
-- **[[Items/Equipment/Poison effectual 1 dose|Effectual Poison.]]** The target must succeed on a DC 14 Athletics test or take 2d8 vital damage and be Stunned for 1 hour.
+- **[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Poison effectual 1 dose|Effectual Poison.]]** The target must succeed on a DC 14 Athletics test or take 2d8 vital damage and be Stunned for 1 hour.
 
-- **[[Items/Equipment/Poison potent 1 dose|Potent Poison.]]** The target must succeed on a DC 16 Athletics test or take 3d10 vital damage and be Stunned for 1 hour. While Stunned in this way, the target is Immobilized.
+- **[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Poison potent 1 dose|Potent Poison.]]** The target must succeed on a DC 16 Athletics test or take 3d10 vital damage and be Stunned for 1 hour. While Stunned in this way, the target is Immobilized.
 
-**[[Items/Equipment/Pulley system|Pulley System.]]** Most commonly used by engineers and artifabrians, this system includes four pulley wheels, 30 feet of rope, and a hook. When you have time to set up a pulley apparatus before lifting an object, you treat the object as being a quarter of its normal weight.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Pulley System|Pulley System.]]** Most commonly used by engineers and artifabrians, this system includes four pulley wheels, 30 feet of rope, and a hook. When you have time to set up a pulley apparatus before lifting an object, you treat the object as being a quarter of its normal weight.
 
-**[[Items/Equipment/Rope 50 feet|Rope.]]** Rope is usually made of seasilk (or less commonly, lavis grain or rockbud fibers) and sold in 50-foot lengths that can be cut and tied to change its length as needed. It can be cut by dealing 2 damage to it, or it can be ripped apart with a successful DC 20 Athletics test.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Rope 50 feet|Rope.]]** Rope is usually made of seasilk (or less commonly, lavis grain or rockbud fibers) and sold in 50-foot lengths that can be cut and tied to change its length as needed. It can be cut by dealing 2 damage to it, or it can be ripped apart with a successful DC 20 Athletics test.
 
 ![[pg260_ITEM_Rope_VINCENT DUTRAIT.webp]]
 
 **Rope - VINCENT DUTRAIT**
 
-**[[Items/Equipment/Scale|Scale.]]** Most commonly used by scholars, ardents, appraisers, and gem cutters, a scale can accurately determine the weight of an object (to a maximum of 2 pounds).
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Scale|Scale.]]** Most commonly used by scholars, ardents, appraisers, and gem cutters, a scale can accurately determine the weight of an object (to a maximum of 2 pounds).
 
-**[[Items/Equipment/Spyglass|Spyglass.]]** Distant objects viewed through a spyglass can be perceived as though at half the distance. At the GM’s discretion, spyglasses that allow distant objects to appear even closer may be available at higher prices.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Spyglass|Spyglass.]]** Distant objects viewed through a spyglass can be perceived as though at half the distance. At the GM’s discretion, spyglasses that allow distant objects to appear even closer may be available at higher prices.
 
-**[[Items/Equipment/Surgical Supplies|Surgical Supplies.]]** This satchel contains enough bandages, salves, splints, and other medical supplies to be used 10 times. When you make a Medicine test to treat a wounded character (or to similarly use these medical supplies), you can expend one of these uses to gain an advantage on the test.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Surgical Supplies|Surgical Supplies.]]** This satchel contains enough bandages, salves, splints, and other medical supplies to be used 10 times. When you make a Medicine test to treat a wounded character (or to similarly use these medical supplies), you can expend one of these uses to gain an advantage on the test.
 
 ![[pg260_ITEM_Surgery_Kit_VINCENT DUTRAIT.webp]]
 
 **Surgical Supplies - VINCENT DUTRAIT**
 
-**[[Items/Equipment/Treatment medical 1 dose|Treatment (medical).]]** Rosharan surgeons treat ailments with a variety of treatments, generally made from bitterleaf or bloodivy. During a short rest, you can use a dose of such a treatment to cure a character of one of the following conditions, given that its source isn’t a permanent injury: [[Stormlight Handbook/10 - Ch 9 Adventuring#Disoriented|Disoriented]], [[Stormlight Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted]] (reduces the penalty by 1), or [[Stormlight Handbook/10 - Ch 9 Adventuring#Stunned|Stunned]].
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Treatment medical 1 dose|Treatment (medical).]]** Rosharan surgeons treat ailments with a variety of treatments, generally made from bitterleaf or bloodivy. During a short rest, you can use a dose of such a treatment to cure a character of one of the following conditions, given that its source isn’t a permanent injury: [[Stormlight Handbook/10 - Ch 9 Adventuring#Disoriented|Disoriented]], [[Stormlight Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted]] (reduces the penalty by 1), or [[Stormlight Handbook/10 - Ch 9 Adventuring#Stunned|Stunned]].
 
-**[[Items/Equipment/Tuning Fork|Tuning Fork.]]** A tuning fork can transfer Stormlight from one sphere or gemstone to another. While using a tuning fork, you can use spheres to recharge fabrials, Shardplate, and half-shards as if the spheres were unencased gemstones.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Items/Equipment/Tuning Fork|Tuning Fork.]]** A tuning fork can transfer Stormlight from one sphere or gemstone to another. While using a tuning fork, you can use spheres to recharge fabrials, Shardplate, and half-shards as if the spheres were unencased gemstones.
 
 **[[Items/Equipment/Unencased Gem infused|Unencased Gem (infused).]]** Unlike spheres with gemstones encased in glass, unencased gems leak Stormlight quickly, going dun within several days depending on their cut. This permeability allows unencased gems to recharge fabrials and Shardplate. Radiants can also breathe in Stormlight from unencased gems as if they were spheres, gaining the same benefit.
 
@@ -605,7 +605,7 @@ The fabrials on the Standard Fabrials table are regularly produced or used throu
 
 **Clock Fabrial - VINCENT DUTRAIT**
 
-**[[Items/Fabrials/Standard/Drainer|Drainer]] (2 charges).** Drainer fabrials can partially drain Stormlight from infused gems to alter the strength of their glow; this is primarily done for aesthetic purposes. You can use an [[Actions/Basic/Interact|Interact]] action to touch this fabrial to an Invested or infused object or character. If the fabrial isn’t fully charged, the target loses 1 Investiture or charge, and this fabrial gains 1 charge. If the target is an unwilling character (or an object being worn or held by one), you must succeed on an Agility test against that character’s Physical defense; on a failure, you don’t drain the target and can’t try again for 1 minute. Once this fabrial is fully charged, it can be emptied by using a tuning fork, by a Radiant drawing in its Investiture (and regaining an equal amount of Investiture), or by allowing the Investiture to fade over the course of 5 days.
+**[[Items/Fabrials/Standard/Drainer|Drainer]] (2 charges).** Drainer fabrials can partially drain Stormlight from infused gems to alter the strength of their glow; this is primarily done for aesthetic purposes. You can use an [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Interact|Interact]] action to touch this fabrial to an Invested or infused object or character. If the fabrial isn’t fully charged, the target loses 1 Investiture or charge, and this fabrial gains 1 charge. If the target is an unwilling character (or an object being worn or held by one), you must succeed on an Agility test against that character’s Physical defense; on a failure, you don’t drain the target and can’t try again for 1 minute. Once this fabrial is fully charged, it can be emptied by using a tuning fork, by a Radiant drawing in its Investiture (and regaining an equal amount of Investiture), or by allowing the Investiture to fade over the course of 5 days.
 
 **[[Items/Fabrials/Standard/Emotion Bracelet|Emotion Bracelet]] (3 charges).** Emotion bracelets blink or change color in the presence of different emotions. The bracelet’s wearer can spend 1 charge as ▷ to gain an advantage on an Insight test against a character within 10 feet of them.
 

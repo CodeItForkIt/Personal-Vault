@@ -8,4 +8,4 @@ aliases: ["Track"]
 ---
 # Track
 
-The animal companion helps their Hunter track one character of the Hunter’s choice who the animal companion can sense within their reach. The target becomes the Hunter’s quarry for their [[Heroic Paths/Hunter/Seek Quarry|Seek Quarry]] talent.
+The animal companion helps their Hunter track one character of the Hunter’s choice who the animal companion can sense within their reach. The target becomes the Hunter’s quarry for their [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Seek Quarry|Seek Quarry]] talent.

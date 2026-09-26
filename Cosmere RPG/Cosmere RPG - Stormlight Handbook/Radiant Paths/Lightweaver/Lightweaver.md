@@ -30,15 +30,15 @@ Some Lightweavers were drawn to the order not by art, but by their love of intri
 >
 > The Lightweavers attract personalities of all types—from the quiet and introspective to the gregarious and outgoing—so long as they have an artistic spirit. The order is also of particular interest to those with a penchant for subterfuge. As such, the following heroic paths can be excellent precursors to the Lightweaver Radiant path:
 >
-> - [[Heroic Paths/Agent/Agent|Agent]] (Investigator, Spy, or Thief)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Agent|Agent]] (Investigator, Spy, or Thief)
 >
-> - [[Heroic Paths/Envoy/Envoy|Envoy]] (Diplomatc)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Envoy|Envoy]] (Diplomatc)
 >
-> - [[Heroic Paths/Hunter/Hunter|Hunter]] (Assassin)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Hunter|Hunter]] (Assassin)
 >
-> - [[Heroic Paths/Leader/Leader|Leader]] (Politico)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Leader|Leader]] (Politico)
 >
-> - [[Heroic Paths/Scholar/Scholar|Scholar]] (Strategist)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Scholar|Scholar]] (Strategist)
 
 ### Lightweaver History
 

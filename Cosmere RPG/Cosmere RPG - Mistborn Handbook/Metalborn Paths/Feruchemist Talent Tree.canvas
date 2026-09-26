@@ -1,111 +1,19 @@
 {
-  "nodes": [
-    {
-      "id": "k3hXMtXISllLR9Sn",
-      "type": "file",
-      "file": "Metalborn Paths/Feruchemist/Talents/Feruchemist Heritage.md",
-      "x": 0,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "qxKQrL4cjRy44wNR",
-      "type": "file",
-      "file": "Metalborn Paths/Feruchemist/Talents/Embedded Metalmind.md",
-      "x": 680,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "u6jpOrx1fbAbSMcy",
-      "type": "file",
-      "file": "Metalborn Paths/Feruchemist/Talents/Instinctual Tap.md",
-      "x": 680,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "HeZVkOSXZ9KPxZ8z",
-      "type": "file",
-      "file": "Metalborn Paths/Feruchemist/Talents/Mental Bandwidth.md",
-      "x": 680,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "KRitAVH8MGT8Ad03",
-      "type": "file",
-      "file": "Metalborn Paths/Feruchemist/Talents/Fast Tapping.md",
-      "x": 1020,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "H0VkLOU2zhhD1Vdx",
-      "type": "file",
-      "file": "Metalborn Paths/Feruchemist/Talents/Expanded Metalminds.md",
-      "x": 340,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "gg4Tnryf0AoMX2yl",
-      "type": "file",
-      "file": "Metalborn Paths/Feruchemist/Talents/Fast Storing.md",
-      "x": 340,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    }
-  ],
-  "edges": [
-    {
-      "id": "edge0",
-      "fromNode": "k3hXMtXISllLR9Sn",
-      "fromSide": "right",
-      "toNode": "H0VkLOU2zhhD1Vdx",
-      "toSide": "left"
-    },
-    {
-      "id": "edge1",
-      "fromNode": "H0VkLOU2zhhD1Vdx",
-      "fromSide": "right",
-      "toNode": "HeZVkOSXZ9KPxZ8z",
-      "toSide": "left"
-    },
-    {
-      "id": "edge2",
-      "fromNode": "u6jpOrx1fbAbSMcy",
-      "fromSide": "right",
-      "toNode": "KRitAVH8MGT8Ad03",
-      "toSide": "left"
-    },
-    {
-      "id": "edge3",
-      "fromNode": "k3hXMtXISllLR9Sn",
-      "fromSide": "right",
-      "toNode": "gg4Tnryf0AoMX2yl",
-      "toSide": "left"
-    },
-    {
-      "id": "edge4",
-      "fromNode": "H0VkLOU2zhhD1Vdx",
-      "fromSide": "right",
-      "toNode": "qxKQrL4cjRy44wNR",
-      "toSide": "left"
-    },
-    {
-      "id": "edge5",
-      "fromNode": "gg4Tnryf0AoMX2yl",
-      "fromSide": "right",
-      "toNode": "u6jpOrx1fbAbSMcy",
-      "toSide": "left"
-    }
-  ]
+	"nodes":[
+		{"id":"k3hXMtXISllLR9Sn","type":"file","file":"Metalborn Paths/Feruchemist/Talents/Feruchemist Heritage.md","x":0,"y":0,"width":280,"height":90},
+		{"id":"qxKQrL4cjRy44wNR","type":"file","file":"Metalborn Paths/Feruchemist/Talents/Embedded Metalmind.md","x":680,"y":0,"width":280,"height":90},
+		{"id":"u6jpOrx1fbAbSMcy","type":"file","file":"Metalborn Paths/Feruchemist/Talents/Instinctual Tap.md","x":680,"y":120,"width":280,"height":90},
+		{"id":"HeZVkOSXZ9KPxZ8z","type":"file","file":"Metalborn Paths/Feruchemist/Talents/Mental Bandwidth.md","x":680,"y":240,"width":280,"height":90},
+		{"id":"KRitAVH8MGT8Ad03","type":"file","file":"Metalborn Paths/Feruchemist/Talents/Fast Tapping.md","x":1020,"y":0,"width":280,"height":90},
+		{"id":"H0VkLOU2zhhD1Vdx","type":"file","file":"Metalborn Paths/Feruchemist/Talents/Expanded Metalminds.md","x":340,"y":0,"width":280,"height":90},
+		{"id":"gg4Tnryf0AoMX2yl","type":"file","file":"Metalborn Paths/Feruchemist/Talents/Fast Storing.md","x":340,"y":120,"width":280,"height":90}
+	],
+	"edges":[
+		{"id":"edge0","fromNode":"k3hXMtXISllLR9Sn","fromSide":"right","toNode":"H0VkLOU2zhhD1Vdx","toSide":"left"},
+		{"id":"edge1","fromNode":"H0VkLOU2zhhD1Vdx","fromSide":"right","toNode":"HeZVkOSXZ9KPxZ8z","toSide":"left"},
+		{"id":"edge2","fromNode":"u6jpOrx1fbAbSMcy","fromSide":"right","toNode":"KRitAVH8MGT8Ad03","toSide":"left"},
+		{"id":"edge3","fromNode":"k3hXMtXISllLR9Sn","fromSide":"right","toNode":"gg4Tnryf0AoMX2yl","toSide":"left"},
+		{"id":"edge4","fromNode":"H0VkLOU2zhhD1Vdx","fromSide":"right","toNode":"qxKQrL4cjRy44wNR","toSide":"left"},
+		{"id":"edge5","fromNode":"gg4Tnryf0AoMX2yl","fromSide":"right","toNode":"u6jpOrx1fbAbSMcy","toSide":"left"}
+	]
 }

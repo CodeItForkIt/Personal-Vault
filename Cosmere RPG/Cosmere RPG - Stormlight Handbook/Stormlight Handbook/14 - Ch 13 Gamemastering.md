@@ -345,11 +345,11 @@ Adversary **features** provide special rules that affect the adversary but don�
 
 Each stat block provides unique actions, free actions, and/or reactions for that adversary. These follow the same rules as PC actions do, so you can’t use the same action more than once on a turn.
 
-Adversaries can also use the actions, free actions, and reactions listed in chapter 10; for example, any adversary can (and often should) use the [[Actions/Basic/Move|Move]] action, the [[Actions/Basic/Gain Advantage|Gain Advantage]] action, and the [[Actions/Basic/Reactive Strike|Reactive Strike]] reaction. Rosharan adversaries with an Investiture pool can also use the [[Actions/Stormlight/Breathe Stormlight|Breathe Stormlight]], [[Actions/Stormlight/Enhance|Enhance]], and [[Actions/Stormlight/Regenerate|Regenerate]] actions from chapter 5 of the *Stormlight Handbook* (though Fused and Regal characters breathe Voidlight from their infused spheres, not Stormlight).
+Adversaries can also use the actions, free actions, and reactions listed in chapter 10; for example, any adversary can (and often should) use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Move|Move]] action, the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Gain Advantage|Gain Advantage]] action, and the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Reactive Strike|Reactive Strike]] reaction. Rosharan adversaries with an Investiture pool can also use the [[Actions/Stormlight/Breathe Stormlight|Breathe Stormlight]], [[Actions/Stormlight/Enhance|Enhance]], and [[Actions/Stormlight/Regenerate|Regenerate]] actions from chapter 5 of the *Stormlight Handbook* (though Fused and Regal characters breathe Voidlight from their infused spheres, not Stormlight).
 
 #### **Attacks**
 
-Most adversaries have at least one attack, which lists the outcome of a graze (if that attack can graze) and a hit. Some of these serve as the adversary’s basic [[Actions/Basic/Strike|Strike]] action, while others include more powerful effects. Unless otherwise specified, all adversary attacks are made against the target’s Physical defense.
+Most adversaries have at least one attack, which lists the outcome of a graze (if that attack can graze) and a hit. Some of these serve as the adversary’s basic [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Strike|Strike]] action, while others include more powerful effects. Unless otherwise specified, all adversary attacks are made against the target’s Physical defense.
 
 Unlike PC weapons—which have specific tags like Two-Handed—an adversary’s weapon name is merely descriptive and doesn’t invoke any special rules. It’s up to you to decide how an adversary’s attacks work within the story; for example, attacks that list a reach are generally melee attacks, while attacks that list a range are ranged. You can limit these attacks when it makes sense to do so; in general, err on the side of creating dynamic scenes that challenge the PCs.
 
@@ -447,7 +447,7 @@ The threat values of adversaries assume that the party has a mix of strengths, w
 
 ### Power Spikes
 
-Adversaries are ranked by tier, but within each tier of play, the PCs are weaker as they enter it and stronger right before they move to the next tier. Other factors can also dramatically increase the combat power of player characters, such as [[Items/Weapons/Shardblade|Shardblades]] and additional attack actions (like the [[Heroic Paths/Warrior/Soldier/Talents/Devastating Blow|Devastating Blow]] talent). Consider these spikes in damage when determining what difficulty of combat will challenge the party; you might need more adversaries to do so.
+Adversaries are ranked by tier, but within each tier of play, the PCs are weaker as they enter it and stronger right before they move to the next tier. Other factors can also dramatically increase the combat power of player characters, such as [[Items/Weapons/Shardblade|Shardblades]] and additional attack actions (like the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Soldier/Talents/Devastating Blow|Devastating Blow]] talent). Consider these spikes in damage when determining what difficulty of combat will challenge the party; you might need more adversaries to do so.
 
 ## Choosing Adversaries
 

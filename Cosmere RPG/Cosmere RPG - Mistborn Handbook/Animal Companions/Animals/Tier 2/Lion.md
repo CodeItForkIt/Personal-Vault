@@ -27,10 +27,10 @@ aliases: ["Lion"]
 ### Pounce
 *2 act*
 
-The Lion jumps to an unoccupied space up to their movement rate away. If they land within 5 feet of an enemy, the Lion makes a Claw attack against them. On a hit, if the target is Medium or smaller, the Lion knocks them [[Mistborn Handbook/10 - Ch 9 Adventuring#Prone|Prone]].
+The Lion jumps to an unoccupied space up to their movement rate away. If they land within 5 feet of an enemy, the Lion makes a Claw attack against them. On a hit, if the target is Medium or smaller, the Lion knocks them [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Prone|Prone]].
 
 ### Ambusher
-At the start of each scene, if the Lion isn’t [[Mistborn Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]], they can make a *Test: `skill=stl`* against the highest Spiritual defense among their enemies. On a success, the Lion takes a fast turn before any other characters (this doesn’t count as their turn this round).
+At the start of each scene, if the Lion isn’t [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]], they can make a *Test: `skill=stl`* against the highest Spiritual defense among their enemies. On a success, the Lion takes a fast turn before any other characters (this doesn’t count as their turn this round).
 
 ### Ruthless Predator
 When the Lion attacks and hits an enemy who hasn’t taken a turn yet this round, the attack deals an extra `1d8` damage.

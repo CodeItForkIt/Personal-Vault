@@ -1,193 +1,29 @@
 {
-  "nodes": [
-    {
-      "id": "LoVRwHDthRcprSP6",
-      "type": "file",
-      "file": "Metallic Arts/Steel/Talents/Allomancy/Bubble Shield.md",
-      "x": 680,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "3w5tvFW2rxPv5ahX",
-      "type": "file",
-      "file": "Metallic Arts/Steel/Talents/Allomancy/True Steelflight.md",
-      "x": 680,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "CVoK4CqizLlB1SaL",
-      "type": "file",
-      "file": "Metallic Arts/Steel/Talents/Feruchemy/True Steelrunning.md",
-      "x": 680,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "hQHmmJEnVnqRSgOd",
-      "type": "file",
-      "file": "Metallic Arts/Steel/Talents/Feruchemy/Accelerated Reflexes.md",
-      "x": 340,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "lkfdneXT3qhB5AAH",
-      "type": "file",
-      "file": "Metallic Arts/Steel/Talents/Allomancy/Coin Sharpshooter.md",
-      "x": 340,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "fKtilNpp2Uj2gbkA",
-      "type": "file",
-      "file": "Metallic Arts/Steel/Talents/Allomancy/Pushed Shot.md",
-      "x": 340,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "Hf6RzDZFTdW7pfE5",
-      "type": "file",
-      "file": "Metallic Arts/Steel/Talents/Feruchemy/Speed Burst.md",
-      "x": 340,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "oHSyItQUg8FnpMjZ",
-      "type": "file",
-      "file": "Metallic Arts/Steel/Talents/Allomancy/Steelpush Adept.md",
-      "x": 340,
-      "y": 480,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "IpM371LCJeyG6CYD",
-      "type": "file",
-      "file": "Metallic Arts/Steel/Talents/Feruchemy/Steelsprinter.md",
-      "x": 340,
-      "y": 600,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "fioxU6kqqLzHWMzu",
-      "type": "file",
-      "file": "Metallic Arts/Steel/Talents/Allomancy/Coin Scattershot.md",
-      "x": 0,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "xg5U5KSexrXOXFOM",
-      "type": "file",
-      "file": "Metallic Arts/Steel/Talents/Feruchemy/Hastened Dodge.md",
-      "x": 0,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "xk0CfJU0BSL0YPKO",
-      "type": "file",
-      "file": "Metallic Arts/Steel/Talents/Allomancy/Leveraging Brace.md",
-      "x": 0,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "yvOB9zMqfWpnnWLp",
-      "type": "file",
-      "file": "Metallic Arts/Steel/Talents/Feruchemy/Run it Back.md",
-      "x": 0,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    }
-  ],
-  "edges": [
-    {
-      "id": "edge0",
-      "fromNode": "oHSyItQUg8FnpMjZ",
-      "fromSide": "right",
-      "toNode": "3w5tvFW2rxPv5ahX",
-      "toSide": "left"
-    },
-    {
-      "id": "edge1",
-      "fromNode": "hQHmmJEnVnqRSgOd",
-      "fromSide": "right",
-      "toNode": "CVoK4CqizLlB1SaL",
-      "toSide": "left"
-    },
-    {
-      "id": "edge2",
-      "fromNode": "Hf6RzDZFTdW7pfE5",
-      "fromSide": "right",
-      "toNode": "CVoK4CqizLlB1SaL",
-      "toSide": "left"
-    },
-    {
-      "id": "edge3",
-      "fromNode": "yvOB9zMqfWpnnWLp",
-      "fromSide": "right",
-      "toNode": "Hf6RzDZFTdW7pfE5",
-      "toSide": "left"
-    },
-    {
-      "id": "edge4",
-      "fromNode": "yvOB9zMqfWpnnWLp",
-      "fromSide": "right",
-      "toNode": "IpM371LCJeyG6CYD",
-      "toSide": "left"
-    },
-    {
-      "id": "edge5",
-      "fromNode": "oHSyItQUg8FnpMjZ",
-      "fromSide": "right",
-      "toNode": "LoVRwHDthRcprSP6",
-      "toSide": "left"
-    },
-    {
-      "id": "edge6",
-      "fromNode": "fioxU6kqqLzHWMzu",
-      "fromSide": "right",
-      "toNode": "fKtilNpp2Uj2gbkA",
-      "toSide": "left"
-    },
-    {
-      "id": "edge7",
-      "fromNode": "xg5U5KSexrXOXFOM",
-      "fromSide": "right",
-      "toNode": "hQHmmJEnVnqRSgOd",
-      "toSide": "left"
-    },
-    {
-      "id": "edge8",
-      "fromNode": "fioxU6kqqLzHWMzu",
-      "fromSide": "right",
-      "toNode": "lkfdneXT3qhB5AAH",
-      "toSide": "left"
-    },
-    {
-      "id": "edge9",
-      "fromNode": "xk0CfJU0BSL0YPKO",
-      "fromSide": "right",
-      "toNode": "oHSyItQUg8FnpMjZ",
-      "toSide": "left"
-    }
-  ]
+	"nodes":[
+		{"id":"LoVRwHDthRcprSP6","type":"file","file":"Metallic Arts/Steel/Talents/Allomancy/Bubble Shield.md","x":680,"y":0,"width":280,"height":90},
+		{"id":"3w5tvFW2rxPv5ahX","type":"file","file":"Metallic Arts/Steel/Talents/Allomancy/True Steelflight.md","x":680,"y":120,"width":280,"height":90},
+		{"id":"CVoK4CqizLlB1SaL","type":"file","file":"Metallic Arts/Steel/Talents/Feruchemy/True Steelrunning.md","x":680,"y":240,"width":280,"height":90},
+		{"id":"hQHmmJEnVnqRSgOd","type":"file","file":"Metallic Arts/Steel/Talents/Feruchemy/Accelerated Reflexes.md","x":340,"y":0,"width":280,"height":90},
+		{"id":"lkfdneXT3qhB5AAH","type":"file","file":"Metallic Arts/Steel/Talents/Allomancy/Coin Sharpshooter.md","x":340,"y":120,"width":280,"height":90},
+		{"id":"fKtilNpp2Uj2gbkA","type":"file","file":"Metallic Arts/Steel/Talents/Allomancy/Pushed Shot.md","x":340,"y":240,"width":280,"height":90},
+		{"id":"Hf6RzDZFTdW7pfE5","type":"file","file":"Metallic Arts/Steel/Talents/Feruchemy/Speed Burst.md","x":340,"y":360,"width":280,"height":90},
+		{"id":"oHSyItQUg8FnpMjZ","type":"file","file":"Metallic Arts/Steel/Talents/Allomancy/Steelpush Adept.md","x":340,"y":480,"width":280,"height":90},
+		{"id":"IpM371LCJeyG6CYD","type":"file","file":"Metallic Arts/Steel/Talents/Feruchemy/Steelsprinter.md","x":340,"y":600,"width":280,"height":90},
+		{"id":"fioxU6kqqLzHWMzu","type":"file","file":"Metallic Arts/Steel/Talents/Allomancy/Coin Scattershot.md","x":0,"y":0,"width":280,"height":90},
+		{"id":"xg5U5KSexrXOXFOM","type":"file","file":"Metallic Arts/Steel/Talents/Feruchemy/Hastened Dodge.md","x":0,"y":120,"width":280,"height":90},
+		{"id":"xk0CfJU0BSL0YPKO","type":"file","file":"Metallic Arts/Steel/Talents/Allomancy/Leveraging Brace.md","x":0,"y":240,"width":280,"height":90},
+		{"id":"yvOB9zMqfWpnnWLp","type":"file","file":"Metallic Arts/Steel/Talents/Feruchemy/Run it Back.md","x":0,"y":360,"width":280,"height":90}
+	],
+	"edges":[
+		{"id":"edge0","fromNode":"oHSyItQUg8FnpMjZ","fromSide":"right","toNode":"3w5tvFW2rxPv5ahX","toSide":"left"},
+		{"id":"edge1","fromNode":"hQHmmJEnVnqRSgOd","fromSide":"right","toNode":"CVoK4CqizLlB1SaL","toSide":"left"},
+		{"id":"edge2","fromNode":"Hf6RzDZFTdW7pfE5","fromSide":"right","toNode":"CVoK4CqizLlB1SaL","toSide":"left"},
+		{"id":"edge3","fromNode":"yvOB9zMqfWpnnWLp","fromSide":"right","toNode":"Hf6RzDZFTdW7pfE5","toSide":"left"},
+		{"id":"edge4","fromNode":"yvOB9zMqfWpnnWLp","fromSide":"right","toNode":"IpM371LCJeyG6CYD","toSide":"left"},
+		{"id":"edge5","fromNode":"oHSyItQUg8FnpMjZ","fromSide":"right","toNode":"LoVRwHDthRcprSP6","toSide":"left"},
+		{"id":"edge6","fromNode":"fioxU6kqqLzHWMzu","fromSide":"right","toNode":"fKtilNpp2Uj2gbkA","toSide":"left"},
+		{"id":"edge7","fromNode":"xg5U5KSexrXOXFOM","fromSide":"right","toNode":"hQHmmJEnVnqRSgOd","toSide":"left"},
+		{"id":"edge8","fromNode":"fioxU6kqqLzHWMzu","fromSide":"right","toNode":"lkfdneXT3qhB5AAH","toSide":"left"},
+		{"id":"edge9","fromNode":"xk0CfJU0BSL0YPKO","fromSide":"right","toNode":"oHSyItQUg8FnpMjZ","toSide":"left"}
+	]
 }

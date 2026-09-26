@@ -12,7 +12,7 @@ aliases: ["Toss 'Em Around"]
 
 *Your enhanced strength makes it trivial to throw your enemies about.*
 
-While tapping strength, choose a target or location on the ground within 100 feet of you, and use a free hand to throw a willing ally or a [[Mistborn Handbook/10 - Ch 9 Adventuring#Restrained|Restrained]] enemy at that target. The character you throw must be within your reach and no more than one size category larger than you. When you throw that character, apply the following effects:
+While tapping strength, choose a target or location on the ground within 100 feet of you, and use a free hand to throw a willing ally or a [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Restrained|Restrained]] enemy at that target. The character you throw must be within your reach and no more than one size category larger than you. When you throw that character, apply the following effects:
 
 **Ally.** The ally lands safely in an unoccupied space nearest to the target.
 

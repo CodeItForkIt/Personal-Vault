@@ -10,9 +10,9 @@ aliases: ["Nascent Gold Allomancy"]
 
 This represents your early, unpracticed use of your power, such as through clumsily experimenting with a newly discovered well of power, subconsciously burning trace amounts of Allomantic metals.
 
-When you use a nascent power, you don’t use that power’s full rules. Instead, you can only manifest small narrative effects related to the full power (for inspiration, see the “[[Mistborn Handbook/07 - Ch 6 Metallic Arts#Creative Uses|Creative Uses]]” section for each power). You and the GM are encouraged to creatively integrate these small narrative effects in ways like the following:
+When you use a nascent power, you don’t use that power’s full rules. Instead, you can only manifest small narrative effects related to the full power (for inspiration, see the “[[07 - Ch 6 Metallic Arts#Creative Uses|Creative Uses]]” section for each power). You and the GM are encouraged to creatively integrate these small narrative effects in ways like the following:
 
-**Conscious Choice.** Test your power by using the [[Actions/Basic/Use A Skill|Use a Skill]] action with **Allomancy**.
+**Conscious Choice.** Test your power by using the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Use A Skill|Use a Skill]] action with **Allomancy**.
 
 **Instinctive Effort.** Spend O to activate a limited version of a related power.
 
@@ -20,6 +20,6 @@ When you use a nascent power, you don’t use that power’s full rules. Instea
 
 **Controlled Practice.** During downtime, narratively describe using your power in low-risk situations.
 
-The effects of a nascent power are always smaller than the full versions of that power, and they’re up to the GM’s discretion. The [[Mistborn Handbook/17 - Appendix 2 Tables|Nascent Power Examples]] table offers ideas for how nascent Allomantic powers might manifest in play.
+The effects of a nascent power are always smaller than the full versions of that power, and they’re up to the GM’s discretion. The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Nascent Power Examples]] table offers ideas for how nascent Allomantic powers might manifest in play.
 
-At the GM’s discretion, using a nascent power might require you to spend 1 Investiture. On the flip side of that, the GM might allow you to recover 1 Investiture or more when you eat or drink something that plausibly contains trace amounts of your Allomantic metal; of course, you can also recover Investiture as usual with the [[Actions/Metallic Arts/Allomancy/Drink Vial|Drink Vial]] action.
+At the GM’s discretion, using a nascent power might require you to spend 1 Investiture. On the flip side of that, the GM might allow you to recover 1 Investiture or more when you eat or drink something that plausibly contains trace amounts of your Allomantic metal; of course, you can also recover Investiture as usual with the [[Drink Vial|Drink Vial]] action.

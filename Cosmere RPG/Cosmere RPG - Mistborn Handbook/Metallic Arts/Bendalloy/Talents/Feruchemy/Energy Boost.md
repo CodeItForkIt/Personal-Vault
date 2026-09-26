@@ -16,4 +16,4 @@ When you **Tap Nutrition**, instead of just spending 1 charge, you can spend an
 
 - Recover health equal to 1d4 plus the number of charges you spent. That roll uses your Metallic Art die, so its size increases with your ranks in Feruchemy; at 2 ranks, roll 1d6 (instead of 1d4), and so on.
 
-- If you’re [[Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted]], reduce that condition’s penalty by 2 per charge spent.
+- If you’re [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted]], reduce that condition’s penalty by 2 per charge spent.

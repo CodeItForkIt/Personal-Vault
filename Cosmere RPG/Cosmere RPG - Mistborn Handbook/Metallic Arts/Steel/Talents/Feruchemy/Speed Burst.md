@@ -12,6 +12,6 @@ aliases: ["Speed Burst"]
 
 *You act so fast while tapping your steelmind that you can do the work of multiple people.*
 
-While tapping speed, spend 1 charge from your steelmind to gain 2, which you can only use for the following actions: [[Actions/Basic/Brace|Brace]], [[Actions/Basic/Disengage|Disengage]], [[Actions/Basic/Interact|Interact]], [[Actions/Basic/Move|Move]], or any action in which you make a physical test.
+While tapping speed, spend 1 charge from your steelmind to gain 2, which you can only use for the following actions: [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Brace|Brace]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Disengage|Disengage]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Interact|Interact]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Move|Move]], or any action in which you make a physical test.
 
 During a conversation or endeavor, you can instead use both 2 to make an additional contribution for the round, but you’re limited to the above actions when you do.

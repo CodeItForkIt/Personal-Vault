@@ -12,4 +12,4 @@ aliases: ["Deadly Aim"]
 
 *Whether on the battlefield or off, you quickly discern weak spots in the foes and obstacles that stand before you.*
 
-After you succeed on a *Test: `skill=prc`* to [[Actions/Basic/Gain Advantage|Gain Advantage]], your **Two-Handed** ranged weapons gain the **Deadly** trait against that test’s target until the end of your turn.
+After you succeed on a *Test: `skill=prc`* to [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Gain Advantage|Gain Advantage]], your **Two-Handed** ranged weapons gain the **Deadly** trait against that test’s target until the end of your turn.

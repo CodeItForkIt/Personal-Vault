@@ -12,7 +12,7 @@ aliases: ["Ferring"]
 
 After the Catacendre, a new type of Metalborn began to appear: Ferrings, who can use only one Feruchemical power. Much like the full Feruchemists of Era 1, a Ferring can store a particular trait (like strength or wakefulness) into a metalmind made of the corresponding Feruchemical metal. They can then later tap into their metalmind to supernaturally augment themselves with the stored trait.
 
-Each type of Ferring has a colloquial name that reflects the metal they use for their metalmind and the trait they can store within it; for example, an Archivist is a copper Ferring who can store memories in their metalmind. The [[Mistborn Handbook/17 - Appendix 2 Tables|Feruchemy Discovery]] table lists the names for each Ferring type. 
+Each type of Ferring has a colloquial name that reflects the metal they use for their metalmind and the trait they can store within it; for example, an Archivist is a copper Ferring who can store memories in their metalmind. The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Feruchemy Discovery]] table lists the names for each Ferring type. 
 
 ## Ferring History
 
@@ -22,9 +22,9 @@ Due to the Terris people’s collective effort to subvert the program, Feruchemy
 
 ## Building a Ferring
 
-The following “[[Mistborn Handbook/06 - Ch 5 Metalborn Paths#Iconic Ferrings|Iconic Ferrings]]” section provides example builds for characters inspired by the novels. Also consider these general tips for building an effective Ferring:
+The following “[[06 - Ch 5 Metalborn Paths#Iconic Ferrings|Iconic Ferrings]]” section provides example builds for characters inspired by the novels. Also consider these general tips for building an effective Ferring:
 
-**Attributes.** Your attributes largely depend on which Feruchemical power you choose. For example, if your power often uses your **Feruchemy** modifier (like [[Metallic Arts/Brass/Brass Feruchemy|Brass Feruchemy]]), you might prioritize **Intellect**. Powers that store a particular attribute (like [[Metallic Arts/Electrum/Electrum Feruchemy|Electrum Feruchemy]]) typically benefit from investing in that attribute. Meanwhile, if your power lends itself to combat (like [[Metallic Arts/Steel/Steel Feruchemy|Steel Feruchemy]]), consider **Strength** or **Speed** to empower your weapon attacks.
+**Attributes.** Your attributes largely depend on which Feruchemical power you choose. For example, if your power often uses your **Feruchemy** modifier (like [[Brass Feruchemy|Brass Feruchemy]]), you might prioritize **Intellect**. Powers that store a particular attribute (like [[Electrum Feruchemy|Electrum Feruchemy]]) typically benefit from investing in that attribute. Meanwhile, if your power lends itself to combat (like [[Steel Feruchemy|Steel Feruchemy]]), consider **Strength** or **Speed** to empower your weapon attacks.
 
 **Heroic Paths.** Most Ferrings not only invest in their Metalborn path and its power, but they supplement it with heroic talents. It’s a good idea to consider the build advice from any heroic paths of interest.
 
@@ -34,4 +34,4 @@ The following “[[Mistborn Handbook/06 - Ch 5 Metalborn Paths#Iconic Ferrings|I
 
 Terris people can inherit a genetic trait that grants them a Feruchemical power. In Era 2, this is common knowledge in Terris culture, so most people who have a Feruchemical power discover it early in life. However, some may be unaware they have Terris ancestors, and thus discover their Ferring heritage later in life. Choosing this talent represents your character discovering their power and unlocks access to the Ferring tree.
 
-**Starting Skill: Feruchemy.** If you choose Ferring as your starting path, gain a free skill rank in **Feruchemy** (in addition to the rank gained from [[Metalborn Paths/Ferring/Talents/Ferring Heritage|Ferring Heritage]]).
+**Starting Skill: Feruchemy.** If you choose Ferring as your starting path, gain a free skill rank in **Feruchemy** (in addition to the rank gained from [[Ferring Heritage|Ferring Heritage]]).

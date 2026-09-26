@@ -24,18 +24,18 @@ The Agent path presents talents in three specialties:
 
 ## Building an Agent
 
-The following “[[Mistborn Handbook/05 - Ch 4 Heroic Paths#Agents of Scadrial|Agents of Scadrial]]” section suggests example builds for iconic characters. If you have a different idea in mind, consider these general tips for building an effective Agent:
+The following “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths#Agents of Scadrial|Agents of Scadrial]]” section suggests example builds for iconic characters. If you have a different idea in mind, consider these general tips for building an effective Agent:
 
 **Attributes.** It’s usually a good idea to prioritize **Awareness**, **Intellect**, and **Speed**.
 
 **Skills.** Useful skills include **Agility**, **Deception**, **Deduction**, **Insight**, **Light Weaponry**, and **Thievery**.
 
-**Other Heroic Paths.** The [[Heroic Paths/Hunter/Hunter|Hunter]] and [[Heroic Paths/Scholar/Scholar|Scholar]] paths make excellent multi-path choices.
+**Other Heroic Paths.** The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Hunter|Hunter]] and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Scholar|Scholar]] paths make excellent multi-path choices.
 
 **Rewards.** When choosing rewards, you can’t go wrong with a bodyguard companion and patrons from the criminal world or high society.
 
 ## Agent Key Talent
 
-The Agent key talent, [[Heroic Paths/Agent/Opportunist|Opportunist]], unlocks access to the Agent specialties.
+The Agent key talent, [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Opportunist|Opportunist]], unlocks access to the Agent specialties.
 
 **Starting Skill: Insight.** If you choose Agent as your starting path, gain a free skill rank in **Insight**.

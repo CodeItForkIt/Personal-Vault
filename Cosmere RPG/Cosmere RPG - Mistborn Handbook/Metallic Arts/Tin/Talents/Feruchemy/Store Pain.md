@@ -12,4 +12,4 @@ aliases: ["Store Pain"]
 
 *You understand pain as a natural extension of your sense of touch.*
 
-While storing your sense of touch, you reduce incoming damage by half your ranks in **Feruchemy**, and you ignore the effects of the [[Mistborn Handbook/10 - Ch 9 Adventuring#Afflicted|Afflicted]], [[Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted]], and [[Mistborn Handbook/10 - Ch 9 Adventuring#Slowed|Slowed]] conditions.
+While storing your sense of touch, you reduce incoming damage by half your ranks in **Feruchemy**, and you ignore the effects of the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Afflicted|Afflicted]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted]], and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Slowed|Slowed]] conditions.

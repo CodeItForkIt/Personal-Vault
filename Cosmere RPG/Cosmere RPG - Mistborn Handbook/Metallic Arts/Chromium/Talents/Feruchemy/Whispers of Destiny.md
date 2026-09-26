@@ -14,4 +14,4 @@ aliases: ["Whispers of Destiny"]
 
 After a long or short rest, you can spend 1 charge from your chromiummind to receive an impression of how impactful the upcoming scene is likely to be, as well as the potential importance of a specific person, place, or moment (chosen by the GM). 
 
-When you meet with that person, arrive at that place, or enter that moment, you gain the [[Mistborn Handbook/10 - Ch 9 Adventuring#Focused|Focused]] condition until the end of your next turn.
+When you meet with that person, arrive at that place, or enter that moment, you gain the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Focused|Focused]] condition until the end of your next turn.

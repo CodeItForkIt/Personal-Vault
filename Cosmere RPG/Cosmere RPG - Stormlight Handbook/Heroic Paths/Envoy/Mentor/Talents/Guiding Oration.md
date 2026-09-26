@@ -12,4 +12,4 @@ aliases: ["Guiding Oration"]
 
 *Your quick and effective communication enables your allies to make the most of your actions.*
 
-After you succeed on a test to [[Actions/Basic/Gain Advantage|Gain Advantage]], you can choose an ally you can influence within 10 feet of your target. Until the end of their next turn, that ally gains an advantage on their next test against your target.
+After you succeed on a test to [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Gain Advantage|Gain Advantage]], you can choose an ally you can influence within 10 feet of your target. Until the end of their next turn, that ally gains an advantage on their next test against your target.

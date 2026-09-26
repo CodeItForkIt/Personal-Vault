@@ -12,4 +12,4 @@ aliases: ["Riot Resolve"]
 
 *Your Riotings can help your allies push through the direst of situations.*
 
-Once per scene, when you **Burn Zinc**, you can forgo its usual effects, and instead cause each character other than you in the area to recover focus equal to half the Investiture you spent to burn zinc (rounded up). Additionally, each target becomes [[Mistborn Handbook/10 - Ch 9 Adventuring#Determined|Determined]] until they remove that condition or until your Rioting ends.
+Once per scene, when you **Burn Zinc**, you can forgo its usual effects, and instead cause each character other than you in the area to recover focus equal to half the Investiture you spent to burn zinc (rounded up). Additionally, each target becomes [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Determined|Determined]] until they remove that condition or until your Rioting ends.

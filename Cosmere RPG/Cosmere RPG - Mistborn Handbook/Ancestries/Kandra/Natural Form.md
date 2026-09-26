@@ -12,7 +12,7 @@ aliases: ["Natural Form"]
 
 *Your amorphous form easily flows around dangers that would pierce or slash flesh, and you can slip into tight spaces.*
 
-As a kandra, your natural form is a malleable, amorphous blob of musculature. While you’re in either your natural form or your [[Ancestries/Kandra/Kandra Disguise|Kandra Disguise]] form, you gain the following benefits:
+As a kandra, your natural form is a malleable, amorphous blob of musculature. While you’re in either your natural form or your [[Kandra Disguise|Kandra Disguise]] form, you gain the following benefits:
 
 - Your deflect value increases by 5 against keen damage.
 
@@ -20,7 +20,7 @@ As a kandra, your natural form is a malleable, amorphous blob of musculature. Wh
 
 - When your injury roll is lower than 0, instead count it as 0 unless the injury was due to acid, fire, or other means that would entirely destroy a kandra’s body.
 
-- You can’t be affected by emotional Allomancy (including [[Metallic Arts/Brass/Brass Allomancy|Brass Allomancy]] and [[Metallic Arts/Zinc/Zinc Allomancy|Zinc Allomancy]]) unless its user spends at least 6 Investiture.
+- You can’t be affected by emotional Allomancy (including [[Brass Allomancy|Brass Allomancy]] and [[Zinc Allomancy|Zinc Allomancy]]) unless its user spends at least 6 Investiture.
 
 While in your natural form, you also experience the following effects:
 
@@ -30,4 +30,4 @@ While in your natural form, you also experience the following effects:
 
 - Most human cultures view you with horror or disdain.
 
-You can use your [[Ancestries/Kandra/Kandra Disguise|Kandra Disguise ]]talent to instead transform into the form of a human you ingest, thus blending unnoticed into human society.
+You can use your [[Kandra Disguise|Kandra Disguise]]talent to instead transform into the form of a human you ingest, thus blending unnoticed into human society.

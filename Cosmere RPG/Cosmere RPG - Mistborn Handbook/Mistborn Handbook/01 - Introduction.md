@@ -42,45 +42,45 @@ Whether you’re ready to adventure throughout the cosmere, or whether you simpl
 
 The *Mistborn Handbook* presents the information you’ll need to create remarkable characters and collaborate on an epic tale, divided into the following parts:
 
-**[[Mistborn Handbook/01 - Introduction|Introduction.]]** This overviews the world of Scadrial, describes roleplaying games, presents the Cosmere RPG’s dice and core mechanics, and provides an example of what to expect in a typical game session.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/01 - Introduction|Introduction.]]** This overviews the world of Scadrial, describes roleplaying games, presents the Cosmere RPG’s dice and core mechanics, and provides an example of what to expect in a typical game session.
 
-**[[Mistborn Handbook/02 - Ch 1 Character Creation|Chapter 1: Character Creation.]]** This walks you through creating your player character, from imagining a compelling backstory to filling out your character sheet.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation|Chapter 1: Character Creation.]]** This walks you through creating your player character, from imagining a compelling backstory to filling out your character sheet.
 
-**[[Mistborn Handbook/03 - Ch 2 Origins|Chapter 2: Origins.]]** This offers detailed information for your character’s origins, including their ancestry and culture.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/03 - Ch 2 Origins|Chapter 2: Origins.]]** This offers detailed information for your character’s origins, including their ancestry and culture.
 
-**[[Mistborn Handbook/04 - Ch 3 Character Statistics|Chapter 3: Character Statistics.]]** This provides rules for your character’s attributes, defenses, resources, senses, skills, and expertises.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics|Chapter 3: Character Statistics.]]** This provides rules for your character’s attributes, defenses, resources, senses, skills, and expertises.
 
-**[[Mistborn Handbook/05 - Ch 4 Heroic Paths|Chapter 4: Heroic Paths.]]** This presents the rules for using paths and talents, then details six heroic paths from which you can choose your character’s first specialized abilities: Agent, Envoy, Hunter, Leader, Scholar, and Warrior.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths|Chapter 4: Heroic Paths.]]** This presents the rules for using paths and talents, then details six heroic paths from which you can choose your character’s first specialized abilities: Agent, Envoy, Hunter, Leader, Scholar, and Warrior.
 
-**[[Mistborn Handbook/06 - Ch 5 Metalborn Paths|Chapter 5: Metalborn Paths.]]** This describes five Metalborn paths for the arts of Allomancy and Feruchemy, allowing your character to manifest incredible abilities.
+**[[06 - Ch 5 Metalborn Paths|Chapter 5: Metalborn Paths.]]** This describes five Metalborn paths for the arts of Allomancy and Feruchemy, allowing your character to manifest incredible abilities.
 
-**[[Mistborn Handbook/07 - Ch 6 Metallic Arts|Chapter 6: Metallic Arts.]]** This describes the Allomantic and Feruchemical powers and the talents that upgrade them.
+**[[07 - Ch 6 Metallic Arts|Chapter 6: Metallic Arts.]]** This describes the Allomantic and Feruchemical powers and the talents that upgrade them.
 
-**[[Mistborn Handbook/08 - Ch 7 Items|Chapter 7: Items.]]** This provides your character’s starting equipment, weapons, and armor, along with rules for crafting, travel, and more.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|Chapter 7: Items.]]** This provides your character’s starting equipment, weapons, and armor, along with rules for crafting, travel, and more.
 
-**[[Mistborn Handbook/09 - Ch 8 Goals and Rewards|Chapter 8: Goals and Rewards.]]** This guides you through choosing your character’s core drives and downfalls, setting objectives to advance between levels, and earning rewards for completing your goals and advancing the narrative.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards|Chapter 8: Goals and Rewards.]]** This guides you through choosing your character’s core drives and downfalls, setting objectives to advance between levels, and earning rewards for completing your goals and advancing the narrative.
 
-**[[Mistborn Handbook/10 - Ch 9 Adventuring|Chapter 9: Adventuring.]]** This introduces general rules for adventuring on Scadrial. You’ll learn about the three scene types—combat, conversations, and endeavors—and how to navigate dynamic events. During your adventures, you’ll experience trials and tribulations; this chapter also presents rules for the conditions, damage, and injuries you’ll face, plus rules for resting, recovering, and enjoying extended downtime.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Chapter 9: Adventuring.]]** This introduces general rules for adventuring on Scadrial. You’ll learn about the three scene types—combat, conversations, and endeavors—and how to navigate dynamic events. During your adventures, you’ll experience trials and tribulations; this chapter also presents rules for the conditions, damage, and injuries you’ll face, plus rules for resting, recovering, and enjoying extended downtime.
 
-**[[Mistborn Handbook/11 - Ch 10 Combat|Chapter 10: Combat.]]** This describes how to engage in a combat scene, including the general actions every character can use and the rules for targeting, making attacks, and moving around the battlefield.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Chapter 10: Combat.]]** This describes how to engage in a combat scene, including the general actions every character can use and the rules for targeting, making attacks, and moving around the battlefield.
 
-**[[Mistborn Handbook/12 - Ch 11 Conversations|Chapter 11: Conversations.]]** This provides the rules for tense conversation scenes in which characters attempt to influence each other’s opinions or behavior.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/12 - Ch 11 Conversations|Chapter 11: Conversations.]]** This provides the rules for tense conversation scenes in which characters attempt to influence each other’s opinions or behavior.
 
-**[[Mistborn Handbook/13 - Ch 12 Endeavors|Chapter 12: Endeavors.]]** This presents rules for high-stakes endeavor scenes such as solving mysteries and conspiracies, exploring dangerous environments, and pursuing (or fleeing) adversaries in adrenalinepumping chases.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/13 - Ch 12 Endeavors|Chapter 12: Endeavors.]]** This presents rules for high-stakes endeavor scenes such as solving mysteries and conspiracies, exploring dangerous environments, and pursuing (or fleeing) adversaries in adrenalinepumping chases.
 
-**[[Mistborn Handbook/14 - Ch 13 Gamemastering|Chapter 13: Gamemastering.]]** This guides GMs through the nuances of running a game for their players, including calling for skill tests, using the plot die, managing their crew, creating a comfortable space to explore intense themes and maximize everyone’s experience, and more.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering|Chapter 13: Gamemastering.]]** This guides GMs through the nuances of running a game for their players, including calling for skill tests, using the plot die, managing their crew, creating a comfortable space to explore intense themes and maximize everyone’s experience, and more.
 
-**[[Mistborn Handbook/15 - Another Secret|Another Secret.]]** This presents resources for beginning a campaign and immersing yourself in the everchanging world of Scadrial and the cosmere beyond.
+**[[15 - Another Secret|Another Secret.]]** This presents resources for beginning a campaign and immersing yourself in the everchanging world of Scadrial and the cosmere beyond.
 
-**[[Mistborn Handbook/16 - Appendix 1 Animal Companions|Appendix 1: Animal Companions.]]** This offers profiles for Scadrian creatures you can befriend and work with.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/16 - Appendix 1 Animal Companions|Appendix 1: Animal Companions.]]** This offers profiles for Scadrian creatures you can befriend and work with.
 
-**[[Mistborn Handbook/17 - Appendix 2 Tables|Appendix 2: Tables (Foundry Exclusive).]]** This offers a quick list of all the tables found in this book.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Appendix 2: Tables (Foundry Exclusive).]]** This offers a quick list of all the tables found in this book.
 
-**[[Mistborn Handbook/18 - Appendix 3 Talent Trees|Appendix 3: Talent Trees (Foundry Exclusive).]]** This offers a quick refrence list to the path talent trees and allows for quick drag and drop onto sheets.
+**[[18 - Appendix 3 Talent Trees|Appendix 3: Talent Trees (Foundry Exclusive).]]** This offers a quick refrence list to the path talent trees and allows for quick drag and drop onto sheets.
 
-**[[Mistborn Handbook/19 - Glossary and Index|Glossary and Index.]]** This summarizes key terms and provides page references for more information.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/19 - Glossary and Index|Glossary and Index.]]** This summarizes key terms and provides page references for more information.
 
-**[[Mistborn Handbook/20 - Acknowledgments|Acknowledgments.]]** This expresses profound appreciation for those who playtested the Mistborn rules for the Cosmere RPG.
+**[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/20 - Acknowledgments|Acknowledgments.]]** This expresses profound appreciation for those who playtested the Mistborn rules for the Cosmere RPG.
 
 |  |
 |----|
@@ -151,7 +151,7 @@ A **roleplaying game** is a collaborative experience of storytelling and imagina
 
 ## Players
 
-As detailed in [[Mistborn Handbook/02 - Ch 1 Character Creation|chapter 1]], each player—other than the game master—creates a character to play throughout the group’s adventure. Your character is known as a player character (or PC). They’re unique to you, and it’s up to you to decide their origins, ambitions, and decisions. Alongside the other PCs, you form a group—sometimes called an adventuring party—who’ll (hopefully) stick together during your adventures exploring Scadrial. Together, you might coordinate your Metallic Arts to stand against daunting enemies, investigate the misdeeds of powerful people, and face whatever other challenges your story puts before you.
+As detailed in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation|chapter 1]], each player—other than the game master—creates a character to play throughout the group’s adventure. Your character is known as a player character (or PC). They’re unique to you, and it’s up to you to decide their origins, ambitions, and decisions. Alongside the other PCs, you form a group—sometimes called an adventuring party—who’ll (hopefully) stick together during your adventures exploring Scadrial. Together, you might coordinate your Metallic Arts to stand against daunting enemies, investigate the misdeeds of powerful people, and face whatever other challenges your story puts before you.
 
 During the game, you describe the actions your character takes, roll the dice for their actions when prompted by the game master, and decide how and when to use your character’s abilities. How you describe your character’s actions is up to you. Some players actout each word and action of their character, while others prefer to narrate their character’s actions as if they were telling a story. Do whichever feels best to you.
 
@@ -159,7 +159,7 @@ During the game, you describe the actions your character takes, roll the dice fo
 
 Most players create and control a single character. One player, however, takes on the role of the **game master** (or GM). They don’t play just one character, but instead act as the guiding storyteller for your game experience.
 
-As detailed in [[Mistborn Handbook/14 - Ch 13 Gamemastering|chapter 13]], the GM is the lead storyteller and referee of the game. They prepare an adventure for your group to experience, narrate the action, and play the roles of each **non-player character** (NPC) that PCs encounter, whether friend or foe. The GM is also responsible for adjudicating the game’s rules as the story unfolds; as such, it’s important for the GM to be familiar with all rules of the game, even those that only apply to player characters.
+As detailed in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering|chapter 13]], the GM is the lead storyteller and referee of the game. They prepare an adventure for your group to experience, narrate the action, and play the roles of each **non-player character** (NPC) that PCs encounter, whether friend or foe. The GM is also responsible for adjudicating the game’s rules as the story unfolds; as such, it’s important for the GM to be familiar with all rules of the game, even those that only apply to player characters.
 
 After a player decides what their character attempts to do, the GM decides how those actions resolve. Players are free to make suggestions, but the GM has the final say on what ultimately happens in the story. The role of GM is infinitely flexible as they improvise in response to unexpected player choices and dice rolls.
 
@@ -190,7 +190,7 @@ The game itself is played out in a series of sessions where your group gathers t
 
 **The GM narrates the results.** The GM describes the results of the actions you chose. Sometimes this is as simple as describing a new scene, but when your attempted actions carry some risk or chance of failure, the GM might have you roll dice to decide the outcome. Then, based on those results, the GM narrates the outcomes, repeating the loop all over again.
 
-As this cycle continues, the game feels like a casual conversation; you and the GM go back and forth, occasionally interjecting a dice roll to see how things resolve. These steps play out whether you’re gathering evidence against a duplicitous noble, bargaining with a metallurgist, or skirmishing with hazekillers in an alleyway ambush. To help each situation feel unique, the game presents special rules for three scene types: conversations, endeavors, and combat (see “[[Mistborn Handbook/10 - Ch 9 Adventuring|Scenes]]” in chapter 9).
+As this cycle continues, the game feels like a casual conversation; you and the GM go back and forth, occasionally interjecting a dice roll to see how things resolve. These steps play out whether you’re gathering evidence against a duplicitous noble, bargaining with a metallurgist, or skirmishing with hazekillers in an alleyway ambush. To help each situation feel unique, the game presents special rules for three scene types: conversations, endeavors, and combat (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Scenes]]” in chapter 9).
 
 ![[pg008_HB00_Airship Brawl_Andrew Chou.webp]]
 
@@ -200,13 +200,13 @@ As this cycle continues, the game feels like a casual conversation; you and the 
 
 Besides this rulebook, the players need just a few things to play this game:
 
-**Character Sheet.** Each player needs a character sheet to track their unique rules and record what happens to their character during play. You’ll fill out this sheet during character creation in [[Mistborn Handbook/02 - Ch 1 Character Creation|chapter 1]]; you can find a blank sheet in the back of this book or online at [CosmereRPG.com/character-sheets](https://www.cosmererpg.com/downloads).
+**Character Sheet.** Each player needs a character sheet to track their unique rules and record what happens to their character during play. You’ll fill out this sheet during character creation in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation|chapter 1]]; you can find a blank sheet in the back of this book or online at [CosmereRPG.com/character-sheets](https://www.cosmererpg.com/downloads).
 
-**Dice.** The group needs at least one set of polyhedral dice (described in the next section). These dice can be found at hobby stores or online. Additionally, this game uses a unique plot die with special symbols to trigger effects during gameplay. You can buy plot dice online at [CosmereRPG.com/shop](https://www.cosmererpg.com/shop), or you can designate an ordinary six-sided die to use in its place (as described in the upcoming “[[Mistborn Handbook/01 - Introduction#Plot Die|Plot Die]]” section).
+**Dice.** The group needs at least one set of polyhedral dice (described in the next section). These dice can be found at hobby stores or online. Additionally, this game uses a unique plot die with special symbols to trigger effects during gameplay. You can buy plot dice online at [CosmereRPG.com/shop](https://www.cosmererpg.com/shop), or you can designate an ordinary six-sided die to use in its place (as described in the upcoming “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/01 - Introduction#Plot Die|Plot Die]]” section).
 
 **Pencils and Paper.** In addition to pencils for writing on your character sheet, scratch paper can be helpful for taking notes or drawing quick sketches to visualize areas during play.
 
-**Safety Tools.** Before you play, it’s important to establish expectations for your group. Tabletop RPGs can include sensitive material, and safety tools help players steer the narrative away from topics that make them feel uncomfortable or unwelcome. Chapter 13, “[[Mistborn Handbook/14 - Ch 13 Gamemastering|Gamemastering]],” presents a safety guide to help your group navigate these areas.
+**Safety Tools.** Before you play, it’s important to establish expectations for your group. Tabletop RPGs can include sensitive material, and safety tools help players steer the narrative away from topics that make them feel uncomfortable or unwelcome. Chapter 13, “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering|Gamemastering]],” presents a safety guide to help your group navigate these areas.
 
 Additionally, the GM might use some or all of the following resources to enhance the game experience:
 
@@ -214,7 +214,7 @@ Additionally, the GM might use some or all of the following resources to enhance
 
 **Adventures.** The GM can use the *Mistborn World Guide* to design their own custom adventure for your group to play through. Or, if the GM prefers, they can use official published adventures that provide all the resources they’ll need to tell the story.
 
-**Maps and Miniatures.** The Cosmere RPG rules support “theater of the mind” play, but many players enjoy visual aids. Miniatures and grid maps can help track character placement during combat, as described in the “[[Mistborn Handbook/11 - Ch 10 Combat|Variant: Using a Grid]]” section of chapter 10.
+**Maps and Miniatures.** The Cosmere RPG rules support “theater of the mind” play, but many players enjoy visual aids. Miniatures and grid maps can help track character placement during combat, as described in the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Variant: Using a Grid]]” section of chapter 10.
 
 **Music.** A laptop or speaker with music queued up for the right moments can add to the atmosphere of a game table.
 
@@ -226,9 +226,9 @@ Throughout the rules text, these dice are referred to by the letter “d” foll
 
 ## Rolling a Skill Test
 
-Whenever the outcomes of your character’s actions are uncertain, you make a skill test using a d20 to determine whether you succeed or fail. Tests are the core mechanic of this game, so you’ll roll them frequently! The “[[Mistborn Handbook/04 - Ch 3 Character Statistics|Skills]]” section of chapter 3 further details how skill tests work, but tests follow these basic steps:
+Whenever the outcomes of your character’s actions are uncertain, you make a skill test using a d20 to determine whether you succeed or fail. Tests are the core mechanic of this game, so you’ll roll them frequently! The “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics|Skills]]” section of chapter 3 further details how skill tests work, but tests follow these basic steps:
 
-1.  **Pick a skill and roll the dice.** Determine which skill on your character sheet best applies to the situation, then roll one d20. (You might also need to roll other dice at the same time as the d20, as described in “[[Mistborn Handbook/01 - Introduction#Adding Additional Dice|Adding Additional Dice.]]”)
+1.  **Pick a skill and roll the dice.** Determine which skill on your character sheet best applies to the situation, then roll one d20. (You might also need to roll other dice at the same time as the d20, as described in “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/01 - Introduction#Adding Additional Dice|Adding Additional Dice.]]”)
 
 2.  **Add your skill modifier.** The number next to each skill on your character sheet is your skill modifier, reflecting how good you are at that skill. Add it to your d20 roll.
 
@@ -236,7 +236,7 @@ Whenever the outcomes of your character’s actions are uncertain, you make a sk
 
 4.  **Compare your total to the test’s difficulty.** You’re trying to reach a target number known as a difficulty class (or DC). Add up your d20 roll plus modifiers, bonuses, and penalties; if that result equals or exceeds the DC, you succeed at your task.
 
-5.  **Resolve the results.** Resolve the results of the success or failure, as well as any side effects triggered by your abilities or the plot die (described in the “[[Mistborn Handbook/01 - Introduction#Plot Die|Plot Die]]” section).
+5.  **Resolve the results.** Resolve the results of the success or failure, as well as any side effects triggered by your abilities or the plot die (described in the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/01 - Introduction#Plot Die|Plot Die]]” section).
 
 ![[pg009_MST d20 + Plot Die.webp]]
 
@@ -246,11 +246,11 @@ Whenever the outcomes of your character’s actions are uncertain, you make a sk
 
 Some skill tests require adding additional dice to your d20 roll, such as the following:
 
-**Plot Die.** On especially important rolls, the GM might have you add the plot die to introduce Opportunities or Complications to the story. (See “[[Mistborn Handbook/01 - Introduction#Plot Die|Plot Die.]]”)
+**Plot Die.** On especially important rolls, the GM might have you add the plot die to introduce Opportunities or Complications to the story. (See “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/01 - Introduction#Plot Die|Plot Die.]]”)
 
-**Advantage or Disadvantage Die.** When circumstances make your test easier (or harder) than usual, you might roll an additional copy of one or more dice, then pick the most (or least) beneficial result. (See “[[Mistborn Handbook/04 - Ch 3 Character Statistics#Advantages and Disadvantages|Advantages and Disadvantages]]” in chapter 3.)
+**Advantage or Disadvantage Die.** When circumstances make your test easier (or harder) than usual, you might roll an additional copy of one or more dice, then pick the most (or least) beneficial result. (See “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Advantages and Disadvantages|Advantages and Disadvantages]]” in chapter 3.)
 
-**Damage Die.** When you attack an adversary, you add one or more damage dice to your test, which determines how powerful your attack is. (See “[[Mistborn Handbook/11 - Ch 10 Combat|Attacking]]” in chapter 10.)
+**Damage Die.** When you attack an adversary, you add one or more damage dice to your test, which determines how powerful your attack is. (See “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Attacking]]” in chapter 10.)
 
 Unless otherwise instructed, roll any additional dice at the same time as your d20.
 
@@ -262,7 +262,7 @@ In addition to normal polyhedral dice, this game uses a custom die called the pl
 
 When you roll the plot die, the result might add a bonus to your test—but it can also result in unforeseen Opportunities or Complications arising from your actions, as described in the upcoming sections.
 
-The plot die has six sides, two of which are blank. Another two sides have an Opportunity symbol (O), and the final two sides have a Complication symbol (C). If you don’t own this game’s custom plot die, you can instead use a normal d6 and convert the results using the Plot Die diagram. Note that 1 and 2 are the “worst” results, though they offset the Complication by granting a bonus to that test (see “[[Mistborn Handbook/01 - Introduction#Complication Bonus|Complication Bonus]]”). The bonus is equal to the number shown on the Complication symbol—which is double the number rolled on a normal d6.
+The plot die has six sides, two of which are blank. Another two sides have an Opportunity symbol (O), and the final two sides have a Complication symbol (C). If you don’t own this game’s custom plot die, you can instead use a normal d6 and convert the results using the Plot Die diagram. Note that 1 and 2 are the “worst” results, though they offset the Complication by granting a bonus to that test (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/01 - Introduction#Complication Bonus|Complication Bonus]]”). The bonus is equal to the number shown on the Complication symbol—which is double the number rolled on a normal d6.
 
 ![[pg010_MST Plot Die-agram.webp]]
 
@@ -284,13 +284,13 @@ The stakes can only be raised once per test, and they can’t be raised after th
 
 When you roll the plot die with your test, the effect depends on whether you roll an Opportunity, a Complication, or a blank.
 
-If you roll a blank on the plot die, no positive or negative side effects apply to your test, and you resolve the remainder of the test as usual. If you roll an Opportunity or Complication symbol, see “[[Mistborn Handbook/01 - Introduction#Opportunities and Complications|Opportunities and Complications.]]”
+If you roll a blank on the plot die, no positive or negative side effects apply to your test, and you resolve the remainder of the test as usual. If you roll an Opportunity or Complication symbol, see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/01 - Introduction#Opportunities and Complications|Opportunities and Complications.]]”
 
 ### Raising the Stakes Yourself
 
 Some abilities give your character the ability to raise the stakes yourself, though you can only do so if the GM hasn’t already raised the stakes.
 
-Even if you don’t have one of those abilities, you might think a test is worthy of raising the stakes. You can always ask the GM to raise the stakes and advocate for why you think the test warrants it, but it’s ultimately the GM’s call. (The “[[Mistborn Handbook/14 - Ch 13 Gamemastering|Using the Plot Die]]” section of chapter 13 provides guidance for GMs on when and how to raise the stakes.)
+Even if you don’t have one of those abilities, you might think a test is worthy of raising the stakes. You can always ask the GM to raise the stakes and advocate for why you think the test warrants it, but it’s ultimately the GM’s call. (The “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering|Using the Plot Die]]” section of chapter 13 provides guidance for GMs on when and how to raise the stakes.)
 
 ![[pg010_HB00_Miles vs Wayne_Randy Vargas.webp]]
 
@@ -300,35 +300,35 @@ Even if you don’t have one of those abilities, you might think a test is worth
 
 When you make a test, Opportunities and Complications represent beneficial or detrimental side effects related to what happens during the test. These narrative tools add interesting wrinkles to the story as it unfolds.
 
-Your test can gain an Opportunity or Complication when you roll the plot die, when an ability grants it, or when you roll a 20 or 1 on your d20 (see the upcoming “[[Mistborn Handbook/01 - Introduction#Natural 20s and Natural 1s|Natural 20s and Natural 1s]]” section).
+Your test can gain an Opportunity or Complication when you roll the plot die, when an ability grants it, or when you roll a 20 or 1 on your d20 (see the upcoming “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/01 - Introduction#Natural 20s and Natural 1s|Natural 20s and Natural 1s]]” section).
 
 ### Spending an Opportunity
 
-![[Cosmere Opportunity dingbat.svg]]
+![[Cosmere RPG/Cosmere RPG - Mistborn Handbook/attachments/Cosmere Opportunity dingbat.svg]]
 
 When you gain an Opportunity, this applies a beneficial effect to the outcome of your current test (regardless of whether the test succeeds or fails). You can spend this Opportunity to choose one of the following effects:
 
-**Aid an Ally.** Thanks to your actions, the next test made by an ally of your choice gains an advantage (see “[[Mistborn Handbook/04 - Ch 3 Character Statistics#Using Skills|Using Skills]]” in chapter 3).
+**Aid an Ally.** Thanks to your actions, the next test made by an ally of your choice gains an advantage (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Using Skills|Using Skills]]” in chapter 3).
 
-**Collect Yourself.** You recover 1 focus (see “[[Mistborn Handbook/04 - Ch 3 Character Statistics#Focus|Focus]]” in chapter 3).
+**Collect Yourself.** You recover 1 focus (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Focus|Focus]]” in chapter 3).
 
-**Critically Hit.** You change a hit into a critical hit (see “[[Mistborn Handbook/11 - Ch 10 Combat|Attacking]]” in chapter 10). You can only use this effect on attack tests.
+**Critically Hit.** You change a hit into a critical hit (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Attacking]]” in chapter 10). You can only use this effect on attack tests.
 
-**Influence the Narrative.** Your actions result in a positive narrative effect of your choice, which the GM must approve. For example, you might be trying to rough up a Ghostblood agent; if you fail on your ultimate goal but roll an Opportunity on that test, you and your GM might decide you managed to pick the agent’s pocket while you had your hands on them. The “[[Mistborn Handbook/04 - Ch 3 Character Statistics|Skills]]” section of chapter 3 suggests example Opportunities.
+**Influence the Narrative.** Your actions result in a positive narrative effect of your choice, which the GM must approve. For example, you might be trying to rough up a Ghostblood agent; if you fail on your ultimate goal but roll an Opportunity on that test, you and your GM might decide you managed to pick the agent’s pocket while you had your hands on them. The “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics|Skills]]” section of chapter 3 suggests example Opportunities.
 
 Some abilities provide additional ways you can spend an Opportunity. If an ability says you can spend an Opportunity to trigger a special effect, but you don’t roll an Opportunity on that ability’s test, you can’t use that special effect.
 
 ### Facing a Complication
 
-![[Cosmere Complication dingbat.svg]]
+![[Cosmere RPG/Cosmere RPG - Mistborn Handbook/attachments/Cosmere Complication dingbat.svg]]
 
 When you gain a Complication, this applies a negative side effect to the outcome of your current test (regardless of whether the test succeeds or fails). The GM should spend this Complication to choose one of the following effects:
 
-**Hinder an Ally.** Your actions have unforeseen repercussions. The next test taken by a PC gains a disadvantage (see “[[Mistborn Handbook/04 - Ch 3 Character Statistics#Using Skills|Using Skills]]” in chapter 3).
+**Hinder an Ally.** Your actions have unforeseen repercussions. The next test taken by a PC gains a disadvantage (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Using Skills|Using Skills]]” in chapter 3).
 
-**Become Distracted.** You lose 1 focus (see “[[Mistborn Handbook/04 - Ch 3 Character Statistics#Focus|Focus]]” in chapter 3).
+**Become Distracted.** You lose 1 focus (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Focus|Focus]]” in chapter 3).
 
-**Influence the Narrative.** Your actions result in a narrative drawback of the GM’s choice. For example, you might be trying to incite bickering in a crowd to cause a diversion; if you succeed on your ultimate goal but roll a Complication on that test, your GM might decide your provocation worked so well that the crowd packs into a tight area, blocking your path. The “[[Mistborn Handbook/04 - Ch 3 Character Statistics|Skills]]” section of chapter 3 suggests example Complications.
+**Influence the Narrative.** Your actions result in a narrative drawback of the GM’s choice. For example, you might be trying to incite bickering in a crowd to cause a diversion; if you succeed on your ultimate goal but roll a Complication on that test, your GM might decide your provocation worked so well that the crowd packs into a tight area, blocking your path. The “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics|Skills]]” section of chapter 3 suggests example Complications.
 
 Some rules provide additional ways the GM can spend a Complication.
 
@@ -359,11 +359,11 @@ You gain an Opportunity on a test when you roll a **natural 20**—a roll where 
 
 Similarly, you gain a Complication on a test when you roll a **natural 1**—a roll where the die shows the number 1. However, unlike plot die Complications, this Complication doesn’t grant you a bonus to your test.
 
-Some talents and other effects make it easier to gain an Opportunity or Complication by expanding the range of numbers that grant them. See “[[Mistborn Handbook/04 - Ch 3 Character Statistics#Opportunity and Complication Ranges|Opportunity and Complication Ranges]]” in chapter 3 for more details on rolling natural 20s and natural 1s, and on expanding your Opportunity range and Complication range.
+Some talents and other effects make it easier to gain an Opportunity or Complication by expanding the range of numbers that grant them. See “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Opportunity and Complication Ranges|Opportunity and Complication Ranges]]” in chapter 3 for more details on rolling natural 20s and natural 1s, and on expanding your Opportunity range and Complication range.
 
 ## Actions and Reactions
 
-Many of your character’s abilities require you to use an action or reaction. This game’s rules often refer to these using special symbols instead of words. You’ll learn more about actions and reactions in chapter 10, “[[Mistborn Handbook/11 - Ch 10 Combat|Combat,]]” but here are the basics:
+Many of your character’s abilities require you to use an action or reaction. This game’s rules often refer to these using special symbols instead of words. You’ll learn more about actions and reactions in chapter 10, “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Combat,]]” but here are the basics:
 
 **Actions (1).** On your turn in combat, you typically can use either two or three actions. These can allow you to do more than one thing on your turn (for example, moving toward a foe and then attacking them), or you can combine multiple actions into a single longer action (for example, using two actions to Recover lost health). If an ability requires one action, it’s labeled 1; if it requires two actions, it’s labeled 2; and if it requires three actions, it’s labeled 3.
 
@@ -397,7 +397,7 @@ The general rules of the game (such as how to roll dice, use skills in tests, an
 
 ## Stacking Similar Effects
 
-Some effects seemingly overlap with others. In general, similar effects can stack on a target unless the effects share the same name. See “[[Mistborn Handbook/05 - Ch 4 Heroic Paths#Stacking Talents and Effects|Stacking Talents and Effects]]” in chapter 4 for the full rules on which effects stack in this game.
+Some effects seemingly overlap with others. In general, similar effects can stack on a target unless the effects share the same name. See “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths#Stacking Talents and Effects|Stacking Talents and Effects]]” in chapter 4 for the full rules on which effects stack in this game.
 
 ## Minimum of Zero
 
@@ -413,9 +413,9 @@ The stories you tell with the Cosmere RPG can vary in length and complexity. One
 
 ## Levels and Goals
 
-For groups that play longer adventures, each player character grows in two ways: through gaining levels (discussed in the “[[Mistborn Handbook/02 - Ch 1 Character Creation|Character Advancement]]” section of chapter 1) and achieving goals (discussed in [[Mistborn Handbook/09 - Ch 8 Goals and Rewards|chapter 8]]). Gaining levels represents your growth as you practice over time; each level allows you to improve your innate skills and unlock new abilities. Meanwhile, as you pursue and achieve goals unique to your personal narrative, you gain access to powerful rewards (such as acquiring Hemalurgic spikes or allying with powerful nobles who become your patrons).
+For groups that play longer adventures, each player character grows in two ways: through gaining levels (discussed in the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation|Character Advancement]]” section of chapter 1) and achieving goals (discussed in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards|chapter 8]]). Gaining levels represents your growth as you practice over time; each level allows you to improve your innate skills and unlock new abilities. Meanwhile, as you pursue and achieve goals unique to your personal narrative, you gain access to powerful rewards (such as acquiring Hemalurgic spikes or allying with powerful nobles who become your patrons).
 
-As your PCs grow in ability and power, your roles and experiences on Scadrial advance and change. Over time, you’ll progress through five tiers of play (see “[[Mistborn Handbook/02 - Ch 1 Character Creation|Character Advancement]]” in chapter 1). These serve as general guides for what kinds of experiences the PCs can expect and what kinds of stories the GM should be trying to tell.
+As your PCs grow in ability and power, your roles and experiences on Scadrial advance and change. Over time, you’ll progress through five tiers of play (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation|Character Advancement]]” in chapter 1). These serve as general guides for what kinds of experiences the PCs can expect and what kinds of stories the GM should be trying to tell.
 
 ## Example of Play
 

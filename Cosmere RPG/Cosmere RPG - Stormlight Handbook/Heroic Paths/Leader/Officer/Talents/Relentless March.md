@@ -12,4 +12,4 @@ aliases: ["Relentless March"]
 
 *You invigorate your troops, helping them push through fear, pain, and exhaustion under the worst of conditions.*
 
-After you use your [[Heroic Paths/Leader/Decisive Command|Decisive Command]] on an ally, until the end of their next turn, their movement rate increases by 10 feet and they ignore the effects of the **Exhausted**, **Slowed**, and **Surprised** conditions.
+After you use your [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Decisive Command|Decisive Command]] on an ally, until the end of their next turn, their movement rate increases by 10 feet and they ignore the effects of the **Exhausted**, **Slowed**, and **Surprised** conditions.

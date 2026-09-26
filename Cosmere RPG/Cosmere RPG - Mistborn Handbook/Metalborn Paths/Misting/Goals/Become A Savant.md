@@ -14,4 +14,4 @@ After you complete this goal, you gain the following reward:
 
 - When you spend Investiture on this power or its talents, you can amplify its effect as if you spent an additional 2 Investiture, regardless of your Metallic Art limit. This can manifest unusually powerful effects, similar to someone burning duralumin or nicrosil.
 
-- While you have 0 Investiture or are otherwise [[Mistborn Handbook/10 - Ch 9 Adventuring#Depleted|Depleted]] of this power, you suffer withdrawal symptoms. Work with your GM to decide how the nature of your metal affects your withdrawal symptoms (see the “[[Mistborn Handbook/06 - Ch 5 Metalborn Paths|Manifestations of Savantism]]” sidebar).
+- While you have 0 Investiture or are otherwise [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Depleted|Depleted]] of this power, you suffer withdrawal symptoms. Work with your GM to decide how the nature of your metal affects your withdrawal symptoms (see the “[[06 - Ch 5 Metalborn Paths|Manifestations of Savantism]]” sidebar).

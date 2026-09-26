@@ -12,4 +12,4 @@ aliases: ["Aerobic Excellence"]
 
 *You’ve trained your body and mind to stay sharp and maximize the benefits of oxygen.*
 
-Your **Tap Breath**, [[Metallic Arts/Cadmium/Talents/Feruchemy/Deprivation Training|Deprivation Training]], and [[Metallic Arts/Cadmium/Talents/Feruchemy/Boosted Oxygenation|Boosted Oxygenation]] reduce the focus cost of all actions (in addition to reducing the cost of r and 0).
+Your **Tap Breath**, [[Deprivation Training|Deprivation Training]], and [[Boosted Oxygenation|Boosted Oxygenation]] reduce the focus cost of all actions (in addition to reducing the cost of r and 0).

@@ -12,4 +12,4 @@ aliases: ["Raise the Banner"]
 
 *United under a momentous cause, you inspire your fellow insurgents by deftly supporting them in time of need.*
 
-When you use the [[Actions/Basic/Aid|Aid]] reaction on an ally, they recover 1 focus.
+When you use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Aid|Aid]] reaction on an ally, they recover 1 focus.

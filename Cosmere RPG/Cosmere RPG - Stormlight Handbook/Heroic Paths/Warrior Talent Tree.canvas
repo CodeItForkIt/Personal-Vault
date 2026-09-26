@@ -1,421 +1,56 @@
 {
-  "nodes": [
-    {
-      "id": "Cqx0B3rp0Difwr3n",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Soldier/Talents/Cautious Advance.md",
-      "x": 340,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "OYcg51vkNrDceKR1",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Soldier/Talents/Combat Training.md",
-      "x": 340,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "9iwqXlfJWsySFuax",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Duelist/Talents/Flamestance.md",
-      "x": 340,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "8fBzOnrcWhqUUqnj",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Duelist/Talents/Practiced Kata.md",
-      "x": 340,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "zHGLrNYBlh1r7VKa",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Shardbearer/Talents/Shard Training.md",
-      "x": 340,
-      "y": 480,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "dCAJ4ELZRk5iOb8r",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Shardbearer/Talents/Stonestance.md",
-      "x": 340,
-      "y": 600,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "xnHTVeD8fVuIW1oH",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Shardbearer/Talents/Bloodstance.md",
-      "x": 1020,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "LaMCzULljr9vXDqx",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Soldier/Talents/Formation Drills.md",
-      "x": 1020,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "l563Pto1BeRuc3AZ",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Shardbearer/Talents/Shattering Blow.md",
-      "x": 1020,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "aYtUaW8wgz579wtS",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Duelist/Talents/Surefooted.md",
-      "x": 1020,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "R5SfwYaQDcuakxtK",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Soldier/Talents/Swift Strikes.md",
-      "x": 1020,
-      "y": 480,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "PuV9TAGsWqSdmf9y",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Duelist/Talents/Vinestance.md",
-      "x": 1020,
-      "y": 600,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "ItdnGHVaBlvIiGUo",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Soldier/Talents/Wary.md",
-      "x": 1020,
-      "y": 720,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "YcFyiFWAXwRwZR3o",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Duelist/Talents/Wits End.md",
-      "x": 1020,
-      "y": 840,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "Frzf667tMXppwTV5",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Soldier/Talents/Defensive Position.md",
-      "x": 680,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "JTqjP2r1NvYzqHfq",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Soldier/Talents/Devastating Blow.md",
-      "x": 680,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "MK52rooQSyK0eqvi",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Duelist/Talents/Feinting Strike.md",
-      "x": 680,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "xgdoLALQyzbxs0Yu",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Soldier/Talents/Hardy.md",
-      "x": 680,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "rVjTILXp0zNpR4zF",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Duelist/Talents/Ironstance.md",
-      "x": 680,
-      "y": 480,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "GJ5WJ46WQ3g30Yzf",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Shardbearer/Talents/Mighty.md",
-      "x": 680,
-      "y": 600,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "VALC0o87S2DMxeME",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Duelist/Talents/Signature Weapon.md",
-      "x": 680,
-      "y": 720,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "vy2jkKCe0gM2Wd5v",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Shardbearer/Talents/Windstance.md",
-      "x": 680,
-      "y": 840,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "YNbaL5ywkmne7ejP",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Shardbearer/Talents/Meteoric Leap.md",
-      "x": 1360,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "yjr7SuNlMcRqspfw",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Shardbearer/Talents/Precise Parry.md",
-      "x": 1360,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "8mJC2HnsN3OQ2J20",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Vigilant Stance.md",
-      "x": 0,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    }
-  ],
-  "edges": [
-    {
-      "id": "edge0",
-      "fromNode": "8mJC2HnsN3OQ2J20",
-      "fromSide": "right",
-      "toNode": "8fBzOnrcWhqUUqnj",
-      "toSide": "left",
-      "label": "or"
-    },
-    {
-      "id": "edge1",
-      "fromNode": "8mJC2HnsN3OQ2J20",
-      "fromSide": "right",
-      "toNode": "9iwqXlfJWsySFuax",
-      "toSide": "left",
-      "label": "or"
-    },
-    {
-      "id": "edge2",
-      "fromNode": "8mJC2HnsN3OQ2J20",
-      "fromSide": "right",
-      "toNode": "Cqx0B3rp0Difwr3n",
-      "toSide": "left",
-      "label": "or"
-    },
-    {
-      "id": "edge3",
-      "fromNode": "Cqx0B3rp0Difwr3n",
-      "fromSide": "right",
-      "toNode": "Frzf667tMXppwTV5",
-      "toSide": "left",
-      "label": "or"
-    },
-    {
-      "id": "edge4",
-      "fromNode": "dCAJ4ELZRk5iOb8r",
-      "fromSide": "right",
-      "toNode": "GJ5WJ46WQ3g30Yzf",
-      "toSide": "left"
-    },
-    {
-      "id": "edge5",
-      "fromNode": "Frzf667tMXppwTV5",
-      "fromSide": "right",
-      "toNode": "ItdnGHVaBlvIiGUo",
-      "toSide": "left",
-      "label": "or"
-    },
-    {
-      "id": "edge6",
-      "fromNode": "OYcg51vkNrDceKR1",
-      "fromSide": "right",
-      "toNode": "JTqjP2r1NvYzqHfq",
-      "toSide": "left",
-      "label": "or"
-    },
-    {
-      "id": "edge7",
-      "fromNode": "Frzf667tMXppwTV5",
-      "fromSide": "right",
-      "toNode": "LaMCzULljr9vXDqx",
-      "toSide": "left",
-      "label": "or"
-    },
-    {
-      "id": "edge8",
-      "fromNode": "9iwqXlfJWsySFuax",
-      "fromSide": "right",
-      "toNode": "MK52rooQSyK0eqvi",
-      "toSide": "left",
-      "label": "or"
-    },
-    {
-      "id": "edge9",
-      "fromNode": "8mJC2HnsN3OQ2J20",
-      "fromSide": "right",
-      "toNode": "OYcg51vkNrDceKR1",
-      "toSide": "left",
-      "label": "or"
-    },
-    {
-      "id": "edge10",
-      "fromNode": "MK52rooQSyK0eqvi",
-      "fromSide": "right",
-      "toNode": "PuV9TAGsWqSdmf9y",
-      "toSide": "left",
-      "label": "or"
-    },
-    {
-      "id": "edge11",
-      "fromNode": "xgdoLALQyzbxs0Yu",
-      "fromSide": "right",
-      "toNode": "R5SfwYaQDcuakxtK",
-      "toSide": "left",
-      "label": "or"
-    },
-    {
-      "id": "edge12",
-      "fromNode": "9iwqXlfJWsySFuax",
-      "fromSide": "right",
-      "toNode": "VALC0o87S2DMxeME",
-      "toSide": "left",
-      "label": "or"
-    },
-    {
-      "id": "edge13",
-      "fromNode": "xnHTVeD8fVuIW1oH",
-      "fromSide": "right",
-      "toNode": "YNbaL5ywkmne7ejP",
-      "toSide": "left"
-    },
-    {
-      "id": "edge14",
-      "fromNode": "MK52rooQSyK0eqvi",
-      "fromSide": "right",
-      "toNode": "YcFyiFWAXwRwZR3o",
-      "toSide": "left",
-      "label": "or"
-    },
-    {
-      "id": "edge15",
-      "fromNode": "rVjTILXp0zNpR4zF",
-      "fromSide": "right",
-      "toNode": "aYtUaW8wgz579wtS",
-      "toSide": "left"
-    },
-    {
-      "id": "edge16",
-      "fromNode": "8mJC2HnsN3OQ2J20",
-      "fromSide": "right",
-      "toNode": "dCAJ4ELZRk5iOb8r",
-      "toSide": "left"
-    },
-    {
-      "id": "edge17",
-      "fromNode": "vy2jkKCe0gM2Wd5v",
-      "fromSide": "right",
-      "toNode": "l563Pto1BeRuc3AZ",
-      "toSide": "left"
-    },
-    {
-      "id": "edge18",
-      "fromNode": "8fBzOnrcWhqUUqnj",
-      "fromSide": "right",
-      "toNode": "rVjTILXp0zNpR4zF",
-      "toSide": "left",
-      "label": "or"
-    },
-    {
-      "id": "edge19",
-      "fromNode": "zHGLrNYBlh1r7VKa",
-      "fromSide": "right",
-      "toNode": "vy2jkKCe0gM2Wd5v",
-      "toSide": "left"
-    },
-    {
-      "id": "edge20",
-      "fromNode": "OYcg51vkNrDceKR1",
-      "fromSide": "right",
-      "toNode": "xgdoLALQyzbxs0Yu",
-      "toSide": "left",
-      "label": "or"
-    },
-    {
-      "id": "edge21",
-      "fromNode": "GJ5WJ46WQ3g30Yzf",
-      "fromSide": "right",
-      "toNode": "xnHTVeD8fVuIW1oH",
-      "toSide": "left"
-    },
-    {
-      "id": "edge22",
-      "fromNode": "zHGLrNYBlh1r7VKa",
-      "fromSide": "right",
-      "toNode": "xnHTVeD8fVuIW1oH",
-      "toSide": "left"
-    },
-    {
-      "id": "edge23",
-      "fromNode": "l563Pto1BeRuc3AZ",
-      "fromSide": "right",
-      "toNode": "yjr7SuNlMcRqspfw",
-      "toSide": "left"
-    },
-    {
-      "id": "edge24",
-      "fromNode": "8mJC2HnsN3OQ2J20",
-      "fromSide": "right",
-      "toNode": "zHGLrNYBlh1r7VKa",
-      "toSide": "left"
-    }
-  ]
+	"nodes":[
+		{"id":"Cqx0B3rp0Difwr3n","type":"file","file":"Heroic Paths/Warrior/Soldier/Talents/Cautious Advance.md","x":340,"y":0,"width":280,"height":90},
+		{"id":"OYcg51vkNrDceKR1","type":"file","file":"Heroic Paths/Warrior/Soldier/Talents/Combat Training.md","x":340,"y":120,"width":280,"height":90},
+		{"id":"9iwqXlfJWsySFuax","type":"file","file":"Heroic Paths/Warrior/Duelist/Talents/Flamestance.md","x":340,"y":240,"width":280,"height":90},
+		{"id":"8fBzOnrcWhqUUqnj","type":"file","file":"Heroic Paths/Warrior/Duelist/Talents/Practiced Kata.md","x":340,"y":360,"width":280,"height":90},
+		{"id":"zHGLrNYBlh1r7VKa","type":"file","file":"Heroic Paths/Warrior/Shardbearer/Talents/Shard Training.md","x":340,"y":480,"width":280,"height":90},
+		{"id":"dCAJ4ELZRk5iOb8r","type":"file","file":"Heroic Paths/Warrior/Shardbearer/Talents/Stonestance.md","x":340,"y":600,"width":280,"height":90},
+		{"id":"xnHTVeD8fVuIW1oH","type":"file","file":"Heroic Paths/Warrior/Shardbearer/Talents/Bloodstance.md","x":1020,"y":0,"width":280,"height":90},
+		{"id":"LaMCzULljr9vXDqx","type":"file","file":"Heroic Paths/Warrior/Soldier/Talents/Formation Drills.md","x":1020,"y":120,"width":280,"height":90},
+		{"id":"l563Pto1BeRuc3AZ","type":"file","file":"Heroic Paths/Warrior/Shardbearer/Talents/Shattering Blow.md","x":1020,"y":240,"width":280,"height":90},
+		{"id":"aYtUaW8wgz579wtS","type":"file","file":"Heroic Paths/Warrior/Duelist/Talents/Surefooted.md","x":1020,"y":360,"width":280,"height":90},
+		{"id":"R5SfwYaQDcuakxtK","type":"file","file":"Heroic Paths/Warrior/Soldier/Talents/Swift Strikes.md","x":1020,"y":480,"width":280,"height":90},
+		{"id":"PuV9TAGsWqSdmf9y","type":"file","file":"Heroic Paths/Warrior/Duelist/Talents/Vinestance.md","x":1020,"y":600,"width":280,"height":90},
+		{"id":"ItdnGHVaBlvIiGUo","type":"file","file":"Heroic Paths/Warrior/Soldier/Talents/Wary.md","x":1020,"y":720,"width":280,"height":90},
+		{"id":"YcFyiFWAXwRwZR3o","type":"file","file":"Heroic Paths/Warrior/Duelist/Talents/Wits End.md","x":1020,"y":840,"width":280,"height":90},
+		{"id":"Frzf667tMXppwTV5","type":"file","file":"Heroic Paths/Warrior/Soldier/Talents/Defensive Position.md","x":680,"y":0,"width":280,"height":90},
+		{"id":"JTqjP2r1NvYzqHfq","type":"file","file":"Heroic Paths/Warrior/Soldier/Talents/Devastating Blow.md","x":680,"y":120,"width":280,"height":90},
+		{"id":"MK52rooQSyK0eqvi","type":"file","file":"Heroic Paths/Warrior/Duelist/Talents/Feinting Strike.md","x":680,"y":240,"width":280,"height":90},
+		{"id":"xgdoLALQyzbxs0Yu","type":"file","file":"Heroic Paths/Warrior/Soldier/Talents/Hardy.md","x":680,"y":360,"width":280,"height":90},
+		{"id":"rVjTILXp0zNpR4zF","type":"file","file":"Heroic Paths/Warrior/Duelist/Talents/Ironstance.md","x":680,"y":480,"width":280,"height":90},
+		{"id":"GJ5WJ46WQ3g30Yzf","type":"file","file":"Heroic Paths/Warrior/Shardbearer/Talents/Mighty.md","x":680,"y":600,"width":280,"height":90},
+		{"id":"VALC0o87S2DMxeME","type":"file","file":"Heroic Paths/Warrior/Duelist/Talents/Signature Weapon.md","x":680,"y":720,"width":280,"height":90},
+		{"id":"vy2jkKCe0gM2Wd5v","type":"file","file":"Heroic Paths/Warrior/Shardbearer/Talents/Windstance.md","x":680,"y":840,"width":280,"height":90},
+		{"id":"YNbaL5ywkmne7ejP","type":"file","file":"Heroic Paths/Warrior/Shardbearer/Talents/Meteoric Leap.md","x":1360,"y":0,"width":280,"height":90},
+		{"id":"yjr7SuNlMcRqspfw","type":"file","file":"Heroic Paths/Warrior/Shardbearer/Talents/Precise Parry.md","x":1360,"y":120,"width":280,"height":90},
+		{"id":"8mJC2HnsN3OQ2J20","type":"file","file":"Heroic Paths/Warrior/Vigilant Stance.md","x":0,"y":0,"width":280,"height":90}
+	],
+	"edges":[
+		{"id":"edge0","fromNode":"8mJC2HnsN3OQ2J20","fromSide":"right","toNode":"8fBzOnrcWhqUUqnj","toSide":"left","label":"or"},
+		{"id":"edge1","fromNode":"8mJC2HnsN3OQ2J20","fromSide":"right","toNode":"9iwqXlfJWsySFuax","toSide":"left","label":"or"},
+		{"id":"edge2","fromNode":"8mJC2HnsN3OQ2J20","fromSide":"right","toNode":"Cqx0B3rp0Difwr3n","toSide":"left","label":"or"},
+		{"id":"edge3","fromNode":"Cqx0B3rp0Difwr3n","fromSide":"right","toNode":"Frzf667tMXppwTV5","toSide":"left","label":"or"},
+		{"id":"edge4","fromNode":"dCAJ4ELZRk5iOb8r","fromSide":"right","toNode":"GJ5WJ46WQ3g30Yzf","toSide":"left"},
+		{"id":"edge5","fromNode":"Frzf667tMXppwTV5","fromSide":"right","toNode":"ItdnGHVaBlvIiGUo","toSide":"left","label":"or"},
+		{"id":"edge6","fromNode":"OYcg51vkNrDceKR1","fromSide":"right","toNode":"JTqjP2r1NvYzqHfq","toSide":"left","label":"or"},
+		{"id":"edge7","fromNode":"Frzf667tMXppwTV5","fromSide":"right","toNode":"LaMCzULljr9vXDqx","toSide":"left","label":"or"},
+		{"id":"edge8","fromNode":"9iwqXlfJWsySFuax","fromSide":"right","toNode":"MK52rooQSyK0eqvi","toSide":"left","label":"or"},
+		{"id":"edge9","fromNode":"8mJC2HnsN3OQ2J20","fromSide":"right","toNode":"OYcg51vkNrDceKR1","toSide":"left","label":"or"},
+		{"id":"edge10","fromNode":"MK52rooQSyK0eqvi","fromSide":"right","toNode":"PuV9TAGsWqSdmf9y","toSide":"left","label":"or"},
+		{"id":"edge11","fromNode":"xgdoLALQyzbxs0Yu","fromSide":"right","toNode":"R5SfwYaQDcuakxtK","toSide":"left","label":"or"},
+		{"id":"edge12","fromNode":"9iwqXlfJWsySFuax","fromSide":"right","toNode":"VALC0o87S2DMxeME","toSide":"left","label":"or"},
+		{"id":"edge13","fromNode":"xnHTVeD8fVuIW1oH","fromSide":"right","toNode":"YNbaL5ywkmne7ejP","toSide":"left"},
+		{"id":"edge14","fromNode":"MK52rooQSyK0eqvi","fromSide":"right","toNode":"YcFyiFWAXwRwZR3o","toSide":"left","label":"or"},
+		{"id":"edge15","fromNode":"rVjTILXp0zNpR4zF","fromSide":"right","toNode":"aYtUaW8wgz579wtS","toSide":"left"},
+		{"id":"edge16","fromNode":"8mJC2HnsN3OQ2J20","fromSide":"right","toNode":"dCAJ4ELZRk5iOb8r","toSide":"left"},
+		{"id":"edge17","fromNode":"vy2jkKCe0gM2Wd5v","fromSide":"right","toNode":"l563Pto1BeRuc3AZ","toSide":"left"},
+		{"id":"edge18","fromNode":"8fBzOnrcWhqUUqnj","fromSide":"right","toNode":"rVjTILXp0zNpR4zF","toSide":"left","label":"or"},
+		{"id":"edge19","fromNode":"zHGLrNYBlh1r7VKa","fromSide":"right","toNode":"vy2jkKCe0gM2Wd5v","toSide":"left"},
+		{"id":"edge20","fromNode":"OYcg51vkNrDceKR1","fromSide":"right","toNode":"xgdoLALQyzbxs0Yu","toSide":"left","label":"or"},
+		{"id":"edge21","fromNode":"GJ5WJ46WQ3g30Yzf","fromSide":"right","toNode":"xnHTVeD8fVuIW1oH","toSide":"left"},
+		{"id":"edge22","fromNode":"zHGLrNYBlh1r7VKa","fromSide":"right","toNode":"xnHTVeD8fVuIW1oH","toSide":"left"},
+		{"id":"edge23","fromNode":"l563Pto1BeRuc3AZ","fromSide":"right","toNode":"yjr7SuNlMcRqspfw","toSide":"left"},
+		{"id":"edge24","fromNode":"8mJC2HnsN3OQ2J20","fromSide":"right","toNode":"zHGLrNYBlh1r7VKa","toSide":"left"}
+	]
 }

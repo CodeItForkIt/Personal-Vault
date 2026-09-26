@@ -14,7 +14,7 @@ aliases: ["True Connecting"]
 
 When you **Tap Connection**, instead of just spending 1 charge, you can spend any number of charges, up to your Metallic Art limit. When you do, you experience the following effects until the end of your next turn (instead of the usual effects and duration):
 
-- You become [[Mistborn Handbook/10 - Ch 9 Adventuring#Enhanced|Enhanced]] [**Presence**]. The bonus to this attribute equals 1 + the charges you spent to tap Connection.
+- You become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Enhanced|Enhanced]] [**Presence**]. The bonus to this attribute equals 1 + the charges you spent to tap Connection.
 
 - When a character attempts to resist your influence, it costs them additional focus equal to 1 + the charges you spent to tap Connection.
 

@@ -14,4 +14,4 @@ aliases: ["Regenerate"]
 
 Spend 1 Investiture to recover health equal to `1d6 + @tier`; for example, a tier 2 character recovers .
 
-You can use this free action even if you’re [[Mistborn Handbook/10 - Ch 9 Adventuring#Unconscious|Unconscious]] or otherwise prevented from using actions.
+You can use this free action even if you’re [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Unconscious|Unconscious]] or otherwise prevented from using actions.

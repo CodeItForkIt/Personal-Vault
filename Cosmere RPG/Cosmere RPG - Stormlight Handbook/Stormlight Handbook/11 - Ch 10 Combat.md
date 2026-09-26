@@ -97,9 +97,9 @@ The actions, free actions, and reactions presented in this section are available
 > [!info] Action Packed
 > Three action packs have been included to help you quickly fill out your character sheet. These packs can be dragged onto your character sheet to instantly add all of their included actions.
 >
-> The [[Actions/Uncategorized/Basic Actions Pack|Basic Actions Pack]] includes **ALL** basic actions & reactions listed in this section.
+> The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Uncategorized/Basic Actions Pack|Basic Actions Pack]] includes **ALL** basic actions & reactions listed in this section.
 >
-> The [[Actions/Uncategorized/Common Actions Pack|Common Actions Pack]] only has the basic actions & reactions that you'll use more often such as Aid or Dodge!
+> The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Uncategorized/Common Actions Pack|Common Actions Pack]] only has the basic actions & reactions that you'll use more often such as Aid or Dodge!
 >
 > The [[Actions/Uncategorized/Stormlight Actions Pack|Stormlight Actions Pack]] adds the three basic stormlight actions: [[Actions/Stormlight/Breathe Stormlight|Breathe Stormlight]], [[Actions/Stormlight/Enhance|Enhance]], and [[Actions/Stormlight/Regenerate|Regenerate]].
 
@@ -121,7 +121,7 @@ On your turn, you can spend your available 1 to use any of the actions listed be
 > [!tip] Improvising Actions
 > This game’s combat rules can help you coordinate many variables in a complex and chaotic scene, but ultimately, rules exist to support you and your character’s story. Your character can accomplish—or at least attempt—nearly anything you can imagine, so don’t feel limited by just the actions in this book.
 >
-> If you want to attempt something creative, describe it to your GM. Many things can be covered by broad actions such as [[Actions/Basic/Use A Skill|Use a Skill]], but for those that can’t, your GM will give you guidelines on whether a task is possible and how to determine whether it works.
+> If you want to attempt something creative, describe it to your GM. Many things can be covered by broad actions such as [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Use A Skill|Use a Skill]], but for those that can’t, your GM will give you guidelines on whether a task is possible and how to determine whether it works.
 
 ## Free Actions
 
@@ -135,13 +135,13 @@ However, like actions, each free action (including those from talents and other 
 
 Though reactions can be triggered on your turn, they’re typically triggered on another character’s turn in response to something they do.
 
-You usually only have one reaction per round. If an effect grants you more than one reaction at a time, you can’t simultaneously use both of your reactions on the same trigger, but you can use the same type of reaction on two separate triggering events (for example, you can use [[Actions/Basic/Aid|Aid]] on two separate tests an ally makes on their turn).
+You usually only have one reaction per round. If an effect grants you more than one reaction at a time, you can’t simultaneously use both of your reactions on the same trigger, but you can use the same type of reaction on two separate triggering events (for example, you can use [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Aid|Aid]] on two separate tests an ally makes on their turn).
 
 You can spend your available r to use any of the reactions listed below, or to use any reactions granted by your talents or other effects.
 
 ## Attacking
 
-When you **attack** a target, you roll to see how well your attack hits. These attacks can be weapon attacks made with the [[Actions/Basic/Strike|Strike]] action, special attacks granted by talents, or even attacks that use the powers of the surges.
+When you **attack** a target, you roll to see how well your attack hits. These attacks can be weapon attacks made with the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Strike|Strike]] action, special attacks granted by talents, or even attacks that use the powers of the surges.
 
 Attacks always include an **attack test**. This is a special kind of skill test with a few extra rules, as described in Making an Attack. The primary distinction between attacks and other skill tests is that attacks are meant to deal damage to their target.
 
@@ -238,7 +238,7 @@ Some attacks have multiple targets. For these attacks, roll your attack test and
 
 Adding variety to combat is fun, whether you’re disarming your foe or pinning their hand to the table. To keep things simple, this game doesn’t provide separate rules for a long list of combat maneuvers, but that doesn’t mean they can’t be part of your story.
 
-In general, if you want to execute a creative maneuver with your weapon, that falls under the Strike action (see [[Stormlight Handbook/11 - Ch 10 Combat|Actions and Reactions]] earlier in this chapter). When you [[Actions/Basic/Strike|Strike]], describe how you want to attack; if the GM agrees your maneuver is possible, they’ll choose a defense for you to target (and potentially add one or more disadvantages, depending on how complex your maneuver is). If this attack test succeeds, the GM determines any narrative or mechanical effects of your maneuver (in addition to the normal damage dealt).
+In general, if you want to execute a creative maneuver with your weapon, that falls under the Strike action (see [[Stormlight Handbook/11 - Ch 10 Combat|Actions and Reactions]] earlier in this chapter). When you [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Strike|Strike]], describe how you want to attack; if the GM agrees your maneuver is possible, they’ll choose a defense for you to target (and potentially add one or more disadvantages, depending on how complex your maneuver is). If this attack test succeeds, the GM determines any narrative or mechanical effects of your maneuver (in addition to the normal damage dealt).
 
 Heavy weapons tend to favor maneuvers that damage things in the environment, drive back foes, or otherwise take advantage of the weapon’s weight and reach. When testing Heavy Weaponry, the GM might apply fewer disadvantages to maneuvers that exploit these strengths.
 
@@ -414,7 +414,7 @@ Certain terrain on the battlefield can affect combatants.
 
 ### Cover
 
-You can use nearby obstacles as **cover** if they block an enemy’s line of effect to you, or if they otherwise could reasonably block weapons, protect against projectiles, or make you harder to perceive. When within 5 feet of cover, you can use the [[Actions/Basic/Brace|Brace]] action to add a disadvantage to most incoming attacks.
+You can use nearby obstacles as **cover** if they block an enemy’s line of effect to you, or if they otherwise could reasonably block weapons, protect against projectiles, or make you harder to perceive. When within 5 feet of cover, you can use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Brace|Brace]] action to add a disadvantage to most incoming attacks.
 
 ### Difficult Terrain
 
@@ -498,7 +498,7 @@ If you have a utility expertise in riding your particular mount (such as an expe
 
 ## Attacking Mounts
 
-You can target a mount or rider with attacks and other abilities—but so can your enemies! For example, if you trigger a [[Actions/Basic/Reactive Strike|Reactive Strike]] while riding a mount, the enemy might choose to attack your mount instead of you.
+You can target a mount or rider with attacks and other abilities—but so can your enemies! For example, if you trigger a [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Reactive Strike|Reactive Strike]] while riding a mount, the enemy might choose to attack your mount instead of you.
 
 If you make a melee attack against a rider whose mount is bigger than you, you gain a disadvantage on the attack unless you’re also riding a mount of that size or larger.
 

@@ -14,6 +14,6 @@ aliases: ["Hardened Will"]
 
 The first time you **Tap Determination** in each scene, choose one of the following effects, which applies until the end of the scene:
 
-- You become [[Mistborn Handbook/10 - Ch 9 Adventuring#Determined|Determined]].
+- You become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Determined|Determined]].
 
 - Choose a temporary injury you’re suffering. You ignore the effects of that injury (but the injury still exists and applies a penalty to injury rolls).

@@ -1,406 +1,56 @@
 {
-  "nodes": [
-    {
-      "id": "KOyI1QENwrdG8Wed",
-      "type": "file",
-      "file": "Heroic Paths/Hunter/Tracker/Talents/Animal Bond.md",
-      "x": 340,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "jOQtwAZYVYJM8dDP",
-      "type": "file",
-      "file": "Heroic Paths/Hunter/Tracker/Talents/Deadly Trap.md",
-      "x": 340,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "uN7XofssJ64Onjbh",
-      "type": "file",
-      "file": "Heroic Paths/Hunter/Sharpshooter/Talents/Fire Discipline.md",
-      "x": 340,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "0I6b1Ywi6JBZfLI9",
-      "type": "file",
-      "file": "Heroic Paths/Hunter/Hazekiller/Talents/Hazekiller Weaponry.md",
-      "x": 340,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "mydwmVkhS0WCqzgq",
-      "type": "file",
-      "file": "Heroic Paths/Hunter/Hazekiller/Talents/Seek Allomancer.md",
-      "x": 340,
-      "y": 480,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "Wk4QYcvwbrsODMA2",
-      "type": "file",
-      "file": "Heroic Paths/Hunter/Sharpshooter/Talents/Sharp Eye.md",
-      "x": 340,
-      "y": 600,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "JgDg9rC3OeYMfw2j",
-      "type": "file",
-      "file": "Heroic Paths/Hunter/Sharpshooter/Talents/Deadly Aim.md",
-      "x": 1360,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "ag24qgsQb61WgKjE",
-      "type": "file",
-      "file": "Heroic Paths/Hunter/Hazekiller/Talents/Extinguish.md",
-      "x": 1360,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "DdcbznOQysubLbsB",
-      "type": "file",
-      "file": "Heroic Paths/Hunter/Hazekiller/Talents/Reckless Ferocity.md",
-      "x": 1360,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "UBcuttJDtZ0EFILp",
-      "type": "file",
-      "file": "Heroic Paths/Hunter/Sharpshooter/Talents/Composed.md",
-      "x": 1020,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "8ITYQdeEJMtu4boU",
-      "type": "file",
-      "file": "Heroic Paths/Hunter/Sharpshooter/Talents/Crack Shot.md",
-      "x": 1020,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "RD7OSeKTZh1unLI6",
-      "type": "file",
-      "file": "Heroic Paths/Hunter/Tracker/Talents/Feral Connection.md",
-      "x": 1020,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "o30r8w5r4lXjxya4",
-      "type": "file",
-      "file": "Heroic Paths/Hunter/Tracker/Talents/Hunters Edge.md",
-      "x": 1020,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "xi0srBcIQBI3jTxv",
-      "type": "file",
-      "file": "Heroic Paths/Hunter/Tracker/Talents/Pack Hunting.md",
-      "x": 1020,
-      "y": 480,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "wccZMetC0HAYY2DE",
-      "type": "file",
-      "file": "Heroic Paths/Hunter/Tracker/Talents/Surefooted.md",
-      "x": 1020,
-      "y": 600,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "b7aIxThiVUwlYZ6P",
-      "type": "file",
-      "file": "Heroic Paths/Hunter/Sharpshooter/Talents/Swift Targeting.md",
-      "x": 1020,
-      "y": 720,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "ByEXXrv1bt76O0C4",
-      "type": "file",
-      "file": "Heroic Paths/Hunter/Hazekiller/Talents/Two Steps Ahead.md",
-      "x": 1020,
-      "y": 840,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "QS5BHb4P9XCp4ol3",
-      "type": "file",
-      "file": "Heroic Paths/Hunter/Hazekiller/Talents/Collected.md",
-      "x": 680,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "0TCtz7wr8KiXIKc3",
-      "type": "file",
-      "file": "Heroic Paths/Hunter/Sharpshooter/Talents/Deft Drop.md",
-      "x": 680,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "PJ9TrJ2pLgbxAAA7",
-      "type": "file",
-      "file": "Heroic Paths/Hunter/Hazekiller/Talents/Delicate Touch.md",
-      "x": 680,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "nLlbKP3fHUSbnFZO",
-      "type": "file",
-      "file": "Heroic Paths/Hunter/Tracker/Talents/Experienced Trapper.md",
-      "x": 680,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "LbydXtzhMD1oPIOM",
-      "type": "file",
-      "file": "Heroic Paths/Hunter/Tracker/Talents/Protective Bond.md",
-      "x": 680,
-      "y": 480,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "0spGveFwVeO3TVnA",
-      "type": "file",
-      "file": "Heroic Paths/Hunter/Sharpshooter/Talents/Steady Aim.md",
-      "x": 680,
-      "y": 600,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "bsowIK32HFCnbDsL",
-      "type": "file",
-      "file": "Heroic Paths/Hunter/Seek Quarry.md",
-      "x": 0,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "SCoTojVGaiZ08iaZ",
-      "type": "file",
-      "file": "Heroic Paths/Hunter/Hazekiller/Talents/Foresight.md",
-      "x": 1700,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    }
-  ],
-  "edges": [
-    {
-      "id": "edge0",
-      "fromNode": "bsowIK32HFCnbDsL",
-      "fromSide": "right",
-      "toNode": "0I6b1Ywi6JBZfLI9",
-      "toSide": "left"
-    },
-    {
-      "id": "edge1",
-      "fromNode": "uN7XofssJ64Onjbh",
-      "fromSide": "right",
-      "toNode": "0TCtz7wr8KiXIKc3",
-      "toSide": "left"
-    },
-    {
-      "id": "edge2",
-      "fromNode": "Wk4QYcvwbrsODMA2",
-      "fromSide": "right",
-      "toNode": "0spGveFwVeO3TVnA",
-      "toSide": "left"
-    },
-    {
-      "id": "edge3",
-      "fromNode": "0TCtz7wr8KiXIKc3",
-      "fromSide": "right",
-      "toNode": "8ITYQdeEJMtu4boU",
-      "toSide": "left"
-    },
-    {
-      "id": "edge4",
-      "fromNode": "QS5BHb4P9XCp4ol3",
-      "fromSide": "right",
-      "toNode": "ByEXXrv1bt76O0C4",
-      "toSide": "left"
-    },
-    {
-      "id": "edge5",
-      "fromNode": "ByEXXrv1bt76O0C4",
-      "fromSide": "right",
-      "toNode": "DdcbznOQysubLbsB",
-      "toSide": "left"
-    },
-    {
-      "id": "edge6",
-      "fromNode": "UBcuttJDtZ0EFILp",
-      "fromSide": "right",
-      "toNode": "JgDg9rC3OeYMfw2j",
-      "toSide": "left"
-    },
-    {
-      "id": "edge7",
-      "fromNode": "bsowIK32HFCnbDsL",
-      "fromSide": "right",
-      "toNode": "KOyI1QENwrdG8Wed",
-      "toSide": "left"
-    },
-    {
-      "id": "edge8",
-      "fromNode": "KOyI1QENwrdG8Wed",
-      "fromSide": "right",
-      "toNode": "LbydXtzhMD1oPIOM",
-      "toSide": "left"
-    },
-    {
-      "id": "edge9",
-      "fromNode": "0I6b1Ywi6JBZfLI9",
-      "fromSide": "right",
-      "toNode": "PJ9TrJ2pLgbxAAA7",
-      "toSide": "left"
-    },
-    {
-      "id": "edge10",
-      "fromNode": "mydwmVkhS0WCqzgq",
-      "fromSide": "right",
-      "toNode": "QS5BHb4P9XCp4ol3",
-      "toSide": "left"
-    },
-    {
-      "id": "edge11",
-      "fromNode": "LbydXtzhMD1oPIOM",
-      "fromSide": "right",
-      "toNode": "RD7OSeKTZh1unLI6",
-      "toSide": "left"
-    },
-    {
-      "id": "edge12",
-      "fromNode": "ag24qgsQb61WgKjE",
-      "fromSide": "right",
-      "toNode": "SCoTojVGaiZ08iaZ",
-      "toSide": "left"
-    },
-    {
-      "id": "edge13",
-      "fromNode": "0spGveFwVeO3TVnA",
-      "fromSide": "right",
-      "toNode": "UBcuttJDtZ0EFILp",
-      "toSide": "left"
-    },
-    {
-      "id": "edge14",
-      "fromNode": "bsowIK32HFCnbDsL",
-      "fromSide": "right",
-      "toNode": "Wk4QYcvwbrsODMA2",
-      "toSide": "left"
-    },
-    {
-      "id": "edge15",
-      "fromNode": "ByEXXrv1bt76O0C4",
-      "fromSide": "right",
-      "toNode": "ag24qgsQb61WgKjE",
-      "toSide": "left"
-    },
-    {
-      "id": "edge16",
-      "fromNode": "PJ9TrJ2pLgbxAAA7",
-      "fromSide": "right",
-      "toNode": "ag24qgsQb61WgKjE",
-      "toSide": "left"
-    },
-    {
-      "id": "edge17",
-      "fromNode": "0spGveFwVeO3TVnA",
-      "fromSide": "right",
-      "toNode": "b7aIxThiVUwlYZ6P",
-      "toSide": "left"
-    },
-    {
-      "id": "edge18",
-      "fromNode": "bsowIK32HFCnbDsL",
-      "fromSide": "right",
-      "toNode": "jOQtwAZYVYJM8dDP",
-      "toSide": "left"
-    },
-    {
-      "id": "edge19",
-      "fromNode": "bsowIK32HFCnbDsL",
-      "fromSide": "right",
-      "toNode": "mydwmVkhS0WCqzgq",
-      "toSide": "left"
-    },
-    {
-      "id": "edge20",
-      "fromNode": "jOQtwAZYVYJM8dDP",
-      "fromSide": "right",
-      "toNode": "nLlbKP3fHUSbnFZO",
-      "toSide": "left"
-    },
-    {
-      "id": "edge21",
-      "fromNode": "nLlbKP3fHUSbnFZO",
-      "fromSide": "right",
-      "toNode": "o30r8w5r4lXjxya4",
-      "toSide": "left"
-    },
-    {
-      "id": "edge22",
-      "fromNode": "bsowIK32HFCnbDsL",
-      "fromSide": "right",
-      "toNode": "uN7XofssJ64Onjbh",
-      "toSide": "left"
-    },
-    {
-      "id": "edge23",
-      "fromNode": "nLlbKP3fHUSbnFZO",
-      "fromSide": "right",
-      "toNode": "wccZMetC0HAYY2DE",
-      "toSide": "left"
-    },
-    {
-      "id": "edge24",
-      "fromNode": "LbydXtzhMD1oPIOM",
-      "fromSide": "right",
-      "toNode": "xi0srBcIQBI3jTxv",
-      "toSide": "left"
-    }
-  ]
+	"nodes":[
+		{"id":"KOyI1QENwrdG8Wed","type":"file","file":"Heroic Paths/Hunter/Tracker/Talents/Animal Bond.md","x":340,"y":0,"width":280,"height":90},
+		{"id":"jOQtwAZYVYJM8dDP","type":"file","file":"Heroic Paths/Hunter/Tracker/Talents/Deadly Trap.md","x":340,"y":120,"width":280,"height":90},
+		{"id":"uN7XofssJ64Onjbh","type":"file","file":"Heroic Paths/Hunter/Sharpshooter/Talents/Fire Discipline.md","x":340,"y":240,"width":280,"height":90},
+		{"id":"0I6b1Ywi6JBZfLI9","type":"file","file":"Heroic Paths/Hunter/Hazekiller/Talents/Hazekiller Weaponry.md","x":340,"y":360,"width":280,"height":90},
+		{"id":"mydwmVkhS0WCqzgq","type":"file","file":"Heroic Paths/Hunter/Hazekiller/Talents/Seek Allomancer.md","x":340,"y":480,"width":280,"height":90},
+		{"id":"Wk4QYcvwbrsODMA2","type":"file","file":"Heroic Paths/Hunter/Sharpshooter/Talents/Sharp Eye.md","x":340,"y":600,"width":280,"height":90},
+		{"id":"JgDg9rC3OeYMfw2j","type":"file","file":"Heroic Paths/Hunter/Sharpshooter/Talents/Deadly Aim.md","x":1360,"y":0,"width":280,"height":90},
+		{"id":"ag24qgsQb61WgKjE","type":"file","file":"Heroic Paths/Hunter/Hazekiller/Talents/Extinguish.md","x":1360,"y":120,"width":280,"height":90},
+		{"id":"DdcbznOQysubLbsB","type":"file","file":"Heroic Paths/Hunter/Hazekiller/Talents/Reckless Ferocity.md","x":1360,"y":240,"width":280,"height":90},
+		{"id":"UBcuttJDtZ0EFILp","type":"file","file":"Heroic Paths/Hunter/Sharpshooter/Talents/Composed.md","x":1020,"y":0,"width":280,"height":90},
+		{"id":"8ITYQdeEJMtu4boU","type":"file","file":"Heroic Paths/Hunter/Sharpshooter/Talents/Crack Shot.md","x":1020,"y":120,"width":280,"height":90},
+		{"id":"RD7OSeKTZh1unLI6","type":"file","file":"Heroic Paths/Hunter/Tracker/Talents/Feral Connection.md","x":1020,"y":240,"width":280,"height":90},
+		{"id":"o30r8w5r4lXjxya4","type":"file","file":"Heroic Paths/Hunter/Tracker/Talents/Hunters Edge.md","x":1020,"y":360,"width":280,"height":90},
+		{"id":"xi0srBcIQBI3jTxv","type":"file","file":"Heroic Paths/Hunter/Tracker/Talents/Pack Hunting.md","x":1020,"y":480,"width":280,"height":90},
+		{"id":"wccZMetC0HAYY2DE","type":"file","file":"Heroic Paths/Hunter/Tracker/Talents/Surefooted.md","x":1020,"y":600,"width":280,"height":90},
+		{"id":"b7aIxThiVUwlYZ6P","type":"file","file":"Heroic Paths/Hunter/Sharpshooter/Talents/Swift Targeting.md","x":1020,"y":720,"width":280,"height":90},
+		{"id":"ByEXXrv1bt76O0C4","type":"file","file":"Heroic Paths/Hunter/Hazekiller/Talents/Two Steps Ahead.md","x":1020,"y":840,"width":280,"height":90},
+		{"id":"QS5BHb4P9XCp4ol3","type":"file","file":"Heroic Paths/Hunter/Hazekiller/Talents/Collected.md","x":680,"y":0,"width":280,"height":90},
+		{"id":"0TCtz7wr8KiXIKc3","type":"file","file":"Heroic Paths/Hunter/Sharpshooter/Talents/Deft Drop.md","x":680,"y":120,"width":280,"height":90},
+		{"id":"PJ9TrJ2pLgbxAAA7","type":"file","file":"Heroic Paths/Hunter/Hazekiller/Talents/Delicate Touch.md","x":680,"y":240,"width":280,"height":90},
+		{"id":"nLlbKP3fHUSbnFZO","type":"file","file":"Heroic Paths/Hunter/Tracker/Talents/Experienced Trapper.md","x":680,"y":360,"width":280,"height":90},
+		{"id":"LbydXtzhMD1oPIOM","type":"file","file":"Heroic Paths/Hunter/Tracker/Talents/Protective Bond.md","x":680,"y":480,"width":280,"height":90},
+		{"id":"0spGveFwVeO3TVnA","type":"file","file":"Heroic Paths/Hunter/Sharpshooter/Talents/Steady Aim.md","x":680,"y":600,"width":280,"height":90},
+		{"id":"bsowIK32HFCnbDsL","type":"file","file":"Heroic Paths/Hunter/Seek Quarry.md","x":0,"y":0,"width":280,"height":90},
+		{"id":"SCoTojVGaiZ08iaZ","type":"file","file":"Heroic Paths/Hunter/Hazekiller/Talents/Foresight.md","x":1700,"y":0,"width":280,"height":90}
+	],
+	"edges":[
+		{"id":"edge0","fromNode":"bsowIK32HFCnbDsL","fromSide":"right","toNode":"0I6b1Ywi6JBZfLI9","toSide":"left"},
+		{"id":"edge1","fromNode":"uN7XofssJ64Onjbh","fromSide":"right","toNode":"0TCtz7wr8KiXIKc3","toSide":"left"},
+		{"id":"edge2","fromNode":"Wk4QYcvwbrsODMA2","fromSide":"right","toNode":"0spGveFwVeO3TVnA","toSide":"left"},
+		{"id":"edge3","fromNode":"0TCtz7wr8KiXIKc3","fromSide":"right","toNode":"8ITYQdeEJMtu4boU","toSide":"left"},
+		{"id":"edge4","fromNode":"QS5BHb4P9XCp4ol3","fromSide":"right","toNode":"ByEXXrv1bt76O0C4","toSide":"left"},
+		{"id":"edge5","fromNode":"ByEXXrv1bt76O0C4","fromSide":"right","toNode":"DdcbznOQysubLbsB","toSide":"left"},
+		{"id":"edge6","fromNode":"UBcuttJDtZ0EFILp","fromSide":"right","toNode":"JgDg9rC3OeYMfw2j","toSide":"left"},
+		{"id":"edge7","fromNode":"bsowIK32HFCnbDsL","fromSide":"right","toNode":"KOyI1QENwrdG8Wed","toSide":"left"},
+		{"id":"edge8","fromNode":"KOyI1QENwrdG8Wed","fromSide":"right","toNode":"LbydXtzhMD1oPIOM","toSide":"left"},
+		{"id":"edge9","fromNode":"0I6b1Ywi6JBZfLI9","fromSide":"right","toNode":"PJ9TrJ2pLgbxAAA7","toSide":"left"},
+		{"id":"edge10","fromNode":"mydwmVkhS0WCqzgq","fromSide":"right","toNode":"QS5BHb4P9XCp4ol3","toSide":"left"},
+		{"id":"edge11","fromNode":"LbydXtzhMD1oPIOM","fromSide":"right","toNode":"RD7OSeKTZh1unLI6","toSide":"left"},
+		{"id":"edge12","fromNode":"ag24qgsQb61WgKjE","fromSide":"right","toNode":"SCoTojVGaiZ08iaZ","toSide":"left"},
+		{"id":"edge13","fromNode":"0spGveFwVeO3TVnA","fromSide":"right","toNode":"UBcuttJDtZ0EFILp","toSide":"left"},
+		{"id":"edge14","fromNode":"bsowIK32HFCnbDsL","fromSide":"right","toNode":"Wk4QYcvwbrsODMA2","toSide":"left"},
+		{"id":"edge15","fromNode":"ByEXXrv1bt76O0C4","fromSide":"right","toNode":"ag24qgsQb61WgKjE","toSide":"left"},
+		{"id":"edge16","fromNode":"PJ9TrJ2pLgbxAAA7","fromSide":"right","toNode":"ag24qgsQb61WgKjE","toSide":"left"},
+		{"id":"edge17","fromNode":"0spGveFwVeO3TVnA","fromSide":"right","toNode":"b7aIxThiVUwlYZ6P","toSide":"left"},
+		{"id":"edge18","fromNode":"bsowIK32HFCnbDsL","fromSide":"right","toNode":"jOQtwAZYVYJM8dDP","toSide":"left"},
+		{"id":"edge19","fromNode":"bsowIK32HFCnbDsL","fromSide":"right","toNode":"mydwmVkhS0WCqzgq","toSide":"left"},
+		{"id":"edge20","fromNode":"jOQtwAZYVYJM8dDP","fromSide":"right","toNode":"nLlbKP3fHUSbnFZO","toSide":"left"},
+		{"id":"edge21","fromNode":"nLlbKP3fHUSbnFZO","fromSide":"right","toNode":"o30r8w5r4lXjxya4","toSide":"left"},
+		{"id":"edge22","fromNode":"bsowIK32HFCnbDsL","fromSide":"right","toNode":"uN7XofssJ64Onjbh","toSide":"left"},
+		{"id":"edge23","fromNode":"nLlbKP3fHUSbnFZO","fromSide":"right","toNode":"wccZMetC0HAYY2DE","toSide":"left"},
+		{"id":"edge24","fromNode":"LbydXtzhMD1oPIOM","fromSide":"right","toNode":"xi0srBcIQBI3jTxv","toSide":"left"}
+	]
 }

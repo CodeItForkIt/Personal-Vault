@@ -10,7 +10,7 @@ aliases: ["Ch. 8: Goals and Rewards"]
 
 ## Goals and Rewards
 
-As your character adventures across Scadrial, you grow not only by gaining levels (see “[[Mistborn Handbook/02 - Ch 1 Character Creation|Character Advancement]]” in chapter 1), but by completing personal goals. In so doing, you earn rewards that grant you powerful items, relationships, or abilities.
+As your character adventures across Scadrial, you grow not only by gaining levels (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation|Character Advancement]]” in chapter 1), but by completing personal goals. In so doing, you earn rewards that grant you powerful items, relationships, or abilities.
 
 Though the whole party might be working toward a broader objective, each goal and its subsequent reward is personal to you and your story. One character might be working toward building a Feruchemical metalmind, allowing them to fully wield their Feruchemical powers. Another character might be securing support from a powerful patron in Elendel. Yet another might be seeking the favor of the mysterious head of the Ghostbloods.
 
@@ -24,7 +24,7 @@ While you may pursue many different goals across your adventures, there’s alwa
 
 For some people, purpose and obstacle are two sides of the same coin. Consider who you are at your best; now what happens if that aspect is pushed too far? Perhaps you’re driven to save others, but in the process, you ignore your own needs and burn out quickly. Or perhaps your pursuit of truth leads you to disdain those who see the world differently from you.
 
-Your purpose and obstacle don’t directly lead to rewards. However, they’re foundational to your personality, helping guide you in choosing what goals you want to pursue—which in turn unlock powerful rewards. When you choose your purpose and obstacle during [[Mistborn Handbook/02 - Ch 1 Character Creation#Step 7: Story|step 7]] of character creation, consider the following guidance.
+Your purpose and obstacle don’t directly lead to rewards. However, they’re foundational to your personality, helping guide you in choosing what goals you want to pursue—which in turn unlock powerful rewards. When you choose your purpose and obstacle during [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation#Step 7: Story|step 7]] of character creation, consider the following guidance.
 
 ## Purpose
 
@@ -95,7 +95,7 @@ Once you know your character’s purpose and obstacle, these can help inform the
 
 You start with one or two goals and can attain more during play. On your character sheet, each goal includes three **milestone boxes**, representing your progress toward completing it. It’s up to you and your GM to decide together on what achieving each goal looks like.
 
-When you conclude a goal, you receive a reward (see “[[Mistborn Handbook/09 - Ch 8 Goals and Rewards|Rewards]]” later in this chapter). Concluding a goal can mean achieving it, but it can also mean growing past the goal, discovering something that replaces it with a new goal, or achieving something else your character realizes is more important to them.
+When you conclude a goal, you receive a reward (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards|Rewards]]” later in this chapter). Concluding a goal can mean achieving it, but it can also mean growing past the goal, discovering something that replaces it with a new goal, or achieving something else your character realizes is more important to them.
 
 ## Creating Goals
 
@@ -107,11 +107,11 @@ You can add a new goal to your character anytime you take on a new opportunity f
 
 **Advancing Your Goal.** What are a few concrete ways this goal can be advanced?
 
-Before deciding on a goal (see “[[Mistborn Handbook/09 - Ch 8 Goals and Rewards#Example Goals|Example Goals]]”), discuss it with the GM to ensure it’s a good fit for your campaign’s shared story. Once you and the GM agree, record the goal on the back of your character sheet; additionally, your GM should record it in their notes, along with any suggestions you have for how the goal might be fulfilled.
+Before deciding on a goal (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards#Example Goals|Example Goals]]”), discuss it with the GM to ensure it’s a good fit for your campaign’s shared story. Once you and the GM agree, record the goal on the back of your character sheet; additionally, your GM should record it in their notes, along with any suggestions you have for how the goal might be fulfilled.
 
 As a campaign progresses, you might conclude your existing goals, thus going without a goal for a short time (if it makes sense within the story). However, always plan to replace your goal without too long a gap.
 
-Though most characters actively work toward their goals, it’s possible your character isn’t consciously aware of or willing to admit to theirs; for example, perhaps they’re an obligator who’s subconsciously sabotaging a system they’ve grown to hate, even as they cling to belief in the Lord Ruler. You may even wish to tell a tragic story of someone who never realizes their full potential and gets bogged down by increasingly terrible decisions—though it’s prudent to consider whether playing this will be a satisfying trajectory for you (and your fellow players). If you choose a goal you think your character won’t ever reach, see “[[Mistborn Handbook/09 - Ch 8 Goals and Rewards#Concluding Goals|Concluding Goals]]” for guidance on how to resolve that tension.
+Though most characters actively work toward their goals, it’s possible your character isn’t consciously aware of or willing to admit to theirs; for example, perhaps they’re an obligator who’s subconsciously sabotaging a system they’ve grown to hate, even as they cling to belief in the Lord Ruler. You may even wish to tell a tragic story of someone who never realizes their full potential and gets bogged down by increasingly terrible decisions—though it’s prudent to consider whether playing this will be a satisfying trajectory for you (and your fellow players). If you choose a goal you think your character won’t ever reach, see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards#Concluding Goals|Concluding Goals]]” for guidance on how to resolve that tension.
 
 ### Example Goals
 
@@ -131,7 +131,7 @@ Here are a few examples of goals with concrete ways to advance them:
 
 When your character makes decisions that help advance your goal, the GM will tell you to add a **milestone** to the goal (putting a checkmark next to it on your character sheet).
 
-You can usually **advance** each of your goals roughly once per game session. On particularly momentous occasions, the GM may have you advance a goal twice. At the end of each game session, if you didn’t put a check next to a goal during the session, consider whether your character did anything to advance the goal; if so, discuss it with the GM. You can also use downtime to pursue goals (see "[[Mistborn Handbook/10 - Ch 9 Adventuring|Downtime]]" in chapter 9).
+You can usually **advance** each of your goals roughly once per game session. On particularly momentous occasions, the GM may have you advance a goal twice. At the end of each game session, if you didn’t put a check next to a goal during the session, consider whether your character did anything to advance the goal; if so, discuss it with the GM. You can also use downtime to pursue goals (see "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Downtime]]" in chapter 9).
 
 |  |
 |----|
@@ -156,7 +156,7 @@ You can advance goals during or after sessions. The end of each game session is
 
 #### Suggesting Goals
 
-As the GM, you might have ideas about new goals for characters—feel free to suggest these to that character’s player. Especially when a character has no goal (due to completing a previous one), this can help the player embrace a new narrative arc and encourage their character to grow in certain directions. For instance, after a character saves a powerful noble’s life, you can offer the player a goal to gain that noble’s trust and protection as a patron (see “[[Mistborn Handbook/09 - Ch 8 Goals and Rewards|Rewards]]” later in this chapter).
+As the GM, you might have ideas about new goals for characters—feel free to suggest these to that character’s player. Especially when a character has no goal (due to completing a previous one), this can help the player embrace a new narrative arc and encourage their character to grow in certain directions. For instance, after a character saves a powerful noble’s life, you can offer the player a goal to gain that noble’s trust and protection as a patron (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards|Rewards]]” later in this chapter).
 
 If a player doesn’t want a goal you offer, that’s okay. They can use it as inspiration for a different goal or suggest something of their own creation. A player ultimately controls which goals their character takes on (if any), but feel free to encourage them as the GM.
 
@@ -166,7 +166,7 @@ When one of your goals reaches three milestones (denoted with checkmarks), you c
 
 You don’t have to conclude a goal immediately upon receiving your third checkmark— feel free to ask the GM to wait for a more dramatically appropriate moment.
 
-After you inform the GM you want to conclude a goal, discuss with them how your character will conclude the goal within the story. This is a collaborative effort that should provide a climax for your character arc. Once a goal is concluded, you’ll receive a reward (see the upcoming “[[Mistborn Handbook/09 - Ch 8 Goals and Rewards|Rewards]]” section) and move on to other goals. This is your chance to enjoy the dramatic payout that’s been building while you progressed your goal milestones.
+After you inform the GM you want to conclude a goal, discuss with them how your character will conclude the goal within the story. This is a collaborative effort that should provide a climax for your character arc. Once a goal is concluded, you’ll receive a reward (see the upcoming “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards|Rewards]]” section) and move on to other goals. This is your chance to enjoy the dramatic payout that’s been building while you progressed your goal milestones.
 
 Both you and the GM should have input on how the goal concludes within the story, based on the milestones you’ve achieved along the way. If the conclusion of the goal is mostly internal to your character, you might have more say over it, while if it significantly impacts the game world, the GM might have more say. Either way, this should always be a conversation between both parties, though the GM decides how to resolve any uncertainties.
 
@@ -247,9 +247,9 @@ A companion might travel with you if that makes sense, but they might also live 
 
 ### Companions in Scenes
 
-Both in combat and in other scenes, the GM controls all companions, though the companions are inclined to listen to you if doing so doesn’t conflict with more fundamental objectives (such as survival). When you need statistics for a companion, work with your GM to choose a suitable NPC profile from either this book’s “[[Mistborn Handbook/16 - Appendix 1 Animal Companions|Animal Companions]]” appendix or from chapter 8 in the *Mistborn World Guide*.
+Both in combat and in other scenes, the GM controls all companions, though the companions are inclined to listen to you if doing so doesn’t conflict with more fundamental objectives (such as survival). When you need statistics for a companion, work with your GM to choose a suitable NPC profile from either this book’s “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/16 - Appendix 1 Animal Companions|Animal Companions]]” appendix or from chapter 8 in the *Mistborn World Guide*.
 
-The [[Mistborn Handbook/17 - Appendix 2 Tables|Example Companions by Tier]] table suggests NPC statistics the GM could use for various character tiers, including the companion’s suggested role (see “[[Mistborn Handbook/14 - Ch 13 Gamemastering|Building Combat Scenes]]” in chapter 13), example profiles, and bonuses they might gain as the party gains levels. Profiles available in this book’s “[[Mistborn Handbook/16 - Appendix 1 Animal Companions|Animal Companions]]” appendix are marked with an asterisk; the other profiles are found in chapter 8 of the *Mistborn World Guide*. (Some example profiles in this table intentionally vary from the general role recommendations in the “Role and Number” column.)
+The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Example Companions by Tier]] table suggests NPC statistics the GM could use for various character tiers, including the companion’s suggested role (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering|Building Combat Scenes]]” in chapter 13), example profiles, and bonuses they might gain as the party gains levels. Profiles available in this book’s “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/16 - Appendix 1 Animal Companions|Animal Companions]]” appendix are marked with an asterisk; the other profiles are found in chapter 8 of the *Mistborn World Guide*. (Some example profiles in this table intentionally vary from the general role recommendations in the “Role and Number” column.)
 
 **Multiple Companions.** At higher tiers, you can potentially have more than one companion at a time, as suggested alongside the NPC type in the “Role and Number” column.
 
@@ -257,7 +257,7 @@ The [[Mistborn Handbook/17 - Appendix 2 Tables|Example Companions by Tier]] tabl
 
 For example, if your companion is a tier 1 Minion and you’ve just leveled up to tier 2, grant them the Minion bonus listed for tier 2 PCs. (However, if they’re a tier 1 Rival, they don’t gain a bonus until you reach tier 3, as the table doesn’t list a development bonus for Rivals at tier 2.)
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Example Companions by Tier]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Example Companions by Tier]]
 
 ![[pg286_HB08_Tracker_Aleksandra Wojtas.webp]]
 
@@ -283,15 +283,15 @@ Every job has unique needs, and sometimes your existing crew doesn’t have the 
 
 ## Metalborn Rewards
 
-If you choose a Metalborn path, its key talent grants you a goal to unlock your full powers. Until you complete the goal, you can only wield the nascent version of your power. See “[[Mistborn Handbook/06 - Ch 5 Metalborn Paths#Metalborn Goals and Rewards|Metalborn Goals and Rewards]]” in chapter 5 for more information on progressing this goal and claiming its reward.
+If you choose a Metalborn path, its key talent grants you a goal to unlock your full powers. Until you complete the goal, you can only wield the nascent version of your power. See “[[06 - Ch 5 Metalborn Paths#Metalborn Goals and Rewards|Metalborn Goals and Rewards]]” in chapter 5 for more information on progressing this goal and claiming its reward.
 
 ## Hemalurgic Spikes
 
-As a player character, you can’t create Hemalurgic spikes, which are as dire as their ominous name suggests. However, you can learn to use existing spikes, which might come into your hands as rewards. The “[[Mistborn Handbook/07 - Ch 6 Metallic Arts|Hemalurgy]]” section of chapter 6 introduces this forbidden art, while the upcoming sect ions present the rules for using existing charged spikes.
+As a player character, you can’t create Hemalurgic spikes, which are as dire as their ominous name suggests. However, you can learn to use existing spikes, which might come into your hands as rewards. The “[[07 - Ch 6 Metallic Arts|Hemalurgy]]” section of chapter 6 introduces this forbidden art, while the upcoming sect ions present the rules for using existing charged spikes.
 
 Future Cosmere RPG content may include support for creating and charging Hemalurgic spikes if more humane methods are introduced in forthcoming Mistborn novels.
 
-When using Hemalurgic spikes in your game, you’re encouraged to refer to the “[[Mistborn Handbook/14 - Ch 13 Gamemastering|Safety Guide]]” section of chapter 13.
+When using Hemalurgic spikes in your game, you’re encouraged to refer to the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering|Safety Guide]]” section of chapter 13.
 
 ![[pg288_HB08_Hemalurgic Spike_Lucas Torquato.webp]]
 
@@ -299,17 +299,17 @@ When using Hemalurgic spikes in your game, you’re encouraged to refer to the �
 
 ### Hemalurgic Rewards
 
-Hemalurgic spikes and the Hemalurgist specialist expertise needed to use them are gained as rewards. Your GM may also grant you a spike through other means, such as you removing it from an enemy in combat (see the upcoming “[[Mistborn Handbook/09 - Ch 8 Goals and Rewards#Implanting and Removing Hemalurgic Spikes|Removing an Enemy’s Spike]]” section). Alternatively, the GM may allow you to to take some time after combat to properly collect an undamaged spike.
+Hemalurgic spikes and the Hemalurgist specialist expertise needed to use them are gained as rewards. Your GM may also grant you a spike through other means, such as you removing it from an enemy in combat (see the upcoming “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards#Implanting and Removing Hemalurgic Spikes|Removing an Enemy’s Spike]]” section). Alternatively, the GM may allow you to to take some time after combat to properly collect an undamaged spike.
 
-Hemalurgic rewards are restricted by tier, as shown on the [[Mistborn Handbook/17 - Appendix 2 Tables|Hemalurgic Rewards by Tier ]]table. (See the upcoming “[[Mistborn Handbook/09 - Ch 8 Goals and Rewards#Hemalurgic Spike Effects|Hemalurgic Spike Effects]]” section for details on each spike.)
+Hemalurgic rewards are restricted by tier, as shown on the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Hemalurgic Rewards by Tier ]]table. (See the upcoming “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards#Hemalurgic Spike Effects|Hemalurgic Spike Effects]]” section for details on each spike.)
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Hemalurgic Rewards by Tier]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Hemalurgic Rewards by Tier]]
 
 #### Gaining Duplicate Spikes
 
 You can acquire multiple spikes of the same metal, but doing so increases their reward tier. For each spike you already have of a certain metal, add 1 to the tier of future spikes of that metal. For example, iron spikes begin as a tier 2 reward, but if you already have two iron spikes, gaining a third spike counts as a tier 4 reward.
 
-While you have multiple spikes of the same metal implanted in your body, their effects stack. For example, if you have two iron spikes, your Strength increases by a total of 2 (instead of 1). Like any additional spikes, these spikes also lower your Spiritual defense, as described in the upcoming “[[Mistborn Handbook/09 - Ch 8 Goals and Rewards#Hemalurgic Spike Effects|Hemalurgic Spike Effects]]” section.
+While you have multiple spikes of the same metal implanted in your body, their effects stack. For example, if you have two iron spikes, your Strength increases by a total of 2 (instead of 1). Like any additional spikes, these spikes also lower your Spiritual defense, as described in the upcoming “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards#Hemalurgic Spike Effects|Hemalurgic Spike Effects]]” section.
 
 ### Hemalurgist Expertise
 
@@ -344,7 +344,7 @@ Practicing Hemalurgy can be compared to performing surgery, and it becomes much 
 
 During a short or long rest, you can use your Hemalurgist expertise to carefully implant or remove one or more spikes from your body or a willing character’s without making a test. However, while in a scene, you must instead use the **Implant Spike** action or the **Remove Spike** action, then succeed on that action’s Medicine test.
 
-Each PC can have a number of spikes in their body up to their tier (to a maximum of 3). The more spikes you have, the greater your spiritweb disruption and potential influence from a Shard, as described in the upcoming “[[Mistborn Handbook/09 - Ch 8 Goals and Rewards#Hemalurgic Spike Effects|Hemalurgic Spike Effects]]” sections. (If you’re a kandra, see the upcoming “Kandra Blessings and Hemalurgic Spikes” sidebar to learn how your Blessing interacts with other spikes.)
+Each PC can have a number of spikes in their body up to their tier (to a maximum of 3). The more spikes you have, the greater your spiritweb disruption and potential influence from a Shard, as described in the upcoming “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards#Hemalurgic Spike Effects|Hemalurgic Spike Effects]]” sections. (If you’re a kandra, see the upcoming “Kandra Blessings and Hemalurgic Spikes” sidebar to learn how your Blessing interacts with other spikes.)
 
 #### Removing an Enemy’s Spike
 
@@ -354,7 +354,7 @@ However, you’re not limited to Athletics tests; feel free to remove an enemy�
 
 Depending on the enemy, and on how alert and aware they are of your intentions, it might be harder to remove their spike. Under some circumstances, the GM might require you to first achieve one of the following:
 
-**Restrain the Target.** Some tests to remove a spike are almost impossible unless your target is [[Mistborn Handbook/10 - Ch 9 Adventuring#Restrained|Restrained]].
+**Restrain the Target.** Some tests to remove a spike are almost impossible unless your target is [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Restrained|Restrained]].
 
 **Fill an Event Track.** If the spike’s removal is important to the story, the GM might introduce a Remove Spike event in a pivotal moment, likely after your party learns of the spike and how to remove it. You and your allies can then contribute Opportunities to the event track as you prepare to confront your enemy. Once the event is triggered, you can make a relevant test to remove the spike from your enemy. If that test fails, the event track resets—you’ll need to fill it again before making another attempt at the spike.
 
@@ -374,9 +374,9 @@ The Known Hemalurgic Spike Effects table outlines the effects of each spike as t
 
 **Disrupted Spiritweb.** Each Hemalurgic spike dis rupts your spiritweb (see the upcoming “Spiritweb Disruption” section). Your first spike of each metal lowers your Spiritual defense by 2; subsequent spikes of the same metal lower your Spiritual defense by 5. At the start of each scene while you have at least one spike, if your Spiritual defense is 9 or lower, you become Disoriented until the end of the scene.
 
-If your spike is removed (voluntarily or otherwise), this ends all of its effects, including any powers, attribute bonuses, resources, skill ranks, actions, and talents gained through it. You can use the [[Mistborn Handbook/10 - Ch 9 Adventuring#Self-Reflection|Self-Reflection]] downtime activity to reallocate any now-inaccessible talents.
+If your spike is removed (voluntarily or otherwise), this ends all of its effects, including any powers, attribute bonuses, resources, skill ranks, actions, and talents gained through it. You can use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Self-Reflection|Self-Reflection]] downtime activity to reallocate any now-inaccessible talents.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Known Hemalurgic Spike Effects]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Known Hemalurgic Spike Effects]]
 
 #### Spiritweb Disruption
 
@@ -407,41 +407,41 @@ While you have one or more Hemalurgic spikes (not including kandra Blessing spik
 
 **Tests While Conversing with Shards.** The GM has full control of when a Shard chooses to initiate contact with a Hemalurgist character. If you’ve communicated with a Shard in the past, you can attempt to get their attention, but they might be distracted or not have any interest in communicating with you at that time.
 
-The [[Mistborn Handbook/17 - Appendix 2 Tables|Shard Influence Examples]] table provides inspiration for tests you might make while conversing with a Shard. The difficulty of these tests can fluctuate with a Shard’s power and access. For example, an imprisoned Shard’s influence might warrant a DC 15 test, whereas the same test might be DC 20 for a Shard who can wield their full power.
+The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Shard Influence Examples]] table provides inspiration for tests you might make while conversing with a Shard. The difficulty of these tests can fluctuate with a Shard’s power and access. For example, an imprisoned Shard’s influence might warrant a DC 15 test, whereas the same test might be DC 20 for a Shard who can wield their full power.
 
-**Resisting a Shard’s Influence.** In special circumstances, a Shard may try to compel you to do something, but you can resist their influence as you would any other character (see “[[Mistborn Handbook/12 - Ch 11 Conversations#Resisting Influence|Resisting Influence]]” in chapter 11). Although a Shard might drain your focus as you resist, they can’t force you to do anything—that is, unless your character has enough Hemalurgic spikes to fall completely under the Shard’s control, in which case your character becomes an NPC (as outlined in the previous “Spiritweb Disruption” section).
+**Resisting a Shard’s Influence.** In special circumstances, a Shard may try to compel you to do something, but you can resist their influence as you would any other character (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/12 - Ch 11 Conversations#Resisting Influence|Resisting Influence]]” in chapter 11). Although a Shard might drain your focus as you resist, they can’t force you to do anything—that is, unless your character has enough Hemalurgic spikes to fall completely under the Shard’s control, in which case your character becomes an NPC (as outlined in the previous “Spiritweb Disruption” section).
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Shard Influence Examples]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Shard Influence Examples]]
 
 ## Rare Creations
 
-From the famous mistcloaks to mighty koloss blades to soaring airships, there are some specialty items that can only be acquired through exceptional effort or forged by crafters of surpassing skill. The “[[Mistborn Handbook/08 - Ch 7 Items|Crafting]]” section of chapter 7 provides rules for crafting some marvelous items such as prototype firearms, but other items can only be acquired as rewards.
+From the famous mistcloaks to mighty koloss blades to soaring airships, there are some specialty items that can only be acquired through exceptional effort or forged by crafters of surpassing skill. The “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|Crafting]]” section of chapter 7 provides rules for crafting some marvelous items such as prototype firearms, but other items can only be acquired as rewards.
 
-This section presents the following rare creations that can be gained as rewards: [[Items/Metals/Allomantic Grenade|Allomantic grenades]], [[Items/Metals/Aluminum-Lined Hat|aluminum-lined hats]], [[Items/Metals/Feruchemical Medallion|Feruchemical medallions]], kandra True Bodies, and [[Items/Metals/Unkeyed Metalmind|unkeyed metalminds]].
+This section presents the following rare creations that can be gained as rewards: [[Allomantic Grenade|Allomantic grenades]], [[Aluminum-Lined Hat|aluminum-lined hats]], [[Feruchemical Medallion|Feruchemical medallions]], kandra True Bodies, and [[Unkeyed Metalmind|unkeyed metalminds]].
 
-Additionally, a few items from [[Mistborn Handbook/08 - Ch 7 Items|chapter 7]] are only available as rewards. The [[Mistborn Handbook/17 - Appendix 2 Tables|Specialty Items by Tier]] table lists each of these by reward tier.
+Additionally, a few items from [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|chapter 7]] are only available as rewards. The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Specialty Items by Tier]] table lists each of these by reward tier.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Specialty Items by Tier]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Specialty Items by Tier]]
 
 ### Allomantic Grenades Era 2
 
-The marvelous technologies of Era 2 include Malwish primer cubes, known by Northern Scadrians as [[Items/Metals/Allomantic Grenade|Allomantic grenades]]. Constructed by the Malwish of Southern Scadrial using the mysterious ettmetal, these cubes store an Allomantic charge for later release.
+The marvelous technologies of Era 2 include Malwish primer cubes, known by Northern Scadrians as [[Allomantic Grenade|Allomantic grenades]]. Constructed by the Malwish of Southern Scadrial using the mysterious ettmetal, these cubes store an Allomantic charge for later release.
 
-When you spend Investiture on a power while touching an Allomantic grenade, you can choose for the power to have no immediate effect. Instead, you infuse the spent Investiture into the grenade, which it holds for two hours or until the grenade is used. The grenade’s maximum Investiture capacity is determined by its reward tier, as shown on the [[Mistborn Handbook/17 - Appendix 2 Tables|Allomantic Grenades by Tier]] table.
+When you spend Investiture on a power while touching an Allomantic grenade, you can choose for the power to have no immediate effect. Instead, you infuse the spent Investiture into the grenade, which it holds for two hours or until the grenade is used. The grenade’s maximum Investiture capacity is determined by its reward tier, as shown on the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Allomantic Grenades by Tier]] table.
 
 You can use 1 to throw an infused grenade to a space within 30 feet of you, causing it to release its infused Investiture. Work with your GM to determine the exact effects; in general, the grenade discharges in all directions with similar effects to the stored power. The more Investiture stored within it, the more spectacular the effects.
 
-While infused with a power, a grenade can’t also be infused with Investiture from a different power; for example, while infused with [[Metallic Arts/Steel/Steel Allomancy|Steel Allomancy]], it can’t also be infused with [[Metallic Arts/Brass/Brass Allomancy|Brass Allomancy]]. Once a grenade’s Investiture is released, you can infuse it again with any Allomantic power.
+While infused with a power, a grenade can’t also be infused with Investiture from a different power; for example, while infused with [[Steel Allomancy|Steel Allomancy]], it can’t also be infused with [[Brass Allomancy|Brass Allomancy]]. Once a grenade’s Investiture is released, you can infuse it again with any Allomantic power.
 
 ![[pg292_HB_Items_Allomantic Grenade_Anna Verhoog.webp]]
 
 **Allomantic Grenade - ANNA VERHOOG**
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Allomantic Grenades by Tier]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Allomantic Grenades by Tier]]
 
 ### Aluminum-Lined Hat Era 2
 
-Popular among the wealthy and fashionable of Era 2, an [[Items/Metals/Aluminum-Lined Hat|aluminum-lined hat]] has aluminum bound within it to block Allomantic influence. While wearing this hat, you can’t be affected by Invested Arts that influence your thoughts or emotions. (This hat is a tier 1 reward.)
+Popular among the wealthy and fashionable of Era 2, an [[Aluminum-Lined Hat|aluminum-lined hat]] has aluminum bound within it to block Allomantic influence. While wearing this hat, you can’t be affected by Invested Arts that influence your thoughts or emotions. (This hat is a tier 1 reward.)
 
 ![[pg293_HB_Items_Tinfoil Hat_Anna Verhoog.webp]]
 
@@ -449,7 +449,7 @@ Popular among the wealthy and fashionable of Era 2, an [[Items/Metals/Aluminum-
 
 ### Feruchemical Medallions Era 2
 
-The incredible [[Items/Metals/Feruchemical Medallion|Feruchemical medallions]] made in Southern Scadrial can temporarily grant Feruchemical abilities to anyone. These medallions are key to many of the impressive technological developments seen in Southern Scadrial.
+The incredible [[Feruchemical Medallion|Feruchemical medallions]] made in Southern Scadrial can temporarily grant Feruchemical abilities to anyone. These medallions are key to many of the impressive technological developments seen in Southern Scadrial.
 
 The medallion-creation process is a closely guarded secret, and largely unknown in Northern Scadrial. Its construction is very delicate, requiring multiple metals and a mysterious tool known as an Excisor.
 
@@ -457,13 +457,13 @@ Most medallions grant their wielders a single Feruchemical power, but an except
 
 #### Using Feruchemical Medallions
 
-While wearing a [[Items/Metals/Feruchemical Medallion|Feruchemical medallion]], you can use any Feruchemical powers that were imbued in that medallion when it was created. You can use the Interact action to take off a medallion or to put it on, and you can only wear one medallion at a time. The medallion’s imbued powers have the following limitations:
+While wearing a [[Feruchemical Medallion|Feruchemical medallion]], you can use any Feruchemical powers that were imbued in that medallion when it was created. You can use the Interact action to take off a medallion or to put it on, and you can only wear one medallion at a time. The medallion’s imbued powers have the following limitations:
 
 **Maximum Charges.** Each medallion can hold a maximum of 8 charges per Feruchemical power. If the medallion grants multiple powers, track charges separately for each. When a medallion is first received as a reward, the GM chooses how many charges it starts with. Most medallions start with 8 charges, though medallions used primarily for their Store effect—such as Iron—might start with 0 charges.
 
 **Spending and Storing Charges.** When tapping a medallion, the charges operate much like standard metalmind charges: They’re spent when you use the Tap action, and you can’t tap a medallion with 0 charges. However, storing in a medallion functions differently from metalminds: While storing, you still gain the effects of the Store action, but so little of the trait is absorbed into the medallion that you don’t generate charges. This allows for indefinite storage of traits, but limited tapping.
 
-**Number of Powers.** Each medallion is created with one, two, or three Feruchemical powers, each of which allows you to use that power’s Store and Tap actions (see [[Mistborn Handbook/07 - Ch 6 Metallic Arts|chapter 6]])
+**Number of Powers.** Each medallion is created with one, two, or three Feruchemical powers, each of which allows you to use that power’s Store and Tap actions (see [[07 - Ch 6 Metallic Arts|chapter 6]])
 
 <table class="mb-blue">
 <colgroup>
@@ -482,25 +482,25 @@ While wearing a [[Items/Metals/Feruchemical Medallion|Feruchemical medallion]], 
 
 #### Medallion Reward Tier
 
-A medallion’s reward tier is determined by its powers. When the GM grants a [[Items/Metals/Feruchemical Medallion|Feruchemical medallion]] as a reward, they choose the medallion’s metals from the Feruchemical Medallion Powers table (maximum of 3). This table lists the reward tier for a medallion with one power. If a medallion has more than one power, add together the reward tier for each individual power; the medallion’s reward tier equals that total.
+A medallion’s reward tier is determined by its powers. When the GM grants a [[Feruchemical Medallion|Feruchemical medallion]] as a reward, they choose the medallion’s metals from the Feruchemical Medallion Powers table (maximum of 3). This table lists the reward tier for a medallion with one power. If a medallion has more than one power, add together the reward tier for each individual power; the medallion’s reward tier equals that total.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Feruchemical Medallion Powers]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Feruchemical Medallion Powers]]
 
 ### Kandra True Bodies
 
 When in their Homeland, many kandra choose to use a True Body—a form shaped around a set of artificial bones created by kandra artisans. The kandra can choose to make this form translucent, allowing others to see their bones, which are often crafted from exotic materials. This material offers the kandra a medium for creative expression, but it can also grant certain benefits.
 
-As a kandra character, you can receive the reward of bones for a True Body if you either have access to an artisan or have ranks in Crafting equaling or exceeding the reward tier of the bones. You can ingest these bones using your [[Ancestries/Kandra/Kandra Disguise|Kandra Disguise]] talent, as if they were a human body; as usual, this temporarily replaces your attributes with those listed for your True Body.
+As a kandra character, you can receive the reward of bones for a True Body if you either have access to an artisan or have ranks in Crafting equaling or exceeding the reward tier of the bones. You can ingest these bones using your [[Kandra Disguise|Kandra Disguise]] talent, as if they were a human body; as usual, this temporarily replaces your attributes with those listed for your True Body.
 
-The [[Mistborn Handbook/17 - Appendix 2 Tables|Example Kandra True Bodies]] table suggests materials you might fashion your True Body from, along with the reward tier of each. Some True Bodies also grant additional benefits, as detailed following the table.
+The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Example Kandra True Bodies]] table suggests materials you might fashion your True Body from, along with the reward tier of each. Some True Bodies also grant additional benefits, as detailed following the table.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Example Kandra True Bodies]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Example Kandra True Bodies]]
 
 **Crystalline Allure.** You gain an advantage on tests to influence other kandra.
 
 **Skeletal Metalmind.** Choose a non-aluminum Feruchemical metal to craft these bones from. If you can wield the corresponding Feruchemical power (such as through a Hemalurgic spike), you can use these bones as a metalmind for that power.
 
-**Allomantically Inert.** Tests that target you using an Invested Art gain a disadvantage. If you can wield [[Metallic Arts/Aluminum/Aluminum Feruchemy|Aluminum Feruchemy]] (such as through a Hemalurgic spike), you can use these bones as a metalmind for that power.
+**Allomantically Inert.** Tests that target you using an Invested Art gain a disadvantage. If you can wield [[Aluminum Feruchemy|Aluminum Feruchemy]] (such as through a Hemalurgic spike), you can use these bones as a metalmind for that power.
 
 ### Unkeyed Metalminds
 
@@ -516,29 +516,29 @@ Metalminds can usually only be used by their creator. However, some metalminds h
 
 - If you store a charge in an unkeyed metalmind, it is no longer unkeyed, and it becomes a backup metalmind for you.
 
-The [[Mistborn Handbook/17 - Appendix 2 Tables|Unkeyed Metalminds by Tier]] table suggests an appropriate charge maximum for this reward.
+The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Unkeyed Metalminds by Tier]] table suggests an appropriate charge maximum for this reward.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Unkeyed Metalminds by Tier]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Unkeyed Metalminds by Tier]]
 
 ## Rare Metals
 
 Rare metals can offer great power on Scadrial. They fuel the powers of Allomancers, are crafted into metalminds by Feruchemists, and sometimes serve more esoteric purposes. The more common metals are easily and affordably acquired at your local marketplace, but others aren’t so easily attained. Rare metals can be rewards in and of themselves, as can recurring sources of those metals (which are especially valuable to Allomancers).
 
-For more information on each metal, see “[[Mistborn Handbook/07 - Ch 6 Metallic Arts|Metals of Scadrial]]” in chapter 6, and for the usual market prices of metals, see “[[Mistborn Handbook/08 - Ch 7 Items|Metal Vials]]” in chapter 7.
+For more information on each metal, see “[[07 - Ch 6 Metallic Arts|Metals of Scadrial]]” in chapter 6, and for the usual market prices of metals, see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|Metal Vials]]” in chapter 7.
 
 ### Rare Metal Windfalls
 
-The GM can reward you with a specific amount of a rare metal. This reward could range from a lump of aluminum (useful for lining a hat) to a single bead of the legendary lerasium (able to transform you into a full Mistborn). The specific amount of metal is up to the GM, but it should always be enough to offer you an enduring benefit (in the same way as an item or other reward), and it should be more than you can afford with your current funds. You could receive a windfall of any rare metal, but the [[Mistborn Handbook/17 - Appendix 2 Tables|Example Rare Metal Windfalls]] table offers guidance on awarding some prized metals.
+The GM can reward you with a specific amount of a rare metal. This reward could range from a lump of aluminum (useful for lining a hat) to a single bead of the legendary lerasium (able to transform you into a full Mistborn). The specific amount of metal is up to the GM, but it should always be enough to offer you an enduring benefit (in the same way as an item or other reward), and it should be more than you can afford with your current funds. You could receive a windfall of any rare metal, but the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Example Rare Metal Windfalls]] table offers guidance on awarding some prized metals.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Example Rare Metal Windfalls]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Example Rare Metal Windfalls]]
 
 ### Recurring Supplies of Rare Metals
 
 If you regularly use a rare metal—likely to fuel your Allomantic powers—then procuring a recurring supply is a valuable reward indeed. This might take the form of an official contract with a mining or industrial company, a backroom deal with a fixer for a smuggling syndicate, or even a mining and manufacturing operation you directly oversee.
 
-Whatever form it takes, this reward allows you to consistently replenish your stock through dead drops, pickup, or delivery. Unless your supply is interrupted, you can assume you have enough of that metal to add to each of your common metal vials at no cost. The [[Mistborn Handbook/17 - Appendix 2 Tables|Rare Metal Supplies]] table lists the reward tier for each rare metal (chapter 6 details which eras they’re available in).
+Whatever form it takes, this reward allows you to consistently replenish your stock through dead drops, pickup, or delivery. Unless your supply is interrupted, you can assume you have enough of that metal to add to each of your common metal vials at no cost. The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Rare Metal Supplies]] table lists the reward tier for each rare metal (chapter 6 details which eras they’re available in).
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Rare Metal Supplies]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Rare Metal Supplies]]
 
 <table class="mb-blue">
 <colgroup>
@@ -572,21 +572,21 @@ Your patron generally allows you access to their resources if you’re pursuing 
 
 ### Patron Benefits
 
-If you gain a patron as a reward, they generally provide two benefits. Each patron grants a specific bonus, as described in their entry. Additionally, when you’re in a situation where the patron or their agents have influence, they might also grant you and your companions travel amenities (see “[[Mistborn Handbook/08 - Ch 7 Items|Travel]]” in Chapter 7), as listed on the [[Mistborn Handbook/17 - Appendix 2 Tables|Patron Amenities by Tier]] table. However, you won’t always have access to these amenities, just in situations where your patron deems it feasible and appropriate. If your patron is particularly skilled with one of your Allomantic or Feruchemical powers, they may be able to mentor you in it during downtime (see “[[Mistborn Handbook/10 - Ch 9 Adventuring#Downtime Activity Ideas|Downtime Activity Ideas]]” in chapter 9) instead of granting you their usual patron benefits. The following section presents one example of a patron, and many more can be found in chapter 5 of the *Mistborn World Guide*.
+If you gain a patron as a reward, they generally provide two benefits. Each patron grants a specific bonus, as described in their entry. Additionally, when you’re in a situation where the patron or their agents have influence, they might also grant you and your companions travel amenities (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|Travel]]” in Chapter 7), as listed on the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Patron Amenities by Tier]] table. However, you won’t always have access to these amenities, just in situations where your patron deems it feasible and appropriate. If your patron is particularly skilled with one of your Allomantic or Feruchemical powers, they may be able to mentor you in it during downtime (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Downtime Activity Ideas|Downtime Activity Ideas]]” in chapter 9) instead of granting you their usual patron benefits. The following section presents one example of a patron, and many more can be found in chapter 5 of the *Mistborn World Guide*.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Patron Amenities by Tier]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Patron Amenities by Tier]]
 
 ### Example Patron: Scadrian Noble House
 
 Scadrial’s noble houses are venerable institutions, often with vast wealth and power accumulated over centuries of scheming and jockeying for power. Their backing grants access to the highest echelons of society.
 
-**Pinnacles of Power.** In addition to amenities, the noble house’s connections are at your disposal. Each time you or your party undertake a project at the behest of the noble house, the head of the house grants you a number of resources, introductions, and similar connections to assist in the endeavor, as shown in the [[Mistborn Handbook/17 - Appendix 2 Tables|Noble Connections by Tier]] table. (If multiple characters in your party have the same patron, the party receives these benefits only once per project.)
+**Pinnacles of Power.** In addition to amenities, the noble house’s connections are at your disposal. Each time you or your party undertake a project at the behest of the noble house, the head of the house grants you a number of resources, introductions, and similar connections to assist in the endeavor, as shown in the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Noble Connections by Tier]] table. (If multiple characters in your party have the same patron, the party receives these benefits only once per project.)
 
 If you’re tier 1 or tier 2, your patron might provide you connections like the following: an invitation to a high society event, an introduction to someone in high society, a free visit to a fine clothier, the services of a skilled machinist, free lessons in etiquette or another topic, or official documents from another organization (possibly falsified, at the GM’s discretion). At these lower tiers, these benefits are typically just for you (and any other characters who have that patron), and don’t extend to other people.
 
 If you’re tier 3 or higher, the above connections might be granted to any number of people you request, instead of just you. Alternatively, your patron might provide you connections like the following (but not extend that benefit to others): an invitation to a government event, a free visit to a master weaponsmith, the free services of a skilled forger, or discretionary funds of 250 boxings (in Era 1) or 1,250 boxings (in Era 2).
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Noble Connections by Tier]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Noble Connections by Tier]]
 
 ## Organizations
 
@@ -614,31 +614,31 @@ Occasionally, an organization may change in focus as its membership grows or its
 
 ### Organization Scale
 
-Each organization has a **scale**—an abstract representation of the organization’s size, determined by the leader’s character tier (or, if an organization has multiple leaders, by the highest character tier among them). Scale sets the maximum number of concurrent organization goals an organization’s members can maintain, as shown on the [[Mistborn Handbook/17 - Appendix 2 Tables|Organization Scale]] table.
+Each organization has a **scale**—an abstract representation of the organization’s size, determined by the leader’s character tier (or, if an organization has multiple leaders, by the highest character tier among them). Scale sets the maximum number of concurrent organization goals an organization’s members can maintain, as shown on the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Organization Scale]] table.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Organization Scale]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Organization Scale]]
 
 ### Organization Goals and Rewards
 
 Organizations operate by assigning **organization goals** to their members. Completing these goals upgrades the organization, in turn providing more member benefits.
 
-The organization’s leader decides which organization goal to pursue and assigns that organization goal to a character, who then adds it to their personal goals. At the GM’s discretion, the leader might assign an organization goal to two or more characters, in which case those characters can all contribute to the goal, completing it together. An organization’s leader can assign a maximum number of concurrent organization goals determined by the organization’s scale, as shown on the [[Mistborn Handbook/17 - Appendix 2 Tables|Organization Scale]] table.
+The organization’s leader decides which organization goal to pursue and assigns that organization goal to a character, who then adds it to their personal goals. At the GM’s discretion, the leader might assign an organization goal to two or more characters, in which case those characters can all contribute to the goal, completing it together. An organization’s leader can assign a maximum number of concurrent organization goals determined by the organization’s scale, as shown on the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Organization Scale]] table.
 
 As with a PC’s personal goals, an organization goal can usually be advanced once per game session. The GM can adjust the pace of advancement based on narrative circumstances and the flow of play. When a character completes an organization goal, instead of the character receiving a personal reward, the reward is an organization upgrade.
 
 ### Organization Upgrades
 
-When a character completes an organization goal, the organization leader chooses one of the **organization upgrades** from the [[Mistborn Handbook/17 - Appendix 2 Tables|Organization Upgrades]] table. If the leader is a PC, they can work with the GM to create a unique upgrade to reflect the utility they want to add or expand. Each upgrade can be chosen only once for each organization, unless the upgrade’s effects specify otherwise.
+When a character completes an organization goal, the organization leader chooses one of the **organization upgrades** from the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Organization Upgrades]] table. If the leader is a PC, they can work with the GM to create a unique upgrade to reflect the utility they want to add or expand. Each upgrade can be chosen only once for each organization, unless the upgrade’s effects specify otherwise.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Organization Upgrades]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Organization Upgrades]]
 
 ### Example Organization: Commercial Enterprise
 
 Whether it takes the form of a guild, a traditional business, or a speculative venture, a commercial enterprise is designed to generate and protect profits for someone. Such an enterprise may be required to do a certain volume of business, or even to engage in certain types of business under local authorities, at the GM’s discretion.
 
-**Profit Margin.** In addition to creating a channel through which the party can conduct business, a successful commercial enterprise also turns a profit. If the characters take the necessary steps to keep their business healthy and protect it from threats, it generates the income listed on the [[Mistborn Handbook/17 - Appendix 2 Tables|Commercial Enterprise Organization Benefits]] table. These profits are the product of the day-to-day operations taking place while the characters are off pursuing larger opportunities, to be spent at the discretion of the organization leader.
+**Profit Margin.** In addition to creating a channel through which the party can conduct business, a successful commercial enterprise also turns a profit. If the characters take the necessary steps to keep their business healthy and protect it from threats, it generates the income listed on the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Commercial Enterprise Organization Benefits]] table. These profits are the product of the day-to-day operations taking place while the characters are off pursuing larger opportunities, to be spent at the discretion of the organization leader.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Commercial Enterprise Organization Benefits]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Commercial Enterprise Organization Benefits]]
 
 ![[pg298_Tarcsel-Electric-Logo_Marie Seeberger.webp]]
 
@@ -648,39 +648,39 @@ Whether it takes the form of a guild, a traditional business, or a speculative v
 
 Ranging from tight-knit bands of thieves to sprawling crime syndicates, crime rings typically pursue the enrichment of their members through shared criminal endeavors. Members of a crime ring often use ciphers and signals to communicate and identify each other without raising attention. Additionally, members of a crime ring in good standing with their underworld peers can call on assistance from other such organizations when needed.
 
-**Criminal Connections.** Once per game session, one or more members of the crime ring can call for underworld support, as detailed on the [[Mistborn Handbook/17 - Appendix 2 Tables|Crime Ring Example Benefits]] table. To use this ability, the crime ring member must be in a place where they can reasonably leverage their connections. However, some honor is expected among thieves: Should these borrowed resources and personnel be damaged or mistreated, other criminal organizations may demand commensurate favors in the future. The GM is the final arbiter of what impact such slights on another criminal group may ultimately have.
+**Criminal Connections.** Once per game session, one or more members of the crime ring can call for underworld support, as detailed on the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Crime Ring Example Benefits]] table. To use this ability, the crime ring member must be in a place where they can reasonably leverage their connections. However, some honor is expected among thieves: Should these borrowed resources and personnel be damaged or mistreated, other criminal organizations may demand commensurate favors in the future. The GM is the final arbiter of what impact such slights on another criminal group may ultimately have.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Crime Ring Example Benefits]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Crime Ring Example Benefits]]
 
 ### Example Organization: Political Body
 
 United by a shared interest or ethos, a political body seeks to turn others to its cause and move the wheels of power within a society. Members of a successful political body have a seat at the table of governance, or at least a voice in the room capable of swaying the decision makers. In addition to these formal connections, membership in a political body can open doors to people, places, and events that might be unreachable for the average character.
 
-**Political Favors.** Once per game session, one or more members of the political body can call on a political connection to use their clout to get them access to an important person, a secure location, or a closed event that would usually be inaccessible by legitimate means. The [[Mistborn Handbook/17 - Appendix 2 Tables|Political Body Example Benefits]] table provides examples of how the access granted increases with the organization’s scale. As always, the GM is the final arbiter of how far these favors extend.
+**Political Favors.** Once per game session, one or more members of the political body can call on a political connection to use their clout to get them access to an important person, a secure location, or a closed event that would usually be inaccessible by legitimate means. The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Political Body Example Benefits]] table provides examples of how the access granted increases with the organization’s scale. As always, the GM is the final arbiter of how far these favors extend.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Political Body Example Benefits]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Political Body Example Benefits]]
 
 ### Example Organization: Resistance Cell
 
 In the face of an oppressive force, citizens may be driven to create organized underground movements to resist. These resistance movements give the downtrodden an opportunity to channel their dissatisfaction with the system into direct action. Additionally, resistance cells give their members a sense of purpose and camaraderie, helping them choose to keep fighting a seemingly unwinnable battle each day.
 
-**For the Cause.** Once per scene, a resistance cell member can spend 2 to appeal to their own sense of duty or that of another member of the organization with whom they can communicate. When they do, the target gains a beneficial effect determined by the scale of the organization, as shown on the [[Mistborn Handbook/17 - Appendix 2 Tables|Resistance Cell Example Benefits]] table. Each character can benefit from this effect a maximum of once per game session.
+**For the Cause.** Once per scene, a resistance cell member can spend 2 to appeal to their own sense of duty or that of another member of the organization with whom they can communicate. When they do, the target gains a beneficial effect determined by the scale of the organization, as shown on the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Resistance Cell Example Benefits]] table. Each character can benefit from this effect a maximum of once per game session.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Resistance Cell Example Benefits]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Resistance Cell Example Benefits]]
 
 ### Example Organization: Social Club
 
 Whether or not it has a stated mission, the fundamental goal of a social club is to facilitate interactions between its members. In addition to providing camaraderie and connection, social clubs are one of the best ways to learn all the latest gossip. When interacting with other members of their social club, a character can learn recent rumors from the community where the club exists. Additionally, at the GM’s discretion, a character can use the club to spread rumors (whether they be truths or falsehoods) within that community.
 
-**Swirling Whispers.** Characters who join an organization gain social access to the other members of the organization, giving them a chance to mingle with and attempt to influence these individuals as they see f it. Additionally, once per game session, one or more members of the organization can spread a rumor. The rumor is propagated within the organization—and potentially within the wider community, at the GM’s discretion. Additionally, the first member who makes a test to benefit from this rumor gains the effect shown on the [[Mistborn Handbook/17 - Appendix 2 Tables|Social Club Example Benefits]] table.
+**Swirling Whispers.** Characters who join an organization gain social access to the other members of the organization, giving them a chance to mingle with and attempt to influence these individuals as they see f it. Additionally, once per game session, one or more members of the organization can spread a rumor. The rumor is propagated within the organization—and potentially within the wider community, at the GM’s discretion. Additionally, the first member who makes a test to benefit from this rumor gains the effect shown on the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Social Club Example Benefits]] table.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Social Club Example Benefits]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Social Club Example Benefits]]
 
 ## Hideouts
 
 Whether you run with rebels, corporate colleagues, political organizers, or law enforcement, your crew can benefit from a **hideout**. Organization members and unaffiliated individuals alike need somewhere to recuperate and reequip between adventures—and a hideout provides the perfect venue for the downtime between major story events.
 
-When a character or organization receives this reward, they acquire a basic hideout. If they already have a hideout, they can instead improve one of their existing hideouts, expanding its capacities as described in the [[Mistborn Handbook/17 - Appendix 2 Tables|Hideout Upgrades]] table.
+When a character or organization receives this reward, they acquire a basic hideout. If they already have a hideout, they can instead improve one of their existing hideouts, expanding its capacities as described in the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Hideout Upgrades]] table.
 
 ### Basic Hideouts
 
@@ -688,7 +688,7 @@ A basic hideout consists of a safehouse where the characters can lie low withou
 
 ### Hideout Upgrades
 
-A basic hideout usually isn’t much more than a safe (and somewhat uncomfortable) place to hatch plots and get a few hours of shuteye. However, with a few upgrades, a hideout can be made into an impressive lair concealed in plain sight. Each time a character receives a hideout upgrade as a reward, they add a new feature to the hideout. This can be a feature listed in the [[Mistborn Handbook/17 - Appendix 2 Tables|Hideout Upgrades]] table or a bespoke feature the GM and players describe and detail together.
+A basic hideout usually isn’t much more than a safe (and somewhat uncomfortable) place to hatch plots and get a few hours of shuteye. However, with a few upgrades, a hideout can be made into an impressive lair concealed in plain sight. Each time a character receives a hideout upgrade as a reward, they add a new feature to the hideout. This can be a feature listed in the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Hideout Upgrades]] table or a bespoke feature the GM and players describe and detail together.
 
 At the GM’s discretion, hideout upgrades can also be built or acquired by the proprietors of the hideout, or even simply purchased. The GM is the final arbiter of the cost to expand a hideout in this way, based on the particular form the upgrade takes and the difficulty adding its new features imposes.
 
@@ -696,7 +696,7 @@ At the GM’s discretion, hideout upgrades can also be built or acquired by the 
 
 Hideouts should generally be safe havens, but if a hideout does ever become compromised due to a PC’s actions—or if the organization simply wishes to relocate—a hideout can be moved to a new location. This takes at least a few days (and possibly much longer, based on the hideout’s current location and contents) and might require your logistical support or investment, as determined by the GM. Once the hideout has been relocated, it retains all previous upgrades and any narrative features that make sense for its new location.
 
-[[Mistborn Handbook/17 - Appendix 2 Tables|Hideout Upgrades]]
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Hideout Upgrades]]
 
 ![[pg301_HB08_Crew_Hideout_Logan_Feliciano.webp]]
 

@@ -12,4 +12,4 @@ aliases: ["Stick to the Plan"]
 
 *Malfunctions and missteps needn’t end in disaster if you think on your feet. With a little improvisation, you course-correct before a situation goes south.*
 
-When you or an ally you can sense rolls a blank on a plot die, you can use this reaction and spend 2 focus to fill a slot in your [[Heroic Paths/Leader/Mastermind/Talents/Master Plan|Master Plan]] event, as if the roll were an Opportunity.
+When you or an ally you can sense rolls a blank on a plot die, you can use this reaction and spend 2 focus to fill a slot in your [[Master Plan|Master Plan]] event, as if the roll were an Opportunity.

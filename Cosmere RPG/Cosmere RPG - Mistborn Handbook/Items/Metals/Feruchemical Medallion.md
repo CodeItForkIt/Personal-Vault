@@ -22,4 +22,4 @@ While wearing a Feruchemical medallion, you can use any Feruchemical powers that
 
 **Spending and Storing Charges.** When tapping a medallion, the charges operate much like standard metalmind charges: They’re spent when you use the Tap action, and you can’t tap a medallion with 0 charges. However, storing in a medallion functions differently from metalminds: While storing, you still gain the effects of the Store action, but so little of the trait is absorbed into the medallion that you don’t generate charges. This allows for indefinite storage of traits, but limited tapping.
 
-**Number of Powers.** Each medallion is created with one, two, or three Feruchemical powers, each of which allows you to use that power’s Store and Tap actions (see [[Mistborn Handbook/07 - Ch 6 Metallic Arts|chapter 6]]).
+**Number of Powers.** Each medallion is created with one, two, or three Feruchemical powers, each of which allows you to use that power’s Store and Tap actions (see [[07 - Ch 6 Metallic Arts|chapter 6]]).

@@ -28,13 +28,13 @@ Skybreaker Ideals focus on fighting for justice, upholding codes, and protecting
 >
 > Skybreakers are investigators, law enforcement officers, attorneys, and litigators. Some focus on the physical aspects of law enforcement, while others become experts in the legal codes of nations throughout Roshar. As such, the following heroic paths can be excellent precursors to the Skybreaker Radiant path:
 >
-> - [[Heroic Paths/Agent/Agent|Agent]] (Investigator or Spy)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Agent|Agent]] (Investigator or Spy)
 >
-> - [[Heroic Paths/Envoy/Envoy|Envoy]] (Diplomat)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Envoy|Envoy]] (Diplomat)
 >
-> - [[Heroic Paths/Scholar/Scholar|Scholar]] (Strategist)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Scholar|Scholar]] (Strategist)
 >
-> - [[Heroic Paths/Warrior/Warrior|Warrior]] (Duelist)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Warrior|Warrior]] (Duelist)
 
 ### Skybreaker History
 

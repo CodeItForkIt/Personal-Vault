@@ -29,7 +29,7 @@ aliases: ["Alligator"]
 Increase the Alligator’s deflect value by +2.
 
 ### Ambusher
-At the start of each scene, if the Alligator isn’t [[Mistborn Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]], they can make a *Test: `skill=stl`* against the highest Spiritual defense among their enemies. On a success, the Alligator takes a fast turn before any other characters (this doesn’t count as their turn this round).
+At the start of each scene, if the Alligator isn’t [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]], they can make a *Test: `skill=stl`* against the highest Spiritual defense among their enemies. On a success, the Alligator takes a fast turn before any other characters (this doesn’t count as their turn this round).
 
 ### Ruthless Predator
 When the Alligator attacks and hits an enemy who hasn’t taken a turn yet this round, the attack deals an extra `1d8` damage.
@@ -38,4 +38,4 @@ When the Alligator attacks and hits an enemy who hasn’t taken a turn yet this 
 The Alligator gains an advantage on non-attack tests that rely on sight.
 
 ### Aquatic
-Swimming doesn't cause the Alligator to become [[Mistborn Handbook/10 - Ch 9 Adventuring#Slowed|Slowed]].
+Swimming doesn't cause the Alligator to become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Slowed|Slowed]].

@@ -12,4 +12,4 @@ aliases: ["Mnemonic Adept"]
 
 *Your practiced mind can accurately hold memories for longer before they begin to degrade.*
 
-Your [[Metallic Arts/Copper/Copper Feruchemy|Copper Feruchemy]] effects that usually last until the end of the scene instead last until after a long rest.
+Your [[Copper Feruchemy|Copper Feruchemy]] effects that usually last until the end of the scene instead last until after a long rest.

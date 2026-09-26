@@ -30,12 +30,12 @@ Consider these general tips for building an effective Hunter:
 
 **Skills.** Useful skills include **Agility**, **Perception**, **Stealth**, **Survival**, and either **Light Weaponry** or **Heavy Weaponry**.
 
-**Other Heroic Paths.** The [[Heroic Paths/Warrior/Warrior|Warrior]] and [[Heroic Paths/Agent/Agent|Agent]] paths make excellent multi-path choices.
+**Other Heroic Paths.** The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Warrior|Warrior]] and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Agent|Agent]] paths make excellent multi-path choices.
 
 **Rewards.** When choosing rewards, you can’t go wrong with an animal companion, a [[Items/Weapons/Grandbow|grandbow]], or a [[Items/Weapons/Shardblade|Shardblade]].
 
 ### Hunter Key Talent
 
-The Hunter key talent, [[Heroic Paths/Hunter/Seek Quarry|Seek Quarry]], unlocks access to the Hunter specialties.
+The Hunter key talent, [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Hunter/Seek Quarry|Seek Quarry]], unlocks access to the Hunter specialties.
 
 **Starting Skill: Perception.** If you choose Hunter as your starting path, gain a free skill rank in **Perception**.

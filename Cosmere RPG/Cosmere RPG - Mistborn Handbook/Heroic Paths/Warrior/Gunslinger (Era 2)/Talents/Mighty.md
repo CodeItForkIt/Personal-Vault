@@ -12,4 +12,4 @@ aliases: ["Mighty"]
 
 *You’re adept at placing shots for heavy impact.*
 
-When you hit with a weapon or [[Actions/Basic/Unarmed Attack|unarmed attack]], for each 1 you used on that attack’s action, increase the damage you deal by 1 + your tier. For example, if you’re level 6 and you make an attack that costs 2, each 1 deals an extra 1 + 2 damage, for a total of 6 damage.
+When you hit with a weapon or [[Unarmed Attack|unarmed attack]], for each 1 you used on that attack’s action, increase the damage you deal by 1 + your tier. For example, if you’re level 6 and you make an attack that costs 2, each 1 deals an extra 1 + 2 damage, for a total of 6 damage.

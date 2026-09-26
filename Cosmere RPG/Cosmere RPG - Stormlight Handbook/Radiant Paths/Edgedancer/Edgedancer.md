@@ -32,15 +32,15 @@ While each Edgedancer expresses the Words in their own way, they tend to follow 
 >
 > Edgedancers come from all walks of life, though they must care more about service to and advocacy for the common folk than they do for impressing the powerful. Those most attracted to the order often grew up destitute or similarly understand what it is to struggle, and religious practitioners, doctors, and other civil servants often find themselves attracted to the order. As such, the following heroic paths can be excellent precursors to the Edgedancer Radiant path:
 >
-> - [[Heroic Paths/Agent/Agent|Agent]] (Thief)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Agent|Agent]] (Thief)
 >
-> - [[Heroic Paths/Envoy/Envoy|Envoy]] (Diplomat, Faithful, or Mentor)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Envoy|Envoy]] (Diplomat, Faithful, or Mentor)
 >
-> - [[Heroic Paths/Hunter/Hunter|Hunter]] (Tracker)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Hunter|Hunter]] (Tracker)
 >
-> - [[Heroic Paths/Leader/Leader|Leader]] (Champion)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Leader|Leader]] (Champion)
 >
-> - [[Heroic Paths/Scholar/Scholar|Scholar]] (Surgeon)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Scholar|Scholar]] (Surgeon)
 
 ### Edgedancer History
 

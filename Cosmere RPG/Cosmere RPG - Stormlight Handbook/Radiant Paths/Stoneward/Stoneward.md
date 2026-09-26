@@ -32,13 +32,13 @@ Beyond the [[Radiant Paths/Stoneward/Goals/Speak the First Ideal|First Ideal]] (
 >
 > Stonewards are known for their teamwork, dependability, and love of a good challenge. People who enjoy sport, martial arts, or wilderness exploration easily find themselves drawn to the Stonewards. As such, the following heroic paths can be excellent precursors to the Stoneward Radiant path:
 >
-> - [[Heroic Paths/Envoy/Envoy|Envoy]] (Mentor)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Envoy|Envoy]] (Mentor)
 >
-> - [[Heroic Paths/Hunter/Hunter|Hunter]] (Tracker)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Hunter|Hunter]] (Tracker)
 >
-> - [[Heroic Paths/Leader/Leader|Leader]] (Champion or Officer)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Leader|Leader]] (Champion or Officer)
 >
-> - [[Heroic Paths/Warrior/Warrior|Warrior]] (Duelist, Shardbearer, or Soldier)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Warrior|Warrior]] (Duelist, Shardbearer, or Soldier)
 
 ### Stoneward History
 

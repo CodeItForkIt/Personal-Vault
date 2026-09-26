@@ -12,4 +12,4 @@ aliases: ["Double Down"]
 
 *When you decide to take a risk, you commit fully in pursuit of the greatest reward.*
 
-After you use your [[Heroic Paths/Agent/Opportunist|Opportunist]] talent, you can reroll the die one additional time. You must use this final result, and if it includes C, you lose 2 focus.
+After you use your [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Opportunist|Opportunist]] talent, you can reroll the die one additional time. You must use this final result, and if it includes C, you lose 2 focus.

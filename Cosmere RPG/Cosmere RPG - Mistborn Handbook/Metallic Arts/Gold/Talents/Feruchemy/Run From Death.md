@@ -12,6 +12,6 @@ aliases: ["Run From Death"]
 
 *Nearly meeting Death makes you surge with adrenaline, propelling you away from the source of your potential demise.*
 
-When you use your [[Metallic Arts/Gold/Talents/Feruchemy/Reflexive Bloodmaker|Reflexive Bloodmaker]], you can also [[Actions/Basic/Disengage|Disengage]] as part of that reaction.
+When you use your [[Reflexive Bloodmaker|Reflexive Bloodmaker]], you can also [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Disengage|Disengage]] as part of that reaction.
 
-Additionally, at the beginning of combat and at the start of each of your turns, you gain an additional r that can only be used for your [[Metallic Arts/Gold/Talents/Feruchemy/Reflexive Bloodmaker|Reflexive Bloodmaker]] talent.
+Additionally, at the beginning of combat and at the start of each of your turns, you gain an additional r that can only be used for your [[Reflexive Bloodmaker|Reflexive Bloodmaker]] talent.

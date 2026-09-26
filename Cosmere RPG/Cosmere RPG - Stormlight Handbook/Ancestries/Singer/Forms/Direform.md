@@ -12,4 +12,4 @@ aliases: ["Direform"]
 
 You’ve bonded with a callousspren, a type of Void- spren. While in this form, your **Strength** increases by 2 and your deflect value increases by 2. This deflect doesn’t stack with armor, so if you wear armor over your carapace, choose which value to use.
 
-Additionally, when a character triggers a [[Actions/Basic/Reactive Strike|Reactive Strike]] from you, you can use that reaction to attempt to [[Actions/Basic/Grapple|Grapple]] them instead of attacking; when you do, you must spend 1 focus as usual for Reactive Strike.
+Additionally, when a character triggers a [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Reactive Strike|Reactive Strike]] from you, you can use that reaction to attempt to [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Grapple|Grapple]] them instead of attacking; when you do, you must spend 1 focus as usual for Reactive Strike.

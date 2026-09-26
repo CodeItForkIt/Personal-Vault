@@ -1,134 +1,22 @@
 {
-  "nodes": [
-    {
-      "id": "kXeNtxEOpjXYBCt3",
-      "type": "file",
-      "file": "Ancestries/Kandra/Kandra Disguise.md",
-      "x": 340,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "9ymvzDA4KiAmhPWw",
-      "type": "file",
-      "file": "Ancestries/Kandra/Natural Form.md",
-      "x": 0,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "2sFL2M0mVs9mP0Tr",
-      "type": "file",
-      "file": "Ancestries/Kandra/Improvised Imitation.md",
-      "x": 680,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "E4EglhcRXRrG51dj",
-      "type": "file",
-      "file": "Ancestries/Kandra/Secret Away.md",
-      "x": 680,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "ZHCKgP0gMHlB4ghN",
-      "type": "file",
-      "file": "Ancestries/Kandra/Organic Tools.md",
-      "x": 1020,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "L7WFH9pjGm4c68x7",
-      "type": "file",
-      "file": "Ancestries/Kandra/Rapid Reshaping.md",
-      "x": 1020,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "AwJXWPRaJmGwuHgB",
-      "type": "file",
-      "file": "Ancestries/Kandra/Creative Forms.md",
-      "x": 1360,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "jzBbIRyGJrE4fauz",
-      "type": "file",
-      "file": "Ancestries/Kandra/Distasteful Forms.md",
-      "x": 1360,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    }
-  ],
-  "edges": [
-    {
-      "id": "edge0",
-      "fromNode": "kXeNtxEOpjXYBCt3",
-      "fromSide": "right",
-      "toNode": "2sFL2M0mVs9mP0Tr",
-      "toSide": "left"
-    },
-    {
-      "id": "edge1",
-      "fromNode": "ZHCKgP0gMHlB4ghN",
-      "fromSide": "right",
-      "toNode": "AwJXWPRaJmGwuHgB",
-      "toSide": "left"
-    },
-    {
-      "id": "edge2",
-      "fromNode": "L7WFH9pjGm4c68x7",
-      "fromSide": "right",
-      "toNode": "AwJXWPRaJmGwuHgB",
-      "toSide": "left"
-    },
-    {
-      "id": "edge3",
-      "fromNode": "kXeNtxEOpjXYBCt3",
-      "fromSide": "right",
-      "toNode": "E4EglhcRXRrG51dj",
-      "toSide": "left"
-    },
-    {
-      "id": "edge4",
-      "fromNode": "2sFL2M0mVs9mP0Tr",
-      "fromSide": "right",
-      "toNode": "L7WFH9pjGm4c68x7",
-      "toSide": "left"
-    },
-    {
-      "id": "edge5",
-      "fromNode": "E4EglhcRXRrG51dj",
-      "fromSide": "right",
-      "toNode": "ZHCKgP0gMHlB4ghN",
-      "toSide": "left"
-    },
-    {
-      "id": "edge6",
-      "fromNode": "L7WFH9pjGm4c68x7",
-      "fromSide": "right",
-      "toNode": "jzBbIRyGJrE4fauz",
-      "toSide": "left"
-    },
-    {
-      "id": "edge7",
-      "fromNode": "9ymvzDA4KiAmhPWw",
-      "fromSide": "right",
-      "toNode": "kXeNtxEOpjXYBCt3",
-      "toSide": "left"
-    }
-  ]
+	"nodes":[
+		{"id":"kXeNtxEOpjXYBCt3","type":"file","file":"Ancestries/Kandra/Kandra Disguise.md","x":340,"y":0,"width":280,"height":90},
+		{"id":"9ymvzDA4KiAmhPWw","type":"file","file":"Ancestries/Kandra/Natural Form.md","x":0,"y":0,"width":280,"height":90},
+		{"id":"2sFL2M0mVs9mP0Tr","type":"file","file":"Ancestries/Kandra/Improvised Imitation.md","x":680,"y":0,"width":280,"height":90},
+		{"id":"E4EglhcRXRrG51dj","type":"file","file":"Ancestries/Kandra/Secret Away.md","x":680,"y":120,"width":280,"height":90},
+		{"id":"ZHCKgP0gMHlB4ghN","type":"file","file":"Ancestries/Kandra/Organic Tools.md","x":1020,"y":0,"width":280,"height":90},
+		{"id":"L7WFH9pjGm4c68x7","type":"file","file":"Ancestries/Kandra/Rapid Reshaping.md","x":1020,"y":120,"width":280,"height":90},
+		{"id":"AwJXWPRaJmGwuHgB","type":"file","file":"Ancestries/Kandra/Creative Forms.md","x":1360,"y":0,"width":280,"height":90},
+		{"id":"jzBbIRyGJrE4fauz","type":"file","file":"Ancestries/Kandra/Distasteful Forms.md","x":1360,"y":120,"width":280,"height":90}
+	],
+	"edges":[
+		{"id":"edge0","fromNode":"kXeNtxEOpjXYBCt3","fromSide":"right","toNode":"2sFL2M0mVs9mP0Tr","toSide":"left"},
+		{"id":"edge1","fromNode":"ZHCKgP0gMHlB4ghN","fromSide":"right","toNode":"AwJXWPRaJmGwuHgB","toSide":"left"},
+		{"id":"edge2","fromNode":"L7WFH9pjGm4c68x7","fromSide":"right","toNode":"AwJXWPRaJmGwuHgB","toSide":"left"},
+		{"id":"edge3","fromNode":"kXeNtxEOpjXYBCt3","fromSide":"right","toNode":"E4EglhcRXRrG51dj","toSide":"left"},
+		{"id":"edge4","fromNode":"2sFL2M0mVs9mP0Tr","fromSide":"right","toNode":"L7WFH9pjGm4c68x7","toSide":"left"},
+		{"id":"edge5","fromNode":"E4EglhcRXRrG51dj","fromSide":"right","toNode":"ZHCKgP0gMHlB4ghN","toSide":"left"},
+		{"id":"edge6","fromNode":"L7WFH9pjGm4c68x7","fromSide":"right","toNode":"jzBbIRyGJrE4fauz","toSide":"left"},
+		{"id":"edge7","fromNode":"9ymvzDA4KiAmhPWw","fromSide":"right","toNode":"kXeNtxEOpjXYBCt3","toSide":"left"}
+	]
 }

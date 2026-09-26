@@ -16,4 +16,4 @@ While burning pewter or tapping strength from a pewtermind, you gain the followi
 
 - Weapons gain the **Thrown** [100/300] trait for you.
 
-- When you make a ranged attack with a **Thrown** weapon, you can use your [[Metallic Arts/Pewter/Talents/Allomancy/Pewterarm Weaponcraft|Pewterarm Weaponcraft]] as if you instead made a melee weapon attack.
+- When you make a ranged attack with a **Thrown** weapon, you can use your [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Metallic Arts/Pewter/Talents/Allomancy/Pewterarm Weaponcraft|Pewterarm Weaponcraft]] as if you instead made a melee weapon attack.

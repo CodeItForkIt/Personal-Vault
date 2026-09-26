@@ -24,9 +24,9 @@ Allomantic savantism occurs after years, or sometimes even decades, of “flarin
 
 ## Building a Misting
 
-The following “[[Mistborn Handbook/06 - Ch 5 Metalborn Paths#Iconic Mistings|Iconic Mistings]]” section provides example builds for characters inspired by the novels. Also consider these general tips for building an effective Misting:
+The following “[[06 - Ch 5 Metalborn Paths#Iconic Mistings|Iconic Mistings]]” section provides example builds for characters inspired by the novels. Also consider these general tips for building an effective Misting:
 
-**Attributes.** To increase your Investiture pool, invest in **Awareness** or **Presence** (your choice). Your other attributes largely depend on which Allomantic power you choose. For example, if your power often calls for **Allomancy** tests (like [[Metallic Arts/Brass/Brass Allomancy|Brass Allomancy]]), you might prioritize **Willpower**; if your power lends itself to combat (like [[Metallic Arts/Pewter/Pewter Allomancy|Pewter Allomancy]]), consider **Strength** or **Speed** to empower your weapon attacks.
+**Attributes.** To increase your Investiture pool, invest in **Awareness** or **Presence** (your choice). Your other attributes largely depend on which Allomantic power you choose. For example, if your power often calls for **Allomancy** tests (like [[Brass Allomancy|Brass Allomancy]]), you might prioritize **Willpower**; if your power lends itself to combat (like [[Pewter Allomancy|Pewter Allomancy]]), consider **Strength** or **Speed** to empower your weapon attacks.
 
 **Heroic Paths.** Most Mistings not only invest in their Metalborn path and its power, but they supplement it with heroic talents. It’s a good idea to consider the build advice from any heroic paths of interest.
 
@@ -36,4 +36,4 @@ The following “[[Mistborn Handbook/06 - Ch 5 Metalborn Paths#Iconic Mistings|I
 
 A Misting first discovers their powers when they Snap. In Era 1, this usually happens during a foundationshaking life event, such as a near-death experience or another traumatic situation. In Era 2, this usually occurs naturally around puberty. Choosing this talent represents your character Snapping and unlocks access to the Misting tree.
 
-**Starting Skill: Allomancy.** If you choose Misting as your starting path, gain a free skill rank in **Allomancy** (in addition to the rank gained from [[Metalborn Paths/Misting/Talents/Misting Snap|Misting Snap]]).
+**Starting Skill: Allomancy.** If you choose Misting as your starting path, gain a free skill rank in **Allomancy** (in addition to the rank gained from [[Misting Snap|Misting Snap]]).

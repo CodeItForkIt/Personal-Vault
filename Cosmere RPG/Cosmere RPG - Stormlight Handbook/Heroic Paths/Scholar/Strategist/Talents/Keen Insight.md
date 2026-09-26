@@ -12,4 +12,4 @@ aliases: ["Keen Insight"]
 
 *Everyone has weaknesses—and you have a knack for uncovering and exploiting them.*
 
-After you succeed on a test to [[Actions/Basic/Gain Advantage|Gain Advantage]], you exploit one of your target’s crucial traits, strengths, or flaws. Unless the target resists your influence, they gain a disadvantage on their next test during this encounter.
+After you succeed on a test to [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Gain Advantage|Gain Advantage]], you exploit one of your target’s crucial traits, strengths, or flaws. Unless the target resists your influence, they gain a disadvantage on their next test during this encounter.

@@ -12,4 +12,4 @@ aliases: ["Reactive Recovery"]
 
 *Your wounds heal with remarkable speed, making you more resilient against injury.*
 
-Before you take damage, use the [[Actions/Basic/Recover|Recover]] action as r.
+Before you take damage, use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Recover|Recover]] action as r.

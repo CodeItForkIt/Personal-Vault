@@ -12,4 +12,4 @@ aliases: ["Unrelenting Salvo"]
 
 *Drawing the bowstring with impressive speed, you fire again, using your first arrow’s path as your guide.*
 
-You can use the same ranged weapon to [[Actions/Basic/Strike|Strike]] against your quarry more than once a turn, instead of being limited to one Strike per hand.
+You can use the same ranged weapon to [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Strike|Strike]] against your quarry more than once a turn, instead of being limited to one Strike per hand.

@@ -14,7 +14,7 @@ aliases: ["Rotary Gun"]
 
 A rotary gun has an array of barrels set on a rotating circular base, typically connected to an ammunition magazine or belt. By manually cranking a lever, rounds are fed into the barrels and fired at an incredible rate.
 
-Especially in urban population centers, law enforcement officers (such as the constabulary) keep a close watch for hazardous items like this. Unless you have a patron (see “[[Mistborn Handbook/09 - Ch 8 Goals and Rewards|Reward Categories]]” in chapter 8) who authorizes you to acquire, transport, or wield a rotary gun, it’s incredibly difficult to purchase—and if caught with it, you’re liable to be arrested and prosecuted.
+Especially in urban population centers, law enforcement officers (such as the constabulary) keep a close watch for hazardous items like this. Unless you have a patron (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards|Reward Categories]]” in chapter 8) who authorizes you to acquire, transport, or wield a rotary gun, it’s incredibly difficult to purchase—and if caught with it, you’re liable to be arrested and prosecuted.
 
 **Unique Traits.** Rotary guns have the following unique traits:
 

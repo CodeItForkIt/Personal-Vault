@@ -12,7 +12,7 @@ aliases: ["Metallic Synergy"]
 
 *You’ve practiced extensively with the resonance of your two powers, and harnessing them has become second nature. This allows you to maximize both of your powers without needing extra time and concentration.*
 
-After you use your [[Metalborn Paths/Twinborn/Talents/Alloyed Resonance|Alloyed Resonance]], you also gain the benefits of your other power from your [[Metalborn Paths/Twinborn/Talents/Twinborn Heritage|Twinborn Heritage]]:
+After you use your [[Alloyed Resonance|Alloyed Resonance]], you also gain the benefits of your other power from your [[Twinborn Heritage|Twinborn Heritage]]:
 
 - If you spent 1 Investiture or more to augment your Feruchemical power, you also gain the effects of your Allomantic power, as if you’d spent that Investiture to burn your metal.
 

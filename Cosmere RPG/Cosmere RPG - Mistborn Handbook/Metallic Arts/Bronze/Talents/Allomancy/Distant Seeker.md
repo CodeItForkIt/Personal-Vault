@@ -12,4 +12,4 @@ aliases: ["Distant Seeker"]
 
 *You’ve trained to extend the reach of your Bronze Allomancy, enabling you to Seek far and wide.*
 
-Your Metallic Art range doubles for your [[Metallic Arts/Bronze/Bronze Allomancy|Bronze Allomancy]] power.
+Your Metallic Art range doubles for your [[Bronze Allomancy|Bronze Allomancy]] power.

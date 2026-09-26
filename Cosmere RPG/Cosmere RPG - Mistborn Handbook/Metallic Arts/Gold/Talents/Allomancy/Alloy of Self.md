@@ -16,6 +16,6 @@ You can forgo the usual benefits of a long rest to instead spend that time refle
 
 **Opportunity.** Describe how the insights from the gold shadow can help you advance one of your character’s goals. If the GM is satisfied with this explanation, advance that goal by one milestone. You can only do so once per goal.
 
-**Complication.** After thinking in circles for hours, you become [[Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted]] [−1].
+**Complication.** After thinking in circles for hours, you become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted]] [−1].
 
 **Blank.** Nothing happens.

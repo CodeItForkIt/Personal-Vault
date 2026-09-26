@@ -20,7 +20,7 @@ The following section presents companion stat blocks for some of the most common
 
 ## Reading a Stat Block
 
-Animal companions follow the [[Mistborn Handbook/14 - Ch 13 Gamemastering|Using Adversaries]] rules in chapter 13 of this book. Like other stat blocks, your companion can also use the actions, free actions, and reactions in [[Mistborn Handbook/11 - Ch 10 Combat|chapter 10]]; for example, to move, they use the Move action.
+Animal companions follow the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering|Using Adversaries]] rules in chapter 13 of this book. Like other stat blocks, your companion can also use the actions, free actions, and reactions in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|chapter 10]]; for example, to move, they use the Move action.
 
 ## Your Companion’s Behavior
 
@@ -34,17 +34,17 @@ If your companion falls Unconscious in a place where they can’t be safely reco
 
 ## Animal Companion Stat Blocks
 
-The following stat blocks are available as animal companion rewards. The *Mistborn World Guide* contains additional stat blocks you can use as companions with your GM’s permission; see [[Mistborn Handbook/16 - Appendix 1 Animal Companions|Customizing Stat Blocks]] for details on doing so.
+The following stat blocks are available as animal companion rewards. The *Mistborn World Guide* contains additional stat blocks you can use as companions with your GM’s permission; see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/16 - Appendix 1 Animal Companions|Customizing Stat Blocks]] for details on doing so.
 
 ## Tier 1 Companions
 
 The following are recommended for tier 1 characters.
 
-[[Animal Companions/Animals/Tier 1/Cat|Cat]]
+[[Cat|Cat]]
 
-[[Animal Companions/Animals/Tier 1/Raven|Raven]]
+[[Raven|Raven]]
 
-[[Animal Companions/Animals/Tier 1/Wolfhound|Wolfhound]]
+[[Wolfhound|Wolfhound]]
 
 ![[pg385_HB15_Pursuit_Anna Pazyniuk.webp]]
 
@@ -58,9 +58,9 @@ The following are recommended for tier 1 characters.
 
 The following are recommended for tier 2 characters.
 
-[[Animal Companions/Animals/Tier 2/Horse|Horse]]
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Animal Companions/Animals/Tier 2/Horse|Horse]]
 
-[[Animal Companions/Animals/Tier 2/Lion|Lion]]
+[[Lion|Lion]]
 
 ## Customizing Stat Blocks
 
@@ -118,11 +118,11 @@ If you’d like to adjust a stat block’s actions to better fit a different an
 
 ### Example Stat Block Changes
 
-To inspire your own modifications, this section presents examples of how you could adjust the stat blocks presented earlier to create a new animal companion. All features added in these examples appear in [[Mistborn Handbook/16 - Appendix 1 Animal Companions#Example Features|Example Features]].
+To inspire your own modifications, this section presents examples of how you could adjust the stat blocks presented earlier to create a new animal companion. All features added in these examples appear in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/16 - Appendix 1 Animal Companions#Example Features|Example Features]].
 
-#### [[Animal Companions/Animals/Tier 2/Alligator|Alligator]]
+#### [[Alligator|Alligator]]
 
-To create an alligator, make the following changes to the **[[Animal Companions/Animals/Tier 2/Lion|lion]]** stat block:
+To create an alligator, make the following changes to the **[[Lion|lion]]** stat block:
 
 - Add Scales (+2 deflect).
 
@@ -134,9 +134,9 @@ To create an alligator, make the following changes to the **[[Animal Companions
 
 - Reduce their movement rate by 10 feet (to 30 feet).
 
-#### [[Animal Companions/Animals/Tier 1/Dolphin|Dolphin]]
+#### [[Dolphin|Dolphin]]
 
-To create a dolphin, make the following changes to the **[[Animal Companions/Animals/Tier 1/Wolfhound|wolfhound]]** stat block:
+To create a dolphin, make the following changes to the **[[Wolfhound|wolfhound]]** stat block:
 
 - Grant them a 40-foot swimming rate.
 
@@ -150,15 +150,15 @@ To create a dolphin, make the following changes to the **[[Animal Companions/An
 
 - Remove the Intimidation skill ranks.
 
-#### [[Animal Companions/Animals/Tier 1/Falcon|Falcon]]
+#### [[Falcon|Falcon]]
 
-To create a falcon, make the following changes to the **[[Animal Companions/Animals/Tier 1/Raven|raven]]** stat block:
+To create a falcon, make the following changes to the **[[Raven|raven]]** stat block:
 
 - Add the Fleet feature (increasing their flying rate by 10 feet).
 
 - Add the Skilled feature (choosing Survival as the skill).
 
-- Make their Claw attack more powerful by increasing the damage die from 1d4 to 1d6 (see [[Mistborn Handbook/16 - Appendix 1 Animal Companions#Example Actions|Example Actions]]).
+- Make their Claw attack more powerful by increasing the damage die from 1d4 to 1d6 (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/16 - Appendix 1 Animal Companions#Example Actions|Example Actions]]).
 
 - Remove the Deduction skill ranks.
 
@@ -166,9 +166,9 @@ To create a falcon, make the following changes to the **[[Animal Companions/Ani
 
 - Remove the Swift Swipe feature.
 
-#### [[Animal Companions/Animals/Tier 1/Snake|Snake]]
+#### [[Snake|Snake]]
 
-To create a snake, make the following changes to the **[[Animal Companions/Animals/Tier 1/Cat|cat]]** stat block:
+To create a snake, make the following changes to the **[[Cat|cat]]** stat block:
 
 - Add Scales (+2 deflect).
 
@@ -176,7 +176,7 @@ To create a snake, make the following changes to the **[[Animal Companions/Anim
 
 - Add the Sleek feature (helping them squeeze through smaller spaces).
 
-- Make their Bite attack venomous (see [[Mistborn Handbook/16 - Appendix 1 Animal Companions#Example Actions|Example Actions]]).
+- Make their Bite attack venomous (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/16 - Appendix 1 Animal Companions#Example Actions|Example Actions]]).
 
 - Remove the Stealth skill ranks.
 

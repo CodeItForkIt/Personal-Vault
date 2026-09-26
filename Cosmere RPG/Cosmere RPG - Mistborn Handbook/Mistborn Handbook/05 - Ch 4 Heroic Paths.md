@@ -18,13 +18,13 @@ Characters in Mistborn campaigns are heroes: they help others in need, save inno
 
 ## Using Paths and Talents
 
-As a player character, the abilities on your character sheet primarily come from your talents (see “[[Mistborn Handbook/05 - Ch 4 Heroic Paths#Using Talents|Using Talents]]” later in this section). You’ll gain your first talent during character creation, then choose more as you gain levels.
+As a player character, the abilities on your character sheet primarily come from your talents (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths#Using Talents|Using Talents]]” later in this section). You’ll gain your first talent during character creation, then choose more as you gain levels.
 
-Your path provides structure for how you choose your talents. It begins with a key talent that, once chosen, unlocks access to the talents within that path’s three specialties. For example, once you pick the [[Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance]] (Warrior Key) talent, you gain access to the Brawler, Gunslinger, and Soldier specialties within the Warrior path.
+Your path provides structure for how you choose your talents. It begins with a key talent that, once chosen, unlocks access to the talents within that path’s three specialties. For example, once you pick the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance]] (Warrior Key) talent, you gain access to the Brawler, Gunslinger, and Soldier specialties within the Warrior path.
 
 ## Heroic and Metalborn Paths
 
-Over the course of their adventuring career, player characters can—and most do—choose talents from multiple paths and specialties. This can include additional heroic paths or a Metalborn path. You might also be able to choose unique talents from other sources, such as the [[Mistborn Handbook/03 - Ch 2 Origins#Kandra Talents|Kandra talent tree]] or [[Mistborn Handbook/03 - Ch 2 Origins#Koloss-Blooded Talent Tree|Koloss-Blooded talent tree]] in chapter 2.
+Over the course of their adventuring career, player characters can—and most do—choose talents from multiple paths and specialties. This can include additional heroic paths or a Metalborn path. You might also be able to choose unique talents from other sources, such as the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/03 - Ch 2 Origins#Kandra Talents|Kandra talent tree]] or [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/03 - Ch 2 Origins#Koloss-Blooded Talent Tree|Koloss-Blooded talent tree]] in chapter 2.
 
 All player characters begin by choosing either a **heroic path** or **Metalborn path** and gaining one talent from it. This chapter presents the six heroic paths:
 
@@ -42,9 +42,9 @@ All player characters begin by choosing either a **heroic path** or **Metalborn 
 
 Some characters remain focused on these heroic paths as they gain levels, but many characters follow a Metalborn path from chapter 5, either at character creation or as the narrative develops. Metalborn paths grant access to Allomancy and Feruchemy—two powerful Metallic Arts that use the metals of Scadrial to perform wondrous feats.
 
-[[Mistborn Handbook/06 - Ch 5 Metalborn Paths|Ch. 5: Metalborn Paths]]
+[[06 - Ch 5 Metalborn Paths|Ch. 5: Metalborn Paths]]
 
-[[Mistborn Handbook/07 - Ch 6 Metallic Arts|Ch. 6: Metallic Arts]]
+[[07 - Ch 6 Metallic Arts|Ch. 6: Metallic Arts]]
 
 <table class="mb-blue">
 <colgroup>
@@ -76,11 +76,11 @@ Some characters remain focused on these heroic paths as they gain levels, but ma
 
 The entry for each path begins with an introduction describing its three specialties (for heroic paths), recommending which statistics to prioritize during character creation, and suggesting several iconic Mistborn characters you could build with that path. The remainder of each entry presents the talents for that path, divided by specialty.
 
-See [[Mistborn Handbook/02 - Ch 1 Character Creation|chapter 1]] for instructions on how to create your character and choose your first path.
+See [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation|chapter 1]] for instructions on how to create your character and choose your first path.
 
 ### Creation Tips
 
-As you create your character, be sure to consider how your character’s build will serve you in all scene types, not just combat (see "[[Mistborn Handbook/10 - Ch 9 Adventuring|Scenes]]" in chapter 9).
+As you create your character, be sure to consider how your character’s build will serve you in all scene types, not just combat (see "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Scenes]]" in chapter 9).
 
 You can create characters from any path with nearly any combination of attributes, skills, and talents, but some combinations work especially well together. The general advice in each path’s introduction can help you get started—but the possibilities are endless, and those tips might not apply to the specific role you envision your character playing.
 
@@ -90,9 +90,9 @@ Each path includes a talent tree (or in the case of heroic paths, each specialty
 
 ### Key Talent
 
-When choosing a new talent, the **key talent** (the top talent of each path) is always available, provided you meet any prerequisites (see "[[Mistborn Handbook/02 - Ch 1 Character Creation#Prerequisites|Prerequisites]]" at the end of chapter 1). Gaining this key talent unlocks access to the specialties and talents in that path.
+When choosing a new talent, the **key talent** (the top talent of each path) is always available, provided you meet any prerequisites (see "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation#Prerequisites|Prerequisites]]" at the end of chapter 1). Gaining this key talent unlocks access to the specialties and talents in that path.
 
-You can follow as many paths and specialties as you wish. You might even decide to follow a powerful Metalborn path (see [[Mistborn Handbook/06 - Ch 5 Metalborn Paths|chapter 5]])—if so, its key talent can be chosen just like those of heroic paths.
+You can follow as many paths and specialties as you wish. You might even decide to follow a powerful Metalborn path (see [[06 - Ch 5 Metalborn Paths|chapter 5]])—if so, its key talent can be chosen just like those of heroic paths.
 
 ### Accessing Other Talents
 
@@ -134,9 +134,9 @@ All talents (including those in other chapters) have the following elements:
 
 **Name.** The name of the talent.
 
-**Prerequisite.** To choose a talent, it must either be a key talent or you must’ve already gained a talent linked to it in the talent tree (see “[[Mistborn Handbook/05 - Ch 4 Heroic Paths#Advancing Through a Path|Advancing Through a Path]]”). Additionally, some talents list other prerequisites you must meet before choosing that talent (see “[[Mistborn Handbook/02 - Ch 1 Character Creation#Prerequisites|Prerequisites]]” at the end of chapter 1). These might include gaining skill ranks or achieving certain ambitions within the narrative, such as gaining the backing of a patron.
+**Prerequisite.** To choose a talent, it must either be a key talent or you must’ve already gained a talent linked to it in the talent tree (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths#Advancing Through a Path|Advancing Through a Path]]”). Additionally, some talents list other prerequisites you must meet before choosing that talent (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation#Prerequisites|Prerequisites]]” at the end of chapter 1). These might include gaining skill ranks or achieving certain ambitions within the narrative, such as gaining the backing of a patron.
 
-**Activation.** Each talent lists an activation time, representing how long it takes to initiate or accomplish the ability granted by that talent (see the upcoming “[[Mistborn Handbook/05 - Ch 4 Heroic Paths#Activating a Talent|Activating a Talent]]” section). For ease of reference, the talent tree shows the corresponding icon for that activation type beside the talent’s name.
+**Activation.** Each talent lists an activation time, representing how long it takes to initiate or accomplish the ability granted by that talent (see the upcoming “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths#Activating a Talent|Activating a Talent]]” section). For ease of reference, the talent tree shows the corresponding icon for that activation type beside the talent’s name.
 
 **Narrative Description.** Each talent briefly describes how its effect might fit within your shared story. This doesn’t impact the talent’s rules, but it provides context and flavor to help you, other players, and the GM imagine how that ability might play out narratively. Feel free to reflavor these to suit your character or the situation.
 
@@ -146,11 +146,11 @@ All talents (including those in other chapters) have the following elements:
 
 Each talent lists its activation type after its prerequisites. These activation types include the following:
 
-**Action (1).** Many talents require using one or more actions to activate their effect. To activate these talent effects, follow the normal rules for actions (see "[[Mistborn Handbook/11 - Ch 10 Combat|Actions and Reactions]]" in chapter 10).
+**Action (1).** Many talents require using one or more actions to activate their effect. To activate these talent effects, follow the normal rules for actions (see "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Actions and Reactions]]" in chapter 10).
 
-**Free Action (0).** Some talents require activation on your turn, but since they’re a free action, they don’t prevent you from doing other things too. These follow the normal rules for free actions (see "[[Mistborn Handbook/11 - Ch 10 Combat|Actions and Reactions]]" in chapter 10).
+**Free Action (0).** Some talents require activation on your turn, but since they’re a free action, they don’t prevent you from doing other things too. These follow the normal rules for free actions (see "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Actions and Reactions]]" in chapter 10).
 
-**Reaction (r).** Some talents can only be used in response to a trigger—an effect stated in the talent. You aren’t required to use the talent when that trigger occurs, but if you want to, you use your reaction following the normal rules for reactions (see "[[Mistborn Handbook/11 - Ch 10 Combat|Actions and Reactions]]" in chapter 10). Some talents allow you to use a reaction to activate a separate ability that usually requires an action; when that happens, follow all that ability’s rules except for its activation time.
+**Reaction (r).** Some talents can only be used in response to a trigger—an effect stated in the talent. You aren’t required to use the talent when that trigger occurs, but if you want to, you use your reaction following the normal rules for reactions (see "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Actions and Reactions]]" in chapter 10). Some talents allow you to use a reaction to activate a separate ability that usually requires an action; when that happens, follow all that ability’s rules except for its activation time.
 
 **Special Activation (\*).** Some talents don’t necessarily cost an action or reaction; instead, you choose to activate them in other specific ways, such as by taking a short or long rest, by spending focus as part of another action, or by simply choosing to reroll a die (no action required). You can find the rules for activating these talents in that talent’s description; if a particular action type isn’t named, you can freely activate the effect when the described circumstances occur.
 
@@ -164,13 +164,13 @@ Each talent lists its activation type after its prerequisites. These activation 
 
 Though actions and reactions are often used in combat, your talents apply in other circumstances too! In these non-combat scenes, the GM might grant you the talent’s full effect or adapt it to fit the non-combat situation.
 
-In endeavors and conversations (see chapters [[Mistborn Handbook/12 - Ch 11 Conversations|11]] and [[Mistborn Handbook/13 - Ch 12 Endeavors|12]]), talent effects that require an action or reaction can be used as a single contribution, while those that require a free action can be used at any time. Most special activation talents can be used too, at the GM’s discretion.
+In endeavors and conversations (see chapters [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/12 - Ch 11 Conversations|11]] and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/13 - Ch 12 Endeavors|12]]), talent effects that require an action or reaction can be used as a single contribution, while those that require a free action can be used at any time. Most special activation talents can be used too, at the GM’s discretion.
 
 In other scenes, the GM determines the amount of time a talent requires to use.
 
 ### Talent Targets
 
-Some talents merely affect you, while others allow you to interact in special ways with other characters, objects, or the environment. Effects that target characters and objects follow the rules in the [[Mistborn Handbook/11 - Ch 10 Combat|Targeting and Range]] section of chapter 10.
+Some talents merely affect you, while others allow you to interact in special ways with other characters, objects, or the environment. Effects that target characters and objects follow the rules in the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Targeting and Range]] section of chapter 10.
 
 ### Talent and Effect Timing
 
@@ -194,7 +194,7 @@ The following rules determine if a talent or other effect can apply multiple tim
 
 #### Choosing Duplicate Talents
 
-Some talent names appear in several paths—these can’t be chosen twice. See the earlier [[Mistborn Handbook/05 - Ch 4 Heroic Paths#Advancing Through a Path|Advancing Through a Path]] section for instructions on how to skip over these talents.
+Some talent names appear in several paths—these can’t be chosen twice. See the earlier [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths#Advancing Through a Path|Advancing Through a Path]] section for instructions on how to skip over these talents.
 
 #### Duplicate Effect Names
 
@@ -226,7 +226,7 @@ The Agent path presents talents in three specialties:
 
 ## Building an Agent
 
-The following [[Mistborn Handbook/05 - Ch 4 Heroic Paths#Agents of Scadrial|Agents of Scadrial]] section suggests example builds for iconic characters. If you have a different idea in mind, consider these general tips for building an effective Agent:
+The following [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths#Agents of Scadrial|Agents of Scadrial]] section suggests example builds for iconic characters. If you have a different idea in mind, consider these general tips for building an effective Agent:
 
 **Attributes.** It’s usually a good idea to prioritize Awareness, Intellect, and Speed.
 
@@ -246,9 +246,9 @@ Serving as boots on the ground for the Ghostbloods, these new members are recrui
 
 **Building a Ghostblood Initiate.** Choose any ancestry, the Wayfarer expertise, and one other cultural expertise. Start with high Awareness and Intellect. In addition to the Insight skill rank you gain from Agent, put 1 rank into Deduction, Insight, Persuasion, and Stealth.
 
-In addition to the [[Heroic Paths/Agent/Opportunist|Opportunist (Agent Key)]] talent, if you’re human, use your bonus talent to choose the [[Heroic Paths/Agent/Investigator/Talents/Get Em Talking|Get ’Em Talking]] talent in the Investigator specialty; if you’re kandra or koloss-blooded, acquire that talent at a later level. Finally, choose the Underworld starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Opportunist|Opportunist (Agent Key)]] talent, if you’re human, use your bonus talent to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Investigator/Talents/Get Em Talking|Get ’Em Talking]] talent in the Investigator specialty; if you’re kandra or koloss-blooded, acquire that talent at a later level. Finally, choose the Underworld starting kit.
 
-As you level up, consider the [[Heroic Paths/Agent/Investigator/Talents/Gather Evidence|Gather Evidence]] and [[Heroic Paths/Agent/Investigator/Talents/Close the Case|Close the Case]] talents. You might also consider the [[Heroic Paths/Agent/Thief/Talents/Underworld Contacts|Underworld Contacts]] talent in the [[Heroic Paths/Agent/Thief/Thief|Thief]] specialty, representing your access to the network of Ghostblood informational resources.
+As you level up, consider the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Investigator/Talents/Gather Evidence|Gather Evidence]] and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Investigator/Talents/Close the Case|Close the Case]] talents. You might also consider the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Thief/Talents/Underworld Contacts|Underworld Contacts]] talent in the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Thief/Thief|Thief]] specialty, representing your access to the network of Ghostblood informational resources.
 
 ### Survivor of the Streets
 
@@ -256,9 +256,9 @@ No matter a society’s progress, the establishments that benefit many still for
 
 **Building a Survivor.** Choose human ancestry, the Underworld cultural expertise, and one other cultural expertise. Start with high Speed and Willpower. In addition to the Insight skill rank you gain from Agent, put 2 ranks in Thievery, and put 1 rank into Agility and Survival.
 
-In addition to the [[Heroic Paths/Agent/Opportunist|Opportunist (Agent Key)]] talent, use your human ancestry to choose the [[Heroic Paths/Agent/Thief/Talents/Cheap Shot|Cheap Shot]] talent in the [[Heroic Paths/Agent/Thief/Thief|Thief]] specialty. Finally, choose the Underworld or Runaway starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Opportunist|Opportunist (Agent Key)]] talent, use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Thief/Talents/Cheap Shot|Cheap Shot]] talent in the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Thief/Thief|Thief]] specialty. Finally, choose the Underworld or Runaway starting kit.
 
-As you level up, consider the [[Heroic Paths/Agent/Thief/Talents/Tricksters Hand|Trickster’s Hand]] talent.
+As you level up, consider the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Thief/Talents/Tricksters Hand|Trickster’s Hand]] talent.
 
 ![[pg079_HB04_Agent Marasi_Amirul HHF.webp]]
 
@@ -270,9 +270,9 @@ Many people are stepped on, but not all can fight and stand up by themselves. Th
 
 **Building a Symbol.** Choose any ancestry and any two cultural expertises. Start with high Presence and Willpower. In addition to the Insight skill rank you gain from Agent, put 2 ranks into Leadership and 1 rank into Deception and Discipline.
 
-In addition to the [[Heroic Paths/Agent/Opportunist|Opportunist (Agent Key talent)]], if you’re human, use your bonus talent to choose the [[Heroic Paths/Agent/Rebel/Talents/True Grit|True Grit]] talent in the [[Heroic Paths/Agent/Rebel/Rebel|Rebel]] specialty; if you’re kandra or koloss-blooded, acquire that talent at a later level. Finally, choose the Researcher starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Opportunist|Opportunist (Agent Key talent)]], if you’re human, use your bonus talent to choose the [[True Grit|True Grit]] talent in the [[Rebel|Rebel]] specialty; if you’re kandra or koloss-blooded, acquire that talent at a later level. Finally, choose the Researcher starting kit.
 
-As you level up, consider the [[Heroic Paths/Agent/Rebel/Talents/Raise the Banner|Raise the Banner]] and [[Heroic Paths/Agent/Rebel/Talents/Martyrs Boon|Martyr’s Boon]] talents to cement your status as an idea. To further ingratiate yourself with others, also consider the [[Heroic Paths/Agent/Thief/Talents/Risky Behavior|Risky Behavior]] and [[Heroic Paths/Agent/Thief/Talents/Fast Talker|Fast Talker]] talents from the Thief specialty.
+As you level up, consider the [[Raise the Banner|Raise the Banner]] and [[Martyrs Boon|Martyr’s Boon]] talents to cement your status as an idea. To further ingratiate yourself with others, also consider the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Thief/Talents/Risky Behavior|Risky Behavior]] and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Thief/Talents/Fast Talker|Fast Talker]] talents from the Thief specialty.
 
 **DEANDRA SCICLUNA & GAL OR**
 
@@ -328,7 +328,7 @@ The Envoy path presents talents within three specialties:
 
 ## Building an Envoy
 
-The following [[Mistborn Handbook/05 - Ch 4 Heroic Paths#Envoys of Scadrial|Envoys of Scadrial]] section suggests example builds for iconic characters. If you have a different idea in mind, consider these general tips for building an effective Envoy:
+The following [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths#Envoys of Scadrial|Envoys of Scadrial]] section suggests example builds for iconic characters. If you have a different idea in mind, consider these general tips for building an effective Envoy:
 
 **Attributes.** It’s usually a good idea to prioritize Presence and Willpower.
 
@@ -348,9 +348,9 @@ Contrary to popular belief, many con artists dream of a better world. They see t
 
 **Building a Con Artist.** Choose any ancestry and the Underworld and High Society cultural expertises. Start with a high Awareness and Presence. In addition to the Discipline skill rank you gain from Envoy, put 2 ranks into Deception, and put 1 rank into Insight and Persuasion.
 
-In addition to the [[Heroic Paths/Envoy/Rousing Presence|Rousing Presence (Envoy Key)]] talent, if you’re human, use your bonus talent to choose the [[Heroic Paths/Envoy/Grifter/Talents/False Flattery|False Flattery]] talent from the [[Heroic Paths/Envoy/Grifter/Grifter|Grifter]] specialty; if you’re kandra or koloss-blooded, acquire that talent at a later level. Finally, choose the Underworld starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Rousing Presence|Rousing Presence (Envoy Key)]] talent, if you’re human, use your bonus talent to choose the [[False Flattery|False Flattery]] talent from the [[Grifter|Grifter]] specialty; if you’re kandra or koloss-blooded, acquire that talent at a later level. Finally, choose the Underworld starting kit.
 
-As you level up, consider the [[Heroic Paths/Envoy/Grifter/Talents/Plausible Excuse|Plausible Excuse]], [[Heroic Paths/Envoy/Grifter/Talents/Outrageous Quip|Outrageous Quip]], and [[Heroic Paths/Envoy/Grifter/Talents/Got Em Good|Got ’Em Good]] talents.
+As you level up, consider the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Grifter/Talents/Plausible Excuse|Plausible Excuse]], [[Outrageous Quip|Outrageous Quip]], and [[Got Em Good|Got ’Em Good]] talents.
 
 ### Priest of the Survivor
 
@@ -358,9 +358,9 @@ Emulating the Survivor of Hathsin, priests of the Survivor are calculating and r
 
 **Building a Priest of the Survivor.** Choose human ancestry, either the Central Dominance cultural expertise or Elendel cultural expertise (depending on your era), and one other cultural expertise. Start with high Awareness and Intellect. In addition to the Discipline skill rank you gain from Envoy, put 2 ranks into Survival, and put 1 rank into Intimidation and Lore.
 
-In addition to the [[Heroic Paths/Envoy/Rousing Presence|Rousing Presence (Envoy Key)]] talent, use your human ancestry to choose the [[Heroic Paths/Envoy/Faithful/Talents/Galvanize|Galvanize]] talent from the [[Heroic Paths/Envoy/Faithful/Faithful|Faithful]] specialty. Finally, choose the Researcher starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Rousing Presence|Rousing Presence (Envoy Key)]] talent, use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Faithful/Talents/Galvanize|Galvanize]] talent from the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Faithful/Faithful|Faithful]] specialty. Finally, choose the Researcher starting kit.
 
-As you level up, consider the [[Heroic Paths/Envoy/Faithful/Talents/Applied Motivation|Applied Motivation]], [[Heroic Paths/Envoy/Faithful/Talents/Composed|Composed]], and [[Heroic Paths/Envoy/Faithful/Talents/Customary Garb|Customary Garb]] talents.
+As you level up, consider the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Faithful/Talents/Applied Motivation|Applied Motivation]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Faithful/Talents/Composed|Composed]], and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Faithful/Talents/Customary Garb|Customary Garb]] talents.
 
 ### Terris Steward Era 1
 
@@ -368,9 +368,9 @@ Acting as both servants and advisors, a Terris steward typically keeps their hea
 
 **Building a Terris Steward.** Choose human ancestry and the Terris Dominance and High Society cultural expertises. Start with a high Intellect and Presence. In addition to the Discipline skill rank you gain from Envoy, put 2 ranks into Leadership, and put 1 rank into Lore and Persuasion.
 
-In addition to the [[Heroic Paths/Envoy/Rousing Presence|Rousing Presence (Envoy Key)]] talent, use your human ancestry to choose the [[Heroic Paths/Envoy/Mentor/Talents/Sound Advice|Sound Advice]] talent from the [[Heroic Paths/Envoy/Mentor/Mentor|Mentor]] specialty. Finally, choose the Noble starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Rousing Presence|Rousing Presence (Envoy Key)]] talent, use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Mentor/Talents/Sound Advice|Sound Advice]] talent from the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Mentor/Mentor|Mentor]] specialty. Finally, choose the Noble starting kit.
 
-As you level up, consider the [[Heroic Paths/Envoy/Mentor/Talents/Lessons in Patience|Lessons in Patience]], [[Heroic Paths/Envoy/Mentor/Talents/Mighty|Mighty]], and [[Heroic Paths/Envoy/Mentor/Talents/Foresight|Foresight]] talents.
+As you level up, consider the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Mentor/Talents/Lessons in Patience|Lessons in Patience]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Mentor/Talents/Mighty|Mighty]], and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Mentor/Talents/Foresight|Foresight]] talents.
 
 ![[pg087_HB04_Sazed Preaching_Bear Frymire.webp]]
 
@@ -450,7 +450,7 @@ The Hunter path presents talents in three specialties:
 
 ## Building a Hunter
 
-The following [[Mistborn Handbook/05 - Ch 4 Heroic Paths#Hunters of Scadrial|Hunters of Scadrial]] section suggests example builds for iconic characters. If you have a different idea in mind, consider these general tips for building an effective Hunter:
+The following [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths#Hunters of Scadrial|Hunters of Scadrial]] section suggests example builds for iconic characters. If you have a different idea in mind, consider these general tips for building an effective Hunter:
 
 **Attributes.** It’s usually a good idea to prioritize Awareness, Strength, and Speed.
 
@@ -470,9 +470,9 @@ When highborn houses are fighting, it’s of paramount importance to know as muc
 
 **Building a House Scout.** Choose human ancestry and the Luthadel and High Society cultural expertises. Start with high Awareness and either high Intellect or Speed. In addition to the Perception skill rank you gain from Hunter, put 1 rank into Agility, Deduction, Stealth, and Survival.
 
-In addition to the [[Heroic Paths/Hunter/Seek Quarry|Seek Quarry (Hunter Key)]] talent, use your human ancestry to choose the [[Heroic Paths/Hunter/Tracker/Talents/Deadly Trap|Deadly Trap]] talent in the [[Heroic Paths/Hunter/Tracker/Tracker|Tracker]] specialty. Finally, choose the Courtier or Underworld starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Seek Quarry|Seek Quarry (Hunter Key)]] talent, use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Tracker/Talents/Deadly Trap|Deadly Trap]] talent in the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Tracker/Tracker|Tracker]] specialty. Finally, choose the Courtier or Underworld starting kit.
 
-As you level up, work toward the [[Heroic Paths/Hunter/Tracker/Talents/Hunters Edge|Hunter’s Edge]] talent, and consider talents from the Agent’s [[Heroic Paths/Agent/Investigator/Investigator|Investigator]] specialty to help track the movements of enemy agents.
+As you level up, work toward the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Tracker/Talents/Hunters Edge|Hunter’s Edge]] talent, and consider talents from the Agent’s [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Investigator/Investigator|Investigator]] specialty to help track the movements of enemy agents.
 
 ### Kill Squad Member
 
@@ -480,9 +480,9 @@ Training trumps talent—such is the motto of kill squads sent to fight enemy Me
 
 **Building a Kill Squad Member.** Choose any ancestry and any two cultural expertises. Start with high Awareness and either high Strength or Speed. In addition to the Perception skill rank you gain from Hunter, put 1 rank into Discipline, Heavy Weaponry, Light Weaponry, and Perception.
 
-In addition to the [[Heroic Paths/Hunter/Seek Quarry|Seek Quarry (Hunter Key)]] talent, if you’re human, use your bonus talent to choose the [[Heroic Paths/Hunter/Hazekiller/Talents/Seek Allomancer|Seek Allomancer]] talent in the [[Heroic Paths/Hunter/Hazekiller/Hazekiller|Hazekiller]] specialty; if you’re kandra or koloss-blooded, acquire that talent at a later level. Finally, choose the Mercenary starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Seek Quarry|Seek Quarry (Hunter Key)]] talent, if you’re human, use your bonus talent to choose the [[Seek Allomancer|Seek Allomancer]] talent in the [[Hazekiller|Hazekiller]] specialty; if you’re kandra or koloss-blooded, acquire that talent at a later level. Finally, choose the Mercenary starting kit.
 
-As you level up, work toward the [[Heroic Paths/Hunter/Hazekiller/Talents/Hazekiller Weaponry|Hazekiller Weaponry]] and [[Heroic Paths/Hunter/Hazekiller/Talents/Delicate Touch|Delicate Touch]] talents.
+As you level up, work toward the [[Hazekiller Weaponry|Hazekiller Weaponry]] and [[Delicate Touch|Delicate Touch]] talents.
 
 ### Outlaw Sniper Era 2
 
@@ -490,9 +490,9 @@ When working as part of a crew in the Roughs, it’s vital to have a person with
 
 **Building an Outlaw Sniper.** Choose human or koloss-blooded ancestry, the Roughs cultural expertise, and one other cultural expertise. Start with high Awareness and Strength. In addition to the Perception skill rank you gain from Hunter, put 2 ranks into Heavy Weaponry, and put 1 rank into Stealth and Survival.
 
-In addition to the [[Heroic Paths/Hunter/Seek Quarry|Seek Quarry (Hunter Key)]] talent, if you’re human, use your ancestry to choose the [[Heroic Paths/Warrior/Gunslinger (Era 2)/Talents/Fire Discipline|Fire Discipline]] talent from the [[Heroic Paths/Hunter/Sharpshooter/Sharpshooter|Sharpshooter]] specialty; if you’re koloss-blooded, acquire that talent at a later level. Finally, choose the Mercenary starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Seek Quarry|Seek Quarry (Hunter Key)]] talent, if you’re human, use your ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Gunslinger (Era 2)/Talents/Fire Discipline|Fire Discipline]] talent from the [[Sharpshooter|Sharpshooter]] specialty; if you’re koloss-blooded, acquire that talent at a later level. Finally, choose the Mercenary starting kit.
 
-As you level up, choose the [[Heroic Paths/Hunter/Sharpshooter/Talents/Sharp Eye|Sharp Eye]] talent, and work toward the [[Heroic Paths/Hunter/Sharpshooter/Talents/Deadly Aim|Deadly Aim]] talent. Also consider the [[Heroic Paths/Hunter/Hazekiller/Talents/Seek Allomancer|Seek Allomancer]] talent in the [[Heroic Paths/Hunter/Hazekiller/Hazekiller|Hazekiller]] specialty and the [[Heroic Paths/Agent/Thief/Talents/Shadow Step|Shadow Step]] talent in the Agent’s [[Heroic Paths/Agent/Thief/Thief|Thief]] specialty.
+As you level up, choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Sharpshooter/Talents/Sharp Eye|Sharp Eye]] talent, and work toward the [[Deadly Aim|Deadly Aim]] talent. Also consider the [[Seek Allomancer|Seek Allomancer]] talent in the [[Hazekiller|Hazekiller]] specialty and the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Thief/Talents/Shadow Step|Shadow Step]] talent in the Agent’s [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Thief/Thief|Thief]] specialty.
 
 ![[pg095_HB04_Taking Aim_Saeed Ramez.webp]]
 
@@ -540,7 +540,7 @@ The Leader path presents talents within three specialties:
 
 ## Building a Leader
 
-The following [[Mistborn Handbook/05 - Ch 4 Heroic Paths#Leaders of Scadrial|Leaders of Scadrial]] section suggests example builds for iconic characters. If you have a different idea in mind, consider these general tips for building an effective Leader:
+The following [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths#Leaders of Scadrial|Leaders of Scadrial]] section suggests example builds for iconic characters. If you have a different idea in mind, consider these general tips for building an effective Leader:
 
 **Attributes.** For a combat-oriented leader, prioritize Presence, Strength, and Willpower. For leaders of social or business groups, prioritize Intellect and Awareness.
 
@@ -560,9 +560,9 @@ Each noble house’s appointed head not only guides house members amid internal 
 
 **Building a House Head.** Choose human ancestry, the High Society cultural expertise, and either the Luthadel cultural expertise (in Era 1) or the Elendel cultural expertise (in Era 2). Start with high Awareness and Presence. In addition to the Leadership skill rank you gain from Leader, put 1 rank into Deception, Deduction, Insight, and Persuasion.
 
-In addition to the [[Heroic Paths/Leader/Decisive Command|Decisive Command (Leader Key)]] talent, use your human ancestry to choose the [[Heroic Paths/Leader/Politico/Talents/Cutthroat Tactics|Cutthroat Tactics]] talent from the [[Heroic Paths/Leader/Politico/Politico|Politico]] specialty. Finally, choose the Noble starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Decisive Command|Decisive Command (Leader Key)]] talent, use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Politico/Talents/Cutthroat Tactics|Cutthroat Tactics]] talent from the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Politico/Politico|Politico]] specialty. Finally, choose the Noble starting kit.
 
-As you level up, consider the [[Heroic Paths/Leader/Politico/Talents/Baleful|Baleful]] and [[Heroic Paths/Leader/Politico/Talents/Set at Odds|Set at Odds]] talents.
+As you level up, consider the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Politico/Talents/Baleful|Baleful]] and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Politico/Talents/Set at Odds|Set at Odds]] talents.
 
 ### Roughs Lawkeeper Era 2
 
@@ -570,9 +570,9 @@ Though life in the Roughs is beyond the reach of Elendel’s law, the people of 
 
 **Building a Roughs Lawkeeper.** Choose human or koloss-blooded ancestry and the Roughs and Underworld cultural expertises. Start with high Presence and Speed. In addition to the Leadership skill rank you gain from Leader, put 1 rank into Deception, Light Weaponry, Perception, and Persuasion.
 
-In addition to the [[Heroic Paths/Leader/Decisive Command|Decisive Command (Leader Key)]] talent, if you’re human, use your bonus talent to choose the [[Heroic Paths/Leader/Officer/Talents/Through the Fray|Through the Fray]] talent from the [[Heroic Paths/Leader/Officer/Officer|Officer]] specialty; if you’re koloss-blooded, acquire that talent at a later level. Finally, choose the Mercenary starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Decisive Command|Decisive Command (Leader Key)]] talent, if you’re human, use your bonus talent to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Officer/Talents/Through the Fray|Through the Fray]] talent from the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Officer/Officer|Officer]] specialty; if you’re koloss-blooded, acquire that talent at a later level. Finally, choose the Mercenary starting kit.
 
-As you level up, consider the [[Heroic Paths/Leader/Officer/Talents/Synchronized Assault|Synchronized Assault]] talent.
+As you level up, consider the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Officer/Talents/Synchronized Assault|Synchronized Assault]] talent.
 
 ![[pg103_HB04_Dockson Crewleader_Svetlana Kostina.webp]]
 
@@ -584,9 +584,9 @@ Behind all great heists in Luthadel stands a great organizer—someone who overs
 
 **Building a Crew Operator.** Choose human ancestry and the Luthadel and Underworld cultural expertises. Start with high Intellect and Willpower. In addition to the Leadership skill rank you gain from Leader, put 1 rank into Discipline, Insight, Perception, and Persuasion.
 
-In addition to the [[Heroic Paths/Leader/Decisive Command|Decisive Command (Leader Key)]] talent, use your human ancestry to choose the [[Heroic Paths/Leader/Officer/Talents/Composed|Composed]] talent from the [[Heroic Paths/Leader/Officer/Officer|Officer]] specialty. Finally, choose the Researcher starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Decisive Command|Decisive Command (Leader Key)]] talent, use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Officer/Talents/Composed|Composed]] talent from the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Officer/Officer|Officer]] specialty. Finally, choose the Researcher starting kit.
 
-As you level up, consider the [[Heroic Paths/Leader/Officer/Talents/Well Supplied|Well Supplied]] talent, and work toward the [[Heroic Paths/Leader/Mastermind/Talents/Smooth Execution|Smooth Execution]] talent in the [[Heroic Paths/Leader/Mastermind/Mastermind|Mastermind]] specialty.
+As you level up, consider the [[Well Supplied|Well Supplied]] talent, and work toward the [[Smooth Execution|Smooth Execution]] talent in the [[Mastermind|Mastermind]] specialty.
 
 **DEANDRA SCICLUNA & GAL OR**
 
@@ -636,7 +636,7 @@ The Scholar path presents talents in three specialties:
 
 ## Building a Scholar
 
-The following [[Mistborn Handbook/05 - Ch 4 Heroic Paths#Scholars of Scadrial|Scholars of Scadrial]] section suggests example builds for iconic characters. If you have a different idea in mind, consider these general tips for building an effective Scholar:
+The following [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths#Scholars of Scadrial|Scholars of Scadrial]] section suggests example builds for iconic characters. If you have a different idea in mind, consider these general tips for building an effective Scholar:
 
 **Attributes.** It’s usually a good idea to prioritize Intellect, then Presence plus either Speed or Strength (depending on your desired combat functionality).
 
@@ -656,9 +656,9 @@ New possibilities lie around every corner in Elendel City. Due to rapid industri
 
 **Building an Elendel Inventor.** Choose human ancestry, the Elendel cultural expertise, and one other cultural expertise. Start with high Intellect and Presence. In addition to the Lore skill rank you gain from Scholar, put 2 ranks into Crafting, and put 1 rank into Deduction and Persuasion.
 
-For your [[Heroic Paths/Scholar/Erudition|Erudition (Scholar Key)]] talent, choose a field of specialty (such as Electricity, Machinery, or Structural Engineering) as your bonus expertise, and put your bonus skill ranks into Crafting and Lore. Use your human ancestry to choose the [[Heroic Paths/Scholar/Inventor/Talents/Proficient Operator|Proficient Operator]] talent from the [[Heroic Paths/Scholar/Inventor/Inventor|Inventor]] specialty. Finally, choose the Artisan starting kit.
+For your [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Erudition|Erudition (Scholar Key)]] talent, choose a field of specialty (such as Electricity, Machinery, or Structural Engineering) as your bonus expertise, and put your bonus skill ranks into Crafting and Lore. Use your human ancestry to choose the [[Proficient Operator|Proficient Operator]] talent from the [[Inventor|Inventor]] specialty. Finally, choose the Artisan starting kit.
 
-As you level up, choose the [[Heroic Paths/Scholar/Inventor/Talents/Hasty Adjustment|Hasty Adjustment]] talent, and work toward [[Heroic Paths/Scholar/Inventor/Talents/Its in Here Somewhere|It’s in Here Somewhere]].
+As you level up, choose the [[Hasty Adjustment|Hasty Adjustment]] talent, and work toward [[Its in Here Somewhere|It’s in Here Somewhere]].
 
 ### Terris Historian Era 1
 
@@ -666,9 +666,9 @@ In the Terris tradition, archivists work to preserve history, religions, and oth
 
 **Building a Terris Historian.** Choose human ancestry, the Terris Dominance cultural expertise, and one other cultural expertise. Start with a high Intellect and Willpower. In addition to the Lore skill rank you gain from Scholar, put 2 ranks into Discipline, and put 1 rank into Deduction and Insight.
 
-For your [[Heroic Paths/Scholar/Erudition|Erudition (Scholar Key)]] talent, choose a historical topic (such as Folklore, Ancient Religions, or Pre-Ascension Kingdoms) as your bonus expertise, and put your bonus skill ranks into Discipline and Lore. Use your human ancestry to choose the [[Heroic Paths/Scholar/Strategist/Talents/Strategize|Strategize]] talent from the [[Heroic Paths/Scholar/Strategist/Strategist|Strategist]] specialty. Finally, choose the Researcher starting kit.
+For your [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Erudition|Erudition (Scholar Key)]] talent, choose a historical topic (such as Folklore, Ancient Religions, or Pre-Ascension Kingdoms) as your bonus expertise, and put your bonus skill ranks into Discipline and Lore. Use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Strategist/Talents/Strategize|Strategize]] talent from the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Strategist/Strategist|Strategist]] specialty. Finally, choose the Researcher starting kit.
 
-As you level up, choose the [[Heroic Paths/Scholar/Strategist/Talents/Composed|Composed]] and [[Heroic Paths/Scholar/Strategist/Talents/Deep Contemplation|Deep Contemplation]] talents from the [[Heroic Paths/Scholar/Strategist/Strategist|Strategist]] specialty. If you want to become a Keeper, consider taking talents from the [[Metalborn Paths/Feruchemist/Feruchemist|Feruchemist]] path in chapter 5, starting with the [[Metalborn Paths/Feruchemist/Talents/Feruchemist Heritage|Feruchemist Heritage]] key talent.
+As you level up, choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Strategist/Talents/Composed|Composed]] and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Strategist/Talents/Deep Contemplation|Deep Contemplation]] talents from the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Strategist/Strategist|Strategist]] specialty. If you want to become a Keeper, consider taking talents from the [[Feruchemist|Feruchemist]] path in chapter 5, starting with the [[Feruchemist Heritage|Feruchemist Heritage]] key talent.
 
 ![[pg111_HB04_Wax Steris Lab_Marie Seeberger.webp]]
 
@@ -680,9 +680,9 @@ Doctors consider various systems in a body and how they interconnect. Many study
 
 **Building a Kandra Surgeon.** Choose kandra ancestry, the Kandra Homeland cultural expertise, and one other cultural expertise. Start with high Intellect and Presence. In addition to the Lore skill rank you gain from Scholar, put 2 ranks into Medicine, and put 1 rank into Deception and Deduction.
 
-For your [[Heroic Paths/Scholar/Erudition|Erudition (Scholar Key)]] talent, choose an aspect of the human anatomy (such as Skeletal System, Muscular System, or Digestive System) as your bonus expertise, and put your bonus skill ranks into Deduction and Medicine. Finally, choose the Artisan starting kit.
+For your [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Erudition|Erudition (Scholar Key)]] talent, choose an aspect of the human anatomy (such as Skeletal System, Muscular System, or Digestive System) as your bonus expertise, and put your bonus skill ranks into Deduction and Medicine. Finally, choose the Artisan starting kit.
 
-As you level up, choose the [[Heroic Paths/Scholar/Surgeon/Talents/Field Medicine|Field Medicine]] and [[Heroic Paths/Scholar/Surgeon/Talents/Emotional Intelligence|Emotional Intelligence]] talents from the [[Heroic Paths/Scholar/Surgeon/Surgeon|Surgeon]] specialty (putting Emotional Intelligence’s bonus skill rank into Persuasion), and work toward [[Heroic Paths/Scholar/Surgeon/Talents/Anatomical Insight|Anatomical Insight]] and [[Heroic Paths/Scholar/Surgeon/Talents/Resuscitation|Resuscitation]].
+As you level up, choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Surgeon/Talents/Field Medicine|Field Medicine]] and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Surgeon/Talents/Emotional Intelligence|Emotional Intelligence]] talents from the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Surgeon/Surgeon|Surgeon]] specialty (putting Emotional Intelligence’s bonus skill rank into Persuasion), and work toward [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Surgeon/Talents/Anatomical Insight|Anatomical Insight]] and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Surgeon/Talents/Resuscitation|Resuscitation]].
 
 **DEANDRA SCICLUNA & GAL OR**
 
@@ -692,7 +692,7 @@ The Scholar key talent, Erudition, unlocks access to the Scholar specialties.
 
 Starting Skill: Lore. If you choose Scholar as your starting path, gain a free skill rank in Lore.
 
-[[Heroic Paths/Scholar/Erudition|Erudition]]
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Erudition|Erudition]]
 
 ## Inventor Specialty Era 2
 
@@ -730,7 +730,7 @@ The Warrior path presents talents within three specialties:
 
 ## Building a Warrior
 
-The following [[Mistborn Handbook/05 - Ch 4 Heroic Paths#Warriors of Scadrial|Warriors of Scadrial]] section suggests example builds for iconic characters. If you have a different idea in mind, consider these general tips for building an effective Warrior:
+The following [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths#Warriors of Scadrial|Warriors of Scadrial]] section suggests example builds for iconic characters. If you have a different idea in mind, consider these general tips for building an effective Warrior:
 
 **Attributes.** It’s usually a good idea to prioritize Speed and Strength, then consider Awareness and Willpower.
 
@@ -750,9 +750,9 @@ Not all soldiers fight for what they believe in. Some skaa recruits join the Sup
 
 **Building a Skaa Mercenary.** Choose human ancestry, the Skaa cultural expertise, and one other cultural expertise. Start with high Speed and Strength. In addition to the Athletics skill rank you gain from Warrior, put 2 ranks into Discipline, and put 1 rank into Heavy Weaponry and Light Weaponry.
 
-In addition to the [[Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance (Warrior Key)]] talent, use your human ancestry to choose the [[Heroic Paths/Warrior/Soldier/Talents/Combat Training|Combat Training]] talent from the [[Heroic Paths/Warrior/Soldier/Soldier|Soldier]] specialty. Finally, choose the Mercenary starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance (Warrior Key)]] talent, use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Soldier/Talents/Combat Training|Combat Training]] talent from the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Soldier/Soldier|Soldier]] specialty. Finally, choose the Mercenary starting kit.
 
-As you level up, consider the [[Heroic Paths/Warrior/Soldier/Talents/Formation Drills|Formation Drills]] talent.
+As you level up, consider the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Soldier/Talents/Formation Drills|Formation Drills]] talent.
 
 ### Gang Muscle Era 2
 
@@ -760,9 +760,9 @@ In criminal enterprises, fear is a currency that buys loyalty from colleagues an
 
 **Building a Gang Muscle.** Choose human or koloss-blooded ancestry, the Underworld cultural expertise, and one other cultural expertise. Start with high Strength and Willpower. In addition to the Athletics skill rank you gain from Warrior, put 2 ranks into Intimidation, and put 1 rank into Athletics and Thievery.
 
-In addition to the [[Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance (Warrior Key)]] talent, if you’re human, use your bonus talent to choose the [[Heroic Paths/Warrior/Brawler/Talents/Grapplers Stance|Grappler’s Stance]] talent from the [[Heroic Paths/Warrior/Brawler/Brawler|Brawler]] specialty; if you’re koloss-blooded, acquire that talent at a later level. Finally, choose the Underworld starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance (Warrior Key)]] talent, if you’re human, use your bonus talent to choose the [[Grapplers Stance|Grappler’s Stance]] talent from the [[Brawler|Brawler]] specialty; if you’re koloss-blooded, acquire that talent at a later level. Finally, choose the Underworld starting kit.
 
-As you level up, consider the [[Heroic Paths/Warrior/Brawler/Talents/Baleful|Baleful]] talent.
+As you level up, consider the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Brawler/Talents/Baleful|Baleful]] talent.
 
 ![[pg119_HB04_Warriors of Scadrial_Andrew Chou.webp]]
 
@@ -774,9 +774,9 @@ Life as a bounty hunter in the Roughs is charged with excitement and danger. Som
 
 **Building a Roughs Enforcer.** Choose human or koloss-blooded ancestry, the Roughs cultural expertise, and one other cultural expertise. Start with high Awareness and Speed. In addition to the Athletics skill rank you gain from Warrior, put 2 ranks into Light Weaponry, and put 1 rank into Deduction and Insight.
 
-In addition to the [[Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance (Warrior Key)]] talent, if you’re human, use your ancestry to choose the [[Heroic Paths/Warrior/Gunslinger (Era 2)/Talents/Fire Discipline|Fire Discipline]] talent from the [[Heroic Paths/Warrior/Gunslinger (Era 2)/Gunslinger|Gunslinger]] specialty; if you’re koloss-blooded, acquire that talent at a later level. Finally, choose the Mercenary starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance (Warrior Key)]] talent, if you’re human, use your ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Gunslinger (Era 2)/Talents/Fire Discipline|Fire Discipline]] talent from the [[Gunslinger|Gunslinger]] specialty; if you’re koloss-blooded, acquire that talent at a later level. Finally, choose the Mercenary starting kit.
 
-As you level up, work toward the [[Heroic Paths/Warrior/Gunslinger (Era 2)/Talents/Twin Weapon Stance|Twin Weapon Stance]] talent.
+As you level up, work toward the [[Twin Weapon Stance|Twin Weapon Stance]] talent.
 
 **DEANDRA SCICLUNA & GAL OR**
 

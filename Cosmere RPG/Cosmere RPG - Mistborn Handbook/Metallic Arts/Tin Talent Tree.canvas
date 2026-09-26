@@ -1,170 +1,26 @@
 {
-  "nodes": [
-    {
-      "id": "tJ1rXl4IKbeM7jpa",
-      "type": "file",
-      "file": "Metallic Arts/Tin/Talents/Allomancy/Proactive Sensibility.md",
-      "x": 340,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "IE3Nu28pUGGIyrVD",
-      "type": "file",
-      "file": "Metallic Arts/Tin/Talents/Feruchemy/Reflexive Windwhisperer.md",
-      "x": 340,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "aYJsPuDpFANwPlRl",
-      "type": "file",
-      "file": "Metallic Arts/Tin/Talents/Allomancy/Sense for Weakness.md",
-      "x": 340,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "c0EvY5U6fa8ySFCW",
-      "type": "file",
-      "file": "Metallic Arts/Tin/Talents/Feruchemy/Store Pain.md",
-      "x": 340,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "kqgTOyno4IhokIRl",
-      "type": "file",
-      "file": "Metallic Arts/Tin/Talents/Allomancy/Tinpoint Accuracy.md",
-      "x": 340,
-      "y": 480,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "lVKqSvDEkE4hn0iy",
-      "type": "file",
-      "file": "Metallic Arts/Tin/Talents/Feruchemy/True Windwhispering.md",
-      "x": 340,
-      "y": 600,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "XlKztGVxUy9wFBf1",
-      "type": "file",
-      "file": "Metallic Arts/Tin/Talents/Allomancy/Flaring Refocus.md",
-      "x": 0,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "epJZ55CRunWgKHAZ",
-      "type": "file",
-      "file": "Metallic Arts/Tin/Talents/Allomancy/Sensible Preparation.md",
-      "x": 0,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "MFcWH0RKouBF4TNb",
-      "type": "file",
-      "file": "Metallic Arts/Tin/Talents/Feruchemy/Sensory Control.md",
-      "x": 0,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "XMrgHvvUdc8mnWGE",
-      "type": "file",
-      "file": "Metallic Arts/Tin/Talents/Feruchemy/Tinpoint Accuracy.md",
-      "x": 0,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "T1UfQEcpj1DYucGj",
-      "type": "file",
-      "file": "Metallic Arts/Tin/Talents/Feruchemy/Multisensory Storing.md",
-      "x": 680,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "CTnjWPDYHgxhgxc6",
-      "type": "file",
-      "file": "Metallic Arts/Tin/Talents/Allomancy/Wasing About Not Seeing.md",
-      "x": 680,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    }
-  ],
-  "edges": [
-    {
-      "id": "edge0",
-      "fromNode": "tJ1rXl4IKbeM7jpa",
-      "fromSide": "right",
-      "toNode": "CTnjWPDYHgxhgxc6",
-      "toSide": "left"
-    },
-    {
-      "id": "edge1",
-      "fromNode": "MFcWH0RKouBF4TNb",
-      "fromSide": "right",
-      "toNode": "IE3Nu28pUGGIyrVD",
-      "toSide": "left"
-    },
-    {
-      "id": "edge2",
-      "fromNode": "IE3Nu28pUGGIyrVD",
-      "fromSide": "right",
-      "toNode": "T1UfQEcpj1DYucGj",
-      "toSide": "left"
-    },
-    {
-      "id": "edge3",
-      "fromNode": "XlKztGVxUy9wFBf1",
-      "fromSide": "right",
-      "toNode": "aYJsPuDpFANwPlRl",
-      "toSide": "left"
-    },
-    {
-      "id": "edge4",
-      "fromNode": "MFcWH0RKouBF4TNb",
-      "fromSide": "right",
-      "toNode": "c0EvY5U6fa8ySFCW",
-      "toSide": "left"
-    },
-    {
-      "id": "edge5",
-      "fromNode": "XlKztGVxUy9wFBf1",
-      "fromSide": "right",
-      "toNode": "kqgTOyno4IhokIRl",
-      "toSide": "left"
-    },
-    {
-      "id": "edge6",
-      "fromNode": "MFcWH0RKouBF4TNb",
-      "fromSide": "right",
-      "toNode": "lVKqSvDEkE4hn0iy",
-      "toSide": "left"
-    },
-    {
-      "id": "edge7",
-      "fromNode": "epJZ55CRunWgKHAZ",
-      "fromSide": "right",
-      "toNode": "tJ1rXl4IKbeM7jpa",
-      "toSide": "left"
-    }
-  ]
+	"nodes":[
+		{"id":"tJ1rXl4IKbeM7jpa","type":"file","file":"Metallic Arts/Tin/Talents/Allomancy/Proactive Sensibility.md","x":340,"y":0,"width":280,"height":90},
+		{"id":"IE3Nu28pUGGIyrVD","type":"file","file":"Metallic Arts/Tin/Talents/Feruchemy/Reflexive Windwhisperer.md","x":340,"y":120,"width":280,"height":90},
+		{"id":"aYJsPuDpFANwPlRl","type":"file","file":"Metallic Arts/Tin/Talents/Allomancy/Sense for Weakness.md","x":340,"y":240,"width":280,"height":90},
+		{"id":"c0EvY5U6fa8ySFCW","type":"file","file":"Metallic Arts/Tin/Talents/Feruchemy/Store Pain.md","x":340,"y":360,"width":280,"height":90},
+		{"id":"kqgTOyno4IhokIRl","type":"file","file":"Metallic Arts/Tin/Talents/Allomancy/Tinpoint Accuracy.md","x":340,"y":480,"width":280,"height":90},
+		{"id":"lVKqSvDEkE4hn0iy","type":"file","file":"Metallic Arts/Tin/Talents/Feruchemy/True Windwhispering.md","x":340,"y":600,"width":280,"height":90},
+		{"id":"XlKztGVxUy9wFBf1","type":"file","file":"Metallic Arts/Tin/Talents/Allomancy/Flaring Refocus.md","x":0,"y":0,"width":280,"height":90},
+		{"id":"epJZ55CRunWgKHAZ","type":"file","file":"Metallic Arts/Tin/Talents/Allomancy/Sensible Preparation.md","x":0,"y":120,"width":280,"height":90},
+		{"id":"MFcWH0RKouBF4TNb","type":"file","file":"Metallic Arts/Tin/Talents/Feruchemy/Sensory Control.md","x":0,"y":240,"width":280,"height":90},
+		{"id":"XMrgHvvUdc8mnWGE","type":"file","file":"Metallic Arts/Tin/Talents/Feruchemy/Tinpoint Accuracy.md","x":0,"y":360,"width":280,"height":90},
+		{"id":"T1UfQEcpj1DYucGj","type":"file","file":"Metallic Arts/Tin/Talents/Feruchemy/Multisensory Storing.md","x":680,"y":0,"width":280,"height":90},
+		{"id":"CTnjWPDYHgxhgxc6","type":"file","file":"Metallic Arts/Tin/Talents/Allomancy/Wasing About Not Seeing.md","x":680,"y":120,"width":280,"height":90}
+	],
+	"edges":[
+		{"id":"edge0","fromNode":"tJ1rXl4IKbeM7jpa","fromSide":"right","toNode":"CTnjWPDYHgxhgxc6","toSide":"left"},
+		{"id":"edge1","fromNode":"MFcWH0RKouBF4TNb","fromSide":"right","toNode":"IE3Nu28pUGGIyrVD","toSide":"left"},
+		{"id":"edge2","fromNode":"IE3Nu28pUGGIyrVD","fromSide":"right","toNode":"T1UfQEcpj1DYucGj","toSide":"left"},
+		{"id":"edge3","fromNode":"XlKztGVxUy9wFBf1","fromSide":"right","toNode":"aYJsPuDpFANwPlRl","toSide":"left"},
+		{"id":"edge4","fromNode":"MFcWH0RKouBF4TNb","fromSide":"right","toNode":"c0EvY5U6fa8ySFCW","toSide":"left"},
+		{"id":"edge5","fromNode":"XlKztGVxUy9wFBf1","fromSide":"right","toNode":"kqgTOyno4IhokIRl","toSide":"left"},
+		{"id":"edge6","fromNode":"MFcWH0RKouBF4TNb","fromSide":"right","toNode":"lVKqSvDEkE4hn0iy","toSide":"left"},
+		{"id":"edge7","fromNode":"epJZ55CRunWgKHAZ","fromSide":"right","toNode":"tJ1rXl4IKbeM7jpa","toSide":"left"}
+	]
 }

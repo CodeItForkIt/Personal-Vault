@@ -18,7 +18,7 @@ As you step into the world of Scadrial, you start by creating the character you�
 
 ## Before Character Creation
 
-Before you create your character, imagine who they are. What sort of person do you want to play? If you’re a longtime fan of Mistborn, this might be a specific idea like “a Terris Keeper.” If you haven’t even touched the novels, maybe it’s as simple as “a tough-as-nails mercenary.” There’s no wrong way to approach this process! You can come up with this concept on your own, or the group can collaborate on everyone’s characters. If you need inspiration, consider the iconic builds in the [[Mistborn Handbook/05 - Ch 4 Heroic Paths|heroic paths]] of chapter 4, or think about the example [[Mistborn Handbook/09 - Ch 8 Goals and Rewards#Purpose|purposes]], [[Mistborn Handbook/09 - Ch 8 Goals and Rewards#Obstacle|obstacles]], and [[Mistborn Handbook/09 - Ch 8 Goals and Rewards|goals]] in chapter 8.
+Before you create your character, imagine who they are. What sort of person do you want to play? If you’re a longtime fan of Mistborn, this might be a specific idea like “a Terris Keeper.” If you haven’t even touched the novels, maybe it’s as simple as “a tough-as-nails mercenary.” There’s no wrong way to approach this process! You can come up with this concept on your own, or the group can collaborate on everyone’s characters. If you need inspiration, consider the iconic builds in the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths|heroic paths]] of chapter 4, or think about the example [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards#Purpose|purposes]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards#Obstacle|obstacles]], and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards|goals]] in chapter 8.
 
 ## Telling a Compelling Story
 
@@ -55,25 +55,25 @@ This section guides you through the eight steps of character creation:
 
 8.  Calculate your final statistics.
 
-Though following these steps in order makes your calculations easiest, some players prefer taking other approaches. For example, you could start with your character’s story, then fill out the rest of your character around that concept. To spark inspiration, each heroic path in [[Mistborn Handbook/05 - Ch 4 Heroic Paths|chapter 4]] includes examples of how you might use it to build an iconic Mistborn character archetype; if you’re looking for ideas, that’s a great place to start.
+Though following these steps in order makes your calculations easiest, some players prefer taking other approaches. For example, you could start with your character’s story, then fill out the rest of your character around that concept. To spark inspiration, each heroic path in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths|chapter 4]] includes examples of how you might use it to build an iconic Mistborn character archetype; if you’re looking for ideas, that’s a great place to start.
 
 Before starting character creation, make sure you have a copy of the Cosmere RPG character sheet; you’ll use this to keep track of your character’s statistics and unique abilities. You can copy the sheet at the back of this book or download and print a sheet from [CosmereRPG.com/character-sheets](https://www.cosmererpg.com/downloads).
 
 ## Step 1: Origins
 
-The first step in defining your character is choosing where you come from, including your ancestry and culture. As you think about your origins, use the tips at the beginning of [[Mistborn Handbook/03 - Ch 2 Origins|chapter 2]] to begin brainstorming other aspects of your story; you’ll solidify these details in [[Mistborn Handbook/02 - Ch 1 Character Creation#Step 7: Story|step 7]] of character creation.
+The first step in defining your character is choosing where you come from, including your ancestry and culture. As you think about your origins, use the tips at the beginning of [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/03 - Ch 2 Origins|chapter 2]] to begin brainstorming other aspects of your story; you’ll solidify these details in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation#Step 7: Story|step 7]] of character creation.
 
 ### Choose Your Ancestry
 
 Your **ancestry** represents the species you’re descended from. In this game, you can choose from three sapient species who live on Scadrial: humans, kandra, and koloss-blooded. Your ancestry guides your appearance, and depending on the capabilities of your species, it might unlock some unique talents.
 
-**On Your Character Sheet.** Choose one ancestry from the "[[Mistborn Handbook/03 - Ch 2 Origins|Ancestry]]" section of chapter 2, then write its name on the front of your sheet. Record that ancestry’s special rules in their respective fields. (Your ancestry also grants you one or more bonus talents; you’ll choose these during [[Mistborn Handbook/02 - Ch 1 Character Creation#Step 5: Talents|step 5]] when you gain your other talents.)
+**On Your Character Sheet.** Choose one ancestry from the "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/03 - Ch 2 Origins|Ancestry]]" section of chapter 2, then write its name on the front of your sheet. Record that ancestry’s special rules in their respective fields. (Your ancestry also grants you one or more bonus talents; you’ll choose these during [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation#Step 5: Talents|step 5]] when you gain your other talents.)
 
 ### Choose Your Culture
 
 Consider the society (or societies) in which you were raised or have spent the most time. These are represented by **cultural expertises** that determine the languages in which you’re most fluent, grant you knowledge of how to navigate those societies, and likely influence your perspective on the world.
 
-**On Your Character Sheet.** Choose up to two cultural expertises from the "[[Mistborn Handbook/03 - Ch 2 Origins|Culture]]" section of chapter 2, then record them on the front of your sheet. (You’ll learn more about expertises—and possibly gain more of them—in [[Mistborn Handbook/02 - Ch 1 Character Creation#Step 4: Skills and Expertises|step 4]] of character creation.)
+**On Your Character Sheet.** Choose up to two cultural expertises from the "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/03 - Ch 2 Origins|Culture]]" section of chapter 2, then record them on the front of your sheet. (You’ll learn more about expertises—and possibly gain more of them—in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation#Step 4: Skills and Expertises|step 4]] of character creation.)
 
 |  |
 |----|
@@ -84,25 +84,25 @@ Consider the society (or societies) in which you were raised or have spent the m
 
 Player characters gain most of their abilities from **paths**, reflecting their specialty, training, and experience. Your character’s chosen paths significantly influence the role you play in the game. If you’ve played other roleplaying games, you’re likely familiar with “classes”; paths are similar but highly flexible.
 
-You begin with either a **[[Mistborn Handbook/05 - Ch 4 Heroic Paths|heroic path]]** that grants you mundane (but flexible) abilities, or a **[[Mistborn Handbook/06 - Ch 5 Metalborn Paths|Metalborn path]]** that grants you Allomantic or Feruchemical powers (described in chapters 5–6).
+You begin with either a **[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths|heroic path]]** that grants you mundane (but flexible) abilities, or a **[[06 - Ch 5 Metalborn Paths|Metalborn path]]** that grants you Allomantic or Feruchemical powers (described in chapters 5–6).
 
 ### Choose Your Starting Path
 
-During this step of character creation, you choose your first path—your **starting path**. This book presents six heroic path options in chapter 4: [[Mistborn Handbook/05 - Ch 4 Heroic Paths|Agent]], [[Mistborn Handbook/05 - Ch 4 Heroic Paths|Envoy]], [[Mistborn Handbook/05 - Ch 4 Heroic Paths|Hunter]], [[Mistborn Handbook/05 - Ch 4 Heroic Paths|Leader]], [[Mistborn Handbook/05 - Ch 4 Heroic Paths|Scholar]], and [[Mistborn Handbook/05 - Ch 4 Heroic Paths|Warrior]]. Meanwhile, chapter 5 presents five Metalborn path options: [[Mistborn Handbook/06 - Ch 5 Metalborn Paths|Ferring]], [[Mistborn Handbook/06 - Ch 5 Metalborn Paths|Feruchemist]], [[Mistborn Handbook/06 - Ch 5 Metalborn Paths|Mistborn]], [[Mistborn Handbook/06 - Ch 5 Metalborn Paths|Misting]], and [[Mistborn Handbook/06 - Ch 5 Metalborn Paths|Twinborn]]. See the [[Mistborn Handbook/17 - Appendix 2 Tables|Heroic Paths at a Glance]] table, along with the [[Mistborn Handbook/17 - Appendix 2 Tables|Metalborn Paths at a Glance]] table, for summaries of these paths.
+During this step of character creation, you choose your first path—your **starting path**. This book presents six heroic path options in chapter 4: [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths|Agent]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths|Envoy]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths|Hunter]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths|Leader]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths|Scholar]], and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths|Warrior]]. Meanwhile, chapter 5 presents five Metalborn path options: [[06 - Ch 5 Metalborn Paths|Ferring]], [[06 - Ch 5 Metalborn Paths|Feruchemist]], [[06 - Ch 5 Metalborn Paths|Mistborn]], [[06 - Ch 5 Metalborn Paths|Misting]], and [[06 - Ch 5 Metalborn Paths|Twinborn]]. See the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Heroic Paths at a Glance]] table, along with the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Metalborn Paths at a Glance]] table, for summaries of these paths.
 
 Later, as your character gains levels (and talents), you can follow that path for as long as you like, picking new talents from the same talent tree. Or you can branch into multiple paths—sometimes called “multipathing”—and become as diversified as fits your story.
 
-**On Your Character Sheet.** Choose a heroic path from [[Mistborn Handbook/05 - Ch 4 Heroic Paths|chapter 4]] or a Metalborn path from [[Mistborn Handbook/06 - Ch 5 Metalborn Paths|chapter 5]], then record this starting path on the front of your sheet. (For now, you’re just writing down the path name, but you’ll probably gain a skill from this path in [[Mistborn Handbook/02 - Ch 1 Character Creation#Step 4: Skills and Expertises|step 4]], and you’ll gain at least one talent from this path in [[Mistborn Handbook/02 - Ch 1 Character Creation#Step 5: Talents|step 5]].)
+**On Your Character Sheet.** Choose a heroic path from [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths|chapter 4]] or a Metalborn path from [[06 - Ch 5 Metalborn Paths|chapter 5]], then record this starting path on the front of your sheet. (For now, you’re just writing down the path name, but you’ll probably gain a skill from this path in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation#Step 4: Skills and Expertises|step 4]], and you’ll gain at least one talent from this path in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation#Step 5: Talents|step 5]].)
 
 Note that if you chose the kandra ancestry, you can’t choose talents from a Metalborn path.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Heroic Paths at a Glance]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Heroic Paths at a Glance]]
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Metalborn Paths at a Glance]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Metalborn Paths at a Glance]]
 
 ## Step 3: Attributes
 
-Your character’s innate characteristics are representedby six **attributes**: Strength, Speed, Intellect, Willpower, Awareness, and Presence. These form the foundation for your skills, physical and mental limits, and more, as detailed in [[Mistborn Handbook/04 - Ch 3 Character Statistics|chapter 3]].
+Your character’s innate characteristics are representedby six **attributes**: Strength, Speed, Intellect, Willpower, Awareness, and Presence. These form the foundation for your skills, physical and mental limits, and more, as detailed in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics|chapter 3]].
 
 ### Choose Your Attributes
 
@@ -110,7 +110,7 @@ Consider which attributes best represent your strengths. Most humans, kandra, an
 
 **On Your Character Sheet.** Distribute 12 points across the six attributes in any order. You don’t have to put points in every attribute—0 is a valid attribute score—and you can’t put more than 3 points into any attribute during this step of character creation. For example, you might choose a distribution of 0, 3, 2, 3, 3, and 1.
 
-Record each chosen attribute score on the front of your character sheet. For now, ignore the nearby boxes for your defenses, health, focus, and Investiture; you’ll calculate these statistics in [[Mistborn Handbook/02 - Ch 1 Character Creation#Step 8: Final Calculations|step 8]].
+Record each chosen attribute score on the front of your character sheet. For now, ignore the nearby boxes for your defenses, health, focus, and Investiture; you’ll calculate these statistics in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation#Step 8: Final Calculations|step 8]].
 
 ### Record Related Statistics
 
@@ -126,13 +126,13 @@ Your attribute scores determine how good you arein related areas, including (but
 
 While your Intellect and Presence are just as important as the above attributes, you won’t use them during this step to record anything else on your character sheet.
 
-**On Your Character Sheet.** First, refer to the [[Mistborn Handbook/17 - Appendix 2 Tables|Lifting Capacity]] table in the "[[Mistborn Handbook/04 - Ch 3 Character Statistics#Strength|Strength]]" section of chapter 3, and record the indicated lifting capacity on the front of your sheet. For example, if your Strength is 2, your lifting capacity is 200 pounds.
+**On Your Character Sheet.** First, refer to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Lifting Capacity]] table in the "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Strength|Strength]]" section of chapter 3, and record the indicated lifting capacity on the front of your sheet. For example, if your Strength is 2, your lifting capacity is 200 pounds.
 
-Next, refer to the [[Mistborn Handbook/17 - Appendix 2 Tables| Movement Rate]] table in the "[[Mistborn Handbook/04 - Ch 3 Character Statistics#Speed|Speed]]" section of chapter 3, and record the indicated movement rate on the front of your sheet. For example, if your Speed is 3, your movement rate is 30 feet per action.
+Next, refer to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables| Movement Rate]] table in the "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Speed|Speed]]" section of chapter 3, and record the indicated movement rate on the front of your sheet. For example, if your Speed is 3, your movement rate is 30 feet per action.
 
-Next, refer to the [[Mistborn Handbook/17 - Appendix 2 Tables|Recovery Die]] table in the "[[Mistborn Handbook/04 - Ch 3 Character Statistics#Willpower|Willpower]]" section of chapter 3, and record the indicated die size on the front of your sheet. For example, if your Willpower is 2, your recovery die is a d6.
+Next, refer to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Recovery Die]] table in the "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Willpower|Willpower]]" section of chapter 3, and record the indicated die size on the front of your sheet. For example, if your Willpower is 2, your recovery die is a d6.
 
-Finally, refer to the [[Mistborn Handbook/17 - Appendix 2 Tables|Senses Range]] table in the "[[Mistborn Handbook/04 - Ch 3 Character Statistics#Awareness|Awareness]]" section of chapter 3, and record the indicated range on the front of your sheet. For example, if your Awareness is 3, you can easily sense up to 20 feet even when your primary sense is obscured.
+Finally, refer to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Senses Range]] table in the "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Awareness|Awareness]]" section of chapter 3, and record the indicated range on the front of your sheet. For example, if your Awareness is 3, you can easily sense up to 20 feet even when your primary sense is obscured.
 
 ![[pg020_HB01_Young_Spook_Kevin_ONeill.webp]]
 
@@ -144,7 +144,7 @@ The next step is to consider what skills and expertises your character has honed
 
 ### Gain a Starting Skill Rank
 
-The starting path you chose in [[Mistborn Handbook/02 - Ch 1 Character Creation#Step 2: Starting Path|step 2]] most likely grants an associated **starting skill**, which is considered central to characters who start on that path.
+The starting path you chose in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation#Step 2: Starting Path|step 2]] most likely grants an associated **starting skill**, which is considered central to characters who start on that path.
 
 **On Your Character Sheet.** Gain a free rank in your path’s starting skill, if it grants one (see the earlier Paths at a Glance tables or the path’s “Key Talent” section). On the front of your sheet, mark a checkbox next to this skill.
 
@@ -177,11 +177,11 @@ Beyond concrete skills, your character has several areas of expertise—very spe
 
 Each expertise is a simple word or phrase representing a subject you specialize in. If your character is combat-focused, you’ll likely want to choose your favorite weapon or armor as an expertise. If you’re interested in crafting, consider expertises on creating complex items such as firearms. If you’re a scholar, consider cultural expertises that reflect your expanded knowledge about the world.
 
-As detailed in [[Mistborn Handbook/04 - Ch 3 Character Statistics|chapter 3]], your expertise grants you various benefits; for example, if you have the Engineering expertise, you might automatically know if it’s safe to use an aging canal barge, while another character would have to test Deduction to come to the same conclusion.
+As detailed in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics|chapter 3]], your expertise grants you various benefits; for example, if you have the Engineering expertise, you might automatically know if it’s safe to use an aging canal barge, while another character would have to test Deduction to come to the same conclusion.
 
 **On Your Character Sheet.** You already gained two expertises when you picked your culture in step 1 of character creation. If your Intellect score is 1 or higher, you can now choose additional expertises equal to that score, recording them on the front of your sheet.
 
-The "[[Mistborn Handbook/04 - Ch 3 Character Statistics|Expertises]]" section of chapter 3 suggests potential subjects, but you can choose an expertise on nearly any subject you can imagine.
+The "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics|Expertises]]" section of chapter 3 suggests potential subjects, but you can choose an expertise on nearly any subject you can imagine.
 
 *“Wasing the how of*
 
@@ -197,41 +197,41 @@ Your path allows you to pick talents from a tree of options each time you gain a
 
 ### Gain Your Key Talent
 
-In [[Mistborn Handbook/02 - Ch 1 Character Creation#Step 2: Starting Path|step 2]], you chose a starting path, which determines your first talent. This key talent is an important ability that other talents in the path may further improve on.
+In [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation#Step 2: Starting Path|step 2]], you chose a starting path, which determines your first talent. This key talent is an important ability that other talents in the path may further improve on.
 
 **On Your Character Sheet.** You gain the first talent in your starting path, as detailed at the top of that path’s talent tree. Record this talent on the front of your sheet.
 
 ### Choose an Ancestry Talent
 
-In [[Mistborn Handbook/02 - Ch 1 Character Creation#Step 1: Origins|step 1]], you chose an ancestry that grants you one or more bonus talents.
+In [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation#Step 1: Origins|step 1]], you chose an ancestry that grants you one or more bonus talents.
 
-If you’re kandra, you gain the Natural Form and Kandra Disguise talents (see “[[Mistborn Handbook/03 - Ch 2 Origins#Choosing Kandra Ancestry|Choosing Kandra Ancestry]]” in chapter 2).
+If you’re kandra, you gain the Natural Form and Kandra Disguise talents (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/03 - Ch 2 Origins#Choosing Kandra Ancestry|Choosing Kandra Ancestry]]” in chapter 2).
 
-If you’re koloss-blooded, you gain the Koloss Stamina talent (see “[[Mistborn Handbook/03 - Ch 2 Origins#Choosing Koloss-Blooded Ancestry|Choosing Koloss-Blooded Ancestry]]” in chapter 2).
+If you’re koloss-blooded, you gain the Koloss Stamina talent (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/03 - Ch 2 Origins#Choosing Koloss-Blooded Ancestry|Choosing Koloss-Blooded Ancestry]]” in chapter 2).
 
-If you’re human, you gain an additional talent from a heroic path (see “[[Mistborn Handbook/03 - Ch 2 Origins#Choosing Human Ancestry|Choosing Human Ancestry]]” in chapter 2). You can choose another talent within your existing path or choose the first talent of another path.
+If you’re human, you gain an additional talent from a heroic path (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/03 - Ch 2 Origins#Choosing Human Ancestry|Choosing Human Ancestry]]” in chapter 2). You can choose another talent within your existing path or choose the first talent of another path.
 
-**On Your Character Sheet.** Following the rules in the [[Mistborn Handbook/03 - Ch 2 Origins|Ancestry]] section of chapter 2, choose your bonus talent(s) and record them on the front of your sheet. If a talent affects your other statistics, also record those in the appropriate fields.
+**On Your Character Sheet.** Following the rules in the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/03 - Ch 2 Origins|Ancestry]] section of chapter 2, choose your bonus talent(s) and record them on the front of your sheet. If a talent affects your other statistics, also record those in the appropriate fields.
 
 ## Step 6: Equipment
 
-To reflect your character’s background and interests, you gain a **starting kit** with equipment, currency, and other resources. Some kits also have intangible benefits like granting you a bond with a patron (discussed in [[Mistborn Handbook/09 - Ch 8 Goals and Rewards|chapter 8]]) or jump-starting your discovery of your Metallic Art abilities (discussed in [[Mistborn Handbook/06 - Ch 5 Metalborn Paths|chapter 5]]).
+To reflect your character’s background and interests, you gain a **starting kit** with equipment, currency, and other resources. Some kits also have intangible benefits like granting you a bond with a patron (discussed in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards|chapter 8]]) or jump-starting your discovery of your Metallic Art abilities (discussed in [[06 - Ch 5 Metalborn Paths|chapter 5]]).
 
 ### Choose Your Starting Kit
 
-Each character begins with a [[Mistborn Handbook/08 - Ch 7 Items|starting kit]] from chapter 7. Your story isn’t bound by the kits’ names, so choose any kit you wish, then decide how you came to possess these items and resources. For example, if you pick the Noble kit, perhaps you inherited these items from your noble family in Luthadel—or perhaps you illicitly gained them from your criminal career in the skaa underground.
+Each character begins with a [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|starting kit]] from chapter 7. Your story isn’t bound by the kits’ names, so choose any kit you wish, then decide how you came to possess these items and resources. For example, if you pick the Noble kit, perhaps you inherited these items from your noble family in Luthadel—or perhaps you illicitly gained them from your criminal career in the skaa underground.
 
-**On Your Character Sheet.** Choose a [[Mistborn Handbook/08 - Ch 7 Items|starting kit]] from chapter 7, then record its contents in the corresponding fields of your sheet (such as “Weapons” or “Armor & Equipment”).
+**On Your Character Sheet.** Choose a [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|starting kit]] from chapter 7, then record its contents in the corresponding fields of your sheet (such as “Weapons” or “Armor & Equipment”).
 
 ### Purchase More Equipment
 
-If your kit grants you boxings (Scadrial’s common currency), you can use these to purchase more equipment if you wish (or you can save the boxings for later). You can buy any of the [[Mistborn Handbook/08 - Ch 7 Items|weapons]], [[Mistborn Handbook/08 - Ch 7 Items|armor]], or [[Mistborn Handbook/08 - Ch 7 Items|equipment]] listed in chapter 7—but pay attention to the prices! As a starting character, much of the equipment is beyond your means.
+If your kit grants you boxings (Scadrial’s common currency), you can use these to purchase more equipment if you wish (or you can save the boxings for later). You can buy any of the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|weapons]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|armor]], or [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|equipment]] listed in chapter 7—but pay attention to the prices! As a starting character, much of the equipment is beyond your means.
 
 **On Your Character Sheet.** If you purchase extra equipment, record it in the corresponding fields of your sheet.
 
 ### Record Your Deflect Value
 
-Some armor reduces the effect of impact, keen, and energy damage (see “[[Mistborn Handbook/04 - Ch 3 Character Statistics|Deflect]]” in chapter 3). Your deflect value determines how much of that damage you can ignore.
+Some armor reduces the effect of impact, keen, and energy damage (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics|Deflect]]” in chapter 3). Your deflect value determines how much of that damage you can ignore.
 
 **On Your Character Sheet.** If you gained armor during this step, record its deflect value on the front of your sheet. Otherwise, your deflect is probably 0.
 
@@ -245,21 +245,21 @@ Your **purpose** is your soul and reason for being. It doesn’t have specific m
 
 Your **obstacle**, on the other hand, is what stands in the way of your purpose time and time again. This could be pride, impulsiveness, greed, or anything else that keeps you from your full potential.
 
-**On Your Character Sheet.** Choose a purpose and at least one obstacle, following the guidance in the “[[Mistborn Handbook/09 - Ch 8 Goals and Rewards|Purpose and Obstacle]]” section of chapter 8. Record these choices on the back of your sheet.
+**On Your Character Sheet.** Choose a purpose and at least one obstacle, following the guidance in the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards|Purpose and Obstacle]]” section of chapter 8. Record these choices on the back of your sheet.
 
 ### Choose Your Goals
 
 The tangible objectives your character is personally working toward during their adventures are represented by goals. These are a critical part of your character and how they advance in this game, so think about them carefully. Each goal should be something you’re tryingto accomplish; this might be as immediate as “escaping imprisonment” or as ambitious as “kill the Lord Ruler.”
 
-Your goals not only define what currently drives you, but they grant you access to powerful items, people, and resources during your adventures. As described in [[Mistborn Handbook/09 - Ch 8 Goals and Rewards|chapter 8]], when you accomplish a goal, you unlock a reward. These can include possessions (like atium or dynamite), relationships (like traveling companions or patrons), increased status (like noble status), and more.
+Your goals not only define what currently drives you, but they grant you access to powerful items, people, and resources during your adventures. As described in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards|chapter 8]], when you accomplish a goal, you unlock a reward. These can include possessions (like atium or dynamite), relationships (like traveling companions or patrons), increased status (like noble status), and more.
 
-**On Your Character Sheet.** Create one or two goals to start with, following the guidance in the “[[Mistborn Handbook/09 - Ch 8 Goals and Rewards|Goals]]” section of chapter 8. Record these goals on the back of your sheet.
+**On Your Character Sheet.** Create one or two goals to start with, following the guidance in the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards|Goals]]” section of chapter 8. Record these goals on the back of your sheet.
 
 For now, ignore the checkboxes to the right of each goal. As the game progresses, you’ll use these to mark your progress toward your goals.
 
 ### Tell Your Story
 
-By now, you probably have a good idea of not only what your character is, but who they are. Feel free to add details to your story, referring back to “[[Mistborn Handbook/03 - Ch 2 Origins|Considering Your Origins]]” at the beginning of chapter 2. Consider details such as the following:
+By now, you probably have a good idea of not only what your character is, but who they are. Feel free to add details to your story, referring back to “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/03 - Ch 2 Origins|Considering Your Origins]]” at the beginning of chapter 2. Consider details such as the following:
 
 **Occupation.** What do you do for a living? Is it leading you into your adventures or distracting you from them?
 
@@ -283,13 +283,13 @@ You don’t need to know everything about your character when you begin your adv
 
 ## Step 8: Final Calculations
 
-Congratulations, you’ve made all the big decisions! As the final step of character creation, use the instructions in this section to calculate and record your remaining statistics. [[Mistborn Handbook/04 - Ch 3 Character Statistics|Chapter 3]] details how your attributes affect these and other aspects of the game.
+Congratulations, you’ve made all the big decisions! As the final step of character creation, use the instructions in this section to calculate and record your remaining statistics. [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics|Chapter 3]] details how your attributes affect these and other aspects of the game.
 
 As you do so, be sure to apply any bonuses from your talents, equipment, and other effects. For example, the Collected talent increases both your Cognitive defense and Spiritual defense by 2.
 
 ### Calculate Resource Pools
 
-During your adventures, you draw from three resource pools, each of which has a maximum value that you’ll regularly deplete and recover during play (see “[[Mistborn Handbook/04 - Ch 3 Character Statistics|Health, Focus, and Investiture]]” in chapter 3).
+During your adventures, you draw from three resource pools, each of which has a maximum value that you’ll regularly deplete and recover during play (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics|Health, Focus, and Investiture]]” in chapter 3).
 
 #### Health
 
@@ -327,7 +327,7 @@ Record your maximum Investiture on the front of your sheet. Then record that you
 
 ### Calculate Defenses
 
-Your three **defenses** represent your resilience against attacks, coercion, and other unwanted effects. The higher your defenses, the harder it is for opponents to succeed on skill tests against you (see the “[[Mistborn Handbook/04 - Ch 3 Character Statistics|Defenses]]” section of chapter 3). Record your three defenses on the front of your sheet:
+Your three **defenses** represent your resilience against attacks, coercion, and other unwanted effects. The higher your defenses, the harder it is for opponents to succeed on skill tests against you (see the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics|Defenses]]” section of chapter 3). Record your three defenses on the front of your sheet:
 
 **Physical Defense.** Your Physical defense equals *10 + your Strength attribute + your Speed attribute + any bonuses or penalties*. For example, if your Strength is 2 and your Speed is 3, and you have no relevant talents or other effects, your Physical defense is 15.
 
@@ -339,13 +339,13 @@ Your three **defenses** represent your resilience against attacks, coercion, and
 
 Only a few more fields remain on your character sheet:
 
-**Level.** On the front of your sheet, record that your character is level 1. This reflects your current power and experience; you’ll gain levels as you continue your adventures in the cosmere. (See the “[[Mistborn Handbook/02 - Ch 1 Character Creation|Character Advancement]]” section of this chapter.)
+**Level.** On the front of your sheet, record that your character is level 1. This reflects your current power and experience; you’ll gain levels as you continue your adventures in the cosmere. (See the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation|Character Advancement]]” section of this chapter.)
 
-**Conditions and Injuries.** For now, you don’t have any active conditions. You’ll use this field to track temporary effects you experience during gameplay (see “[[Mistborn Handbook/10 - Ch 9 Adventuring|Conditions]]” and “[[Mistborn Handbook/10 - Ch 9 Adventuring#Injuries|Injuries]]” in chapter 9).
+**Conditions and Injuries.** For now, you don’t have any active conditions. You’ll use this field to track temporary effects you experience during gameplay (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Conditions]]” and “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Injuries|Injuries]]” in chapter 9).
 
 **Notes.** You can use this field to keep track of anything you wish.
 
-**Connections.** During your adventures, you’ll use this field to track the special connections you build with NPCs and factions. Unless you gained a connection earlier in character creation, this field should remain blank for now. (See “[[Mistborn Handbook/09 - Ch 8 Goals and Rewards#Connections|Connections]]” in chapter 8.)
+**Connections.** During your adventures, you’ll use this field to track the special connections you build with NPCs and factions. Unless you gained a connection earlier in character creation, this field should remain blank for now. (See “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards#Connections|Connections]]” in chapter 8.)
 
 ### Play the Game!
 
@@ -353,7 +353,7 @@ With your character sheet completed, you’re ready to play!
 
 ## Character Advancement
 
-During this game, your character will face adventure and adversity, making friends and foes alike. As you do, you’ll advance in two meaningful ways. First, you’ll earnrewards for completing personal goals; these can grant you powerful items, people, and abilities, as detailed in [[Mistborn Handbook/09 - Ch 8 Goals and Rewards|chapter 8]]. Second, as your campaign progresses, your GM will indicate that your collaborative story has reached certain milestones. When this happens, each character gains a level, representing that you’ve reached a significant milestone in skill and experience.
+During this game, your character will face adventure and adversity, making friends and foes alike. As you do, you’ll advance in two meaningful ways. First, you’ll earnrewards for completing personal goals; these can grant you powerful items, people, and abilities, as detailed in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards|chapter 8]]. Second, as your campaign progresses, your GM will indicate that your collaborative story has reached certain milestones. When this happens, each character gains a level, representing that you’ve reached a significant milestone in skill and experience.
 
 ## Tiers of Play
 
@@ -378,7 +378,7 @@ Your character’s tier primarily impacts the scope of your current adventures, 
 
 ## Gaining a Level
 
-When you gain a level (sometimes known as “leveling up”), your power and abilities increase, as indicated on the [[Mistborn Handbook/17 - Appendix 2 Tables|Character Advancement]] table in this section. Follow these steps to advance your character:
+When you gain a level (sometimes known as “leveling up”), your power and abilities increase, as indicated on the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Character Advancement]] table in this section. Follow these steps to advance your character:
 
 1.  Increase your character level by 1.
 
@@ -396,21 +396,21 @@ Your character starts the **game at level** 1, and you gain a level when your ad
 
 ### Step 2: Increase an Attribute
 
-At levels 3, 6, 9, 12, 15, and 18, increase one attribute of your choice by 1, as indicated on the [[Mistborn Handbook/17 - Appendix 2 Tables|Character Advancement]] table. (No other levels grant an attribute increase.)
+At levels 3, 6, 9, 12, 15, and 18, increase one attribute of your choice by 1, as indicated on the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Character Advancement]] table. (No other levels grant an attribute increase.)
 
 Your **maximum attribute score** is 5, so you can’t increase any attribute above 5 in this way. However, if a talent temporarily boosts your attributes, that increase doesn’t count toward this limit. Additionally, a few effects can increase your maximum attribute score, allowing you to permanently increase an attribute above 5.
 
-On your character sheet, be sure to update skill modifiers and other statistics affected by this attribute; the “[[Mistborn Handbook/04 - Ch 3 Character Statistics|Attributes]]” section of chapter 3 tells you what to recalculate for each attribute.
+On your character sheet, be sure to update skill modifiers and other statistics affected by this attribute; the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics|Attributes]]” section of chapter 3 tells you what to recalculate for each attribute.
 
 ### Step 3: Increase Your Health
 
-Increase both your maximum and current health by the amount specified for your level on the [[Mistborn Handbook/17 - Appendix 2 Tables|Character Advancement]] table.
+Increase both your maximum and current health by the amount specified for your level on the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Character Advancement]] table.
 
 ### Step 4: Gain Skill Ranks
 
-Each time you gain a level (through level 20), you gain 2 skill ranks of your choice. From level 21 onward, you gain your choice of either a skill rank or a talent (see [[Mistborn Handbook/02 - Ch 1 Character Creation#Step 5: Gain a Talent|step 5]]), not both, as indicated on the [[Mistborn Handbook/17 - Appendix 2 Tables|Character Advancement]] table.
+Each time you gain a level (through level 20), you gain 2 skill ranks of your choice. From level 21 onward, you gain your choice of either a skill rank or a talent (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation#Step 5: Gain a Talent|step 5]]), not both, as indicated on the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Character Advancement]] table.
 
-You can’t have more ranks in a skill than the **maximum skill rank** for your tier, as shown in the Max Skill Rank column of the [[Mistborn Handbook/17 - Appendix 2 Tables|Character Advancement]] table. However, some talents may temporarily boost your skills, which doesn’t count toward this limit.
+You can’t have more ranks in a skill than the **maximum skill rank** for your tier, as shown in the Max Skill Rank column of the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Character Advancement]] table. However, some talents may temporarily boost your skills, which doesn’t count toward this limit.
 
 Aside from the above limitations, you can distribute these new skill ranks among any skills you wish, including Metallic Art skills gained from Metalborn paths.
 
@@ -418,15 +418,15 @@ On your character sheet, for each skill rank you gain, mark one checkbox next to
 
 ### Step 5: Gain a Talent
 
-Each time you gain a level (through level 20), you gain one talent. From level 21 onward, you gain your choice of either a skill rank (see [[Mistborn Handbook/02 - Ch 1 Character Creation#Step 4: Gain Skill Ranks|step 4]]) or a talent, not both,as indicated on the [[Mistborn Handbook/17 - Appendix 2 Tables|Character Advancement]] table.
+Each time you gain a level (through level 20), you gain one talent. From level 21 onward, you gain your choice of either a skill rank (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation#Step 4: Gain Skill Ranks|step 4]]) or a talent, not both,as indicated on the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Character Advancement]] table.
 
-Additionally, your ancestry grants you a bonus talentat the beginning of each tier (levels 1, 6, 11, 16, and 21); the “[[Mistborn Handbook/03 - Ch 2 Origins|Ancestry]]” section of chapter 2 details which bonus talents are available to your ancestry.
+Additionally, your ancestry grants you a bonus talentat the beginning of each tier (levels 1, 6, 11, 16, and 21); the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/03 - Ch 2 Origins|Ancestry]]” section of chapter 2 details which bonus talents are available to your ancestry.
 
 Whenever you choose a talent, you must meet its prerequisites (as described in the next section).
 
 ## Prerequisites
 
-Some abilities—usually talents—have prerequisites you must meet before selecting or benefiting from them. For example, you might need to gain more ranks in a skill before you’re allowed to choose a particular talent. Additionally, each talent (other than a key talent) requires you to have the talent preceding it in the talent tree, as described in “[[Mistborn Handbook/05 - Ch 4 Heroic Paths#Advancing Through a Path|Advancing Through a Path]]” in chapter 4.
+Some abilities—usually talents—have prerequisites you must meet before selecting or benefiting from them. For example, you might need to gain more ranks in a skill before you’re allowed to choose a particular talent. Additionally, each talent (other than a key talent) requires you to have the talent preceding it in the talent tree, as described in “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths#Advancing Through a Path|Advancing Through a Path]]” in chapter 4.
 
 Some effects permanently increase your statistics, and these count toward such prerequisites. However, if you gain a temporary bonus from talents, Hemalurgic spikes, and similar effects, this doesn’t count toward prerequisites. For example, if you’re a kandra who has taken the form of a strong human, your Strength temporarily increases—but because that bonus ends when you leave this form, it doesn’t count toward prerequisites that require a certain Strength score.
 
@@ -439,4 +439,4 @@ Some effects permanently increase your statistics, and these count toward such p
 
 **Survivor of the Flames. - DEANDRA SCICLUNA**
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Character Advancement]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Character Advancement]]

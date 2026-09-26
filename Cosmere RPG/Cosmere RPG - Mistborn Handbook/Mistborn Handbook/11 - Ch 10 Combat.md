@@ -24,7 +24,7 @@ In a fight, everyone acts simultaneously and every second counts. To represent t
 
 ## Rounds and Turns
 
-Each round, you can choose to take a turn that’s either fast or slow. Your choice grants you a certain number of actions, which represent the many things you can do on your turn (see “[[Mistborn Handbook/11 - Ch 10 Combat#Gaining Actions and Reactions|Gaining Actions and Reactions]]”):
+Each round, you can choose to take a turn that’s either fast or slow. Your choice grants you a certain number of actions, which represent the many things you can do on your turn (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat#Gaining Actions and Reactions|Gaining Actions and Reactions]]”):
 
 **Taking a Fast Turn.** If you act fast, you take your turn first before any enemies go, but you only get two actions (2) to use on your turn.
 
@@ -54,11 +54,11 @@ If allied NPCs are fighting alongside the PCs, they take their turns at the sam
 
 ### Gaining Actions and Reactions
 
-Most things you can do during each round are categorized as either an action or reaction. The upcoming “[[Mistborn Handbook/11 - Ch 10 Combat|Actions and Reactions]]” section details what you can do with each of these.
+Most things you can do during each round are categorized as either an action or reaction. The upcoming “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Actions and Reactions]]” section details what you can do with each of these.
 
 #### Gaining Reactions
 
-At the start of combat, unless you’re [[Mistborn Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]], you gain a **reaction** (r), which you can use any time before the start of your first turn.
+At the start of combat, unless you’re [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]], you gain a **reaction** (r), which you can use any time before the start of your first turn.
 
 Additionally, at the start of each of your turns, you gain a new reaction, regardless of whether you took a fast or slow turn. (Some talents and other abilities can grant an additional reaction.)
 
@@ -87,11 +87,11 @@ Actions can only be taken during your turn, so any remaining at the end of your 
 
 ## Surprise
 
-Many combats begin with one side ambushing the other. Other times, some characters in the scene might just be caught totally unaware when the fight breaks out. In these cases, the unsuspecting characters gain the [[Mistborn Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]] condition.
+Many combats begin with one side ambushing the other. Other times, some characters in the scene might just be caught totally unaware when the fight breaks out. In these cases, the unsuspecting characters gain the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]] condition.
 
-The GM determines who is [[Mistborn Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]] at the start of a combat. If one side is trying to be stealthy or deceptive ahead of the fight, they might test their Stealth against the other party’s Perception, or their Deception against the other party’s Insight. Any opposing character who fails to notice becomes [[Mistborn Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]].
+The GM determines who is [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]] at the start of a combat. If one side is trying to be stealthy or deceptive ahead of the fight, they might test their Stealth against the other party’s Perception, or their Deception against the other party’s Insight. Any opposing character who fails to notice becomes [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]].
 
-After each character’s first turn, they remove the [[Mistborn Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]] condition.
+After each character’s first turn, they remove the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]] condition.
 
 |  |
 |----|
@@ -104,15 +104,15 @@ Nearly everything you do in combat takes time, so there are limits on how much y
 
 The actions, free actions, and reactions presented in this section are available to all characters, including your enemies. Talents and other effects can grant you additional options for your actions, free actions, and reactions.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Actions and Reactions]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Actions and Reactions]]
 
 ## Actions
 
 **Actions** (marked by 1) can only be used on your turn in combat, and each named action can only be used once per turn unless stated otherwise. The same applies to actions from talents and other effects, regardless of whether those are given a specific name.
 
-Some actions take more time than others. Each action in this book lists how many you must spend to activate it: either 1, 2, or 3. (See “[[Mistborn Handbook/11 - Ch 10 Combat|Order of Combat]]” for rules on how many actions you can use on your turn.)
+Some actions take more time than others. Each action in this book lists how many you must spend to activate it: either 1, 2, or 3. (See “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Order of Combat]]” for rules on how many actions you can use on your turn.)
 
-On your turn, you can spend your available to use any of the following actions, or to use any actions granted by your talents or other effects (such as the [[Actions/Metallic Arts/Allomancy/Drink Vial|Drink Vial]] action available to Allomancers).
+On your turn, you can spend your available to use any of the following actions, or to use any actions granted by your talents or other effects (such as the [[Drink Vial|Drink Vial]] action available to Allomancers).
 
 |  |
 |----|
@@ -146,15 +146,15 @@ However, like actions, each free action (including those from talents and other 
 
 Though reactions can be triggered on your turn, they’re typically triggered on another character’s turn in response to something they do.
 
-You usually only have one reaction per round. If an effect grants you more than one reaction at a time, you can’t simultaneously use both of your reactions on the same trigger, but you can use the same type of reaction on two separate triggering events (for example, you can use [[Actions/Basic/Aid|Aid]] on two separate tests an ally makes on their turn).
+You usually only have one reaction per round. If an effect grants you more than one reaction at a time, you can’t simultaneously use both of your reactions on the same trigger, but you can use the same type of reaction on two separate triggering events (for example, you can use [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Aid|Aid]] on two separate tests an ally makes on their turn).
 
 You can spend your available r to use any of the following reactions, or to use any reactions granted by your talents or other effects.
 
 ## Attacking
 
-When you **attack** a target, you roll to see how well your attack hits. These attacks can be weapon attacks made with the [[Actions/Basic/Strike|Strike]] action, special attacks granted by talents, or even attacks that use Metallic Art powers.
+When you **attack** a target, you roll to see how well your attack hits. These attacks can be weapon attacks made with the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Strike|Strike]] action, special attacks granted by talents, or even attacks that use Metallic Art powers.
 
-Attacks always include an **attack test** . This is a special kind of skill test with a few extra rules, as described in “[[Mistborn Handbook/11 - Ch 10 Combat#Making an Attack|Making an Attack.]]” The primary distinction between attacks and other skill tests is that attacks are meant to deal damage to their target.
+Attacks always include an **attack test** . This is a special kind of skill test with a few extra rules, as described in “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat#Making an Attack|Making an Attack.]]” The primary distinction between attacks and other skill tests is that attacks are meant to deal damage to their target.
 
 ## Making an Attack
 
@@ -176,11 +176,11 @@ When you use an ability to make an attack, choose one or more eligible targets.
 
 **Ranged Attacks.** If you’re making a ranged attack, your target can be anywhere within the specified range.
 
-**Eligible Targets.** Many attacks, including weapon attacks, require line of effect. You might gain a disadvantage on your attack test if you can’t also sense the target. See the upcoming “[[Mistborn Handbook/11 - Ch 10 Combat|Targeting and Range]]” section (along with your ability’s rules) for more information on choosing a target.
+**Eligible Targets.** Many attacks, including weapon attacks, require line of effect. You might gain a disadvantage on your attack test if you can’t also sense the target. See the upcoming “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Targeting and Range]]” section (along with your ability’s rules) for more information on choosing a target.
 
 ### Step 2: Roll the Attack Test and Damage Dice
 
-After choosing your target, make a skill test against their specified defense. Each ability specifies which skill that attack test uses (for weapon attacks, see the Weapons tables in [[Mistborn Handbook/08 - Ch 7 Items|chapter 7]]), along with which defense determines the test’s DC. For example, the [[Actions/Basic/Strike|Strike]] action is against Physical defense, while the Brawler’s [[Heroic Paths/Warrior/Brawler/Talents/Wallop|Wallop]] is against Spiritual defense.
+After choosing your target, make a skill test against their specified defense. Each ability specifies which skill that attack test uses (for weapon attacks, see the Weapons tables in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|chapter 7]]), along with which defense determines the test’s DC. For example, the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Strike|Strike]] action is against Physical defense, while the Brawler’s [[Wallop|Wallop]] is against Spiritual defense.
 
 **Damage Dice.** At the same time as you roll the usual dice for your skill test, also roll the number of **damage dice** specified in the attack. But don’t add these damage dice to your test result—you’ll calculate them separately to see how much damage you deal.
 
@@ -213,29 +213,29 @@ The result of your skill test determines how much damage you deal to the target:
 
 ## Weapon Attacks
 
-The most common way to attack is using a weapon, usually via the [[Actions/Basic/Strike|Strike]] action or your talents. When you make a weapon attack, choose a weapon you’re currently wielding in your hand. The Weapons tables in [[Mistborn Handbook/08 - Ch 7 Items|chapter 7]] specify which skill to test and which damage dice to roll for each weapon.
+The most common way to attack is using a weapon, usually via the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Strike|Strike]] action or your talents. When you make a weapon attack, choose a weapon you’re currently wielding in your hand. The Weapons tables in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|chapter 7]] specify which skill to test and which damage dice to roll for each weapon.
 
-To attack a target with your weapon, they must be within your reach (for melee attacks) or within the weapon’s specified range (for ranged attacks), and they must be in your line of effect (see “[[Mistborn Handbook/11 - Ch 10 Combat|Targeting and Range]]”).
+To attack a target with your weapon, they must be within your reach (for melee attacks) or within the weapon’s specified range (for ranged attacks), and they must be in your line of effect (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Targeting and Range]]”).
 
 ### Wielding Multiple Weapons
 
-The “[[Mistborn Handbook/08 - Ch 7 Items#Wielding Weapons|Wielding Weapons]]” section of chapter 7 presents rules for making attacks using weapons in your main hand and offhand.
+The “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items#Wielding Weapons|Wielding Weapons]]” section of chapter 7 presents rules for making attacks using weapons in your main hand and offhand.
 
 ### Unarmed Attacks and Improvised Weapons
 
-Though not made with standard weapons, rules for unarmed attacks and improvised weapon attacks are presented in the “[[Mistborn Handbook/08 - Ch 7 Items|Weapons]]” section of chapter 7.
+Though not made with standard weapons, rules for unarmed attacks and improvised weapon attacks are presented in the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|Weapons]]” section of chapter 7.
 
 ## Melee Attacks
 
-Attacks against targets next to you are **melee attacks** . These must be made against a target within your reach—typically within 5 feet of you, as described in the upcoming “[[Mistborn Handbook/11 - Ch 10 Combat#Effect Range|Effect Range]]” section. Some weapons extend your reach further.
+Attacks against targets next to you are **melee attacks** . These must be made against a target within your reach—typically within 5 feet of you, as described in the upcoming “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat#Effect Range|Effect Range]]” section. Some weapons extend your reach further.
 
-If you use a ranged weapon to attack a target next to you, this isn’t considered a melee attack; see “[[Mistborn Handbook/11 - Ch 10 Combat#Ranged Attacks and Reach|Ranged Attacks and Reach]]” for these attacks.
+If you use a ranged weapon to attack a target next to you, this isn’t considered a melee attack; see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat#Ranged Attacks and Reach|Ranged Attacks and Reach]]” for these attacks.
 
 If your melee weapon has the Thrown trait, you can also use it to make a ranged attack.
 
 ## Ranged Attacks
 
-**Ranged attacks** include firing ranged weapons, throwing weapons with the Thrown trait, or even shooting coins at your opponent using [[Metallic Arts/Steel/Steel Allomancy|Steel Allomancy]]. These must be made against a target within the weapon or attack’s specified range (see “[[Mistborn Handbook/11 - Ch 10 Combat|Targeting and Range]]”).
+**Ranged attacks** include firing ranged weapons, throwing weapons with the Thrown trait, or even shooting coins at your opponent using [[Steel Allomancy|Steel Allomancy]]. These must be made against a target within the weapon or attack’s specified range (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Targeting and Range]]”).
 
 ### Ranged Attacks and Reach
 
@@ -253,13 +253,13 @@ Some attacks have multiple targets. For these attacks, roll your attack test and
 
 ### Area Attacks
 
-**Area attacks** target all characters (or a specified subset of them) within a certain area. Some powers and other abilities allow you to make these powerful attacks. To make an area attack, follow the rules for attacking multiple targets, and refer to the upcoming “[[Mistborn Handbook/11 - Ch 10 Combat|Targeting and Range]]” section to determine the effect’s area.
+**Area attacks** target all characters (or a specified subset of them) within a certain area. Some powers and other abilities allow you to make these powerful attacks. To make an area attack, follow the rules for attacking multiple targets, and refer to the upcoming “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Targeting and Range]]” section to determine the effect’s area.
 
 ## Creative Maneuvers
 
 Adding variety to combat is fun, whether you’re disarming your foe or pinning their hand to the table. To keep things simple, this game doesn’t provide separate rules for a long list of combat maneuvers, but that doesn’t mean they can’t be part of your story.
 
-In general, if you want to execute a creative maneuver with your weapon, that falls under the [[Actions/Basic/Strike|Strike]] action (see “[[Mistborn Handbook/11 - Ch 10 Combat|Actions and Reactions]]” earlier in this chapter). When you [[Actions/Basic/Strike|Strike]], describe how you want to attack; if the GM agrees your maneuver is possible, they’ll choose a defense for you to target (and potentially add one or more disadvantages, depending on how complex your maneuver is). If this attack test succeeds, the GM determines any narrative or mechanical effects of your maneuver (in addition to the normal damage dealt).
+In general, if you want to execute a creative maneuver with your weapon, that falls under the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Strike|Strike]] action (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Actions and Reactions]]” earlier in this chapter). When you [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Strike|Strike]], describe how you want to attack; if the GM agrees your maneuver is possible, they’ll choose a defense for you to target (and potentially add one or more disadvantages, depending on how complex your maneuver is). If this attack test succeeds, the GM determines any narrative or mechanical effects of your maneuver (in addition to the normal damage dealt).
 
 Heavy weapons tend to favor maneuvers that damage things in the environment, drive back foes, or otherwise take advantage of the weapon’s weight and reach. When testing Heavy Weaponry, the GM might apply fewer disadvantages to maneuvers that exploit these strengths.
 
@@ -291,11 +291,11 @@ Unless an effect otherwise specifies, you can only target a specific character o
 
 If you believe you know where a target is but you can’t sense them to confirm, you gain a disadvantage on attacks and other tests targeting them that affect their physical body. Attack tests made in this way can’t graze.
 
-You can only test in this way if you’re aware of the target’s existence and potential location through other means (such sensing them with [[Metallic Arts/Bronze/Bronze Allomancy|Bronze Allomancy]] or being told of their position).
+You can only test in this way if you’re aware of the target’s existence and potential location through other means (such sensing them with [[Bronze Allomancy|Bronze Allomancy]] or being told of their position).
 
 ### Influencing a Target
 
-Some effects require you to be able to influence your target. To do so, your target must be within a reasonable communication distance, be able to sense you, and be able to interpret the intent of your gestures, vocalizations, or similar communication. Unless otherwise specified, you don’t need to share a language, as you can make your intent clear through pointing commandingly, gesturing rudely, shouting encouragingly, and so on. See “[[Mistborn Handbook/12 - Ch 11 Conversations#Who Can You Influence?|Who Can You Influence?]]” and “[[Mistborn Handbook/12 - Ch 11 Conversations#Resisting Influence|Resisting Influence]]” in chapter 11 for more details.
+Some effects require you to be able to influence your target. To do so, your target must be within a reasonable communication distance, be able to sense you, and be able to interpret the intent of your gestures, vocalizations, or similar communication. Unless otherwise specified, you don’t need to share a language, as you can make your intent clear through pointing commandingly, gesturing rudely, shouting encouragingly, and so on. See “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/12 - Ch 11 Conversations#Who Can You Influence?|Who Can You Influence?]]” and “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/12 - Ch 11 Conversations#Resisting Influence|Resisting Influence]]” in chapter 11 for more details.
 
 ## Effect Range
 
@@ -303,7 +303,7 @@ Many abilities limit how far away you can apply their effects. All attacks are r
 
 ### Range
 
-Some abilities allow you to apply effects from a distance. These effects state a specific range—the farthest that effect can reach from its origin (which is usually you). Most abilities with range restrictions provide the range in that ability’s text. However, the range of weapon attacks depends on the weapon you use (see “[[Mistborn Handbook/08 - Ch 7 Items|Weapons]]” in chapter 7).
+Some abilities allow you to apply effects from a distance. These effects state a specific range—the farthest that effect can reach from its origin (which is usually you). Most abilities with range restrictions provide the range in that ability’s text. However, the range of weapon attacks depends on the weapon you use (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|Weapons]]” in chapter 7).
 
 #### Long and Short Range
 
@@ -313,7 +313,7 @@ For example, an axe with a range of [20/60] has a short range of 20 feet and a l
 
 ### Reach
 
-Some abilities—and all melee attacks—require your target to be within your reach; this applies whether you’re reaching them using arms, claws, other appendages, weapons, or Metallic Arts. This special range includes anywhere that’s both in your line of effect and within 5 feet of your space (see “[[Mistborn Handbook/11 - Ch 10 Combat#Size and Space|Size and Space]]” later in this chapter). Some weapons and effects can increase your reach beyond 5 feet, but no matter the distance, you must still have line of effect.
+Some abilities—and all melee attacks—require your target to be within your reach; this applies whether you’re reaching them using arms, claws, other appendages, weapons, or Metallic Arts. This special range includes anywhere that’s both in your line of effect and within 5 feet of your space (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat#Size and Space|Size and Space]]” later in this chapter). Some weapons and effects can increase your reach beyond 5 feet, but no matter the distance, you must still have line of effect.
 
 ## Area Effects
 
@@ -347,13 +347,13 @@ Talents and other abilities often specify who or what you can target with an eff
 
 **You.** This book is written primarily in second person, so it uses “you” a lot—but you still need access to the corresponding talent or other effect for that rule to count for you. “You” more specifically means “the intended audience for this rule, as expressed earlier in this section.”
 
-**Target.** When used as a noun, a target is a general term referring to anyone or anything you can apply an effect to, including characters and objects. Many rules in this book tell you to choose a “target” without specifying if that’s a character or object. If unspecified, you can apply the effect to either (within reason). However, most rules assume you’ll be targeting a character, so the effects might include things that objects can’t do (like become [[Mistborn Handbook/10 - Ch 9 Adventuring#Restrained|Restrained]]). Ignore or modify any irrelevant effects when targeting objects.
+**Target.** When used as a noun, a target is a general term referring to anyone or anything you can apply an effect to, including characters and objects. Many rules in this book tell you to choose a “target” without specifying if that’s a character or object. If unspecified, you can apply the effect to either (within reason). However, most rules assume you’ll be targeting a character, so the effects might include things that objects can’t do (like become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Restrained|Restrained]]). Ignore or modify any irrelevant effects when targeting objects.
 
 **Other Types.** Some effects specify other targets that aren’t defined in the rules; these are generally common-sense situations meant for flexibility. For example, if an ability lets you target a surface, you can affect many areas based on what makes sense in the story, rather than getting bogged down in a precise definition.
 
 ## Movement and Positioning
 
-Battlefields rarely offer flat, open terrain. Instead, you’ll often find yourself doing stunts like climbing and jumping to navigate the space. When you use the [[Actions/Basic/Move|Move]] or [[Actions/Basic/Disengage|Disengage]] action (or any other ability that moves you around the battlefield), keep these guidelines in mind.
+Battlefields rarely offer flat, open terrain. Instead, you’ll often find yourself doing stunts like climbing and jumping to navigate the space. When you use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Move|Move]] or [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Disengage|Disengage]] action (or any other ability that moves you around the battlefield), keep these guidelines in mind.
 
 ## Size and Space
 
@@ -363,9 +363,9 @@ Each character can control a different amount of space in combat, depending on t
 
 All characters in this game are classified into five **size** categories. A character’s size doesn’t directly reflect their physical measurements, but rather, the amount of space they control in combat. (For example, if an effect targets creatures “of your size or smaller,” this includes creatures who are bulkier but still in your size category.)
 
-Imagine a character controlling a three-dimensional area that’s shaped roughly like a cube; the approximate size of that area determines a character’s size, as shown in the [[Mistborn Handbook/17 - Appendix 2 Tables|Character Sizes]] table. (The GM has discretion over the exact shape and dimensions of each character’s area; this needn’t be a cube, depending on the nature of the character or effect.)
+Imagine a character controlling a three-dimensional area that’s shaped roughly like a cube; the approximate size of that area determines a character’s size, as shown in the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Character Sizes]] table. (The GM has discretion over the exact shape and dimensions of each character’s area; this needn’t be a cube, depending on the nature of the character or effect.)
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Character Sizes]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Character Sizes]]
 
 ### Object Size
 
@@ -375,35 +375,35 @@ Effects sometimes refer to objects of a certain size. These use the same catego
 
 Each character fills a **space** the same as their size category. Their space isn’t necessarily the exact area their body fills—it represents the area they can easily affect and move around in.
 
-Unless otherwise specified, only one character can occupy a space at a time (though you can move through the space of willing creatures, as described in “[[Mistborn Handbook/11 - Ch 10 Combat#Moving Around Others|Moving Around Others]]”). This limits how many characters can move next to another object or character. If enough Large characters crowd around a Small one, there won’t be room for anyone else to fit.
+Unless otherwise specified, only one character can occupy a space at a time (though you can move through the space of willing creatures, as described in “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat#Moving Around Others|Moving Around Others]]”). This limits how many characters can move next to another object or character. If enough Large characters crowd around a Small one, there won’t be room for anyone else to fit.
 
 ### Squeezing Through Small Areas
 
-Because you don’t actually take up the entire area in your space, you can **squeeze** into a space one size smaller than you. However, while squeezing in this way, you are [[Mistborn Handbook/10 - Ch 9 Adventuring#Slowed|Slowed]] and attacks made against you gain an advantage (because you can’t move around to avoid the danger).
+Because you don’t actually take up the entire area in your space, you can **squeeze** into a space one size smaller than you. However, while squeezing in this way, you are [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Slowed|Slowed]] and attacks made against you gain an advantage (because you can’t move around to avoid the danger).
 
 If you’re a Small character, it’s up to the GM how tight of a space your current form can reasonably squeeze through.
 
 ## Movement Types
 
-The [[Actions/Basic/Move|Move]] action and other movement abilities generally use your **movement rate** (see “[[Mistborn Handbook/04 - Ch 3 Character Statistics#Speed|Speed]]” in chapter 3). However, if you want to fly, you’ll need a separate **flying rate** (granted by effects such as [[Metallic Arts/Steel/Steel Allomancy|Steel Allomancy]]).
+The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Move|Move]] action and other movement abilities generally use your **movement rate** (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Speed|Speed]]” in chapter 3). However, if you want to fly, you’ll need a separate **flying rate** (granted by effects such as [[Steel Allomancy|Steel Allomancy]]).
 
 ### Standard Movement
 
-When you use the [[Actions/Basic/Move|Move]] action or similarly move, you’re generally assumed to be walking or similarly propelling yourself across the ground, bound by the laws of gravity. However, you can flavor this movement any way you wish—running, wheeling, skipping—as long as you follow the rules of the game.
+When you use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Move|Move]] action or similarly move, you’re generally assumed to be walking or similarly propelling yourself across the ground, bound by the laws of gravity. However, you can flavor this movement any way you wish—running, wheeling, skipping—as long as you follow the rules of the game.
 
 The following rules apply to more challenging ways you might move using your movement rate.
 
 #### Climbing, Crawling, and Swimming
 
-When climbing, crawling, or swimming, you are [[Mistborn Handbook/10 - Ch 9 Adventuring#Slowed|Slowed]] for that portion of your move. If a climb or swim is extremely difficult (such as from a slippery surface or rough waters), you may need to succeed on an Athletics test to make progress.
+When climbing, crawling, or swimming, you are [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Slowed|Slowed]] for that portion of your move. If a climb or swim is extremely difficult (such as from a slippery surface or rough waters), you may need to succeed on an Athletics test to make progress.
 
 #### Jumping
 
-If part of your movement requires you to jump over a gap or up into the air, you generally don’t need to make a test to jump a horizontal distance equal to your size, or a vertical distance equal to half your size. For longer jumps, see “[[Mistborn Handbook/04 - Ch 3 Character Statistics#Athletics (Strength)|Athletics]]” in chapter 3.
+If part of your movement requires you to jump over a gap or up into the air, you generally don’t need to make a test to jump a horizontal distance equal to your size, or a vertical distance equal to half your size. For longer jumps, see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Athletics (Strength)|Athletics]]” in chapter 3.
 
 #### Sneaking
 
-When you’re sneaking (see “[[Mistborn Handbook/04 - Ch 3 Character Statistics#Stealth (Speed)|Stealth]]” in chapter 3), you are [[Mistborn Handbook/10 - Ch 9 Adventuring#Slowed|Slowed]]. Additionally, you must stay out of your opponent’s line of effect or risk being spotted.
+When you’re sneaking (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Stealth (Speed)|Stealth]]” in chapter 3), you are [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Slowed|Slowed]]. Additionally, you must stay out of your opponent’s line of effect or risk being spotted.
 
 ### Flying
 
@@ -411,9 +411,9 @@ When you use the Move action or otherwise move while you have a flying rate, you
 
 While flying, you can pass above the battlefield instead of passing through the spaces of characters or terrain beneath you. However, you still must navigate around characters and terrain in the air with you.
 
-Using guns and other ranged weapons is difficult while flying. All ranged attacks gain a disadvantage due to your unstable footing (see “[[Mistborn Handbook/11 - Ch 10 Combat#Ranged Attacks|Ranged Attacks]]” earlier in this chapter).
+Using guns and other ranged weapons is difficult while flying. All ranged attacks gain a disadvantage due to your unstable footing (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat#Ranged Attacks|Ranged Attacks]]” earlier in this chapter).
 
-If knocked [[Mistborn Handbook/10 - Ch 9 Adventuring#Prone|Prone]], you fall and potentially take damage (see the upcoming “[[Mistborn Handbook/11 - Ch 10 Combat#Falling|Falling]]” section).
+If knocked [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Prone|Prone]], you fall and potentially take damage (see the upcoming “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat#Falling|Falling]]” section).
 
 ## Moving Around Others
 
@@ -423,13 +423,13 @@ Either way, you can’t end any movement in the same space as another character,
 
 ## Forced Movement
 
-Some actions or abilities can force characters to move, such as by pushing or pulling them. Forced movement isn’t affected by that character’s movement rate (or by anything that affects that rate). Additionally, forced movement doesn’t trigger the [[Actions/Basic/Reactive Strike|Reactive Strike]] reaction or other abilities that trigger when a character leaves your reach.
+Some actions or abilities can force characters to move, such as by pushing or pulling them. Forced movement isn’t affected by that character’s movement rate (or by anything that affects that rate). Additionally, forced movement doesn’t trigger the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Reactive Strike|Reactive Strike]] reaction or other abilities that trigger when a character leaves your reach.
 
 ## Falling
 
 When you fall from a height of at least 10 feet, you take damage when you collide with a surface below you. After you land, take 1d6 impact damage for every 10 feet you fell. (If an ability allows you to jump more than 10 feet, that doesn’t count as falling.)
 
-If you take any damage from a fall, you are [[Mistborn Handbook/10 - Ch 9 Adventuring#Prone|Prone]] when you land.
+If you take any damage from a fall, you are [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Prone|Prone]] when you land.
 
 ## Terrain
 
@@ -437,17 +437,17 @@ Certain types of terrain can affect the way combatants move and position themsel
 
 ### Cover
 
-You can use nearby obstacles as cover if they block an enemy’s line of effect to you, or if they otherwise could reasonably block weapons, protect against projectiles, or make you harder to perceive. When within 5 feet of cover, you can use the [[Actions/Basic/Brace|Brace]] action to add a disadvantage to most incoming attacks.
+You can use nearby obstacles as cover if they block an enemy’s line of effect to you, or if they otherwise could reasonably block weapons, protect against projectiles, or make you harder to perceive. When within 5 feet of cover, you can use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Brace|Brace]] action to add a disadvantage to most incoming attacks.
 
 ### Difficult Terrain
 
-**Difficult terrain** requires scrambling, slogging, or is otherwise difficult to move through. You are [[Mistborn Handbook/10 - Ch 9 Adventuring#Slowed|Slowed]] while moving through difficult terrain.
+**Difficult terrain** requires scrambling, slogging, or is otherwise difficult to move through. You are [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Slowed|Slowed]] while moving through difficult terrain.
 
 ### Dangerous Terrain
 
-**Dangerous terrain** causes physical harm, such as walking over embers or spikes. When you move into or start your turn in dangerous terrain, you take the damage specified by that terrain. If terrain doesn’t specify the damage, the GM can use the [[Mistborn Handbook/17 - Appendix 2 Tables|Dangerous Terrain]] table for inspiration.
+**Dangerous terrain** causes physical harm, such as walking over embers or spikes. When you move into or start your turn in dangerous terrain, you take the damage specified by that terrain. If terrain doesn’t specify the damage, the GM can use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Dangerous Terrain]] table for inspiration.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Dangerous Terrain]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Dangerous Terrain]]
 
 ![[pg327_HB10_Crushing Blow_Artur Mosca.webp]]
 
@@ -473,7 +473,7 @@ Some groups prefer to use a hexagonal grid; these work much like a square grid b
 
 When moving your character, you move from square to square on the grid. Each new square represents you moving 5 feet. Regardless of whether you move horizontally, vertically, or diagonally, it costs the same 5 feet of movement. (Though the diagonal is technically longer, this rule dramatically simplifies movement during play.)
 
-To enter a square, you must have at least 5 feet of movement remaining (or 10 if you’re [[Mistborn Handbook/10 - Ch 9 Adventuring#Slowed|Slowed]]).
+To enter a square, you must have at least 5 feet of movement remaining (or 10 if you’re [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Slowed|Slowed]]).
 
 ### Corners
 
@@ -483,7 +483,7 @@ You can’t move diagonally if you’d cross a corner that’s obstructed by an 
 
 To determine your range or distance to other combatants, count the shortest route from you to the object as if you were moving there. If making a ranged attack, ignore obstacles your projectile can reasonably fly over.
 
-To determine whether another square is in your line of effect (see the earlier “[[Mistborn Handbook/11 - Ch 10 Combat|Targeting and Range]]” section), draw an imaginary line from a corner of your square to any corner of that square. If you can draw that line without passing through or touching a solid object, that square is in your line of effect.
+To determine whether another square is in your line of effect (see the earlier “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Targeting and Range]]” section), draw an imaginary line from a corner of your square to any corner of that square. If you can draw that line without passing through or touching a solid object, that square is in your line of effect.
 
 ![[pg328_HB10 Line of Effect chart_DALLIN BIFANO_DEANDRA SCICLUNA.webp]]
 
@@ -491,7 +491,7 @@ To determine whether another square is in your line of effect (see the earlier �
 
 ## Sizes and Areas of Effect
 
-Each character’s space (see the earlier “[[Mistborn Handbook/11 - Ch 10 Combat#Size and Space|Size and Space]]” section) fills a square or squares based on their size. If a miniature you’re using doesn’t quite match up to those dimensions, that’s okay—for simplicity, just use the footprint of the miniature to determine how many squares it takes up on the battlefield. However, use the character’s in-game size for calculating all other rules.
+Each character’s space (see the earlier “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat#Size and Space|Size and Space]]” section) fills a square or squares based on their size. If a miniature you’re using doesn’t quite match up to those dimensions, that’s okay—for simplicity, just use the footprint of the miniature to determine how many squares it takes up on the battlefield. However, use the character’s in-game size for calculating all other rules.
 
 When determining areas of effect, their dimensions are outlined in increments of 5 feet, aligning to the lines of the grid. When determining an effect’s point of origin, you can start the effect in any space adjacent to a space you occupy (the area doesn’t need to include your space).
 
@@ -515,16 +515,16 @@ If you have a utility expertise in riding your particular mount (such as the Rid
 
 ## Attacking Mounts
 
-You can target a mount or rider with attacks and other abilities—but so can your enemies! For example, if you trigger a [[Actions/Basic/Reactive Strike|Reactive Strike]] while riding a mount, the enemy might choose to attack your mount instead of you.
+You can target a mount or rider with attacks and other abilities—but so can your enemies! For example, if you trigger a [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Reactive Strike|Reactive Strike]] while riding a mount, the enemy might choose to attack your mount instead of you.
 
 If you make a melee attack against a rider whose mount is bigger than you, you gain a disadvantage on the attack unless you’re also riding a mount of that size or larger.
 
 ## Opportunities and Complications in Combat
 
-Some talents and enemy stat blocks suggest uses for Opportunities and Complications (see “[[Mistborn Handbook/01 - Introduction#Plot Die|Plot Die]]” in this book’s introduction), but some of the best stories come from creative interpretations of these plot die outcomes. Use your environment and the strengths and weaknesses of your enemies to create memorable and fun effects!
+Some talents and enemy stat blocks suggest uses for Opportunities and Complications (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/01 - Introduction#Plot Die|Plot Die]]” in this book’s introduction), but some of the best stories come from creative interpretations of these plot die outcomes. Use your environment and the strengths and weaknesses of your enemies to create memorable and fun effects!
 
 Though defeating your enemies is usually a primary goal of combat, you’re often trying to accomplish something else (such as escaping, protecting others, or grabbing a key item). Think about ways you can use Opportunities and Complications to advance (or hinder) your other goals in the scene. Sure, you’re attacking an opponent, but why?
 
-The [[Mistborn Handbook/17 - Appendix 2 Tables|Combat Opportunities and Complications]] table provides inspiration for potential outcomes.
+The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Combat Opportunities and Complications]] table provides inspiration for potential outcomes.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Combat Opportunities and Complications]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Combat Opportunities and Complications]]

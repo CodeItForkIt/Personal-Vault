@@ -12,4 +12,4 @@ aliases: ["Cohesive Teamwork"]
 
 *Stonewards strive to exemplify determination and teamwork. Their resolve shows allies where to intuitively hold the line.*
 
-After you use the [[Actions/Basic/Gain Advantage|Gain Advantage]] action while having 1 Investiture or more, whether you succeed or fail, the next test an ally makes against that target gains an advantage. Until the end of your next turn, while standing on stone, you can’t be moved against your will or knocked **Prone**.
+After you use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Gain Advantage|Gain Advantage]] action while having 1 Investiture or more, whether you succeed or fail, the next test an ally makes against that target gains an advantage. Until the end of your next turn, while standing on stone, you can’t be moved against your will or knocked **Prone**.

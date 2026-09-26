@@ -14,12 +14,12 @@ aliases: ["Drowsy Storing"]
 
 When you **Store Wakefulness**, you can store charges without sleeping by experiencing the following effects:
 
-- You become [[Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted]] [−2] until you stop storing wakefulness.
+- You become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted]] [−2] until you stop storing wakefulness.
 
-- If you were [[Mistborn Handbook/10 - Ch 9 Adventuring#Focused|Focused]] when you began storing wakefulness, remove that condition. You can’t become [[Mistborn Handbook/10 - Ch 9 Adventuring#Focused|Focused]] again until you stop storing wakefulness.
+- If you were [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Focused|Focused]] when you began storing wakefulness, remove that condition. You can’t become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Focused|Focused]] again until you stop storing wakefulness.
 
-- The first time in each scene that you remove the [[Mistborn Handbook/10 - Ch 9 Adventuring#Focused|Focused]] condition in this way, you gain an additional 1 charge in your bronzemind.
+- The first time in each scene that you remove the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Focused|Focused]] condition in this way, you gain an additional 1 charge in your bronzemind.
 
 After each scene in which you stored wakefulness in this way for the entire duration, gain 1 charge in your bronzemind.
 
-You can’t activate this talent if doing so would increase your [[Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted]] penalty to 10 or higher.
+You can’t activate this talent if doing so would increase your [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted]] penalty to 10 or higher.

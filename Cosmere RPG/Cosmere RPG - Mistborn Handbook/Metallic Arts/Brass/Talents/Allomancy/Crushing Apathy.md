@@ -12,4 +12,4 @@ aliases: ["Crushing Apathy"]
 
 *Soothing can smother all of a person’s emotions at once, making it difficult to act.*
 
-Spend 2 Investiture and choose a character you’re Soothing who has 0 focus. For the duration of your Soothing, they become [[Mistborn Handbook/10 - Ch 9 Adventuring#Stunned|Stunned]].
+Spend 2 Investiture and choose a character you’re Soothing who has 0 focus. For the duration of your Soothing, they become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Stunned|Stunned]].

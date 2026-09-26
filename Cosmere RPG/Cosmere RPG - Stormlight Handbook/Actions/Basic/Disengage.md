@@ -10,4 +10,4 @@ aliases: ["Disengage"]
 
 You carefully step away from an enemy, defending yourself so they can’t seize the opportunity to attack.
 
-Move 5 feet without triggering [[Actions/Basic/Reactive Strike|Reactive Strikes]].
+Move 5 feet without triggering [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Actions/Basic/Reactive Strike|Reactive Strikes]].

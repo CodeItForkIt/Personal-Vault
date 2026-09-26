@@ -12,4 +12,4 @@ aliases: ["Profound Calm"]
 
 *Your Soothings can ease anxiety and reduce distraction.*
 
-When you use your [[Metallic Arts/Brass/Talents/Allomancy/Soothe Fatigue|Soothe Fatigue]], you can also immediately end a number of effects on each target equal to the Investiture you spent. You can only end the following effects: [[Mistborn Handbook/10 - Ch 9 Adventuring#Disoriented|Disoriented]], [[Mistborn Handbook/10 - Ch 9 Adventuring#Stunned|Stunned]], [[Mistborn Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]], and any effect that increases the target’s focus costs.
+When you use your [[Soothe Fatigue|Soothe Fatigue]], you can also immediately end a number of effects on each target equal to the Investiture you spent. You can only end the following effects: [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Disoriented|Disoriented]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Stunned|Stunned]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]], and any effect that increases the target’s focus costs.

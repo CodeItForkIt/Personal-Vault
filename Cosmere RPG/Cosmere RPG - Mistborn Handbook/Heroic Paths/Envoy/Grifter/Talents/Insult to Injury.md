@@ -12,4 +12,4 @@ aliases: ["Insult to Injury"]
 
 *Sometimes, poetic justice needs a helping hand… and you’re delighted to be that helping hand.*
 
-Once per scene, when you gain an Opportunity from your [[Heroic Paths/Envoy/Grifter/Talents/False Flattery|False Flattery]], you can spend that Opportunity to make that character suffer an injury.
+Once per scene, when you gain an Opportunity from your [[False Flattery|False Flattery]], you can spend that Opportunity to make that character suffer an injury.

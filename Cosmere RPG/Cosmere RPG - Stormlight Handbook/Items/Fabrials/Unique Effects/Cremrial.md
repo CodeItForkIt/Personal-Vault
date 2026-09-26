@@ -10,7 +10,7 @@ aliases: ["Cremrial"]
 
 *Tier 1 Unique Fabrial Effect*
 
-This fabrial can cause stone to become as soft as crem. As 1, spend 1 charge and choose a Medium (5-foot) area of stone within reach, turning it into soft clay. At the end of your turn, the area turns back to stone, and enemies in the area must successfully [[Actions/Basic/Avoid Danger|Avoid Danger]] or become [[Stormlight Handbook/10 - Ch 9 Adventuring#Immobilized|Immobilized]] (DC 15 Athletics test to escape).
+This fabrial can cause stone to become as soft as crem. As 1, spend 1 charge and choose a Medium (5-foot) area of stone within reach, turning it into soft clay. At the end of your turn, the area turns back to stone, and enemies in the area must successfully [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Avoid Danger|Avoid Danger]] or become [[Stormlight Handbook/10 - Ch 9 Adventuring#Immobilized|Immobilized]] (DC 15 Athletics test to escape).
 
 **Charges.** This fabrial has 5 charges.
 

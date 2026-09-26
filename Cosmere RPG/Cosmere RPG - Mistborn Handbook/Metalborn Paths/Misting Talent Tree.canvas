@@ -1,95 +1,17 @@
 {
-  "nodes": [
-    {
-      "id": "HfHWogW9lv40Soxb",
-      "type": "file",
-      "file": "Metalborn Paths/Misting/Talents/Allomantic Savantism.md",
-      "x": 1020,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "EwHgxvrjks4X2ia3",
-      "type": "file",
-      "file": "Metalborn Paths/Misting/Talents/Powerhouse.md",
-      "x": 680,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "1TiYCCpjvp5lfuHG",
-      "type": "file",
-      "file": "Metalborn Paths/Misting/Talents/Trace Metals.md",
-      "x": 680,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "MZ6R3eQvoY6dN0ck",
-      "type": "file",
-      "file": "Metalborn Paths/Misting/Talents/Misting Snap.md",
-      "x": 0,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "i3LD2EnTAGQgc2WM",
-      "type": "file",
-      "file": "Metalborn Paths/Misting/Talents/Instinctual Burn.md",
-      "x": 340,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "h4XWZbz4GF3r3YPZ",
-      "type": "file",
-      "file": "Metalborn Paths/Misting/Talents/Invested.md",
-      "x": 340,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    }
-  ],
-  "edges": [
-    {
-      "id": "edge0",
-      "fromNode": "h4XWZbz4GF3r3YPZ",
-      "fromSide": "right",
-      "toNode": "1TiYCCpjvp5lfuHG",
-      "toSide": "left"
-    },
-    {
-      "id": "edge1",
-      "fromNode": "h4XWZbz4GF3r3YPZ",
-      "fromSide": "right",
-      "toNode": "EwHgxvrjks4X2ia3",
-      "toSide": "left"
-    },
-    {
-      "id": "edge2",
-      "fromNode": "EwHgxvrjks4X2ia3",
-      "fromSide": "right",
-      "toNode": "HfHWogW9lv40Soxb",
-      "toSide": "left"
-    },
-    {
-      "id": "edge3",
-      "fromNode": "MZ6R3eQvoY6dN0ck",
-      "fromSide": "right",
-      "toNode": "h4XWZbz4GF3r3YPZ",
-      "toSide": "left"
-    },
-    {
-      "id": "edge4",
-      "fromNode": "MZ6R3eQvoY6dN0ck",
-      "fromSide": "right",
-      "toNode": "i3LD2EnTAGQgc2WM",
-      "toSide": "left"
-    }
-  ]
+	"nodes":[
+		{"id":"HfHWogW9lv40Soxb","type":"file","file":"Metalborn Paths/Misting/Talents/Allomantic Savantism.md","x":1020,"y":0,"width":280,"height":90},
+		{"id":"EwHgxvrjks4X2ia3","type":"file","file":"Metalborn Paths/Misting/Talents/Powerhouse.md","x":680,"y":0,"width":280,"height":90},
+		{"id":"1TiYCCpjvp5lfuHG","type":"file","file":"Metalborn Paths/Misting/Talents/Trace Metals.md","x":680,"y":120,"width":280,"height":90},
+		{"id":"MZ6R3eQvoY6dN0ck","type":"file","file":"Metalborn Paths/Misting/Talents/Misting Snap.md","x":0,"y":0,"width":280,"height":90},
+		{"id":"i3LD2EnTAGQgc2WM","type":"file","file":"Metalborn Paths/Misting/Talents/Instinctual Burn.md","x":340,"y":0,"width":280,"height":90},
+		{"id":"h4XWZbz4GF3r3YPZ","type":"file","file":"Metalborn Paths/Misting/Talents/Invested.md","x":340,"y":120,"width":280,"height":90}
+	],
+	"edges":[
+		{"id":"edge0","fromNode":"h4XWZbz4GF3r3YPZ","fromSide":"right","toNode":"1TiYCCpjvp5lfuHG","toSide":"left"},
+		{"id":"edge1","fromNode":"h4XWZbz4GF3r3YPZ","fromSide":"right","toNode":"EwHgxvrjks4X2ia3","toSide":"left"},
+		{"id":"edge2","fromNode":"EwHgxvrjks4X2ia3","fromSide":"right","toNode":"HfHWogW9lv40Soxb","toSide":"left"},
+		{"id":"edge3","fromNode":"MZ6R3eQvoY6dN0ck","fromSide":"right","toNode":"h4XWZbz4GF3r3YPZ","toSide":"left"},
+		{"id":"edge4","fromNode":"MZ6R3eQvoY6dN0ck","fromSide":"right","toNode":"i3LD2EnTAGQgc2WM","toSide":"left"}
+	]
 }

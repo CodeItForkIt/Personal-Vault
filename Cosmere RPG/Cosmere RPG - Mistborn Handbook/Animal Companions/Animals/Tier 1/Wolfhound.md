@@ -28,7 +28,7 @@ aliases: ["Wolfhound"]
 While within 5 feet of an ally, the Wolfhound can use the Gain Advantage action as 0.
 
 ### On the Hunt
-After an enemy within 30 feet of the Wolfhound falls [[Mistborn Handbook/10 - Ch 9 Adventuring#Prone|Prone]], the Wolfhound moves up to half their movement rate toward them.
+After an enemy within 30 feet of the Wolfhound falls [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Prone|Prone]], the Wolfhound moves up to half their movement rate toward them.
 
 ### Enhanced Senses
 The Wolfhound gains an advantage on non-attack tests that rely on sight.

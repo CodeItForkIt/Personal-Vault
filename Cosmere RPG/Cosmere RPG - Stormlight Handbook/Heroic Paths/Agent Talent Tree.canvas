@@ -1,411 +1,55 @@
 {
-  "nodes": [
-    {
-      "id": "tLdpmR0zDIgmq4PW",
-      "type": "file",
-      "file": "Heroic Paths/Agent/Thief/Talents/Fast Talker.md",
-      "x": 1020,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "wRSUqpGsMubKJ4lk",
-      "type": "file",
-      "file": "Heroic Paths/Agent/Investigator/Talents/Gather Evidence.md",
-      "x": 1020,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "6SlR17y2lNSLzrX1",
-      "type": "file",
-      "file": "Heroic Paths/Agent/Investigator/Talents/Hardy.md",
-      "x": 1020,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "Lcj7gXMiuMl4zV94",
-      "type": "file",
-      "file": "Heroic Paths/Agent/Spy/Talents/High Society Contacts.md",
-      "x": 1020,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "slH7UTWd3cQ0o3IN",
-      "type": "file",
-      "file": "Heroic Paths/Agent/Spy/Talents/Mighty.md",
-      "x": 1020,
-      "y": 480,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "nQ5kkW2WCXohy6Pb",
-      "type": "file",
-      "file": "Heroic Paths/Agent/Thief/Talents/Shadow Step.md",
-      "x": 1020,
-      "y": 600,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "K7xoqesNtEPWEUKk",
-      "type": "file",
-      "file": "Heroic Paths/Agent/Spy/Talents/Subtle Takedown.md",
-      "x": 1020,
-      "y": 720,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "EtZN2Xcu8sfRI00R",
-      "type": "file",
-      "file": "Heroic Paths/Agent/Thief/Talents/Tricksters Hand.md",
-      "x": 1020,
-      "y": 840,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "slUvFNZv0PiJMSpU",
-      "type": "file",
-      "file": "Heroic Paths/Agent/Thief/Talents/Underworld Contacts.md",
-      "x": 1020,
-      "y": 960,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "RJe0IHplvdkRGgM5",
-      "type": "file",
-      "file": "Heroic Paths/Agent/Thief/Talents/Cheap Shot.md",
-      "x": 340,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "DeaKiun69o5hv2O5",
-      "type": "file",
-      "file": "Heroic Paths/Agent/Investigator/Talents/Get Em Talking.md",
-      "x": 340,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "lAEMdGt3SQlaGVC2",
-      "type": "file",
-      "file": "Heroic Paths/Agent/Spy/Talents/Plausible Excuse.md",
-      "x": 340,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "3hzeCVVMksTAE5X0",
-      "type": "file",
-      "file": "Heroic Paths/Agent/Thief/Talents/Risky Behavior.md",
-      "x": 340,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "Vv9KSpLqxaUd8u6K",
-      "type": "file",
-      "file": "Heroic Paths/Agent/Spy/Talents/Sure Outcome.md",
-      "x": 340,
-      "y": 480,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "QZPcbBZ8xeQ7U9YA",
-      "type": "file",
-      "file": "Heroic Paths/Agent/Investigator/Talents/Watchful Eye.md",
-      "x": 340,
-      "y": 600,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "EZRJh6BNmY6vB5kJ",
-      "type": "file",
-      "file": "Heroic Paths/Agent/Investigator/Talents/Close the Case.md",
-      "x": 1360,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "yrQy7QrWN4C0Qp2p",
-      "type": "file",
-      "file": "Heroic Paths/Agent/Spy/Talents/Mercurial Facade.md",
-      "x": 1360,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "zT3vw6TOn0co7jMl",
-      "type": "file",
-      "file": "Heroic Paths/Agent/Investigator/Talents/Sleuths Instincts.md",
-      "x": 1360,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "eBuKSbbWkkmf6UPC",
-      "type": "file",
-      "file": "Heroic Paths/Agent/Investigator/Talents/Baleful.md",
-      "x": 680,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "sKa7wQESNjSzlr7D",
-      "type": "file",
-      "file": "Heroic Paths/Agent/Spy/Talents/Collected.md",
-      "x": 680,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "1sD2LdFfgODs6jz6",
-      "type": "file",
-      "file": "Heroic Paths/Agent/Spy/Talents/Cover Story.md",
-      "x": 680,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "bthnNcewzi77p7Eb",
-      "type": "file",
-      "file": "Heroic Paths/Agent/Thief/Talents/Double Down.md",
-      "x": 680,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "RWcwX3UpxXEfXyky",
-      "type": "file",
-      "file": "Heroic Paths/Agent/Investigator/Talents/Quick Analysis.md",
-      "x": 680,
-      "y": 480,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "bnWM9Vptporkm6Av",
-      "type": "file",
-      "file": "Heroic Paths/Agent/Thief/Talents/Surefooted.md",
-      "x": 680,
-      "y": 600,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "ScqSKbkewDAfSizP",
-      "type": "file",
-      "file": "Heroic Paths/Agent/Opportunist.md",
-      "x": 0,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    }
-  ],
-  "edges": [
-    {
-      "id": "edge0",
-      "fromNode": "lAEMdGt3SQlaGVC2",
-      "fromSide": "right",
-      "toNode": "1sD2LdFfgODs6jz6",
-      "toSide": "left"
-    },
-    {
-      "id": "edge1",
-      "fromNode": "ScqSKbkewDAfSizP",
-      "fromSide": "right",
-      "toNode": "3hzeCVVMksTAE5X0",
-      "toSide": "left"
-    },
-    {
-      "id": "edge2",
-      "fromNode": "eBuKSbbWkkmf6UPC",
-      "fromSide": "right",
-      "toNode": "6SlR17y2lNSLzrX1",
-      "toSide": "left",
-      "label": "or"
-    },
-    {
-      "id": "edge3",
-      "fromNode": "ScqSKbkewDAfSizP",
-      "fromSide": "right",
-      "toNode": "DeaKiun69o5hv2O5",
-      "toSide": "left",
-      "label": "or"
-    },
-    {
-      "id": "edge4",
-      "fromNode": "6SlR17y2lNSLzrX1",
-      "fromSide": "right",
-      "toNode": "EZRJh6BNmY6vB5kJ",
-      "toSide": "left",
-      "label": "or"
-    },
-    {
-      "id": "edge5",
-      "fromNode": "bnWM9Vptporkm6Av",
-      "fromSide": "right",
-      "toNode": "EtZN2Xcu8sfRI00R",
-      "toSide": "left"
-    },
-    {
-      "id": "edge6",
-      "fromNode": "1sD2LdFfgODs6jz6",
-      "fromSide": "right",
-      "toNode": "K7xoqesNtEPWEUKk",
-      "toSide": "left",
-      "label": "or"
-    },
-    {
-      "id": "edge7",
-      "fromNode": "1sD2LdFfgODs6jz6",
-      "fromSide": "right",
-      "toNode": "Lcj7gXMiuMl4zV94",
-      "toSide": "left"
-    },
-    {
-      "id": "edge8",
-      "fromNode": "ScqSKbkewDAfSizP",
-      "fromSide": "right",
-      "toNode": "QZPcbBZ8xeQ7U9YA",
-      "toSide": "left",
-      "label": "or"
-    },
-    {
-      "id": "edge9",
-      "fromNode": "ScqSKbkewDAfSizP",
-      "fromSide": "right",
-      "toNode": "RJe0IHplvdkRGgM5",
-      "toSide": "left"
-    },
-    {
-      "id": "edge10",
-      "fromNode": "QZPcbBZ8xeQ7U9YA",
-      "fromSide": "right",
-      "toNode": "RWcwX3UpxXEfXyky",
-      "toSide": "left",
-      "label": "or"
-    },
-    {
-      "id": "edge11",
-      "fromNode": "ScqSKbkewDAfSizP",
-      "fromSide": "right",
-      "toNode": "Vv9KSpLqxaUd8u6K",
-      "toSide": "left",
-      "label": "or"
-    },
-    {
-      "id": "edge12",
-      "fromNode": "RJe0IHplvdkRGgM5",
-      "fromSide": "right",
-      "toNode": "bnWM9Vptporkm6Av",
-      "toSide": "left"
-    },
-    {
-      "id": "edge13",
-      "fromNode": "3hzeCVVMksTAE5X0",
-      "fromSide": "right",
-      "toNode": "bthnNcewzi77p7Eb",
-      "toSide": "left"
-    },
-    {
-      "id": "edge14",
-      "fromNode": "DeaKiun69o5hv2O5",
-      "fromSide": "right",
-      "toNode": "eBuKSbbWkkmf6UPC",
-      "toSide": "left",
-      "label": "or"
-    },
-    {
-      "id": "edge15",
-      "fromNode": "ScqSKbkewDAfSizP",
-      "fromSide": "right",
-      "toNode": "lAEMdGt3SQlaGVC2",
-      "toSide": "left",
-      "label": "or"
-    },
-    {
-      "id": "edge16",
-      "fromNode": "bnWM9Vptporkm6Av",
-      "fromSide": "right",
-      "toNode": "nQ5kkW2WCXohy6Pb",
-      "toSide": "left"
-    },
-    {
-      "id": "edge17",
-      "fromNode": "Vv9KSpLqxaUd8u6K",
-      "fromSide": "right",
-      "toNode": "sKa7wQESNjSzlr7D",
-      "toSide": "left"
-    },
-    {
-      "id": "edge18",
-      "fromNode": "1sD2LdFfgODs6jz6",
-      "fromSide": "right",
-      "toNode": "slH7UTWd3cQ0o3IN",
-      "toSide": "left"
-    },
-    {
-      "id": "edge19",
-      "fromNode": "bthnNcewzi77p7Eb",
-      "fromSide": "right",
-      "toNode": "slUvFNZv0PiJMSpU",
-      "toSide": "left"
-    },
-    {
-      "id": "edge20",
-      "fromNode": "bthnNcewzi77p7Eb",
-      "fromSide": "right",
-      "toNode": "tLdpmR0zDIgmq4PW",
-      "toSide": "left"
-    },
-    {
-      "id": "edge21",
-      "fromNode": "RWcwX3UpxXEfXyky",
-      "fromSide": "right",
-      "toNode": "wRSUqpGsMubKJ4lk",
-      "toSide": "left",
-      "label": "or"
-    },
-    {
-      "id": "edge22",
-      "fromNode": "K7xoqesNtEPWEUKk",
-      "fromSide": "right",
-      "toNode": "yrQy7QrWN4C0Qp2p",
-      "toSide": "left",
-      "label": "or"
-    },
-    {
-      "id": "edge23",
-      "fromNode": "6SlR17y2lNSLzrX1",
-      "fromSide": "right",
-      "toNode": "zT3vw6TOn0co7jMl",
-      "toSide": "left",
-      "label": "or"
-    }
-  ]
+	"nodes":[
+		{"id":"tLdpmR0zDIgmq4PW","type":"file","file":"Heroic Paths/Agent/Thief/Talents/Fast Talker.md","x":1020,"y":0,"width":280,"height":90},
+		{"id":"wRSUqpGsMubKJ4lk","type":"file","file":"Heroic Paths/Agent/Investigator/Talents/Gather Evidence.md","x":1020,"y":120,"width":280,"height":90},
+		{"id":"6SlR17y2lNSLzrX1","type":"file","file":"Heroic Paths/Agent/Investigator/Talents/Hardy.md","x":1020,"y":240,"width":280,"height":90},
+		{"id":"Lcj7gXMiuMl4zV94","type":"file","file":"Heroic Paths/Agent/Spy/Talents/High Society Contacts.md","x":1020,"y":360,"width":280,"height":90},
+		{"id":"slH7UTWd3cQ0o3IN","type":"file","file":"Heroic Paths/Agent/Spy/Talents/Mighty.md","x":1020,"y":480,"width":280,"height":90},
+		{"id":"nQ5kkW2WCXohy6Pb","type":"file","file":"Heroic Paths/Agent/Thief/Talents/Shadow Step.md","x":1020,"y":600,"width":280,"height":90},
+		{"id":"K7xoqesNtEPWEUKk","type":"file","file":"Heroic Paths/Agent/Spy/Talents/Subtle Takedown.md","x":1020,"y":720,"width":280,"height":90},
+		{"id":"EtZN2Xcu8sfRI00R","type":"file","file":"Heroic Paths/Agent/Thief/Talents/Tricksters Hand.md","x":1020,"y":840,"width":280,"height":90},
+		{"id":"slUvFNZv0PiJMSpU","type":"file","file":"Heroic Paths/Agent/Thief/Talents/Underworld Contacts.md","x":1020,"y":960,"width":280,"height":90},
+		{"id":"RJe0IHplvdkRGgM5","type":"file","file":"Heroic Paths/Agent/Thief/Talents/Cheap Shot.md","x":340,"y":0,"width":280,"height":90},
+		{"id":"DeaKiun69o5hv2O5","type":"file","file":"Heroic Paths/Agent/Investigator/Talents/Get Em Talking.md","x":340,"y":120,"width":280,"height":90},
+		{"id":"lAEMdGt3SQlaGVC2","type":"file","file":"Heroic Paths/Agent/Spy/Talents/Plausible Excuse.md","x":340,"y":240,"width":280,"height":90},
+		{"id":"3hzeCVVMksTAE5X0","type":"file","file":"Heroic Paths/Agent/Thief/Talents/Risky Behavior.md","x":340,"y":360,"width":280,"height":90},
+		{"id":"Vv9KSpLqxaUd8u6K","type":"file","file":"Heroic Paths/Agent/Spy/Talents/Sure Outcome.md","x":340,"y":480,"width":280,"height":90},
+		{"id":"QZPcbBZ8xeQ7U9YA","type":"file","file":"Heroic Paths/Agent/Investigator/Talents/Watchful Eye.md","x":340,"y":600,"width":280,"height":90},
+		{"id":"EZRJh6BNmY6vB5kJ","type":"file","file":"Heroic Paths/Agent/Investigator/Talents/Close the Case.md","x":1360,"y":0,"width":280,"height":90},
+		{"id":"yrQy7QrWN4C0Qp2p","type":"file","file":"Heroic Paths/Agent/Spy/Talents/Mercurial Facade.md","x":1360,"y":120,"width":280,"height":90},
+		{"id":"zT3vw6TOn0co7jMl","type":"file","file":"Heroic Paths/Agent/Investigator/Talents/Sleuths Instincts.md","x":1360,"y":240,"width":280,"height":90},
+		{"id":"eBuKSbbWkkmf6UPC","type":"file","file":"Heroic Paths/Agent/Investigator/Talents/Baleful.md","x":680,"y":0,"width":280,"height":90},
+		{"id":"sKa7wQESNjSzlr7D","type":"file","file":"Heroic Paths/Agent/Spy/Talents/Collected.md","x":680,"y":120,"width":280,"height":90},
+		{"id":"1sD2LdFfgODs6jz6","type":"file","file":"Heroic Paths/Agent/Spy/Talents/Cover Story.md","x":680,"y":240,"width":280,"height":90},
+		{"id":"bthnNcewzi77p7Eb","type":"file","file":"Heroic Paths/Agent/Thief/Talents/Double Down.md","x":680,"y":360,"width":280,"height":90},
+		{"id":"RWcwX3UpxXEfXyky","type":"file","file":"Heroic Paths/Agent/Investigator/Talents/Quick Analysis.md","x":680,"y":480,"width":280,"height":90},
+		{"id":"bnWM9Vptporkm6Av","type":"file","file":"Heroic Paths/Agent/Thief/Talents/Surefooted.md","x":680,"y":600,"width":280,"height":90},
+		{"id":"ScqSKbkewDAfSizP","type":"file","file":"Heroic Paths/Agent/Opportunist.md","x":0,"y":0,"width":280,"height":90}
+	],
+	"edges":[
+		{"id":"edge0","fromNode":"lAEMdGt3SQlaGVC2","fromSide":"right","toNode":"1sD2LdFfgODs6jz6","toSide":"left"},
+		{"id":"edge1","fromNode":"ScqSKbkewDAfSizP","fromSide":"right","toNode":"3hzeCVVMksTAE5X0","toSide":"left"},
+		{"id":"edge2","fromNode":"eBuKSbbWkkmf6UPC","fromSide":"right","toNode":"6SlR17y2lNSLzrX1","toSide":"left","label":"or"},
+		{"id":"edge3","fromNode":"ScqSKbkewDAfSizP","fromSide":"right","toNode":"DeaKiun69o5hv2O5","toSide":"left","label":"or"},
+		{"id":"edge4","fromNode":"6SlR17y2lNSLzrX1","fromSide":"right","toNode":"EZRJh6BNmY6vB5kJ","toSide":"left","label":"or"},
+		{"id":"edge5","fromNode":"bnWM9Vptporkm6Av","fromSide":"right","toNode":"EtZN2Xcu8sfRI00R","toSide":"left"},
+		{"id":"edge6","fromNode":"1sD2LdFfgODs6jz6","fromSide":"right","toNode":"K7xoqesNtEPWEUKk","toSide":"left","label":"or"},
+		{"id":"edge7","fromNode":"1sD2LdFfgODs6jz6","fromSide":"right","toNode":"Lcj7gXMiuMl4zV94","toSide":"left"},
+		{"id":"edge8","fromNode":"ScqSKbkewDAfSizP","fromSide":"right","toNode":"QZPcbBZ8xeQ7U9YA","toSide":"left","label":"or"},
+		{"id":"edge9","fromNode":"ScqSKbkewDAfSizP","fromSide":"right","toNode":"RJe0IHplvdkRGgM5","toSide":"left"},
+		{"id":"edge10","fromNode":"QZPcbBZ8xeQ7U9YA","fromSide":"right","toNode":"RWcwX3UpxXEfXyky","toSide":"left","label":"or"},
+		{"id":"edge11","fromNode":"ScqSKbkewDAfSizP","fromSide":"right","toNode":"Vv9KSpLqxaUd8u6K","toSide":"left","label":"or"},
+		{"id":"edge12","fromNode":"RJe0IHplvdkRGgM5","fromSide":"right","toNode":"bnWM9Vptporkm6Av","toSide":"left"},
+		{"id":"edge13","fromNode":"3hzeCVVMksTAE5X0","fromSide":"right","toNode":"bthnNcewzi77p7Eb","toSide":"left"},
+		{"id":"edge14","fromNode":"DeaKiun69o5hv2O5","fromSide":"right","toNode":"eBuKSbbWkkmf6UPC","toSide":"left","label":"or"},
+		{"id":"edge15","fromNode":"ScqSKbkewDAfSizP","fromSide":"right","toNode":"lAEMdGt3SQlaGVC2","toSide":"left","label":"or"},
+		{"id":"edge16","fromNode":"bnWM9Vptporkm6Av","fromSide":"right","toNode":"nQ5kkW2WCXohy6Pb","toSide":"left"},
+		{"id":"edge17","fromNode":"Vv9KSpLqxaUd8u6K","fromSide":"right","toNode":"sKa7wQESNjSzlr7D","toSide":"left"},
+		{"id":"edge18","fromNode":"1sD2LdFfgODs6jz6","fromSide":"right","toNode":"slH7UTWd3cQ0o3IN","toSide":"left"},
+		{"id":"edge19","fromNode":"bthnNcewzi77p7Eb","fromSide":"right","toNode":"slUvFNZv0PiJMSpU","toSide":"left"},
+		{"id":"edge20","fromNode":"bthnNcewzi77p7Eb","fromSide":"right","toNode":"tLdpmR0zDIgmq4PW","toSide":"left"},
+		{"id":"edge21","fromNode":"RWcwX3UpxXEfXyky","fromSide":"right","toNode":"wRSUqpGsMubKJ4lk","toSide":"left","label":"or"},
+		{"id":"edge22","fromNode":"K7xoqesNtEPWEUKk","fromSide":"right","toNode":"yrQy7QrWN4C0Qp2p","toSide":"left","label":"or"},
+		{"id":"edge23","fromNode":"6SlR17y2lNSLzrX1","fromSide":"right","toNode":"zT3vw6TOn0co7jMl","toSide":"left","label":"or"}
+	]
 }

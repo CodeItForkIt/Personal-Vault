@@ -28,7 +28,7 @@ aliases: ["Raven"]
 The Raven gains an advantage on non-attack tests that rely on sight.
 
 ### Skyborn
-The Raven doesn’t trigger [[Actions/Basic/Reactive Strike|Reactive Strikes]] while flying
+The Raven doesn’t trigger [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Reactive Strike|Reactive Strikes]] while flying
 
 ### Swift Swipe
 When the Raven makes a Claw attack or Thievery test, if they moved at least 10 feet in a straight line toward the target this turn, they gain an advantage on the test.

@@ -12,4 +12,4 @@ aliases: ["Time Dilation"]
 
 *Your mastery with burning cadmium allows you to create enormous time bubbles.*
 
-Your [[Metallic Arts/Cadmium/Talents/Allomancy/Expanded Bubble|Expanded Bubble]] talent now allows you to create a cadmium bubble in a 35- or 45-foot area (instead of 25).
+Your [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Metallic Arts/Cadmium/Talents/Allomancy/Expanded Bubble|Expanded Bubble]] talent now allows you to create a cadmium bubble in a 35- or 45-foot area (instead of 25).

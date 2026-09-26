@@ -12,4 +12,4 @@ aliases: ["Awake and Alert"]
 
 *You can channel your tapped wakefulness to gain a burst of alertness and mental vigor.*
 
-Spend 1 charge from your bronzemind to become [[Mistborn Handbook/10 - Ch 9 Adventuring#Enhanced|Enhanced]] [**Intellect** +1] and [[Mistborn Handbook/10 - Ch 9 Adventuring#Enhanced|Enhanced]] [**Awareness** +1] for a number of rounds equal to your ranks in Feruchemy (or until you begin storing wakefulness). Before this effect ends, you can maintain it for the same duration by spending 1 charge from your bronzemind as 0.
+Spend 1 charge from your bronzemind to become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Enhanced|Enhanced]] [**Intellect** +1] and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Enhanced|Enhanced]] [**Awareness** +1] for a number of rounds equal to your ranks in Feruchemy (or until you begin storing wakefulness). Before this effect ends, you can maintain it for the same duration by spending 1 charge from your bronzemind as 0.

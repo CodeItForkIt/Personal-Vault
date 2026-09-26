@@ -10,20 +10,20 @@ aliases: ["Common Actions Pack"]
 
 Drag this pack onto a character sheet to quickly add commonly used basic actions. These include:
 
-- [[Actions/Basic/Aid|Aid]]
+- [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Aid|Aid]]
 
-- [[Actions/Basic/Avoid Danger|Avoid Danger]]
+- [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Avoid Danger|Avoid Danger]]
 
-- [[Actions/Basic/Brace|Brace]]
+- [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Brace|Brace]]
 
-- [[Actions/Basic/Disengage|Disengage]]
+- [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Disengage|Disengage]]
 
-- [[Actions/Basic/Dodge|Dodge]]
+- [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Dodge|Dodge]]
 
-- [[Actions/Basic/Grapple|Grapple]]
+- [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Grapple|Grapple]]
 
-- [[Actions/Basic/Shove|Shove]]
+- [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Shove|Shove]]
 
 - [[Actions/Basic/Unarmed Strike|Unarmed Strike]]
 
-- [[Actions/Basic/Recover|Recover]]
+- [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Recover|Recover]]

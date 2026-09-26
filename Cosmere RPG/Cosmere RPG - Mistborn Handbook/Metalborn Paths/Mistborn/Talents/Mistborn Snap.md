@@ -14,10 +14,10 @@ aliases: ["Mistborn Snap"]
 
 When you acquire this talent, you Snap, becoming a Mistborn and gaining the following benefits:
 
-- You gain access to Investiture, beginning with a maximum Investiture of 2 + your **Awareness** or **Presence** (whichever is higher). You can now use the [[Actions/Metallic Arts/Allomancy/Drink Vial|Drink Vial]] action.
+- You gain access to Investiture, beginning with a maximum Investiture of 2 + your **Awareness** or **Presence** (whichever is higher). You can now use the [[Drink Vial|Drink Vial]] action.
 
 - You gain the **Allomancy** skill on your character sheet, starting with 1 rank in it. It uses your **Willpower** attribute.
 
-- You gain all Allomantic powers available in your era (see “[[Mistborn Handbook/07 - Ch 6 Metallic Arts|Metals of Scadrial]]” in chapter 6). You can only use the nascent versions of these powers for now (aside from [[Metallic Arts/Atium/Atium Allomancy|Atium Allomancy]], which you can use the full version of).
+- You gain all Allomantic powers available in your era (see “[[07 - Ch 6 Metallic Arts|Metals of Scadrial]]” in chapter 6). You can only use the nascent versions of these powers for now (aside from [[Atium Allomancy|Atium Allomancy]], which you can use the full version of).
 
-Additionally, choose one Pushing/Pulling pair of those metals (see “[[Mistborn Handbook/07 - Ch 6 Metallic Arts|Metals of Scadrial]]” in chapter 6). You gain the Metalborn goal “Train Your Powers” for these two Allomantic powers. After completing this goal, you gain its reward: You unlock the full version of these two powers and can choose talents from their talent trees. At the GM’s discretion, you can then gain the “Train Your Powers” goal for another pair, continuing in this way until you’ve unlocked all your powers.
+Additionally, choose one Pushing/Pulling pair of those metals (see “[[07 - Ch 6 Metallic Arts|Metals of Scadrial]]” in chapter 6). You gain the Metalborn goal “Train Your Powers” for these two Allomantic powers. After completing this goal, you gain its reward: You unlock the full version of these two powers and can choose talents from their talent trees. At the GM’s discretion, you can then gain the “Train Your Powers” goal for another pair, continuing in this way until you’ve unlocked all your powers.

@@ -28,15 +28,15 @@ Beyond the [[Radiant Paths/Windrunner/Goals/Speak the First Ideal|First Ideal]] 
 >
 > Though the Windrunners heavily emphasize excellence in weaponry, their capabilities also make them excellent scouts, and their history emphasizes leadership. As such, the following heroic paths can be excellent precursors to the Windrunner Radiant path:
 >
-> - [[Heroic Paths/Agent/Agent|Agent]] (Spy)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Agent|Agent]] (Spy)
 >
-> - [[Heroic Paths/Envoy/Envoy|Envoy]] (Mentor)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Envoy|Envoy]] (Mentor)
 >
-> - [[Heroic Paths/Hunter/Hunter|Hunter]] (Archer)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Hunter|Hunter]] (Archer)
 >
-> - [[Heroic Paths/Leader/Leader|Leader]] (Champion or Officer)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Leader|Leader]] (Champion or Officer)
 >
-> - [[Heroic Paths/Warrior/Warrior|Warrior]] (Duelist or Soldier)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Warrior|Warrior]] (Duelist or Soldier)
 
 ### Windrunner History
 

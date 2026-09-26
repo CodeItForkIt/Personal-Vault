@@ -14,7 +14,7 @@ aliases: ["Dynamite (1 stick)"]
 
 Dynamite is a powerful and volatile explosive that’s typically used for demolition and strip mining. It can be used as a weapon, but use great care—it’s incredibly dangerous to even carry in your possessions. Dynamite is typically detonated with a fuse, though it can be thrown in a pinch. Multiple sticks of dynamite can be attached to the same fuse to increase the power of a timed explosion.
 
-Especially in urban population centers, law enforcement officers (such as the constabulary) keep a close watch for hazardous items like this. Unless you have a patron (see “[[Mistborn Handbook/09 - Ch 8 Goals and Rewards|Reward Categories]]” in chapter 8) who authorizes you to acquire, transport, or wield dynamite, it’s incredibly difficult to purchase—and if caught with it, you’re liable to be arrested and prosecuted.
+Especially in urban population centers, law enforcement officers (such as the constabulary) keep a close watch for hazardous items like this. Unless you have a patron (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards|Reward Categories]]” in chapter 8) who authorizes you to acquire, transport, or wield dynamite, it’s incredibly difficult to purchase—and if caught with it, you’re liable to be arrested and prosecuted.
 
 **Unique Traits.** Dynamite has the following unique traits:
 

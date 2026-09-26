@@ -1,399 +1,55 @@
 {
-  "nodes": [
-    {
-      "id": "hSJk6hNha8vqTKY0",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Soldier/Talents/Cautious Advance.md",
-      "x": 340,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "Ffr5wEkY8mncP6YF",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Soldier/Talents/Combat Training.md",
-      "x": 340,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "iqcPyHCyp3q64R41",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Gunslinger (Era 2)/Talents/Fire Discipline.md",
-      "x": 340,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "gOLHldvnvRYC6GnT",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Brawler/Talents/Grapplers Stance.md",
-      "x": 340,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "AMLuFJ8gaGqjuebx",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Brawler/Talents/Surefooted.md",
-      "x": 340,
-      "y": 480,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "favPnY5Bt7HmQkUU",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Gunslinger (Era 2)/Talents/Trick Shooting.md",
-      "x": 340,
-      "y": 600,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "CxfbyBaMSzODMAws",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Brawler/Talents/Baleful.md",
-      "x": 680,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "mEL0FpBSj7bO3X6g",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Soldier/Talents/Defensive Position.md",
-      "x": 680,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "UyyDhT7ewYbVnEdQ",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Soldier/Talents/Devastating Blow.md",
-      "x": 680,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "SrrzL27sOkwZQ3cZ",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Soldier/Talents/Hardy.md",
-      "x": 680,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "sOWLkODK4puBNujP",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Brawler/Talents/Roll With the Punches.md",
-      "x": 680,
-      "y": 480,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "ZBA4Q4jcHFKvXJsJ",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Gunslinger (Era 2)/Talents/Terrifying Jolt.md",
-      "x": 680,
-      "y": 600,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "b1dwdQDqHh5YPuSX",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Gunslinger (Era 2)/Talents/Twin Weapon Stance.md",
-      "x": 680,
-      "y": 720,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "p2mYPTK0zPCpvDlT",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Brawler/Talents/Bruisers Stance.md",
-      "x": 1020,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "7DaM6CaUAuWmyYFG",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Gunslinger (Era 2)/Talents/Collateral Damage.md",
-      "x": 1020,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "K3zfVfKmrWxQKJF6",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Gunslinger (Era 2)/Talents/Fanning.md",
-      "x": 1020,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "oKrkhqTSIeJyqfVF",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Gunslinger (Era 2)/Talents/Fast Hands.md",
-      "x": 1020,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "FQhb9q7zYGJYuVdA",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Soldier/Talents/Formation Drills.md",
-      "x": 1020,
-      "y": 480,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "sVX5YJn0b3RxXf5R",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Gunslinger (Era 2)/Talents/Mighty.md",
-      "x": 1020,
-      "y": 600,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "Yzh4Qt7ZHOc9cFbZ",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Brawler/Talents/Pulse of Battle.md",
-      "x": 1020,
-      "y": 720,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "OAji4q7Xgw7YBe2l",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Soldier/Talents/Swift Strikes.md",
-      "x": 1020,
-      "y": 840,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "DkE148nW1s5SjEzg",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Soldier/Talents/Wary.md",
-      "x": 1020,
-      "y": 960,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "coNd3VzBoDZnNabb",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Brawler/Talents/Battle-Hardened.md",
-      "x": 1360,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "04az9rlKLuE0RfTy",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Brawler/Talents/Wallop.md",
-      "x": 1360,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "oW7ghDVm0N26W7sy",
-      "type": "file",
-      "file": "Heroic Paths/Warrior/Vigilant Stance.md",
-      "x": 0,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    }
-  ],
-  "edges": [
-    {
-      "id": "edge0",
-      "fromNode": "Yzh4Qt7ZHOc9cFbZ",
-      "fromSide": "right",
-      "toNode": "04az9rlKLuE0RfTy",
-      "toSide": "left"
-    },
-    {
-      "id": "edge1",
-      "fromNode": "ZBA4Q4jcHFKvXJsJ",
-      "fromSide": "right",
-      "toNode": "7DaM6CaUAuWmyYFG",
-      "toSide": "left"
-    },
-    {
-      "id": "edge2",
-      "fromNode": "oW7ghDVm0N26W7sy",
-      "fromSide": "right",
-      "toNode": "AMLuFJ8gaGqjuebx",
-      "toSide": "left"
-    },
-    {
-      "id": "edge3",
-      "fromNode": "gOLHldvnvRYC6GnT",
-      "fromSide": "right",
-      "toNode": "CxfbyBaMSzODMAws",
-      "toSide": "left"
-    },
-    {
-      "id": "edge4",
-      "fromNode": "mEL0FpBSj7bO3X6g",
-      "fromSide": "right",
-      "toNode": "DkE148nW1s5SjEzg",
-      "toSide": "left"
-    },
-    {
-      "id": "edge5",
-      "fromNode": "mEL0FpBSj7bO3X6g",
-      "fromSide": "right",
-      "toNode": "FQhb9q7zYGJYuVdA",
-      "toSide": "left"
-    },
-    {
-      "id": "edge6",
-      "fromNode": "oW7ghDVm0N26W7sy",
-      "fromSide": "right",
-      "toNode": "Ffr5wEkY8mncP6YF",
-      "toSide": "left"
-    },
-    {
-      "id": "edge7",
-      "fromNode": "ZBA4Q4jcHFKvXJsJ",
-      "fromSide": "right",
-      "toNode": "K3zfVfKmrWxQKJF6",
-      "toSide": "left"
-    },
-    {
-      "id": "edge8",
-      "fromNode": "SrrzL27sOkwZQ3cZ",
-      "fromSide": "right",
-      "toNode": "OAji4q7Xgw7YBe2l",
-      "toSide": "left"
-    },
-    {
-      "id": "edge9",
-      "fromNode": "Ffr5wEkY8mncP6YF",
-      "fromSide": "right",
-      "toNode": "SrrzL27sOkwZQ3cZ",
-      "toSide": "left"
-    },
-    {
-      "id": "edge10",
-      "fromNode": "Ffr5wEkY8mncP6YF",
-      "fromSide": "right",
-      "toNode": "UyyDhT7ewYbVnEdQ",
-      "toSide": "left"
-    },
-    {
-      "id": "edge11",
-      "fromNode": "CxfbyBaMSzODMAws",
-      "fromSide": "right",
-      "toNode": "Yzh4Qt7ZHOc9cFbZ",
-      "toSide": "left"
-    },
-    {
-      "id": "edge12",
-      "fromNode": "iqcPyHCyp3q64R41",
-      "fromSide": "right",
-      "toNode": "ZBA4Q4jcHFKvXJsJ",
-      "toSide": "left"
-    },
-    {
-      "id": "edge13",
-      "fromNode": "favPnY5Bt7HmQkUU",
-      "fromSide": "right",
-      "toNode": "b1dwdQDqHh5YPuSX",
-      "toSide": "left"
-    },
-    {
-      "id": "edge14",
-      "fromNode": "p2mYPTK0zPCpvDlT",
-      "fromSide": "right",
-      "toNode": "coNd3VzBoDZnNabb",
-      "toSide": "left"
-    },
-    {
-      "id": "edge15",
-      "fromNode": "oW7ghDVm0N26W7sy",
-      "fromSide": "right",
-      "toNode": "favPnY5Bt7HmQkUU",
-      "toSide": "left"
-    },
-    {
-      "id": "edge16",
-      "fromNode": "oW7ghDVm0N26W7sy",
-      "fromSide": "right",
-      "toNode": "gOLHldvnvRYC6GnT",
-      "toSide": "left"
-    },
-    {
-      "id": "edge17",
-      "fromNode": "oW7ghDVm0N26W7sy",
-      "fromSide": "right",
-      "toNode": "hSJk6hNha8vqTKY0",
-      "toSide": "left"
-    },
-    {
-      "id": "edge18",
-      "fromNode": "oW7ghDVm0N26W7sy",
-      "fromSide": "right",
-      "toNode": "iqcPyHCyp3q64R41",
-      "toSide": "left"
-    },
-    {
-      "id": "edge19",
-      "fromNode": "hSJk6hNha8vqTKY0",
-      "fromSide": "right",
-      "toNode": "mEL0FpBSj7bO3X6g",
-      "toSide": "left"
-    },
-    {
-      "id": "edge20",
-      "fromNode": "b1dwdQDqHh5YPuSX",
-      "fromSide": "right",
-      "toNode": "oKrkhqTSIeJyqfVF",
-      "toSide": "left"
-    },
-    {
-      "id": "edge21",
-      "fromNode": "CxfbyBaMSzODMAws",
-      "fromSide": "right",
-      "toNode": "p2mYPTK0zPCpvDlT",
-      "toSide": "left"
-    },
-    {
-      "id": "edge22",
-      "fromNode": "AMLuFJ8gaGqjuebx",
-      "fromSide": "right",
-      "toNode": "sOWLkODK4puBNujP",
-      "toSide": "left"
-    },
-    {
-      "id": "edge23",
-      "fromNode": "ZBA4Q4jcHFKvXJsJ",
-      "fromSide": "right",
-      "toNode": "sVX5YJn0b3RxXf5R",
-      "toSide": "left"
-    }
-  ]
+	"nodes":[
+		{"id":"hSJk6hNha8vqTKY0","type":"file","file":"Heroic Paths/Warrior/Soldier/Talents/Cautious Advance.md","x":340,"y":0,"width":280,"height":90},
+		{"id":"Ffr5wEkY8mncP6YF","type":"file","file":"Heroic Paths/Warrior/Soldier/Talents/Combat Training.md","x":340,"y":120,"width":280,"height":90},
+		{"id":"iqcPyHCyp3q64R41","type":"file","file":"Heroic Paths/Warrior/Gunslinger (Era 2)/Talents/Fire Discipline.md","x":340,"y":240,"width":280,"height":90},
+		{"id":"gOLHldvnvRYC6GnT","type":"file","file":"Heroic Paths/Warrior/Brawler/Talents/Grapplers Stance.md","x":340,"y":360,"width":280,"height":90},
+		{"id":"AMLuFJ8gaGqjuebx","type":"file","file":"Heroic Paths/Warrior/Brawler/Talents/Surefooted.md","x":340,"y":480,"width":280,"height":90},
+		{"id":"favPnY5Bt7HmQkUU","type":"file","file":"Heroic Paths/Warrior/Gunslinger (Era 2)/Talents/Trick Shooting.md","x":340,"y":600,"width":280,"height":90},
+		{"id":"CxfbyBaMSzODMAws","type":"file","file":"Heroic Paths/Warrior/Brawler/Talents/Baleful.md","x":680,"y":0,"width":280,"height":90},
+		{"id":"mEL0FpBSj7bO3X6g","type":"file","file":"Heroic Paths/Warrior/Soldier/Talents/Defensive Position.md","x":680,"y":120,"width":280,"height":90},
+		{"id":"UyyDhT7ewYbVnEdQ","type":"file","file":"Heroic Paths/Warrior/Soldier/Talents/Devastating Blow.md","x":680,"y":240,"width":280,"height":90},
+		{"id":"SrrzL27sOkwZQ3cZ","type":"file","file":"Heroic Paths/Warrior/Soldier/Talents/Hardy.md","x":680,"y":360,"width":280,"height":90},
+		{"id":"sOWLkODK4puBNujP","type":"file","file":"Heroic Paths/Warrior/Brawler/Talents/Roll With the Punches.md","x":680,"y":480,"width":280,"height":90},
+		{"id":"ZBA4Q4jcHFKvXJsJ","type":"file","file":"Heroic Paths/Warrior/Gunslinger (Era 2)/Talents/Terrifying Jolt.md","x":680,"y":600,"width":280,"height":90},
+		{"id":"b1dwdQDqHh5YPuSX","type":"file","file":"Heroic Paths/Warrior/Gunslinger (Era 2)/Talents/Twin Weapon Stance.md","x":680,"y":720,"width":280,"height":90},
+		{"id":"p2mYPTK0zPCpvDlT","type":"file","file":"Heroic Paths/Warrior/Brawler/Talents/Bruisers Stance.md","x":1020,"y":0,"width":280,"height":90},
+		{"id":"7DaM6CaUAuWmyYFG","type":"file","file":"Heroic Paths/Warrior/Gunslinger (Era 2)/Talents/Collateral Damage.md","x":1020,"y":120,"width":280,"height":90},
+		{"id":"K3zfVfKmrWxQKJF6","type":"file","file":"Heroic Paths/Warrior/Gunslinger (Era 2)/Talents/Fanning.md","x":1020,"y":240,"width":280,"height":90},
+		{"id":"oKrkhqTSIeJyqfVF","type":"file","file":"Heroic Paths/Warrior/Gunslinger (Era 2)/Talents/Fast Hands.md","x":1020,"y":360,"width":280,"height":90},
+		{"id":"FQhb9q7zYGJYuVdA","type":"file","file":"Heroic Paths/Warrior/Soldier/Talents/Formation Drills.md","x":1020,"y":480,"width":280,"height":90},
+		{"id":"sVX5YJn0b3RxXf5R","type":"file","file":"Heroic Paths/Warrior/Gunslinger (Era 2)/Talents/Mighty.md","x":1020,"y":600,"width":280,"height":90},
+		{"id":"Yzh4Qt7ZHOc9cFbZ","type":"file","file":"Heroic Paths/Warrior/Brawler/Talents/Pulse of Battle.md","x":1020,"y":720,"width":280,"height":90},
+		{"id":"OAji4q7Xgw7YBe2l","type":"file","file":"Heroic Paths/Warrior/Soldier/Talents/Swift Strikes.md","x":1020,"y":840,"width":280,"height":90},
+		{"id":"DkE148nW1s5SjEzg","type":"file","file":"Heroic Paths/Warrior/Soldier/Talents/Wary.md","x":1020,"y":960,"width":280,"height":90},
+		{"id":"coNd3VzBoDZnNabb","type":"file","file":"Heroic Paths/Warrior/Brawler/Talents/Battle-Hardened.md","x":1360,"y":0,"width":280,"height":90},
+		{"id":"04az9rlKLuE0RfTy","type":"file","file":"Heroic Paths/Warrior/Brawler/Talents/Wallop.md","x":1360,"y":120,"width":280,"height":90},
+		{"id":"oW7ghDVm0N26W7sy","type":"file","file":"Heroic Paths/Warrior/Vigilant Stance.md","x":0,"y":0,"width":280,"height":90}
+	],
+	"edges":[
+		{"id":"edge0","fromNode":"Yzh4Qt7ZHOc9cFbZ","fromSide":"right","toNode":"04az9rlKLuE0RfTy","toSide":"left"},
+		{"id":"edge1","fromNode":"ZBA4Q4jcHFKvXJsJ","fromSide":"right","toNode":"7DaM6CaUAuWmyYFG","toSide":"left"},
+		{"id":"edge2","fromNode":"oW7ghDVm0N26W7sy","fromSide":"right","toNode":"AMLuFJ8gaGqjuebx","toSide":"left"},
+		{"id":"edge3","fromNode":"gOLHldvnvRYC6GnT","fromSide":"right","toNode":"CxfbyBaMSzODMAws","toSide":"left"},
+		{"id":"edge4","fromNode":"mEL0FpBSj7bO3X6g","fromSide":"right","toNode":"DkE148nW1s5SjEzg","toSide":"left"},
+		{"id":"edge5","fromNode":"mEL0FpBSj7bO3X6g","fromSide":"right","toNode":"FQhb9q7zYGJYuVdA","toSide":"left"},
+		{"id":"edge6","fromNode":"oW7ghDVm0N26W7sy","fromSide":"right","toNode":"Ffr5wEkY8mncP6YF","toSide":"left"},
+		{"id":"edge7","fromNode":"ZBA4Q4jcHFKvXJsJ","fromSide":"right","toNode":"K3zfVfKmrWxQKJF6","toSide":"left"},
+		{"id":"edge8","fromNode":"SrrzL27sOkwZQ3cZ","fromSide":"right","toNode":"OAji4q7Xgw7YBe2l","toSide":"left"},
+		{"id":"edge9","fromNode":"Ffr5wEkY8mncP6YF","fromSide":"right","toNode":"SrrzL27sOkwZQ3cZ","toSide":"left"},
+		{"id":"edge10","fromNode":"Ffr5wEkY8mncP6YF","fromSide":"right","toNode":"UyyDhT7ewYbVnEdQ","toSide":"left"},
+		{"id":"edge11","fromNode":"CxfbyBaMSzODMAws","fromSide":"right","toNode":"Yzh4Qt7ZHOc9cFbZ","toSide":"left"},
+		{"id":"edge12","fromNode":"iqcPyHCyp3q64R41","fromSide":"right","toNode":"ZBA4Q4jcHFKvXJsJ","toSide":"left"},
+		{"id":"edge13","fromNode":"favPnY5Bt7HmQkUU","fromSide":"right","toNode":"b1dwdQDqHh5YPuSX","toSide":"left"},
+		{"id":"edge14","fromNode":"p2mYPTK0zPCpvDlT","fromSide":"right","toNode":"coNd3VzBoDZnNabb","toSide":"left"},
+		{"id":"edge15","fromNode":"oW7ghDVm0N26W7sy","fromSide":"right","toNode":"favPnY5Bt7HmQkUU","toSide":"left"},
+		{"id":"edge16","fromNode":"oW7ghDVm0N26W7sy","fromSide":"right","toNode":"gOLHldvnvRYC6GnT","toSide":"left"},
+		{"id":"edge17","fromNode":"oW7ghDVm0N26W7sy","fromSide":"right","toNode":"hSJk6hNha8vqTKY0","toSide":"left"},
+		{"id":"edge18","fromNode":"oW7ghDVm0N26W7sy","fromSide":"right","toNode":"iqcPyHCyp3q64R41","toSide":"left"},
+		{"id":"edge19","fromNode":"hSJk6hNha8vqTKY0","fromSide":"right","toNode":"mEL0FpBSj7bO3X6g","toSide":"left"},
+		{"id":"edge20","fromNode":"b1dwdQDqHh5YPuSX","fromSide":"right","toNode":"oKrkhqTSIeJyqfVF","toSide":"left"},
+		{"id":"edge21","fromNode":"CxfbyBaMSzODMAws","fromSide":"right","toNode":"p2mYPTK0zPCpvDlT","toSide":"left"},
+		{"id":"edge22","fromNode":"AMLuFJ8gaGqjuebx","fromSide":"right","toNode":"sOWLkODK4puBNujP","toSide":"left"},
+		{"id":"edge23","fromNode":"ZBA4Q4jcHFKvXJsJ","fromSide":"right","toNode":"sVX5YJn0b3RxXf5R","toSide":"left"}
+	]
 }

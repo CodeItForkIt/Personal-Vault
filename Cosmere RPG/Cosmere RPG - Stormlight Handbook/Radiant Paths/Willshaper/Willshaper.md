@@ -30,13 +30,13 @@ Beyond the [[Radiant Paths/Willshaper/Goals/Speak the First Ideal|First Ideal]] 
 >
 > Willshapers are freedom fighters, teachers, and leaders who all work in their own ways to free the oppressed and create opportunities for others to express themselves. Even before bonding lightspren, Willshapers are often architects, crafters, and civil engineers. As such, the following heroic paths can be excellent precursors to the Willshaper Radiant path:
 >
-> - [[Heroic Paths/Envoy/Envoy|Envoy]] (Mentor)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Envoy|Envoy]] (Mentor)
 >
-> - [[Heroic Paths/Leader/Leader|Leader]] (Champion, Officer, or Politico)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Leader|Leader]] (Champion, Officer, or Politico)
 >
-> - [[Heroic Paths/Scholar/Scholar|Scholar]] (Artifabrian or Surgeon)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Scholar|Scholar]] (Artifabrian or Surgeon)
 >
-> - [[Heroic Paths/Warrior/Warrior|Warrior]] (Soldier)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Warrior|Warrior]] (Soldier)
 
 ### Willshaper History
 

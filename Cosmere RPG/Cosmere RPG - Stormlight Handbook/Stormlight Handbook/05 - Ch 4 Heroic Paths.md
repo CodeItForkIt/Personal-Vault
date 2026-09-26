@@ -18,7 +18,7 @@ Characters in Stormlight campaigns are heroes: they help others in need, save in
 
 As a player character, the abilities on your character sheet primarily come from your talents (see [[Stormlight Handbook/05 - Ch 4 Heroic Paths#Using Talents|Using Talents]] later in this section). You’ll gain your first talent during character creation, then choose more as you gain levels.
 
-Your **path** provides structure for how you choose your talents. It begins with a **key talent** that, once chosen, unlocks access to the talents within that path’s three **specialties**. For example, once you pick the [[Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance]] (Warrior Key) talent, you gain access to the Duelist, Shardbearer, and Soldier specialties within the Warrior path.
+Your **path** provides structure for how you choose your talents. It begins with a **key talent** that, once chosen, unlocks access to the talents within that path’s three **specialties**. For example, once you pick the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance]] (Warrior Key) talent, you gain access to the Duelist, Shardbearer, and Soldier specialties within the Warrior path.
 
 ## Heroic and Radiant Paths
 
@@ -252,9 +252,9 @@ Azish constables regularly travel across Azir to enforce the law. They are autho
 
 **Building a Constable.** Pick human ancestry and the Azish and Wayfarer cultural expertises. Start with high Intellect and Willpower. In addition to the Insight skill rank you gain from Agent, put 2 ranks into Deduction, and put 1 rank into Insight and Light Weaponry.
 
-In addition to the [[Heroic Paths/Agent/Opportunist|Opportunist (Agent Key)]] talent, use your human ancestry to choose the [[Heroic Paths/Agent/Investigator/Talents/Get Em Talking|Get ’Em Talking]] talent in the Investigator specialty. Finally, choose the Academic starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Opportunist|Opportunist (Agent Key)]] talent, use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Investigator/Talents/Get Em Talking|Get ’Em Talking]] talent in the Investigator specialty. Finally, choose the Academic starting kit.
 
-As you level up, consider working toward the [[Heroic Paths/Agent/Investigator/Talents/Gather Evidence|Gather Evidence]] and [[Heroic Paths/Agent/Investigator/Talents/Sleuths Instincts|Sleuth’s Instincts]] talents.
+As you level up, consider working toward the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Investigator/Talents/Gather Evidence|Gather Evidence]] and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Investigator/Talents/Sleuths Instincts|Sleuth’s Instincts]] talents.
 
  
 
@@ -264,9 +264,9 @@ Forsaken by society, street urchins learn early that risk is synonymous with sur
 
 **Building a Street Urchin.** Pick any ancestry and any two cultural expertises. Start with high Speed and Willpower. In addition to the Insight skill rank you gain from Agent, put 2 ranks into Thievery, and put 1 rank into Light Weaponry and Stealth.
 
-In addition to the [[Heroic Paths/Agent/Opportunist|Opportunist]] (Agent Key) talent, if you’re a human, choose the [[Heroic Paths/Agent/Thief/Talents/Cheap Shot|Cheap Shot]] talent in the Thief specialty. If you’re a singer, choose the [[Ancestries/Singer/Change Form|Change Form]] and [[Ancestries/Singer/Forms of Finesse|Forms of Finesse]] singer talents, then later acquire Cheap Shot. Finally, choose either the Underworld or Prisoner starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Opportunist|Opportunist]] (Agent Key) talent, if you’re a human, choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Thief/Talents/Cheap Shot|Cheap Shot]] talent in the Thief specialty. If you’re a singer, choose the [[Ancestries/Singer/Change Form|Change Form]] and [[Ancestries/Singer/Forms of Finesse|Forms of Finesse]] singer talents, then later acquire Cheap Shot. Finally, choose either the Underworld or Prisoner starting kit.
 
-As you level up, consider working toward the [[Heroic Paths/Agent/Thief/Talents/Risky Behavior|Risky Behavior]], [[Heroic Paths/Agent/Thief/Talents/Shadow Step|Shadow Step]], and [[Heroic Paths/Agent/Thief/Talents/Tricksters Hand|Trickster’s Hand]] talents.
+As you level up, consider working toward the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Thief/Talents/Risky Behavior|Risky Behavior]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Thief/Talents/Shadow Step|Shadow Step]], and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Thief/Talents/Tricksters Hand|Trickster’s Hand]] talents.
 
  
 
@@ -276,7 +276,7 @@ Humans easily mistake workform listeners for the “parshmen” long exploited a
 
 **Building an Undercover Workform.** Pick singer ancestry, the Listener cultural expertise, and one human culture you live undercover in. Start with high Awareness and Presence. In addition to the Insight skill rank you gain from Agent, put 2 ranks into Deception, and put 1 rank into Insight and Light Weaponry.
 
-In addition to the [[Heroic Paths/Agent/Opportunist|Opportunist]] (Agent Key) talent and the [[Ancestries/Singer/Change Form|Change Form]] (Singer Key) talent, use your singer ancestry to choose the [[Ancestries/Singer/Forms of Resolve|Forms of Resolve]] singer talent and begin in workform. Finally, choose the Underworld starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Opportunist|Opportunist]] (Agent Key) talent and the [[Ancestries/Singer/Change Form|Change Form]] (Singer Key) talent, use your singer ancestry to choose the [[Ancestries/Singer/Forms of Resolve|Forms of Resolve]] singer talent and begin in workform. Finally, choose the Underworld starting kit.
 
 As you level up, choose the [[Heroic Paths/Agent/Spy/Talents/Plausible Excuse|Plausible Excuse]] talent in the Spy specialty, and consider working toward [[Heroic Paths/Agent/Spy/Talents/Mercurial Facade|Mercurial Facade]].
 
@@ -404,7 +404,7 @@ Instead of serving a government or religion, merchants across Roshar preach the 
 
 **Building a Merchant.** Choose human ancestry and the Azish and Wayfarer cultural expertises. Start with a high Intellect and Presence. In addition to the Discipline skill rank you gain from Envoy, put 2 ranks into Persuasion, and put 1 rank into Lore and Insight.
 
-In addition to the [[Heroic Paths/Envoy/Rousing Presence|Rousing Presence]] (Envoy Key) talent, use your human ancestry to choose the [[Heroic Paths/Envoy/Diplomat/Talents/Steadfast Challenge|Steadfast Challenge]] talent from the Diplomat specialty. Finally, choose the Academic starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Rousing Presence|Rousing Presence]] (Envoy Key) talent, use your human ancestry to choose the [[Heroic Paths/Envoy/Diplomat/Talents/Steadfast Challenge|Steadfast Challenge]] talent from the Diplomat specialty. Finally, choose the Academic starting kit.
 
 As you level up, consider working toward the [[Heroic Paths/Envoy/Diplomat/Talents/Collected|Collected]], [[Heroic Paths/Envoy/Diplomat/Talents/Calm Appeal|Calm Appeal]], and [[Heroic Paths/Envoy/Diplomat/Talents/Peaceful Solution|Peaceful Solution]] talents.
 
@@ -414,9 +414,9 @@ Every society has Envoys who tend to the spiritual needs of its people. The list
 
 **Building a Keeper of Songs.** Choose singer ancestry, the Listener cultural expertise, and one other cultural expertise. Start with a high Strength and Awareness. In addition to the Discipline skill rank you gain from Envoy, put 2 ranks into Leadership, and put 1 rank into Discipline and Heavy Weaponry.
 
-In addition to the [[Heroic Paths/Envoy/Rousing Presence|Rousing Presence]] (Envoy Key) talent and the Change Form (Singer Key) talent, use your singer ancestry to choose the [[Ancestries/Singer/Forms of Wisdom|Forms of Wisdom]] singer talent so you can eventually take on [[Ancestries/Singer/Forms/Scholarform|scholarform]]; if you get at least one expertise, select Music, and put skill ranks in either Discipline or Leadership. Finally, choose the Artisan starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Rousing Presence|Rousing Presence]] (Envoy Key) talent and the Change Form (Singer Key) talent, use your singer ancestry to choose the [[Ancestries/Singer/Forms of Wisdom|Forms of Wisdom]] singer talent so you can eventually take on [[Ancestries/Singer/Forms/Scholarform|scholarform]]; if you get at least one expertise, select Music, and put skill ranks in either Discipline or Leadership. Finally, choose the Artisan starting kit.
 
-As you level up, consider working toward the [[Heroic Paths/Envoy/Mentor/Talents/Instill Confidence|Instill Confidence]] and [[Heroic Paths/Envoy/Mentor/Talents/Rallying Shout|Rallying Shout]] talents from the Mentor specialty.
+As you level up, consider working toward the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Mentor/Talents/Instill Confidence|Instill Confidence]] and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Mentor/Talents/Rallying Shout|Rallying Shout]] talents from the Mentor specialty.
 
 ### Vorin Ardent
 
@@ -424,9 +424,9 @@ In the Vorin ardentia, priests conduct rites and rituals to worship the Almighty
 
 **Building an Ardent.** Choose human ancestry and the Alethi and Veden cultural expertises. Start with a high Intellect and Awareness. In addition to the Discipline skill rank you gain from Envoy, put 2 ranks into Lore, and put 1 rank into Discipline and Light Weaponry.
 
-In addition to the [[Heroic Paths/Envoy/Rousing Presence|Rousing Presence]] (Envoy Key) talent, use your human ancestry to choose the [[Heroic Paths/Envoy/Faithful/Talents/Galvanize|Galvanize]] talent from the Faithful specialty. Finally, choose the Academic starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Rousing Presence|Rousing Presence]] (Envoy Key) talent, use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Faithful/Talents/Galvanize|Galvanize]] talent from the Faithful specialty. Finally, choose the Academic starting kit.
 
-As you level up, consider taking [[Heroic Paths/Envoy/Faithful/Talents/Customary Garb|Customary Garb]] then working toward [[Heroic Paths/Envoy/Faithful/Talents/Inspired Zeal|Inspired Zeal]], adding [[Heroic Paths/Envoy/Faithful/Talents/Composed|Composed]] for additional focus.
+As you level up, consider taking [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Faithful/Talents/Customary Garb|Customary Garb]] then working toward [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Faithful/Talents/Inspired Zeal|Inspired Zeal]], adding [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Faithful/Talents/Composed|Composed]] for additional focus.
 
 **STEVE PRESCOTT**
 
@@ -560,7 +560,7 @@ When new conscripts are drafted into Emul’s military to fight in the Eighty’
 
 **Building a Conscript.** Choose human ancestry and the Azish and Wayfarer cultural expertises. Start with a high Strength and Awareness. In addition to the Perception skill rank you gain from Hunter, put 2 skill ranks into Heavy Weaponry, and put 1 skill rank into Agility and Perception.
 
-In addition to the [[Heroic Paths/Hunter/Seek Quarry|Seek Quarry]] (Hunter Key) talent, use your human ancestry to choose the [[Heroic Paths/Hunter/Archer/Talents/Tagging Shot|Tagging Shot]] talent in the Archer specialty. Finally, choose the Military starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Seek Quarry|Seek Quarry]] (Hunter Key) talent, use your human ancestry to choose the [[Heroic Paths/Hunter/Archer/Talents/Tagging Shot|Tagging Shot]] talent in the Archer specialty. Finally, choose the Military starting kit.
 
 As you level up, consider working toward the [[Heroic Paths/Hunter/Archer/Talents/Unrelenting Salvo|Unrelenting Salvo]] talent.
 
@@ -570,7 +570,7 @@ Operatives of the mysterious Ghostbloods are tempted by the secrets offered by t
 
 **Building a Ghostblood.** Choose human ancestry, the Wayfarer cultural expertise, and one other cultural expertise. Start with high Strength and Speed. In addition to the Perception skill rank you gain from Hunter, put 2 ranks into Light Weaponry, and put 1 rank into Perception and Stealth.
 
-In addition to the [[Heroic Paths/Hunter/Seek Quarry|Seek Quarry ]](Hunter Key) talent, use your human ancestry to choose the [[Heroic Paths/Hunter/Assassin/Talents/Startling Blow|Startling Blow]] talent in the Assassin path. Finally, choose the Underworld starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Seek Quarry|Seek Quarry]](Hunter Key) talent, use your human ancestry to choose the [[Heroic Paths/Hunter/Assassin/Talents/Startling Blow|Startling Blow]] talent in the Assassin path. Finally, choose the Underworld starting kit.
 
 As you level up and increase your ranks in Perception, consider taking the [[Heroic Paths/Hunter/Assassin/Talents/Fatal Thrust|Fatal Thrust]] talent, then working toward [[Heroic Paths/Hunter/Assassin/Talents/Mighty|Mighty]] and [[Heroic Paths/Hunter/Assassin/Talents/Sidestep|Sidestep]]. Also consider talents from the Agent’s Spy specialty.
 
@@ -580,9 +580,9 @@ Known throughout the Horneater Peaks as elite guides for the gods, kaluk’i’i
 
 **Building a Kaluk’i’iki.** Choose human ancestry and the Unkalaki and Wayfarer cultural expertises. Start with high Strength and Awareness. In addition to the Perception skill rank you gain from Hunter, put 2 ranks into Survival, and put 1 rank into Heavy Weaponry and Perception.
 
-In addition to the [[Heroic Paths/Hunter/Seek Quarry|Seek Quarry]] (Hunter Key) talent, use your human ancestry to choose the [[Heroic Paths/Hunter/Tracker/Talents/Deadly Trap|Deadly Trap]] talent from the Tracker specialty. Finally, choose the Courtier starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Seek Quarry|Seek Quarry]] (Hunter Key) talent, use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Tracker/Talents/Deadly Trap|Deadly Trap]] talent from the Tracker specialty. Finally, choose the Courtier starting kit.
 
-As you level up, consider working toward the [[Heroic Paths/Hunter/Tracker/Talents/Surefooted|Surefooted]] and [[Heroic Paths/Hunter/Tracker/Talents/Hunters Edge|Hunter’s Edge]] talents; if you gain an animal companion as a reward, choose [[Heroic Paths/Hunter/Tracker/Talents/Pack Hunting|Pack Hunting]] as well.
+As you level up, consider working toward the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Tracker/Talents/Surefooted|Surefooted]] and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Tracker/Talents/Hunters Edge|Hunter’s Edge]] talents; if you gain an animal companion as a reward, choose [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Tracker/Talents/Pack Hunting|Pack Hunting]] as well.
 
 **STEVE PRESCOTT**
 
@@ -704,9 +704,9 @@ Second only to the Prime Aqasix, viziers are the beating heart of the Azish bure
 
 **Building a Vizier.** Choose human ancestry and the Azish and High Society cultural expertises. Start with high Intellect and Willpower. In addition to the Leadership skill rank you gain from Leader, put 1 rank into Deduction, Leadership, Lore, and Deception.
 
-In addition to the [[Heroic Paths/Leader/Decisive Command|Decisive Command]] (Leader Key) talent, use your human ancestry to choose the [[Heroic Paths/Leader/Politico/Talents/Cutthroat Tactics|Cutthroat Tactics talent]] from the Politico specialty. Finally, choose the Courtier starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Decisive Command|Decisive Command]] (Leader Key) talent, use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Politico/Talents/Cutthroat Tactics|Cutthroat Tactics talent]] from the Politico specialty. Finally, choose the Courtier starting kit.
 
-As you level up, consider working toward the [[Heroic Paths/Leader/Politico/Talents/Well Dressed|Well Dressed]] and [[Heroic Paths/Leader/Politico/Talents/Shrewd Command|Shrewd Command]] talents.
+As you level up, consider working toward the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Politico/Talents/Well Dressed|Well Dressed]] and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Politico/Talents/Shrewd Command|Shrewd Command]] talents.
 
 ### Warform Commander (Listener)
 
@@ -714,7 +714,7 @@ Leaping across chasms with unparalleled grace and vigor, warform commanders exud
 
 **Building a Warform Commander.** Choose singer ancestry and the Listener and Alethi cultural expertises. Start with high Strength and Willpower. In addition to the Leadership skill rank you gain from Leader, put 2 ranks into Athletics, and put 1 rank into Heavy Weaponry and Leadership.
 
-In addition to the [[Heroic Paths/Leader/Decisive Command|Decisive Command]] (Leader Key) talent and the [[Ancestries/Singer/Change Form|Change Form]] (Singer Key) talent, use your singer ancestry to choose the [[Ancestries/Singer/Forms of Resolve|Forms of Resolve]] singer talent and begin in warform. Finally, choose the Military starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Decisive Command|Decisive Command]] (Leader Key) talent and the [[Ancestries/Singer/Change Form|Change Form]] (Singer Key) talent, use your singer ancestry to choose the [[Ancestries/Singer/Forms of Resolve|Forms of Resolve]] singer talent and begin in warform. Finally, choose the Military starting kit.
 
 As you level up, consider working toward the [[Heroic Paths/Leader/Champion/Talents/Mighty|Mighty ]]and [[Heroic Paths/Leader/Champion/Talents/Resilient Hero|Resilient Hero]] talents from the Champion specialty. Also consider talents from the Scholar’s Strategist specialty and the Warrior’s Soldier specialty.
 
@@ -724,9 +724,9 @@ Veden sergeants value synergy over brute force, and they use it to devastating e
 
 **Building a Veden Sergeant.** Choose human ancestry and the Veden and Military Life cultural expertises. Start with high Willpower and Presence. In addition to the Leadership skill rank you gain from Leader, put 2 ranks into Persuasion, put 1 rank into Leadership, and put 1 rank into either Heavy Weaponry or Light Weaponry.
 
-In addition to the [[Heroic Paths/Leader/Decisive Command|Decisive Command]] (Leader Key) talent, use your human ancestry to choose the [[Heroic Paths/Leader/Officer/Talents/Through the Fray|Through the Fray]] talent from the Officer specialty. Finally, choose the Military starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Decisive Command|Decisive Command]] (Leader Key) talent, use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Officer/Talents/Through the Fray|Through the Fray]] talent from the Officer specialty. Finally, choose the Military starting kit.
 
-As you level up, consider working toward the [[Heroic Paths/Leader/Officer/Talents/Synchronized Assault|Synchronized Assault]] talent then adding [[Heroic Paths/Leader/Officer/Talents/Composed|Composed]] for additional focus.
+As you level up, consider working toward the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Officer/Talents/Synchronized Assault|Synchronized Assault]] talent then adding [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Officer/Talents/Composed|Composed]] for additional focus.
 
 **STEVE PRESCOTT**
 
@@ -858,9 +858,9 @@ Trained at the Great Concourse of Kharbranth, hospital surgeons in the City of B
 
 **Building a Kharbranthian Surgeon.** Choose human ancestry, the Kharbranthian cultural expertise, and one other cultural expertise. Start with high Intellect and Willpower. In addition to the Lore skill rank you gain from Scholar, put 2 ranks into Medicine, and 1 rank into Athletics and Lore.
 
-For your [[Heroic Paths/Scholar/Erudition|Erudition]] (Scholar Key) talent, choose your preferred field of medicine (such as Pediatrics, Psychiatry, Diagnostics, or Surgery) as your bonus expertise, and put your bonus skill ranks into Lore and Medicine. Use your human ancestry to choose the [[Heroic Paths/Scholar/Surgeon/Talents/Field Medicine|Field Medicine]] talent from the Surgeon specialty. Finally, choose the Artisan starting kit.
+For your [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Erudition|Erudition]] (Scholar Key) talent, choose your preferred field of medicine (such as Pediatrics, Psychiatry, Diagnostics, or Surgery) as your bonus expertise, and put your bonus skill ranks into Lore and Medicine. Use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Surgeon/Talents/Field Medicine|Field Medicine]] talent from the Surgeon specialty. Finally, choose the Artisan starting kit.
 
-As you level up, consider taking [[Heroic Paths/Scholar/Surgeon/Talents/Emotional Intelligence|Emotional Intelligence]] (putting the bonus skill rank into Insight) and working toward [[Heroic Paths/Scholar/Surgeon/Talents/Ongoing Care|Ongoing Care]].
+As you level up, consider taking [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Surgeon/Talents/Emotional Intelligence|Emotional Intelligence]] (putting the bonus skill rank into Insight) and working toward [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Surgeon/Talents/Ongoing Care|Ongoing Care]].
 
 ### Stormwarden
 
@@ -868,9 +868,9 @@ Adorned in glyph-covered robes, stormwardens are often employed by governments a
 
 **Building a Stormwarden.** Choose human ancestry and the Alethi and Wayfarer cultural expertises. Start with high Speed and Intellect. In addition to the Lore skill rank you gain from Scholar, put 2 ranks into Deduction and Light Weaponry.
 
-For your Erudition (Scholar Key) talent, choose Meteorology as your bonus expertise, and put your bonus skill ranks into Deduction and Lore. Use your human ancestry to choose the [[Heroic Paths/Scholar/Strategist/Talents/Strategize|Strategize]] talent from the Strategist specialty. Finally, choose the Academic starting kit.
+For your Erudition (Scholar Key) talent, choose Meteorology as your bonus expertise, and put your bonus skill ranks into Deduction and Lore. Use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Strategist/Talents/Strategize|Strategize]] talent from the Strategist specialty. Finally, choose the Academic starting kit.
 
-As you level up, consider taking the [[Heroic Paths/Scholar/Strategist/Talents/Mind and Body|Mind and Body]] talent (putting the bonus skill rank into Light Weaponry) and working toward [[Heroic Paths/Scholar/Strategist/Talents/Know Your Moment|Know Your Moment]], [[Heroic Paths/Scholar/Strategist/Talents/Deep Contemplation|Deep Contemplation]], and [[Heroic Paths/Scholar/Strategist/Talents/Turning Point|Turning Point]].
+As you level up, consider taking the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Strategist/Talents/Mind and Body|Mind and Body]] talent (putting the bonus skill rank into Light Weaponry) and working toward [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Strategist/Talents/Know Your Moment|Know Your Moment]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Strategist/Talents/Deep Contemplation|Deep Contemplation]], and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Strategist/Talents/Turning Point|Turning Point]].
 
 ### Vriztl Engineer
 
@@ -1013,7 +1013,7 @@ In Alethkar, martial skill is seen as requisite for leadership, and many Shardpl
 
 **Building an Alethi Duelist.** Choose human ancestry, the Alethi cultural expertise, and one other cultural expertise. Start with high Strength and Willpower. In addition to the Athletics skill rank you gain from Warrior, put 2 ranks into Heavy Weaponry, and put 1 rank into Athletics and Perception.
 
-In addition to the [[Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance ]](Warrior Key) talent, use your human ancestry to choose the [[Heroic Paths/Warrior/Shardbearer/Talents/Stonestance|Stonestance]] talent from the Shardbearer specialty. Finally, choose the Military starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance]](Warrior Key) talent, use your human ancestry to choose the [[Heroic Paths/Warrior/Shardbearer/Talents/Stonestance|Stonestance]] talent from the Shardbearer specialty. Finally, choose the Military starting kit.
 
 As you level up, consider working toward the [[Heroic Paths/Warrior/Shardbearer/Talents/Mighty|Mighty]] and [[Heroic Paths/Warrior/Shardbearer/Talents/Shattering Blow|Shattering Blow]] talents. When you acquire your own Shardblade or Shardplate (see [[Stormlight Handbook/09 - Ch 8 Goals and Rewards|Rewards]] in chapter 8), choose the [[Heroic Paths/Warrior/Shardbearer/Talents/Shard Training|Shard Training]] talent so you can safely wield it.
 
@@ -1023,9 +1023,9 @@ Not only the elite are warriors in Alethkar. Whenever war breaks out, citizens o
 
 **Building a Bridge Runner.** Choose human ancestry, the Alethi cultural expertise, and one other cultural expertise. Start with high Strength and Speed. In addition to the Athletics skill rank you gain from Warrior, put 2 ranks into Discipline, put 1 rank into Athletics, and put 1 rank into Heavy Weaponry, Light Weaponry, or Survival.
 
-In addition to the [[Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance]] (Warrior Key) talent, use your human ancestry to choose the [[Heroic Paths/Warrior/Soldier/Talents/Cautious Advance|Cautious Advance]] talent from the Soldier specialty. Finally, choose the Military or Prisoner starting kit.
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance]] (Warrior Key) talent, use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Soldier/Talents/Cautious Advance|Cautious Advance]] talent from the Soldier specialty. Finally, choose the Military or Prisoner starting kit.
 
-As you level up, consider working toward the [[Heroic Paths/Warrior/Soldier/Talents/Combat Training|Combat Training]] and [[Heroic Paths/Warrior/Soldier/Talents/Formation Drills|Formation Drills]] talents, and adding [[Heroic Paths/Warrior/Soldier/Talents/Hardy|Hardy]] for additional health.
+As you level up, consider working toward the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Soldier/Talents/Combat Training|Combat Training]] and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Soldier/Talents/Formation Drills|Formation Drills]] talents, and adding [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Soldier/Talents/Hardy|Hardy]] for additional health.
 
 ### Warpair Partner (Listener)
 
@@ -1035,7 +1035,7 @@ Within listener culture, “warrior” is less a profession and more a role one 
 
 Start with high Strength and Willpower. In addition to the Athletics skill rank you gain from Warrior, put 2 ranks into Heavy Weaponry and Intimidation.
 
-In addition to the [[Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance]] (Warrior Key) talent and the [[Ancestries/Singer/Change Form|Change Form]] (Singer Key) talent, use your singer ancestry to choose the [[Ancestries/Singer/Forms of Resolve|Forms of Resolve]] singer talent and begin in [[Ancestries/Singer/Forms/Warform|warform]].
+In addition to the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance]] (Warrior Key) talent and the [[Ancestries/Singer/Change Form|Change Form]] (Singer Key) talent, use your singer ancestry to choose the [[Ancestries/Singer/Forms of Resolve|Forms of Resolve]] singer talent and begin in [[Ancestries/Singer/Forms/Warform|warform]].
 
 As you level up, take the [[Heroic Paths/Warrior/Duelist/Talents/Flamestance|Flamestance]] talent from the Duelist specialty. Also consider working toward [[Heroic Paths/Warrior/Duelist/Talents/Signature Weapon|Signature Weapon]] and [[Heroic Paths/Warrior/Duelist/Talents/Wits End|Wit’s End]].
 

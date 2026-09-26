@@ -12,4 +12,4 @@ aliases: ["Two Steps Ahead"]
 
 *You adeptly evade the harm sent your way by enemy Allomancers, escaping attacks that would wound a less practiced hazekiller.*
 
-While your quarry who is your enemy is within your reach, you can’t be grazed by enemy attacks, and your quarry must spend an additional 1 to [[Actions/Basic/Disengage|Disengage]].
+While your quarry who is your enemy is within your reach, you can’t be grazed by enemy attacks, and your quarry must spend an additional 1 to [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Disengage|Disengage]].

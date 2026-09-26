@@ -30,12 +30,12 @@ Consider these general tips for building an effective Leader:
 
 **Skills.** Useful skills include **Athletics**, **Deception**, **Heavy Weaponry**, **Intimidation**, **Leadership**, and **Persuasion**.
 
-**Other Heroic Paths.** The [[Heroic Paths/Warrior/Warrior|Warrior]] and [[Heroic Paths/Envoy/Envoy|Envoy]] paths make excellent multi-path choices.
+**Other Heroic Paths.** The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Warrior|Warrior]] and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Envoy|Envoy]] paths make excellent multi-path choices.
 
 **Rewards.** When choosing rewards, you can’t go wrong with a mount companion, high-ranking military title, and possibly even [[Items/Armor/Shardplate|Shardplate]].
 
 ### Leader Key Talent
 
-The Leader key talent, [[Heroic Paths/Leader/Decisive Command|Decisive Command]], unlocks access to the Leader specialties.
+The Leader key talent, [[Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Leader/Decisive Command|Decisive Command]], unlocks access to the Leader specialties.
 
 **Starting Skill:** **Leadership.** If you choose Leader as your starting path, gain a free skill rank in **Leadership**.

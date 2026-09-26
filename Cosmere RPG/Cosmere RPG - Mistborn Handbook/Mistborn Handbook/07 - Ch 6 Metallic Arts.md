@@ -18,9 +18,9 @@ On Scadrial, some people can use various metals to access power and perform fant
 
 **Hemalurgy** is a more sinister Metallic Art. It uses metal spikes to steal a portion of a specific trait from a victim, almost always killing them in the process. This Invested spike can later be implanted in another person’s body to bestow the stolen trait on them. Hemalurgy can steal physical and mental attributes and Allomantic and Feruchemical powers.
 
-These are just three among the many **Invested Arts** in the worlds of the Cosmere, each of which allow people to access Investiture in unique ways. If you wish to wield Allomancy or Feruchemy yourself, you’ll need to become a Metalborn (see [[Mistborn Handbook/06 - Ch 5 Metalborn Paths|chapter 5]]) and unlock your powers through training yourself or crafting a metalmind. Characters in the Cosmere RPG don’t directly practice Hemalurgy, though as a reward, you might gain access to a spike others created (see [[Mistborn Handbook/09 - Ch 8 Goals and Rewards|chapter 8]]).
+These are just three among the many **Invested Arts** in the worlds of the Cosmere, each of which allow people to access Investiture in unique ways. If you wish to wield Allomancy or Feruchemy yourself, you’ll need to become a Metalborn (see [[06 - Ch 5 Metalborn Paths|chapter 5]]) and unlock your powers through training yourself or crafting a metalmind. Characters in the Cosmere RPG don’t directly practice Hemalurgy, though as a reward, you might gain access to a spike others created (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards|chapter 8]]).
 
-The upcoming “[[Mistborn Handbook/07 - Ch 6 Metallic Arts|Metals of Scadrial]]” section summarizes each of the metals, their unique effects in both Allomancy and Feruchemy, and the eras they’re available in.
+The upcoming “[[07 - Ch 6 Metallic Arts|Metals of Scadrial]]” section summarizes each of the metals, their unique effects in both Allomancy and Feruchemy, and the eras they’re available in.
 
 ![[pg160_HB06_Metallic Arts_Katerina Ladon.webp]]
 
@@ -28,9 +28,9 @@ The upcoming “[[Mistborn Handbook/07 - Ch 6 Metallic Arts|Metals of Scadrial]]
 
 ## Using Metallic Arts
 
-This chapter presents each Allomantic and Feruchemical power, as well as talent trees to upgrade most of the powers. You can gain access to one or more of these powers from a Metalborn path, as described in “[[Mistborn Handbook/06 - Ch 5 Metalborn Paths#Metalborn Path Options|Metal born Path Options]]” in chapter 5.
+This chapter presents each Allomantic and Feruchemical power, as well as talent trees to upgrade most of the powers. You can gain access to one or more of these powers from a Metalborn path, as described in “[[06 - Ch 5 Metalborn Paths#Metalborn Path Options|Metal born Path Options]]” in chapter 5.
 
-[[Mistborn Handbook/09 - Ch 8 Goals and Rewards|Chapter 8]] presents rules for implanting and removing Hemalurgic spikes.
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards|Chapter 8]] presents rules for implanting and removing Hemalurgic spikes.
 
 ## Metallic Art Powers
 
@@ -52,15 +52,15 @@ Each metal grants a unique power, presented in the upcoming sections for each me
 </tbody>
 </table>
 
-Allomantic and Feruchemical powers generally follow the same rules as talents (see “[[Mistborn Handbook/05 - Ch 4 Heroic Paths|Using Paths and Talents]]” in chapter 4). When you’re using a Metallic Art, the following additional rules determine how large and powerful your Allomancy or Feruchemical power is, as well as how long its effects last.
+Allomantic and Feruchemical powers generally follow the same rules as talents (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths|Using Paths and Talents]]” in chapter 4). When you’re using a Metallic Art, the following additional rules determine how large and powerful your Allomancy or Feruchemical power is, as well as how long its effects last.
 
 ### Nascent Powers
 
-Before completing your Metalborn goal for a power (see “[[Mistborn Handbook/06 - Ch 5 Metalborn Paths#Metalborn Goals and Rewards|Metalborn Goals and Rewards]]” in chapter 5), you can only access the **nascent** version of that power. This represents your early, unpracticed use of your power, such as through clumsily experimenting with a newly discovered well of power, subconsciously burning trace amounts of Allomantic metals, or testing the effectiveness of various pieces of metal while constructing a new metalmind.
+Before completing your Metalborn goal for a power (see “[[06 - Ch 5 Metalborn Paths#Metalborn Goals and Rewards|Metalborn Goals and Rewards]]” in chapter 5), you can only access the **nascent** version of that power. This represents your early, unpracticed use of your power, such as through clumsily experimenting with a newly discovered well of power, subconsciously burning trace amounts of Allomantic metals, or testing the effectiveness of various pieces of metal while constructing a new metalmind.
 
 When you use a nascent power, you don’t use that power’s full rules. Instead, you can only manifest small narrative effects related to the full power (for inspiration, see the “Creative Uses” section for each power). You and the GM are encouraged to creatively integrate these small narrative effects in ways like the following:
 
-**Conscious Choice.** Test your power by using the [[Actions/Basic/Use A Skill|Use a Skill]] action with Allomancy or Feruchemy to achieve a limited effect.
+**Conscious Choice.** Test your power by using the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Use A Skill|Use a Skill]] action with Allomancy or Feruchemy to achieve a limited effect.
 
 **Instinctive Effort.** Spend O to activate a limited version of a related power.
 
@@ -68,13 +68,13 @@ When you use a nascent power, you don’t use that power’s full rules. Instea
 
 **Controlled Practice.** During downtime, narratively describe using your power in low-risk situations.
 
-The effects of a nascent power are always smaller than the full versions of that power, and they’re up to the GM’s discretion. The [[Mistborn Handbook/17 - Appendix 2 Tables|Nascent Power Examples]] table offers ideas for how nascent Allomantic and Feruchemical powers might manifest in play.
+The effects of a nascent power are always smaller than the full versions of that power, and they’re up to the GM’s discretion. The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Nascent Power Examples]] table offers ideas for how nascent Allomantic and Feruchemical powers might manifest in play.
 
 #### Nascent Allomantic Powers
 
-When you choose the key talent for a Metalborn path that grants an Allomantic power, you gain access to the Investiture resource. You can only use the nascent version of an Allomantic power while you have 1 Invest iture or more, and while you aren’t [[Mistborn Handbook/10 - Ch 9 Adventuring#Depleted|Depleted]] of that power. At the GM’s discretion, using a nascent power might require you to spend 1 Investiture. On the flip side of that, the GM might allow you to recover 1 Investiture or more when you eat or drink something that plausibly contains trace amounts of your Allomantic metal; of course, you can also recover Investiture as usual with the [[Actions/Metallic Arts/Allomancy/Drink Vial|Drink Vial]] action.
+When you choose the key talent for a Metalborn path that grants an Allomantic power, you gain access to the Investiture resource. You can only use the nascent version of an Allomantic power while you have 1 Invest iture or more, and while you aren’t [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Depleted|Depleted]] of that power. At the GM’s discretion, using a nascent power might require you to spend 1 Investiture. On the flip side of that, the GM might allow you to recover 1 Investiture or more when you eat or drink something that plausibly contains trace amounts of your Allomantic metal; of course, you can also recover Investiture as usual with the [[Drink Vial|Drink Vial]] action.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Nascent Power Examples]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Nascent Power Examples]]
 
 #### Nascent Feruchemical Powers
 
@@ -90,19 +90,19 @@ As you gain more ranks in your Allomancy or Feruchemy skill, this not only incre
 
 #### Metallic Art Limit
 
-Some Allomantic powers allow you to choose how much Investiture to spend, and some Feruchemical powers allow you to choose how many metalmind charges to spend. When a power’s cost varies like this, you can’t usually spend all available Investiture or charges at once. Rather, your **Metallic Art limit**—the amount of that resource you can spend for a single effect—equals your ranks in the corresponding Invested skill (minimum of 1), as shown on the [[Mistborn Handbook/17 - Appendix 2 Tables|Metallic Art Scaling]] table.
+Some Allomantic powers allow you to choose how much Investiture to spend, and some Feruchemical powers allow you to choose how many metalmind charges to spend. When a power’s cost varies like this, you can’t usually spend all available Investiture or charges at once. Rather, your **Metallic Art limit**—the amount of that resource you can spend for a single effect—equals your ranks in the corresponding Invested skill (minimum of 1), as shown on the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Metallic Art Scaling]] table.
 
 For example, when a Steel Allomancer with 2 ranks in Allomancy uses their Steelpush action, their Metallic Art limit is 2, so they can spend up to 2 Investiture for the effect. Once they gain their third Allomancy skill rank, they can instead spend up to 3 Investiture on their Steelpush.
 
 #### Metallic Art Die
 
-You’ll sometimes roll dice to determine the effects of a power, such as damage dealt or health recovered. When indicated, the size of your Metallic Art die increases with your ranks in the corresponding Invested skill, as shown on the [[Mistborn Handbook/17 - Appendix 2 Tables|Metallic Art Scaling]] table.
+You’ll sometimes roll dice to determine the effects of a power, such as damage dealt or health recovered. When indicated, the size of your Metallic Art die increases with your ranks in the corresponding Invested skill, as shown on the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Metallic Art Scaling]] table.
 
 #### Metallic Art Range
 
 Many powers only affect characters and objects within a certain range of you. This Metallic Art range in creases with your ranks in the corresponding Invested skill, as shown on the Metallic Art Scaling table. (Powers don’t need line of effect, so you can affect targets despite physical obstacles.)
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Metallic Art Scaling]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Metallic Art Scaling]]
 
 ## Metallic Art Durations
 
@@ -118,7 +118,7 @@ If an effect applies when you burn, tap, or store, it also applies when you main
 
 ### Ending a Power
 
-An ongoing effect ends when you choose to end it as 0 on a subsequent turn, when you become [[Mistborn Handbook/10 - Ch 9 Adventuring#Unconscious|Unconscious]], or when its stated duration ends and you don’t spend resources to maintain it (whether because you chose not to or because you don’t have enough of that resource).
+An ongoing effect ends when you choose to end it as 0 on a subsequent turn, when you become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Unconscious|Unconscious]], or when its stated duration ends and you don’t spend resources to maintain it (whether because you chose not to or because you don’t have enough of that resource).
 
 ### Durations of Store Actions
 
@@ -128,7 +128,7 @@ Most powers that store resources allow you to maintain the power indefinitely (o
 
 These durations are often measured in scenes. For these, it’s easiest for the GM to grant you this resource at the end of each scene in which the effect was active. However, if you started in the middle of one scene, the GM might grant the charge at an appropriate time midway through the next.
 
-See “[[Mistborn Handbook/06 - Ch 5 Metalborn Paths#Feruchemy: Using Metalminds|Feruchemy: Using Metalminds]]” in chapter 5 for more details on using Feruchemical metalminds.
+See “[[06 - Ch 5 Metalborn Paths#Feruchemy: Using Metalminds|Feruchemy: Using Metalminds]]” in chapter 5 for more details on using Feruchemical metalminds.
 
 ![[pg164_HB06_Twinborn Recharging_Nguyen Hieu.webp]]
 
@@ -148,7 +148,7 @@ Though the power rules often use combat-focused language (like “1 round”) to
 
 During conversations and endeavors, if an effect lasts until “the end of your turn,” it usually lasts until you make a contribution, or for a fitting duration determined by the GM. If you have access to additional metal vials or have a reasonable number of charges in your metalmind, the GM might decide to be flexible with effect duration instead of requiring you to track your resources and timing closely.
 
-If an ongoing effect continues across multiple scenes, it’s up to the GM how long it lasts in the narrative. This largely depends on how involved the effect is in the new scene. For example, if you tap hearing with Tin Feruchemy to listen to a secret meeting in the next room over, and then a fight breaks out in the hall outside the room you’re in, the effect’s duration isn’t immediately relevant to the narrative; in this case, the GM might let it last for 10 minutes (so everyone can focus on the fight instead of tracking an unrelated effect). However, if you only knew the f ight broke out because of your enhanced hearing, or if you use your hearing to [[Actions/Basic/Gain Advantage|Gain Advantage]] during the fight, the effect’s duration suddenly matters to the narrative; in this case, the GM might decide the effect needs to be maintained as if you were part of the combat.
+If an ongoing effect continues across multiple scenes, it’s up to the GM how long it lasts in the narrative. This largely depends on how involved the effect is in the new scene. For example, if you tap hearing with Tin Feruchemy to listen to a secret meeting in the next room over, and then a fight breaks out in the hall outside the room you’re in, the effect’s duration isn’t immediately relevant to the narrative; in this case, the GM might let it last for 10 minutes (so everyone can focus on the fight instead of tracking an unrelated effect). However, if you only knew the f ight broke out because of your enhanced hearing, or if you use your hearing to [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Gain Advantage|Gain Advantage]] during the fight, the effect’s duration suddenly matters to the narrative; in this case, the GM might decide the effect needs to be maintained as if you were part of the combat.
 
 <table class="mb-blue">
 <colgroup>
@@ -173,13 +173,13 @@ Many Scadrian items—including most weapons, armor, and ammunition—contain so
 
 An object without metal is **Allomantically inert**, so it can’t be Ironpulled or Steelpushed. When fighting Allomancers, it’s wise to wield Allomantically inert weapons and armor so they can’t be used against you.
 
-Some clever crafters design items that unexpectedly combine normal metals with Allomantically inert materials—though they usually keep these creations a closely guarded secret. For example, bullets known as hazekiller rounds can be designed to separate into two halves; when an Allomancer Steelpushes or Ironpulls on the metal in this ammunition, the non-metal portion continues on its intended trajectory. See “[[Mistborn Handbook/08 - Ch 7 Items#Crafting Items With Nonstandard Materials|Crafting Items With Nonstandard Materials]]” in chapter 7 for guidance on crafting Allomantically inert items like these.
+Some clever crafters design items that unexpectedly combine normal metals with Allomantically inert materials—though they usually keep these creations a closely guarded secret. For example, bullets known as hazekiller rounds can be designed to separate into two halves; when an Allomancer Steelpushes or Ironpulls on the metal in this ammunition, the non-metal portion continues on its intended trajectory. See “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items#Crafting Items With Nonstandard Materials|Crafting Items With Nonstandard Materials]]” in chapter 7 for guidance on crafting Allomantically inert items like these.
 
 ### Aluminum
 
 Throughout the cosmere, aluminum has unusual effects on magic in varying degrees, and it can’t usually be directly affected by magic. On Scadrial, Aluminum Allomancy and Aluminum Feruchemy use that metal to access their powers, but Metallic Art powers otherwise can’t affect aluminum, and the metal is considered Allomantically inert.
 
-During Era 2, this property is known to many Scadrians. For example, wealthy Scadrians use aluminum-lined hats to protect against emotional Allomancy (see “[[Mistborn Handbook/09 - Ch 8 Goals and Rewards#Rare Creations|Rare Creations]]” in chapter 8). Enterprising crafters might even construct valuable aluminum weapons, rendering those items immune to Ironpulling and Steelpushing (see “[[Mistborn Handbook/08 - Ch 7 Items#Crafting Items With Nonstandard Materials|Crafting Items With Nonstandard Materials]]” in chapter 7).
+During Era 2, this property is known to many Scadrians. For example, wealthy Scadrians use aluminum-lined hats to protect against emotional Allomancy (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards#Rare Creations|Rare Creations]]” in chapter 8). Enterprising crafters might even construct valuable aluminum weapons, rendering those items immune to Ironpulling and Steelpushing (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items#Crafting Items With Nonstandard Materials|Crafting Items With Nonstandard Materials]]” in chapter 7).
 
 It’s ultimately up to the GM how each power interacts with objects made of aluminum, but in general, an object that contains this metal has the following effects:
 
@@ -197,21 +197,21 @@ It’s ultimately up to the GM how each power interacts with objects made of alu
 
 The remaining sections of this chapter describe the Metallic Art powers. They’re organized by the Invested skill they use—first Allomantic powers, then Feruchemical powers—and they include the following information:
 
-**Title.** Each entry’s title states the metal used for that power, followed by the Metallic Art that wields that power (such as “[[Metallic Arts/Steel/Steel Allomancy|Steel Allomancy]]” or “[[Metallic Arts/Steel/Steel Feruchemy|Steel Feruchemy]]”). Each metal appears twice in the powers because each metal has both an Allomantic and Feruchemical use.
+**Title.** Each entry’s title states the metal used for that power, followed by the Metallic Art that wields that power (such as “[[Steel Allomancy|Steel Allomancy]]” or “[[Steel Feruchemy|Steel Feruchemy]]”). Each metal appears twice in the powers because each metal has both an Allomantic and Feruchemical use.
 
 **Actions.** Each power grants one or more basic abilities that operate much like talents. Each ability lists the number of actions needed to activate it, the duration for that power, and the rules for that power.
 
 **Using the Power.** After a power’s basic rules, some powers offer additional guidance on using them, along with creative ideas for applying the power’s effects.
 
-**Talents.** Finally, each entry presents any talents you can use to upgrade that power. You can’t choose these until you’ve completed the Metalborn goal for that power. These talents follow the rules in the “[[Mistborn Handbook/05 - Ch 4 Heroic Paths|Using Paths and Talents]]” section of chapter 4.
+**Talents.** Finally, each entry presents any talents you can use to upgrade that power. You can’t choose these until you’ve completed the Metalborn goal for that power. These talents follow the rules in the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths|Using Paths and Talents]]” section of chapter 4.
 
 ## Metals of Scadrial
 
-Throughout Scadrial’s history, scholars and Metalborn have strived to increase their understanding of the Metallic Arts and their viable metals through categorical testing. Though commonalities exist, Allomancy and Feruchemy each classify the metals slightly differently, as outlined in the [[Mistborn Handbook/17 - Appendix 2 Tables|Metals in Allomancy]] table and the [[Mistborn Handbook/17 - Appendix 2 Tables|Metals in Feruchemy]] table.
+Throughout Scadrial’s history, scholars and Metalborn have strived to increase their understanding of the Metallic Arts and their viable metals through categorical testing. Though commonalities exist, Allomancy and Feruchemy each classify the metals slightly differently, as outlined in the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Metals in Allomancy]] table and the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Metals in Feruchemy]] table.
 
 ## Metals in Allomancy
 
-The [[Mistborn Handbook/17 - Appendix 2 Tables|Metals in Allomancy]] table includes the following columns:
+The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Metals in Allomancy]] table includes the following columns:
 
 **Allomantic Metal.** The name of the Allomantically viable metal. The metals are sorted first by category, then by whether the effects are external or internal and whether the effect Pushes or Pulls.
 
@@ -237,7 +237,7 @@ The [[Mistborn Handbook/17 - Appendix 2 Tables|Metals in Allomancy]] table inclu
 
 Some metals are incredibly common throughout both eras of Mistborn, making it trivial for an Allomancer to maintain their stock of metal vials, which they consume to fuel their abilities. Each physical metal and mental metal is widely available.
 
-Meanwhile, **rare metals**—including all enhancement, temporal, and God Metals—are much more difficult to acquire, whether they’re truly a scarcer resource or simply legally restricted. As described in “Managing Metals” in the “[[Mistborn Handbook/06 - Ch 5 Metalborn Paths#Allomancy: Using Investiture|Allomancy: Using Investiture]]” section of chapter 5, if your Allomantic power requires a rare metal, you can either purchase and track your vials of that metal individually or seek out a consistent supply as a reward.
+Meanwhile, **rare metals**—including all enhancement, temporal, and God Metals—are much more difficult to acquire, whether they’re truly a scarcer resource or simply legally restricted. As described in “Managing Metals” in the “[[06 - Ch 5 Metalborn Paths#Allomancy: Using Investiture|Allomancy: Using Investiture]]” section of chapter 5, if your Allomantic power requires a rare metal, you can either purchase and track your vials of that metal individually or seek out a consistent supply as a reward.
 
 ## Metals in Feruchemy
 
@@ -281,13 +281,13 @@ During Era 1, duralumin’s properties were unknown, and the Lord Ruler and his 
 
 Immediately following the Catacendre, Era 1’s God Metals were lost. As a result, atium, malatium, lerasium, and lerasium alloys are unavailable in Era 2. Before the events of the Era 2 novels, bendalloy, cadmium, chromium, harmonium, and nicrosil were discovered.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Metals in Allomancy]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Metals in Allomancy]]
 
 ![[pg169_table-allomantic.webp]]
 
 **AUSTIN HARTELL**
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Metals in Feruchemy]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Metals in Feruchemy]]
 
 ![[pg169_table-feruchemical.webp]]
 
@@ -312,9 +312,9 @@ However, those who’ve visited other worlds in the cosmere understand that this
 
 Atium Allomancy causes you to see “atium shadows” of all the people and objects in sight, projecting the many immediate futures possible for those people and objects. This maelstrom of information would be far too much for a normal mind to process, but atium also expands your mind to be able to process and act on that information. This effectively allows you to see several seconds into the future and respond to it. Accordingly, atium Mistings are known as Seers.
 
-While burning atium, you become nearly impossible to avoid or to wound in combat. However, if another person is also burning atium (or if they can otherwise see possible futures, such as through [[Metallic Arts/Electrum/Electrum Allomancy|Electrum Allomancy]]), their possible futures fragment because of their knowledge. This causes countless shadows to spring out from them, rendering their actions as unknowable as if you weren’t burning atium.
+While burning atium, you become nearly impossible to avoid or to wound in combat. However, if another person is also burning atium (or if they can otherwise see possible futures, such as through [[Electrum Allomancy|Electrum Allomancy]]), their possible futures fragment because of their knowledge. This causes countless shadows to spring out from them, rendering their actions as unknowable as if you weren’t burning atium.
 
-As detailed in the upcoming “[[Mistborn Handbook/07 - Ch 6 Metallic Arts#Using Atium Allomancy|Using Atium Allomancy]]” section, burning this God Metal follows some different rules than other Allomantic powers.
+As detailed in the upcoming “[[07 - Ch 6 Metallic Arts#Using Atium Allomancy|Using Atium Allomancy]]” section, burning this God Metal follows some different rules than other Allomantic powers.
 
 |  |
 |----|
@@ -327,7 +327,7 @@ As detailed in the upcoming “[[Mistborn Handbook/07 - Ch 6 Metallic Arts#Using
 
 ## Using Atium Allomancy
 
-In addition to the power rules presented above, consider the following guidance on interacting with this power. Unique Properties Atium is the God Metal of the Shard Ruin. During the reign of the Lord Ruler, it’s incredibly rare and nearly priceless (see “[[Mistborn Handbook/08 - Ch 7 Items|Metal Vials]]” in chapter 7); after the Catacendre, it becomes practically impossible to find. As a result, instead of spending Investiture on this power, you track your beads of atium separately. Use the **Swallow Atium** action to ingest a bead, then use the **Burn Atium** action to activate your power.
+In addition to the power rules presented above, consider the following guidance on interacting with this power. Unique Properties Atium is the God Metal of the Shard Ruin. During the reign of the Lord Ruler, it’s incredibly rare and nearly priceless (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|Metal Vials]]” in chapter 7); after the Catacendre, it becomes practically impossible to find. As a result, instead of spending Investiture on this power, you track your beads of atium separately. Use the **Swallow Atium** action to ingest a bead, then use the **Burn Atium** action to activate your power.
 
 Due to this God Metal’s extreme rarity and unique properties, atium has no nascent version and doesn’t require you to complete a “Train Your Power” goal to unlock the full power. If you’re a Mistborn, atium Misting, or otherwise have access to Atium Allomancy, you can immediately use the full version of this power.
 
@@ -355,7 +355,7 @@ Characters in an area where multiple time bubbles overlap (including cadmium bub
 
 Due to the relative speeds of time inside and outside the bubble, it’s difficult for images, sounds, characters, and objects to pass through its surface. This can cause strange effects like the following:
 
-- Moving into or out of an active time bubble is mentally taxing. After a character willingly moves through the bubble’s surface, they lose focus equal to the Investiture you spent to burn bendalloy. If this reduces their focus to 0 (or if they already had 0 focus), they also become [[Mistborn Handbook/10 - Ch 9 Adventuring#Stunned|Stunned]] until the end of their next turn.
+- Moving into or out of an active time bubble is mentally taxing. After a character willingly moves through the bubble’s surface, they lose focus equal to the Investiture you spent to burn bendalloy. If this reduces their focus to 0 (or if they already had 0 focus), they also become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Stunned|Stunned]] until the end of their next turn.
 
 - Sound and moving images become so distorted that it’s impossible to communicate through the bubble’s surface. Characters outside the bubble can’t influence characters inside through mundane means, and vice versa.
 
@@ -363,7 +363,7 @@ Due to the relative speeds of time inside and outside the bubble, it’s difficu
 
 ### Creative Uses
 
-If you have access to enough bendalloy, the GM might allow you and your allies to use [[Metallic Arts/Bendalloy/Bendalloy Allomancy|Bendalloy Allomancy]] to complete activities much faster than usual. You’re encouraged to find your own creative uses for this power, such as the following, and work with your GM to resolve them:
+If you have access to enough bendalloy, the GM might allow you and your allies to use [[Bendalloy Allomancy|Bendalloy Allomancy]] to complete activities much faster than usual. You’re encouraged to find your own creative uses for this power, such as the following, and work with your GM to resolve them:
 
 **Compelled Duel.** Amid a melee, trap a single enemy in a bendalloy bubble to fight one-on-one.
 
@@ -407,13 +407,13 @@ If multiple effects are altering the emotions of a single character, their effec
 
 ### Controlling NPCs
 
-If you spend 6 Investiture or more to burn brass, your [[Metallic Arts/Brass/Brass Allomancy|Brass Allomancy]] can give you more direct control over NPCs who are kandra, koloss, or other Hemalurgic entities. When you successfully Soothe such an NPC who has 0 focus, you can forgo **Burn Brass**’s usual effects and instead make that NPC count as your companion (see “[[Mistborn Handbook/09 - Ch 8 Goals and Rewards#Companions|Companions]]” in chapter 8). This effect lasts until you harm them or until a different character makes them a companion.
+If you spend 6 Investiture or more to burn brass, your [[Brass Allomancy|Brass Allomancy]] can give you more direct control over NPCs who are kandra, koloss, or other Hemalurgic entities. When you successfully Soothe such an NPC who has 0 focus, you can forgo **Burn Brass**’s usual effects and instead make that NPC count as your companion (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards#Companions|Companions]]” in chapter 8). This effect lasts until you harm them or until a different character makes them a companion.
 
 ### Creative Uses
 
 Brass Allomancy can be applied creatively to accomplish incredible feats of manipulation. You’re encouraged to find your own uses for this power, such as the following, and work with the GM to resolve them:
 
-**Multiple Emotions.** Manipulate multiple emotions simultaneously, though doing so might add a disad vantage to your Allomancy test. You could even mimic the effects of [[Metallic Arts/Zinc/Zinc Allomancy|Zinc Allomancy]] by Soothing so many emotions that others are comparatively enflamed.
+**Multiple Emotions.** Manipulate multiple emotions simultaneously, though doing so might add a disad vantage to your Allomancy test. You could even mimic the effects of [[Zinc Allomancy|Zinc Allomancy]] by Soothing so many emotions that others are comparatively enflamed.
 
 **Directed Emotions.** Rather than affecting a general emotion, narrow its focus, such as by diminishing friendliness toward a specific individual or group.
 
@@ -421,7 +421,7 @@ Brass Allomancy can be applied creatively to accomplish incredible feats of mani
 
 **Redirected Aggression.** Focus your enemies’ attention toward or away from one of your allies; when you do, raise the stakes on your Allomancy test.
 
-For more examples of how to use emotional Allomancy, see the “[[Mistborn Handbook/07 - Ch 6 Metallic Arts#Creative Uses|Creative Uses]]” section for the Zinc Allomancy power.
+For more examples of how to use emotional Allomancy, see the “[[07 - Ch 6 Metallic Arts#Creative Uses|Creative Uses]]” section for the Zinc Allomancy power.
 
 ## Brass Allomancy Talents
 
@@ -451,7 +451,7 @@ The following talents, presented in alphabetical order, appear in the Brass Allo
 
 Bronze Allomancy causes you to sense rhythmic drum like pulses from nearby kinetic Investiture. On Scadrial, the most common source detected is Allomancers burning metals. Bronze Allomancers are called Seekers due to their ability to track other Allomancers with this power.
 
-Scadrians classify Allomantic metals in three primary ways (see the earlier “[[Mistborn Handbook/07 - Ch 6 Metallic Arts|Metals of Scadrial]]” section for each metal’s classifications). These classifications were created by experienced Seekers who detected similarities in the rhythms and pulses produced by burning various metals:
+Scadrians classify Allomantic metals in three primary ways (see the earlier “[[07 - Ch 6 Metallic Arts|Metals of Scadrial]]” section for each metal’s classifications). These classifications were created by experienced Seekers who detected similarities in the rhythms and pulses produced by burning various metals:
 
 - The four general categories of metal—physical, mental, temporal, and enhancement metals—have unique signature rhythms.
 
@@ -471,7 +471,7 @@ Bronze Allomancy doesn’t usually require skill tests (except to identify a pow
 
 Some Invested effects can be difficult to detect, such as the surge of Illumination and other Lightweaving.
 
-Additionally, you usually can’t detect the presence of anything behind an Investiture-obscuring effect such as a coppercloud created by a copper Allomancer, nor can you detect that such an effect is present. However, you can pierce such an effect by spending 6 Investiture or more when you burn bronze, as described in the “[[Mistborn Handbook/07 - Ch 6 Metallic Arts#Piercing Copperclouds|Piercing Copperclouds]]” section of the Copper Allomancy power.
+Additionally, you usually can’t detect the presence of anything behind an Investiture-obscuring effect such as a coppercloud created by a copper Allomancer, nor can you detect that such an effect is present. However, you can pierce such an effect by spending 6 Investiture or more when you burn bronze, as described in the “[[07 - Ch 6 Metallic Arts#Piercing Copperclouds|Piercing Copperclouds]]” section of the Copper Allomancy power.
 
 ### Creative Uses
 
@@ -513,7 +513,7 @@ Characters in an area where multiple time bubbles overlap (including bendalloy b
 
 Due to the relative speeds of time inside and outside the bubble, it’s difficult for images, sounds, characters, and objects to pass through its surface. This can cause strange effects like the following:
 
-- Moving into or out of an active time bubble is mentally taxing. After a character willingly moves through the bubble’s surface, they lose focus equal to the Investiture you spent to burn cadmium. If this reduces their focus to 0 (or if they already had 0 focus), they also become [[Mistborn Handbook/10 - Ch 9 Adventuring#Stunned|Stunned]] until the end of their next turn.
+- Moving into or out of an active time bubble is mentally taxing. After a character willingly moves through the bubble’s surface, they lose focus equal to the Investiture you spent to burn cadmium. If this reduces their focus to 0 (or if they already had 0 focus), they also become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Stunned|Stunned]] until the end of their next turn.
 
 - A character who moves out of a time bubble removes all their delay points. A character who moves into a time bubble gains a number of delay points equal to 1 + the Investiture spent to burn cadmium.
 
@@ -592,7 +592,7 @@ In addition to the power rules presented above, consider the following guidance 
 
 A character needn’t know a coppercloud exists to pierce it, but only the most powerful characters can wield enough Investiture to do so. To pierce a coppercloud that would block an Invested effect, a character must spend at least 6 Investiture (or a similar Invested resource like metalmind charges) on that effect. For example, if a Brass or Zinc Allomancer spends 6 Investiture on their Soothing or Rioting, they can automatically affect characters on the other side of the coppercloud—even if they don’t know it exists.
 
-A character who uses an Investiture-detecting effect (like [[Metallic Arts/Bronze/Bronze Allomancy|Bronze Allomancy]]) can directly sense the coppercloud by spending 6 Investiture on that effect. For the rest of the scene, they can also sense any effects the coppercloud hid, and their Invested Art can’t be affected by the source’s Investiture-obscuring effects.
+A character who uses an Investiture-detecting effect (like [[Bronze Allomancy|Bronze Allomancy]]) can directly sense the coppercloud by spending 6 Investiture on that effect. For the rest of the scene, they can also sense any effects the coppercloud hid, and their Invested Art can’t be affected by the source’s Investiture-obscuring effects.
 
 Keep in mind that most characters can’t exceed a Metallic Art limit of 5 and thus can’t spend enough Investiture to directly sense or pierce a coppercloud. However, characters who spend less than 6 Investiture can become generally aware of a coppercloud simply by noticing their abilities aren’t affecting some characters as expected.
 
@@ -627,7 +627,7 @@ In addition to the power rules presented above, consider the following guidance 
 
 ### Bursting Abilities That Don’t Scale
 
-When using [[Metallic Arts/Duralumin/Duralumin Allomancy|Duralumin]] or [[Metallic Arts/Nicrosil/Nicrosil Allomancy|Nicrosil Allomancy]], the impact of an ability burst typically increases in rough proportion to the resources spent on it. Some abilities naturally scale with how much Investiture was spent, but for those that don’t, consider the ability’s usual cost and how many resources were spent beyond it. Then determine the primary way you’re using the ability (such as for damage, healing, draining focus, or recovering focus), and increase that effect accordingly.
+When using [[Duralumin Allomancy|Duralumin]] or [[Nicrosil Allomancy|Nicrosil Allomancy]], the impact of an ability burst typically increases in rough proportion to the resources spent on it. Some abilities naturally scale with how much Investiture was spent, but for those that don’t, consider the ability’s usual cost and how many resources were spent beyond it. Then determine the primary way you’re using the ability (such as for damage, healing, draining focus, or recovering focus), and increase that effect accordingly.
 
 If you or another character lose control of a burst ability, you can use a similar approach for determining its negative impact.
 
@@ -635,9 +635,9 @@ If you or another character lose control of a burst ability, you can use a simil
 
 You and your GM are encouraged to find creative ways to resolve your Duralumin Allomancy’s ability bursts, such as the following:
 
-**Regenerate (Pewter Allomancy).** The [[Metallic Arts/Pewter/Talents/Allomancy/Regenerate|Regenerate]] talent usually allows you to recover health by spending 1 Investiture and rolling 1d6. When you burst that talent, you might roll additional d6s equal to the additional Investiture spent, or you might burn pewter using that additional Investiture.
+**Regenerate (Pewter Allomancy).** The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Metallic Arts/Pewter/Talents/Allomancy/Regenerate|Regenerate]] talent usually allows you to recover health by spending 1 Investiture and rolling 1d6. When you burst that talent, you might roll additional d6s equal to the additional Investiture spent, or you might burn pewter using that additional Investiture.
 
-**Bubble Shield (Steel Allomancy).** The [[Metallic Arts/Steel/Talents/Allomancy/Bubble Shield|Bubble Shield]] talent allows you to protect yourself from metal projectiles for 1 round by spending 1 Investiture. When you burst that talent, you might increase the radius of the bubble by 5 feet per additional Investiture spent, and it might affect any projectiles shot through it, regardless of their target.
+**Bubble Shield (Steel Allomancy).** The [[Bubble Shield|Bubble Shield]] talent allows you to protect yourself from metal projectiles for 1 round by spending 1 Investiture. When you burst that talent, you might increase the radius of the bubble by 5 feet per additional Investiture spent, and it might affect any projectiles shot through it, regardless of their target.
 
 ## Duralumin Allomancy Talents
 
@@ -655,7 +655,7 @@ In addition to the power rules presented above, consider the following guidance 
 
 ### Creative Uses
 
-[[Metallic Arts/Electrum/Electrum Allomancy|Electrum Allomancy]] is typically used to detect and avoid immediate danger, and the **Burn Electrum** action reflects this use. However, Allomancers can also use electrum to read the immediate future in other ways, usually by studying the shadows to see how they react to different situations. You’re encouraged to find your own uses for Electrum Allomancy, such as the following, and work with the GM to resolve them:
+[[Electrum Allomancy|Electrum Allomancy]] is typically used to detect and avoid immediate danger, and the **Burn Electrum** action reflects this use. However, Allomancers can also use electrum to read the immediate future in other ways, usually by studying the shadows to see how they react to different situations. You’re encouraged to find your own uses for Electrum Allomancy, such as the following, and work with the GM to resolve them:
 
 **Detecting Traps.** Send out electrum shadows and use their reactions to find traps within your Metallic Art range. Spend 1 Investiture or more and make a Perception test, gaining an advantage for each Investiture spent beyond the first.
 
@@ -683,7 +683,7 @@ In addition to the power rules presented above, consider the following guidance 
 
 ### Creative Uses
 
-[[Metallic Arts/Gold/Gold Allomancy|Gold Allomancy]] can be creatively used to peer into your past (or possible pasts) through gold shadows. You’re encouraged to find your own uses for Gold Allomancy, such as the following, and work with the GM to resolve them:
+[[Gold Allomancy|Gold Allomancy]] can be creatively used to peer into your past (or possible pasts) through gold shadows. You’re encouraged to find your own uses for Gold Allomancy, such as the following, and work with the GM to resolve them:
 
 **Examine Past Self.** When you have a bit of time for contemplation, you can burn gold and make a DC 15 Allomancy test to seek your past self from a particular moment in time. On a success, when you interact with that shadow, you can experience that past self’s thoughts, emotions, and senses as though you’re back in that moment. In this way, you might glean new details, additional context, or greater insight from your past self—though to interpret the information you learn, the GM might call for another test (such as Deduction, Insight, or Perception).
 
@@ -716,7 +716,7 @@ Most Ironpulls don’t require a test. However, when you attempt a particularly 
 
 ### Creative Uses
 
-You’re encouraged to find your own uses for [[Metallic Arts/Iron/Iron Allomancy|Iron Allomancy]], such as the following, and work with the GM to resolve them:
+You’re encouraged to find your own uses for [[Iron Allomancy|Iron Allomancy]], such as the following, and work with the GM to resolve them:
 
 **Disarming.** Ironpull a metal object worn or held by a character. Make an Allomancy test contested by the target’s Athletics; on a success, the character is disarmed of that object and it’s pulled into your space.
 
@@ -748,7 +748,7 @@ In addition to the power rules presented above, consider the following guidance 
 
 ### Bursting Abilities That Don’t Scale
 
-When using [[Metallic Arts/Duralumin/Duralumin Allomancy|Duralumin]] or [[Metallic Arts/Nicrosil/Nicrosil Allomancy|Nicrosil Allomancy]], the impact of an ability burst typically increases in rough proportion to the resources spent on it. Some abilities naturally scale with how much Investiture was spent, but for those that don’t, consider the ability’s usual cost and how many resources were spent beyond it. Then determine the primary way you’re using the ability (such as for damage, healing, draining focus, or recovering focus), and increase that effect accordingly.
+When using [[Duralumin Allomancy|Duralumin]] or [[Nicrosil Allomancy|Nicrosil Allomancy]], the impact of an ability burst typically increases in rough proportion to the resources spent on it. Some abilities naturally scale with how much Investiture was spent, but for those that don’t, consider the ability’s usual cost and how many resources were spent beyond it. Then determine the primary way you’re using the ability (such as for damage, healing, draining focus, or recovering focus), and increase that effect accordingly.
 
 If you or another character lose control of a burst ability, you can use a similar approach for determining its negative impact.
 
@@ -772,9 +772,9 @@ In addition to the power rules presented above, consider the following guidance 
 
 ### Creative Uses
 
-You’re encouraged to find your own uses for [[Metallic Arts/Pewter/Pewter Allomancy|Pewter Allomancy]], such as the following, and work with the GM to resolve them:
+You’re encouraged to find your own uses for [[Pewter Allomancy|Pewter Allomancy]], such as the following, and work with the GM to resolve them:
 
-**Expedited Travel.** Run extended distances and travel much faster by pewter dragging. You could even shorten the travel time of other characters by pulling them via cart or wagon. When you pewter drag like this, you become [[Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted [−1]]] at intervals determined by the GM.
+**Expedited Travel.** Run extended distances and travel much faster by pewter dragging. You could even shorten the travel time of other characters by pulling them via cart or wagon. When you pewter drag like this, you become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted [−1]]] at intervals determined by the GM.
 
 **Metabolic Filtering.** While burning pewter, intoxicating substances like alcohol, drugs, and poisons leave your system much more quickly.
 
@@ -805,7 +805,7 @@ Most Steelpushes don’t require a test. However, when you attempt a particularl
 
 ### Creative Uses
 
-Many Coinshots carry around pouches of coins or other small bits of metal, which they can use as an anchor point on non-metal objects and struct ures. You’re encouraged to find your own creative uses for [[Metallic Arts/Steel/Steel Allomancy|Steel Allomancy]], such as the following, and work with the GM to resolve them:
+Many Coinshots carry around pouches of coins or other small bits of metal, which they can use as an anchor point on non-metal objects and struct ures. You’re encouraged to find your own creative uses for [[Steel Allomancy|Steel Allomancy]], such as the following, and work with the GM to resolve them:
 
 **“Flying.”** By Steelpushing diagonally down on an object that’s fixed or larger than you, propel yourself through the air, flying in a straight line up to the distance of the Steelpush. The GM might ask you to make an Allomancy test to do so, possibly raising the stakes. On a failure, you land safely, but not where you intended. The GM can spend to cause you to land hard and take damage from the fall.
 
@@ -831,7 +831,7 @@ In addition to the power rules presented above, consider the following guidance
 
 ### Creative Uses
 
-You’re encouraged to find your own creative uses for [[Metallic Arts/Tin/Tin Allomancy|Tin Allomancy]], such as the following, and work with the GM to resolve them:
+You’re encouraged to find your own creative uses for [[Tin Allomancy|Tin Allomancy]], such as the following, and work with the GM to resolve them:
 
 **Familiar Sensations.** When trying to recall sights, scents, and other sensations, burning tin might help you remember them in more detail.
 
@@ -863,19 +863,19 @@ If multiple effects are altering the emotions of a single character, their effec
 
 ### Controlling NPCs
 
-If you spend 6 Investiture or more to burn zinc, your [[Metallic Arts/Zinc/Zinc Allomancy|Zinc Allomancy]] can give you more direct control over NPCs who are kandra, koloss, or other Hemalurgic entities. When you successfully Riot such an NPC who has 0 focus, you can forgo **Burn Zinc’s** usual effects and instead make that NPC count as your companion (see “[[Mistborn Handbook/09 - Ch 8 Goals and Rewards#Companions|Companions]]” in chapter 8). This effect lasts until you harm them or until a different character makes them a companion.
+If you spend 6 Investiture or more to burn zinc, your [[Zinc Allomancy|Zinc Allomancy]] can give you more direct control over NPCs who are kandra, koloss, or other Hemalurgic entities. When you successfully Riot such an NPC who has 0 focus, you can forgo **Burn Zinc’s** usual effects and instead make that NPC count as your companion (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards#Companions|Companions]]” in chapter 8). This effect lasts until you harm them or until a different character makes them a companion.
 
 ### Creative Uses
 
-[[Metallic Arts/Zinc/Zinc Allomancy|Zinc Allomancy]] can be applied creatively to accomplish incredible feats of manipulation. You’re encouraged to find your own uses for this power, such as the following, and work with the GM to resolve them:
+[[Zinc Allomancy|Zinc Allomancy]] can be applied creatively to accomplish incredible feats of manipulation. You’re encouraged to find your own uses for this power, such as the following, and work with the GM to resolve them:
 
-**Multiple Emotions.** Manipulate multiple emotions simultaneously, though doing so might add a disadvantage to your Allomancy test. You could even mimic the effects of [[Metallic Arts/Brass/Brass Allomancy|Brass Allomancy]] by Rioting so many emotions that others are comparatively dulled.
+**Multiple Emotions.** Manipulate multiple emotions simultaneously, though doing so might add a disadvantage to your Allomancy test. You could even mimic the effects of [[Brass Allomancy|Brass Allomancy]] by Rioting so many emotions that others are comparatively dulled.
 
-**Insightful Influence.** Before Rioting, try to [[Actions/Basic/Gain Advantage|Gain Advantage]] with Insight. On a success, also learn what emotions are likely to elicit the response you want.
+**Insightful Influence.** Before Rioting, try to [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Gain Advantage|Gain Advantage]] with Insight. On a success, also learn what emotions are likely to elicit the response you want.
 
 **Encouragement.** Help a willing ally resist their obstacle and instead do something brave, bold, or otherwise aspirational to them.
 
-For more examples of how to use emotional Allomancy, see the “[[Mistborn Handbook/07 - Ch 6 Metallic Arts#Creative Uses|Creative Uses]]” section for the Brass Allomancy power. Also see the “Altered Emotional States” sidebar in that section for guidance on how characters might respond to their emotions being manipulated.
+For more examples of how to use emotional Allomancy, see the “[[07 - Ch 6 Metallic Arts#Creative Uses|Creative Uses]]” section for the Brass Allomancy power. Also see the “Altered Emotional States” sidebar in that section for guidance on how characters might respond to their emotions being manipulated.
 
 ## Zinc Allomancy Talents
 
@@ -905,9 +905,9 @@ In addition to the power rules presented above, consider the following guidance 
 
 ### Creative Uses
 
-Beyond its direct effects, [[Metallic Arts/Aluminum/Aluminum Feruchemy|Aluminum Feruchemy]] is poorly understood, even in Terris communities that have studied the nature of Feruchemy for over 1,500 years. Storing and tapping Identity interacts oddly and unexpectedly with other powers, and even with the Invested Arts of other worlds. You’re encouraged to find your own creative uses for this power and work with your GM to resolve them. For example, storing Identity can do the following:
+Beyond its direct effects, [[Aluminum Feruchemy|Aluminum Feruchemy]] is poorly understood, even in Terris communities that have studied the nature of Feruchemy for over 1,500 years. Storing and tapping Identity interacts oddly and unexpectedly with other powers, and even with the Invested Arts of other worlds. You’re encouraged to find your own creative uses for this power and work with your GM to resolve them. For example, storing Identity can do the following:
 
-- Make it easier for an ally to Riot you with [[Metallic Arts/Zinc/Zinc Allomancy|Zinc Allomancy]].
+- Make it easier for an ally to Riot you with [[Zinc Allomancy|Zinc Allomancy]].
 
 - Resist the urge to succumb to your obstacle in a moment of weakness.
 
@@ -948,7 +948,7 @@ When you change size, your possessions don’t change size with you.
 
 ### Creative Uses
 
-Aside from changing your size, making yourself younger or older doesn’t automatically change any of your statistics or abilities (though the upcoming [[Metallic Arts/Atium/Atium Feruchemy|Atium Feruchemy]] talents can do so). However, your age can affect how other characters perceive you—if they take any notice of you at all. You’re encouraged to find your own creative uses for Atium Feruchemy, such as the following, and work with the GM to resolve them:
+Aside from changing your size, making yourself younger or older doesn’t automatically change any of your statistics or abilities (though the upcoming [[Atium Feruchemy|Atium Feruchemy]] talents can do so). However, your age can affect how other characters perceive you—if they take any notice of you at all. You’re encouraged to find your own creative uses for Atium Feruchemy, such as the following, and work with the GM to resolve them:
 
 **Underfoot.** Some characters tend to dismiss or ignore children. In combination with a child’s smaller size, you might find it easier than usual to skulk about undetected.
 
@@ -988,7 +988,7 @@ In addition to the power rules presented above, consider the following guidance 
 
 ### Creative Uses
 
-You’re encouraged to find your own creative uses for [[Metallic Arts/Bendalloy/Bendalloy Feruchemy|Bendalloy Feruchemy]], such as the following, and work with your GM to resolve them:
+You’re encouraged to find your own creative uses for [[Bendalloy Feruchemy|Bendalloy Feruchemy]], such as the following, and work with your GM to resolve them:
 
 **Hide for Long Periods.** Tap nutrition to keep yourself healthy even when unable to leave a small area.
 
@@ -1017,7 +1017,7 @@ In addition to the power rules presented above, consider the following guidance 
 
 ### Creative Uses
 
-You’re encouraged to find your own creative uses for [[Metallic Arts/Brass/Brass Feruchemy|Brass Feruchemy]], such as the following, and work with your GM to resolve them:
+You’re encouraged to find your own creative uses for [[Brass Feruchemy|Brass Feruchemy]], such as the following, and work with your GM to resolve them:
 
 **Cooling an Object.** Store warmth while touching an object to leech its warmth.
 
@@ -1045,7 +1045,7 @@ In addition to the power rules presented above, consider the following guidance 
 
 ### Creative Uses
 
-You’re encouraged to find your own creative uses for [[Metallic Arts/Bronze/Bronze Feruchemy|Bronze Feruchemy]], such as the following, and work with your GM to resolve them:
+You’re encouraged to find your own creative uses for [[Bronze Feruchemy|Bronze Feruchemy]], such as the following, and work with your GM to resolve them:
 
 **All-Nighter.** During a long rest, tap wakefulness while your allies are sleeping. You might be able to gain one of the alternative benefits of a short rest, such as making a Survival test to forage for resources, in addition to gaining the usual benefits of a long rest.
 
@@ -1081,7 +1081,7 @@ You’re encouraged to find your own creative uses for Cadmium Feruchemy, such a
 
 ## Cadmium Feruchemy Talents
 
-The following talents, presented in alphabetical order, appear in the [[Metallic Arts/Cadmium/Cadmium Feruchemy|Cadmium Feruchemy]] talent tree. This tree can be unlocked through the key talent for the Ferring and Twinborn paths, or by a Hemalurgic spike.
+The following talents, presented in alphabetical order, appear in the [[Cadmium Feruchemy|Cadmium Feruchemy]] talent tree. This tree can be unlocked through the key talent for the Ferring and Twinborn paths, or by a Hemalurgic spike.
 
 ![[pg225_HB06_No Need to Breathe_Alexandr Leskinen.webp]]
 
@@ -1097,7 +1097,7 @@ In addition to the power rules presented above, consider the following guidance 
 
 ### Creative Uses
 
-Storing and tapping Fortune is simple at its core, but it can be applied creatively to guide your group’s story in important directions. You’re encouraged to find your own uses for [[Metallic Arts/Chromium/Chromium Feruchemy|Chromium Feruchemy]], such as the following, and work with your GM to resolve them:
+Storing and tapping Fortune is simple at its core, but it can be applied creatively to guide your group’s story in important directions. You’re encouraged to find your own uses for [[Chromium Feruchemy|Chromium Feruchemy]], such as the following, and work with your GM to resolve them:
 
 **Blissful Ignorance.** Store Fortune to tune out the draw of high-stakes adventure, finding peace in a moment of rest and recovery before duty calls once more.
 
@@ -1140,7 +1140,7 @@ In addition to the power rules presented above, consider the following guidance 
 
 ### Creative Uses
 
-You’re encouraged to find your own creative uses for [[Metallic Arts/Copper/Copper Feruchemy|Copper Feruchemy]], such as the following, and work with your GM to resolve them:
+You’re encouraged to find your own creative uses for [[Copper Feruchemy|Copper Feruchemy]], such as the following, and work with your GM to resolve them:
 
 **Amnesic Innocence.** Store a memory of a crime you participated in, making it easier to lie about any knowledge you once had of it.
 
@@ -1183,7 +1183,7 @@ In addition to the power rules presented above, consider the following guidance 
 
 ### Creative Uses
 
-You’re encouraged to find your own creative uses for [[Metallic Arts/Duralumin/Duralumin Feruchemy|Duralumin Feruchemy]], such as the following, and work with your GM to resolve them:
+You’re encouraged to find your own creative uses for [[Duralumin Feruchemy|Duralumin Feruchemy]], such as the following, and work with your GM to resolve them:
 
 **Life of the Party.** Tap Connection to draw a crowd’s attention away from your allies.
 
@@ -1203,7 +1203,7 @@ In addition to the power rules presented above, consider the following guidance 
 
 ### Creative Uses
 
-You’re encouraged to find your own creative uses for [[Metallic Arts/Electrum/Electrum Feruchemy|Electrum Feruchemy]], such as the following, and work with your GM to resolve them:
+You’re encouraged to find your own creative uses for [[Electrum Feruchemy|Electrum Feruchemy]], such as the following, and work with your GM to resolve them:
 
 **Avoid Provocation.** Tap determination to control your anger at injustices in the moment, enabling you to better confront those wrongs later.
 
@@ -1225,7 +1225,7 @@ In addition to the power rules presented above, consider the following guidance 
 
 ### Creative Uses
 
-You’re encouraged to find your own creative uses for [[Metallic Arts/Gold/Gold Feruchemy|Gold Feruchemy]], such as the following, and work with the GM to resolve them:
+You’re encouraged to find your own creative uses for [[Gold Feruchemy|Gold Feruchemy]], such as the following, and work with the GM to resolve them:
 
 **Seeking Sympathy.** By storing health, make yourself appear sickly and pathetic, stirring kindhearted individuals to take pity on you.
 
@@ -1249,13 +1249,13 @@ In addition to the power rules presented above, consider the following guidance 
 
 ### Creative Uses
 
-You’re encouraged to find your own creative uses for [[Metallic Arts/Iron/Iron Feruchemy|Iron Feruchemy]], such as the following, and work with your GM to resolve them:
+You’re encouraged to find your own creative uses for [[Iron Feruchemy|Iron Feruchemy]], such as the following, and work with your GM to resolve them:
 
 **Conservation of Momentum.** Store weight immediately after jumping in the air so you can travel much farther (at the GM’s discretion).
 
 **Crash Through.** Tap so much weight that you break through the floor to the story below.
 
-**Dead Weight.** Stand on or sit on a [[Mistborn Handbook/10 - Ch 9 Adventuring#Prone|Prone]] character, then tap weight to make them Immobilized. They can escape by succeeding on an Agility or Athletics test against your Physical defense.
+**Dead Weight.** Stand on or sit on a [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Prone|Prone]] character, then tap weight to make them Immobilized. They can escape by succeeding on an Agility or Athletics test against your Physical defense.
 
 ## Iron Feruchemy Talents
 
@@ -1263,7 +1263,7 @@ The following talents, presented in alphabetical order, appear in the Iron Feruc
 
 ![[pg240_header-F-nicrosil.webp]]
 
-Through Nicrosil Feruchemy, you can store your very ability to wield Investiture. While charging your nicrosilmind, one of your Invested abilities diminishes. Later, you can tap that ability to temporarily boost its potency. When you tap a stored Invested Art, your body, mind, and soul compensate for the increase. This allows you to use your power with a surprising amount of safety and control, especially in comparison to instantaneous bursts (such as those granted by [[Metallic Arts/Duralumin/Duralumin Allomancy|Duralumin Allomancy]] and [[Metallic Arts/Nicrosil/Nicrosil Allomancy|Nicrosil Allomancy]]).
+Through Nicrosil Feruchemy, you can store your very ability to wield Investiture. While charging your nicrosilmind, one of your Invested abilities diminishes. Later, you can tap that ability to temporarily boost its potency. When you tap a stored Invested Art, your body, mind, and soul compensate for the increase. This allows you to use your power with a surprising amount of safety and control, especially in comparison to instantaneous bursts (such as those granted by [[Duralumin Allomancy|Duralumin Allomancy]] and [[Nicrosil Allomancy|Nicrosil Allomancy]]).
 
 Those who wield Nicrosil Feruchemy—often called Soulbearers—don’t truly understand what they’re doing when they store in or tap their nicrosilminds. Even in the wider cosmere, very little is known about this power beyond its most basic effects.
 
@@ -1278,7 +1278,7 @@ In addition to the power rules presented above, consider the following guidance 
 
 ### Creative Uses
 
-Storing and tapping Investiture is poorly understood beyond its direct effects, even in the Terris communities that have been studying the nature of Feruchemy for over 1,500 years. However, it can be applied creatively or combined with other effects to accomplish incredible feats. You’re encouraged to find your own uses for [[Metallic Arts/Nicrosil/Nicrosil Feruchemy|Nicrosil Feruchemy]], such as the following, and work with your GM to resolve them:
+Storing and tapping Investiture is poorly understood beyond its direct effects, even in the Terris communities that have been studying the nature of Feruchemy for over 1,500 years. However, it can be applied creatively or combined with other effects to accomplish incredible feats. You’re encouraged to find your own uses for [[Nicrosil Feruchemy|Nicrosil Feruchemy]], such as the following, and work with your GM to resolve them:
 
 **Hidden Life.** By quickly storing Investiture, disguise yourself from effects that detect Invested characters—or even living ones—such as a bronze Allomancer’s Seeking or an Awakener’s life sense.
 
@@ -1294,7 +1294,7 @@ In addition to the power rules presented above, consider the following guidance 
 
 ### Creative Uses
 
-You’re encouraged to find your own creative uses for [[Metallic Arts/Pewter/Pewter Feruchemy|Pewter Feruchemy]], such as the following, and work with the GM to resolve them:
+You’re encouraged to find your own creative uses for [[Pewter Feruchemy|Pewter Feruchemy]], such as the following, and work with the GM to resolve them:
 
 **Display of Strength.** Tap strength as part of an Intimidation test to appear more threatening.
 
@@ -1318,7 +1318,7 @@ In addition to the power rules presented above, consider the following guidance 
 
 ### Creative Uses
 
-You’re encouraged to find your own creative uses for [[Metallic Arts/Steel/Steel Feruchemy|Steel Feruchemy]], such as the following, and work with your GM to resolve them:
+You’re encouraged to find your own creative uses for [[Steel Feruchemy|Steel Feruchemy]], such as the following, and work with your GM to resolve them:
 
 **Faking Death.** Store speed to slow your heartbeat and metabolic processes enough to appear dead.
 
@@ -1354,7 +1354,7 @@ In addition to the power rules presented above, consider the following guidance 
 
 ### Creative Uses
 
-You’re encouraged to find your own creative uses for [[Metallic Arts/Tin/Tin Feruchemy|Tin Feruchemy]], such as the following, and work with the GM to resolve them:
+You’re encouraged to find your own creative uses for [[Tin Feruchemy|Tin Feruchemy]], such as the following, and work with the GM to resolve them:
 
 **Bloodhound Tracking.** Tap smell to track an individual’s scent signature.
 
@@ -1362,7 +1362,7 @@ You’re encouraged to find your own creative uses for [[Metallic Arts/Tin/Tin F
 
 **Sense Blocking.** Store a sense to dull unwanted sensory effects (such as storing taste or smell to make bad food more palatable).
 
-Additionally, the senses you can store aren’t limited just to your mundane senses. For example, [[Metallic Arts/Bronze/Bronze Allomancy|Bronze Allomancy]] grants the ability to sense the pulses of Invested abilities, and singers from Roshar can sense the rhythms of Roshar. Work with the GM to determine any additional effects from storing and tapping a special sense.
+Additionally, the senses you can store aren’t limited just to your mundane senses. For example, [[Bronze Allomancy|Bronze Allomancy]] grants the ability to sense the pulses of Invested abilities, and singers from Roshar can sense the rhythms of Roshar. Work with the GM to determine any additional effects from storing and tapping a special sense.
 
 ## Tin Feruchemy Talents
 
@@ -1399,7 +1399,7 @@ In addition to the power rules presented above, consider the following guidance 
 
 ### Creative Uses
 
-You’re encouraged to find your own creative uses for [[Metallic Arts/Zinc/Zinc Feruchemy|Zinc Feruchemy]], such as the following, and work with your GM to resolve them:
+You’re encouraged to find your own creative uses for [[Zinc Feruchemy|Zinc Feruchemy]], such as the following, and work with your GM to resolve them:
 
 **Pass Time.** Store mental speed to slow your thoughts and make time seem to pass more quickly, reducing the mental impact of waiting long periods.
 
@@ -1421,7 +1421,7 @@ It’s nearly impossible to practice Hemalurgy without an intimate knowledge of 
 
 Hemalurgy requires the informed intent of an experienced practitioner, and they must understand a body’s Hemalurgic bind points when charging and placing spikes. Even among practitioners, exceptionally few know how to create new spikes and other Hemalurgic instruments (such as the linchpins required to make Steel Inquisitors).
 
-Due to the scarcity of knowledge about this Metallic Art, and due to the predatory nature of charging spikes by drawing from people’s spiritwebs and killing them in the process, this book doesn’t include a dedicated Hemalurgist path. However, player characters can acquire existing Hemalurgic spikes as rewards (see “[[Mistborn Handbook/09 - Ch 8 Goals and Rewards#Hemalurgic Spikes|Hemalurgic Spikes]]” in chapter 8).
+Due to the scarcity of knowledge about this Metallic Art, and due to the predatory nature of charging spikes by drawing from people’s spiritwebs and killing them in the process, this book doesn’t include a dedicated Hemalurgist path. However, player characters can acquire existing Hemalurgic spikes as rewards (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards#Hemalurgic Spikes|Hemalurgic Spikes]]” in chapter 8).
 
 People who use Hemalurgic spikes are often referred to as Hemalurgists. This term doesn’t only refer to masters of Hemalurgy who know how to create new spikes or mutated creatures; rather, the term commonly refers to anyone who uses existing spikes to gain power.
 

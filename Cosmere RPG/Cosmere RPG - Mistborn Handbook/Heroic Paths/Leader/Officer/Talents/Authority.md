@@ -12,4 +12,4 @@ aliases: ["Authority"]
 
 *Your command experience helps you coordinate larger groups across greater distances.*
 
-Your [[Heroic Paths/Leader/Leader|Leader]] talents that affect allies now have double the range (if they had one) and can affect up to twice as many allies as usual.
+Your [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Leader|Leader]] talents that affect allies now have double the range (if they had one) and can affect up to twice as many allies as usual.

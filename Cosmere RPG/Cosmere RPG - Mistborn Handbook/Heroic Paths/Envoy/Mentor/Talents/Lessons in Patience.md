@@ -12,6 +12,6 @@ aliases: ["Lessons in Patience"]
 
 *Amid the uncertainties of life, you encourage others to slowly and persistently pursue their goals rather than push themselves to burnout.*
 
-After you use your [[Heroic Paths/Envoy/Rousing Presence|Rousing Presence]], the target recovers 1 focus.
+After you use your [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Rousing Presence|Rousing Presence]], the target recovers 1 focus.
 
 Additionally, when you acquire this talent, gain a utility expertise in Motivational Speech.

@@ -12,4 +12,4 @@ aliases: ["Dragging Strikes"]
 
 *Burning pewter allows you to push well past your physical limits, relentlessly attacking your foes.*
 
-While burning pewter, you choose to become [[Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted]] [−1], then use an additional [[Actions/Basic/Strike|Strike]] action with a hand you already used for a [[Actions/Basic/Strike|Strike]] this turn.
+While burning pewter, you choose to become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted]] [−1], then use an additional [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Strike|Strike]] action with a hand you already used for a [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Strike|Strike]] this turn.

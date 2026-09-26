@@ -223,7 +223,7 @@ You can use this surge in countless creative ways, and it’s up to you and your
 
 A Full Lashing is quite strong and the Lashed objects themselves usually break apart before the bond does. A skilled wielder of Adhesion knows which objects (and their parts) stand up best to attempts to separate them.
 
-A character can try to break apart two objects you’ve Lashed together. To do so, they [[Actions/Basic/Use A Skill|Use a Skill]] to make an Athletics test opposed by your Adhesion. If they succeed, they break the Lashing (or the object, at the GM’s discretion) and the infusion ends.
+A character can try to break apart two objects you’ve Lashed together. To do so, they [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Use A Skill|Use a Skill]] to make an Athletics test opposed by your Adhesion. If they succeed, they break the Lashing (or the object, at the GM’s discretion) and the infusion ends.
 
 ## Adhesion Talents
 
@@ -265,7 +265,7 @@ In addition to the basic surge rules above, this section provides more guidance 
 
 ### Shaping Stone
 
-You can touch Cohesion-infused stone and mold it into any shape you desire; when that infusion ends, the stone resolidifies in its new shape, strong as before. You can briefly shape the stone when you activate the surge, but more elaborate reshaping requires additional time. In combat, this usually requires an additional action to Interact (for moderate reshaping) or [[Actions/Basic/Use A Skill|Use a Skill]] (if your creation is intricate enough to require a Cohesion skill test; the GM sets the DC based on how elaborate of an object you’re creating). At the GM’s discretion, some shaping tasks might take significantly more time, potentially requiring labor outside of combat.
+You can touch Cohesion-infused stone and mold it into any shape you desire; when that infusion ends, the stone resolidifies in its new shape, strong as before. You can briefly shape the stone when you activate the surge, but more elaborate reshaping requires additional time. In combat, this usually requires an additional action to Interact (for moderate reshaping) or [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Use A Skill|Use a Skill]] (if your creation is intricate enough to require a Cohesion skill test; the GM sets the DC based on how elaborate of an object you’re creating). At the GM’s discretion, some shaping tasks might take significantly more time, potentially requiring labor outside of combat.
 
 ### Cohesion on Others
 
@@ -275,7 +275,7 @@ You can use this surge in countless creative ways, and it’s up to you and your
 
 ### Escaping Solid Stone
 
-When a Cohesion infusion runs out, the stone returns to its previously rigid state. When this happens, any character or object at least partially within it becomes [[Stormlight Handbook/10 - Ch 9 Adventuring#Immobilized|Immobilized]]; if enough of their body is encased, they might also become [[Stormlight Handbook/10 - Ch 9 Adventuring#Restrained|Restrained]]. To free such a character or object, the trapped character or another character within reach must [[Actions/Basic/Use A Skill|Use a Skill]], making an Athletics test opposed by your Cohesion. If they succeed, they slip out. Otherwise, they must be dug out, which can take 10 minutes or much longer, depending on the situation.
+When a Cohesion infusion runs out, the stone returns to its previously rigid state. When this happens, any character or object at least partially within it becomes [[Stormlight Handbook/10 - Ch 9 Adventuring#Immobilized|Immobilized]]; if enough of their body is encased, they might also become [[Stormlight Handbook/10 - Ch 9 Adventuring#Restrained|Restrained]]. To free such a character or object, the trapped character or another character within reach must [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Use A Skill|Use a Skill]], making an Athletics test opposed by your Cohesion. If they succeed, they slip out. Otherwise, they must be dug out, which can take 10 minutes or much longer, depending on the situation.
 
 ## Cohesion Talents
 
@@ -375,7 +375,7 @@ In addition to the basic surge rules above, this section provides more guidance 
 
 Performing a Basic Lashing on an unwilling character is challenging. To do so, make a Gravitation test against the target’s Physical defense. On a success, spend 1 Investiture to move the target up to your gravitation rate in a direction of your choosing.
 
-When you move an unwilling target in this way, they become [[Stormlight Handbook/10 - Ch 9 Adventuring#Restrained|Restrained]] until the start of your next turn. During this movement, if the target passes within reach of an object or surface at least one size larger than them, they can attempt to grab it by using the [[Actions/Basic/Avoid Danger|Avoid Danger]] reaction to make an Agility test opposed by your Gravitation (their [[Stormlight Handbook/10 - Ch 9 Adventuring#Restrained|Restrained]] condition doesn’t impose a disadvantage on this test). If your target succeeds, they stop moving; while they continue holding on, you can’t move them further with this infusion.
+When you move an unwilling target in this way, they become [[Stormlight Handbook/10 - Ch 9 Adventuring#Restrained|Restrained]] until the start of your next turn. During this movement, if the target passes within reach of an object or surface at least one size larger than them, they can attempt to grab it by using the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Avoid Danger|Avoid Danger]] reaction to make an Agility test opposed by your Gravitation (their [[Stormlight Handbook/10 - Ch 9 Adventuring#Restrained|Restrained]] condition doesn’t impose a disadvantage on this test). If your target succeeds, they stop moving; while they continue holding on, you can’t move them further with this infusion.
 
 ### Tricky Maneuvers
 

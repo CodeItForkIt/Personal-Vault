@@ -12,7 +12,7 @@ aliases: ["Leveraging Brace"]
 
 *You use the weight of a larger object to augment your own.*
 
-While you’re benefiting from the [[Actions/Basic/Brace|Brace]] action using an object or structure larger than yourself, you gain the following benefits:
+While you’re benefiting from the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Brace|Brace]] action using an object or structure larger than yourself, you gain the following benefits:
 
 - You can use that object’s size, instead of your own, to determine the effects of the **Ironpull** and **Steelpush** actions.
 

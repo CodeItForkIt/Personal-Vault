@@ -12,4 +12,4 @@ aliases: ["Sparked Aid"]
 
 *Tapping mental speed stretches out moments for you, enabling you to more precisely guide your allies.*
 
-When you use the [[Actions/Basic/Aid|Aid]] reaction while tapping mental speed, your ally gains an additional benefit: After they roll the dice for their test, they can choose one of those dice, other than the plot die, and gain a bonus to its result equal to your ranks in **Feruchemy**.
+When you use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Aid|Aid]] reaction while tapping mental speed, your ally gains an additional benefit: After they roll the dice for their test, they can choose one of those dice, other than the plot die, and gain a bonus to its result equal to your ranks in **Feruchemy**.

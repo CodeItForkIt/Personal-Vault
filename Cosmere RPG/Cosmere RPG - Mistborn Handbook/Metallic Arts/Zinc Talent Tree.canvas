@@ -1,177 +1,27 @@
 {
-  "nodes": [
-    {
-      "id": "Rd6xPHiw32f6WIbv",
-      "type": "file",
-      "file": "Metallic Arts/Zinc/Talents/Allomancy/Crowd Control.md",
-      "x": 0,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "YHnaaoTHm8C4fBel",
-      "type": "file",
-      "file": "Metallic Arts/Zinc/Talents/Allomancy/Overwhelming Aggression.md",
-      "x": 0,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "0ZLVnDXJqPoIWC0C",
-      "type": "file",
-      "file": "Metallic Arts/Zinc/Talents/Feruchemy/Sparked Aid.md",
-      "x": 0,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "WmoqGvd2Y13HNIjp",
-      "type": "file",
-      "file": "Metallic Arts/Zinc/Talents/Feruchemy/Think Again.md",
-      "x": 0,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "oNczIAInkprXwp3L",
-      "type": "file",
-      "file": "Metallic Arts/Zinc/Talents/Feruchemy/Accelerated Reflexes.md",
-      "x": 340,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "YxcB0IS7yG99qNxt",
-      "type": "file",
-      "file": "Metallic Arts/Zinc/Talents/Feruchemy/Eureka Moment.md",
-      "x": 340,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "soTEYwwTB9HIqFCN",
-      "type": "file",
-      "file": "Metallic Arts/Zinc/Talents/Allomancy/Precise Influence.md",
-      "x": 340,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "fiuHDGh78zIowr6d",
-      "type": "file",
-      "file": "Metallic Arts/Zinc/Talents/Feruchemy/Quick Thinking.md",
-      "x": 340,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "Cv72suSWX8tmLV44",
-      "type": "file",
-      "file": "Metallic Arts/Zinc/Talents/Allomancy/Riot Resolve.md",
-      "x": 340,
-      "y": 480,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "iXhB7jXfAUa2vHX4",
-      "type": "file",
-      "file": "Metallic Arts/Zinc/Talents/Allomancy/Profound Verve.md",
-      "x": 680,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "yNwiVMc86kk1O1Tl",
-      "type": "file",
-      "file": "Metallic Arts/Zinc/Talents/Allomancy/Subtle Manipulation.md",
-      "x": 680,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "9fLbzG0EfgqvMxQR",
-      "type": "file",
-      "file": "Metallic Arts/Zinc/Talents/Feruchemy/True Sparking.md",
-      "x": 680,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    }
-  ],
-  "edges": [
-    {
-      "id": "edge0",
-      "fromNode": "oNczIAInkprXwp3L",
-      "fromSide": "right",
-      "toNode": "9fLbzG0EfgqvMxQR",
-      "toSide": "left"
-    },
-    {
-      "id": "edge1",
-      "fromNode": "fiuHDGh78zIowr6d",
-      "fromSide": "right",
-      "toNode": "9fLbzG0EfgqvMxQR",
-      "toSide": "left"
-    },
-    {
-      "id": "edge2",
-      "fromNode": "YHnaaoTHm8C4fBel",
-      "fromSide": "right",
-      "toNode": "Cv72suSWX8tmLV44",
-      "toSide": "left"
-    },
-    {
-      "id": "edge3",
-      "fromNode": "WmoqGvd2Y13HNIjp",
-      "fromSide": "right",
-      "toNode": "YxcB0IS7yG99qNxt",
-      "toSide": "left"
-    },
-    {
-      "id": "edge4",
-      "fromNode": "WmoqGvd2Y13HNIjp",
-      "fromSide": "right",
-      "toNode": "fiuHDGh78zIowr6d",
-      "toSide": "left"
-    },
-    {
-      "id": "edge5",
-      "fromNode": "Cv72suSWX8tmLV44",
-      "fromSide": "right",
-      "toNode": "iXhB7jXfAUa2vHX4",
-      "toSide": "left"
-    },
-    {
-      "id": "edge6",
-      "fromNode": "0ZLVnDXJqPoIWC0C",
-      "fromSide": "right",
-      "toNode": "oNczIAInkprXwp3L",
-      "toSide": "left"
-    },
-    {
-      "id": "edge7",
-      "fromNode": "Rd6xPHiw32f6WIbv",
-      "fromSide": "right",
-      "toNode": "soTEYwwTB9HIqFCN",
-      "toSide": "left"
-    },
-    {
-      "id": "edge8",
-      "fromNode": "soTEYwwTB9HIqFCN",
-      "fromSide": "right",
-      "toNode": "yNwiVMc86kk1O1Tl",
-      "toSide": "left"
-    }
-  ]
+	"nodes":[
+		{"id":"Rd6xPHiw32f6WIbv","type":"file","file":"Metallic Arts/Zinc/Talents/Allomancy/Crowd Control.md","x":0,"y":0,"width":280,"height":90},
+		{"id":"YHnaaoTHm8C4fBel","type":"file","file":"Metallic Arts/Zinc/Talents/Allomancy/Overwhelming Aggression.md","x":0,"y":120,"width":280,"height":90},
+		{"id":"0ZLVnDXJqPoIWC0C","type":"file","file":"Metallic Arts/Zinc/Talents/Feruchemy/Sparked Aid.md","x":0,"y":240,"width":280,"height":90},
+		{"id":"WmoqGvd2Y13HNIjp","type":"file","file":"Metallic Arts/Zinc/Talents/Feruchemy/Think Again.md","x":0,"y":360,"width":280,"height":90},
+		{"id":"oNczIAInkprXwp3L","type":"file","file":"Metallic Arts/Zinc/Talents/Feruchemy/Accelerated Reflexes.md","x":340,"y":0,"width":280,"height":90},
+		{"id":"YxcB0IS7yG99qNxt","type":"file","file":"Metallic Arts/Zinc/Talents/Feruchemy/Eureka Moment.md","x":340,"y":120,"width":280,"height":90},
+		{"id":"soTEYwwTB9HIqFCN","type":"file","file":"Metallic Arts/Zinc/Talents/Allomancy/Precise Influence.md","x":340,"y":240,"width":280,"height":90},
+		{"id":"fiuHDGh78zIowr6d","type":"file","file":"Metallic Arts/Zinc/Talents/Feruchemy/Quick Thinking.md","x":340,"y":360,"width":280,"height":90},
+		{"id":"Cv72suSWX8tmLV44","type":"file","file":"Metallic Arts/Zinc/Talents/Allomancy/Riot Resolve.md","x":340,"y":480,"width":280,"height":90},
+		{"id":"iXhB7jXfAUa2vHX4","type":"file","file":"Metallic Arts/Zinc/Talents/Allomancy/Profound Verve.md","x":680,"y":0,"width":280,"height":90},
+		{"id":"yNwiVMc86kk1O1Tl","type":"file","file":"Metallic Arts/Zinc/Talents/Allomancy/Subtle Manipulation.md","x":680,"y":120,"width":280,"height":90},
+		{"id":"9fLbzG0EfgqvMxQR","type":"file","file":"Metallic Arts/Zinc/Talents/Feruchemy/True Sparking.md","x":680,"y":240,"width":280,"height":90}
+	],
+	"edges":[
+		{"id":"edge0","fromNode":"oNczIAInkprXwp3L","fromSide":"right","toNode":"9fLbzG0EfgqvMxQR","toSide":"left"},
+		{"id":"edge1","fromNode":"fiuHDGh78zIowr6d","fromSide":"right","toNode":"9fLbzG0EfgqvMxQR","toSide":"left"},
+		{"id":"edge2","fromNode":"YHnaaoTHm8C4fBel","fromSide":"right","toNode":"Cv72suSWX8tmLV44","toSide":"left"},
+		{"id":"edge3","fromNode":"WmoqGvd2Y13HNIjp","fromSide":"right","toNode":"YxcB0IS7yG99qNxt","toSide":"left"},
+		{"id":"edge4","fromNode":"WmoqGvd2Y13HNIjp","fromSide":"right","toNode":"fiuHDGh78zIowr6d","toSide":"left"},
+		{"id":"edge5","fromNode":"Cv72suSWX8tmLV44","fromSide":"right","toNode":"iXhB7jXfAUa2vHX4","toSide":"left"},
+		{"id":"edge6","fromNode":"0ZLVnDXJqPoIWC0C","fromSide":"right","toNode":"oNczIAInkprXwp3L","toSide":"left"},
+		{"id":"edge7","fromNode":"Rd6xPHiw32f6WIbv","fromSide":"right","toNode":"soTEYwwTB9HIqFCN","toSide":"left"},
+		{"id":"edge8","fromNode":"soTEYwwTB9HIqFCN","fromSide":"right","toNode":"yNwiVMc86kk1O1Tl","toSide":"left"}
+	]
 }

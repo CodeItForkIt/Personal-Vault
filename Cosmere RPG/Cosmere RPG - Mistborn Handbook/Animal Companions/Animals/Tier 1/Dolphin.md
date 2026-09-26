@@ -16,7 +16,7 @@ aliases: ["Dolphin"]
 **Skills:** AGI 1, ATH 2, PRC 2, SUR 2
 
 ### Slippery
-The Dolphin doesn’t trigger [[Actions/Basic/Reactive Strike|Reactive Strikes]] while swimming.
+The Dolphin doesn’t trigger [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Reactive Strike|Reactive Strikes]] while swimming.
 
 ### Jumper
 The Dolphin can jump twice as far as usual without making a test.
@@ -34,7 +34,7 @@ The Dolphin can jump twice as far as usual without making a test.
 While within 5 feet of an ally, the Dolphin can use the Gain Advantage action as 0.
 
 ### On the Hunt
-After an enemy within 30 feet of the Dolphin falls [[Mistborn Handbook/10 - Ch 9 Adventuring#Prone|Prone]], the Dolphin moves up to half their movement rate toward them.
+After an enemy within 30 feet of the Dolphin falls [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Prone|Prone]], the Dolphin moves up to half their movement rate toward them.
 
 ### Enhanced Senses
 The Dolphin gains an advantage on non-attack tests that rely on sight.

@@ -12,4 +12,4 @@ aliases: ["Instill Confidence"]
 
 *Your presence brings clarity and encouragement, keeping others focused on their goal.*
 
-When you use your [[Heroic Paths/Envoy/Rousing Presence|Rousing Presence]], instead of the target becoming **Determined**, you can make them **Focused** until the end of the scene.
+When you use your [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Rousing Presence|Rousing Presence]], instead of the target becoming **Determined**, you can make them **Focused** until the end of the scene.

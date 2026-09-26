@@ -12,4 +12,4 @@ aliases: ["Through the Fray"]
 
 *You skillfully spot opportunities to gain the upper hand, coordinating with your allies as they spring into action.*
 
-Choose an ally you can influence within 20 feet of you. Before the end of your turn, they can use the [[Actions/Basic/Disengage|Disengage]] or [[Actions/Basic/Gain Advantage|Gain Advantage]] action as r.
+Choose an ally you can influence within 20 feet of you. Before the end of your turn, they can use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Disengage|Disengage]] or [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Gain Advantage|Gain Advantage]] action as r.

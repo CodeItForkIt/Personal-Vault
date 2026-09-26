@@ -57,7 +57,7 @@ Conversations in the game unfold much like those in real life, as characters pon
 
 ## Flexible Rounds
 
-While you’ll find yourself in many conversations that are less than polite, it’s important that out of character, everyone still has fun and feels involved. Characters generally contribute one at a time (see “[[Mistborn Handbook/12 - Ch 11 Conversations#Contributions|Contributions]]”), and everyone in the scene should have a chance to participate. When everyone has had a chance to contribute (if they want to), this counts as one “round” of the conversation. This isn’t as structured as a round of combat, but it helps with timing your abilities and other game effects.
+While you’ll find yourself in many conversations that are less than polite, it’s important that out of character, everyone still has fun and feels involved. Characters generally contribute one at a time (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/12 - Ch 11 Conversations#Contributions|Contributions]]”), and everyone in the scene should have a chance to participate. When everyone has had a chance to contribute (if they want to), this counts as one “round” of the conversation. This isn’t as structured as a round of combat, but it helps with timing your abilities and other game effects.
 
 It’s a good idea for the GM to check back in with each player if their character hasn’t weighed in recently. If a character’s last contribution was to lean stoically against the back wall while others do the talking, the group should check if that’s what the player wants to continue doing.
 
@@ -71,11 +71,11 @@ How a given contribution is resolved depends on what you’re attempting to acco
 
 Most contributions work toward one of these five outcomes:
 
-**Influence a Person.** Many contributions attempt to influence another person through lies, logic, intimidation, or other means; after all, exerting influence is the goal of most conversations. To change a character’s opinion or behavior, you’ll generally make a skill test with a DC equal to their Spiritual or Cognitive defense (depending on the skill used). Depending on the circumstances, the GM might increase or decrease that DC, and you might gain an advantage or disadvantage based on your approach. Even on a successful test, the other person might temporarily resist your influence by spending focus (see the upcoming “[[Mistborn Handbook/12 - Ch 11 Conversations|Focus in Conversations]]” section).
+**Influence a Person.** Many contributions attempt to influence another person through lies, logic, intimidation, or other means; after all, exerting influence is the goal of most conversations. To change a character’s opinion or behavior, you’ll generally make a skill test with a DC equal to their Spiritual or Cognitive defense (depending on the skill used). Depending on the circumstances, the GM might increase or decrease that DC, and you might gain an advantage or disadvantage based on your approach. Even on a successful test, the other person might temporarily resist your influence by spending focus (see the upcoming “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/12 - Ch 11 Conversations|Focus in Conversations]]” section).
 
 **Help or Hinder Efforts.** Conversation can be a group effort, so you might help by augmenting an ally’s arguments or undercutting an opponent’s position. This contribution usually grants your ally an advantage—or your opponent a disadvantage— on their next test in the conversation.
 
-**Bolster an Ally.** You can encourage, reassure, or otherwise bolster another person in the conversation. This usually results in your target recovering a bit of focus (as determined by the GM). This is a valuable boon, as focus represents each person’s resolve and patience for the conversation (see “[[Mistborn Handbook/12 - Ch 11 Conversations|Focus in Conversations]]”).
+**Bolster an Ally.** You can encourage, reassure, or otherwise bolster another person in the conversation. This usually results in your target recovering a bit of focus (as determined by the GM). This is a valuable boon, as focus represents each person’s resolve and patience for the conversation (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/12 - Ch 11 Conversations|Focus in Conversations]]”).
 
 **Gather Information.** You can scrutinize another person or the environment. Depending on difficulty, the GM might ask you to make a skill test against your target’s Spiritual or Cognitive defense (depending on the skill used), or they might simply give you the information you seek.
 
@@ -83,17 +83,17 @@ Most contributions work toward one of these five outcomes:
 
 ### When to Test
 
-If the outcome of your contribution is uncertain, or if it hinges on your skill, the GM will ask you to make a test (typically against the opponent’s defense in the same category as the skill). Nearly any skill can be used in a conversation at the GM’s discretion. The [[Mistborn Handbook/17 - Appendix 2 Tables|Contribution Test Examples]] table suggests some contributions that might require a test.
+If the outcome of your contribution is uncertain, or if it hinges on your skill, the GM will ask you to make a test (typically against the opponent’s defense in the same category as the skill). Nearly any skill can be used in a conversation at the GM’s discretion. The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Contribution Test Examples]] table suggests some contributions that might require a test.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Contribution Test Examples]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Contribution Test Examples]]
 
-The [[Mistborn Handbook/17 - Appendix 2 Tables|Conversation Opportunities and Complications]] table provides inspiration for tests that result in either of those.
+The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Conversation Opportunities and Complications]] table provides inspiration for tests that result in either of those.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Conversation Opportunities and Complications]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Conversation Opportunities and Complications]]
 
 ### Using Abilities in Conversations
 
-Though some talents, actions, and other abilities are focused on combat, you might find creative ways to use them for a contribution. Some abilities provide guidance for using them outside of combat (for example, see “[[Mistborn Handbook/07 - Ch 6 Metallic Arts#Metallic Art Durations|Metallic Art Durations]]” in chapter 6), while others are left to your creativity. It’s always up to the GM whether you can use an ability to contribute, and how.
+Though some talents, actions, and other abilities are focused on combat, you might find creative ways to use them for a contribution. Some abilities provide guidance for using them outside of combat (for example, see “[[07 - Ch 6 Metallic Arts#Metallic Art Durations|Metallic Art Durations]]” in chapter 6), while others are left to your creativity. It’s always up to the GM whether you can use an ability to contribute, and how.
 
 ![[pg333_HB11_Noble Gossip_Anna Pazyniuk.webp]]
 
@@ -115,11 +115,11 @@ Both NPCs and PCs tend to have a strong idea of who they are, and of what they 
 
 When a character succeeds on a socially oriented skill test against an opponent (or otherwise does some thing very persuasive), their opponent can choose to spend focus to **resist influence** . The amount of focus spent depends on how persuasive the GM decides the contribution is. If reasonably persuasive, an opponent must spend 2 focus to remain resolute. If an argument is extremely strong, the opponent must spend 4 focus.
 
-If the GM decides a particular argument is incredibly persuasive or hits on a topic an NPC is unlikely to resist, the NPC might choose to not resist at all. Otherwise, once the NPC runs out of focus, they generally concede or become open to compromise (see “[[Mistborn Handbook/12 - Ch 11 Conversations#Running Out of Focus|Running Out of Focus]]”).
+If the GM decides a particular argument is incredibly persuasive or hits on a topic an NPC is unlikely to resist, the NPC might choose to not resist at all. Otherwise, once the NPC runs out of focus, they generally concede or become open to compromise (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/12 - Ch 11 Conversations#Running Out of Focus|Running Out of Focus]]”).
 
 ### Resisting Mechanical Effects
 
-Any effect targeting a “character you can influence” can be resisted by that character (unless otherwise stated). If an effect doesn’t require the target to be influenceable, they generally can’t resist it; however, some effects (like the Scholar’s [[Heroic Paths/Scholar/Strategist/Talents/Keen Insight|Keen Insight]] talent) state that a target can resist the influence of that effect, even it isn’t an attempt to persuade the target.
+Any effect targeting a “character you can influence” can be resisted by that character (unless otherwise stated). If an effect doesn’t require the target to be influenceable, they generally can’t resist it; however, some effects (like the Scholar’s [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Strategist/Talents/Keen Insight|Keen Insight]] talent) state that a target can resist the influence of that effect, even it isn’t an attempt to persuade the target.
 
 Each effect that requires influence can be resisted by spending 2 focus, as if the effect were a socially oriented skill test.
 
@@ -183,17 +183,17 @@ At the outset of an Inquiry, the GM and players should discuss what information 
 
 If it comes to light that the information can be had for a price, an Inquiry might become a Negotiation.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Inquiry Opportunities and Complications]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Inquiry Opportunities and Complications]]
 
 ## Negotiation
 
 In a **Negotiation**, two or more interested groups are attempting to get something from each other, generally while expending as few resources as possible. Negotiations are a strange amalgam of competition and cooperation, with each side trying to levy every advantage at its disposal. However, for both sides to profit, there must be give and take, or one side might simply walk away.
 
-At the outset of a Negotiation, the GM and players should discuss what the players wish to attain, and the GM should consider what that might cost. If the PCs seek a material good or service, a price may be available in [[Mistborn Handbook/08 - Ch 7 Items|chapter 7]]. If they want something that’s more abstract, the price might be harder to quantify, but the GM should still start by deciding what the other party’s opening price is (such as a political favor, strategic alliance, or commitment to some cause).
+At the outset of a Negotiation, the GM and players should discuss what the players wish to attain, and the GM should consider what that might cost. If the PCs seek a material good or service, a price may be available in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|chapter 7]]. If they want something that’s more abstract, the price might be harder to quantify, but the GM should still start by deciding what the other party’s opening price is (such as a political favor, strategic alliance, or commitment to some cause).
 
 If one party stops dealing in good faith (or it’s revealed they never intended to uphold their end of the bargain), a Negotiation might become a Scheme.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Negotiation Opportunities and Complications]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Negotiation Opportunities and Complications]]
 
 ![[pg335_HB11_Talk Your Way Out of It_Jordan Kerbow.webp]]
 
@@ -207,7 +207,7 @@ If the PCs are scheming against an NPC, the GM should ask at the outset how the 
 
 If a Scheme is ever unveiled to all parties, the conversation likely ends. The ultimate outcome depends on the circumstances—combat might ensue, or the would-be marks might simply leave.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Scheme Opportunities and Complications]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Scheme Opportunities and Complications]]
 
 ## Social
 
@@ -215,7 +215,7 @@ During a **Social** conversation, characters seek to form bonds, impress potenti
 
 If one or more groups decide to pursue agendas, socializing can shift into any other conversation type as the GM and players see fit.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Socializing Opportunities and Complications]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Socializing Opportunities and Complications]]
 
 ![[pg336_HB11_Plotting at the Ball_ITSJUSTHIEU.webp]]
 

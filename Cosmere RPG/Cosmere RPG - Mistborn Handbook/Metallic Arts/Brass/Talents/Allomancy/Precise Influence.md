@@ -12,6 +12,6 @@ aliases: ["Precise Influence"]
 
 *Limiting emotional Allomancy to a single target is difficult, but you’ve become surgical in your use of it.*
 
-It costs you one fewer 1 to [[Metallic Arts/Brass/Brass Allomancy|Burn Brass]] or **Burn Zinc**.
+It costs you one fewer 1 to [[Brass Allomancy|Burn Brass]] or **Burn Zinc**.
 
 Additionally, when you burn brass or zinc to influence characters in an area, you can choose any number of targets you’re aware of to remain unaffected by the power.

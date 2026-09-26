@@ -26,15 +26,15 @@ Thoughtful, careful, and cautious, Elsecallers are typically viewed as the wises
 >
 > While the Order of Elsecallers accepts all who genuinely wish to improve themselves, the order’s combination of surges is particularly powerful in the hands of a quick and strategic mind. It also appeals to those who wish to aid others in journeys of self-improvement. As such, the following heroic paths can be excellent precursors to the Elsecaller Radiant path:
 >
-> - [[Heroic Paths/Agent/Agent|Agent]] (Investigator)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Agent|Agent]] (Investigator)
 >
-> - [[Heroic Paths/Envoy/Envoy|Envoy]] (Faithful or Mentor)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Envoy|Envoy]] (Faithful or Mentor)
 >
-> - [[Heroic Paths/Leader/Leader|Leader]] (Officer)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Leader|Leader]] (Officer)
 >
-> - [[Heroic Paths/Scholar/Scholar|Scholar]] (Strategist or Surgeon)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Scholar|Scholar]] (Strategist or Surgeon)
 >
-> - [[Heroic Paths/Warrior/Warrior|Warrior]] (Soldier)
+> - [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Warrior|Warrior]] (Soldier)
 
 ### Elsecaller History
 

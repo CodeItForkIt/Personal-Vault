@@ -12,4 +12,4 @@ aliases: ["Right Time"]
 
 *Timing is everything. You prepare and stay alert, ready to spring into action when the time comes.*
 
-While tapping Fortune, you can use the [[Actions/Basic/Ready|Ready]] action as 0, spending action points as usual for the action you’re readying.
+While tapping Fortune, you can use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Ready|Ready]] action as 0, spending action points as usual for the action you’re readying.

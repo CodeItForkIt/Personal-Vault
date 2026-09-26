@@ -12,6 +12,6 @@ aliases: ["Mind and Body"]
 
 *You expand your intensive studies to include martial arts and fitness in addition to the cerebral arts.*
 
-When you acquire this talent, your [[Heroic Paths/Scholar/Erudition|Erudition]] talent grants you an additional skill, and you can use [[Heroic Paths/Scholar/Erudition|Erudition]] to choose physical skills that aren’t Invested skills.
+When you acquire this talent, your [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Erudition|Erudition]] talent grants you an additional skill, and you can use [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Erudition|Erudition]] to choose physical skills that aren’t Invested skills.
 
 Additionally, gain one weapon expertise of your choice.

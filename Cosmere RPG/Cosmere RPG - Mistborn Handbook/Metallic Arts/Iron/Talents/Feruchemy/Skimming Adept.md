@@ -14,4 +14,4 @@ aliases: ["Skimming Adept"]
 
 Before an action or other effect occurs that could be affected by you storing or tapping weight, you can spend 1 focus to **Store Weight** or **Tap Weight** (no action required).
 
-For example, you could do so before activating an [[Metallic Arts/Iron/Iron Feruchemy|Iron Feruchemy]] talent that requires you to be storing or tapping weight, or you could do so before making an attack, being attacked or forcibly moved, or falling.
+For example, you could do so before activating an [[Iron Feruchemy|Iron Feruchemy]] talent that requires you to be storing or tapping weight, or you could do so before making an attack, being attacked or forcibly moved, or falling.

@@ -24,18 +24,18 @@ The Envoy path presents talents within three specialties:
 
 ## Building an Envoy
 
-The following “[[Mistborn Handbook/05 - Ch 4 Heroic Paths#Envoys of Scadrial|Envoys of Scadrial]]” section suggests example builds for iconic characters. If you have a different idea in mind, consider these general tips for building an effective Envoy:
+The following “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths#Envoys of Scadrial|Envoys of Scadrial]]” section suggests example builds for iconic characters. If you have a different idea in mind, consider these general tips for building an effective Envoy:
 
 **Attributes.** It’s usually a good idea to prioritize **Presence** and **Willpower**.
 
 **Skills.** **Discipline** is an essential skill for most Envoys. Other useful skills include **Deception**, **Leadership**, **Lore**, and **Persuasion**.
 
-**Other Heroic Paths.** The [[Heroic Paths/Agent/Agent|Agent]], [[Heroic Paths/Leader/Leader|Leader]], and [[Heroic Paths/Scholar/Scholar|Scholar]] paths make excellent multi-path choices.
+**Other Heroic Paths.** The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Agent|Agent]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Leader|Leader]], and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Scholar|Scholar]] paths make excellent multi-path choices.
 
 **Rewards.** When choosing rewards, you can’t go wrong with influential patrons.
 
 ## Envoy Key Talent
 
-The Envoy key talent, [[Heroic Paths/Envoy/Rousing Presence|Rousing Presence]], unlocks access to the Envoy specialties.
+The Envoy key talent, [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Rousing Presence|Rousing Presence]], unlocks access to the Envoy specialties.
 
 **Starting Skill: Discipline.** If you choose Envoy as your starting path, gain a free skill rank in **Discipline**.

@@ -12,9 +12,9 @@ aliases: ["Proficient Operator"]
 
 *You easily complete tasks that would frazzle others while under pressure.*
 
-When you attempt a complex task under pressure, you don’t have to [[Actions/Basic/Use A Skill|Use a Skill]] and succeed on a test if it’s a task you could reliably and quickly complete in a more relaxing situation. Instead, you can use the [[Actions/Basic/Interact|Interact]] action as if you weren’t acting under pressure.
+When you attempt a complex task under pressure, you don’t have to [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Use A Skill|Use a Skill]] and succeed on a test if it’s a task you could reliably and quickly complete in a more relaxing situation. Instead, you can use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Interact|Interact]] action as if you weren’t acting under pressure.
 
-For example, you might [[Actions/Basic/Interact|Interact]] to accomplish one of the following tasks in a stressful situation:
+For example, you might [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Interact|Interact]] to accomplish one of the following tasks in a stressful situation:
 
 - Tie a complex knot.
 

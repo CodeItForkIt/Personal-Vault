@@ -22,18 +22,18 @@ The Leader path presents talents within three specialties:
 
 ## Building a Leader
 
-The following “[[Mistborn Handbook/05 - Ch 4 Heroic Paths#Leaders of Scadrial|Leaders of Scadrial]]” section suggests example builds for iconic characters. If you have a different idea in mind, consider these general tips for building an effective Leader:
+The following “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths#Leaders of Scadrial|Leaders of Scadrial]]” section suggests example builds for iconic characters. If you have a different idea in mind, consider these general tips for building an effective Leader:
 
 **Attributes.** For a combat-oriented leader, prioritize **Presence**, **Strength**, and **Willpower**. For leaders of social or business groups, prioritize Intellect and Awareness.
 
 **Skills.** Useful skills include **Athletics**, **Deception**, **Deduction**, **Heavy Weaponry** or **Light Weaponry**, **Intimidation**, **Leadership**, and **Persuasion**.
 
-**Other Heroic Paths.** The [[Heroic Paths/Agent/Agent|Agent]], [[Heroic Paths/Envoy/Envoy|Envoy]], and [[Heroic Paths/Warrior/Warrior|Warrior]] paths all make excellent multi-path choices, depending on your goals.
+**Other Heroic Paths.** The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Agent|Agent]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Envoy|Envoy]], and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Warrior|Warrior]] paths all make excellent multi-path choices, depending on your goals.
 
 **Rewards.** When choosing rewards, you could benefit from a fancy carriage, influential connections, or resources to hire skilled fighters.
 
 ## Leader Key Talent
 
-The Leader key talent, [[Heroic Paths/Leader/Decisive Command|Decisive Command]], unlocks access to the Leader specialties.
+The Leader key talent, [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Decisive Command|Decisive Command]], unlocks access to the Leader specialties.
 
 **Starting Skill: Leadership.** If you choose Leader as your starting path, gain a free skill rank in **Leadership**.

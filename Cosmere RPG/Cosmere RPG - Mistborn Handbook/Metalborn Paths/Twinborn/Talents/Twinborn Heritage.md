@@ -14,11 +14,11 @@ aliases: ["Twinborn Heritage"]
 
 When you acquire this talent, you discover your heritage as a Twinborn, gaining the following benefits:
 
-- You gain access to Investiture, beginning with a maximum Investiture of 2 + your **Awareness** or **Presence** (whichever is higher). You can now use the [[Actions/Metallic Arts/Allomancy/Drink Vial|Drink Vial]] action.
+- You gain access to Investiture, beginning with a maximum Investiture of 2 + your **Awareness** or **Presence** (whichever is higher). You can now use the [[Drink Vial|Drink Vial]] action.
 
 - You gain the **Allomancy** and **Feruchemy** skills on your character sheet, starting with 1 rank in both. **Allomancy** uses your **Willpower** attribute, and **Feruchemy** uses your **Intellect** attribute.
 
-- Choose one Allomantic power and one Feruchemical power available in your era (see “[[Mistborn Handbook/07 - Ch 6 Metallic Arts|Metals of Scadrial]]” in chapter 6). You can only use the nascent version of these powers for now.
+- Choose one Allomantic power and one Feruchemical power available in your era (see “[[07 - Ch 6 Metallic Arts|Metals of Scadrial]]” in chapter 6). You can only use the nascent version of these powers for now.
 
 Additionally, you gain the Metalborn goal “**Train Your Power.**” After completing this goal, you gain its reward: You unlock the full version of your Allomantic power and can choose talents from its talent tree in chapter 6.
 

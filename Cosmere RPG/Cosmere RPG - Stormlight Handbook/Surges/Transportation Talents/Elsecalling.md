@@ -12,7 +12,7 @@ aliases: ["Elsecalling"]
 
 *You temporarily open a miniature perpendicularity that allows you to travel between the Cognitive and Physical Realms.*
 
-You can transport yourself from the Physical Realm to the same location within the Cognitive Realm, or vice versa, along with each object you’re wearing or carrying. This movement doesn’t trigger [[Actions/Basic/Reactive Strike|Reactive Strikes]].
+You can transport yourself from the Physical Realm to the same location within the Cognitive Realm, or vice versa, along with each object you’re wearing or carrying. This movement doesn’t trigger [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Reactive Strike|Reactive Strikes]].
 
 If you’re in the Physical Realm, spend 1 Investiture to transport yourself to the Cognitive Realm. Elsecalling in this way is simple, requiring no skill test.
 

@@ -12,7 +12,7 @@ aliases: ["Allomantic Savantism"]
 
 *By consistently flaring your metal for extended periods, you’ve fundamentally altered your physiology, infusing your very being with Investiture. Your Allomantic power is extremely potent—but this comes at a cost, for when you lose access to your metal, the effects of withdrawal can be severe.*
 
-You gain the goal “[[Metalborn Paths/Misting/Goals/Become A Savant|Become a Savant]]” for the power granted by your [[Metalborn Paths/Misting/Talents/Misting Snap|Misting Snap]] key talent. You can advance this goal once after spending at least 7 days near-constantly burning your metal; you can only advance it once per session. Alternatively, at the GM’s discretion, you might instead be able to advance your goal twice if you flare your metal each time you use your power (by spending most or all of your Investiture each time).
+You gain the goal “[[Become A Savant|Become a Savant]]” for the power granted by your [[Misting Snap|Misting Snap]] key talent. You can advance this goal once after spending at least 7 days near-constantly burning your metal; you can only advance it once per session. Alternatively, at the GM’s discretion, you might instead be able to advance your goal twice if you flare your metal each time you use your power (by spending most or all of your Investiture each time).
 
 After you complete this goal, you gain the following reward:
 

@@ -12,6 +12,6 @@ aliases: ["Reflexive Cover"]
 
 *You’re ready to provide Allomantic cover at a moment’s notice.*
 
-Before a character you can sense uses an Invested ability you’re aware of that can be blocked by a coppercloud (such as [[Metallic Arts/Bronze/Bronze Allomancy|Bronze Allomancy]]), you can use this reaction and spend 1 focus to **Burn Copper**, spending Investiture as usual.
+Before a character you can sense uses an Invested ability you’re aware of that can be blocked by a coppercloud (such as [[Bronze Allomancy|Bronze Allomancy]]), you can use this reaction and spend 1 focus to **Burn Copper**, spending Investiture as usual.
 
 Additionally, you can use this reaction when you first become aware of the use of such an ability, even if it was activated before you were aware of it.

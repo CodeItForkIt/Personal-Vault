@@ -1,122 +1,20 @@
 {
-  "nodes": [
-    {
-      "id": "XQbWMKl0S5DfK45L",
-      "type": "file",
-      "file": "Metallic Arts/Cadmium/Talents/Feruchemy/Aerobic Excellence.md",
-      "x": 340,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "jxH4z9lQDyWXRLfl",
-      "type": "file",
-      "file": "Metallic Arts/Cadmium/Talents/Allomancy/Expedited Bubble.md",
-      "x": 340,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "qKqlbSr8LrhPvDxv",
-      "type": "file",
-      "file": "Metallic Arts/Cadmium/Talents/Feruchemy/Feruchemical Endurance.md",
-      "x": 340,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "hX7jBFdBdI2myKZG",
-      "type": "file",
-      "file": "Metallic Arts/Cadmium/Talents/Allomancy/Time Dilation.md",
-      "x": 340,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "UoDPs7h1I4jxpV0s",
-      "type": "file",
-      "file": "Metallic Arts/Cadmium/Talents/Feruchemy/Boosted Oxygenation.md",
-      "x": 0,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "rimBleIBkM4D8K5I",
-      "type": "file",
-      "file": "Metallic Arts/Cadmium/Talents/Feruchemy/Deprivation Training.md",
-      "x": 0,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "iMRAqjBWtp4xkR22",
-      "type": "file",
-      "file": "Metallic Arts/Cadmium/Talents/Allomancy/Expanded Bubble.md",
-      "x": 0,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "5G6zVWcj6UXTaFS5",
-      "type": "file",
-      "file": "Metallic Arts/Cadmium/Talents/Allomancy/Reflexive Bubble.md",
-      "x": 0,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "SBwVAWI9gpctPylW",
-      "type": "file",
-      "file": "Metallic Arts/Cadmium/Talents/Feruchemy/Recovery Burst.md",
-      "x": 680,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    }
-  ],
-  "edges": [
-    {
-      "id": "edge0",
-      "fromNode": "XQbWMKl0S5DfK45L",
-      "fromSide": "right",
-      "toNode": "SBwVAWI9gpctPylW",
-      "toSide": "left"
-    },
-    {
-      "id": "edge1",
-      "fromNode": "rimBleIBkM4D8K5I",
-      "fromSide": "right",
-      "toNode": "XQbWMKl0S5DfK45L",
-      "toSide": "left"
-    },
-    {
-      "id": "edge2",
-      "fromNode": "iMRAqjBWtp4xkR22",
-      "fromSide": "right",
-      "toNode": "hX7jBFdBdI2myKZG",
-      "toSide": "left"
-    },
-    {
-      "id": "edge3",
-      "fromNode": "5G6zVWcj6UXTaFS5",
-      "fromSide": "right",
-      "toNode": "jxH4z9lQDyWXRLfl",
-      "toSide": "left"
-    },
-    {
-      "id": "edge4",
-      "fromNode": "UoDPs7h1I4jxpV0s",
-      "fromSide": "right",
-      "toNode": "qKqlbSr8LrhPvDxv",
-      "toSide": "left"
-    }
-  ]
+	"nodes":[
+		{"id":"XQbWMKl0S5DfK45L","type":"file","file":"Metallic Arts/Cadmium/Talents/Feruchemy/Aerobic Excellence.md","x":340,"y":0,"width":280,"height":90},
+		{"id":"jxH4z9lQDyWXRLfl","type":"file","file":"Metallic Arts/Cadmium/Talents/Allomancy/Expedited Bubble.md","x":340,"y":120,"width":280,"height":90},
+		{"id":"qKqlbSr8LrhPvDxv","type":"file","file":"Metallic Arts/Cadmium/Talents/Feruchemy/Feruchemical Endurance.md","x":340,"y":240,"width":280,"height":90},
+		{"id":"hX7jBFdBdI2myKZG","type":"file","file":"Metallic Arts/Cadmium/Talents/Allomancy/Time Dilation.md","x":340,"y":360,"width":280,"height":90},
+		{"id":"UoDPs7h1I4jxpV0s","type":"file","file":"Metallic Arts/Cadmium/Talents/Feruchemy/Boosted Oxygenation.md","x":0,"y":0,"width":280,"height":90},
+		{"id":"rimBleIBkM4D8K5I","type":"file","file":"Metallic Arts/Cadmium/Talents/Feruchemy/Deprivation Training.md","x":0,"y":120,"width":280,"height":90},
+		{"id":"iMRAqjBWtp4xkR22","type":"file","file":"Metallic Arts/Cadmium/Talents/Allomancy/Expanded Bubble.md","x":0,"y":240,"width":280,"height":90},
+		{"id":"5G6zVWcj6UXTaFS5","type":"file","file":"Metallic Arts/Cadmium/Talents/Allomancy/Reflexive Bubble.md","x":0,"y":360,"width":280,"height":90},
+		{"id":"SBwVAWI9gpctPylW","type":"file","file":"Metallic Arts/Cadmium/Talents/Feruchemy/Recovery Burst.md","x":680,"y":0,"width":280,"height":90}
+	],
+	"edges":[
+		{"id":"edge0","fromNode":"XQbWMKl0S5DfK45L","fromSide":"right","toNode":"SBwVAWI9gpctPylW","toSide":"left"},
+		{"id":"edge1","fromNode":"rimBleIBkM4D8K5I","fromSide":"right","toNode":"XQbWMKl0S5DfK45L","toSide":"left"},
+		{"id":"edge2","fromNode":"iMRAqjBWtp4xkR22","fromSide":"right","toNode":"hX7jBFdBdI2myKZG","toSide":"left"},
+		{"id":"edge3","fromNode":"5G6zVWcj6UXTaFS5","fromSide":"right","toNode":"jxH4z9lQDyWXRLfl","toSide":"left"},
+		{"id":"edge4","fromNode":"UoDPs7h1I4jxpV0s","fromSide":"right","toNode":"qKqlbSr8LrhPvDxv","toSide":"left"}
+	]
 }

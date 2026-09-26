@@ -1,90 +1,16 @@
 {
-  "nodes": [
-    {
-      "id": "igAy6dxgXalB7rkl",
-      "type": "file",
-      "file": "Metallic Arts/Duralumin/Talents/Allomancy/Controlled Burst.md",
-      "x": 0,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "9FRNcOeVWm6EbZ3h",
-      "type": "file",
-      "file": "Metallic Arts/Duralumin/Talents/Feruchemy/Force of Personality.md",
-      "x": 0,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "aaXC8Trm6v5JE4mc",
-      "type": "file",
-      "file": "Metallic Arts/Duralumin/Talents/Feruchemy/Individual Connection.md",
-      "x": 0,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "ZqAJLL8nk2nzpfZ7",
-      "type": "file",
-      "file": "Metallic Arts/Duralumin/Talents/Allomancy/Selective Burst.md",
-      "x": 0,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "xdeAZpJ2KauHm7Uu",
-      "type": "file",
-      "file": "Metallic Arts/Duralumin/Talents/Feruchemy/Foe to Friend.md",
-      "x": 680,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "nugtwUaDUpfWgbw2",
-      "type": "file",
-      "file": "Metallic Arts/Duralumin/Talents/Feruchemy/Instant Bond.md",
-      "x": 340,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "MWZzieYyH8ZALJUV",
-      "type": "file",
-      "file": "Metallic Arts/Duralumin/Talents/Feruchemy/True Connecting.md",
-      "x": 340,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    }
-  ],
-  "edges": [
-    {
-      "id": "edge0",
-      "fromNode": "9FRNcOeVWm6EbZ3h",
-      "fromSide": "right",
-      "toNode": "MWZzieYyH8ZALJUV",
-      "toSide": "left"
-    },
-    {
-      "id": "edge1",
-      "fromNode": "aaXC8Trm6v5JE4mc",
-      "fromSide": "right",
-      "toNode": "nugtwUaDUpfWgbw2",
-      "toSide": "left"
-    },
-    {
-      "id": "edge2",
-      "fromNode": "nugtwUaDUpfWgbw2",
-      "fromSide": "right",
-      "toNode": "xdeAZpJ2KauHm7Uu",
-      "toSide": "left"
-    }
-  ]
+	"nodes":[
+		{"id":"igAy6dxgXalB7rkl","type":"file","file":"Metallic Arts/Duralumin/Talents/Allomancy/Controlled Burst.md","x":0,"y":0,"width":280,"height":90},
+		{"id":"9FRNcOeVWm6EbZ3h","type":"file","file":"Metallic Arts/Duralumin/Talents/Feruchemy/Force of Personality.md","x":0,"y":120,"width":280,"height":90},
+		{"id":"aaXC8Trm6v5JE4mc","type":"file","file":"Metallic Arts/Duralumin/Talents/Feruchemy/Individual Connection.md","x":0,"y":240,"width":280,"height":90},
+		{"id":"ZqAJLL8nk2nzpfZ7","type":"file","file":"Metallic Arts/Duralumin/Talents/Allomancy/Selective Burst.md","x":0,"y":360,"width":280,"height":90},
+		{"id":"xdeAZpJ2KauHm7Uu","type":"file","file":"Metallic Arts/Duralumin/Talents/Feruchemy/Foe to Friend.md","x":680,"y":0,"width":280,"height":90},
+		{"id":"nugtwUaDUpfWgbw2","type":"file","file":"Metallic Arts/Duralumin/Talents/Feruchemy/Instant Bond.md","x":340,"y":0,"width":280,"height":90},
+		{"id":"MWZzieYyH8ZALJUV","type":"file","file":"Metallic Arts/Duralumin/Talents/Feruchemy/True Connecting.md","x":340,"y":120,"width":280,"height":90}
+	],
+	"edges":[
+		{"id":"edge0","fromNode":"9FRNcOeVWm6EbZ3h","fromSide":"right","toNode":"MWZzieYyH8ZALJUV","toSide":"left"},
+		{"id":"edge1","fromNode":"aaXC8Trm6v5JE4mc","fromSide":"right","toNode":"nugtwUaDUpfWgbw2","toSide":"left"},
+		{"id":"edge2","fromNode":"nugtwUaDUpfWgbw2","fromSide":"right","toNode":"xdeAZpJ2KauHm7Uu","toSide":"left"}
+	]
 }

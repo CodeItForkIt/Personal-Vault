@@ -14,4 +14,4 @@ aliases: ["Golden Opportunities"]
 
 When you roll a blank on a plot die for **Burn Gold** or one of its talents, the blank instead counts as an Opportunity.
 
-Additionally, when you gain the [[Mistborn Handbook/10 - Ch 9 Adventuring#Focused|Focused]] condition from burning gold, it lasts for a number of rounds equal to your tier, instead of lasting until the start of your next turn.
+Additionally, when you gain the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Focused|Focused]] condition from burning gold, it lasts for a number of rounds equal to your tier, instead of lasting until the start of your next turn.

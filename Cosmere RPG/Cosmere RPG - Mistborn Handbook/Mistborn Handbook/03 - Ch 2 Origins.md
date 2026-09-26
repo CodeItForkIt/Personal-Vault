@@ -18,17 +18,17 @@ Your character’s life story begins long before your game does. You certainly d
 
 ## Considering Your Origins
 
-As you begin character creation, think about the winding path that led your character to the moment your adventures start. Who and where do they come from? What have they spent their time learning, either voluntarily or under duress? How does their personality inform their interests? Most importantly, what story do you want to set up with their origins? During [[Mistborn Handbook/02 - Ch 1 Character Creation#Step 7: Story|step 7]] of character creation, you’ll solidify these details, but thinking about them now can inspire your other character-building decisions.
+As you begin character creation, think about the winding path that led your character to the moment your adventures start. Who and where do they come from? What have they spent their time learning, either voluntarily or under duress? How does their personality inform their interests? Most importantly, what story do you want to set up with their origins? During [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation#Step 7: Story|step 7]] of character creation, you’ll solidify these details, but thinking about them now can inspire your other character-building decisions.
 
 Most enjoyable and fulfilling stories tend to focus less on the cool things a character can do, and more on the sacrifices they make and challenges they overcome to accomplish those cool things. Whether your character is Metalborn, kandra, or of more ordinary origins, their past likely includes some degree of hardship and perseverance. Keeping that in mind, it’s time to start crafting your character’s story, beginning with their origins.
 
 ## Ancestry and Culture
 
-During [[Mistborn Handbook/02 - Ch 1 Character Creation#Step 1: Origins|step 1]] of character creation, you choose your ancestry and the cultures that shaped you. The later sections of this chapter detail these choices and how they impact the rules of this game.
+During [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation#Step 1: Origins|step 1]] of character creation, you choose your ancestry and the cultures that shaped you. The later sections of this chapter detail these choices and how they impact the rules of this game.
 
 ## Story Considerations
 
-You’ll decide more about your story during [[Mistborn Handbook/02 - Ch 1 Character Creation#Step 7: Story|step 7]] of character creation, but you can start considering the following factors now. These don’t affect your game statistics, but they certainly shape who you are and how you respond to your adventures.
+You’ll decide more about your story during [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation#Step 7: Story|step 7]] of character creation, but you can start considering the following factors now. These don’t affect your game statistics, but they certainly shape who you are and how you respond to your adventures.
 
 ### Class
 
@@ -38,7 +38,7 @@ After the Catacendre, class membership was still determined by birth, but societ
 
 ### Occupation
 
-Depending on your character’s age and ability, you might decide on a past or present occupation. This experience doesn’t have to directly tie to your decisions or role in the party, but if you wish, it can inform many decisions. For example, your occupation might influence your later choice of talents. Your choice of starting equipment might reflect your occupation. And when you have a break between adventures, you might even ply your trade to earn boxings (see [[Mistborn Handbook/10 - Ch 9 Adventuring|Downtime]] in chapter 9).
+Depending on your character’s age and ability, you might decide on a past or present occupation. This experience doesn’t have to directly tie to your decisions or role in the party, but if you wish, it can inform many decisions. For example, your occupation might influence your later choice of talents. Your choice of starting equipment might reflect your occupation. And when you have a break between adventures, you might even ply your trade to earn boxings (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Downtime]] in chapter 9).
 
 Remember, your experience and prowess should correspond to your level. A 1st-level character wouldn’t yet be a crew leader, but you could work for a thieving crew with the appropriate expertise.
 
@@ -66,15 +66,15 @@ The main difference between ethnic groups was their potential for Metalborn abil
 
 After the Catacendre, Harmony restored any directly altered human genetics to their original state, and the ethnic segregation of the Final Empire ended, leading to more diverse and varied individuals. This also resulted in the emergence of Twinborn: rare individuals who manifested one Misting power and one Ferring power.
 
-The rules for human ancestry apply to all Scadrian humans, including Southern Scadrians who weren’t subject to the Final Empire. Metalborn abilities are represented by the talents in chapters [[Mistborn Handbook/06 - Ch 5 Metalborn Paths|5]] and [[Mistborn Handbook/07 - Ch 6 Metallic Arts|6]]. Meanwhile, ethnic history can be represented through your choice of expertises; the [[Mistborn Handbook/03 - Ch 2 Origins|Culture]] section of this chapter discusses the regions of Scadrial and the ethnicities of people who live there.
+The rules for human ancestry apply to all Scadrian humans, including Southern Scadrians who weren’t subject to the Final Empire. Metalborn abilities are represented by the talents in chapters [[06 - Ch 5 Metalborn Paths|5]] and [[07 - Ch 6 Metallic Arts|6]]. Meanwhile, ethnic history can be represented through your choice of expertises; the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/03 - Ch 2 Origins|Culture]] section of this chapter discusses the regions of Scadrial and the ethnicities of people who live there.
 
 ### Choosing Human Ancestry
 
 If you choose the **human ancestry**, your size is Medium, and you gain the following benefits at the specified levels:
 
-**Ancestry Bonus Talents (Level 1, 6, 11, 16, and 21).** During [[Mistborn Handbook/02 - Ch 1 Character Creation#Step 5: Talents|step 5]] of character creation, you gain one bonus talent. As a human, you must choose this talent from a heroic path (such as those in [[Mistborn Handbook/05 - Ch 4 Heroic Paths|chapter 4]]). When you reach a new tier (as indicated on the [[Mistborn Handbook/17 - Appendix 2 Tables|Character Advancement]] table in chapter 1), you again gain a bonus talent from a heroic path.
+**Ancestry Bonus Talents (Level 1, 6, 11, 16, and 21).** During [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation#Step 5: Talents|step 5]] of character creation, you gain one bonus talent. As a human, you must choose this talent from a heroic path (such as those in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths|chapter 4]]). When you reach a new tier (as indicated on the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Character Advancement]] table in chapter 1), you again gain a bonus talent from a heroic path.
 
-As usual, you must meet the prerequisites for these talents (see the “[[Mistborn Handbook/05 - Ch 4 Heroic Paths#Advancing Through a Path|Advancing Through a Path]]” section of chapter 4).
+As usual, you must meet the prerequisites for these talents (see the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths#Advancing Through a Path|Advancing Through a Path]]” section of chapter 4).
 
 @Link
 
@@ -86,7 +86,7 @@ As usual, you must meet the prerequisites for these talents (see the “[[Mistbo
 
 Created as immortal spies by the Lord Ruler, kandra are mistwraiths who were granted sapience via two Hemalurgic spikes called Blessings. The specific Blessing a kandra receives imbues them with particular benefits.
 
-In the [[Mistborn Handbook/03 - Ch 2 Origins|Culture]] section of this chapter, the Kandra Homeland expertise outlines information that all kandra have some familiarity with. You can learn even more about kandra in chapter 2 of the *Mistborn World Guide*.
+In the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/03 - Ch 2 Origins|Culture]] section of this chapter, the Kandra Homeland expertise outlines information that all kandra have some familiarity with. You can learn even more about kandra in chapter 2 of the *Mistborn World Guide*.
 
 ### Kandra Generations
 
@@ -102,7 +102,7 @@ In their natural state, kandra are gelatinous blobs of malleable, translucent fl
 
 Kandra bodies are usually indistinguishable from the body of the person they’ve mimicked, but there are some limits. Creating a body that’s too small constricts a kandra’s ability to think clearly. Creating a larger body requires a kandra to consume additional mass. Additionally, kandra can’t create hair and must use existing strands, placing each individually on their new body.
 
-When not in the form of another species, such as when among other kandra or in private, a kandra might wear their “True Body”—proudly displaying a favored set of artificial bones visible through the kandra’s translucent skin. These bones can be made of wood, stone, or more rarely, other materials such as crystal or glass. Older generations tend toward conservative, human-like True Bodies, but younger generations often create more exotic True Bodies or take on animal bones. (Your kandra character can earn a True Body as a reward, enhancing your attributes and granting other benefits, as described in [[Mistborn Handbook/09 - Ch 8 Goals and Rewards|chapter 8]].)
+When not in the form of another species, such as when among other kandra or in private, a kandra might wear their “True Body”—proudly displaying a favored set of artificial bones visible through the kandra’s translucent skin. These bones can be made of wood, stone, or more rarely, other materials such as crystal or glass. Older generations tend toward conservative, human-like True Bodies, but younger generations often create more exotic True Bodies or take on animal bones. (Your kandra character can earn a True Body as a reward, enhancing your attributes and granting other benefits, as described in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards|chapter 8]].)
 
 ### Kandra Contracts
 
@@ -110,23 +110,23 @@ After a kandra is created and receives their Blessing, they learn the First Cont
 
 In the early days of the Final Empire, the kandra created an additional Contract among themselves. Because humans feared the kandra ability to replace people, Allomancers had hunted the kandra nearly to extinction; the kandra created this new Contract to save their species from the humans who despised them. In the Contract, the kandra vowed to serve humans, to stay in the Homeland unless under Contract to a human, and to never kill a human. The Contract also included rules restricting kandra to changing bones only when directed by their contract holder. The Contract effectively enslaved the kandra to humans, and many kandra resented humans for this control.
 
-When creating a kandra character in Era 1, collaborate with your GM to design a human patron who holds your Contract, and decide how aligned the contract holder is with your goals and how involved they might be in your adventures. This patron provides you with bones to imitate and expects you to complete occasional missions. They pay you in atium, which you’re expected to bring back to the Homeland. (For more guidance on creating a patron, see “[[Mistborn Handbook/09 - Ch 8 Goals and Rewards#Patrons|Patrons]]” in chapter 8. Given the exploitative power imbalance that exists under the Contract, you may also wish to consult [[Mistborn Handbook/14 - Ch 13 Gamemastering|Safety Guide]] in chapter 13.)
+When creating a kandra character in Era 1, collaborate with your GM to design a human patron who holds your Contract, and decide how aligned the contract holder is with your goals and how involved they might be in your adventures. This patron provides you with bones to imitate and expects you to complete occasional missions. They pay you in atium, which you’re expected to bring back to the Homeland. (For more guidance on creating a patron, see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards#Patrons|Patrons]]” in chapter 8. Given the exploitative power imbalance that exists under the Contract, you may also wish to consult [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering|Safety Guide]] in chapter 13.)
 
 When creating a kandra character in Era 2, establish your current identity in human society. As a kandra of that era, you’re no longer bound to the Contract and you likely serve as an agent of Harmony. The kandra of Era 2 no longer live in the Homeland and can create lives for themselves among humans.
 
 ### Choosing Kandra Ancestry
 
-If you choose the kandra ancestry, your size is Medium, you can’t choose talents from the [[Mistborn Handbook/06 - Ch 5 Metalborn Paths|Metalborn paths]] in chapter 5, and you gain the following benefits at the specified levels:
+If you choose the kandra ancestry, your size is Medium, you can’t choose talents from the [[06 - Ch 5 Metalborn Paths|Metalborn paths]] in chapter 5, and you gain the following benefits at the specified levels:
 
-**Kandra Attributes (Level 1).** During [[Mistborn Handbook/02 - Ch 1 Character Creation#Step 3: Attributes|step 3]] of character creation, you distribute only 6 points across your six attributes, instead of the normal 12. In exchange, during that step of character creation, choose one Blessing from the upcoming “Kandra Blessings” section. (Note that your [[Ancestries/Kandra/Kandra Disguise|Kandra Disguise]] talent temporarily replaces your Strength, Speed, and Awareness with the ingested body’s, so you may want to prioritize other attributes.)
+**Kandra Attributes (Level 1).** During [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation#Step 3: Attributes|step 3]] of character creation, you distribute only 6 points across your six attributes, instead of the normal 12. In exchange, during that step of character creation, choose one Blessing from the upcoming “Kandra Blessings” section. (Note that your [[Kandra Disguise|Kandra Disguise]] talent temporarily replaces your Strength, Speed, and Awareness with the ingested body’s, so you may want to prioritize other attributes.)
 
 **Unique Talent Tree (Level 1).** Each time you choose a new talent, you can choose it from the Kandra talent tree (in addition to the other trees you have access to).
 
-**Natural Form (Level 1).** You gain the [[Ancestries/Kandra/Natural Form|Natural Form]] (Kandra Key) talent and the [[Ancestries/Kandra/Kandra Disguise|Kandra Disguise]] talent from the Kandra tree. Additionally, as a reward later in the game, you can earn the bones to form a True Body (see “[[Mistborn Handbook/09 - Ch 8 Goals and Rewards#Kandra True Bodies|Kandra True Bodies]]” in chapter 8).
+**Natural Form (Level 1).** You gain the [[Natural Form|Natural Form]] (Kandra Key) talent and the [[Kandra Disguise|Kandra Disguise]] talent from the Kandra tree. Additionally, as a reward later in the game, you can earn the bones to form a True Body (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards#Kandra True Bodies|Kandra True Bodies]]” in chapter 8).
 
-**Ancestry Bonus Talents (Level 6, 11, 16, and 21).** Each time you reach a new tier (as indicated on the Character Advancement table in chapter 1), you again gain a bonus talent. You must choose it from the Kandra tree or from any heroic path (see [[Mistborn Handbook/05 - Ch 4 Heroic Paths|chapter 4]]).
+**Ancestry Bonus Talents (Level 6, 11, 16, and 21).** Each time you reach a new tier (as indicated on the Character Advancement table in chapter 1), you again gain a bonus talent. You must choose it from the Kandra tree or from any heroic path (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths|chapter 4]]).
 
-As usual, you must meet the prerequisites for these talents (see “[[Mistborn Handbook/05 - Ch 4 Heroic Paths#Advancing Through a Path|Advancing Through a Path]]” in chapter 4).
+As usual, you must meet the prerequisites for these talents (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths#Advancing Through a Path|Advancing Through a Path]]” in chapter 4).
 
 |  |
 |----|
@@ -135,23 +135,23 @@ As usual, you must meet the prerequisites for these talents (see “[[Mistborn H
 
 #### Kandra Blessings
 
-Each kandra has at least one Blessing—a pair of three-inch-long Hemalurgic spikes that grant them sapience and other benefits. During [[Mistborn Handbook/02 - Ch 1 Character Creation#Step 3: Attributes|step 3]] of character creation, choose one of the following Blessings, which applies even in your [[Ancestries/Kandra/Kandra Disguise|Kandra Disguise]] form:
+Each kandra has at least one Blessing—a pair of three-inch-long Hemalurgic spikes that grant them sapience and other benefits. During [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation#Step 3: Attributes|step 3]] of character creation, choose one of the following Blessings, which applies even in your [[Kandra Disguise|Kandra Disguise]] form:
 
-**[[Items/Hemalurgic Spikes/Kandra Blessings/Blessing of Awareness|Blessing of Awareness.]]** Increase your Awareness by 2. Your maximum attribute score for Awareness also increases by 2.
+**[[Blessing of Awareness|Blessing of Awareness.]]** Increase your Awareness by 2. Your maximum attribute score for Awareness also increases by 2.
 
-**[[Items/Hemalurgic Spikes/Kandra Blessings/Blessing of Potency|Blessing of Potency.]]** Increase your Strength by 1, and increase your Speed by 1. Your maximum attribute scores for Strength and Speed also increase by 1.
+**[[Blessing of Potency|Blessing of Potency.]]** Increase your Strength by 1, and increase your Speed by 1. Your maximum attribute scores for Strength and Speed also increase by 1.
 
-**[[Items/Hemalurgic Spikes/Kandra Blessings/Blessing of Presence|Blessing of Presence.]]** Increase your Intellect by 1, and increase your Presence by 1. Your maximum attribute scores for Intellect and Presence also increase by 1.
+**[[Blessing of Presence|Blessing of Presence.]]** Increase your Intellect by 1, and increase your Presence by 1. Your maximum attribute scores for Intellect and Presence also increase by 1.
 
-**[[Items/Hemalurgic Spikes/Kandra Blessings/Blessing of Stability|Blessing of Stability.]]** Increase your Willpower by 2. Your maximum attribute score for Willpower also increases by 2.
+**[[Blessing of Stability|Blessing of Stability.]]** Increase your Willpower by 2. Your maximum attribute score for Willpower also increases by 2.
 
-**[[Items/Hemalurgic Spikes/Kandra Blessings/Blessing of Fortitude|Blessing of Fortitude.]]** Increase your deflect value by 1. While in your Kandra Disguise form, your deflect value reduces impact damage.
+**[[Blessing of Fortitude|Blessing of Fortitude.]]** Increase your deflect value by 1. While in your Kandra Disguise form, your deflect value reduces impact damage.
 
 **Acquiring a Second Blessing.** After you reach tier 3, you can gain a second Blessing as a reward. You must choose a different Blessing than your first, and you gain its benefits in addition to those of your first Blessing.
 
 However, each kandra is created with only one Blessing, so acquiring a second requires the death of the Blessing’s original bearer. Work with your GM to determine whether you can obtain a Blessing from a kandra someone already killed, or whether you must kill a living kandra to take their Blessing.
 
-**Acquiring Other Hemalurgic Spikes.** Your Blessing spikes don’t impart the negative side effects of other Hemalurgic spikes. However, while you bear your paired Blessing spikes, you can’t implant additional Hemalurgic spikes that aren’t Blessings (see “[[Mistborn Handbook/09 - Ch 8 Goals and Rewards#Hemalurgic Spikes|Hemalurgic Spikes]]” in chapter 8).
+**Acquiring Other Hemalurgic Spikes.** Your Blessing spikes don’t impart the negative side effects of other Hemalurgic spikes. However, while you bear your paired Blessing spikes, you can’t implant additional Hemalurgic spikes that aren’t Blessings (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards#Hemalurgic Spikes|Hemalurgic Spikes]]” in chapter 8).
 
 If you remove one of the paired spikes from your Blessing, you can implant a Hemalurgic spike—but you also temporarily lose the benefit of your Blessing, and your grip on your own mental state becomes more tenuous. While missing a Blessing spike, the GM can spendC to lessen your grip on reality in a way you and the GM feel is most appropriate.
 
@@ -159,7 +159,7 @@ If you remove one of the paired spikes from your Blessing, you can implant a Hem
 
 ## Kandra Talents
 
-The following talents are available to characters with kandra ancestry. See “[[Mistborn Handbook/05 - Ch 4 Heroic Paths#Using Talents|Using Talents]]” in chapter 4 for information on how to read and use these talents.
+The following talents are available to characters with kandra ancestry. See “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths#Using Talents|Using Talents]]” in chapter 4 for information on how to read and use these talents.
 
 ![[pg037_HB02_Kandra OreSeur_Svetlana Kostina.webp]]
 
@@ -167,11 +167,11 @@ The following talents are available to characters with kandra ancestry. See “[
 
 ## Koloss-Blooded Ancestry Era 2
 
-The koloss-blooded people are descended from the koloss of the Final Empire. After the Catacendre, the koloss became able to have children with each other and with humans; these children are born without spikes (see [[Mistborn Handbook/03 - Ch 2 Origins#History of the Koloss|History of the Koloss]]), and thus they’re koloss-blooded instead of full koloss. The child of a koloss-blooded person is also koloss-blooded.
+The koloss-blooded people are descended from the koloss of the Final Empire. After the Catacendre, the koloss became able to have children with each other and with humans; these children are born without spikes (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/03 - Ch 2 Origins#History of the Koloss|History of the Koloss]]), and thus they’re koloss-blooded instead of full koloss. The child of a koloss-blooded person is also koloss-blooded.
 
 Koloss have blue skin and red eyes, but their koloss-blooded descendants have a range of skin tones, from mottled shades of gray to various hues of blue. Koloss-blooded people aren’t inherently stronger or bigger than humans, but they have the capacity to increase their strength and size through intensive physical conditioning.
 
-In the [[Mistborn Handbook/03 - Ch 2 Origins|Culture]] section of this chapter, the Koloss-Blooded expertise describes the koloss-blooded culture and how these people live throughout the Elendel Basin and the Roughs. You can learn even more about koloss-blooded people in chapter 2 of the *Mistborn World Guide*.
+In the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/03 - Ch 2 Origins|Culture]] section of this chapter, the Koloss-Blooded expertise describes the koloss-blooded culture and how these people live throughout the Elendel Basin and the Roughs. You can learn even more about koloss-blooded people in chapter 2 of the *Mistborn World Guide*.
 
 ### History of the Koloss
 
@@ -191,21 +191,21 @@ However, this transformation isn’t restricted to the young. An older koloss-bl
 
 If you choose the **koloss-blooded ancestry**, your size is Medium, and you gain the following benefits at the specified levels:
 
-**Koloss Attributes (Level 1).** Your maximum attribute score for Strength increases by 1, and during [[Mistborn Handbook/02 - Ch 1 Character Creation#Step 3: Attributes|step 3]] of character creation, you can put up to 4 attribute points into Strength (instead of 3).
+**Koloss Attributes (Level 1).** Your maximum attribute score for Strength increases by 1, and during [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation#Step 3: Attributes|step 3]] of character creation, you can put up to 4 attribute points into Strength (instead of 3).
 
-**Koloss Stamina (Level 1).** You gain the [[Ancestries/Koloss-Blooded/Koloss Stamina|Koloss Stamina]] (Koloss-Blooded Key) talent from the Koloss-Blooded talent tree.
+**Koloss Stamina (Level 1).** You gain the [[Koloss Stamina|Koloss Stamina]] (Koloss-Blooded Key) talent from the Koloss-Blooded talent tree.
 
 **Unique Talent Tree (Level 1).** Each time you choose a new talent, you can choose it from the Koloss-Blooded tree (in addition to the other trees you have access to).
 
-**Ancestry Bonus Talents (Level 6, 11, 16, and 21).** Each time you reach a new tier (as indicated on the [[Mistborn Handbook/17 - Appendix 2 Tables|Character Advancement]] table in chapter 1), you again gain a bonus talent. You must choose it from the Koloss-Blooded tree or from any heroic path (see [[Mistborn Handbook/05 - Ch 4 Heroic Paths|chapter 4]]).
+**Ancestry Bonus Talents (Level 6, 11, 16, and 21).** Each time you reach a new tier (as indicated on the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Character Advancement]] table in chapter 1), you again gain a bonus talent. You must choose it from the Koloss-Blooded tree or from any heroic path (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths|chapter 4]]).
 
-As usual, you must meet the prerequisites for these talents (see “[[Mistborn Handbook/05 - Ch 4 Heroic Paths#Advancing Through a Path|Advancing Through a Path]]” in chapter 4).
+As usual, you must meet the prerequisites for these talents (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths#Advancing Through a Path|Advancing Through a Path]]” in chapter 4).
 
 @Link
 
 ## Koloss-Blooded Talent Tree
 
-The following talents are available to characters with koloss-blooded ancestry. See “[[Mistborn Handbook/05 - Ch 4 Heroic Paths#Using Talents|Using Talents]]” in chapter 4 for information on how to read and use these talents.
+The following talents are available to characters with koloss-blooded ancestry. See “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths#Using Talents|Using Talents]]” in chapter 4 for information on how to read and use these talents.
 
 ![[pg039_HB02_Koloss Blooded Family_Linda Lithen.webp]]
 
@@ -215,9 +215,9 @@ The following talents are available to characters with koloss-blooded ancestry. 
 
 Your character’s culture isn’t determined by birth or any single moment in time. Instead, cultural awareness is shaped by nationality, ethnicity, migration, traveling experience, and more. The upcoming sections present**cultural expertises** for player characters; in step 1 of character creation, you can choose two of these expertises.
 
-Your expertise signifies your character knows information about that culture and its region of origin, potentially including fluency in an applicable dialect or language. (To learn more about using expertises, see [[Mistborn Handbook/04 - Ch 3 Character Statistics|Expertises]] in chapter 3.) Though each culture provides examples of what you’d know with your expertise, these are merely a quick reference; you can learn more about Scadrial’s regions and cultures in the*Mistborn World Guide*.
+Your expertise signifies your character knows information about that culture and its region of origin, potentially including fluency in an applicable dialect or language. (To learn more about using expertises, see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics|Expertises]] in chapter 3.) Though each culture provides examples of what you’d know with your expertise, these are merely a quick reference; you can learn more about Scadrial’s regions and cultures in the*Mistborn World Guide*.
 
-The cultural landscape of Scadrial changes vastly between its eras. PCs who live during the time of the Final Empire or the Collapse can choose from the expertises in the [[Mistborn Handbook/03 - Ch 2 Origins#Era 1 Cultural Expertises|Era 1 Cultural Expertises]] section. Characters living after the Catacendre can choose from the [[Mistborn Handbook/03 - Ch 2 Origins#Era 2 Cultural Expertises|Era 2 Cultural Expertises]] section. Expertises that can be chosen in either era appear in the “Cross-Era Cultural Expertises” section.
+The cultural landscape of Scadrial changes vastly between its eras. PCs who live during the time of the Final Empire or the Collapse can choose from the expertises in the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/03 - Ch 2 Origins#Era 1 Cultural Expertises|Era 1 Cultural Expertises]] section. Characters living after the Catacendre can choose from the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/03 - Ch 2 Origins#Era 2 Cultural Expertises|Era 2 Cultural Expertises]] section. Expertises that can be chosen in either era appear in the “Cross-Era Cultural Expertises” section.
 
 Your cultural expertises can be tied to your ancestry and ethnicities if you’d like them to be; this is common for characters who grew up in or spent significant time in cultures tied to their lineage. Alternatively, you might know little about any culture related to your lineage, but be well-versed in the culture of a dominance or region you were raised in. The cultures you choose aren’t meant to limit your character’s identity; rather, they highlight where your cultural awareness is most comprehensive. For example, you don’t need to choose the Terris Dominance expertise to create a character of Terris ancestry.
 

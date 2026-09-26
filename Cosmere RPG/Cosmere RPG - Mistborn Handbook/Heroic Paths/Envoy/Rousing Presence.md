@@ -12,4 +12,4 @@ aliases: ["Rousing Presence"]
 
 *With a gesture, a facial expression, or a few scant words, you inspire others to excel.*
 
-Choose an ally you can influence. They become [[Mistborn Handbook/10 - Ch 9 Adventuring#Determined|Determined]] until they benefit from that condition or until the scene ends.
+Choose an ally you can influence. They become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Determined|Determined]] until they benefit from that condition or until the scene ends.

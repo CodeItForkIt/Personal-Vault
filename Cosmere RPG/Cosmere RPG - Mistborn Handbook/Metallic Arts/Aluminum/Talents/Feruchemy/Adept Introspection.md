@@ -14,4 +14,4 @@ aliases: ["Adept Introspection"]
 
 While tapping Identity, your deflect value also applies to spirit damage.
 
-Additionally, even when you’re not tapping Identity, you have significant self-awareness. After a long rest, you can forgo its usual benefits and instead gain the benefits of completing the [[Mistborn Handbook/10 - Ch 9 Adventuring#Self-Reflection|Self-Reflection]] downtime activity (without spending money).
+Additionally, even when you’re not tapping Identity, you have significant self-awareness. After a long rest, you can forgo its usual benefits and instead gain the benefits of completing the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Self-Reflection|Self-Reflection]] downtime activity (without spending money).

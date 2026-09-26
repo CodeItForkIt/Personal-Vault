@@ -14,7 +14,7 @@ aliases: ["Vigilant Stance"]
 
 When you acquire this talent, you learn to use stances. You begin with Vigilant Stance, which you can enter as 1:
 
-**Vigilant Stance.** While in this stance, reduce the focus cost of your [[Actions/Basic/Dodge|Dodge]] and [[Actions/Basic/Reactive Strike|Reactive Strike]] reactions by 1. Additionally, you can enter another stance you know as 0.
+**Vigilant Stance.** While in this stance, reduce the focus cost of your [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Dodge|Dodge]] and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Reactive Strike|Reactive Strike]] reactions by 1. Additionally, you can enter another stance you know as 0.
 
 ------------------------------------------------------------------------
 

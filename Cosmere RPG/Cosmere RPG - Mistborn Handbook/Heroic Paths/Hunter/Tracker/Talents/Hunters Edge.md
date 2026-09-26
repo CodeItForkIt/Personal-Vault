@@ -14,4 +14,4 @@ aliases: ["Hunter's Edge"]
 
 Your animal companion gains an advantage on tests against your quarry.
 
-Additionally, when you acquire this talent, the damage from your [[Heroic Paths/Hunter/Tracker/Talents/Deadly Trap|Deadly Traps]] talent increases from 2d6 to 2d8, and when that talent applies a condition, its duration increases from 2 rounds to 3 rounds.
+Additionally, when you acquire this talent, the damage from your [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Tracker/Talents/Deadly Trap|Deadly Traps]] talent increases from 2d6 to 2d8, and when that talent applies a condition, its duration increases from 2 rounds to 3 rounds.

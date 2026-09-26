@@ -16,4 +16,4 @@ aliases: ["Noble Kit (Era 2)"]
 
 **Currency:** A pouch containing `4d20 * 10` boxings Era 2
 
-**Connection:** You’re supported by a patron of your noble house (see “[[Mistborn Handbook/09 - Ch 8 Goals and Rewards#Patrons|Patrons]]” in chapter 8). This affords you accommodations and a certain standard of living.
+**Connection:** You’re supported by a patron of your noble house (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards#Patrons|Patrons]]” in chapter 8). This affords you accommodations and a certain standard of living.

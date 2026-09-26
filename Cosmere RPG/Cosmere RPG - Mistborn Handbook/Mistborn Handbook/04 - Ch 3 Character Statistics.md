@@ -20,7 +20,7 @@ These qualities of your character—and many more—are represented by the stati
 
 ## About Your Statistics
 
-This chapter details the**statistics** you’ll choose during character creation (see [[Mistborn Handbook/02 - Ch 1 Character Creation|chapter 1]]) and how they affect various aspects of the game. Your statistics include the following:
+This chapter details the**statistics** you’ll choose during character creation (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation|chapter 1]]) and how they affect various aspects of the game. Your statistics include the following:
 
 **Attributes.** Your six attributes determine your innate characteristics. During gameplay, you won’t need to pay much attention to these building blocks, but they influence many elements of your other statistics.
 
@@ -50,11 +50,11 @@ In addition to these categories keeping the character sheet organized, a few gam
 
 ## Attributes
 
-Every character has six **attributes** that determine their innate characteristics: [[Mistborn Handbook/04 - Ch 3 Character Statistics#Strength|Strength]], [[Mistborn Handbook/04 - Ch 3 Character Statistics#Speed|Speed]], [[Mistborn Handbook/04 - Ch 3 Character Statistics#Intellect|Intellect]], [[Mistborn Handbook/04 - Ch 3 Character Statistics#Willpower|Willpower]], [[Mistborn Handbook/04 - Ch 3 Character Statistics#Awareness|Awareness]], and [[Mistborn Handbook/04 - Ch 3 Character Statistics#Presence|Presence]].
+Every character has six **attributes** that determine their innate characteristics: [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Strength|Strength]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Speed|Speed]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Intellect|Intellect]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Willpower|Willpower]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Awareness|Awareness]], and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Presence|Presence]].
 
 Each attribute is a number, the higher the better. These determine the physical, mental, and spiritual limits of your character. On Scadrial, most humans, kandra, and koloss-blooded don’t have attributes above 2. However, player characters are extraordinary (even at 1st level), and as you gain levels, you can increase your attribute scores as high as 5. This range can increase even further for koloss-blooded characters, Invested characters, massive beasts, and other powerful creatures.
 
-Each skill is associated with an attribute (listed in parentheses on your character sheet). As described in the later “[[Mistborn Handbook/04 - Ch 3 Character Statistics|Skills]]” section, that attribute score influences your skill modifier, and thus how likely you are to succeed with that skill.
+Each skill is associated with an attribute (listed in parentheses on your character sheet). As described in the later “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics|Skills]]” section, that attribute score influences your skill modifier, and thus how likely you are to succeed with that skill.
 
 Attributes also determine other elements of your character, from how much you can carry to how many expertises you have. The following sections detail the attributes and how they affect the game.
 
@@ -70,7 +70,7 @@ Attributes also determine other elements of your character, from how much you ca
 
 Your Strength determines how much weight you can lift and carry, as shown on the Lifting and Carrying Capacity table.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Lifting and Carrying Capacity]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Lifting and Carrying Capacity]]
 
 #### Lifting Capacity
 
@@ -86,9 +86,9 @@ Though many items in this book mention their weights, you aren’t expected to t
 
 Your carrying capacity represents how much weight you can comfortably carry while walking. Though you can temporarily exceed this weight (to a maximum of your lifting capacity), it’ll slow you down and eventually exhaust you.
 
-If you move while exceeding your carrying capacity (including everything you’re wearing and carrying), you become [[Mistborn Handbook/10 - Ch 9 Adventuring#Slowed|Slowed]].
+If you move while exceeding your carrying capacity (including everything you’re wearing and carrying), you become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Slowed|Slowed]].
 
-Additionally, each time you exceed your carrying capacity for a cumulative period of 60 minutes, you become [[Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted [−1]]]. This cumulative time resets to zero after a long rest.
+Additionally, each time you exceed your carrying capacity for a cumulative period of 60 minutes, you become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted [−1]]]. This cumulative time resets to zero after a long rest.
 
 ### Affected Statistics
 
@@ -110,11 +110,11 @@ Your Strength score affects several of your statistics. When your Strength chang
 
 ### Movement Rate
 
-Your Speed determines how quickly you can move in combat and other tense situations. When you use the Move action (described in [[Mistborn Handbook/11 - Ch 10 Combat|chapter 10]]), you can move up to your **movement rate**, as shown on the Movement Rate table. When other abilities allow you to move, they specify what rate you can use to move.
+Your Speed determines how quickly you can move in combat and other tense situations. When you use the Move action (described in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|chapter 10]]), you can move up to your **movement rate**, as shown on the Movement Rate table. When other abilities allow you to move, they specify what rate you can use to move.
 
-By default, you move by walking or similarly propelling across the surface of the ground; you can learn more about movement types in the [[Mistborn Handbook/11 - Ch 10 Combat|Movement and Positioning]] section of chapter 10.
+By default, you move by walking or similarly propelling across the surface of the ground; you can learn more about movement types in the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Movement and Positioning]] section of chapter 10.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Movement Rate]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Movement Rate]]
 
 #### Moving Outside Combat
 
@@ -136,7 +136,7 @@ Your Speed score affects several of your statistics. When your Speed changes, up
 
 ### Additional Expertises
 
-During character creation, all characters can choose two cultural expertises. If your Intellect score is 1 or higher, you can choose additional expertises equal to that score (see the [[Mistborn Handbook/04 - Ch 3 Character Statistics|Expertises]] section later in this chapter).
+During character creation, all characters can choose two cultural expertises. If your Intellect score is 1 or higher, you can choose additional expertises equal to that score (see the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics|Expertises]] section later in this chapter).
 
 If your Intellect increases as you gain levels, you can choose a new expertise for each Intellect point you gain.
 
@@ -156,9 +156,9 @@ Your Intellect score affects several of your statistics. When your Intellect cha
 
 ### Recovery Die
 
-Your **recovery die** determines how efficiently you recover health and focus when you take a break (see [[Mistborn Handbook/10 - Ch 9 Adventuring|Resting]] in chapter 9). Your Willpower determines the size of your recovery die, as shown on the Recovery Die table.
+Your **recovery die** determines how efficiently you recover health and focus when you take a break (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Resting]] in chapter 9). Your Willpower determines the size of your recovery die, as shown on the Recovery Die table.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Recovery Die]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Recovery Die]]
 
 ### Affected Statistics
 
@@ -182,9 +182,9 @@ Your Willpower score affects several of your statistics. When your Willpower cha
 
 ### Senses
 
-Your senses encompass not only sight and hearing, but any other ways you might perceive the world. The higher your Awareness, the farther you can sense while darkness, noise, or other distractions obscure your senses. Use the Senses Range table to determine your senses range, then see the “[[Mistborn Handbook/04 - Ch 3 Character Statistics|Senses]]” section later in this chapter for details on how to use this range.
+Your senses encompass not only sight and hearing, but any other ways you might perceive the world. The higher your Awareness, the farther you can sense while darkness, noise, or other distractions obscure your senses. Use the Senses Range table to determine your senses range, then see the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics|Senses]]” section later in this chapter for details on how to use this range.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Senses Range]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Senses Range]]
 
 ### Affected Statistics
 
@@ -206,7 +206,7 @@ Your Awareness score affects several of your statistics. When your Awareness cha
 
 When your adventures bring you to cities and other inhabited areas, you’ll often want to determine whether your character knows someone in the area. Your Presence score can help the GM decide whether you previously spent enough time in that region to have an existing connection to call on. The Establishing Connections table provides guidance on how long it takes you to establish these connections, but this varies with the situation and is up to the GM’s discretion.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Establishing Connections]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Establishing Connections]]
 
 ### Affected Statistics
 
@@ -236,15 +236,15 @@ Your Physical, Cognitive, and Spiritual defense values equal:
 
 When a character makes a test against you, they’re usually testing against your defense from the same category as their skill (unless otherwise specified by the effect that’s prompting the skill test). Your corresponding defense sets the DC for that test.
 
-In general, your Physical defense protects you against physical tests, your Cognitive defense protects you against cognitive tests, and your Spiritual defense protects you against spiritual tests. (To learn which category each skill falls into, see the [[Mistborn Handbook/04 - Ch 3 Character Statistics#Physical, Cognitive, and Spiritual|Physical, Cognitive, and Spiritual]] section at the beginning of this chapter.)
+In general, your Physical defense protects you against physical tests, your Cognitive defense protects you against cognitive tests, and your Spiritual defense protects you against spiritual tests. (To learn which category each skill falls into, see the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Physical, Cognitive, and Spiritual|Physical, Cognitive, and Spiritual]] section at the beginning of this chapter.)
 
-Especially when making a test against another character, be aware that defenses might not be the only factors affecting your DC, as described in the [[Mistborn Handbook/04 - Ch 3 Character Statistics|Skills]] section later in this chapter.
+Especially when making a test against another character, be aware that defenses might not be the only factors affecting your DC, as described in the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics|Skills]] section later in this chapter.
 
 ## Deflect
 
 When an enemy succeeds on an attack test against you or when you take damage from another source, this generally reduces your health, as described later in this chapter. However, armor (or other effects) can grant you a **deflect value** that reduces impact, keen, and energy damage by that amount. For example, if your deflect value is 2 and you take 5 energy damage, you deflect 2 damage, then reduce your health by 3.
 
-Your deflect value also offers some protection from serious injuries, as described in "[[Mistborn Handbook/10 - Ch 9 Adventuring#Injuries|Injuries]]" in chapter 9.
+Your deflect value also offers some protection from serious injuries, as described in "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Injuries|Injuries]]" in chapter 9.
 
 ## Expertises
 
@@ -252,15 +252,15 @@ Each character has unique areas of knowledge acquired through their upbringing, 
 
 ## Using Expertises
 
-As described in [[Mistborn Handbook/02 - Ch 1 Character Creation#Step 4: Skills and Expertises|step 4]] of character creation, your char acter starts with two cultural expertises from [[Mistborn Handbook/03 - Ch 2 Origins|chapter 2]], plus additional expertises equal to your Intellect attribute score. You gain an additional expertise each time your Intellect score increases by 1. You might also gain expertises from other character creation choices, talents, rewards, experiences in adventures, or training during downtime (see “[[Mistborn Handbook/10 - Ch 9 Adventuring#Training|Training]]” in chapter 9).
+As described in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation#Step 4: Skills and Expertises|step 4]] of character creation, your char acter starts with two cultural expertises from [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/03 - Ch 2 Origins|chapter 2]], plus additional expertises equal to your Intellect attribute score. You gain an additional expertise each time your Intellect score increases by 1. You might also gain expertises from other character creation choices, talents, rewards, experiences in adventures, or training during downtime (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Training|Training]]” in chapter 9).
 
-Most sources of expertise either specify the exact expertise you gain or tell you to choose from a specific category (see [[Mistborn Handbook/04 - Ch 3 Character Statistics#Expertise Categories|Expertise Categories]]). If unspecified, you gain an armor, cultural, utility, or weapon expertise of your choice. (You can’t choose a specialist expertise unless your GM makes an exception.)
+Most sources of expertise either specify the exact expertise you gain or tell you to choose from a specific category (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Expertise Categories|Expertise Categories]]). If unspecified, you gain an armor, cultural, utility, or weapon expertise of your choice. (You can’t choose a specialist expertise unless your GM makes an exception.)
 
 ### Choosing Expertises
 
 Unlike attributes, defenses, and skills, there isn’t a finite list of expertises. Each expertise names a general area of knowledge, but you decide how your character gained an expertise and what knowledge it confers. For example, one character with the Military Life expertise could be a skaa serving in a Final Empire garrison, while another could be a Terris Keeper studying historical warfare. Though the two share the same expertise, their knowledge might be drastically different.
 
-When choosing an expertise, consider what cultures, weapons, armor, and areas of study your character has significant experience with; this can be from your backstory or influenced by current adventures. The [[Mistborn Handbook/04 - Ch 3 Character Statistics#Expertise Categories|Expertise Categories]] section provides examples of common expertises, but with your GM’s permission, you can create a new expertise instead.
+When choosing an expertise, consider what cultures, weapons, armor, and areas of study your character has significant experience with; this can be from your backstory or influenced by current adventures. The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Expertise Categories|Expertise Categories]] section provides examples of common expertises, but with your GM’s permission, you can create a new expertise instead.
 
 The more specific an expertise, the greater its narrative impact. For example, if your character has the Religion expertise during the Final Empire, you generally know of the Steel Ministry, but you might need to test Lore to recall obscure details about religions wiped out long ago by the Lord Ruler. By contrast, with your GM’s permission, you might choose an expertise in a dead religion; this expertise won’t help you with tests about the Steel Ministry, but you’ll know much more about the ancient religion without needing to test for it.
 
@@ -280,11 +280,11 @@ When you make other tests related to your expertise, a success might grant you m
 
 #### Expert Crafting
 
-Some specialized items can’t be crafted without a specific expertise (see [[Mistborn Handbook/08 - Ch 7 Items|Crafting]] in chapter 7).
+Some specialized items can’t be crafted without a specific expertise (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|Crafting]] in chapter 7).
 
 #### Item Expert Traits
 
-Most weapons and armor, along with a few other items, have expert traits (see [[Mistborn Handbook/08 - Ch 7 Items|chapter 7]]). These traits grant additional benefits to characters with the specified expertise.
+Most weapons and armor, along with a few other items, have expert traits (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|chapter 7]]). These traits grant additional benefits to characters with the specified expertise.
 
 #### Known Languages
 
@@ -296,7 +296,7 @@ Regardless of what languages you know, it’s assumed all PCs can communicate we
 
 ## Expertise Categories
 
-All expertises fall into one of five categories. [[Mistborn Handbook/04 - Ch 3 Character Statistics#Armor Expertises|Armor]], [[Mistborn Handbook/04 - Ch 3 Character Statistics#Cultural Expertises|cultural]], [[Mistborn Handbook/04 - Ch 3 Character Statistics#Utility Expertises|utility]], and [[Mistborn Handbook/04 - Ch 3 Character Statistics#Weapon Expertises|weapon]] expertises are available to all characters, while [[Mistborn Handbook/04 - Ch 3 Character Statistics#Specialist Expertises|specialist]] expertises must be obtained in special ways. These categories are primarily descriptive, and you can have more than one expertise from the same category; however, some talents and other abilities apply only to expertises from certain categories.
+All expertises fall into one of five categories. [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Armor Expertises|Armor]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Cultural Expertises|cultural]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Utility Expertises|utility]], and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Weapon Expertises|weapon]] expertises are available to all characters, while [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Specialist Expertises|specialist]] expertises must be obtained in special ways. These categories are primarily descriptive, and you can have more than one expertise from the same category; however, some talents and other abilities apply only to expertises from certain categories.
 
 The following sections give examples of common expertises that qualify for each category, but you’re not restricted to the specific examples in these lists. Talk to your GM if you’d like to have an expertise in a different area.
 
@@ -304,9 +304,9 @@ The following sections give examples of common expertises that qualify for each 
 
 **Armor expertises** pertain to maintaining and wearing any kind of armor.
 
-If you have an armor expertise, you’re well versed in cleaning, maintaining, and even creating that kind of armor. You can use the expert traits of that armor (described in [[Mistborn Handbook/08 - Ch 7 Items|chapter 7]]), as you know how best to wear and use it in combat.
+If you have an armor expertise, you’re well versed in cleaning, maintaining, and even creating that kind of armor. You can use the expert traits of that armor (described in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|chapter 7]]), as you know how best to wear and use it in combat.
 
-**Examples.** You can choose an armor expertise in any non special armor type listed in [[Mistborn Handbook/08 - Ch 7 Items|chapter 7]]—for example, the Leather Armor expertise.
+**Examples.** You can choose an armor expertise in any non special armor type listed in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|chapter 7]]—for example, the Leather Armor expertise.
 
 ### Cultural Expertises
 
@@ -314,7 +314,7 @@ If you have an armor expertise, you’re well versed in cleaning, maintaining, a
 
 If you have a cultural expertise, you’re deeply knowledgeable about that group’s traditions, customs, and superstitions. You also know their history and current politics. You can communicate with others from that group through spoken language, signed language, and other forms of communication.
 
-**Examples.** You can choose any cultural expertise from the [[Mistborn Handbook/03 - Ch 2 Origins|Culture]] section of chapter 2—for example, a character from the Southern Continent probably has the Malwish expertise, while a noble character might have the High Society expertise.
+**Examples.** You can choose any cultural expertise from the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/03 - Ch 2 Origins|Culture]] section of chapter 2—for example, a character from the Southern Continent probably has the Malwish expertise, while a noble character might have the High Society expertise.
 
 ### Utility Expertises
 
@@ -332,9 +332,9 @@ If you have a utility expertise, you’re practiced in an area of technical know
 
 **Weapon expertises** pertain to the maintenance and wielding of a specific type of weapon. (Some rare types of weapons, such as the massive koloss blade, require specialist expertises rather than weapon expertises.)
 
-If you have a weapon expertise, you’re adept in cleaning, maintaining, and even creating that kind of weapon. You can use the expert traits of that weapon (described in [[Mistborn Handbook/08 - Ch 7 Items|chapter 7]]), as you know how best to wield it in combat.
+If you have a weapon expertise, you’re adept in cleaning, maintaining, and even creating that kind of weapon. You can use the expert traits of that weapon (described in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|chapter 7]]), as you know how best to wield it in combat.
 
-**Examples.** You can choose an expertise in any non-special weapon type listed in [[Mistborn Handbook/08 - Ch 7 Items|chapter 7]]—for example, the Revolver expertise. You can also choose the Improvised Weapon expertise and the Unarmed Attacks expertise, despite them being special weapons.
+**Examples.** You can choose an expertise in any non-special weapon type listed in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|chapter 7]]—for example, the Revolver expertise. You can also choose the Improvised Weapon expertise and the Unarmed Attacks expertise, despite them being special weapons.
 
 ### Specialist Expertises
 
@@ -369,13 +369,13 @@ Your **health** is a physical resource representing your stamina and resistance 
 
 **10 + Strength + any bonuses or penalties**
 
-When you level up, your maximum health increases as indicated on the [[Mistborn Handbook/17 - Appendix 2 Tables|Character Advancement]] table in chapter 1. If your Strength changes, refer to the same table to recalculate your health.
+When you level up, your maximum health increases as indicated on the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Character Advancement]] table in chapter 1. If your Strength changes, refer to the same table to recalculate your health.
 
-When you lose health, you might breathe heavily, stagger under the weight of a blow, notice blood on your clothes from a minor wound, or cry out from exertion. See [[Mistborn Handbook/10 - Ch 9 Adventuring|Damage, Injury, and Death]] in chapter 9 for more details on losing health.
+When you lose health, you might breathe heavily, stagger under the weight of a blow, notice blood on your clothes from a minor wound, or cry out from exertion. See [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Damage, Injury, and Death]] in chapter 9 for more details on losing health.
 
-If your health is reduced to 0, that represents suffering a severe blow that knocks you out of the fight. When reduced to 0 health, you suffer an injury and become Unconscious (see [[Mistborn Handbook/10 - Ch 9 Adventuring|Conditions]] in chapter 9), and you run the risk of incurring more serious injuries.
+If your health is reduced to 0, that represents suffering a severe blow that knocks you out of the fight. When reduced to 0 health, you suffer an injury and become Unconscious (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Conditions]] in chapter 9), and you run the risk of incurring more serious injuries.
 
-You can partially recover health during a short rest, and you recover all your health after a long rest (see [[Mistborn Handbook/10 - Ch 9 Adventuring|Resting]] in chapter 9). Some talents and other effects provide other ways to recover your health; for example, a character with a rank in Medicine can tend to your wounds in combat (see [[Mistborn Handbook/04 - Ch 3 Character Statistics#Medicine (Intellect)|Medicine]] later in this chapter).
+You can partially recover health during a short rest, and you recover all your health after a long rest (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Resting]] in chapter 9). Some talents and other effects provide other ways to recover your health; for example, a character with a rank in Medicine can tend to your wounds in combat (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Medicine (Intellect)|Medicine]] later in this chapter).
 
 ## Focus
 
@@ -383,11 +383,11 @@ Your **focus** is a cognitive resource representing your mental resolve and abil
 
 **2 + Willpower + any bonuses or penalties**
 
-Focus can be spent to fuel talents and other abilities or to withstand manipulation (see [[Mistborn Handbook/12 - Ch 11 Conversations|Focus in Conversations]] in chapter 11).
+Focus can be spent to fuel talents and other abilities or to withstand manipulation (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/12 - Ch 11 Conversations|Focus in Conversations]] in chapter 11).
 
 When you have no focus left, your attention might waver, you might stare intently while working through a problem, or you might be overcome with frustration or another emotion.
 
-You can partially recover focus during a short rest, and you recover all your focus after a long rest (see [[Mistborn Handbook/10 - Ch 9 Adventuring|Resting]] in chapter 9).
+You can partially recover focus during a short rest, and you recover all your focus after a long rest (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Resting]] in chapter 9).
 
 ## Investiture
 
@@ -397,7 +397,7 @@ If you choose a path that uses Allomancy, you’ll gain an Investiture pool that
 
 **2 + either your Awareness or Presence (whichever is higher) + any bonuses or penalties**
 
-See [[Mistborn Handbook/06 - Ch 5 Metalborn Paths#Allomancy: Using Investiture|Allomancy: Using Investiture]] in chapter 5 for rules on using your Investiture.
+See [[06 - Ch 5 Metalborn Paths#Allomancy: Using Investiture|Allomancy: Using Investiture]] in chapter 5 for rules on using your Investiture.
 
 ## Senses
 
@@ -413,13 +413,13 @@ Your senses encapsulate not just your vision, but your hearing, smell, touch, an
 
 Under most conditions, it’s assumed all characters can sense things from a reasonable distance, at the GM’s discretion. However, when your primary sense is entirely**obscured**, this limits how far away you can detect things. Depending on your primary sense, it could be obscured by the cacophony of an angry crowd, by a dense blanket of mist, and so on.
 
-Your **senses range** determines how far away you can easily sense when your primary sense is obscured. Your Awareness score determines this range (see [[Mistborn Handbook/04 - Ch 3 Character Statistics#Awareness|Awareness]] earlier in this chapter).
+Your **senses range** determines how far away you can easily sense when your primary sense is obscured. Your Awareness score determines this range (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Awareness|Awareness]] earlier in this chapter).
 
 Within this range, you don’t have any trouble detecting things with the help of your other senses. But outside of this range, you can’t detect objects and characters, so you must move closer or try to target them without senses (if you’re aware of them).
 
 ### Targeting Without Senses
 
-If you can’t sense something, it’s hard to affect it with many abilities. For example, if an ability targets “a character you can sense” but your senses are obscured, you can’t target anyone outside your senses range. If an ability doesn’t require senses, you’ll still gain a disadvantage on many tests against a target you can’t sense (see [[Mistborn Handbook/11 - Ch 10 Combat|Targeting and Range]] in chapter 10).
+If you can’t sense something, it’s hard to affect it with many abilities. For example, if an ability targets “a character you can sense” but your senses are obscured, you can’t target anyone outside your senses range. If an ability doesn’t require senses, you’ll still gain a disadvantage on many tests against a target you can’t sense (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Targeting and Range]] in chapter 10).
 
 ### Sensing Hidden Characters and Objects
 
@@ -431,7 +431,7 @@ Various effects in the cosmere (such as Tin Allomancy and Tin Feruchemy) enhance
 
 ### Using Supernatural Senses
 
-When an effect grants you supernatural senses, this usually also grants you the [[Mistborn Handbook/10 - Ch 9 Adventuring#Enhanced|Enhanced [Awareness]]] condition (see [[Mistborn Handbook/10 - Ch 9 Adventuring|Conditions]] in chapter 9). In addition to that benefit, you and your GM can find creative ways to use your senses.
+When an effect grants you supernatural senses, this usually also grants you the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Enhanced|Enhanced [Awareness]]] condition (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Conditions]] in chapter 9). In addition to that benefit, you and your GM can find creative ways to use your senses.
 
 In some situations, your supernatural senses might allow you to automatically learn information that others with mundane senses would have to make a test to learn. For example, supernatural hearing could allow you to easily listen to a whispered conversation across a crowded ballroom.
 
@@ -439,11 +439,11 @@ In other situations, your supernatural senses might even allow you to make a tes
 
 ### Overstimulation
 
-Your supernatural senses make you more sensitive to sudden bursts of sensory input, such as loud noises for supernatural hearing, flashes of light for supernatural sight, or potent scents for supernatural smell. The first time each round that you experience heightened sensory input related to a supernatural sense, you must succeed on a Discipline test to avoid **overstimulation**. The DC of this test equals 12 + the value of your [[Mistborn Handbook/10 - Ch 9 Adventuring#Enhanced|Enhanced [Awareness]]] condition. On a failure, you become [[Mistborn Handbook/10 - Ch 9 Adventuring#Disoriented|Disoriented]] until the end of your next turn.
+Your supernatural senses make you more sensitive to sudden bursts of sensory input, such as loud noises for supernatural hearing, flashes of light for supernatural sight, or potent scents for supernatural smell. The first time each round that you experience heightened sensory input related to a supernatural sense, you must succeed on a Discipline test to avoid **overstimulation**. The DC of this test equals 12 + the value of your [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Enhanced|Enhanced [Awareness]]] condition. On a failure, you become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Disoriented|Disoriented]] until the end of your next turn.
 
 ## Senses and Disabilities
 
-If you usually rely on a sense and suddenly lose it, this can disrupt your perception of the world; for example, if you rely on sight but someone throws a handful of ash in your eyes, you might temporarily gain the [[Mistborn Handbook/10 - Ch 9 Adventuring#Disoriented|Disoriented]] condition. However, if you’re accustomed to having limited access to one or more senses (such as with some disabled characters), you already rely on other senses to interact with your surroundings.
+If you usually rely on a sense and suddenly lose it, this can disrupt your perception of the world; for example, if you rely on sight but someone throws a handful of ash in your eyes, you might temporarily gain the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Disoriented|Disoriented]] condition. However, if you’re accustomed to having limited access to one or more senses (such as with some disabled characters), you already rely on other senses to interact with your surroundings.
 
 If you create a disabled character who has adapted to other senses, you can make Perception tests (and all tests) the same as an abled character. However, if you’d like your disability to affect not only your story, but also the game’s rules, you can work with the GM to decide when your limited senses might make some tests impossible, impose a disadvantage on others, or even grant an advantage (reflecting your practice with other senses).
 
@@ -453,7 +453,7 @@ Your character starts the game with eighteen basic **skills**, each representing
 
 ## Using Skills
 
-When your character attempts a task that has a chance of failure—a daring attack, a rousing speech, a subtle theft—the GM will probably ask you to make a **skill test**, as described in the [[Mistborn Handbook/01 - Introduction#Rolling a Skill Test|Rolling a Skill Test]] section in this book’s introduction. The same also applies to NPCs and the GM; whether an NPC is attempting to attack you or scale the side of a building, the GM will make a test to determine that attempt’s outcome. (If you’re attempting something that has no downsides or that you’d eventually succeed on with enough attempts, the GM probably won’t require a test.)
+When your character attempts a task that has a chance of failure—a daring attack, a rousing speech, a subtle theft—the GM will probably ask you to make a **skill test**, as described in the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/01 - Introduction#Rolling a Skill Test|Rolling a Skill Test]] section in this book’s introduction. The same also applies to NPCs and the GM; whether an NPC is attempting to attack you or scale the side of a building, the GM will make a test to determine that attempt’s outcome. (If you’re attempting something that has no downsides or that you’d eventually succeed on with enough attempts, the GM probably won’t require a test.)
 
 You usually don’t need any ranks in a skill to test it, but your chance of success increases with your inherent aptitude (represented by that skill’s corresponding attribute) and your relevant training (represented by your rank in that skill).
 
@@ -463,7 +463,7 @@ Everything you attempt during gameplay uses one of your skills—but there’s o
 
 Each skill is associated with one of your attributes, as stated in parentheses in that skill’s title (both in this chapter and on your character sheet’s list of skills). Additionally, you have anywhere from 0 to 5 **ranks** in each skill, depending on your tier and your choices during character creation and advancement. Narratively, ranks indicate your education and lived experience.
 
-Your **skill modifier** equals your score in that skill’s associated attribute + your number of ranks in that skill. You add this modifier to each test you make with that skill, and you also use it for a few other calculations; for example, when you hit with an attack, you add your skill modifier to the damage dealt (see [[Mistborn Handbook/11 - Ch 10 Combat|Attacking]] in chapter 10).
+Your **skill modifier** equals your score in that skill’s associated attribute + your number of ranks in that skill. You add this modifier to each test you make with that skill, and you also use it for a few other calculations; for example, when you hit with an attack, you add your skill modifier to the damage dealt (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Attacking]] in chapter 10).
 
 ### Difficulty Class
 
@@ -481,7 +481,7 @@ Some abilities call for a specific DC to succeed. For example, when you use the 
 
 #### Defenses
 
-When you make a skill test targeting another character—such as pickpocketing or threatening them—the DC of that test is usually determined by one of that character’s defenses (see the earlier [[Mistborn Handbook/04 - Ch 3 Character Statistics|Defenses]] section). This is typically the defense in the same category as the skill being used; for example, if you’re threatening someone, you’ll usually test Intimidation against their Cognitive defense. However, the GM or certain rules may occasionally have you use different defenses; for example, the Cheap Shot talent lets you make an attack against a target’s Cognitive defense instead of their Physical defense.
+When you make a skill test targeting another character—such as pickpocketing or threatening them—the DC of that test is usually determined by one of that character’s defenses (see the earlier [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics|Defenses]] section). This is typically the defense in the same category as the skill being used; for example, if you’re threatening someone, you’ll usually test Intimidation against their Cognitive defense. However, the GM or certain rules may occasionally have you use different defenses; for example, the Cheap Shot talent lets you make an attack against a target’s Cognitive defense instead of their Physical defense.
 
 **Adjusting DCs.** The relevant defense’s value sets the base DC for that skill test, but the GM might further modify the DC based on other circumstances, using the upcoming Difficulty Class Examples table as guidance for how big of an adjustment is warranted. For example, if a character is particularly friendly to you, the GM might lower the DC for persuading them; perhaps they have a Spiritual defense of 14, but the GM lowers that DC to 11 for you. Or if a character is on high alert, it might be significantly harder to pick their pocket. Unlike granting you advantages and disadvantages, the GM doesn’t necessarily have to tell you when something is modifying a character’s defense, so use caution!
 
@@ -489,7 +489,7 @@ When you make a skill test targeting another character—such as pickpocketing o
 
 In many cases, the GM sets the DC based on their judgment of the difficulty of the task and the normal range of DCs. The Difficulty Class Examples table provides some guidance, but the GM can choose any number that feels like a good fit. The task’s difficulty should be gauged by the abilities of an average humanoid, not a player character. For example, if leaping across a particular gap would be nearly impossible for a random citizen of Elendel, the Athletics test to do so would be DC 30.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Difficulty Class Examples]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Difficulty Class Examples]]
 
 #### Opposed Tests
 
@@ -533,7 +533,7 @@ If a test is affected by both advantages and disadvantages, they cancel each oth
 
 #### Affecting Multiple Targets
 
-Some abilities instruct you to make a single test against multiple targets. However, you might have advantages or disadvantages against only some of those targets. In that case, first roll the test without those additional dice, then roll the dice for your advantages or disadvantages separately, applying them only to the results for the affected targets and ignoring them for the other targets. (For more information, see “[[Mistborn Handbook/11 - Ch 10 Combat#Attacks With Multiple Targets|Attacks With Multiple Targets]]” in chapter 10.)
+Some abilities instruct you to make a single test against multiple targets. However, you might have advantages or disadvantages against only some of those targets. In that case, first roll the test without those additional dice, then roll the dice for your advantages or disadvantages separately, applying them only to the results for the affected targets and ignoring them for the other targets. (For more information, see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat#Attacks With Multiple Targets|Attacks With Multiple Targets]]” in chapter 10.)
 
 #### Enemy NPC Tests
 
@@ -545,7 +545,7 @@ When you attempt a task with the help of others, you typically don’t all make 
 
 #### Helping in Combat
 
-Assisting allies in combat can be challenging, as every second matters. If you want to help in combat, you must use the Aid reaction (see [[Mistborn Handbook/11 - Ch 10 Combat|Actions and Reactions]] in chapter 10).
+Assisting allies in combat can be challenging, as every second matters. If you want to help in combat, you must use the Aid reaction (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Actions and Reactions]] in chapter 10).
 
 #### Helping Outside Combat
 
@@ -555,7 +555,7 @@ The GM may ask you to describe exactly how you’re contributing to a test. Char
 
 #### Helping in Complex Situations
 
-For complex or particularly important tasks involving a group, the GM might have your group complete an endeavor (see [[Mistborn Handbook/13 - Ch 12 Endeavors|chapter 12]]) rather than a single test with advantages. For example, if you’re sneaking into a guarded keep, the GM will probably ask for more than a single Stealth test.
+For complex or particularly important tasks involving a group, the GM might have your group complete an endeavor (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/13 - Ch 12 Endeavors|chapter 12]]) rather than a single test with advantages. For example, if you’re sneaking into a guarded keep, the GM will probably ask for more than a single Stealth test.
 
 ### Varied Test Results
 
@@ -571,9 +571,9 @@ On the other hand, if your test result is far above or below the DC, you have a 
 
 #### Opportunities and Complications
 
-On tests where the GM has raised the stakes, the plot die introduces a wide spectrum of outcomes due to Opportunities and Complications. You can also gain Opportunities and Complications from various talents and from high or low d20 rolls (see both the [[Mistborn Handbook/01 - Introduction#Opportunities and Complications|Opportunities and Complications]] section in this book’s introduction, and the upcoming “[[Mistborn Handbook/04 - Ch 3 Character Statistics#Opportunity and Complication Ranges|Opportunity and Complication Ranges]]” section). These narrative side effects create an interesting mix of results.
+On tests where the GM has raised the stakes, the plot die introduces a wide spectrum of outcomes due to Opportunities and Complications. You can also gain Opportunities and Complications from various talents and from high or low d20 rolls (see both the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/01 - Introduction#Opportunities and Complications|Opportunities and Complications]] section in this book’s introduction, and the upcoming “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Opportunity and Complication Ranges|Opportunity and Complication Ranges]]” section). These narrative side effects create an interesting mix of results.
 
-When rolling the plot die, you’ll commonly get a mix of good and bad: either succeeding with a Complication or failing with an Opportunity. These results compellingly progress your story while introducing twists or new ways forward. The [[Mistborn Handbook/17 - Appendix 2 Tables|Skill Examples]] table at the end of this chapter provides inspiration for how Opportunities and Complications might impact a test.
+When rolling the plot die, you’ll commonly get a mix of good and bad: either succeeding with a Complication or failing with an Opportunity. These results compellingly progress your story while introducing twists or new ways forward. The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Skill Examples]] table at the end of this chapter provides inspiration for how Opportunities and Complications might impact a test.
 
 Occasionally, you’ll roll a success with an Opportunity or a failure with a Complication (usually when you roll a natural 20 or 1). These are the highest highs and lowest lows, when you either gain exhilarating momentum or stop dead in your tracks. Such moments can be a good time to pivot the action to other characters, using your momentum to help others or giving someone else a chance to step in after your failure.
 
@@ -591,7 +591,7 @@ Ultimately, it’s up to your GM how many times you can retry a test before misf
 
 #### Resisting Influence
 
-When you succeed on a test to influence someone socially, such as lying to them or convincing them to help you, they might resist your influence by spending some focus. When they do, you fail to influence them despite your successful test. For details, see the [[Mistborn Handbook/12 - Ch 11 Conversations|Focus in Conversations]] section of chapter 11.
+When you succeed on a test to influence someone socially, such as lying to them or convincing them to help you, they might resist your influence by spending some focus. When they do, you fail to influence them despite your successful test. For details, see the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/12 - Ch 11 Conversations|Focus in Conversations]] section of chapter 11.
 
 #### Ongoing Skill Effects
 
@@ -601,7 +601,7 @@ To apply the same skill test to multiple characters (such as tricking multiple g
 
 ### Opportunity and Complication Ranges
 
-As described in this book’s introduction, you can gain [[Mistborn Handbook/01 - Introduction#Opportunities and Complications|Opportunities and Complications]] from a very high or low d20 roll. When you make a test, you gain an Opportunity if your d20 rolls a number that falls within your **Opportunity range**. By default, this range begins and ends at 20, so you gain an Opportunity when you roll a natural 20.
+As described in this book’s introduction, you can gain [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/01 - Introduction#Opportunities and Complications|Opportunities and Complications]] from a very high or low d20 roll. When you make a test, you gain an Opportunity if your d20 rolls a number that falls within your **Opportunity range**. By default, this range begins and ends at 20, so you gain an Opportunity when you roll a natural 20.
 
 Similarly, you gain a Complication if your d20 rolls a number that falls within your **Complication range**. By default, this range begins and ends at 1, so you gain a Complication when you roll a natural 1. However, unlike plot die Complications, this Complication doesn’t grant you a bonus to your test.
 
@@ -621,11 +621,11 @@ If an effect expands your Complication range, increase its end by the stated num
 
 #### Stacking Range Expansions
 
-Multiple expansions to Opportunity range, Complication range, or both can be applied to the same test— but only if they come from effects with different names (see “[[Mistborn Handbook/05 - Ch 4 Heroic Paths#Stacking Talents and Effects|Stacking Talents and Effects]]” in chapter 4). For example, if two different effects expand your Opportunity range by 2 each, you add an Opportunity if the die shows a 16, 17, 18, 19, or 20.
+Multiple expansions to Opportunity range, Complication range, or both can be applied to the same test— but only if they come from effects with different names (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths#Stacking Talents and Effects|Stacking Talents and Effects]]” in chapter 4). For example, if two different effects expand your Opportunity range by 2 each, you add an Opportunity if the die shows a 16, 17, 18, 19, or 20.
 
 ### Skills as Actions
 
-Skill tests don’t inherently require actions or reactions to use. For example, the GM might ask everyone to make a Discipline test (no action required) to steel their nerves against a fearsome foe. However, if you make a test to do something that takes time or concentration, the GM will usually ask you to use 1 to do so (via the Use a Skill action in [[Mistborn Handbook/11 - Ch 10 Combat|chapter 10]]).
+Skill tests don’t inherently require actions or reactions to use. For example, the GM might ask everyone to make a Discipline test (no action required) to steel their nerves against a fearsome foe. However, if you make a test to do something that takes time or concentration, the GM will usually ask you to use 1 to do so (via the Use a Skill action in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|chapter 10]]).
 
 If you’re making a test as part of another action, you don’t need to use 1.
 
@@ -641,21 +641,21 @@ When you make a test with a die whose size is increased, replace it with the nex
 
 ### Targeting From a Distance
 
-Some tests target other characters (or objects) from a distance. The [[Mistborn Handbook/11 - Ch 10 Combat|Targeting and Range]] section of chapter 10 defines which characters are eligible targets for various tests. Note that if you can’t sense a character, you usually gain a disadvantage on tests made to directly affect them (such as with weapon attacks and Metallic Art powers).
+Some tests target other characters (or objects) from a distance. The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Targeting and Range]] section of chapter 10 defines which characters are eligible targets for various tests. Note that if you can’t sense a character, you usually gain a disadvantage on tests made to directly affect them (such as with weapon attacks and Metallic Art powers).
 
 #### Anatomy of a Skill
 
-The upcoming sections describe the eighteen basic skills available to all characters in this game. (In addition to these skills, you might choose a Metalborn path and unlock the Allomancy or Feruchemy skill, as described in [[Mistborn Handbook/06 - Ch 5 Metalborn Paths|chapter 5]].) Each section includes the following details:
+The upcoming sections describe the eighteen basic skills available to all characters in this game. (In addition to these skills, you might choose a Metalborn path and unlock the Allomancy or Feruchemy skill, as described in [[06 - Ch 5 Metalborn Paths|chapter 5]].) Each section includes the following details:
 
-**Title and Attribute.** Each entry’s title states the name of that skill, followed by the associated attribute. You’ll use this attribute to calculate your skill modifier, as described earlier in “[[Mistborn Handbook/04 - Ch 3 Character Statistics#Skill Ranks and Modifiers|Skill Ranks and Modifiers]].”
+**Title and Attribute.** Each entry’s title states the name of that skill, followed by the associated attribute. You’ll use this attribute to calculate your skill modifier, as described earlier in “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Skill Ranks and Modifiers|Skill Ranks and Modifiers]].”
 
 **Relevant Tasks.** Each entry lists some tasks that use that skill. This isn’t a comprehensive list—it’s up to you and your GM to decide what skill best applies for anything you might attempt.
 
 **Special Situations.** Some entries provide guidance for using that skill in special ways. For example, the Medicine skill gives examples of how you can treat wounded allies.
 
-**Gaining Advantage.** Each entry suggests creative ways you might use that skill with the Gain Advantage action (see [[Mistborn Handbook/11 - Ch 10 Combat|Actions and Reactions]] in chapter 10), giving you the upper hand on your next test against that foe.
+**Gaining Advantage.** Each entry suggests creative ways you might use that skill with the Gain Advantage action (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Actions and Reactions]] in chapter 10), giving you the upper hand on your next test against that foe.
 
-At the end of this chapter, the [[Mistborn Handbook/17 - Appendix 2 Tables|Skill Examples]] table provides examples of tasks, suggested DCs, and inspiration for how you and the GM might resolve successes, failures, Opportunities, and Complications for different skills. Many of the outcomes in this table are purely narrative; however, some include mechanical effects that can heighten the drama or give players a chance to use their abilities. GMs are encouraged to improvise such effects regardless of whether the game rules directly call for them, and players should feel free to suggest interesting effects that support the story.
+At the end of this chapter, the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Skill Examples]] table provides examples of tasks, suggested DCs, and inspiration for how you and the GM might resolve successes, failures, Opportunities, and Complications for different skills. Many of the outcomes in this table are purely narrative; however, some include mechanical effects that can heighten the drama or give players a chance to use their abilities. GMs are encouraged to improvise such effects regardless of whether the game rules directly call for them, and players should feel free to suggest interesting effects that support the story.
 
 ## Agility (Speed)
 
@@ -671,9 +671,9 @@ Agility reflects your capacity to maneuver within your environment, steer a moun
 
 ## Athletics (Strength)
 
-Athletics reflects your physical prowess, brawn, endurance, and resistance to harm and physical adversity. Athletics can allow you to overcome an obstacle with feats of strength such as lifting, pushing, climbing, jumping horizontally and vertically, and pulling. Athletics is also used to make unarmed attacks, as described in the “[[Mistborn Handbook/08 - Ch 7 Items|Weapons]]” section of chapter 7.
+Athletics reflects your physical prowess, brawn, endurance, and resistance to harm and physical adversity. Athletics can allow you to overcome an obstacle with feats of strength such as lifting, pushing, climbing, jumping horizontally and vertically, and pulling. Athletics is also used to make unarmed attacks, as described in the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|Weapons]]” section of chapter 7.
 
-**Jumping.** While moving, a character can generally jump a horizontal distance equal to their own size without making a test, and a vertical distance equal to half their size (see “[[Mistborn Handbook/11 - Ch 10 Combat|Movement and Positioning]]” in chapter 10). For longer jumps, they must make an Athletics test. This test’s DC is determined by the GM, but as a general guideline, a 30-foot jump on Scadrial would be nearly impossible (DC 30) for a Medium character.
+**Jumping.** While moving, a character can generally jump a horizontal distance equal to their own size without making a test, and a vertical distance equal to half their size (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Movement and Positioning]]” in chapter 10). For longer jumps, they must make an Athletics test. This test’s DC is determined by the GM, but as a general guideline, a 30-foot jump on Scadrial would be nearly impossible (DC 30) for a Medium character.
 
 **Gaining Advantage.** You might Gain Advantage with Athletics by…
 
@@ -692,7 +692,7 @@ Athletics reflects your physical prowess, brawn, endurance, and resistance to ha
 
 Crafting uses your ingenuity and knowledge to design and build physical objects with what you have on hand. When you’re crafting commonplace items like simple machines, traps, pottery, woodworking, sketches, sewing, or impromptu tools, you test Crafting to determine your success.
 
-**Crafting Complex Items.** If you want to create more complex items like weapons, armor, equipment, buildings, grand works of art, and special inventions, you need to have a corresponding expertise to make a Crafting test. The [[Mistborn Handbook/08 - Ch 7 Items|Crafting]] section of chapter 7 presents the full rules of crafting.
+**Crafting Complex Items.** If you want to create more complex items like weapons, armor, equipment, buildings, grand works of art, and special inventions, you need to have a corresponding expertise to make a Crafting test. The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|Crafting]] section of chapter 7 presents the full rules of crafting.
 
 **Repairing Items.** This game has no specific rules about damaging or repairing existing items, and it’s assumed you can competently maintain your equipment. But when it suits the story, the GM might call for a Crafting test to repair or reassemble an important item.
 
@@ -748,7 +748,7 @@ Discipline determines your ability to control your outward reactions and respons
 
 Heavy Weaponry represents your experience wielding the most devastating weapons of warfare. You test Heavy Weaponry when you attack with or otherwise use weapons that are literally heavy, like hammers and koloss blades. In Era 2, you also do so when you use firearms with heavy recoil, like hand cannons and shotguns.
 
-**Heavy vs. Light Weaponry.** Weapons that use the Heavy Weaponry skill tend to have greater reach and heft than light weapons, increasing their lethality but reducing their maneuverability and precision. The “[[Mistborn Handbook/11 - Ch 10 Combat#Creative Maneuvers|Creative Maneuvers]]” section of chapter 10 suggests creative ways you might fight with your heavy weapon.
+**Heavy vs. Light Weaponry.** Weapons that use the Heavy Weaponry skill tend to have greater reach and heft than light weapons, increasing their lethality but reducing their maneuverability and precision. The “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat#Creative Maneuvers|Creative Maneuvers]]” section of chapter 10 suggests creative ways you might fight with your heavy weapon.
 
 **Gaining Advantage.** You might Gain Advantage with Heavy Weaponry by…
 
@@ -805,7 +805,7 @@ Leadership represents your ability to inspire people, draw attention, and comman
 
 Light Weaponry represents your facility with smaller armaments that are wielded with finesse rather than raw strength. You test with Light Weaponry when you attack with or otherwise use knives, sidearms, slings, and similar weapons—and in Era 2, when you use firearms with a relatively light recoil, like boot pistols and revolvers.
 
-**Light vs. Heavy Weaponry.** Though light weapons don’t have the same range and damage as heavy weapons, they’re more quick, subtle, and precise. The “[[Mistborn Handbook/11 - Ch 10 Combat#Creative Maneuvers|Creative Maneuvers]]” section of chapter 10 suggests ways you might fight with your light weapon.
+**Light vs. Heavy Weaponry.** Though light weapons don’t have the same range and damage as heavy weapons, they’re more quick, subtle, and precise. The “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat#Creative Maneuvers|Creative Maneuvers]]” section of chapter 10 suggests ways you might fight with your light weapon.
 
 **Gaining Advantage.** You might Gain Advantage with Light Weaponry by…
 
@@ -819,7 +819,7 @@ Light Weaponry represents your facility with smaller armaments that are wielded 
 
 Lore establishes your familiarity with history, current events, folklore, religions, places, and science. When you attempt to recall information that you could possibly know from your background, you test Lore.
 
-**Lore and Expertise.** In addition to the general Lore skill, your expertises represent areas of specific knowledge (see the earlier [[Mistborn Handbook/04 - Ch 3 Character Statistics|Expertises]] section). If you want to recall basic information relating to an expertise of yours, the GM should generally give you the information without a test. By contrast, if you want to know secret, forbidden, or otherwise obscure knowledge about a subject, you might have to test even if you have an expertise. If you succeed on a test to recall such hidden knowledge but you don’t have the relevant expertise, you might not learn enough key details to gain the full picture.
+**Lore and Expertise.** In addition to the general Lore skill, your expertises represent areas of specific knowledge (see the earlier [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics|Expertises]] section). If you want to recall basic information relating to an expertise of yours, the GM should generally give you the information without a test. By contrast, if you want to know secret, forbidden, or otherwise obscure knowledge about a subject, you might have to test even if you have an expertise. If you succeed on a test to recall such hidden knowledge but you don’t have the relevant expertise, you might not learn enough key details to gain the full picture.
 
 **Gaining Advantage.** You might Gain Advantage with Lore by…
 
@@ -831,11 +831,11 @@ Lore establishes your familiarity with history, current events, folklore, religi
 
 ## Medicine (Intellect)
 
-Medicine measures your ability to heal yourself and others through your knowledge of anatomy, psychology, and surgery. When you attempt to diagnose physical maladies, support those with mental or physical illnesses, or determine a corpse’s time of death, you test Medicine. You might even carry surgical supplies (see [[Mistborn Handbook/08 - Ch 7 Items|Items]] in chapter 7) to make your ministrations more effective.
+Medicine measures your ability to heal yourself and others through your knowledge of anatomy, psychology, and surgery. When you attempt to diagnose physical maladies, support those with mental or physical illnesses, or determine a corpse’s time of death, you test Medicine. You might even carry surgical supplies (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|Items]] in chapter 7) to make your ministrations more effective.
 
-**Using Medicine in Combat.** If you have at least one rank in Medicine, you can spend 2 focus and Use a Skill (see [[Mistborn Handbook/11 - Ch 10 Combat|Actions and Reactions]] in chapter 10) to make a DC 15 Medicine test to treat a conscious ally within your reach, or you can make the same test with a disadvantage to treat yourself. On a success, your target recovers health equal to your ranks in Medicine.
+**Using Medicine in Combat.** If you have at least one rank in Medicine, you can spend 2 focus and Use a Skill (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Actions and Reactions]] in chapter 10) to make a DC 15 Medicine test to treat a conscious ally within your reach, or you can make the same test with a disadvantage to treat yourself. On a success, your target recovers health equal to your ranks in Medicine.
 
-**Using Medicine While Resting.** During a long rest, you can make a DC 20 Medicine test to treat an ally’s injury (see “[[Mistborn Handbook/10 - Ch 9 Adventuring#Injuries|Injuries]]” in chapter 9), or you can make the same test with disadvantage to treat yourself. On a success, the duration of a shallow or vicious injury is reduced by 1d4 days. Once a character has been treated this way (whether successfully or unsuccessfully), they can’t be treated in this way again during that long rest.
+**Using Medicine While Resting.** During a long rest, you can make a DC 20 Medicine test to treat an ally’s injury (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Injuries|Injuries]]” in chapter 9), or you can make the same test with disadvantage to treat yourself. On a success, the duration of a shallow or vicious injury is reduced by 1d4 days. Once a character has been treated this way (whether successfully or unsuccessfully), they can’t be treated in this way again during that long rest.
 
 **Gaining Advantage.** You might Gain Advantage with Medicine by…
 
@@ -851,9 +851,9 @@ Medicine measures your ability to heal yourself and others through your knowledg
 
 ## Perception (Awareness)
 
-Perception signifies your ability to notice details about your surroundings. When you inspect the area around you, search for a hidden character or item, or try to recognize something from your memory or a description, you test Perception. (The upcoming [[Mistborn Handbook/04 - Ch 3 Character Statistics#Stealth (Speed)|Stealth]] section contains rules for detecting hidden characters.)
+Perception signifies your ability to notice details about your surroundings. When you inspect the area around you, search for a hidden character or item, or try to recognize something from your memory or a description, you test Perception. (The upcoming [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Stealth (Speed)|Stealth]] section contains rules for detecting hidden characters.)
 
-**Senses and Perception.** Much like how this game doesn’t restrict your senses to sight and hearing, you don’t need access to all senses to test Perception. The earlier [[Mistborn Handbook/04 - Ch 3 Character Statistics|Senses]] section provides guidance on navigating the world with limited senses, but in general, each character tests Perception in the same way regardless of which senses they can access.
+**Senses and Perception.** Much like how this game doesn’t restrict your senses to sight and hearing, you don’t need access to all senses to test Perception. The earlier [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics|Senses]] section provides guidance on navigating the world with limited senses, but in general, each character tests Perception in the same way regardless of which senses they can access.
 
 **Gaining Advantage.** You might Gain Advantage with Perception by…
 
@@ -881,7 +881,7 @@ Persuasion reflects your charisma, social fluency, and assumed trustworthiness. 
 
 Stealth represents your ability to avoid or escape attention. When you attempt to sneak, hide, blend into a crowd, or similarly avoid notice or lose pursuers, you test Stealth.
 
-**Hiding in Combat.** In combat, you can Use a Skill (see [[Mistborn Handbook/11 - Ch 10 Combat|Actions and Reactions]] in chapter 10) to attempt to hide from a character, making a Stealth test against their Spiritual defense. You can hide only if you’re in cover, if you’re in an area where your target’s primary sense is obscured (such as darkness), or if your target has no line of effect to you (see [[Mistborn Handbook/11 - Ch 10 Combat|Targeting and Range]] in chapter 10). If you’re attempting to hide from more than one character, compare your test result to each character’s Spiritual defense.
+**Hiding in Combat.** In combat, you can Use a Skill (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Actions and Reactions]] in chapter 10) to attempt to hide from a character, making a Stealth test against their Spiritual defense. You can hide only if you’re in cover, if you’re in an area where your target’s primary sense is obscured (such as darkness), or if your target has no line of effect to you (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Targeting and Range]] in chapter 10). If you’re attempting to hide from more than one character, compare your test result to each character’s Spiritual defense.
 
 Each character you succeed against loses track of you and can no longer sense you, and they remain unaware of your exact location until you attack or take another action that would logically expose your position. As , you can covertly signal one or more allies you can sense, revealing your position to them. A character searching for you can Use a Skill to make a Perception test to search for you; the DC for this test equals the result of your original Stealth test, and it gains a disadvantage if you’re in cover or an area where the character’s primary sense is obscured. On a success, that character senses you.
 
@@ -916,7 +916,7 @@ Survival indicates your competence in obtaining vital resources and shelter, avo
 
 Thievery covers all manner of tasks that require precise manual dexterity or are useful in skulduggery. When you pickpocket, lockpick, perform sleight of hand, escape from bonds, tie knots, or create disguises, you test Thievery.
 
-**Pickpocketing in Combat.** You can Use a Skill (see [[Mistborn Handbook/11 - Ch 10 Combat|Actions and Reactions]] in chapter 10) to make a Thievery test to pick the pocket of a character within your reach. When you make this test, raise the stakes. The DC of this test equals the target’s Spiritual defense, and you gain a disadvantage if the target is aware of your presence.
+**Pickpocketing in Combat.** You can Use a Skill (see [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Actions and Reactions]] in chapter 10) to make a Thievery test to pick the pocket of a character within your reach. When you make this test, raise the stakes. The DC of this test equals the target’s Spiritual defense, and you gain a disadvantage if the target is aware of your presence.
 
 **Gain Advantage.** You might use Gain Advantage with Thievery by…
 
@@ -926,4 +926,4 @@ Thievery covers all manner of tasks that require precise manual dexterity or are
 
 - Donning a ridiculous piece of prepared costuming to shock your target.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Skill Examples]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Skill Examples]]

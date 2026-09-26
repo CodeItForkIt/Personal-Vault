@@ -12,4 +12,4 @@ aliases: ["Rapid Recovery"]
 
 *When you’re roughed up, you know how to dust yourself off and reenter the fray without missing a beat.*
 
-Use the [[Actions/Basic/Recover|Recover]] action as 1. When you do so, you can only recover health, not focus. In each scene, you can use this talent to [[Actions/Basic/Recover|Recover]] an additional number of times equal to your tier (instead of only once).
+Use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Recover|Recover]] action as 1. When you do so, you can only recover health, not focus. In each scene, you can use this talent to [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Recover|Recover]] an additional number of times equal to your tier (instead of only once).

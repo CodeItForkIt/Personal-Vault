@@ -18,7 +18,7 @@ You gain two new singer forms—[[Ancestries/Singer/Forms/Mediationform|Mediatio
 
 You’ve bonded with a bindspren. While in this form, your Presence increases by 1.
 
-Additionally, you don’t have to spend focus to use the [[Actions/Basic/Aid|Aid]] reaction.
+Additionally, you don’t have to spend focus to use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Aid|Aid]] reaction.
 
 **Scholarform**
 
@@ -28,4 +28,4 @@ You’ve bonded with a logicspren. While in this form, your Intellect increases 
 
 Additionally, when you adopt this form, choose one cultural or utility expertise you don’t already have, and choose one cognitive skill that isn’t a surge skill. You temporarily gain that expertise, and you temporarily gain an additional rank in that skill.
 
-If you gain the [[Heroic Paths/Scholar/Erudition|Erudition]] talent from the Scholar path, the expertise and skill rank you gain from your scholarform count as being granted by Erudition; when Erudition allows you to reassign expertises and skills, your scholarform expertise and skill are also eligible for reassignment. You can’t choose the same skill for both scholarform and Erudition.
+If you gain the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Erudition|Erudition]] talent from the Scholar path, the expertise and skill rank you gain from your scholarform count as being granted by Erudition; when Erudition allows you to reassign expertises and skills, your scholarform expertise and skill are also eligible for reassignment. You can’t choose the same skill for both scholarform and Erudition.

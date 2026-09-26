@@ -14,4 +14,4 @@ aliases: ["Prophetic Electrum"]
 
 When you burn electrum, you can reroll one of the d20s before recording your electrum shadow results. You must use the new result.
 
-Additionally, when you burn electrum while [[Mistborn Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]], you end that condition on yourself, and you regain any actions or reactions you lost to that condition.
+Additionally, when you burn electrum while [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]], you end that condition on yourself, and you regain any actions or reactions you lost to that condition.

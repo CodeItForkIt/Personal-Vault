@@ -12,6 +12,6 @@ aliases: ["Evasive Leecher"]
 
 *You’re prepared to Leech away Investiture even as you avoid danger.*
 
-At the beginning of combat and at the start of each of your turns, gain an additional r, which you can use only for [[Actions/Basic/Dodge|Dodge]] or your [[Metallic Arts/Chromium/Talents/Allomancy/Reactive Leech|Reactive Leech]] talent.
+At the beginning of combat and at the start of each of your turns, gain an additional r, which you can use only for [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Dodge|Dodge]] or your [[Reactive Leech|Reactive Leech]] talent.
 
-Additionally, after you use the [[Actions/Basic/Dodge|Dodge]] reaction against an attacker within your reach, you can spend 1 focus (and the usual Investiture) to target them with **Burn Chromium**.
+Additionally, after you use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Dodge|Dodge]] reaction against an attacker within your reach, you can spend 1 focus (and the usual Investiture) to target them with **Burn Chromium**.

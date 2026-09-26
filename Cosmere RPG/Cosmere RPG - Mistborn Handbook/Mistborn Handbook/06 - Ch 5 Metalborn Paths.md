@@ -15,7 +15,7 @@ Over the generations after the Empire’s fall and the world-changing Catacendre
 
 ## Using Metalborn Paths
 
-The **Metalborn paths** in this chapter operate much like heroic paths, following the rules in the “[[Mistborn Handbook/05 - Ch 4 Heroic Paths|Using Paths and Talents]]” section of chapter 4. However, due to the genetic nature of Scadrial’s Invested Arts, Metalborn paths are mutually exclusive; once you choose the key talent for a Metalborn path, you can’t ever choose another.
+The **Metalborn paths** in this chapter operate much like heroic paths, following the rules in the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths|Using Paths and Talents]]” section of chapter 4. However, due to the genetic nature of Scadrial’s Invested Arts, Metalborn paths are mutually exclusive; once you choose the key talent for a Metalborn path, you can’t ever choose another.
 
 ![[pg126_HB05_Sazed Feruchemist_Billy Christian.webp]]
 
@@ -23,7 +23,7 @@ The **Metalborn paths** in this chapter operate much like heroic paths, followin
 
 ## Metalborn Path Options
 
-This chapter presents five playable Metalborn paths. Much like how each heroic path has three specialties, each Metalborn path grants access to at least two talent trees (and possibly many more): one intrinsic to that Metalborn path, and one for each Metallic Art power you can access through it. The trees for each Metalborn path’s intrinsic talents are presented in this chapter, and [[Mistborn Handbook/07 - Ch 6 Metallic Arts|chapter 6]] details the Metallic Art powers and their corresponding talents.
+This chapter presents five playable Metalborn paths. Much like how each heroic path has three specialties, each Metalborn path grants access to at least two talent trees (and possibly many more): one intrinsic to that Metalborn path, and one for each Metallic Art power you can access through it. The trees for each Metalborn path’s intrinsic talents are presented in this chapter, and [[07 - Ch 6 Metallic Arts|chapter 6]] details the Metallic Art powers and their corresponding talents.
 
 Each Metalborn path grants you a different mix of Allomantic and/or Feruchemical powers, as detailed in that path later in this chapter:
 
@@ -39,23 +39,23 @@ Each Metalborn path grants you a different mix of Allomantic and/or Feruchemica
 
 ### Choosing Powers
 
-When you acquire the key talent from your Metalborn path (see “[[Mistborn Handbook/06 - Ch 5 Metalborn Paths#Choosing a Snap or Heritage Talent|Choosing a Snap or Heritage Talent]]”), it allows you to choose one or more powers from chapter 6. Both Allomancy and Feruchemy offer over a dozen different metals to choose from, so this can be an intimidating choice! To help make your decision easier, see the “[[Mistborn Handbook/07 - Ch 6 Metallic Arts|Metals of Scadrial]]” section of chapter 6, which summarizes the effects of each metal and lists which eras they’re available in. [[Mistborn Handbook/07 - Ch 6 Metallic Arts|Chapter 6]] also presents the full rules for each Allomantic and Feruchemical power. Once you’ve chosen your powers, you can track them on the supplemental supplemental Metallic Arts character sheet at the end of this book.
+When you acquire the key talent from your Metalborn path (see “[[06 - Ch 5 Metalborn Paths#Choosing a Snap or Heritage Talent|Choosing a Snap or Heritage Talent]]”), it allows you to choose one or more powers from chapter 6. Both Allomancy and Feruchemy offer over a dozen different metals to choose from, so this can be an intimidating choice! To help make your decision easier, see the “[[07 - Ch 6 Metallic Arts|Metals of Scadrial]]” section of chapter 6, which summarizes the effects of each metal and lists which eras they’re available in. [[07 - Ch 6 Metallic Arts|Chapter 6]] also presents the full rules for each Allomantic and Feruchemical power. Once you’ve chosen your powers, you can track them on the supplemental supplemental Metallic Arts character sheet at the end of this book.
 
-When you first choose a power, you can only use its nascent version—an early, unpracticed manifestation of your power (see “[[Mistborn Handbook/07 - Ch 6 Metallic Arts#Nascent Powers|Nascent Powers]]” in chapter 6). After you complete a Metalborn goal for your power (see the upcoming “[[Mistborn Handbook/06 - Ch 5 Metalborn Paths#Metalborn Goals and Rewards|Metalborn Goals]]” section) and have access to the specific metal required, you can wield the full power (as presented in its section in [[Mistborn Handbook/07 - Ch 6 Metallic Arts|chapter 6]]).
+When you first choose a power, you can only use its nascent version—an early, unpracticed manifestation of your power (see “[[07 - Ch 6 Metallic Arts#Nascent Powers|Nascent Powers]]” in chapter 6). After you complete a Metalborn goal for your power (see the upcoming “[[06 - Ch 5 Metalborn Paths#Metalborn Goals and Rewards|Metalborn Goals]]” section) and have access to the specific metal required, you can wield the full power (as presented in its section in [[07 - Ch 6 Metallic Arts|chapter 6]]).
 
 ## Choosing a Snap or Heritage Talent
 
 The key talent for each Metalborn path is either a **Snap talent** (for Allomantic paths) or a **Heritage talent** (for Feruchemical paths). You can choose one of these key talents at any level. Allomantic and Feruchemical powers are passed down through your lineage, but choosing one of these talents represents your character first discovering these powers, which can happen at any point in life.
 
-When you first discover these powers, they’re only nascent; you’ll unlock their full potential by gaining rewards through play (see “[[Mistborn Handbook/06 - Ch 5 Metalborn Paths#Metalborn Goals and Rewards|Metalborn Goals and Rewards]]” later in this chapter).
+When you first discover these powers, they’re only nascent; you’ll unlock their full potential by gaining rewards through play (see “[[06 - Ch 5 Metalborn Paths#Metalborn Goals and Rewards|Metalborn Goals and Rewards]]” later in this chapter).
 
 **On Your Character Sheet.** When you choose this key talent, it immediately grants you a Metalborn goal, which you can pursue to unlock the potential of your Metallic Arts. Record this goal on the back of your character sheet.
 
 You also gain an Invested skill and other benefits, depending on whether your path uses Allomancy or Feruchemy (or in the case of Twinborn, both):
 
-**If you use Allomancy,** add the Allomancy skill to your character sheet, writing it on the blank line under your other cognitive skills. Record your skill modifier next to it; Allomancy uses your Willpower attribute. You also gain an Investiture score, representing your ability to burn certain metals to fuel your powers (see the upcoming “[[Mistborn Handbook/06 - Ch 5 Metalborn Paths#Allomancy: Using Investiture|Allomancy: Using Investiture]]” section).
+**If you use Allomancy,** add the Allomancy skill to your character sheet, writing it on the blank line under your other cognitive skills. Record your skill modifier next to it; Allomancy uses your Willpower attribute. You also gain an Investiture score, representing your ability to burn certain metals to fuel your powers (see the upcoming “[[06 - Ch 5 Metalborn Paths#Allomancy: Using Investiture|Allomancy: Using Investiture]]” section).
 
-**If you use Feruchemy,** add the Feruchemy skill to your character sheet, writing it on the blank line under your other cognitive skills. Record your skill modifier next to it; Feruchemy uses your Intellect attribute. This allows you to infuse your power into certain metals and, eventually, into a custom-made metalmind (see the upcoming “[[Mistborn Handbook/06 - Ch 5 Metalborn Paths#Feruchemy: Using Metalminds|Feruchemy: Using Metalminds]]” section).
+**If you use Feruchemy,** add the Feruchemy skill to your character sheet, writing it on the blank line under your other cognitive skills. Record your skill modifier next to it; Feruchemy uses your Intellect attribute. This allows you to infuse your power into certain metals and, eventually, into a custom-made metalmind (see the upcoming “[[06 - Ch 5 Metalborn Paths#Feruchemy: Using Metalminds|Feruchemy: Using Metalminds]]” section).
 
 **If you use both Allomancy and Feruchemy,** follow the above instructions for both. Since your character sheet only has one blank line in the cognitive column, you’ll need to write one of these two skills on another blank; you can draw an arrow from it to the cognitive column to remember it’s a cognitive skill.
 
@@ -108,9 +108,9 @@ For Allomancers, Investiture usually manifests through “burning” ingested me
 
 **Investiture** is a spiritual resource that mechanically operates much like focus does. For an Allomancer character (including Mistborn, Mistings, and Twinborn), your source of Investiture is the metal corresponding to your Allomantic power. Your Investiture pool reflects the amount of that metal you’ve consumed and can use efficiently.
 
-The Investiture field on your character sheet remains blank until you gain access to an Allomantic power (typically from the key talent in the Mistborn, Misting, or Twinborn path). Once you do, you gain a maximum Investiture score (see “[[Mistborn Handbook/04 - Ch 3 Character Statistics#Investiture|Investiture]]” in chapter 3).
+The Investiture field on your character sheet remains blank until you gain access to an Allomantic power (typically from the key talent in the Mistborn, Misting, or Twinborn path). Once you do, you gain a maximum Investiture score (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Investiture|Investiture]]” in chapter 3).
 
-You can spend Investiture to activate your path’s Allomantic powers, including any abilities granted by a talent (see [[Mistborn Handbook/07 - Ch 6 Metallic Arts|chapter 6]]). Many powers allow you to choose how much Investiture to spend, up to a maximum determined by your ranks in Allomancy (see “[[Mistborn Handbook/07 - Ch 6 Metallic Arts#Power Scaling|Metallic Art Limit]]” in chapter 6). You can spend a small amount for a lesser effect, or you can use a large amount for a maximal effect—and in so doing, “flare” your power and quickly burn up your metal reserves. To replenish your reserves, you can use the Allomantic action [[Actions/Metallic Arts/Allomancy/Drink Vial|Drink Vial]] (see the next section, “[[Mistborn Handbook/06 - Ch 5 Metalborn Paths#Refreshing Metal Reserves|Refreshing Metal Reserves]]”).
+You can spend Investiture to activate your path’s Allomantic powers, including any abilities granted by a talent (see [[07 - Ch 6 Metallic Arts|chapter 6]]). Many powers allow you to choose how much Investiture to spend, up to a maximum determined by your ranks in Allomancy (see “[[07 - Ch 6 Metallic Arts#Power Scaling|Metallic Art Limit]]” in chapter 6). You can spend a small amount for a lesser effect, or you can use a large amount for a maximal effect—and in so doing, “flare” your power and quickly burn up your metal reserves. To replenish your reserves, you can use the Allomantic action [[Drink Vial|Drink Vial]] (see the next section, “[[06 - Ch 5 Metalborn Paths#Refreshing Metal Reserves|Refreshing Metal Reserves]]”).
 
 Investiture also maintains any ongoing **Invested** effects powered by your Allomancy. As a result, if your current Investiture ever drops to 0, you temporarily become **non-Invested** and can’t maintain your ongoing Allomantic effects beyond their remaining durations.
 
@@ -118,13 +118,13 @@ Investiture also maintains any ongoing **Invested** effects powered by your Allo
 
 Scadrial is a world rich with metal deposits. Most Allomancers carry vials of shaved metal suspended in a liquid like oil, water, or whiskey, allowing the Allomancer to swig the vial and replenish the metals in their stomach.
 
-If you need to quickly replenish your metals, you can use the [[Actions/Metallic Arts/Allomancy/Drink Vial|Drink Vial]] action presented in this section. This action follows the usual rules in the “[[Mistborn Handbook/11 - Ch 10 Combat|Actions and Reactions]]” section of chapter 10.
+If you need to quickly replenish your metals, you can use the [[Drink Vial|Drink Vial]] action presented in this section. This action follows the usual rules in the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|Actions and Reactions]]” section of chapter 10.
 
-You usually start scenes with full Investiture; much like drawing your weapon before a fight, it’s assumed that if you’re not Surprised when a scene begins, you’ve already instinctively swigged a vial (no action required) or had metal reserves in your stomach. However, if you start a scene with the [[Mistborn Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]] condition, you only start with 1 Investiture—just enough to passively maintain any ongoing Allomantic powers.
+You usually start scenes with full Investiture; much like drawing your weapon before a fight, it’s assumed that if you’re not Surprised when a scene begins, you’ve already instinctively swigged a vial (no action required) or had metal reserves in your stomach. However, if you start a scene with the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Surprised|Surprised]] condition, you only start with 1 Investiture—just enough to passively maintain any ongoing Allomantic powers.
 
 #### Metals From Other Sources
 
-Sometimes you might not have vials handy, and thus seek metals from other sources such as doornails, coins, or silverware. To swallow metals from unconventional sources, you can still use the [[Actions/Metallic Arts/Allomancy/Drink Vial|Drink Vial]] action, though the GM may call for a test if the metal would be difficult to break into a size and shape you can swallow. Additionally, if a metal is difficult to acquire in the current narrative, the GM might ask you to track your supply of that metal (see “Managing Metals”).
+Sometimes you might not have vials handy, and thus seek metals from other sources such as doornails, coins, or silverware. To swallow metals from unconventional sources, you can still use the [[Drink Vial|Drink Vial]] action, though the GM may call for a test if the metal would be difficult to break into a size and shape you can swallow. Additionally, if a metal is difficult to acquire in the current narrative, the GM might ask you to track your supply of that metal (see “Managing Metals”).
 
 Allomantic powers are most effective when burning pure metal (or in the case of an alloy, one with ratios precisely calibrated by a metallurgist). Additionally, burning non-Allomantic metals can be very dangerous (see “Consuming Impure Metal”).
 
@@ -136,11 +136,11 @@ Metals that haven’t been purified for Allomancer consumption are often tainted
 
 As an Allomancer, you’ll want to constantly carry a supply of vials of the metal you can burn. And if you’re Mistborn, you’ll want a supply of many different metals. Though players can keep track of exactly how much metal they have, doing so is cumbersome.
 
-As detailed in the “[[Mistborn Handbook/07 - Ch 6 Metallic Arts|Metals of Scadrial]]” section of chapter 6, metals are classified in five categories, and some are more readily available than others. For Allomancers who use the common physical metals or mental metals, the GM is encouraged to assume the PC can easily obtain enough to fuel their abilities. However, for the rarer enhancement metals, temporal metals, and God Metals, they must individually track each vial (unless the Allomancer has a reliable source of that metal, usually gained through a reward). These rarer vials are assumed to also contain the commonly available physical and mental metals in them, and Mistborn who burn multiple rare metals can combine vials during a short or long rest.
+As detailed in the “[[07 - Ch 6 Metallic Arts|Metals of Scadrial]]” section of chapter 6, metals are classified in five categories, and some are more readily available than others. For Allomancers who use the common physical metals or mental metals, the GM is encouraged to assume the PC can easily obtain enough to fuel their abilities. However, for the rarer enhancement metals, temporal metals, and God Metals, they must individually track each vial (unless the Allomancer has a reliable source of that metal, usually gained through a reward). These rarer vials are assumed to also contain the commonly available physical and mental metals in them, and Mistborn who burn multiple rare metals can combine vials during a short or long rest.
 
 If the story causes a PC to lose all their vials or be cut off from their metal supply, the GM might increase narrative tension by asking players to track their remaining metals and count them carefully.
 
-See “[[Mistborn Handbook/08 - Ch 7 Items|Metal Vials]]” in chapter 7 for information on buying rare metals, and see “[[Mistborn Handbook/09 - Ch 8 Goals and Rewards#Rare Metals|Rare Metals]]” in chapter 8 for rewards that grant a recurring supply of rare metals.
+See “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|Metal Vials]]” in chapter 7 for information on buying rare metals, and see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards#Rare Metals|Rare Metals]]” in chapter 8 for rewards that grant a recurring supply of rare metals.
 
 #### Becoming Depleted of Rare Metals
 
@@ -156,25 +156,25 @@ However, at the GM’s discretion, you can write down that number of Investiture
 
 Though Feruchemy is an Invested Art like Allomancy, Feruchemy doesn’t grant you a pool of Investiture in this game. Instead, you gain the ability to “store” a specific trait of yours (like wakefulness or weight) into a metalmind—an object made of a certain metal—then to later “tap” into that stored power.
 
-While your metalmind has 1 charge or more, it’s an Invested object (see “[[Mistborn Handbook/08 - Ch 7 Items#Invested Items|Invested Items]]” in chapter 7).
+While your metalmind has 1 charge or more, it’s an Invested object (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items#Invested Items|Invested Items]]” in chapter 7).
 
 ### Acquiring Metalminds
 
-To use a Feruchemical power, you must first possess a **metalmind** made of that power’s corresponding metal. A metalmind usually takes the form of jewelry, like earrings, rings, or bangles, but it can be any shape you want. When you complete your key talent’s “Construct a Metalmind” goal, you gain a metalmind (see the upcoming “[[Mistborn Handbook/06 - Ch 5 Metalborn Paths#Metalborn Goals and Rewards|Metalborn Goals and Rewards]]” section). You might even construct a special metalmind (see the “[[Mistborn Handbook/08 - Ch 7 Items#Crafting Metalminds|Crafting Metalminds]]” section of chapter 7)
+To use a Feruchemical power, you must first possess a **metalmind** made of that power’s corresponding metal. A metalmind usually takes the form of jewelry, like earrings, rings, or bangles, but it can be any shape you want. When you complete your key talent’s “Construct a Metalmind” goal, you gain a metalmind (see the upcoming “[[06 - Ch 5 Metalborn Paths#Metalborn Goals and Rewards|Metalborn Goals and Rewards]]” section). You might even construct a special metalmind (see the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items#Crafting Metalminds|Crafting Metalminds]]” section of chapter 7)
 
 ### Storing Traits in Metalminds
 
-When you gain a Feruchemical power, this grants you a unique Store action (described in that power’s section in [[Mistborn Handbook/07 - Ch 6 Metallic Arts|chapter 6]]). While touching that power’s metalmind, you can use that Store action to slowly store a trait in the form of **charges**. While storing charges, you experience a (usually negative) effect; later, you can spend those charges to gain a (usually beneficial) effect.
+When you gain a Feruchemical power, this grants you a unique Store action (described in that power’s section in [[07 - Ch 6 Metallic Arts|chapter 6]]). While touching that power’s metalmind, you can use that Store action to slowly store a trait in the form of **charges**. While storing charges, you experience a (usually negative) effect; later, you can spend those charges to gain a (usually beneficial) effect.
 
 Each metalmind can hold a maximum number of charges equal to 2 + your ranks in Feruchemy. While a metalmind is full, you can’t use talents or other effects that would store additional charges. Only you can store charges in your metalminds.
 
-Storing a trait takes some time, as specified in each Feruchemical power. The “[[Mistborn Handbook/07 - Ch 6 Metallic Arts|Durations of Store Actions]]” section of chapter 6 offers more guidance on how long it takes to store each charge.
+Storing a trait takes some time, as specified in each Feruchemical power. The “[[07 - Ch 6 Metallic Arts|Durations of Store Actions]]” section of chapter 6 offers more guidance on how long it takes to store each charge.
 
-As detailed in “[[Mistborn Handbook/10 - Ch 9 Adventuring|Resting]]” in chapter 9, you can store charges over a short or long rest, but when you do, you forgo the other benefits of that rest; additionally, storing over a long rest causes you to be [[Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted]].
+As detailed in “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Resting]]” in chapter 9, you can store charges over a short or long rest, but when you do, you forgo the other benefits of that rest; additionally, storing over a long rest causes you to be [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted]].
 
 ### Tapping Metalminds
 
-When you gain a Feruchemical power, this also grants you a unique Tap action (described in that power’s section in [[Mistborn Handbook/07 - Ch 6 Metallic Arts|chapter 6]]). While touching that power’s metalmind, you can use its Tap action to spend the specified charges from the metalmind, up to a maximum determined by your ranks in Feruchemy (see “[[Mistborn Handbook/07 - Ch 6 Metallic Arts|Metallic Art Limit]]” in chapter 6). Only you can spend charges from your metalminds.
+When you gain a Feruchemical power, this also grants you a unique Tap action (described in that power’s section in [[07 - Ch 6 Metallic Arts|chapter 6]]). While touching that power’s metalmind, you can use its Tap action to spend the specified charges from the metalmind, up to a maximum determined by your ranks in Feruchemy (see “[[07 - Ch 6 Metallic Arts|Metallic Art Limit]]” in chapter 6). Only you can spend charges from your metalminds.
 
 If your metalmind runs out of charges, you can’t use any talent or other effect that spends charges.
 
@@ -206,7 +206,7 @@ The Metallic Arts are complex, nuanced powers. Allomancy requires you to Push an
 
 As a result, mastering these arts requires more than simply gaining a Metallic Art power in the first place. You must set personal goals and work toward them over time to gain full use of your powers. For wielders of Allomancy, you’ll need to complete a goal to train in your power, and for wielders of Feruchemy, you’ll need to complete a goal to acquire an expertly crafted metalmind. (In chapter 5 of the Mistborn World Guide, your GM can find examples of NPCs who might be able to mentor you as you work toward your goal.)
 
-Until you complete this **Metalborn goal**, you can’t use your whole power or acquire its talents. Instead, you can only use a nascent version of the power (see “[[Mistborn Handbook/07 - Ch 6 Metallic Arts|Nascent Powers]]” in chapter 6). After completing your goal, you unlock the full power, and you can choose talents from that power’s talent tree, as with any other path. The following two sections describe how to progress your Metalborn goal and claim its reward. ([[Mistborn Handbook/09 - Ch 8 Goals and Rewards|Chapter 8]] presents the general rules for goals and rewards.)
+Until you complete this **Metalborn goal**, you can’t use your whole power or acquire its talents. Instead, you can only use a nascent version of the power (see “[[07 - Ch 6 Metallic Arts|Nascent Powers]]” in chapter 6). After completing your goal, you unlock the full power, and you can choose talents from that power’s talent tree, as with any other path. The following two sections describe how to progress your Metalborn goal and claim its reward. ([[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards|Chapter 8]] presents the general rules for goals and rewards.)
 
 If you’d like to create a character who’s already experienced with their power—perhaps a retired Pewterarm bouncer—talk to your GM, and consider choosing the Keeper or Runaway starting kit (allowing you to immediately complete your initial Metalborn goal). Alternatively, you and your GM might decide on a reason why your character isn’t using their full power at the moment—perhaps an injury or metal shortage— or the GM might adjust your initial requirements for your Metalborn goal.
 
@@ -257,7 +257,7 @@ Once you complete this goal, you gain your reward: You gain a metalmind, you ca
 
 If your metalmind is damaged, it can typically be repaired with a successful DC 15 Crafting test (assuming you have all the metal originally used to create it).
 
-If your metalmind is lost or destroyed (or if you want to create a backup), you can make a new one using the “[[Mistborn Handbook/08 - Ch 7 Items#Crafting Metalminds|Crafting Metalminds]]” rules in chapter 7.
+If your metalmind is lost or destroyed (or if you want to create a backup), you can make a new one using the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items#Crafting Metalminds|Crafting Metalminds]]” rules in chapter 7.
 
 If you create a backup metalmind despite having a functional one already, it doesn’t offer an immediate mechanical benefit. While you still possess your original metalmind, you can’t store additional charges in a backup metalmind, and your maximum metalmind charge remains the same. However, if your original metalmind is lost or destroyed, you can immediately switch to your backup metalmind, which starts with 0 charges.
 
@@ -267,7 +267,7 @@ If you create a backup metalmind despite having a functional one already, it doe
 
 Mistings are by far the most common type of Metalborn across both eras. They have only one Allomantic power, which they wield in the same way as other Allomancers—by ingesting a metal then burning it to access the power of Preservation.
 
-Each type of Misting has a colloquial name to reflect the metal they burn and the effect produced; for example, a Coinshot is a steel Misting who can propel metal objects at high speeds. The [[Mistborn Handbook/17 - Appendix 2 Tables|Allomancy Discovery]] table lists the names for each Misting type.
+Each type of Misting has a colloquial name to reflect the metal they burn and the effect produced; for example, a Coinshot is a steel Misting who can propel metal objects at high speeds. The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Allomancy Discovery]] table lists the names for each Misting type.
 
 Because Mistings rely on a single power, they typically master it far faster than Twinborn or Mistborn. As a result, when a full Mistborn wants to learn the nuances of their many powers, Mistings almost always make the best teachers.
 
@@ -296,7 +296,7 @@ Allomantic savantism occurs after years, or sometimes even decades, of “flarin
 
 ## Building a Misting
 
-The following “[[Mistborn Handbook/06 - Ch 5 Metalborn Paths#Iconic Mistings|Iconic Mistings]]” section provides example builds for characters inspired by the novels. Also consider these general tips for building an effective Misting:
+The following “[[06 - Ch 5 Metalborn Paths#Iconic Mistings|Iconic Mistings]]” section provides example builds for characters inspired by the novels. Also consider these general tips for building an effective Misting:
 
 **Attributes.** To increase your Investiture pool, invest in Awareness or Presence (your choice). Your other attributes largely depend on which Allomantic power you choose. For example, if your power often calls for Allomancy tests (like Brass Allomancy), you might prioritize Willpower; if your power lends itself to combat (like Pewter Allomancy), consider Strength or Speed to empower your weapon attacks.
 
@@ -310,27 +310,27 @@ If you’d like to draw on the Mistborn novels for inspiration, consider the fol
 
 ### Edgard “Breeze” Ladrian
 
-*[[Mistborn Handbook/07 - Ch 6 Metallic Arts|Brass Allomancy]]*
+*[[07 - Ch 6 Metallic Arts|Brass Allomancy]]*
 
 A key member of Kelsier’s crew of thieves, Breeze is perhaps the most skilled Soother alive. It’s said his Allomantic touch is so subtle that even the most alert targets can rarely discern his emotional manipulation. Breeze is an exceptionally skilled reader of people, and his profound understanding of their feelings allow him to Soothe only the emotions they won’t notice.
 
 **Building a Soother Advisor.** Choose human ancestry and the High Society and Underworld cultural expertises. Start with high Awareness and Willpower. In addition to the Allomancy skill rank you gain from Misting, put 2 ranks into Insight and Persuasion.
 
-Use your [[Metalborn Paths/Misting/Talents/Misting Snap|Misting Snap (Misting Key)]] talent to choose [[Metallic Arts/Brass/Brass Allomancy|Brass Allomancy]]. Use your human ancestry to choose the [[Heroic Paths/Envoy/Rousing Presence|Rousing Presence (Envoy Key)]] talent in the Envoy path. Finally, choose the Noble starting kit.
+Use your [[Misting Snap|Misting Snap (Misting Key)]] talent to choose [[Brass Allomancy|Brass Allomancy]]. Use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Rousing Presence|Rousing Presence (Envoy Key)]] talent in the Envoy path. Finally, choose the Noble starting kit.
 
-As you level up, prioritize talents from [[Metallic Arts/Brass/Brass Allomancy|Brass Allomancy]]. Also consider the Misting’s [[Metalborn Paths/Misting/Talents/Powerhouse|Powerhouse]] talent, along with talents from the Envoy’s [[Heroic Paths/Envoy/Grifter/Grifter|Grifter]], [[Heroic Paths/Envoy/Mentor/Mentor|Mentor]], and [[Heroic Paths/Leader/Politico/Politico|Politico]] specialties.
+As you level up, prioritize talents from [[Brass Allomancy|Brass Allomancy]]. Also consider the Misting’s [[Powerhouse|Powerhouse]] talent, along with talents from the Envoy’s [[Grifter|Grifter]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Mentor/Mentor|Mentor]], and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Politico/Politico|Politico]] specialties.
 
 ### Marasi Colms
 
-*[[Mistborn Handbook/07 - Ch 6 Metallic Arts|Cadmium Allomancy (Era 2)]]*
+*[[07 - Ch 6 Metallic Arts|Cadmium Allomancy (Era 2)]]*
 
 One of the most dedicated officers in the Elendel constabulary, Marasi is especially passionate about driving positive change that serves the commonfolk. Intelligent and level-headed in dire situations, Marasi is a key ally to Waxillium Ladrian against the era’s criminal and conspiratorial enemies. Marasi is a Pulser, allowing her to slow time in a bubble around herself. Though she initially disdained her power, she has found many ways to use it to her advantage.
 
 **Building a Pulser Constable.** Choose human ancestry and the Elendel and High Society cultural expertises. Start with high Awareness and Speed. In addition to the Allomancy skill rank you gain from Misting, put 2 ranks into Deduction, and put 1 rank into Light Weaponry and Perception.
 
-Use your [[Metalborn Paths/Misting/Talents/Misting Snap|Misting Snap (Misting Key)]] talent to choose Cadmium Allomancy. Use your human ancestry to choose the [[Heroic Paths/Agent/Opportunist|Opportunist (Agent Key)]] talent from the [[Heroic Paths/Agent/Agent|Agent]] path. Finally, choose the Mercenary starting kit.
+Use your [[Misting Snap|Misting Snap (Misting Key)]] talent to choose Cadmium Allomancy. Use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Opportunist|Opportunist (Agent Key)]] talent from the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Agent|Agent]] path. Finally, choose the Mercenary starting kit.
 
-As you level up, prioritize talents from the Agent’s [[Heroic Paths/Agent/Investigator/Investigator|Investigator]] specialty. Also consider talents from [[Metallic Arts/Cadmium/Cadmium Allomancy|Cadmium Allomancy]] and the Hunter’s [[Heroic Paths/Hunter/Sharpshooter/Sharpshooter|Sharpshooter]] specialty
+As you level up, prioritize talents from the Agent’s [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Investigator/Investigator|Investigator]] specialty. Also consider talents from [[Cadmium Allomancy|Cadmium Allomancy]] and the Hunter’s [[Sharpshooter|Sharpshooter]] specialty
 
 **DEANDRA SCICLUNA & LOGAN FELICIANO**
 
@@ -352,7 +352,7 @@ Mistborn are the most iconic and legendary Metalborn of Scadrial. While the vast
 
 By combining multiple powers, Mistborn can produce extraordinary effects that even exceptionally skilled Mistings struggle to mimic. In combat, a Mistborn might create a storm of metallic death by Pulling on some metals with Iron Allomancy while Pushing on others with Steel Allomancy. In social settings, they might precisely incentivize behavior by Rioting some emotions with Zinc Allomancy while Soothing others with Brass Allomancy.
 
-It’s widely believed a Mistborn can only be defeated by sending another Mistborn (such as a Steel Inquisitor) or by overwhelming them with incredible numbers. And when a Mistborn has access to atium, they briefly become nigh unstoppable (see “[[Mistborn Handbook/07 - Ch 6 Metallic Arts|Atium Allomancy]]” in chapter 6). These Metalborn are so feared and respected that people tend to stay out of the way of anyone spotted wearing a mistcloak; typically worn only by Mistborn, this tasseled garment flows in ways echoing the Scadrian mists (see “[[Mistborn Handbook/08 - Ch 7 Items|Armor]]” in chapter 7).
+It’s widely believed a Mistborn can only be defeated by sending another Mistborn (such as a Steel Inquisitor) or by overwhelming them with incredible numbers. And when a Mistborn has access to atium, they briefly become nigh unstoppable (see “[[07 - Ch 6 Metallic Arts|Atium Allomancy]]” in chapter 6). These Metalborn are so feared and respected that people tend to stay out of the way of anyone spotted wearing a mistcloak; typically worn only by Mistborn, this tasseled garment flows in ways echoing the Scadrian mists (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|Armor]]” in chapter 7).
 
 @Link
 
@@ -362,13 +362,13 @@ Mistborn have existed since the beginning of the Final Empire. When the Lord Rul
 
 Eventually, Allomantic powers were diluted enough that Mistings began to be born, and each generation bore only a handful of Mistborn. Meanwhile, thanks to the extramarital affairs of nobles, Mistings began appearing—albeit rarely—in the skaa population in the last years of the Final Empire. Eventually, a few skaa Mistborn appeared, including Kelsier and Vin.
 
-After the Lord Ruler’s death, Elend Venture discovered firsthand that Mistborn could be produced without genetic inheritance. By swallowing a nugget of the supremely rare lerasium—the God Metal of Preservation—a person could become a Mistborn with the same concentrated power wielded by the first generation of the Great Houses (see “[[Mistborn Handbook/09 - Ch 8 Goals and Rewards#Rare Metals|Rare Metals]]” in chapter 8).
+After the Lord Ruler’s death, Elend Venture discovered firsthand that Mistborn could be produced without genetic inheritance. By swallowing a nugget of the supremely rare lerasium—the God Metal of Preservation—a person could become a Mistborn with the same concentrated power wielded by the first generation of the Great Houses (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards#Rare Metals|Rare Metals]]” in chapter 8).
 
 By Era 2, Mistborn were no longer born, due to the continued dilution of Allomantic powers. Several organizations and secret societies (such as the Set and the Ghostbloods) began seeking to produce the first Mistborn in centuries. Some of these attempts focused on eugenic breeding programs, while others applied Hemalurgy; if the latter attempts succeeded, it would result in the creation of new Steel Inquisitors, a knowledge lost with the Lord Ruler.
 
 ## Building a Mistborn
 
-Playing a Mistborn can be intimidating due to the sheer number of Allomantic powers you can wield. If you’re up for the challenge, the following “[[Mistborn Handbook/06 - Ch 5 Metalborn Paths#Iconic Mistborn|Iconic Mistborn]]” section provides example builds for characters inspired by the novels. Also consider these general tips for building an effective Mistborn:
+Playing a Mistborn can be intimidating due to the sheer number of Allomantic powers you can wield. If you’re up for the challenge, the following “[[06 - Ch 5 Metalborn Paths#Iconic Mistborn|Iconic Mistborn]]” section provides example builds for characters inspired by the novels. Also consider these general tips for building an effective Mistborn:
 
 **Attributes.** To increase your Investiture pool, invest in Awareness or Presence (your choice). Your other attributes largely depend on which Allomantic powers you prioritize; for example, if your powers often call for Allomancy tests (like Brass Allomancy), you might prioritize Willpower.
 
@@ -386,9 +386,9 @@ Kelsier, the Survivor of Hathsin, is a half-noble, half-skaa Mistborn who despis
 
 **Building a Mistborn Revolutionary.** Choose human ancestry and the Luthadel and Underworld cultural expertises. Start with high Presence and Willpower. Put 2 skill ranks into Intimidation and Leadership.
 
-Use your [[Metalborn Paths/Mistborn/Talents/Mistborn Snap|Mistborn Snap (Mistborn Key)]] talent to choose [[Metallic Arts/Iron/Iron Allomancy|Iron Allomancy]] and [[Metallic Arts/Steel/Steel Allomancy|Steel Allomancy]] for your first “Train Your Powers” goal. Use your human ancestry to choose the [[Heroic Paths/Leader/Decisive Command|Decisive Command (Leader Key)]] talent. Finally, choose the Underworld starting kit.
+Use your [[Mistborn Snap|Mistborn Snap (Mistborn Key)]] talent to choose [[Iron Allomancy|Iron Allomancy]] and [[Steel Allomancy|Steel Allomancy]] for your first “Train Your Powers” goal. Use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Decisive Command|Decisive Command (Leader Key)]] talent. Finally, choose the Underworld starting kit.
 
-As you level up, prioritize [[Metallic Arts/Steel/Steel Allomancy|Steel Allomancy]] and [[Metallic Arts/Iron/Iron Allomancy|Iron Allomancy]] talents. Also consider talents from [[Metallic Arts/Pewter/Pewter Allomancy|Pewter Allomancy]] and the Leader’s [[Heroic Paths/Leader/Mastermind/Mastermind|Mastermind]] specialty.
+As you level up, prioritize [[Steel Allomancy|Steel Allomancy]] and [[Iron Allomancy|Iron Allomancy]] talents. Also consider talents from [[Pewter Allomancy|Pewter Allomancy]] and the Leader’s [[Mastermind|Mastermind]] specialty.
 
 ### Vin
 
@@ -396,9 +396,9 @@ Malnourished during her youth on Luthadel’s streets and perpetually small for 
 
 **Building a Mistborn Prodigy.** Choose human ancestry and the Luthadel and Underworld cultural expertises. Start with high Speed and Willpower. Put 2 skill ranks into Light Weaponry and Stealth.
 
-Use your [[Metalborn Paths/Mistborn/Talents/Mistborn Snap|Mistborn Snap (Mistborn Key)]] talent to choose [[Metallic Arts/Tin/Tin Allomancy|Tin Allomancy]] and [[Metallic Arts/Pewter/Pewter Allomancy|Pewter Allomancy]] for your first “Train Your Powers” goal. Use your human ancestry to choose the [[Heroic Paths/Agent/Opportunist|Opportunist (Agent Key)]] talent. Finally, choose the Runaway starting kit.
+Use your [[Mistborn Snap|Mistborn Snap (Mistborn Key)]] talent to choose [[Tin Allomancy|Tin Allomancy]] and [[Pewter Allomancy|Pewter Allomancy]] for your first “Train Your Powers” goal. Use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Opportunist|Opportunist (Agent Key)]] talent. Finally, choose the Runaway starting kit.
 
-As you level up, prioritize [[Metallic Arts/Pewter/Pewter Allomancy|Pewter Allomancy]] and [[Metallic Arts/Bronze/Bronze Allomancy|Bronze Allomancy]] talents. Also consider talents from [[Metallic Arts/Iron/Iron Allomancy|Iron Allomancy]], [[Metallic Arts/Steel/Steel Allomancy|Steel Allomancy]], the Agent’s [[Heroic Paths/Agent/Rebel/Rebel|Rebel]] specialty, and the Leader’s [[Heroic Paths/Leader/Politico/Politico|Politico]] specialty.
+As you level up, prioritize [[Pewter Allomancy|Pewter Allomancy]] and [[Bronze Allomancy|Bronze Allomancy]] talents. Also consider talents from [[Iron Allomancy|Iron Allomancy]], [[Steel Allomancy|Steel Allomancy]], the Agent’s [[Rebel|Rebel]] specialty, and the Leader’s [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Politico/Politico|Politico]] specialty.
 
 ![[pg139_Vin Ironpull_Svetlana Kostina.webp]]
 
@@ -416,9 +416,9 @@ Though Elend wasn’t born a Mistborn, he became one when he consumed a bead of 
 
 **Building a Mistborn Figurehead.** Choose human ancestry and the Luthadel and High Society cultural expertises. Start with high Intellect and Willpower. Put 2 skill ranks into Deduction and Lore.
 
-Use your [[Metalborn Paths/Mistborn/Talents/Mistborn Snap|Mistborn Snap (Mistborn Key)]] talent to choose [[Metallic Arts/Zinc/Zinc Allomancy|Zinc Allomancy]] and [[Metallic Arts/Brass/Brass Allomancy|Brass Allomancy]] for your first “Train Your Powers” goal. Use your human ancestry to choose the [[Heroic Paths/Scholar/Erudition|Erudition (Scholar Key)]] talent, choosing Governance as your bonus expertise and putting your bonus skill ranks into Lore and Deduction. Finally, choose the Researcher starting kit.
+Use your [[Mistborn Snap|Mistborn Snap (Mistborn Key)]] talent to choose [[Zinc Allomancy|Zinc Allomancy]] and [[Brass Allomancy|Brass Allomancy]] for your first “Train Your Powers” goal. Use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Erudition|Erudition (Scholar Key)]] talent, choosing Governance as your bonus expertise and putting your bonus skill ranks into Lore and Deduction. Finally, choose the Researcher starting kit.
 
-As you level up, prioritize talents from the Scholar’s [[Heroic Paths/Scholar/Strategist/Strategist|Strategist]] specialty and the Leader’s [[Heroic Paths/Leader/Officer/Officer|Officer]] specialty, then consider talents from [[Metallic Arts/Zinc/Zinc Allomancy|Zinc Allomancy]] and [[Metallic Arts/Brass/Brass Allomancy|Brass Allomancy]].
+As you level up, prioritize talents from the Scholar’s [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Strategist/Strategist|Strategist]] specialty and the Leader’s [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Officer/Officer|Officer]] specialty, then consider talents from [[Zinc Allomancy|Zinc Allomancy]] and [[Brass Allomancy|Brass Allomancy]].
 
 <table class="mb-blue">
 <colgroup>
@@ -494,7 +494,7 @@ By Era 2, few if any full Feruchemists remained. The Feruchemical powers dilute
 
 ## Building a Feruchemist
 
-Playing a Feruchemist can be intimidating due to the sheer number of Feruchemical powers and the need to track each metalmind separately. If you’re up for the challenge, the following “[[Mistborn Handbook/06 - Ch 5 Metalborn Paths#Iconic Feruchemist|Iconic Feruchemist]]” section provides an example build for characters inspired by the novels. Also consider these general tips for building an effective Feruchemist:
+Playing a Feruchemist can be intimidating due to the sheer number of Feruchemical powers and the need to track each metalmind separately. If you’re up for the challenge, the following “[[06 - Ch 5 Metalborn Paths#Iconic Feruchemist|Iconic Feruchemist]]” section provides an example build for characters inspired by the novels. Also consider these general tips for building an effective Feruchemist:
 
 **Attributes.** To increase your Feruchemy score and increase the number of metalminds you can wear, prioritize the Intellect attribute. Your other attributes largely depend on the first Feruchemical powers you plan to construct metalminds for. For example, powers that store a particular attribute (like Electrum Feruchemy) typically benefit from investing in that attribute; if your powers lend themself to combat (like Steel Feruchemy), consider Strength or Speed to empower your weapon attacks.
 
@@ -514,9 +514,9 @@ Like most Keepers, Sazed is a full Feruchemist. He can use all Feruchemical meta
 
 **Building a Keeper Steward.** Choose human ancestry and the Terris and Luthadel cultural expertises. Start with high Intellect and Presence. Put 2 skill ranks into Leadership and Lore.
 
-Use your [[Metalborn Paths/Feruchemist/Talents/Feruchemist Heritage|Feruchemist Heritage (Feruchemist Key)]] talent to choose [[Metallic Arts/Copper/Copper Feruchemy|Copper Feruchemy]] and [[Metallic Arts/Bronze/Bronze Feruchemy|Bronze Feruchemy]] for your first “Construct Your Metalminds” goal. Use your human ancestry to choose the [[Heroic Paths/Envoy/Rousing Presence|Rousing Presence (Envoy Key)]] talent. Finally, choose the Keeper starting kit.
+Use your [[Feruchemist Heritage|Feruchemist Heritage (Feruchemist Key)]] talent to choose [[Copper Feruchemy|Copper Feruchemy]] and [[Bronze Feruchemy|Bronze Feruchemy]] for your first “Construct Your Metalminds” goal. Use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Rousing Presence|Rousing Presence (Envoy Key)]] talent. Finally, choose the Keeper starting kit.
 
-As you level up, prioritize [[Metallic Arts/Copper/Copper Feruchemy|Copper Feruchemy]] talents, and use your rewards to unlock other metal pairs. Also consider talents from the Envoy’s [[Heroic Paths/Envoy/Faithful/Faithful|Faithful]] and [[Heroic Paths/Envoy/Mentor/Mentor|Mentor]] specialties, along with a few early talents from your other Feruchemical powers.
+As you level up, prioritize [[Copper Feruchemy|Copper Feruchemy]] talents, and use your rewards to unlock other metal pairs. Also consider talents from the Envoy’s [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Faithful/Faithful|Faithful]] and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Mentor/Mentor|Mentor]] specialties, along with a few early talents from your other Feruchemical powers.
 
 <table class="mb-blue">
 <colgroup>
@@ -569,9 +569,9 @@ Due to the Terris people’s collective effort to subvert the program, Feruchemy
 
 ## Building a Ferring
 
-The following “[[Mistborn Handbook/06 - Ch 5 Metalborn Paths#Iconic Ferrings|Iconic Ferrings]]” section provides example builds for characters inspired by the novels. Also consider these general tips for building an effective Ferring:
+The following “[[06 - Ch 5 Metalborn Paths#Iconic Ferrings|Iconic Ferrings]]” section provides example builds for characters inspired by the novels. Also consider these general tips for building an effective Ferring:
 
-**Attributes.** Your attributes largely depend on which Feruchemical power you choose. For example, if your power often uses your Feruchemy modifier (like [[Metallic Arts/Brass/Brass Feruchemy|Brass Feruchemy]]), you might prioritize Intellect. Powers that store a particular attribute (like [[Metallic Arts/Electrum/Electrum Feruchemy|Electrum Feruchemy]]) typically benefit from investing in that attribute. Meanwhile, if your power lends itself to combat (like [[Metallic Arts/Steel/Steel Feruchemy|Steel Feruchemy]]), consider Strength or Speed to empower your weapon attacks.
+**Attributes.** Your attributes largely depend on which Feruchemical power you choose. For example, if your power often uses your Feruchemy modifier (like [[Brass Feruchemy|Brass Feruchemy]]), you might prioritize Intellect. Powers that store a particular attribute (like [[Electrum Feruchemy|Electrum Feruchemy]]) typically benefit from investing in that attribute. Meanwhile, if your power lends itself to combat (like [[Steel Feruchemy|Steel Feruchemy]]), consider Strength or Speed to empower your weapon attacks.
 
 **Heroic Paths.** Most Ferrings not only invest in their Metalborn path and its power, but they supplement it with heroic talents. It’s a good idea to consider the build advice from any heroic paths of interest.
 
@@ -598,39 +598,39 @@ If you’d like to draw on the Mistborn novels for inspiration, consider the fol
 
 ### Adawathwyn
 
-*[[Metallic Arts/Zinc/Zinc Feruchemy|Zinc Feruchemy]]*
+*[[Zinc Feruchemy|Zinc Feruchemy]]*
 
 Vice Governor of Elendel, Adawathwyn is an ambitious and calculating Sparker. By storing and tapping mental speed from her zincmind, she deftly outthinks political opponents and quickly comes up with solutions to crises. Though Adawathwyn serves under Governor Varlance, he’s in many ways a figurehead for her political acumen.
 
 **Building a Sparker Politician.** Choose human ancestry and the Elendel and Terris Enclave cultural expertises. Start with high Intellect and Willpower. In addition to the Feruchemy skill rank you gain from Ferring, put 2 ranks into Intimidation and Lore.
 
-Use your [[Metalborn Paths/Ferring/Talents/Ferring Heritage|Ferring Heritage (Ferring Key)]] talent to choose [[Metallic Arts/Zinc/Zinc Feruchemy|Zinc Feruchemy]]. Use your human ancestry to choose the [[Heroic Paths/Scholar/Erudition|Erudition (Scholar Key)]] talent, choosing Politics as your bonus expertise and putting your bonus skill ranks into Deduction and Lore. Finally, choose the Researcher starting kit.
+Use your [[Ferring Heritage|Ferring Heritage (Ferring Key)]] talent to choose [[Zinc Feruchemy|Zinc Feruchemy]]. Use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Erudition|Erudition (Scholar Key)]] talent, choosing Politics as your bonus expertise and putting your bonus skill ranks into Deduction and Lore. Finally, choose the Researcher starting kit.
 
-As you level up, prioritize talents from [[Metallic Arts/Zinc/Zinc Feruchemy|Zinc Feruchemy]] and the Scholar’s [[Heroic Paths/Scholar/Strategist/Strategist|Strategist]] specialty. Also consider talents from the Leader’s [[Heroic Paths/Leader/Mastermind/Mastermind|Mastermind]] and [[Heroic Paths/Leader/Politico/Politico|Politico]] specialties.
+As you level up, prioritize talents from [[Zinc Feruchemy|Zinc Feruchemy]] and the Scholar’s [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Strategist/Strategist|Strategist]] specialty. Also consider talents from the Leader’s [[Mastermind|Mastermind]] and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Politico/Politico|Politico]] specialties.
 
 ### Handerwym
 
-*[[Metallic Arts/Duralumin/Duralumin Feruchemy|Duralumin Feruchemy]]*
+*[[Duralumin Feruchemy|Duralumin Feruchemy]]*
 
 As Allomancer Jak’s faithful steward and (very necessary) editor, Handerwym helps Jak turn his gentleman adventurer escapades into broadsheet stories to entertain the people of Elendel. Though he hasn’t allowed the publication of many details of his abilities, Handerwym is a Connector. His power allows him to establish temporary Connections with others, more easily facilitating communication and understanding.
 
 **Building a Connector Columnist.** Choose human ancestry and the Terris Enclave and Wayfarer cultural expertises. Start with high Intellect and Presence. In addition to the Feruchemy skill rank you gain from Ferring, put 2 ranks into Deduction and Persuasion.
 
-Use your [[Metalborn Paths/Ferring/Talents/Ferring Heritage|Ferring Heritage (Ferring Key)]] talent to choose [[Metallic Arts/Duralumin/Duralumin Feruchemy|Duralumin Feruchemy]]. Use your human ancestry to choose the [[Heroic Paths/Envoy/Rousing Presence|Rousing Presence (Envoy Key)]] talent. Finally, choose the Artisan starting kit.
+Use your [[Ferring Heritage|Ferring Heritage (Ferring Key)]] talent to choose [[Duralumin Feruchemy|Duralumin Feruchemy]]. Use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Rousing Presence|Rousing Presence (Envoy Key)]] talent. Finally, choose the Artisan starting kit.
 
-As you level up, prioritize talents from [[Metallic Arts/Duralumin/Duralumin Feruchemy|Duralumin Feruchemy]] and the [[Metalborn Paths/Ferring/Ferring|Ferring]] path. Also consider talents from the Envoy’s [[Heroic Paths/Envoy/Faithful/Faithful|Faithful]] specialty.
+As you level up, prioritize talents from [[Duralumin Feruchemy|Duralumin Feruchemy]] and the [[Ferring|Ferring]] path. Also consider talents from the Envoy’s [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Faithful/Faithful|Faithful]] specialty.
 
 ### Razal
 
-*[[Metallic Arts/Pewter/Pewter Feruchemy|Pewter Feruchemy]]*
+*[[Pewter Feruchemy|Pewter Feruchemy]]*
 
 Razal lives in Elendel’s Terris Village, where he serves as a stalwart—and sometimes stubborn—guard. He’s the leader in a trio of Brutes who are responsible for removing trespassers from the Village. Razal can store and tap his physical strength from his pewtermind, allowing him to increase his muscle mass and overpower his opponents.
 
 **Building a Brute Guard.** Choose human ancestry and the Terris Enclave and Elendel cultural expertises. Start with high Strength and Willpower. In addition to the Feruchemy skill rank you gain from Ferring, put 2 ranks into Athletics, and put 1 rank into Discipline and Intimidation.
 
-Use your [[Metalborn Paths/Ferring/Talents/Ferring Heritage|Ferring Heritage (Ferring Key)]] talent to choose [[Metallic Arts/Pewter/Pewter Feruchemy|Pewter Feruchemy]]. Use your human ancestry to choose the [[Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance (Warrior Key)]] talent. Finally, choose the Mercenary starting kit.
+Use your [[Ferring Heritage|Ferring Heritage (Ferring Key)]] talent to choose [[Pewter Feruchemy|Pewter Feruchemy]]. Use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance (Warrior Key)]] talent. Finally, choose the Mercenary starting kit.
 
-As you level up, prioritize talents from [[Metallic Arts/Pewter/Pewter Feruchemy|Pewter Feruchemy]] and the Warrior’s [[Heroic Paths/Warrior/Soldier/Soldier|Soldier]] specialty. Also consider talents from the Warrior’s [[Heroic Paths/Warrior/Brawler/Brawler|Brawler]] specialty.
+As you level up, prioritize talents from [[Pewter Feruchemy|Pewter Feruchemy]] and the Warrior’s [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Soldier/Soldier|Soldier]] specialty. Also consider talents from the Warrior’s [[Brawler|Brawler]] specialty.
 
 **DEANDRA SCICLUNA & LOGAN FELICIANO**
 
@@ -669,7 +669,7 @@ A Compounder is an extremely rare Twinborn whose Allomantic and Feruchemical met
 
 The Compounder talent in this path grants you the ability to burn your metalminds; you’re encouraged to get creative with the incredible feats this allows you to achieve.
 
-The Lord Ruler of the Final Empire was the first Compounder, using atium to remain eternally youthful for nearly a thousand years. The “[[Mistborn Handbook/06 - Ch 5 Metalborn Paths#Iconic Twinborn|Iconic Twinborn]]” section describes another notorious Compounder, Miles “Hundredlives” Dagouter. Through Compounding his Gold Feruchemy, Miles could near-instantaneously recover from seemingly fatal wounds.
+The Lord Ruler of the Final Empire was the first Compounder, using atium to remain eternally youthful for nearly a thousand years. The “[[06 - Ch 5 Metalborn Paths#Iconic Twinborn|Iconic Twinborn]]” section describes another notorious Compounder, Miles “Hundredlives” Dagouter. Through Compounding his Gold Feruchemy, Miles could near-instantaneously recover from seemingly fatal wounds.
 
 For most Feruchemists, the powers automatically adjust to keep their users safe from harmful side effects. For example, an Iron Ferring’s body compensates so they’re not crushed under their own increased weight, and a Brass Ferring doesn’t harm themself with any but the most extreme fluctuations in body temperature. However, Compounding creates such intense bursts of power that it removes Feruchemy’s usual “safety rails,” and most Compounders must carefully control their power if they don’t want to harm themselves or others.
 
@@ -683,9 +683,9 @@ Many Twinborn find themselves pulled between two different worlds. No matter the
 
 ## Building a Twinborn
 
-The following “[[Mistborn Handbook/06 - Ch 5 Metalborn Paths#Iconic Twinborn|Iconic Twinborn]]” section provides example builds for characters inspired by the novels. Also consider these general tips for building an effective Twinborn:
+The following “[[06 - Ch 5 Metalborn Paths#Iconic Twinborn|Iconic Twinborn]]” section provides example builds for characters inspired by the novels. Also consider these general tips for building an effective Twinborn:
 
-**Attributes.** Your attributes largely depend on which Allomantic and Feruchemical powers you choose. For example, to increase your Investiture pool for Allomancy, invest in Awareness or Presence. If a power often calls for Allomancy tests (like [[Metallic Arts/Brass/Brass Allomancy|Brass Allomancy]]), you might prioritize Willpower. If a power often uses your Feruchemy modifier (like [[Metallic Arts/Brass/Brass Feruchemy|Brass Feruchemy]]), you might prioritize Intellect. A power that stores a particular attribute (like [[Metallic Arts/Electrum/Electrum Feruchemy|Electrum Feruchemy]]) typically benefits from investing in that attribute. Meanwhile, if a power lends itself to combat (like [[Metallic Arts/Pewter/Pewter Allomancy|Pewter Allomancy]]), consider Strength or Speed to empower your weapon attacks.
+**Attributes.** Your attributes largely depend on which Allomantic and Feruchemical powers you choose. For example, to increase your Investiture pool for Allomancy, invest in Awareness or Presence. If a power often calls for Allomancy tests (like [[Brass Allomancy|Brass Allomancy]]), you might prioritize Willpower. If a power often uses your Feruchemy modifier (like [[Brass Feruchemy|Brass Feruchemy]]), you might prioritize Intellect. A power that stores a particular attribute (like [[Electrum Feruchemy|Electrum Feruchemy]]) typically benefits from investing in that attribute. Meanwhile, if a power lends itself to combat (like [[Pewter Allomancy|Pewter Allomancy]]), consider Strength or Speed to empower your weapon attacks.
 
 **Heroic Paths.** Most Twinborn not only invest in their Metalborn path and its powers, but they supplement it with heroic talents. It’s a good idea to consider the build advice from any heroic paths of interest.
 
@@ -701,39 +701,39 @@ There are hundreds of possible Twinborn combinations, far too many for this book
 
 ### Waxillium “Dawnshot” Ladrian
 
-*[[Metallic Arts/Steel/Steel Allomancy|Steel Allomancy]] and [[Metallic Arts/Iron/Iron Feruchemy|Iron Feruchemy]]*
+*[[Steel Allomancy|Steel Allomancy]] and [[Iron Feruchemy|Iron Feruchemy]]*
 
 Born to the noble House Ladrian, Waxillium spent most of his teen years in Elendel’s Terris enclave. Driven by his strong sense of justice—and by his desire to escape the constraints of Elendel’s high society—Wax then spent two decades as a lawkeeper in the Roughs before eventually returning to Elendel. As a Coinshot and Skimmer, Wax’s Twinborn abilities make him a Crasher; this enables him to manipulate his weight and Steelpush nearby metal objects.
 
 **Building a Crasher Vigilante.** Choose human ancestry and the Roughs and Elendel cultural expertises. Start with high Strength and Willpower. In addition to the Discipline skill rank you gain from Twinborn, put 2 ranks into Deduction and Heavy Weaponry.
 
-Use your [[Metalborn Paths/Twinborn/Talents/Twinborn Heritage|Twinborn Heritage (Twinborn Key)]] talent to choose [[Metallic Arts/Steel/Steel Allomancy|Steel Allomancy]] and [[Metallic Arts/Iron/Iron Feruchemy|Iron Feruchemy]]. Use your human ancestry to choose the [[Heroic Paths/Hunter/Seek Quarry|Seek Quarry (Hunter Key)]] talent. Finally, choose the Mercenary starting kit.
+Use your [[Twinborn Heritage|Twinborn Heritage (Twinborn Key)]] talent to choose [[Steel Allomancy|Steel Allomancy]] and [[Iron Feruchemy|Iron Feruchemy]]. Use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Seek Quarry|Seek Quarry (Hunter Key)]] talent. Finally, choose the Mercenary starting kit.
 
-As you level up, prioritize [[Metallic Arts/Steel/Steel Allomancy|Steel Allomancy]] talents and your two Invested skills. Also consider talents from the Hunter’s [[Heroic Paths/Hunter/Sharpshooter/Sharpshooter|Sharpshooter]] specialty and the Warrior’s [[Heroic Paths/Warrior/Gunslinger (Era 2)/Gunslinger|Gunslinger]] specialty, as well as the [[Metallic Arts/Iron/Talents/Feruchemy/Critical Mass|Critical Mass]] talent from Iron Feruchemy.
+As you level up, prioritize [[Steel Allomancy|Steel Allomancy]] talents and your two Invested skills. Also consider talents from the Hunter’s [[Sharpshooter|Sharpshooter]] specialty and the Warrior’s [[Gunslinger|Gunslinger]] specialty, as well as the [[Critical Mass|Critical Mass]] talent from Iron Feruchemy.
 
 ### Wayne
 
-*[[Metallic Arts/Bendalloy/Bendalloy Allomancy|Bendalloy Allomancy]] and [[Metallic Arts/Gold/Gold Feruchemy|Gold Feruchemy]]*
+*[[Bendalloy Allomancy|Bendalloy Allomancy]] and [[Gold Feruchemy|Gold Feruchemy]]*
 
 Caught committing a crime by Waxillium Ladrian at a young age, Wayne eventually became Wax’s deputy, though he makes for a strange lawkeeper. Wayne has a tendency to “trade” objects, exchanging them (without permission) for another object he considers of equal value. He also has a penchant for using hats to put himself into other people’s headspaces. As a Slider and Bloodmaker, Wayne’s combination is usually called a Mirage (though he prefers “Skipper”); these powers allow him to make accelerating time bubbles and heal quickly.
 
 **Building a Mirage Swindler.** Choose human ancestry and the Roughs and Underworld cultural expertises. Start with high Presence and Speed. In addition to the Discipline skill rank you gain from Twinborn, put 2 ranks into Deception and Thievery.
 
-Use your [[Metalborn Paths/Twinborn/Talents/Twinborn Heritage|Twinborn Heritage (Twinborn Key)]] talent to choose [[Metallic Arts/Bendalloy/Bendalloy Allomancy|Bendalloy Allomancy]] and [[Metallic Arts/Gold/Gold Feruchemy|Gold Feruchemy]]. Use your human ancestry to choose the [[Heroic Paths/Agent/Opportunist|Opportunist (Agent Key)]] talent. Finally, choose the Noble starting kit.
+Use your [[Twinborn Heritage|Twinborn Heritage (Twinborn Key)]] talent to choose [[Bendalloy Allomancy|Bendalloy Allomancy]] and [[Gold Feruchemy|Gold Feruchemy]]. Use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Opportunist|Opportunist (Agent Key)]] talent. Finally, choose the Noble starting kit.
 
-As you level up, prioritize talents from the Agent’s [[Heroic Paths/Agent/Thief/Thief|Thief]] specialty. Also consider talents from the Envoy’s [[Heroic Paths/Envoy/Grifter/Grifter|Grifter]] specialty (especially [[Heroic Paths/Envoy/Grifter/Talents/Outrageous Quip|Outrageous Quip]]) and from your two powers.
+As you level up, prioritize talents from the Agent’s [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Thief/Thief|Thief]] specialty. Also consider talents from the Envoy’s [[Grifter|Grifter]] specialty (especially [[Outrageous Quip|Outrageous Quip]]) and from your two powers.
 
 ### Miles “Hundredlives” Dagouter
 
-*[[Metallic Arts/Gold/Gold Allomancy|Gold Allomancy]] and [[Metallic Arts/Gold/Gold Feruchemy|Gold Feruchemy]]*
+*[[Gold Allomancy|Gold Allomancy]] and [[Gold Feruchemy|Gold Feruchemy]]*
 
 Once a Roughs lawkeeper, Miles grew tired of how the Elendel government treated the people of the Roughs. He used his knowledge of gang structures and techniques to found the Vanishers, a highly organized criminal organization that commits elaborate heists designed to bring Elendel to its knees. Both of Miles’s powers use gold, making him a Gold Compounder who has functionally infinite self-healing abilities.
 
 **Building a Compounder Ganglord.** Choose human ancestry and the Roughs and Underworld cultural expertises. Start with high Strength and Willpower. In addition to the Discipline skill rank you gain from Twinborn, put 2 ranks into Heavy Weaponry and Leadership.
 
-Use your [[Metalborn Paths/Twinborn/Talents/Twinborn Heritage|Twinborn Heritage (Twinborn Key)]] talent to choose [[Metallic Arts/Gold/Gold Allomancy|Gold Allomancy]] and [[Metallic Arts/Gold/Gold Feruchemy|Gold Feruchemy]]. Use your human ancestry to choose the [[Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance (Warrior Key)]] talent. Finally, choose the Mercenary starting kit.
+Use your [[Twinborn Heritage|Twinborn Heritage (Twinborn Key)]] talent to choose [[Gold Allomancy|Gold Allomancy]] and [[Gold Feruchemy|Gold Feruchemy]]. Use your human ancestry to choose the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance (Warrior Key)]] talent. Finally, choose the Mercenary starting kit.
 
-As you level up, prioritize [[Metallic Arts/Gold/Gold Feruchemy|Gold Feruchemy]] talents and work toward the [[Metalborn Paths/Twinborn/Talents/Compound Recursion|Compound Recursion]] talent in the Twinborn path. Also consider talents from the Warrior’s [[Heroic Paths/Warrior/Soldier/Soldier|Soldier]] specialty and the Leader’s [[Heroic Paths/Leader/Mastermind/Mastermind|Mastermind]] specialty.
+As you level up, prioritize [[Gold Feruchemy|Gold Feruchemy]] talents and work toward the [[Compound Recursion|Compound Recursion]] talent in the Twinborn path. Also consider talents from the Warrior’s [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Soldier/Soldier|Soldier]] specialty and the Leader’s [[Mastermind|Mastermind]] specialty.
 
 <table class="mb-blue">
 <colgroup>

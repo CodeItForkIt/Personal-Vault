@@ -1,193 +1,29 @@
 {
-  "nodes": [
-    {
-      "id": "BAneOsid78fgGHqo",
-      "type": "file",
-      "file": "Metallic Arts/Iron/Talents/Allomancy/Disarming Lurch.md",
-      "x": 340,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "fjNbGiJIGouPe5sa",
-      "type": "file",
-      "file": "Metallic Arts/Iron/Talents/Feruchemy/Immovable Object.md",
-      "x": 340,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "qGmOssHTPcrXNiqw",
-      "type": "file",
-      "file": "Metallic Arts/Iron/Talents/Allomancy/Ironpull Shot.md",
-      "x": 340,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "jyLW0uOZ4vpj6MIo",
-      "type": "file",
-      "file": "Metallic Arts/Iron/Talents/Feruchemy/Light on Your Feet.md",
-      "x": 340,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "2Yu5pi8SbU0eJuVs",
-      "type": "file",
-      "file": "Metallic Arts/Iron/Talents/Allomancy/Lurchers Gear.md",
-      "x": 340,
-      "y": 480,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "nQg52yd0PG9lnWn2",
-      "type": "file",
-      "file": "Metallic Arts/Iron/Talents/Allomancy/Lurching Strike.md",
-      "x": 340,
-      "y": 600,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "CYfNkL2yulJRmzWn",
-      "type": "file",
-      "file": "Metallic Arts/Iron/Talents/Feruchemy/Featherweight Slip.md",
-      "x": 0,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "YKK0TxX5I32KWPU1",
-      "type": "file",
-      "file": "Metallic Arts/Iron/Talents/Feruchemy/Heavyweight Blow.md",
-      "x": 0,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "tKbBLczLOK0blW28",
-      "type": "file",
-      "file": "Metallic Arts/Iron/Talents/Allomancy/Leveraging Brace.md",
-      "x": 0,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "GbT3BPw38LP3G4ba",
-      "type": "file",
-      "file": "Metallic Arts/Iron/Talents/Allomancy/Projectile Lurch.md",
-      "x": 0,
-      "y": 360,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "nokpQhfYh6ZfWvMg",
-      "type": "file",
-      "file": "Metallic Arts/Iron/Talents/Feruchemy/Critical Mass.md",
-      "x": 680,
-      "y": 0,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "ko6XYfbx3edD08mI",
-      "type": "file",
-      "file": "Metallic Arts/Iron/Talents/Allomancy/Ironpull Adept.md",
-      "x": 680,
-      "y": 120,
-      "width": 280,
-      "height": 90
-    },
-    {
-      "id": "O4m6Xvq5lQUbos3J",
-      "type": "file",
-      "file": "Metallic Arts/Iron/Talents/Feruchemy/Skimming Adept.md",
-      "x": 680,
-      "y": 240,
-      "width": 280,
-      "height": 90
-    }
-  ],
-  "edges": [
-    {
-      "id": "edge0",
-      "fromNode": "GbT3BPw38LP3G4ba",
-      "fromSide": "right",
-      "toNode": "2Yu5pi8SbU0eJuVs",
-      "toSide": "left"
-    },
-    {
-      "id": "edge1",
-      "fromNode": "GbT3BPw38LP3G4ba",
-      "fromSide": "right",
-      "toNode": "BAneOsid78fgGHqo",
-      "toSide": "left"
-    },
-    {
-      "id": "edge2",
-      "fromNode": "jyLW0uOZ4vpj6MIo",
-      "fromSide": "right",
-      "toNode": "O4m6Xvq5lQUbos3J",
-      "toSide": "left"
-    },
-    {
-      "id": "edge3",
-      "fromNode": "fjNbGiJIGouPe5sa",
-      "fromSide": "right",
-      "toNode": "O4m6Xvq5lQUbos3J",
-      "toSide": "left"
-    },
-    {
-      "id": "edge4",
-      "fromNode": "YKK0TxX5I32KWPU1",
-      "fromSide": "right",
-      "toNode": "fjNbGiJIGouPe5sa",
-      "toSide": "left"
-    },
-    {
-      "id": "edge5",
-      "fromNode": "CYfNkL2yulJRmzWn",
-      "fromSide": "right",
-      "toNode": "jyLW0uOZ4vpj6MIo",
-      "toSide": "left"
-    },
-    {
-      "id": "edge6",
-      "fromNode": "BAneOsid78fgGHqo",
-      "fromSide": "right",
-      "toNode": "ko6XYfbx3edD08mI",
-      "toSide": "left"
-    },
-    {
-      "id": "edge7",
-      "fromNode": "tKbBLczLOK0blW28",
-      "fromSide": "right",
-      "toNode": "nQg52yd0PG9lnWn2",
-      "toSide": "left"
-    },
-    {
-      "id": "edge8",
-      "fromNode": "fjNbGiJIGouPe5sa",
-      "fromSide": "right",
-      "toNode": "nokpQhfYh6ZfWvMg",
-      "toSide": "left"
-    },
-    {
-      "id": "edge9",
-      "fromNode": "tKbBLczLOK0blW28",
-      "fromSide": "right",
-      "toNode": "qGmOssHTPcrXNiqw",
-      "toSide": "left"
-    }
-  ]
+	"nodes":[
+		{"id":"BAneOsid78fgGHqo","type":"file","file":"Metallic Arts/Iron/Talents/Allomancy/Disarming Lurch.md","x":340,"y":0,"width":280,"height":90},
+		{"id":"fjNbGiJIGouPe5sa","type":"file","file":"Metallic Arts/Iron/Talents/Feruchemy/Immovable Object.md","x":340,"y":120,"width":280,"height":90},
+		{"id":"qGmOssHTPcrXNiqw","type":"file","file":"Metallic Arts/Iron/Talents/Allomancy/Ironpull Shot.md","x":340,"y":240,"width":280,"height":90},
+		{"id":"jyLW0uOZ4vpj6MIo","type":"file","file":"Metallic Arts/Iron/Talents/Feruchemy/Light on Your Feet.md","x":340,"y":360,"width":280,"height":90},
+		{"id":"2Yu5pi8SbU0eJuVs","type":"file","file":"Metallic Arts/Iron/Talents/Allomancy/Lurchers Gear.md","x":340,"y":480,"width":280,"height":90},
+		{"id":"nQg52yd0PG9lnWn2","type":"file","file":"Metallic Arts/Iron/Talents/Allomancy/Lurching Strike.md","x":340,"y":600,"width":280,"height":90},
+		{"id":"CYfNkL2yulJRmzWn","type":"file","file":"Metallic Arts/Iron/Talents/Feruchemy/Featherweight Slip.md","x":0,"y":0,"width":280,"height":90},
+		{"id":"YKK0TxX5I32KWPU1","type":"file","file":"Metallic Arts/Iron/Talents/Feruchemy/Heavyweight Blow.md","x":0,"y":120,"width":280,"height":90},
+		{"id":"tKbBLczLOK0blW28","type":"file","file":"Metallic Arts/Iron/Talents/Allomancy/Leveraging Brace.md","x":0,"y":240,"width":280,"height":90},
+		{"id":"GbT3BPw38LP3G4ba","type":"file","file":"Metallic Arts/Iron/Talents/Allomancy/Projectile Lurch.md","x":0,"y":360,"width":280,"height":90},
+		{"id":"nokpQhfYh6ZfWvMg","type":"file","file":"Metallic Arts/Iron/Talents/Feruchemy/Critical Mass.md","x":680,"y":0,"width":280,"height":90},
+		{"id":"ko6XYfbx3edD08mI","type":"file","file":"Metallic Arts/Iron/Talents/Allomancy/Ironpull Adept.md","x":680,"y":120,"width":280,"height":90},
+		{"id":"O4m6Xvq5lQUbos3J","type":"file","file":"Metallic Arts/Iron/Talents/Feruchemy/Skimming Adept.md","x":680,"y":240,"width":280,"height":90}
+	],
+	"edges":[
+		{"id":"edge0","fromNode":"GbT3BPw38LP3G4ba","fromSide":"right","toNode":"2Yu5pi8SbU0eJuVs","toSide":"left"},
+		{"id":"edge1","fromNode":"GbT3BPw38LP3G4ba","fromSide":"right","toNode":"BAneOsid78fgGHqo","toSide":"left"},
+		{"id":"edge2","fromNode":"jyLW0uOZ4vpj6MIo","fromSide":"right","toNode":"O4m6Xvq5lQUbos3J","toSide":"left"},
+		{"id":"edge3","fromNode":"fjNbGiJIGouPe5sa","fromSide":"right","toNode":"O4m6Xvq5lQUbos3J","toSide":"left"},
+		{"id":"edge4","fromNode":"YKK0TxX5I32KWPU1","fromSide":"right","toNode":"fjNbGiJIGouPe5sa","toSide":"left"},
+		{"id":"edge5","fromNode":"CYfNkL2yulJRmzWn","fromSide":"right","toNode":"jyLW0uOZ4vpj6MIo","toSide":"left"},
+		{"id":"edge6","fromNode":"BAneOsid78fgGHqo","fromSide":"right","toNode":"ko6XYfbx3edD08mI","toSide":"left"},
+		{"id":"edge7","fromNode":"tKbBLczLOK0blW28","fromSide":"right","toNode":"nQg52yd0PG9lnWn2","toSide":"left"},
+		{"id":"edge8","fromNode":"fjNbGiJIGouPe5sa","fromSide":"right","toNode":"nokpQhfYh6ZfWvMg","toSide":"left"},
+		{"id":"edge9","fromNode":"tKbBLczLOK0blW28","fromSide":"right","toNode":"qGmOssHTPcrXNiqw","toSide":"left"}
+	]
 }

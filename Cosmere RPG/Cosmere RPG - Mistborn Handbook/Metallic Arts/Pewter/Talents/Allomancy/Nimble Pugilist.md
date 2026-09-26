@@ -12,4 +12,4 @@ aliases: ["Nimble Pugilist"]
 
 *You burn pewter to nimbly dance around your enemies, proving to be a formidable foe even while unarmed.*
 
-While burning pewter, you can use your **Speed** attribute instead of Strength for [[Actions/Basic/Unarmed Attack|unarmed attacks]], the [[Actions/Basic/Grapple|Grapple]] action, and the [[Actions/Basic/Shove|Shove]] action. (This includes using **Speed** for those **Athletics** tests and for your unarmed damage die.)
+While burning pewter, you can use your **Speed** attribute instead of Strength for [[Unarmed Attack|unarmed attacks]], the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Grapple|Grapple]] action, and the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Shove|Shove]] action. (This includes using **Speed** for those **Athletics** tests and for your unarmed damage die.)

@@ -36,7 +36,7 @@ Before players commit, it’s a good idea to let everyone know what the adventur
 
 ### Safety
 
-As you discuss the theme, it’s equally important to touch base on what each person in the group needs to be safe, comfortable, and fully themselves. The “[[Mistborn Handbook/14 - Ch 13 Gamemastering|Safety Guide]]” section at the end of this chapter provides guidance on getting everyone on the same page about what topics and behaviors everyone is comfortable with.
+As you discuss the theme, it’s equally important to touch base on what each person in the group needs to be safe, comfortable, and fully themselves. The “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering|Safety Guide]]” section at the end of this chapter provides guidance on getting everyone on the same page about what topics and behaviors everyone is comfortable with.
 
 ### Setting Knowledge
 
@@ -46,11 +46,11 @@ Players can enjoy this game without any prior knowledge of the Mistborn novels. 
 
 Once you gather your group, it’s time to create characters! You can either have players do this ahead of time, or you can run an introductory “session zero” where everyone makes their characters together at the game table.
 
-No matter how you approach it, it’s important to let the players know what level they’re starting at; this is usually level 1, but the “[[Mistborn Handbook/14 - Ch 13 Gamemastering|Starting at Higher Levels]]” section of this chapter discusses other options. Also tell players about any story considerations they need to keep in mind as they fit their characters into the world; do all their characters need to start the game as part of a thieving crew, or does the story assume they’re all part of the Elendel Constabulary?
+No matter how you approach it, it’s important to let the players know what level they’re starting at; this is usually level 1, but the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering|Starting at Higher Levels]]” section of this chapter discusses other options. Also tell players about any story considerations they need to keep in mind as they fit their characters into the world; do all their characters need to start the game as part of a thieving crew, or does the story assume they’re all part of the Elendel Constabulary?
 
 ### Finding the Right Characters
 
-It’s important that each of your players is happy with their character and how their mechanical abilities match up with their unfolding narrative. If one of your players isn’t happy with an element of their character mid-campaign, consider allowing them to make modifications to their character. The “[[Mistborn Handbook/10 - Ch 9 Adventuring|Downtime]]” section of chapter 9 presents a [[Mistborn Handbook/10 - Ch 9 Adventuring#Self-Reflection|Self-Reflection]] option, which allows the player—with a little investment of time and boxings— to change their character as much as they desire. This is a great option for changes that are driven by what has happened to the character as the story unfolds.
+It’s important that each of your players is happy with their character and how their mechanical abilities match up with their unfolding narrative. If one of your players isn’t happy with an element of their character mid-campaign, consider allowing them to make modifications to their character. The “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Downtime]]” section of chapter 9 presents a [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Self-Reflection|Self-Reflection]] option, which allows the player—with a little investment of time and boxings— to change their character as much as they desire. This is a great option for changes that are driven by what has happened to the character as the story unfolds.
 
 However, sometimes a player is fundamentally disappointed with the choices they made during character creation and advancement (whether they regret just a single talent or their entire build). In these cases, consider waiving the downtime requirement and letting them immediately rebuild the character at no cost. Remember that the rules are there to support everyone’s fun, not to limit it!
 
@@ -71,7 +71,7 @@ However, sometimes a player is fundamentally disappointed with the choices they 
 
 ## Calling for Skill Tests
 
-There’s no right answer on how often you should call for skill tests (see "[[Mistborn Handbook/04 - Ch 3 Character Statistics|Skills]]" in chapter 3). As GM, feel free to find the balance that’s right for you and your group. Some GMs prefer to focus mainly on roleplaying and storytelling; these GMs usually save dice rolls for critical moments that really need that randomness, and the rest of the time, they resolve situations based on roleplaying and the abilities of the PCs. Other GMs like to call for tests often, thinking on their feet and improvising outcomes as the dice lead the story in interesting new directions. If you’re wondering whether to call for a test, ask yourself a few questions:
+There’s no right answer on how often you should call for skill tests (see "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics|Skills]]" in chapter 3). As GM, feel free to find the balance that’s right for you and your group. Some GMs prefer to focus mainly on roleplaying and storytelling; these GMs usually save dice rolls for critical moments that really need that randomness, and the rest of the time, they resolve situations based on roleplaying and the abilities of the PCs. Other GMs like to call for tests often, thinking on their feet and improvising outcomes as the dice lead the story in interesting new directions. If you’re wondering whether to call for a test, ask yourself a few questions:
 
 **Is there a chance of both success and failure?** As you determine the difficulty of a task, if it’s so easy (or difficult) for a given character that there’s almost no chance of failure (or success), it might not be worth rolling. In these cases, you can just narrate the results without a test.
 
@@ -89,7 +89,7 @@ The plot die is a powerful storytelling tool for creating dynamic, exciting, and
 
 ## Raising the Stakes
 
-As GM, you choose when to raise the stakes on a skill test, prompting the player to include the plot die in their roll (see "[[Mistborn Handbook/01 - Introduction|Using Cosmere RPG Dice]]" in this book’s introduction). Knowing when and how to do so is key. If you raise the stakes too often, it stops being exciting, but if you use the plot die too sparingly, you miss out on its storytelling power.
+As GM, you choose when to raise the stakes on a skill test, prompting the player to include the plot die in their roll (see "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/01 - Introduction|Using Cosmere RPG Dice]]" in this book’s introduction). Knowing when and how to do so is key. If you raise the stakes too often, it stops being exciting, but if you use the plot die too sparingly, you miss out on its storytelling power.
 
 The plot die needn’t be used just on important and tense tests; you can raise the stakes to highlight any test as important to the story, a character, or the game session. For example, you might raise the stakes when a character attempts a creative solution to a problem, or when a player leans into their character’s motivations (such as choosing a “suboptimal” plan because it’s consistent with the character’s beliefs).
 
@@ -161,7 +161,7 @@ Encourage the group to get into pitching ideas and collaborating on what outcome
 
 ## Using Opportunities and Complications
 
-After the stakes are raised and the plot die is rolled, it’s time to resolve the consequences. As described in this book’s [[Mistborn Handbook/01 - Introduction|introduction]], when a PC gains an Opportunity or Complication, it can be resolved in several ways:
+After the stakes are raised and the plot die is rolled, it’s time to resolve the consequences. As described in this book’s [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/01 - Introduction|introduction]], when a PC gains an Opportunity or Complication, it can be resolved in several ways:
 
 - An ally gains an advantage (on an Opportunity) or a disadvantage (on a Complication) on their next test.
 
@@ -209,11 +209,11 @@ Some Opportunities might allow a PC to learn a secret that the players don’t e
 
 ## Using Events
 
-Sometimes, you might have side effects in mind that are just too big in scope to trigger after a single Opportunity or Complication. In these cases, you can lead up to an event (see "[[Mistborn Handbook/10 - Ch 9 Adventuring|Events]]" in chapter 9) by collecting multiple Opportunities and Complications.
+Sometimes, you might have side effects in mind that are just too big in scope to trigger after a single Opportunity or Complication. In these cases, you can lead up to an event (see "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Events]]" in chapter 9) by collecting multiple Opportunities and Complications.
 
 ## Narrative Advantages and Disadvantages
 
-It can be challenging to decide when to add advantages or disadvantages to a test (see "[[Mistborn Handbook/04 - Ch 3 Character Statistics#Advantages and Disadvantages|Advantages and Disadvantages]]" in chapter 3). Keep an eye out for times when a character has unique context related to a test (or has less context than usual). In these situations, you can reflect how their background grants them an advantage (or disadvantage) on the test.
+It can be challenging to decide when to add advantages or disadvantages to a test (see "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Advantages and Disadvantages|Advantages and Disadvantages]]" in chapter 3). Keep an eye out for times when a character has unique context related to a test (or has less context than usual). In these situations, you can reflect how their background grants them an advantage (or disadvantage) on the test.
 
 From a mechanical standpoint, two characters with the same statistics have the same likelihood of succeeding on a test with a given DC. Advantage and disadvantage help you highlight aspects of each character’s story, so look for times when the test is on a niche subject that would give a particular character different odds.
 
@@ -221,9 +221,9 @@ Many GMs feel more confident in adding advantages to tests than they do disadvan
 
 ## Structuring a Game Session
 
-Depending on your play style, a single session of the game could be rigidly structured, or you could improvise based on your inspiration in the moment. But regardless of your approach to storytelling, the story unfolds via different scenes leading into each other, based on your needs in the story (see "[[Mistborn Handbook/10 - Ch 9 Adventuring|Scenes]]" in chapter 9). A Discovery endeavor to search Tathingdwel for a missing informant might lead to a conversation with a back-alley merchant, leading to another conversation with her underworld contacts, leading to a combat with their gang members, leading to a Pursuit endeavor across the city when the party realizes they’re outmatched. And all the while, an event could be looming on the horizon: the Set’s machinations working in the background (see "[[Mistborn Handbook/10 - Ch 9 Adventuring|Events]]" in chapter 9).
+Depending on your play style, a single session of the game could be rigidly structured, or you could improvise based on your inspiration in the moment. But regardless of your approach to storytelling, the story unfolds via different scenes leading into each other, based on your needs in the story (see "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Scenes]]" in chapter 9). A Discovery endeavor to search Tathingdwel for a missing informant might lead to a conversation with a back-alley merchant, leading to another conversation with her underworld contacts, leading to a combat with their gang members, leading to a Pursuit endeavor across the city when the party realizes they’re outmatched. And all the while, an event could be looming on the horizon: the Set’s machinations working in the background (see "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Events]]" in chapter 9).
 
-Between scenes, when the party has a chance to rest or engage in downtime (either because they need it to heal up or because of a lull in the story), you can punctuate those moments of respite by using the guidance in the "[[Mistborn Handbook/10 - Ch 9 Adventuring|Resting]]" and "[[Mistborn Handbook/10 - Ch 9 Adventuring|Downtime]]" sections of chapter 9.
+Between scenes, when the party has a chance to rest or engage in downtime (either because they need it to heal up or because of a lull in the story), you can punctuate those moments of respite by using the guidance in the "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Resting]]" and "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Downtime]]" sections of chapter 9.
 
 ## How Many Scenes?
 
@@ -261,9 +261,9 @@ Depending on the adversary, their title might include their species, function, o
 
 Beneath the adversary’s title, you’ll find details such as “Tier 2 Boss – Medium Humanoid.” This line provides the following information:
 
-**Tier.** The adversary’s tier helps you choose appropriately challenging adversaries for each scene (see "[[Mistborn Handbook/14 - Ch 13 Gamemastering|Building Combat Scenes]]" later in this chapter).
+**Tier.** The adversary’s tier helps you choose appropriately challenging adversaries for each scene (see "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering|Building Combat Scenes]]" later in this chapter).
 
-**Role.** Adversaries are divided into three roles: Minion, Rival, and Boss. This represents their relative importance within that tier and their complexity in combat. See the following “[[Mistborn Handbook/14 - Ch 13 Gamemastering#Role|Role]]” section for details on each role
+**Role.** Adversaries are divided into three roles: Minion, Rival, and Boss. This represents their relative importance within that tier and their complexity in combat. See the following “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering#Role|Role]]” section for details on each role
 
 **Size.** As with PCs, an adversary’s size reflects the space they control in combat: Small (2.5 feet), Medium (5 feet), Large (10 feet), Huge (15 feet), Gargantuan (20 feet), and Colossal (30 feet or more).
 
@@ -279,7 +279,7 @@ The second line of a stat block lists the adversary’s role along with the othe
 
 **Boss** adversaries can challenge an entire party. They’re more threatening—and more complex to run—than other adversaries. Each has the Boss feature: “The Boss can take both a fast turn and a slow turn each round. After an enemy finishes a turn, the Boss can spend 1 focus to immediately use an additional 1 or 0. Additionally, they can spend 1 focus on their turn to remove a condition from themself.”
 
-If you’re planning combat encounters of your own, each role presents a different level of threat, as described in the upcoming "[[Mistborn Handbook/14 - Ch 13 Gamemastering|Building Combat Scenes]]" section.
+If you’re planning combat encounters of your own, each role presents a different level of threat, as described in the upcoming "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering|Building Combat Scenes]]" section.
 
 ### Attributes and Defenses
 
@@ -297,27 +297,27 @@ The listed value for these resources represents both their maximum and current v
 
 #### Customizing Health
 
-If you want to make an adversary a little easier or harder to defeat, you can adjust their health using the range provided in parentheses (see the upcoming “[[Mistborn Handbook/14 - Ch 13 Gamemastering#Adjusting Adversary Health|Adjusting Adversary Health]]” section).
+If you want to make an adversary a little easier or harder to defeat, you can adjust their health using the range provided in parentheses (see the upcoming “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering#Adjusting Adversary Health|Adjusting Adversary Health]]” section).
 
 #### Defeated Adversaries
 
 When an adversary is reduced to 0 health, they’re defeated. This can play out in different ways depending on the PC’s intent when attacking the adversary, the GM’s desire for the story, and similar factors.
 
-In battle, most adversaries are assumed dead after being reduced to 0 health, as described in "[[Mistborn Handbook/10 - Ch 9 Adventuring|Damage, Injury, and Death]]" in chapter 9. However, at the GM’s discretion, NPCs with a significant narrative role can instead fall [[Mistborn Handbook/10 - Ch 9 Adventuring#Unconscious|Unconscious]] and make injury rolls like PCs do. Additionally, if the PCs are trying to defeat any adversary with non-lethal means, the PC who deals the final blow can choose for the NPC to fall [[Mistborn Handbook/10 - Ch 9 Adventuring#Unconscious|Unconscious]] with an injury.
+In battle, most adversaries are assumed dead after being reduced to 0 health, as described in "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|Damage, Injury, and Death]]" in chapter 9. However, at the GM’s discretion, NPCs with a significant narrative role can instead fall [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Unconscious|Unconscious]] and make injury rolls like PCs do. Additionally, if the PCs are trying to defeat any adversary with non-lethal means, the PC who deals the final blow can choose for the NPC to fall [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Unconscious|Unconscious]] with an injury.
 
-Defeated NPCs remain [[Mistborn Handbook/10 - Ch 9 Adventuring#Unconscious|Unconscious]] until they recover at least 1 health from another source; they can’t voluntarily regain consciousness like a PC.
+Defeated NPCs remain [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Unconscious|Unconscious]] until they recover at least 1 health from another source; they can’t voluntarily regain consciousness like a PC.
 
 ### Deflect Value
 
 An adversary’s deflect value represents their armor, natural defenses, and special abilities. As with PCs, reduce all incoming impact, keen, and energy damage by the listed deflect value. If an adversary has no deflect value listed, their value is 0.
 
-Immediately following this value, parentheses name the primary source of this protection (such as “leather”). In some cases, this name is merely for flavor—but if the name of the source matches with a piece of armor from [[Mistborn Handbook/08 - Ch 7 Items|chapter 7]], the PCs may be able to acquire it after the enemy is defeated.
+Immediately following this value, parentheses name the primary source of this protection (such as “leather”). In some cases, this name is merely for flavor—but if the name of the source matches with a piece of armor from [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items|chapter 7]], the PCs may be able to acquire it after the enemy is defeated.
 
 ### Movement
 
-As with PCs, an adversary’s movement rate determines how far they can travel during the [[Actions/Basic/Move|Move]] action.
+As with PCs, an adversary’s movement rate determines how far they can travel during the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Move|Move]] action.
 
-A few stat blocks include special movement capabilities, such as swimming or flying. Unlike PCs, adversaries don’t gain the [[Mistborn Handbook/10 - Ch 9 Adventuring#Slowed|Slowed]] condition from any movement types listed in their stat block.
+A few stat blocks include special movement capabilities, such as swimming or flying. Unlike PCs, adversaries don’t gain the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Slowed|Slowed]] condition from any movement types listed in their stat block.
 
 ### Senses
 
@@ -327,35 +327,35 @@ A few adversaries have special capabilities or limitations to their senses, as n
 
 ### Immunities
 
-Some adversaries are immune to certain effects (usually conditions). For example, if a stat block’s Immunities line says “Immobilized,” that adversary can move freely despite being targeted with abilities that inflict the [[Mistborn Handbook/10 - Ch 9 Adventuring#Immobilized|Immobilized]] condition.
+Some adversaries are immune to certain effects (usually conditions). For example, if a stat block’s Immunities line says “Immobilized,” that adversary can move freely despite being targeted with abilities that inflict the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Immobilized|Immobilized]] condition.
 
 As with all rules in this game, these immunities are up to GM discretion, and your players might find a creative way to bypass an adversary’s immunities.
 
 ### Skills
 
-Adversaries can use any skill from [[Mistborn Handbook/04 - Ch 3 Character Statistics|chapter 3]], but for simplicity, stat blocks only list the skills they have ranks in. These skills are divided into Physical, Cognitive, and Spiritual, though not every adversary has skill ranks in each category.
+Adversaries can use any skill from [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics|chapter 3]], but for simplicity, stat blocks only list the skills they have ranks in. These skills are divided into Physical, Cognitive, and Spiritual, though not every adversary has skill ranks in each category.
 
 If you want to use a skill whose modifier isn’t listed, just use the adversary’s associated attribute for that modifier (for example, adding their Strength attribute to an Athletics test).
 
 #### Metallic Art Skills
 
-If an adversary can burn Allomantic metals or use Feruchemical metalminds, their stat block lists the corresponding Invested skills (either Allomancy, Feruchemy, or both), along with their skill modifier, their number of ranks in that skill, and which powers they can wield with it. For example, if a Ferring adversary can only use [[Metallic Arts/Gold/Gold Feruchemy|Gold Feruchemy]], their stat block might say “Metallic Art Skills: Feruchemy +6 (2 ranks; Gold).”
+If an adversary can burn Allomantic metals or use Feruchemical metalminds, their stat block lists the corresponding Invested skills (either Allomancy, Feruchemy, or both), along with their skill modifier, their number of ranks in that skill, and which powers they can wield with it. For example, if a Ferring adversary can only use [[Gold Feruchemy|Gold Feruchemy]], their stat block might say “Metallic Art Skills: Feruchemy +6 (2 ranks; Gold).”
 
-For ease of use, this game offers simplified versions of the Metallic Art powers in each stat block’s features and actions. If the power requires spending Investiture or metalmind charges, this cost usually appears in parentheses after that feature or action’s name (see chapters [[Mistborn Handbook/06 - Ch 5 Metalborn Paths|5]] and [[Mistborn Handbook/07 - Ch 6 Metallic Arts|6]] for the rules on fueling powers with Investiture). If an adversary uses a metalmind, they have a feature that indicates how many charges it stores; they usually begin each scene with that many metalmind charges, but for recurring characters, you might wish to adjust those charges to suit the unfolding story.
+For ease of use, this game offers simplified versions of the Metallic Art powers in each stat block’s features and actions. If the power requires spending Investiture or metalmind charges, this cost usually appears in parentheses after that feature or action’s name (see chapters [[06 - Ch 5 Metalborn Paths|5]] and [[07 - Ch 6 Metallic Arts|6]] for the rules on fueling powers with Investiture). If an adversary uses a metalmind, they have a feature that indicates how many charges it stores; they usually begin each scene with that many metalmind charges, but for recurring characters, you might wish to adjust those charges to suit the unfolding story.
 
 When using a stat block’s simplified Metallic Arts, you don’t need to use the adversary’s skill ranks and modifiers, as the feature or action already accounts for them. However, if you want the flexibility of the full Metallic Art rules for player characters, feel free to use them! Refer to the adversary’s listed ranks to determine the effects of any powers that scale.
 
 ### Features
 
-Adversary features provide special rules that affect the adversary but don’t directly require an action, free action, or reaction to use; these often function like a PC’s “always active” or “special activation” abilities. For example, a feature might allow an adversary to deal extra damage under certain circumstances. See "[[Mistborn Handbook/14 - Ch 13 Gamemastering#Actions|Actions]]" for details on how to calculate statistics and spend resources for these features.
+Adversary features provide special rules that affect the adversary but don’t directly require an action, free action, or reaction to use; these often function like a PC’s “always active” or “special activation” abilities. For example, a feature might allow an adversary to deal extra damage under certain circumstances. See "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering#Actions|Actions]]" for details on how to calculate statistics and spend resources for these features.
 
 ### Actions
 
 Each stat block provides unique actions, free actions, and/or reactions for that adversary. These follow the same rules as PC actions, so you can’t use the same action more than once on a turn.
 
-Adversaries can also use the [[Mistborn Handbook/11 - Ch 10 Combat#Actions|actions]], [[Mistborn Handbook/11 - Ch 10 Combat#Free Actions|free actions]], and [[Mistborn Handbook/11 - Ch 10 Combat#Reactions|reactions]] listed in [[Mistborn Handbook/11 - Ch 10 Combat|chapter 10]]; for example, any adversary can (and often should) use the [[Actions/Basic/Move|Move]] action, the [[Actions/Basic/Gain Advantage|Gain Advantage]] action, and the [[Actions/Basic/Reactive Strike|Reactive Strike]] reaction.
+Adversaries can also use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat#Actions|actions]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat#Free Actions|free actions]], and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat#Reactions|reactions]] listed in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/11 - Ch 10 Combat|chapter 10]]; for example, any adversary can (and often should) use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Move|Move]] action, the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Gain Advantage|Gain Advantage]] action, and the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Reactive Strike|Reactive Strike]] reaction.
 
-Scadrian adversaries with an Investiture pool can also use the [[Actions/Metallic Arts/Allomancy/Drink Vial|Drink Vial]] action from [[Mistborn Handbook/06 - Ch 5 Metalborn Paths|chapter 5]], and when it fits the story, the GM can assume the adversary is carrying an adequate supply of vials.
+Scadrian adversaries with an Investiture pool can also use the [[Drink Vial|Drink Vial]] action from [[06 - Ch 5 Metalborn Paths|chapter 5]], and when it fits the story, the GM can assume the adversary is carrying an adequate supply of vials.
 
 If an action is limited to a specific era, this is indicated by a symbol:  Era 1 or  Era 2.
 
@@ -375,15 +375,15 @@ If the action is an attack, it must hit its target to deal full damage. However,
 
 #### Weapon Traits
 
-Some attacks use weapons with specific traits, such as Pierce, Loaded, and Blast. The effects of these traits are summarized in that attack after the trait’s name (and they’re described in more detail in chapter 7’s "[[Mistborn Handbook/08 - Ch 7 Items#Weapon Traits|Weapon Traits]]" section). If a game effect would interact with that trait, it interacts with that adversary’s attack in the same way.
+Some attacks use weapons with specific traits, such as Pierce, Loaded, and Blast. The effects of these traits are summarized in that attack after the trait’s name (and they’re described in more detail in chapter 7’s "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items#Weapon Traits|Weapon Traits]]" section). If a game effect would interact with that trait, it interacts with that adversary’s attack in the same way.
 
 #### Aluminum Weapons
 
-Some adversary attacks specify that they use aluminum weapons or ammunition. These weapons and the attacks that use them can’t be affected by [[Metallic Arts/Iron/Iron Allomancy|Iron Allomancy]], [[Metallic Arts/Steel/Steel Allomancy|Steel Allomancy]], or other Invested abilities (see "[[Mistborn Handbook/07 - Ch 6 Metallic Arts|Allomantically Inert Materials]]" in chapter 6).
+Some adversary attacks specify that they use aluminum weapons or ammunition. These weapons and the attacks that use them can’t be affected by [[Iron Allomancy|Iron Allomancy]], [[Steel Allomancy|Steel Allomancy]], or other Invested abilities (see "[[07 - Ch 6 Metallic Arts|Allomantically Inert Materials]]" in chapter 6).
 
 #### Reactive Strikes
 
-Adversaries can use the [[Actions/Basic/Reactive Strike|Reactive Strike]] reaction like PCs, spending 1 focus to attack when an enemy voluntarily leaves their reach. The adversary can make this attack using any attack action that costs 1 and that lists a reach, but not one with only a range listed.
+Adversaries can use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Reactive Strike|Reactive Strike]] reaction like PCs, spending 1 focus to attack when an enemy voluntarily leaves their reach. The adversary can make this attack using any attack action that costs 1 and that lists a reach, but not one with only a range listed.
 
 #### Duplicate Names
 
@@ -403,7 +403,7 @@ Adversary tests can’t raise the stakes, and thus they don’t typically roll t
 
 #### Adversary Die Rolls
 
-Though adversaries don’t roll the plot die, they can occasionally gain an Opportunity or Complication due to their d20 roll (see "[[Mistborn Handbook/04 - Ch 3 Character Statistics#Opportunity and Complication Ranges|Opportunity and Complication Ranges]]" in chapter 3).
+Though adversaries don’t roll the plot die, they can occasionally gain an Opportunity or Complication due to their d20 roll (see "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/04 - Ch 3 Character Statistics#Opportunity and Complication Ranges|Opportunity and Complication Ranges]]" in chapter 3).
 
 #### PC Die Rolls
 
@@ -445,9 +445,9 @@ Published adventures present combat scenes built specifically for that story and
 
 ## Determining Tier of Play
 
-As the PCs level up, they become stronger and necessitate greater trials to challenge them. Each adversary is categorized into one of the tiers of play (1–4); these correspond to the party’s tier, as listed in the "[[Mistborn Handbook/02 - Ch 1 Character Creation|Character Advancement]]" section at the end of chapter 1.
+As the PCs level up, they become stronger and necessitate greater trials to challenge them. Each adversary is categorized into one of the tiers of play (1–4); these correspond to the party’s tier, as listed in the "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation|Character Advancement]]" section at the end of chapter 1.
 
-An adversary’s tier indicates the ideal levels they were designed to be fought at. However, adversaries can be used in higher and lower tiers to create unique and unexpected combats for the party (see the "[[Mistborn Handbook/14 - Ch 13 Gamemastering#Choosing Adversaries|Choosing Adversaries]]" section for guidelines).
+An adversary’s tier indicates the ideal levels they were designed to be fought at. However, adversaries can be used in higher and lower tiers to create unique and unexpected combats for the party (see the "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering#Choosing Adversaries|Choosing Adversaries]]" section for guidelines).
 
 ## Deciding Scene Difficulty
 
@@ -469,11 +469,11 @@ The threat values of adversaries assume that the party has a mix of strengths, w
 
 ### Power Spikes
 
-Adversaries are ranked by tier, but within each tier of play, the PCs are weaker as they enter it and stronger right before they move to the next tier. Other factors can also dramatically increase the combat power of player characters, such as firearms and additional attack actions (like the [[Heroic Paths/Warrior/Soldier/Talents/Devastating Blow|Devastating Blow]] talent). Consider these spikes in damage when determining what difficulty of combat will challenge the party; you might need more adversaries to do so.
+Adversaries are ranked by tier, but within each tier of play, the PCs are weaker as they enter it and stronger right before they move to the next tier. Other factors can also dramatically increase the combat power of player characters, such as firearms and additional attack actions (like the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Soldier/Talents/Devastating Blow|Devastating Blow]] talent). Consider these spikes in damage when determining what difficulty of combat will challenge the party; you might need more adversaries to do so.
 
 ## Choosing Adversaries
 
-As described in "[[Mistborn Handbook/14 - Ch 13 Gamemastering|Using Adversaries]]", each adversary has a role indicating their overall complexity and assigning them certain special rules. This role also determines the threat value each enemy adds to a combat:
+As described in "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering|Using Adversaries]]", each adversary has a role indicating their overall complexity and assigning them certain special rules. This role also determines the threat value each enemy adds to a combat:
 
 **Minion (0.5 threat).** A Minion adversary has a threat value equal to half a PC. They have low health and can’t critically hit with attacks.
 
@@ -481,19 +481,19 @@ As described in "[[Mistborn Handbook/14 - Ch 13 Gamemastering|Using Adversaries]
 
 **Boss (4 threat).** A Boss adversary has a threat value equal to four PCs. They can take both a slow turn and a fast turn each round of combat, and they can spend focus to take additional actions or cure themselves of conditions.
 
-The above threat values only apply to the tier of play the adversary is designed for; see "[[Mistborn Handbook/14 - Ch 13 Gamemastering#Scaling Threat|Scaling Threat]]" for adjusting threat between tiers.
+The above threat values only apply to the tier of play the adversary is designed for; see "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering#Scaling Threat|Scaling Threat]]" for adjusting threat between tiers.
 
 ### Calculating Total Threat
 
-Once you know your desired combat difficulty (see "[[Mistborn Handbook/14 - Ch 13 Gamemastering#Deciding Scene Difficulty|Deciding Scene Difficulty]]"), add adversaries to your combat until the sum of their threat values matches your desired total threat. For example, if you’re planning a hard combat for four players, you need a total threat of 6. You could reach that threat with one Boss adversary plus two Rival adversaries, or with four Rival adversaries plus four Minion adversaries, or with similar combinations.
+Once you know your desired combat difficulty (see "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering#Deciding Scene Difficulty|Deciding Scene Difficulty]]"), add adversaries to your combat until the sum of their threat values matches your desired total threat. For example, if you’re planning a hard combat for four players, you need a total threat of 6. You could reach that threat with one Boss adversary plus two Rival adversaries, or with four Rival adversaries plus four Minion adversaries, or with similar combinations.
 
 ### Scaling Threat
 
-An adversary’s threat value assumes the adversary and the characters are in the same tier of play (see “[[Mistborn Handbook/14 - Ch 13 Gamemastering#Determining Tier of Play|Determining Tier of Play]]”). You can use the [[Mistborn Handbook/17 - Appendix 2 Tables|Scaling Adversary Threats]] table to convert threat values, or you can calculate it yourself: If an adversary is of a higher tier than the PCs, double the threat value for each tier above them. If an adversary is of a lower tier than the PCs, halve the threat value for each tier the PCs are above them, rounding to the nearest quarter.
+An adversary’s threat value assumes the adversary and the characters are in the same tier of play (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering#Determining Tier of Play|Determining Tier of Play]]”). You can use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Scaling Adversary Threats]] table to convert threat values, or you can calculate it yourself: If an adversary is of a higher tier than the PCs, double the threat value for each tier above them. If an adversary is of a lower tier than the PCs, halve the threat value for each tier the PCs are above them, rounding to the nearest quarter.
 
 For example, if your party is tier 1, a tier 2 Rival adversary has a threat value of 2. If your party is tier 2, that same adversary has a threat value of 1. If your party is tier 3, that same adversary has a threat value of 0.5.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Scaling Adversary Threats]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Scaling Adversary Threats]]
 
 ![[pg365_HB13_Gunfight_Jordan Kerbow.webp]]
 
@@ -580,9 +580,9 @@ If you’re creating homebrew Mistborn content, you should also have a copy of t
 
 ## Structuring a Campaign
 
-A campaign follows the same group across many adventures. By linking these together, players can watch their characters grow from lowly thieves and workers into Mistborn and heroes of Scadrial, eventually becoming worldhopping adventurers of the entire cosmere. Depending on how you want to align the party’s story relative to the unfolding story of the Mistborn novels, one adventure might roll right into another with no breaks, or you might grant some downtime between story arcs. When the latter happens, use the [[Mistborn Handbook/10 - Ch 9 Adventuring|downtime]] rules from chapter 9 to discuss what each character might be up to between adventures.
+A campaign follows the same group across many adventures. By linking these together, players can watch their characters grow from lowly thieves and workers into Mistborn and heroes of Scadrial, eventually becoming worldhopping adventurers of the entire cosmere. Depending on how you want to align the party’s story relative to the unfolding story of the Mistborn novels, one adventure might roll right into another with no breaks, or you might grant some downtime between story arcs. When the latter happens, use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring|downtime]] rules from chapter 9 to discuss what each character might be up to between adventures.
 
-During a longer campaign, some players may play the same PC across the entire story, while other PCs might only join for part of the story. Some characters might die, some might retire, or others might depart from the group for other reasons. If an ongoing player in your group has their character leave the group for one of these reasons, you can have them create a new character matching the current level of the group, as described later in “[[Mistborn Handbook/14 - Ch 13 Gamemastering|Starting at Higher Levels.]]” However, during longer campaigns, it’s also totally normal to have players come and go. You can add new players to the group or have players “guest star” for a few sessions.
+During a longer campaign, some players may play the same PC across the entire story, while other PCs might only join for part of the story. Some characters might die, some might retire, or others might depart from the group for other reasons. If an ongoing player in your group has their character leave the group for one of these reasons, you can have them create a new character matching the current level of the group, as described later in “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering|Starting at Higher Levels.]]” However, during longer campaigns, it’s also totally normal to have players come and go. You can add new players to the group or have players “guest star” for a few sessions.
 
 ![[pg367_HB13_Wracked by Ruin_Carson Daniel.webp]]
 
@@ -590,7 +590,7 @@ During a longer campaign, some players may play the same PC across the entire st
 
 ## Awarding Advancement
 
-As the player characters progress through the story, they grow, learn, gain allies, and improve. Mechanically, this takes the form of gaining levels (see "[[Mistborn Handbook/02 - Ch 1 Character Creation|Character Advancement]]" in chapter 1) and rewards (see "[[Mistborn Handbook/09 - Ch 8 Goals and Rewards|Rewards]]" in chapter 8). The primary rules for those are in the corresponding chapters, but this section offers additional guidance on when and how often to grant them to players. It’s your job to decide how to spread out levels and rewards, thus shaping the pace and feel of your campaign.
+As the player characters progress through the story, they grow, learn, gain allies, and improve. Mechanically, this takes the form of gaining levels (see "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation|Character Advancement]]" in chapter 1) and rewards (see "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards|Rewards]]" in chapter 8). The primary rules for those are in the corresponding chapters, but this section offers additional guidance on when and how often to grant them to players. It’s your job to decide how to spread out levels and rewards, thus shaping the pace and feel of your campaign.
 
 ## Levels
 
@@ -604,7 +604,7 @@ Unless there’s a significant story reason for one character to be a different 
 
 ### Level Frequency
 
-Exactly how often you grant levels to your PCs depends on your campaign and its story. Since each tier of play represents a different type of story and experience, it’s important to pace character levels to align their power with what you want them accomplishing in the story. (See "[[Mistborn Handbook/02 - Ch 1 Character Creation|Character Advancement"]] in chapter 1 for guidance on what to expect at each tier.) If your story isn’t ready to move onto a more epic scale, it’s probably wise to keep character progression slow and steady.
+Exactly how often you grant levels to your PCs depends on your campaign and its story. Since each tier of play represents a different type of story and experience, it’s important to pace character levels to align their power with what you want them accomplishing in the story. (See "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation|Character Advancement"]] in chapter 1 for guidance on what to expect at each tier.) If your story isn’t ready to move onto a more epic scale, it’s probably wise to keep character progression slow and steady.
 
 Published adventures provide recommendations on character level and when to grant additional levels. However, when running your own campaign, consider the full arc of the story and ask yourself the following two questions to set your leveling pace:
 
@@ -620,7 +620,7 @@ On the other hand, if you expect to have a longer-running campaign, you likely w
 
 Whereas levels advance relatively linearly, rewards are a dynamic form of advancement you can grant to players based on the narrative and their character’s personal accomplishments. A reward can be anything of power or value that the characters gain through pursuing their goals. Though most rewards are gained when characters accomplish their personal goals, you can also grant rewards at meaningful story moments that warrant them.
 
-[[Mistborn Handbook/09 - Ch 8 Goals and Rewards|Chapter 8]] describes goals and rewards from a player’s perspective, but this section provides additional guidance on how and when to grant, advance, and finish goals.
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards|Chapter 8]] describes goals and rewards from a player’s perspective, but this section provides additional guidance on how and when to grant, advance, and finish goals.
 
 ### Granting Goals
 
@@ -664,7 +664,7 @@ Keep in mind that the reward you grant doesn’t always have to be the thing the
 
 Not every adventure begins with the characters at a low power level. If the story you want to tell starts with the characters as experienced Metalborn or similarly powerful adventurers, it’s appropriate to start your campaign at a higher level. These campaigns often start at the beginning of a tier (level 6, 11, or 16), but you can choose any starting level you want.
 
-When starting a campaign at a higher level, provide your players the following instructions for character creation, which supplement the instructions in [[Mistborn Handbook/02 - Ch 1 Character Creation|chapter 1]].
+When starting a campaign at a higher level, provide your players the following instructions for character creation, which supplement the instructions in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/02 - Ch 1 Character Creation|chapter 1]].
 
 Also be sure to inform them of anything else you want their characters to have, such as choosing equipment or creating details from their backstory. A higher-level character often has experiences from their past adventures, so it can be appropriate for you to seed different story hooks or connections based on what happened before your shared story begins.
 
@@ -678,7 +678,7 @@ First follow the character creation instructions as if you were creating a 1st-l
 
 ### Choose Rewards and Items
 
-In addition to the normal choices from character creation and advancement, your higher-level character will have acquired certain items and rewards for their actions and adventures so far in life. Use the [[Mistborn Handbook/17 - Appendix 2 Tables|Higher-Level Starting Rewards]] table to determine how many boxings you gain (which you can use to buy items), as well as how many rewards you can choose from [[Mistborn Handbook/09 - Ch 8 Goals and Rewards|chapter 8]].
+In addition to the normal choices from character creation and advancement, your higher-level character will have acquired certain items and rewards for their actions and adventures so far in life. Use the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Higher-Level Starting Rewards]] table to determine how many boxings you gain (which you can use to buy items), as well as how many rewards you can choose from [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards|chapter 8]].
 
 ![[pg370_HB13_Roughs Outlaw_Steve Prescott.webp]]
 
@@ -688,11 +688,11 @@ In addition to the normal choices from character creation and advancement, your 
 
 Some talents or other aspects of character advancement might have prerequisites related to rewards. As you work your way through each level of character advancement, assume you gained each reward during the first level of its tier.
 
-If you’re playing a Metalborn character, keep in mind that you must unlock each power (or pair of powers) with a Metalborn goal and reward. To do so, you’ll either need to train in your Allomantic power or to create your Feruchemical metalmind (see "[[Mistborn Handbook/06 - Ch 5 Metalborn Paths#Metalborn Goals and Rewards|Metalborn Goals and Rewards]]" in chapter 5). Until then, you can only access the nascent version of your power, and you can’t choose any talents from your Metalborn path or Metallic Art powers. For example, if you’re creating a tier 3 character and want to play a Twinborn with [[Metallic Arts/Steel/Steel Allomancy|Steel Allomanc]]y and [[Metallic Arts/Tin/Tin Feruchemy|Tin Feruchemy]], you can’t choose talents in those trees until you use both of your tier 1 rewards to complete the goals of your two powers.
+If you’re playing a Metalborn character, keep in mind that you must unlock each power (or pair of powers) with a Metalborn goal and reward. To do so, you’ll either need to train in your Allomantic power or to create your Feruchemical metalmind (see "[[06 - Ch 5 Metalborn Paths#Metalborn Goals and Rewards|Metalborn Goals and Rewards]]" in chapter 5). Until then, you can only access the nascent version of your power, and you can’t choose any talents from your Metalborn path or Metallic Art powers. For example, if you’re creating a tier 3 character and want to play a Twinborn with [[Steel Allomancy|Steel Allomanc]]y and [[Tin Feruchemy|Tin Feruchemy]], you can’t choose talents in those trees until you use both of your tier 1 rewards to complete the goals of your two powers.
 
 Heroic characters who don’t wish to become a Metalborn (or who are narratively unable to) tend to establish their increased power through gaining powerful gear, companions, and patrons as rewards.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Higher-Level Starting Rewards]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Higher-Level Starting Rewards]]
 
 ## Using the Eras
 
@@ -726,7 +726,7 @@ This section provides an overview of the major gameplay differences between eras
 
 ### Origins
 
-The human and kandra ancestries are available in both eras, but the [[Ancestries/Uncategorized/Koloss-Blooded|koloss-blooded]] ancestry is only available in Era 2.
+The human and kandra ancestries are available in both eras, but the [[Koloss-Blooded|koloss-blooded]] ancestry is only available in Era 2.
 
 Cultural expertises are designated as Era 1 (such as the Luthadel expertise), Era 2 (such as the Terris Enclaves expertise), or cross-era (such as the Kandra Homeland expertise).
 
@@ -734,21 +734,21 @@ Each era presents unique backstory considerations. Skaa and nobles are subject t
 
 ### Heroic Paths
 
-Most heroic paths are playable in either era, but some are restricted, and others may simply suit one era better than the other. The [[Mistborn Handbook/17 - Appendix 2 Tables|Heroic Paths by Era]] table lists the paths that are restricted to an era, along with those that can be used in either era but are recommended as a particularly good fit for one.
+Most heroic paths are playable in either era, but some are restricted, and others may simply suit one era better than the other. The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Heroic Paths by Era]] table lists the paths that are restricted to an era, along with those that can be used in either era but are recommended as a particularly good fit for one.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Heroic Paths by Era]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Heroic Paths by Era]]
 
 ### Metallic Arts
 
-Though the Metallic Arts exist across all eras, the availability of some Metalborn paths and their metals varies, as shown on the [[Mistborn Handbook/17 - Appendix 2 Tables|Metalborn Paths by Era]] table. See the "[[Mistborn Handbook/07 - Ch 6 Metallic Arts|Metals of Scadrial]]" section of chapter 6 for more details on which metals were available in each era.
+Though the Metallic Arts exist across all eras, the availability of some Metalborn paths and their metals varies, as shown on the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Metalborn Paths by Era]] table. See the "[[07 - Ch 6 Metallic Arts|Metals of Scadrial]]" section of chapter 6 for more details on which metals were available in each era.
 
 Hemalurgy remains mysterious in both eras. In Era 1, its practice is largely restricted to Steel Inquisitors. In Era 2, Hemalurgy is being rediscovered by the Set and used sparingly by the Ghostbloods.
 
-#### [[Mistborn Handbook/17 - Appendix 2 Tables|Metalborn Paths by Era]]
+#### [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/17 - Appendix 2 Tables|Metalborn Paths by Era]]
 
 ### Items and Rewards
 
-Any [[Items/Armor/Mistcloak|mistcloaks]] and oversized [[Items/Weapons/Koloss Blade|koloss blades]] left from Era 1 would be considered curious antiques in later eras. Innovations like [[Items/Metals/Aluminum-Lined Hat|aluminum-lined hats]], [[Items/Metals/Allomantic Grenade|Allomantic grenades]], firearms, and [[Items/Travel/Vehicles/Airship Era 2|airships]] are restricted to Era 2.
+Any [[Mistcloak|mistcloaks]] and oversized [[Koloss Blade|koloss blades]] left from Era 1 would be considered curious antiques in later eras. Innovations like [[Aluminum-Lined Hat|aluminum-lined hats]], [[Allomantic Grenade|Allomantic grenades]], firearms, and [[Airship Era 2|airships]] are restricted to Era 2.
 
 ## Era 1: The World of Ash
 
@@ -768,7 +768,7 @@ Era 1 adventures should take advantage of the distinctive archetypes and settin
 
 The content and tone of Era 1 is bleaker than Era 2. Sexual assault, slavery, genocide, and child abuse are intrinsic parts of Final Empire culture and society.
 
-Before starting an Era 1 campaign, provide players with content warnings for these subjects in advance, and ensure appropriate safety standards and tools are ready (see the upcoming "[[Mistborn Handbook/14 - Ch 13 Gamemastering|Canon and Continuity]]" and "[[Mistborn Handbook/14 - Ch 13 Gamemastering|Safety Guide]]" sections).
+Before starting an Era 1 campaign, provide players with content warnings for these subjects in advance, and ensure appropriate safety standards and tools are ready (see the upcoming "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering|Canon and Continuity]]" and "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering|Safety Guide]]" sections).
 
 Regularly review and expand safety measures with your players to help navigate any difficult situations or feelings that may arise at the table. Communication is key for safe, engaged storytelling.
 
@@ -792,7 +792,7 @@ Longer campaigns may cover multiple eras. For example, the *Mistborn Legacy* adv
 
 ## Other Eras
 
-Scadrial’s history spans beyond Era 1 and Era 2. Setting your campaign in other eras is possible, but it’ll require more creativity and work. Keeping your story in line with canon in alternate eras may also be more difficult. Still, with some extra effort, you can create your own adventures in time periods such as [[Mistborn Handbook/14 - Ch 13 Gamemastering#Classical Scadrial|Classical Scadrial]] or the [[Mistborn Handbook/14 - Ch 13 Gamemastering#Age of the Originators|Age of the Originators]].
+Scadrial’s history spans beyond Era 1 and Era 2. Setting your campaign in other eras is possible, but it’ll require more creativity and work. Keeping your story in line with canon in alternate eras may also be more difficult. Still, with some extra effort, you can create your own adventures in time periods such as [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering#Classical Scadrial|Classical Scadrial]] or the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering#Age of the Originators|Age of the Originators]].
 
 ### Classical Scadrial
 
@@ -854,15 +854,15 @@ In the *Stormlight Handbook*, the following specialties are setting-specific:
 
 In the *Mistborn Handbook*, the following specialties are setting-specific:
 
-**Hunter: [[Heroic Paths/Hunter/Hazekiller/Hazekiller|Hazekiller]].** Hazekillers employ techniques to hunt and kill the Metalborn of Scadrial. This specialty is limited to characters with awareness of Metalborn powers.
+**Hunter: [[Hazekiller|Hazekiller]].** Hazekillers employ techniques to hunt and kill the Metalborn of Scadrial. This specialty is limited to characters with awareness of Metalborn powers.
 
-**Scholar: [[Heroic Paths/Scholar/Inventor/Inventor|Inventor]].** Inventors design experimental devices and firearms. This specialty is limited to characters with knowledge of industrialized technology.
+**Scholar: [[Inventor|Inventor]].** Inventors design experimental devices and firearms. This specialty is limited to characters with knowledge of industrialized technology.
 
-**Warrior: [[Heroic Paths/Warrior/Gunslinger (Era 2)/Gunslinger|Gunslinger]].** Gunslingers wield handheld, fast firearms. This specialty is limited to characters with knowledge or awareness of firearms.
+**Warrior: [[Gunslinger|Gunslinger]].** Gunslingers wield handheld, fast firearms. This specialty is limited to characters with knowledge or awareness of firearms.
 
 ## Invested Arts
 
-Some Invested Arts are very specific to the planetary system they originate from, while others are easier to acquire and use. Allomancers and Feruchemists are only found naturally among people of Scadrian descent. Characters from other worlds can only gain access to these powers through implanting a Hemalurgic spike, through burning lerasium, or through using a [[Items/Metals/Feruchemical Medallion|Feruchemical medallion]] (each of these rewards are presented in [[Mistborn Handbook/09 - Ch 8 Goals and Rewards|chapter 8]] of this book).
+Some Invested Arts are very specific to the planetary system they originate from, while others are easier to acquire and use. Allomancers and Feruchemists are only found naturally among people of Scadrian descent. Characters from other worlds can only gain access to these powers through implanting a Hemalurgic spike, through burning lerasium, or through using a [[Feruchemical Medallion|Feruchemical medallion]] (each of these rewards are presented in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards|chapter 8]] of this book).
 
 Surges, on the other hand, are available to anyone who travels to Roshar and forms a Nahel bond with a spren. Once a spren has bonded with a character, the two can venture together into the wider cosmere under certain circumstances.
 
@@ -878,9 +878,9 @@ If a character gains access to both Surgebinding and Allomancy, the two interact
 
 **Fueling Surges and Allomancy.** While a character has sufficient access both to the Stormlight (or other form of Light) and the metals they need, they can spend their Investiture to fuel their surges and Allomantic powers without tracking which source that Investiture came from. For example, if such a character recovers Investiture using their Breathe Stormlight action, they can later spend that Investiture on an Allomantic power.
 
-**Simultaneous Resource Recovery.** While a character has sufficient access to the Stormlight and metals they need, they can consume both at once: When they use the Breathe Stormlight action (2) to gain Investiture, they can also gain the benefits of the [[Actions/Metallic Arts/Allomancy/Drink Vial|Drink Vial]] action (no additional action required, instead of 1).
+**Simultaneous Resource Recovery.** While a character has sufficient access to the Stormlight and metals they need, they can consume both at once: When they use the Breathe Stormlight action (2) to gain Investiture, they can also gain the benefits of the [[Drink Vial|Drink Vial]] action (no additional action required, instead of 1).
 
-**Losing Access to Stormlight or Metals.** When using multiple sources of Investiture interchangeably, the [[Mistborn Handbook/10 - Ch 9 Adventuring#Depleted|Depleted]] condition applies like it does for the [[Actions/Metallic Arts/Allomancy/Drink Vial|Drink Vial]] action (see [[Mistborn Handbook/07 - Ch 6 Metallic Arts|chapter 6]]); when a character uses an action to recover Investiture, they become [[Mistborn Handbook/10 - Ch 9 Adventuring#Depleted|Depleted]] of any of their surges or Allomantic powers for which they didn’t consume the corresponding source of Investiture. As a result, while a character lacks sufficient access to one of their sources of Investiture (like Stormlight or Allomantic metals), they can’t use Investiture to fuel the corresponding Invested Art, even if they have Investiture from another source. For example, if a character currently lacks access to Stormlight, they can’t use surges, and if they currently lack access to an Allomantic metal, they can’t use the corresponding power.
+**Losing Access to Stormlight or Metals.** When using multiple sources of Investiture interchangeably, the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Depleted|Depleted]] condition applies like it does for the [[Drink Vial|Drink Vial]] action (see [[07 - Ch 6 Metallic Arts|chapter 6]]); when a character uses an action to recover Investiture, they become [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Depleted|Depleted]] of any of their surges or Allomantic powers for which they didn’t consume the corresponding source of Investiture. As a result, while a character lacks sufficient access to one of their sources of Investiture (like Stormlight or Allomantic metals), they can’t use Investiture to fuel the corresponding Invested Art, even if they have Investiture from another source. For example, if a character currently lacks access to Stormlight, they can’t use surges, and if they currently lack access to an Allomantic metal, they can’t use the corresponding power.
 
 ## Canon and Continuity
 
@@ -898,7 +898,7 @@ When planning adventures, think about the era and specific timeline of your camp
 
 Before your group begins playing, discuss how closely everyone wants the game to follow canon. Feel free to explore your own personal version of Scadrial around your table, giving you and your group infinite potential to shape the world’s eras. Some groups may wish to be unfettered by continuity, allowing their campaign to unfold in unexpected ways. This could be as dramatic as replacing the protagonists of the books with your group’s player characters, or as subtle as adjusting the timing and particulars of existing canon events.
 
-Though this play style gives the players more freedom, be aware it could cause your game to diverge from future events in the Mistborn novels. Instead of playing in Era 1 or Era 2, you could instead set your game in [[Mistborn Handbook/14 - Ch 13 Gamemastering#Classical Scadrial|Classical Scadrial]], when the very first Mistings began to Snap. Though there’ll be fewer official resources for this era, that allows ample opportunities for creative world-building.
+Though this play style gives the players more freedom, be aware it could cause your game to diverge from future events in the Mistborn novels. Instead of playing in Era 1 or Era 2, you could instead set your game in [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering#Classical Scadrial|Classical Scadrial]], when the very first Mistings began to Snap. Though there’ll be fewer official resources for this era, that allows ample opportunities for creative world-building.
 
 Regardless of where in the timeline your game is set, make sure trivia and corrections never overshadow gameplay. Some players may find it rewarding to consult an online wiki to help adjudicate the results of a Lore test, while others may prefer to improvise an answer and keep the game moving. Discussing everyone’s preferences ahead of time can keep your game running smoothly.
 
@@ -910,7 +910,7 @@ In Era 2, in the years between the events of *The Bands of Mourning* and *The Lo
 
 Most groups seek to play a game that largely integrates with the canonical story, allowing the world to change and grow alongside future novels and novellas. Scadrial is a constantly evolving world, allowing for many important stories to coexist!
 
-If playing a canonical campaign, refer to resources like the ones mentioned in the “[[Mistborn Handbook/15 - Another Secret|Next Steps]]” section at the end of this book. If some players haven’t read and finished the series, that’s fine—as long as they’re okay if spoilers arise. The group can work together to recall and contribute details during gameplay.
+If playing a canonical campaign, refer to resources like the ones mentioned in the “[[15 - Another Secret|Next Steps]]” section at the end of this book. If some players haven’t read and finished the series, that’s fine—as long as they’re okay if spoilers arise. The group can work together to recall and contribute details during gameplay.
 
 ## New Players and Canon
 
@@ -948,9 +948,9 @@ A **session zero** is a collaborative preliminary game session where everyone ar
 
 **Table Expectations.** Discuss and mutually agree on table etiquette and how the game is played. How often will you meet? Approximately how long will sessions last, and will there be one or more breaks for refreshment? Are cell phones okay at the table or would your table prefer those who require extra stimulation to doodle, color, or knit instead? Does everyone feel comfortable with the inclusion of some mature language and themes, or should the game be considered “family friendly”?
 
-**Safety Tools.** Though session zero is in itself a safety tool, it also offers the opportunity to discuss other tools that can help you navigate any difficulties that do arise during play (see "[[Mistborn Handbook/14 - Ch 13 Gamemastering#Using Safety Tools|Using Safety Tools]]"). Also be sure to plan how to handle situations where someone at the table goes against the guidelines the table has created together.
+**Safety Tools.** Though session zero is in itself a safety tool, it also offers the opportunity to discuss other tools that can help you navigate any difficulties that do arise during play (see "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering#Using Safety Tools|Using Safety Tools]]"). Also be sure to plan how to handle situations where someone at the table goes against the guidelines the table has created together.
 
-**Identify Fun (and Un-Fun) Topics.** Games are about having fun together, so if anyone—including the GM—is uncomfortable with a topic, that’s a sign the group should focus on other topics instead. The upcoming "[[Mistborn Handbook/14 - Ch 13 Gamemastering#Lines and Veils|Lines and Veils]]" and "[[Mistborn Handbook/14 - Ch 13 Gamemastering#Topics to Consider|Topics to Consider]]" sections offer guidance on handling sensitive topics during play. Before your campaign begins, it’s helpful to compile the group’s list of topics into a shared document anyone can quickly reference during gameplay. Still, unexpected harm or discomfort can happen during gameplay. Your group is encouraged to pause and make use of safety tools to adjust as needed.
+**Identify Fun (and Un-Fun) Topics.** Games are about having fun together, so if anyone—including the GM—is uncomfortable with a topic, that’s a sign the group should focus on other topics instead. The upcoming "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering#Lines and Veils|Lines and Veils]]" and "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering#Topics to Consider|Topics to Consider]]" sections offer guidance on handling sensitive topics during play. Before your campaign begins, it’s helpful to compile the group’s list of topics into a shared document anyone can quickly reference during gameplay. Still, unexpected harm or discomfort can happen during gameplay. Your group is encouraged to pause and make use of safety tools to adjust as needed.
 
 **Gameplay Guidance.** Briefly review how gameplay works and talk through any questions your players may have. It may be helpful to create rules cards or cheat sheets to reference key mechanics easily.
 
@@ -1040,11 +1040,11 @@ Mistborn includes characters with mental illnesses, though the line between an i
 
 Groups such as the kandra and koloss of Era 1 depend on Hemalurgic spikes for their survival, but they’re still people. At the hands of humans, they’ve faced everything from dismissal to slavery and genocide. Give special consideration to their experiences.
 
-Do players of kandra or koloss-blooded characters want to de-emphasize their characters’ marginalization, or are they interested in it being a major theme to actively examine during gameplay (see "[[Mistborn Handbook/14 - Ch 13 Gamemastering#Including Marginalization Responsibly|Including Marginalization Responsibly]]")? Either way, the GM and players should always afford these ancestries the respect, empathy, and consideration humans are given.
+Do players of kandra or koloss-blooded characters want to de-emphasize their characters’ marginalization, or are they interested in it being a major theme to actively examine during gameplay (see "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering#Including Marginalization Responsibly|Including Marginalization Responsibly]]")? Either way, the GM and players should always afford these ancestries the respect, empathy, and consideration humans are given.
 
 ### Gender and Sexuality
 
-Gender-based inequity exists on Scadrial, especially in Era 1, though gender roles aren’t as pronounced or oppressive as class roles. Characters who have the opportunity to explore a variety of clothing and presentation options may be able to fully express their authentic identities and even experience gender euphoria. Even so, characters who have had gender roles placed on them—especially through extreme harm (see "[[Mistborn Handbook/14 - Ch 13 Gamemastering#Consent and Abuse|Consent and Abuse]]")—may still be struggling with the repercussions of that trauma. What themes is your table comfortable exploring when it comes to gender?
+Gender-based inequity exists on Scadrial, especially in Era 1, though gender roles aren’t as pronounced or oppressive as class roles. Characters who have the opportunity to explore a variety of clothing and presentation options may be able to fully express their authentic identities and even experience gender euphoria. Even so, characters who have had gender roles placed on them—especially through extreme harm (see "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering#Consent and Abuse|Consent and Abuse]]")—may still be struggling with the repercussions of that trauma. What themes is your table comfortable exploring when it comes to gender?
 
 Sexuality on Scadrial is open for exploration and celebration. Your characters may want to explore which genders they’re attracted to and how they experience romantic and sexual attraction (if at all). Characters may also experience attraction outside of their species, but do take care to acknowledge power dynamics and avoid exoticizing or fetishizing interspecies partnerships. Sexuality and attraction only need to be a source of tension if your group wants them to be.
 
@@ -1068,7 +1068,7 @@ If a player wishes, they can work with the GM to determine a reasonable mechanic
 
 ### Violence, Gore, and Horror
 
-Violence can take many forms, including various forms of abuse (see "[[Mistborn Handbook/14 - Ch 13 Gamemastering#Consent and Abuse|Consent and Abuse]]"). In a game with adversity and combat built in, some level of violence is very likely to occur between characters and adversaries. It’s important to discuss with your group what types and levels of violence are appropriate at your table.
+Violence can take many forms, including various forms of abuse (see "[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/14 - Ch 13 Gamemastering#Consent and Abuse|Consent and Abuse]]"). In a game with adversity and combat built in, some level of violence is very likely to occur between characters and adversaries. It’s important to discuss with your group what types and levels of violence are appropriate at your table.
 
 Seeing gore in real life can be extremely traumatic. Fictional gore can trigger memories of real gore or invite intrusive images and thoughts. What level of gore is everyone comfortable with? For example, your group might agree to not go beyond mentions of blood and intact corpses. As with all other topics, lines and veils around gore should be taken seriously. Similarly, consider what other aspects of horror are or aren’t conducive to a fun game for the group.
 

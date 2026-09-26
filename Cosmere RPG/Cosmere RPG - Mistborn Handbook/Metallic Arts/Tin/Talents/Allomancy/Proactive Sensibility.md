@@ -12,4 +12,4 @@ aliases: ["Proactive Sensibility"]
 
 *Coordinating with your allies helps you reduce the impact of sudden sensory input.*
 
-Your supernatural senses aren’t overstimulated by bursts of sensory input caused by you or your allies, so those bursts don’t require a **Discipline** test to avoid becoming [[Mistborn Handbook/10 - Ch 9 Adventuring#Disoriented|Disoriented]].
+Your supernatural senses aren’t overstimulated by bursts of sensory input caused by you or your allies, so those bursts don’t require a **Discipline** test to avoid becoming [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Disoriented|Disoriented]].

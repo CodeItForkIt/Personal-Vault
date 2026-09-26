@@ -24,18 +24,18 @@ The Warrior path presents talents within three specialties:
 
 ## Building a Warrior
 
-The following “[[Mistborn Handbook/05 - Ch 4 Heroic Paths#Warriors of Scadrial|Warriors of Scadrial]]” section suggests example builds for iconic characters. If you have a different idea in mind, consider these general tips for building an effective Warrior:
+The following “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/05 - Ch 4 Heroic Paths#Warriors of Scadrial|Warriors of Scadrial]]” section suggests example builds for iconic characters. If you have a different idea in mind, consider these general tips for building an effective Warrior:
 
 **Attributes.** It’s usually a good idea to prioritize **Speed** and **Strength**, then consider **Awareness** and **Willpower**.
 
 **Skills.** Useful skills for warriors include **Agility**, **Athletics**, **Discipline**, **Light Weaponry**, **Heavy Weaponry**, **Intimidation**, **Leadership**, and **Persuasion**.
 
-**Other Heroic Paths.** The [[Heroic Paths/Leader/Leader|Leader]] and [[Heroic Paths/Hunter/Hunter|Hunter]] paths make excellent multi-path choices.
+**Other Heroic Paths.** The [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Leader|Leader]] and [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Hunter|Hunter]] paths make excellent multi-path choices.
 
-Rewards. When choosing rewards, you can’t go wrong with a [[Items/Weapons/Koloss Blade|koloss blade]], an [[Items/Hemalurgic Spikes/Iron Spike|iron Hemalurgic spike]], or a companion to fight alongside you.
+Rewards. When choosing rewards, you can’t go wrong with a [[Koloss Blade|koloss blade]], an [[Iron Spike|iron Hemalurgic spike]], or a companion to fight alongside you.
 
 ## Warrior Key Talent
 
-The Warrior key talent, [[Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance]], unlocks access to the Warrior specialties.
+The Warrior key talent, [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance]], unlocks access to the Warrior specialties.
 
 **Starting Skill: Athletics.** If you choose Warrior as your starting path, gain a free skill rank in **Athletics**.

@@ -12,17 +12,17 @@ aliases: ["Appendix 3: Skill Trees"]
 
 ## Heroic Path Talent Trees
 
-[[Heroic Paths/Agent/Agent Talents|Agent Talents]]
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Agent/Agent Talents|Agent Talents]]
 
-[[Heroic Paths/Envoy/Envoy Talents|Envoy Talents]]
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Envoy/Envoy Talents|Envoy Talents]]
 
-[[Heroic Paths/Hunter/Hunter Talents|Hunter Talents]]
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Hunter Talents|Hunter Talents]]
 
-[[Heroic Paths/Leader/Leader Talents|Leader Talents]]
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Leader/Leader Talents|Leader Talents]]
 
-[[Heroic Paths/Scholar/Scholar Talents|Scholar Talents]]
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Scholar Talents|Scholar Talents]]
 
-[[Heroic Paths/Warrior/Warrior Talents|Warrior Talents]]
+[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Warrior/Warrior Talents|Warrior Talents]]
 
 ## Radiant Path Talent Trees
 

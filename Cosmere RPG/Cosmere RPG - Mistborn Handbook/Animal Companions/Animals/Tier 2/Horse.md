@@ -26,7 +26,7 @@ aliases: ["Horse"]
 ### Charge
 *2 act*
 
-The Horse moves up to their movement rate in a straight line without triggering Reactive Strikes. During this movement, the Horse can pass through the spaces of Medium and smaller enemies, trampling them underfoot. Each Medium or smaller enemy whose space the Horse enters must succeed on a *Test: `dc=15 skill=ath`* or be knocked [[Mistborn Handbook/10 - Ch 9 Adventuring#Prone|Prone]] and take `2d6 Impact`.
+The Horse moves up to their movement rate in a straight line without triggering Reactive Strikes. During this movement, the Horse can pass through the spaces of Medium and smaller enemies, trampling them underfoot. Each Medium or smaller enemy whose space the Horse enters must succeed on a *Test: `dc=15 skill=ath`* or be knocked [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Prone|Prone]] and take `2d6 Impact`.
 
 ### Kick
 *2 act*

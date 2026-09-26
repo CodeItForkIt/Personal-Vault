@@ -12,4 +12,4 @@ aliases: ["Merciless"]
 
 *It’s time to make good on your threats. Your enemy never cared for a fair fight, so this time, you’ll play by their rules.*
 
-You gain an advantage on attack tests against targets who are [[Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted]], [[Mistborn Handbook/10 - Ch 9 Adventuring#Immobilized|Immobilized]], or [[Mistborn Handbook/10 - Ch 9 Adventuring#Restrained|Restrained]].
+You gain an advantage on attack tests against targets who are [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Exhausted|Exhausted]], [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Immobilized|Immobilized]], or [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/10 - Ch 9 Adventuring#Restrained|Restrained]].

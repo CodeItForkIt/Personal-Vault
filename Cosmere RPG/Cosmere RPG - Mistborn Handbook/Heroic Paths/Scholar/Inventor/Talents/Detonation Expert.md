@@ -12,7 +12,7 @@ aliases: ["Detonation Expert"]
 
 *Danger doesn’t dampen your flair for dramatics, but it certainly keeps you quick on your feet. Nothing lights a fire under you like a fire under you.*
 
-When you start your turn within 30 feet of an undetonated explosive you can sense, you gain 1, which you can use only to [[Actions/Basic/Interact|Interact]] with the explosive or to [[Actions/Basic/Disengage|Disengage]] or [[Actions/Basic/Move|Move]] away from it.
+When you start your turn within 30 feet of an undetonated explosive you can sense, you gain 1, which you can use only to [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Interact|Interact]] with the explosive or to [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Disengage|Disengage]] or [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Move|Move]] away from it.
 
 Additionally, when you make an attack test with dynamite, you can use **Lore** instead of **Heavy** **Weaponry**.
 

@@ -14,4 +14,4 @@ aliases: ["Seek Quarry"]
 
 After spending 1 minute mentally preparing, you choose a character who you can sense or who you’ve previously encountered. That character becomes your quarry until you choose to end this effect (0) or select a new quarry.
 
-Additionally, you gain an advantage on tests made to find, attack, or study your quarry (such as the [[Actions/Basic/Gain Advantage|Gain Advantage]] action).
+Additionally, you gain an advantage on tests made to find, attack, or study your quarry (such as the [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Gain Advantage|Gain Advantage]] action).

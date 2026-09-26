@@ -1358,7 +1358,7 @@ aliases: ["Appendix 2: Tables"]
 | Gold       | 125 bx               | 500 bx               |
 | Nicrosil   | Unavailable          | 250 bx               |
 
-*\*See the upcoming [[Mistborn Handbook/08 - Ch 7 Items#Crafting Items With Nonstandard Materials|Crafting Items With Nonstandard Materials]] section*
+*\*See the upcoming [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/08 - Ch 7 Items#Crafting Items With Nonstandard Materials|Crafting Items With Nonstandard Materials]] section*
 
 ## Item Crafting Test
 
@@ -1476,7 +1476,7 @@ aliases: ["Appendix 2: Tables"]
 </tbody>
 </table>
 
-*\*See the “[[Mistborn Handbook/16 - Appendix 1 Animal Companions|Animal Companions]]” appendix*
+*\*See the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/16 - Appendix 1 Animal Companions|Animal Companions]]” appendix*
 
 ## Hemalurgic Rewards by Tier
 
@@ -1487,7 +1487,7 @@ aliases: ["Appendix 2: Tables"]
 | 2 | Hemalurgic spike made of copper, iron, tin, or zinc |
 | 3 | Hemalurgic spike made of bendalloy, brass, bronze, cadmium, electrum, gold, pewter, or steel |
 
-*\*A spike’s reward tier increases if you already have one of that metal (see “[[Mistborn Handbook/09 - Ch 8 Goals and Rewards#Gaining Duplicate Spikes|Gaining Duplicate Spikes]]”).*
+*\*A spike’s reward tier increases if you already have one of that metal (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards#Gaining Duplicate Spikes|Gaining Duplicate Spikes]]”).*
 
 ## Known Hemalurgic Spike Effects
 
@@ -1551,7 +1551,7 @@ aliases: ["Appendix 2: Tables"]
 </tbody>
 </table>
 
-*\*A spike’s reward tier increases if you already gained one of that metal (see “[[Mistborn Handbook/09 - Ch 8 Goals and Rewards#Gaining Duplicate Spikes|Gaining Duplicate Spikes]]”).*
+*\*A spike’s reward tier increases if you already gained one of that metal (see “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/09 - Ch 8 Goals and Rewards#Gaining Duplicate Spikes|Gaining Duplicate Spikes]]”).*
 
 ## Shard Influence Examples
 
@@ -1910,7 +1910,7 @@ aliases: ["Appendix 2: Tables"]
 | Intricate | Locate an ancient city lost to time. ([[Mistborn Handbook/13 - Ch 12 Endeavors|Exploration]]) | 9 | 4 |
 | Insurmountable | Disable a military airship before it bombs a small city. ([[Mistborn Handbook/13 - Ch 12 Endeavors|Mission]]) | 11 | 5 |
 
-*\* See the “[[Mistborn Handbook/13 - Ch 12 Endeavors|Discovery Endeavors]]” section.*
+*\* See the “[[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Mistborn Handbook/13 - Ch 12 Endeavors|Discovery Endeavors]]” section.*
 
 ## Discovery Examples
 

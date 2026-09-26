@@ -14,4 +14,4 @@ aliases: ["Grappler's Stance"]
 
 When you acquire this talent, you learn a new stance, which you can enter as 1:
 
-**Grappler’s Stance.** While in this stance, you gain an advantage on non-attack **Athletics** tests, and you can [[Actions/Basic/Grapple|Grapple]] or [[Actions/Basic/Shove|Shove]] as 1 (instead of 2). Additionally, an enemy within your reach must spend an additional 1 when they draw a weapon or use an action to attack with a ranged weapon. (If multiple characters in **Grappler’s Stance** can reach that enemy, this effect doesn’t stack.)
+**Grappler’s Stance.** While in this stance, you gain an advantage on non-attack **Athletics** tests, and you can [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Grapple|Grapple]] or [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Actions/Basic/Shove|Shove]] as 1 (instead of 2). Additionally, an enemy within your reach must spend an additional 1 when they draw a weapon or use an action to attack with a ranged weapon. (If multiple characters in **Grappler’s Stance** can reach that enemy, this effect doesn’t stack.)

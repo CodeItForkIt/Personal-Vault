@@ -14,4 +14,4 @@ aliases: ["Shadowing"]
 
 You gain an advantage on tests to avoid being sensed by your quarry, and your quarry gains a disadvantage on tests to sense you.
 
-Additionally, when you succeed on a test against an enemy’s Spiritual defense while you’re in cover or an area where your target’s senses are obscured, you can spend 3 focus to designate that target as your quarry for your [[Heroic Paths/Hunter/Seek Quarry|Seek Quarry]] talent.
+Additionally, when you succeed on a test against an enemy’s Spiritual defense while you’re in cover or an area where your target’s senses are obscured, you can spend 3 focus to designate that target as your quarry for your [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Seek Quarry|Seek Quarry]] talent.

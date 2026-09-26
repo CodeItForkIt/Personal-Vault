@@ -12,6 +12,6 @@ aliases: ["Swift Healer"]
 
 *Your practiced hands quickly dress wounds, even as the tides of battle ebb and flow around you.*
 
-You can use your [[Heroic Paths/Scholar/Surgeon/Talents/Field Medicine|Field Medicine]] as 0.
+You can use your [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Scholar/Surgeon/Talents/Field Medicine|Field Medicine]] as 0.
 
 Additionally, when you acquire this talent, you become more skilled in healing. When you use an ability that restores health to another character, they recover additional health equal to your ranks in **Medicine**.

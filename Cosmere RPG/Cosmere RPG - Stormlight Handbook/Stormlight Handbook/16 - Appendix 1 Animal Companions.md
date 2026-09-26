@@ -24,7 +24,7 @@ Animal companions follow the [[Stormlight Handbook/14 - Ch 13 Gamemastering|Usin
 
 ## Your Companion’s Behavior
 
-As with other NPCs, an animal companion is controlled by the GM, unless an effect (like the Hunter’s [[Heroic Paths/Hunter/Tracker/Talents/Animal Bond|Animal Bond]] talent) gives you some ability to dictate their actions. However, your animal companion generally acts in your best interests and as your character requests, though a companion won’t act against their own instincts.
+As with other NPCs, an animal companion is controlled by the GM, unless an effect (like the Hunter’s [[Cosmere RPG/Cosmere RPG - Mistborn Handbook/Heroic Paths/Hunter/Tracker/Talents/Animal Bond|Animal Bond]] talent) gives you some ability to dictate their actions. However, your animal companion generally acts in your best interests and as your character requests, though a companion won’t act against their own instincts.
 
 ## Dropping to 0 Health
 
