@@ -9,27 +9,16 @@ aliases: ["Lilinum, the Devastating One"]
 # Lilinum, the Devastating One
 
 **Tier:** 2  
-**Size:** medium
-
-| Strength | Speed | Intellect | Willpower | Awareness | Presence |
-|---|---|---|---|---|---|
-| 2 | 4 | 6 | 3 | 4 | 1 |
-
-| Health | Focus | Investiture |
-|---|---|---|
-| 41/41 | 5/5 | 6/6 |
-
-**Speed:** 40 ft.
-
-| AGI | ATH | LWP | DIS | INM | PRC | SUR | DVS |
-|---|---|---|---|---|---|---|---|
-| 3 | 3 | 3 | 4 | 4 | 2 | 2 | 3 |
+**Size:** medium  
+**Attributes:** Strength 2, Speed 4, Intellect 6, Willpower 3, Awareness 4, Presence 1  
+**Resources:** Health 41/41, Focus 5/5, Investiture 6/6  
+**Skills:** AGI 3, ATH 3, LWP 3, DIS 4, INM 4, PRC 2, SUR 2, DVS 3
 
 ## Opportunities and Complications
 
-**Opportunity.** An enemy can spend Opportunity to disable Lilinum's Shroud of Dust feature and prevent her from using her Surge of Division and Regenerate actions until the end of Lilinum's next turn.
+**Opportunity.** An enemy can spend O to disable Lilinum's Shroud of Dust feature and prevent her from using her Surge of Division and Regenerate actions until the end of Lilinum's next turn.
 
-Complication. The GM can spend Always Active from an enemy's test to have Lilinum use either her Claws or Shardblade action as One Action. When she does, she gains an advantage on that attack test.
+Complication. The GM can spend c from an enemy's test to have Lilinum use either her Claws or Shardblade action as r. When she does, she gains an advantage on that attack test.
 
 ##### Tactics
 
@@ -71,7 +60,7 @@ Lilinum, the Devastating One recovers health. She can use this free action even 
 
 **Graze** `2d10 Spirit average`;
 
-**Hit** `2d10 + 7 Spirit average`, and the Lilinum, the Devastating One can spend 1 focus to use the Disengage action as Free Action.
+**Hit** `2d10 + 7 Spirit average`, and the Lilinum, the Devastating One can spend 1 focus to use the Disengage action as 0.
 
 ### Claws Followup
 *1*

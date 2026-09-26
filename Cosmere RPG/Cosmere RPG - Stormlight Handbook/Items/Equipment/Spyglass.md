@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Spyglass"]
 ---
-![[spyglass-telescope-brass.webp|64]]
+# Spyglass
 
 **Price** 500 mk; **Weight** 1 lb.;
 

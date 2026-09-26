@@ -1,0 +1,106 @@
+{
+  "nodes": [
+    {
+      "id": "deRki32lMEhItz37",
+      "type": "file",
+      "file": "Metallic Arts/Atium/Talents/Feruchemy/Act Your Age.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "QPhRC62Ip5DA4Zc9",
+      "type": "file",
+      "file": "Metallic Arts/Atium/Talents/Feruchemy/Peak Condition.md",
+      "x": 0,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "HqsnvxVpCcLT02WG",
+      "type": "file",
+      "file": "Metallic Arts/Atium/Talents/Allomancy/Shadow Mastery.md",
+      "x": 0,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "wMib7h6lTWoaIETx",
+      "type": "file",
+      "file": "Metallic Arts/Atium/Talents/Allomancy/Worst Case Scenario.md",
+      "x": 0,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "j50A4RTUypCGf5Wh",
+      "type": "file",
+      "file": "Metallic Arts/Atium/Talents/Allomancy/Clear Your Mind.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "8g2s7i51wT4pBeud",
+      "type": "file",
+      "file": "Metallic Arts/Atium/Talents/Allomancy/Social Seer.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "T7ggO7hAMK3wGP0w",
+      "type": "file",
+      "file": "Metallic Arts/Atium/Talents/Allomancy/Vital Precision.md",
+      "x": 340,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "s1d2AmXY6yfNhTKA",
+      "type": "file",
+      "file": "Metallic Arts/Atium/Talents/Allomancy/God Mode.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "HqsnvxVpCcLT02WG",
+      "fromSide": "right",
+      "toNode": "8g2s7i51wT4pBeud",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "HqsnvxVpCcLT02WG",
+      "fromSide": "right",
+      "toNode": "T7ggO7hAMK3wGP0w",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "wMib7h6lTWoaIETx",
+      "fromSide": "right",
+      "toNode": "j50A4RTUypCGf5Wh",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "T7ggO7hAMK3wGP0w",
+      "fromSide": "right",
+      "toNode": "s1d2AmXY6yfNhTKA",
+      "toSide": "left"
+    }
+  ]
+}

@@ -6,6 +6,6 @@ category: "Loot"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "loot"]
 aliases: ["Garnet Mark"]
 ---
-![[sphere_garnet_mark.webp|64]]
+# Garnet Mark
 
 

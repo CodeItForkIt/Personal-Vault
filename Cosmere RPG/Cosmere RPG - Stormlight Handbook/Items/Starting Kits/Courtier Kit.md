@@ -6,7 +6,7 @@ category: "Starting Kits"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Courtier Kit"]
 ---
-![[wine-bottle-glass-white.webp|64]]
+# Courtier Kit
 
 **Weapons:** One sidesword, greatsword, longsword, or longbow
 

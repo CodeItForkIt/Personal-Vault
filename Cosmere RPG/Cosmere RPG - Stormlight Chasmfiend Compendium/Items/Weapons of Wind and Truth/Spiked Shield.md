@@ -6,7 +6,7 @@ category: "Weapons of Wind and Truth"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-chasmfiend-compendium", "weapon"]
 aliases: ["Spiked Shield"]
 ---
-![[ICON_shield_spiked.webp|64]]
+# Spiked Shield
 
 **Damage** 1d6 keen; **Range** Melee; **Traits** Cumbersome [3], Defensive; Two-Handed; **Expert Traits** Momentum, loses Two-Handed;
 

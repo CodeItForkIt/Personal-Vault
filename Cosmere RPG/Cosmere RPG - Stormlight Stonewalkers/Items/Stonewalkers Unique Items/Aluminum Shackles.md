@@ -6,7 +6,7 @@ category: "Stonewalkers Unique Items"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-stonewalkers", "equipment"]
 aliases: ["Aluminum Shackles"]
 ---
-![[debuff-chains-shackles-movement-blue.webp|64]]
+# Aluminum Shackles
 
 *Equipment, 3 lb.*
 

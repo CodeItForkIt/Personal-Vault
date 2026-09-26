@@ -113,7 +113,7 @@ Many NPCs in this chapter also offer **favors**: a positive relationship that th
 
 ## Warcamp Scenes
 
-The Warcamp Scenes table summarizes the six scenes in this section, which can be run in any order (with the exception of [[Journal/02 - 02 Weepers Trail#Weeper’s Eyes|Weeper’s Eyes]], which shouldn’t be the first scene). Prioritize scenes that address characters’ backstories and heroic paths.
+The Warcamp Scenes table summarizes the six scenes in this section, which can be run in any order (with the exception of [[Journal/02 - 02 Weepers Trail|Weeper’s Eyes]], which shouldn’t be the first scene). Prioritize scenes that address characters’ backstories and heroic paths.
 
 ### Scene Hooks
 
@@ -122,8 +122,6 @@ Each scene offers two potential hooks to introduce it: an active hook you can us
 The Warcamp Scenes table summarizes both hooks, while the scenes for each section detail the hooks. Regardless of which hook you choose, each scene provides a lead about Liss (see [[Journal/02 - 02 Weepers Trail#Finding Liss|Finding Liss]]).
 
 #### [[Journal/11 - Appendix C Tables|Warcamp Scenes]]
-
-[[Journal/11 - Appendix C Tables|Warcamp Scenes]]
 
 ### Finding Liss
 
@@ -146,8 +144,6 @@ Each time the party acquires a lead, Taszo’s peakspren Po’ahu grows more con
 Whenever a PC acquires a lead or acts with exceptional dependability (which is a core Stoneward tenet), roll on the Po’ahu’s Reactions table. Po’ahu fully emerges when the party meets Liss in [[Journal/02 - 02 Weepers Trail|The Contact]]. If the PCs drift far off task and abandon Taszo’s request, Po’ahu’s rock makes cracking sounds and shows signs of crumbling to dust.
 
 #### [[Journal/11 - Appendix C Tables|Po’ahu’s Reactions]]
-
-[[Journal/11 - Appendix C Tables|Po’ahu’s Reactions]]
 
 > [!tip] Path to Radiance: The First Ideal
 > A PC who has the First Ideal talent can advance their “Speak the First Ideal” goal during chapter 2. If your group has a fledgling Radiant, give them opportunities to advance their goal twice during this chapter.
@@ -297,8 +293,6 @@ If a character gains an Opportunity or Complication, use the Gambling Opportunit
 
 #### [[Journal/11 - Appendix C Tables|Gambling Opportunities and Complications]]
 
-[[Journal/11 - Appendix C Tables|Gambling Opportunities and Complications]]
-
 #### **Resolving the Game**
 
 If Nel is unable to resist influence, the characters win the game. If all PCs drop out before Nel, the conversation fails.
@@ -434,8 +428,6 @@ If a character gains an Opportunity or Complication, use the Whitespine Opportun
 
 #### [[Journal/11 - Appendix C Tables|Whitespine Opportunities and Complications]]
 
-[[Journal/11 - Appendix C Tables|Whitespine Opportunities and Complications]]
-
 ### Aftermath
 
 If the PCs are downed, the juvenile whitespines escape into the Shattered Plains without finishing off the party. Otherwise, the combat ends with the whitespines dead or in captivity.
@@ -496,8 +488,6 @@ If a character gains an Opportunity or Complication, use the Bettani Opportuniti
 
 #### [[Journal/11 - Appendix C Tables|Bettani Opportunities and Complications]]
 
-[[Journal/11 - Appendix C Tables|Bettani Opportunities and Complications]]
-
 ### Resolving the Endeavor
 
 The endeavor succeeds if the party accrues 4 successes before 3 failures, or if they otherwise complete the objective.
@@ -533,7 +523,7 @@ Whenever the party moves between locations in the warcamps and Outer Market, Lis
 
 ### Special Rule: Closing the Distance
 
-If the characters decide to chase Vedolin, run a Pursuit endeavor (see “Pursuit Endeavors” in chapter 12 of the Stormlight Handbook). In this type of endeavor, instead of tracking successes and failures, you track the distance between pursuer and target. For this Pursuit, the starting distance is 3 and the escape distance is 5. Each time Vedolin succeeds on a test, the current distance increases by one. Each time a PC succeeds on a test, the current distance decreases by one. If the current distance reaches 0, the party catches him. If the current distance reaches 5 (the escape distance), Vedolin gets away (see [[Journal/02 - 02 Weepers Trail#Resolving the Endeavor|Resolving the Endeavor]]).
+If the characters decide to chase Vedolin, run a Pursuit endeavor (see “Pursuit Endeavors” in chapter 12 of the Stormlight Handbook). In this type of endeavor, instead of tracking successes and failures, you track the distance between pursuer and target. For this Pursuit, the starting distance is 3 and the escape distance is 5. Each time Vedolin succeeds on a test, the current distance increases by one. Each time a PC succeeds on a test, the current distance decreases by one. If the current distance reaches 0, the party catches him. If the current distance reaches 5 (the escape distance), Vedolin gets away (see [[Journal/02 - 02 Weepers Trail|Resolving the Endeavor]]).
 
 ### Catching Vedolin
 
@@ -548,8 +538,6 @@ As a spy, give Vedolin an advantage on Agility and Stealth tests. As the party p
 If a character gains an Opportunity or Complication, use the Vedolin Opportunities or Complications table for inspiration.
 
 #### [[Journal/11 - Appendix C Tables|Vedolin Opportunities and Complications]]
-
-[[Journal/11 - Appendix C Tables|Vedolin Opportunities and Complications]]
 
 ### Resolving the Endeavor
 
@@ -714,13 +702,11 @@ If a character gains an Opportunity or Complication, use the Monastery Opportuni
 
 #### [[Journal/11 - Appendix C Tables|Monastery Opportunities and Complications]]
 
-[[Journal/11 - Appendix C Tables|Monastery Opportunities and Complications]]
-
 ### Resolving the Endeavor
 
 The endeavor succeeds if the party accrues 9 successes before 4 failures, or if they otherwise complete the objective.
 
-**Success.** The PCs open Taln’s cell and have a moment alone to talk, as described in [[Journal/02 - 02 Weepers Trail#Talenel’Elin|Talenel’Elin]].
+**Success.** The PCs open Taln’s cell and have a moment alone to talk, as described in [[Journal/02 - 02 Weepers Trail|Talenel’Elin]].
 
 **Failure.** If the PCs fail the endeavor, they still make it into the cell and proceed to the scene with Taln described below. However, their infiltration didn’t go unnoticed—when they leave the monastery, they’re confronted by Meridas Amaram (see [[Journal/02 - 02 Weepers Trail#Son of Honor|Son of Honor]]).
 

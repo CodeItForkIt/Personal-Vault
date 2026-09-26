@@ -6,9 +6,9 @@ category: "Scholar / Surgeon / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Field Medicine"]
 ---
-![[textiles-stitching-leather-brown.webp|64]]
+# Field Medicine
 
-**Activation:** One Action
+**Activation:** 1
 
 *You treat a minor wound by bandaging a gash, applying salves, or resetting a dislocated joint.*
 

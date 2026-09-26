@@ -6,8 +6,8 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Lockpick"]
 ---
-![[lockpicks-steel-grey.webp|64]]
+# Lockpick
 
 **Price** 5 mk; **Weight** 0.5 lb.;
 
-You can use a lockpick to gain an advantage on **Thievery** tests made to pick a lock. After this test is resolved, the GM can spend Always Active to cause the lockpick to break.
+You can use a lockpick to gain an advantage on **Thievery** tests made to pick a lock. After this test is resolved, the GM can spend c to cause the lockpick to break.

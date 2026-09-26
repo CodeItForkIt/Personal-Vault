@@ -6,7 +6,7 @@ category: "Envoy"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "path"]
 aliases: ["Envoy"]
 ---
-![[envoy.webp|64]]
+# Envoy
 
 Prominent organizations throughout Roshar appoint Envoys who vie for resources, curry favor, or offer service on the organization’s behalf. These stewards dutifully further the reach of their ideologies through precise rhetoric, patient attendance, and ceaseless fervor.
 

@@ -6,9 +6,9 @@ category: "Stoneward / Talents / Peakspren Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Take Squire (Stoneward)"]
 ---
-![[commoner.webp|64]]
+# Take Squire (Stoneward)
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You begin taking other people under your wing, allowing them to breathe Stormlight and use surges before they’ve established their own Nahel bond.*
 

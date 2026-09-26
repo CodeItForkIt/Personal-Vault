@@ -1,0 +1,143 @@
+{
+  "nodes": [
+    {
+      "id": "LaD7jQ9WoU26H8Sg",
+      "type": "file",
+      "file": "Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Invested.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "NdmUPO3smFGJBfp6",
+      "type": "file",
+      "file": "Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Third Ideal Truthwatcher.md",
+      "x": 680,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "vBW7E36XB2fU1khc",
+      "type": "file",
+      "file": "Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Second Ideal Truthwatcher.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "fKH8r4HtKyqRTP8O",
+      "type": "file",
+      "file": "Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Spiritual Healing.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "FHc8CQtesIKqYboH",
+      "type": "file",
+      "file": "Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Deepened Bond.md",
+      "x": 1020,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "bFLDKyQY8QZ99ULG",
+      "type": "file",
+      "file": "Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Fourth Ideal Truthwatcher.md",
+      "x": 1020,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "aX3fypqT6KksdmXY",
+      "type": "file",
+      "file": "Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Take Squire Truthwatcher.md",
+      "x": 1020,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "fgINZehUdnXmHQPI",
+      "type": "file",
+      "file": "Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Wound Regeneration.md",
+      "x": 1020,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "JurWiFJTGpfwHjN5",
+      "type": "file",
+      "file": "Radiant Paths/Truthwatcher/Talents/First Ideal Truthwatcher.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "NdmUPO3smFGJBfp6",
+      "fromSide": "right",
+      "toNode": "FHc8CQtesIKqYboH",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "fKH8r4HtKyqRTP8O",
+      "fromSide": "right",
+      "toNode": "LaD7jQ9WoU26H8Sg",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "vBW7E36XB2fU1khc",
+      "fromSide": "right",
+      "toNode": "NdmUPO3smFGJBfp6",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "NdmUPO3smFGJBfp6",
+      "fromSide": "right",
+      "toNode": "aX3fypqT6KksdmXY",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "NdmUPO3smFGJBfp6",
+      "fromSide": "right",
+      "toNode": "bFLDKyQY8QZ99ULG",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "JurWiFJTGpfwHjN5",
+      "fromSide": "right",
+      "toNode": "fKH8r4HtKyqRTP8O",
+      "toSide": "left"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "LaD7jQ9WoU26H8Sg",
+      "fromSide": "right",
+      "toNode": "fgINZehUdnXmHQPI",
+      "toSide": "left"
+    },
+    {
+      "id": "edge7",
+      "fromNode": "JurWiFJTGpfwHjN5",
+      "fromSide": "right",
+      "toNode": "vBW7E36XB2fU1khc",
+      "toSide": "left"
+    }
+  ]
+}

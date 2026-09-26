@@ -6,6 +6,6 @@ category: "Loot"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "loot"]
 aliases: ["Emerald Mark"]
 ---
-![[sphere_emerald_mark.webp|64]]
+# Emerald Mark
 
 

@@ -6,9 +6,9 @@ category: "Transformation Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Persistent Transformation"]
 ---
-![[arrows-circling-pink.webp|64]]
+# Persistent Transformation
 
-**Activation:** Always Active
+**Activation:** 8
 
 *Your force of will is so great that objects have a hard time denying you.*
 

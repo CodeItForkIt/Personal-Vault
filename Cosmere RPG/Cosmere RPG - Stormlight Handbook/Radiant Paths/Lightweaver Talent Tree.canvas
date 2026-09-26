@@ -1,0 +1,151 @@
+{
+  "nodes": [
+    {
+      "id": "MruGXbKjAII3KNek",
+      "type": "file",
+      "file": "Radiant Paths/Lightweaver/Talents/First Ideal Lightweaver.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "FKzyfajvNH9NGh8j",
+      "type": "file",
+      "file": "Radiant Paths/Lightweaver/Talents/Cryptic Bond/Deepened Bond.md",
+      "x": 1020,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "9zmPEOWUmKIPyGYi",
+      "type": "file",
+      "file": "Radiant Paths/Lightweaver/Talents/Cryptic Bond/Fourth Ideal Lightweaver.md",
+      "x": 1020,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "sAe4sNbaWIJvFI2N",
+      "type": "file",
+      "file": "Radiant Paths/Lightweaver/Talents/Cryptic Bond/Take Squire Lightweaver.md",
+      "x": 1020,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "qw9tqoDuPCbrF2IG",
+      "type": "file",
+      "file": "Radiant Paths/Lightweaver/Talents/Cryptic Bond/Wound Regeneration.md",
+      "x": 1020,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "cGwv8TF1uykDRSl1",
+      "type": "file",
+      "file": "Radiant Paths/Lightweaver/Talents/Cryptic Bond/Invested.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "WUlEmb57JtrrZ9Hs",
+      "type": "file",
+      "file": "Radiant Paths/Lightweaver/Talents/Cryptic Bond/Third Ideal Lightweaver.md",
+      "x": 680,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "U7q3jbFPBTsLXPfS",
+      "type": "file",
+      "file": "Radiant Paths/Lightweaver/Talents/Cryptic Bond/Physical Illusion.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "mOpcV5w7sjX0hxup",
+      "type": "file",
+      "file": "Radiant Paths/Lightweaver/Talents/Cryptic Bond/Second Ideal Lightweaver.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "WUlEmb57JtrrZ9Hs",
+      "fromSide": "right",
+      "toNode": "9zmPEOWUmKIPyGYi",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "WUlEmb57JtrrZ9Hs",
+      "fromSide": "right",
+      "toNode": "FKzyfajvNH9NGh8j",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "MruGXbKjAII3KNek",
+      "fromSide": "right",
+      "toNode": "U7q3jbFPBTsLXPfS",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "mOpcV5w7sjX0hxup",
+      "fromSide": "right",
+      "toNode": "WUlEmb57JtrrZ9Hs",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "U7q3jbFPBTsLXPfS",
+      "fromSide": "right",
+      "toNode": "cGwv8TF1uykDRSl1",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "MruGXbKjAII3KNek",
+      "fromSide": "right",
+      "toNode": "mOpcV5w7sjX0hxup",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "cGwv8TF1uykDRSl1",
+      "fromSide": "right",
+      "toNode": "qw9tqoDuPCbrF2IG",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge7",
+      "fromNode": "WUlEmb57JtrrZ9Hs",
+      "fromSide": "right",
+      "toNode": "sAe4sNbaWIJvFI2N",
+      "toSide": "left",
+      "label": "or"
+    }
+  ]
+}

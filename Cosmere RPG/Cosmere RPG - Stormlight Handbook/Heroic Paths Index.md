@@ -2,7 +2,11 @@
 
 ## Agent
 - [[Heroic Paths/Agent/Agent|Agent]]
+- [[Heroic Paths/Agent/Agent Talents|Agent Talents]]
 - [[Heroic Paths/Agent/Opportunist|Opportunist]]
+
+### Agent / Investigator
+- [[Heroic Paths/Agent/Investigator/Investigator|Investigator]]
 
 #### Agent / Investigator / Talents
 - [[Heroic Paths/Agent/Investigator/Talents/Baleful|Baleful]]
@@ -14,6 +18,9 @@
 - [[Heroic Paths/Agent/Investigator/Talents/Sleuths Instincts|Sleuth's Instincts]]
 - [[Heroic Paths/Agent/Investigator/Talents/Watchful Eye|Watchful Eye]]
 
+### Agent / Spy
+- [[Heroic Paths/Agent/Spy/Spy|Spy]]
+
 #### Agent / Spy / Talents
 - [[Heroic Paths/Agent/Spy/Talents/Collected|Collected]]
 - [[Heroic Paths/Agent/Spy/Talents/Cover Story|Cover Story]]
@@ -23,6 +30,9 @@
 - [[Heroic Paths/Agent/Spy/Talents/Plausible Excuse|Plausible Excuse]]
 - [[Heroic Paths/Agent/Spy/Talents/Subtle Takedown|Subtle Takedown]]
 - [[Heroic Paths/Agent/Spy/Talents/Sure Outcome|Sure Outcome]]
+
+### Agent / Thief
+- [[Heroic Paths/Agent/Thief/Thief|Thief]]
 
 #### Agent / Thief / Talents
 - [[Heroic Paths/Agent/Thief/Talents/Cheap Shot|Cheap Shot]]
@@ -36,7 +46,11 @@
 
 ## Envoy
 - [[Heroic Paths/Envoy/Envoy|Envoy]]
+- [[Heroic Paths/Envoy/Envoy Talents|Envoy Talents]]
 - [[Heroic Paths/Envoy/Rousing Presence|Rousing Presence]]
+
+### Envoy / Diplomat
+- [[Heroic Paths/Envoy/Diplomat/Diplomat|Diplomat]]
 
 #### Envoy / Diplomat / Talents
 - [[Heroic Paths/Envoy/Diplomat/Talents/Calm Appeal|Calm Appeal]]
@@ -48,6 +62,9 @@
 - [[Heroic Paths/Envoy/Diplomat/Talents/Well Dressed|Well Dressed]]
 - [[Heroic Paths/Envoy/Diplomat/Talents/Withering Retort|Withering Retort]]
 
+### Envoy / Faithful
+- [[Heroic Paths/Envoy/Faithful/Faithful|Faithful]]
+
 #### Envoy / Faithful / Talents
 - [[Heroic Paths/Envoy/Faithful/Talents/Applied Motivation|Applied Motivation]]
 - [[Heroic Paths/Envoy/Faithful/Talents/Composed|Composed]]
@@ -57,6 +74,9 @@
 - [[Heroic Paths/Envoy/Faithful/Talents/Inspired Zeal|Inspired Zeal]]
 - [[Heroic Paths/Envoy/Faithful/Talents/Sage Counsel|Sage Counsel]]
 - [[Heroic Paths/Envoy/Faithful/Talents/Stalwart Presence|Stalwart Presence]]
+
+### Envoy / Mentor
+- [[Heroic Paths/Envoy/Mentor/Mentor|Mentor]]
 
 #### Envoy / Mentor / Talents
 - [[Heroic Paths/Envoy/Mentor/Talents/Foresight|Foresight]]
@@ -70,7 +90,11 @@
 
 ## Hunter
 - [[Heroic Paths/Hunter/Hunter|Hunter]]
+- [[Heroic Paths/Hunter/Hunter Talents|Hunter Talents]]
 - [[Heroic Paths/Hunter/Seek Quarry|Seek Quarry]]
+
+### Hunter / Archer
+- [[Heroic Paths/Hunter/Archer/Archer|Archer]]
 
 #### Hunter / Archer / Talents
 - [[Heroic Paths/Hunter/Archer/Talents/Backstep|Backstep]]
@@ -82,6 +106,9 @@
 - [[Heroic Paths/Hunter/Archer/Talents/Tagging Shot|Tagging Shot]]
 - [[Heroic Paths/Hunter/Archer/Talents/Unrelenting Salvo|Unrelenting Salvo]]
 
+### Hunter / Assassin
+- [[Heroic Paths/Hunter/Assassin/Assassin|Assassin]]
+
 #### Hunter / Assassin / Talents
 - [[Heroic Paths/Hunter/Assassin/Talents/Cold Eyes|Cold Eyes]]
 - [[Heroic Paths/Hunter/Assassin/Talents/Fatal Thrust|Fatal Thrust]]
@@ -91,6 +118,9 @@
 - [[Heroic Paths/Hunter/Assassin/Talents/Sidestep|Sidestep]]
 - [[Heroic Paths/Hunter/Assassin/Talents/Startling Blow|Startling Blow]]
 - [[Heroic Paths/Hunter/Assassin/Talents/Swift Strikes|Swift Strikes]]
+
+### Hunter / Tracker
+- [[Heroic Paths/Hunter/Tracker/Tracker|Tracker]]
 
 #### Hunter / Tracker / Actions
 - [[Heroic Paths/Hunter/Tracker/Actions/Entangling Trap|Entangling Trap]]
@@ -110,6 +140,10 @@
 ## Leader
 - [[Heroic Paths/Leader/Decisive Command|Decisive Command]]
 - [[Heroic Paths/Leader/Leader|Leader]]
+- [[Heroic Paths/Leader/Leader Talents|Leader Talents]]
+
+### Leader / Champion
+- [[Heroic Paths/Leader/Champion/Champion|Champion]]
 
 #### Leader / Champion / Talents
 - [[Heroic Paths/Leader/Champion/Talents/Combat Coordination|Combat Coordination]]
@@ -121,6 +155,9 @@
 - [[Heroic Paths/Leader/Champion/Talents/Resolute Stand|Resolute Stand]]
 - [[Heroic Paths/Leader/Champion/Talents/Valiant Intervention|Valiant Intervention]]
 
+### Leader / Officer
+- [[Heroic Paths/Leader/Officer/Officer|Officer]]
+
 #### Leader / Officer / Talents
 - [[Heroic Paths/Leader/Officer/Talents/Authority|Authority]]
 - [[Heroic Paths/Leader/Officer/Talents/Composed|Composed]]
@@ -130,6 +167,9 @@
 - [[Heroic Paths/Leader/Officer/Talents/Synchronized Assault|Synchronized Assault]]
 - [[Heroic Paths/Leader/Officer/Talents/Through the Fray|Through the Fray]]
 - [[Heroic Paths/Leader/Officer/Talents/Well-Supplied|Well-Supplied]]
+
+### Leader / Politico
+- [[Heroic Paths/Leader/Politico/Politico|Politico]]
 
 #### Leader / Politico / Talents
 - [[Heroic Paths/Leader/Politico/Talents/Baleful|Baleful]]
@@ -144,6 +184,10 @@
 ## Scholar
 - [[Heroic Paths/Scholar/Erudition|Erudition]]
 - [[Heroic Paths/Scholar/Scholar|Scholar]]
+- [[Heroic Paths/Scholar/Scholar Talents|Scholar Talents]]
+
+### Scholar / Artifabrian
+- [[Heroic Paths/Scholar/Artifabrian/Artifabrian|Artifabrian]]
 
 #### Scholar / Artifabrian / Talents
 - [[Heroic Paths/Scholar/Artifabrian/Talents/Deep Study|Deep Study]]
@@ -155,6 +199,9 @@
 - [[Heroic Paths/Scholar/Artifabrian/Talents/Overwhelm with Details|Overwhelm with Details]]
 - [[Heroic Paths/Scholar/Artifabrian/Talents/Prized Acquisition|Prized Acquisition]]
 
+### Scholar / Strategist
+- [[Heroic Paths/Scholar/Strategist/Strategist|Strategist]]
+
 #### Scholar / Strategist / Talents
 - [[Heroic Paths/Scholar/Strategist/Talents/Composed|Composed]]
 - [[Heroic Paths/Scholar/Strategist/Talents/Contingency|Contingency]]
@@ -164,6 +211,9 @@
 - [[Heroic Paths/Scholar/Strategist/Talents/Mind and Body|Mind and Body]]
 - [[Heroic Paths/Scholar/Strategist/Talents/Strategize|Strategize]]
 - [[Heroic Paths/Scholar/Strategist/Talents/Turning Point|Turning Point]]
+
+### Scholar / Surgeon
+- [[Heroic Paths/Scholar/Surgeon/Surgeon|Surgeon]]
 
 #### Scholar / Surgeon / Talents
 - [[Heroic Paths/Scholar/Surgeon/Talents/Anatomical Insight|Anatomical Insight]]
@@ -179,6 +229,10 @@
 - [[Heroic Paths/Warrior/End Stance|End Stance]]
 - [[Heroic Paths/Warrior/Vigilant Stance|Vigilant Stance]]
 - [[Heroic Paths/Warrior/Warrior|Warrior]]
+- [[Heroic Paths/Warrior/Warrior Talents|Warrior Talents]]
+
+### Warrior / Duelist
+- [[Heroic Paths/Warrior/Duelist/Duelist|Duelist]]
 
 #### Warrior / Duelist / Talents
 - [[Heroic Paths/Warrior/Duelist/Talents/Feinting Strike|Feinting Strike]]
@@ -190,6 +244,9 @@
 - [[Heroic Paths/Warrior/Duelist/Talents/Vinestance|Vinestance]]
 - [[Heroic Paths/Warrior/Duelist/Talents/Wits End|Wit's End]]
 
+### Warrior / Shardbearer
+- [[Heroic Paths/Warrior/Shardbearer/Shardbearer|Shardbearer]]
+
 #### Warrior / Shardbearer / Talents
 - [[Heroic Paths/Warrior/Shardbearer/Talents/Bloodstance|Bloodstance]]
 - [[Heroic Paths/Warrior/Shardbearer/Talents/Meteoric Leap|Meteoric Leap]]
@@ -199,6 +256,9 @@
 - [[Heroic Paths/Warrior/Shardbearer/Talents/Shattering Blow|Shattering Blow]]
 - [[Heroic Paths/Warrior/Shardbearer/Talents/Stonestance|Stonestance]]
 - [[Heroic Paths/Warrior/Shardbearer/Talents/Windstance|Windstance]]
+
+### Warrior / Soldier
+- [[Heroic Paths/Warrior/Soldier/Soldier|Soldier]]
 
 #### Warrior / Soldier / Talents
 - [[Heroic Paths/Warrior/Soldier/Talents/Cautious Advance|Cautious Advance]]

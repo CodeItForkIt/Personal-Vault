@@ -6,7 +6,7 @@ category: "Stormlight Actions & Features / Gravitation"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "action"]
 aliases: ["Lashing Shot (Impact)"]
 ---
-![[trail-streak-pink.webp|64]]
+# Lashing Shot (Impact)
 
 **Attack** +6; **Range** 30 ft.; **Targets** one;
 

@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Anesthetic (5 doses)"]
 ---
-![[tea-jug-glowing-brown-pink.webp|64]]
+# Anesthetic (5 doses)
 
 **Price** 75 mk; **Weight** 1.5 lb.;
 

@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Chest"]
 ---
-![[ICON_Chest.webp|64]]
+# Chest
 
 **Price** 30 mk; **Weight** 25 lb.;
 

@@ -6,9 +6,9 @@ category: "Leader / Officer / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Composed"]
 ---
-![[meditation-chi-focus-blue.webp|64]]
+# Composed
 
-**Activation:** Always Active
+**Activation:** 8
 
 *Your practiced composure enables you to push yourself to impressive limits without becoming distracted or losing track of threats in your environment.*
 

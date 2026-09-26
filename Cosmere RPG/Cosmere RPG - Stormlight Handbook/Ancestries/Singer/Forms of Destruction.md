@@ -6,9 +6,9 @@ category: "Singer"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Forms of Destruction"]
 ---
-![[orb-vortex.webp|64]]
+# Forms of Destruction
 
-**Activation:** Always Active
+**Activation:** 8
 
 You gain two new forms of power—[[Ancestries/Singer/Forms/Direform|Direform]] and [[Ancestries/Singer/Forms/Stormform|Stormform]]—which you can transform into using your [[Ancestries/Singer/Change Form|Change Form]].
 

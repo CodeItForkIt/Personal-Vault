@@ -6,6 +6,6 @@ category: "Loot"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "loot"]
 aliases: ["Diamond Mark"]
 ---
-![[sphere_diamond_mark.webp|64]]
+# Diamond Mark
 
 

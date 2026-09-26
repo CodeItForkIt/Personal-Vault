@@ -1,0 +1,150 @@
+{
+  "nodes": [
+    {
+      "id": "HO2L9uUTgsl9oIzk",
+      "type": "file",
+      "file": "Ancestries/Singer/Forms of Destruction.md",
+      "x": 1020,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "NHw7mxZgPOdW8ZQM",
+      "type": "file",
+      "file": "Ancestries/Singer/Forms of Expansion.md",
+      "x": 1020,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "5TI0tfFBw7V3gElL",
+      "type": "file",
+      "file": "Ancestries/Singer/Forms of Mystery.md",
+      "x": 1020,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "P8H9Vgg6hN5lRxCB",
+      "type": "file",
+      "file": "Ancestries/Singer/Change Form.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "n9wlQNiHQ6135jtR",
+      "type": "file",
+      "file": "Ancestries/Singer/Ambitious Mind.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "YKj0auphZL1h3oDf",
+      "type": "file",
+      "file": "Ancestries/Singer/Forms of Finesse.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "bzXuedqKyGYQd9G7",
+      "type": "file",
+      "file": "Ancestries/Singer/Forms of Resolve.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "X8y1Qg3sj5IiRjDd",
+      "type": "file",
+      "file": "Ancestries/Singer/Forms of Wisdom.md",
+      "x": 340,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "n9wlQNiHQ6135jtR",
+      "fromSide": "right",
+      "toNode": "5TI0tfFBw7V3gElL",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "n9wlQNiHQ6135jtR",
+      "fromSide": "right",
+      "toNode": "HO2L9uUTgsl9oIzk",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "n9wlQNiHQ6135jtR",
+      "fromSide": "right",
+      "toNode": "NHw7mxZgPOdW8ZQM",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "P8H9Vgg6hN5lRxCB",
+      "fromSide": "right",
+      "toNode": "X8y1Qg3sj5IiRjDd",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "P8H9Vgg6hN5lRxCB",
+      "fromSide": "right",
+      "toNode": "YKj0auphZL1h3oDf",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "P8H9Vgg6hN5lRxCB",
+      "fromSide": "right",
+      "toNode": "bzXuedqKyGYQd9G7",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "YKj0auphZL1h3oDf",
+      "fromSide": "right",
+      "toNode": "n9wlQNiHQ6135jtR",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge7",
+      "fromNode": "bzXuedqKyGYQd9G7",
+      "fromSide": "right",
+      "toNode": "n9wlQNiHQ6135jtR",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge8",
+      "fromNode": "X8y1Qg3sj5IiRjDd",
+      "fromSide": "right",
+      "toNode": "n9wlQNiHQ6135jtR",
+      "toSide": "left",
+      "label": "or"
+    }
+  ]
+}

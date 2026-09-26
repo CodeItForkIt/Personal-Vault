@@ -6,9 +6,9 @@ category: "Elsecaller / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["First Ideal (Elsecaller)"]
 ---
-![[beams-impact-pink.webp|64]]
+# First Ideal (Elsecaller)
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You begin the process of bonding an inkspren, giving you some small ability to breathe in and use Stormlight. You might be aware of this nascent bond, or clueless—using the powers subconsciously—until you get closer to speaking the First Ideal.*
 

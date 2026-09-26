@@ -6,7 +6,7 @@ category: "Skybreaker / Talents / Highspren Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Soaring Destruction"]
 ---
-![[blast-jet-stream-embers-red.webp|64]]
+# Soaring Destruction
 
 **Activation:** 0
 

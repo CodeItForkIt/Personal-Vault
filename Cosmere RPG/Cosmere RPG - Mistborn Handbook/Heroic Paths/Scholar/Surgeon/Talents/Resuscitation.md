@@ -1,0 +1,17 @@
+---
+title: "Resuscitation"
+type: "talent"
+module: "Cosmere RPG - Mistborn Handbook"
+category: "Scholar / Surgeon / Talents"
+tags: ["cosmere-rpg", "cosmere-rpg-mistborn-handbook", "talent"]
+aliases: ["Resuscitation"]
+---
+# Resuscitation
+
+**Activation:** **\***
+
+*You efficiently treat a mortally wounded creature, seeking to pull them back from the brink by applying a tourniquet, administering an antidote, or even restarting failed organs.*
+
+You can use your [[Heroic Paths/Scholar/Surgeon/Talents/Field Medicine|Field Medicine]] talent to attempt to resuscitate a fallen character. When you do, spend 3 focus (instead of 1) to target a character within your reach who is [[Mistborn Handbook/10 - Ch 9 Adventuring#Unconscious|Unconscious]] or who died within a number of rounds equal to your ranks in **Medicine**.
+
+That talent’s test DC increases by 5 for each injury the target has beyond the first. On a failure, the target doesn’t recover health. On a success, the target recovers health as usual for that talent, and if they were dead, they return to life. If they were [[Mistborn Handbook/10 - Ch 9 Adventuring#Unconscious|Unconscious]], they can choose to remove that condition.

@@ -6,7 +6,7 @@ category: "Weapons"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "weapon"]
 aliases: ["Sling"]
 ---
-![[ICON_Sling.webp|64]]
+# Sling
 
 **Damage** 1d4 impact; **Range** Ranged [30/120]; **Traits** Discreet; **Expert Traits** Indirect;
 

@@ -6,7 +6,7 @@ category: "Fabrials / Unique Effects"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Bindrial (Area)"]
 ---
-![[web-spider-glowing-purple.webp|64]]
+# Bindrial (Area)
 
 *Tier 1 Unique Fabrial Effect*
 

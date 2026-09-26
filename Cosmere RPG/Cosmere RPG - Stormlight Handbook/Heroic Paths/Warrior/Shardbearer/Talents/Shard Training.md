@@ -6,9 +6,9 @@ category: "Warrior / Shardbearer / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Shard Training"]
 ---
-![[warrior.webp|64]]
+# Shard Training
 
-Activation: Special Activation
+Activation: \*
 
 *Given the rarity of Shardblades and Shardplate, it’s exceptionally difficult to acquire firsthand experience with these relics. You’ve managed this feat, learning to deal blows for maximum effect and to absorb strikes as efficiently as possible.*
 

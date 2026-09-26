@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Tuning Fork"]
 ---
-![[wrench-iron-grey.webp|64]]
+# Tuning Fork
 
 **Price** 50 mk; **Weight** 0.5 lb;
 

@@ -6,9 +6,9 @@ category: "Transformation Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Soulcast Defense"]
 ---
-![[barrier-shield-dome-blue-purple.webp|64]]
+# Soulcast Defense
 
-**Activation:** Reaction
+**Activation:** r
 
 *You Soulcast near-instinctively, able to transform projectiles in flight.*
 

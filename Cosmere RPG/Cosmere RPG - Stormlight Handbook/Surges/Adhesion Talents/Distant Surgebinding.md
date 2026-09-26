@@ -6,9 +6,9 @@ category: "Adhesion Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Distant Surgebinding"]
 ---
-![[abstract-ribbons-red-orange.webp|64]]
+# Distant Surgebinding
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You can infuse targets from a greater distance.*
 

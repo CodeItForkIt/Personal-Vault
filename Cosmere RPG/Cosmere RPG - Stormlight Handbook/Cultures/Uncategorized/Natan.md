@@ -6,7 +6,7 @@ category: "Uncategorized"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "culture"]
 aliases: ["Natan"]
 ---
-![[natan-t.webp|64]]
+# Natan
 
 The Vorin city-state of New Natanan is located near the Ocean of Origins. This meager landholding is a remnant of a much larger empire that was destroyed long ago. The ruins of its capital, once called Stormseat, were reclaimed by the listeners and called Narak. Today, some Natans live as nomads that travel the desolate lands previously contained in their empire.
 

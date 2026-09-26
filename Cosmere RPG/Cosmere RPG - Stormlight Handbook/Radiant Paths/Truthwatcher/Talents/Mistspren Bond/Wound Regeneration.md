@@ -6,9 +6,9 @@ category: "Truthwatcher / Talents / Mistspren Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Wound Regeneration"]
 ---
-![[cross-embers-glow-yellow-purple.webp|64]]
+# Wound Regeneration
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You can use Stormlight to rapidly recover from injuries.*
 

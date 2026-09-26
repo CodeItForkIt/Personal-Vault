@@ -6,7 +6,7 @@ category: "Weapons"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "weapon"]
 aliases: ["Shortspear"]
 ---
-![[ICON_Shortspear.webp|64]]
+# Shortspear
 
 **Damage** 1d8 keen; **Range** Melee; **Traits** Two-handed; **Expert Traits** Unique: loses Two-Handed trait;
 

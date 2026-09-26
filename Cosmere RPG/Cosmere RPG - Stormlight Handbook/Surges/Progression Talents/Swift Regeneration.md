@@ -6,9 +6,9 @@ category: "Progression Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Swift Regeneration"]
 ---
-![[cross-beam-green.webp|64]]
+# Swift Regeneration
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You can heal yourself with greater efficiency and make those infused with your Regrowth more resistant to injury.*
 

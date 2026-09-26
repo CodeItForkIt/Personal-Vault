@@ -6,9 +6,9 @@ category: "Cohesion Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Memories of Stone"]
 ---
-![[mask-stone-eyes-orange.webp|64]]
+# Memories of Stone
 
-**Activation:** Two Actions
+**Activation:** 2
 
 *Your deepening knowledge of the earth allows you to commune with stone itself, gaining visions of things the stone has seen.*
 

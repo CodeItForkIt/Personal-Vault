@@ -6,7 +6,7 @@ category: "Armor"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "armor"]
 aliases: ["Shardplate (Radiant)"]
 ---
-![[ICON_Shardplate_Living.webp|64]]
+# Shardplate (Radiant)
 
 **Deflect Value** 5; **Traits** Unique; **Expert Traits** —;
 

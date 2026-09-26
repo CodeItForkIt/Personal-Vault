@@ -6,7 +6,7 @@ category: "Envoy / Mentor / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Foresight"]
 ---
-![[third-eye-blue-red.webp|64]]
+# Foresight
 
 **Activation:** 8
 

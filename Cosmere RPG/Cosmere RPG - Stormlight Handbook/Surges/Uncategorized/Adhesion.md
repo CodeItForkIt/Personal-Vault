@@ -6,7 +6,7 @@ category: "Uncategorized"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "power"]
 aliases: ["Adhesion"]
 ---
-![[Adhesion_Surge-glyph.svg|64]]
+# Adhesion
 
 **Radiant Orders:** Bondsmith, Windrunner
 

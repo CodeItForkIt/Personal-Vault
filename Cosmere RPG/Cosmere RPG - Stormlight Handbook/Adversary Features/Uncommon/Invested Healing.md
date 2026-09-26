@@ -6,6 +6,6 @@ category: "Uncommon"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "action"]
 aliases: ["Invested Healing"]
 ---
-![[cross-worn-green.webp|64]]
+# Invested Healing
 
 The Actor Name can spend 1 Investiture to recover `1d6 + 4 Healing average`.

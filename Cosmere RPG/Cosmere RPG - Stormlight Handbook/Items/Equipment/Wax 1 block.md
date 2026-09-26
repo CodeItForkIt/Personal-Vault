@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Wax (1 block)"]
 ---
-![[masonry-block-cube-grey.webp|64]]
+# Wax (1 block)
 
 **Price** 2 mk; **Weight** 0.5 lb.;
 

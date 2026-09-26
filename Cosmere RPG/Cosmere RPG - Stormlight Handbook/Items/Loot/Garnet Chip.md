@@ -6,6 +6,6 @@ category: "Loot"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "loot"]
 aliases: ["Garnet Chip"]
 ---
-![[sphere_garnet_chip.webp|64]]
+# Garnet Chip
 
 

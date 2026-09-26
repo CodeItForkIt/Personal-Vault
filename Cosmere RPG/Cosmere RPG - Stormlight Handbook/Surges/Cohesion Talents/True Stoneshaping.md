@@ -6,9 +6,9 @@ category: "Cohesion Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["True Stoneshaping"]
 ---
-![[barrier-stone-brown-green.webp|64]]
+# True Stoneshaping
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You no longer simply soften stone—you assert your will on it, molding it into complex shapes with a mere command.*
 

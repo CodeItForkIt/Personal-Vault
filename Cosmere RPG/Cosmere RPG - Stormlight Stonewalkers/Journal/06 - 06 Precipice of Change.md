@@ -52,7 +52,7 @@ Rall Elorim has been spared the worst of the Everstorms, though there’s eviden
 
 ## What Kaiana Knows
 
-If Kaiana is with the party, she expresses concerned surprise upon seeing the changed Rall Elorim. Though she trained in Pailiah’s Vault, the arrival of the Everstorm has made her knowledge of the city outdated. If PCs ask her how to access the vault, she agrees to take them via a tunnel by the Stormfalls—but after entering the city, she quickly realizes the entrance she knew is no longer accessible, having collapsed during the Everstorm. (See [[Journal/06 - 06 Precipice of Change#Kaiana’s Trail|Kaiana’s Trail]] for what she remembers of the alternative entrance.)
+If Kaiana is with the party, she expresses concerned surprise upon seeing the changed Rall Elorim. Though she trained in Pailiah’s Vault, the arrival of the Everstorm has made her knowledge of the city outdated. If PCs ask her how to access the vault, she agrees to take them via a tunnel by the Stormfalls—but after entering the city, she quickly realizes the entrance she knew is no longer accessible, having collapsed during the Everstorm. (See [[Journal/06 - 06 Precipice of Change|Kaiana’s Trail]] for what she remembers of the alternative entrance.)
 
 ## About Rall Elorim
 
@@ -72,7 +72,7 @@ Dymab is a highly competent administrator tasked with maintaining order and ensu
 
 Lilinum has a dark sense of humor and delights in being unpredictable. She’s feared throughout the city, and her reputation for being erratically violent and wielding a Shardblade has sparked many rumors. Though she’s ostensibly in Rall Elorim to aid Dymab’s assignment, her disregard for his authority makes her a thorn in his side. Dymab has tasked her with rooting out the resistance—a duty she routinely shirks, as she’s more interested in the mysterious Dirgehollow shadows and pushing Dymab’s buttons.
 
-The PCs are likely to meet Dymab if they choose to help the resistance thwart his fabrial surveillance plans (See [[Journal/06 - 06 Precipice of Change#Heth’s Mission|Heth’s Mission]]). The party also hears rumors of the Shardbearer Lilinum throughout the city, and they meet her in Dirgehollow at the end of the chapter (see [[Journal/06 - 06 Precipice of Change|Into the Deep]]).
+The PCs are likely to meet Dymab if they choose to help the resistance thwart his fabrial surveillance plans (See [[Journal/06 - 06 Precipice of Change|Heth’s Mission]]). The party also hears rumors of the Shardbearer Lilinum throughout the city, and they meet her in Dirgehollow at the end of the chapter (see [[Journal/06 - 06 Precipice of Change|Into the Deep]]).
 
 ### Singers Behind Enemy Lines
 
@@ -149,8 +149,6 @@ If a character gains an Opportunity or Complication, use the Lilinum’s Raid Op
 
 #### [[Journal/11 - Appendix C Tables|Lilinum’s Raid Opportunities and Complications]]
 
-[[Journal/11 - Appendix C Tables|Lilinum’s Raid Opportunities and Complications]]
-
 ### Aftermath
 
 When Odium’s loyal singers are defeated, an uneasy peace returns to the business. In addition to their weapons, the defeated singers collectively possess 75 **marks**, three flasks of ***oil***, and a ***flint and steel***.
@@ -182,9 +180,9 @@ Conscious of the attention this place will now draw, Heth invites the party to j
 
 Once the dust has settled, the party can resume their key mission in Rall Elorim: finding Ylt’s base of operations. The PCs need to meet with two of the following three NPCs to gain enough leads to the Eyes of Pala’s base:
 
-- **Kaiana.** The Truthwatcher does her best to reconnect with her spren and her order. Proceed to the [[Journal/06 - 06 Precipice of Change#Kaiana’s Trail|Kaiana’s Trail]] scene.
+- **Kaiana.** The Truthwatcher does her best to reconnect with her spren and her order. Proceed to the [[Journal/06 - 06 Precipice of Change|Kaiana’s Trail]] scene.
 
-- **Heth of the Resistance.** If the characters take Heth’s offer to visit his safehouse, he’s prepared to trade information for a favor. Proceed to the [[Journal/06 - 06 Precipice of Change#Heth’s Mission|Heth’s Mission]] scene.
+- **Heth of the Resistance.** If the characters take Heth’s offer to visit his safehouse, he’s prepared to trade information for a favor. Proceed to the [[Journal/06 - 06 Precipice of Change|Heth’s Mission]] scene.
 
 - **Axies the Collector.** Axies stumbles upon the PCs while they move about the Dirgehollow district. This chance encounter can occur at any point during this section. Proceed to the [[Journal/06 - 06 Precipice of Change#Collecting Shadows|Collecting Shadows]] scene.
 
@@ -230,7 +228,7 @@ Heth offers the PCs warm cups of stew and cots to rest, though he regrets he has
 
 - **What do the Fused fight for?** “Apparently they’re the ancient, immortal gods of our people. But they steal the bodies and lives of singers and turn them to their own purposes, speaking with strange, hateful rhythms. I’m not sure they remember what it was like to be free any more than we do.”
 
-- **Who are the Fused that rule this city?** “The two giving us the most trouble are Dymab and Lilinum. Since the singer enforcers were ready to destroy the building, Lilinum must’ve been behind the raid today. Storms knows how, but she’s got a Shardblade; she’s terrifying if you have her attention, but she’s seemed distracted lately. The real worry is Dymab. He’s less theatrical but he’s thorough, and tougher to evade.” If the party presses further, Heth knows everything from the earlier [[Journal/06 - 06 Precipice of Change#Odium’s Enforcers|Odium’s Enforcers]] section, including about the tension between Dymab and Lilinum.
+- **Who are the Fused that rule this city?** “The two giving us the most trouble are Dymab and Lilinum. Since the singer enforcers were ready to destroy the building, Lilinum must’ve been behind the raid today. Storms knows how, but she’s got a Shardblade; she’s terrifying if you have her attention, but she’s seemed distracted lately. The real worry is Dymab. He’s less theatrical but he’s thorough, and tougher to evade.” If the party presses further, Heth knows everything from the earlier [[Journal/06 - 06 Precipice of Change|Odium’s Enforcers]] section, including about the tension between Dymab and Lilinum.
 
 After speaking with the PCs, Heth proposes a deal: He and the resistance will help the party find what they’re here for if they help him with a crucial—but nonviolent—resistance mission. If the party includes human PCs, he quietly shares that if they help the singer movement, it’ll go a small way toward showing his group that some humans can be trusted.
 
@@ -256,8 +254,6 @@ Run the sabotage mission as an endeavor (see [[Journal/06 - 06 Precipice of Chan
 If a character gains an Opportunity or Complication, use the Sabotage Opportunities and Complications table for inspiration.
 
 #### [[Journal/11 - Appendix C Tables|Sabotage Opportunities and Complications]]
-
-[[Journal/11 - Appendix C Tables|Sabotage Opportunities and Complications]]
 
 ### Resolving the Endeavor
 
@@ -330,7 +326,7 @@ If a PC reaches the well, read the following:
 
 **[[Actors/Adversaries/Named/Various/Minor Characters/Lilinum the Devastating One|Lilinum]]** attacks indiscriminately and violently, supported by two **[[Actors/Adversaries/Singer/Fused/Warform Singer|warform singers]]** and one **[[Actors/Adversaries/Singer/Fused/Nimbleform Singer|nimbleform singer]]** loyal to her. While the party can’t stop her attack, she’s happy to engage them in banter while slaughtering them. If the PCs talk, they can learn the following either by sharing a strategy to undermine Dymab or by succeeding on a DC 12 Persuasion test:
 
-- Lilinum can share the information in the earlier [[Journal/06 - 06 Precipice of Change#Odium’s Enforcers|Odium’s Enforcers]] section.
+- Lilinum can share the information in the earlier [[Journal/06 - 06 Precipice of Change|Odium’s Enforcers]] section.
 
 - Lilinum describes how her Shardblade screams to her. The screams sound like those of the Blade’s former Shardbearer whom she defeated, a warrior who opposed Odium’s eastern forces. She enjoys the sound.
 
@@ -362,8 +358,6 @@ The following effects are active during the combat:
 If a character gains an Opportunity or Complication, use the Dirgehollow Well Opportunities and Complications table for inspiration.
 
 #### [[Journal/11 - Appendix C Tables|Dirgehollow Well Opportunities and Complications]]
-
-[[Journal/11 - Appendix C Tables|Dirgehollow Well Opportunities and Complications]]
 
 ### Aftermath
 

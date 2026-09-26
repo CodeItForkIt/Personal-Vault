@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Ear Trumpet"]
 ---
-![[megaphone.webp|64]]
+# Ear Trumpet
 
 **Price** 50 mk; **Weight** 1 lb.;
 

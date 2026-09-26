@@ -6,6 +6,6 @@ category: "Features"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "trait"]
 aliases: ["Jumper"]
 ---
-![[arrow-upward-yellow.webp|64]]
+# Jumper
 
 The Actor Name can jump twice as far as usual without making a test.

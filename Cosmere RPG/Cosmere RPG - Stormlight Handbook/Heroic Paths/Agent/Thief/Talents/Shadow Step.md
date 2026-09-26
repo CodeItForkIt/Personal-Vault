@@ -6,9 +6,9 @@ category: "Agent / Thief / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Shadow Step"]
 ---
-![[silhouette-robe-evil-glow.webp|64]]
+# Shadow Step
 
-**Activation:** Free Action
+**Activation:** 0
 
 *You know every con artist’s trick for avoiding comeuppance, and you can slip from sight with ease.*
 

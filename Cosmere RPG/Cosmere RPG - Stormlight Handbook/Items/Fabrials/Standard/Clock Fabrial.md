@@ -6,7 +6,7 @@ category: "Fabrials / Standard"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Clock Fabrial"]
 ---
-![[ICON_Clock.webp|64]]
+# Clock Fabrial
 
 **Price** 200 mk; **Weight** 2 lb.; **Charges** 3;
 

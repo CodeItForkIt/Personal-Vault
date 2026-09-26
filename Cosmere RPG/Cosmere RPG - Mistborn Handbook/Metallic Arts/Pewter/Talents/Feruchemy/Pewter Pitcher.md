@@ -1,0 +1,19 @@
+---
+title: "Pewter Pitcher"
+type: "talent"
+module: "Cosmere RPG - Mistborn Handbook"
+category: "Pewter / Talents / Feruchemy"
+tags: ["cosmere-rpg", "cosmere-rpg-mistborn-handbook", "talent"]
+aliases: ["Pewter Pitcher"]
+---
+# Pewter Pitcher
+
+**Activation:** 8
+
+*Thanks to pewter, even heavy weapons can serve as a projectile in time of need.*
+
+While burning pewter or tapping strength from a pewtermind, you gain the following benefits:
+
+- Weapons gain the **Thrown** [100/300] trait for you.
+
+- When you make a ranged attack with a **Thrown** weapon, you can use your [[Metallic Arts/Pewter/Talents/Feruchemy/Pewterarm Weaponcraft|Pewter Weaponcraft]] as if you instead made a melee weapon attack.

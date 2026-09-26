@@ -6,9 +6,9 @@ category: "Agent / Investigator / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Baleful"]
 ---
-![[target-glowing-yellow.webp|64]]
+# Baleful
 
-**Activation:** Always Active
+**Activation:** 8
 
 *With a severe stare, you crack the resolve of all but the most composed adversaries.*
 

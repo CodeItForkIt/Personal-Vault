@@ -6,9 +6,9 @@ category: "Leader / Officer / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Confident Command"]
 ---
-![[control-influence-rally-purple.webp|64]]
+# Confident Command
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You deliver your words with care and conviction, letting them resound in the hearts of those under your command.*
 

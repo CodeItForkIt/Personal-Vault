@@ -6,7 +6,7 @@ category: "Singer / Forms"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "action"]
 aliases: ["Scholarform"]
 ---
-![[academics-book-study-purple.webp|64]]
+# Scholarform
 
 *Scholarform specializes in scholarship, enhancing your mental processes and memory. You become more patient and analytical, but you may also find yourself more inclined toward ambition. You have long hairstrands, and a cushioned lower body suited to sedentary work.*
 

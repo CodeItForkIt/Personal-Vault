@@ -1,0 +1,95 @@
+{
+  "nodes": [
+    {
+      "id": "eHUb0Zaq2KQkIWBW",
+      "type": "file",
+      "file": "Metalborn Paths/Ferring/Talents/Expanded Metalminds.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "ORxJZ8przC6IBDMb",
+      "type": "file",
+      "file": "Metalborn Paths/Ferring/Talents/Fast Storing.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "niXd0AjZ0sX4VT6c",
+      "type": "file",
+      "file": "Metalborn Paths/Ferring/Talents/Embedded Metalmind.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "7bIi5QquOuk6KSsr",
+      "type": "file",
+      "file": "Metalborn Paths/Ferring/Talents/Instinctual Tap.md",
+      "x": 680,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "okSqCJuWk9yOA2yV",
+      "type": "file",
+      "file": "Metalborn Paths/Ferring/Talents/Last Reserve.md",
+      "x": 680,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "XbfmJRC799g3xHRX",
+      "type": "file",
+      "file": "Metalborn Paths/Ferring/Talents/Ferring Heritage.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "ORxJZ8przC6IBDMb",
+      "fromSide": "right",
+      "toNode": "7bIi5QquOuk6KSsr",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "XbfmJRC799g3xHRX",
+      "fromSide": "right",
+      "toNode": "ORxJZ8przC6IBDMb",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "XbfmJRC799g3xHRX",
+      "fromSide": "right",
+      "toNode": "eHUb0Zaq2KQkIWBW",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "eHUb0Zaq2KQkIWBW",
+      "fromSide": "right",
+      "toNode": "niXd0AjZ0sX4VT6c",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "eHUb0Zaq2KQkIWBW",
+      "fromSide": "right",
+      "toNode": "okSqCJuWk9yOA2yV",
+      "toSide": "left"
+    }
+  ]
+}

@@ -6,7 +6,7 @@ category: "Weapons of Wind and Truth"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-chasmfiend-compendium", "weapon"]
 aliases: ["Raysium Lance"]
 ---
-![[ICON_lance_raysium.webp|64]]
+# Raysium Lance
 
 **Damage** 1d8 keen; **Range** Melee [+5]; **Traits** Two-handed, Unique; **Expert Traits** Defensive;
 

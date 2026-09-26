@@ -6,7 +6,7 @@ category: "Fabrials / Unique Effects"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Ascender"]
 ---
-![[arrow-upward-yellow.webp|64]]
+# Ascender
 
 *Tier 2 Unique Fabrial Effect*
 

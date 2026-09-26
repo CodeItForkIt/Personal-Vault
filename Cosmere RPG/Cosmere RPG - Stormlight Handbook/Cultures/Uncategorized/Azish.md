@@ -6,7 +6,7 @@ category: "Uncategorized"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "culture"]
 aliases: ["Azish"]
 ---
-![[azish-t.webp|64]]
+# Azish
 
 The Prime Aqasix and a class of elite government scribes called viziers lead the bureaucratic nation of Azir and influence the Azish Empire’s member states. While independent thought is encouraged in friendly and official debates, most Azish look down on those who fail to uphold procedure. Following said procedure is made difficult by Azish legislature’s expansiveness.
 

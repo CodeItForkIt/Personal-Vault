@@ -6,9 +6,9 @@ category: "Agent / Thief / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Surefooted"]
 ---
-![[feet-winged-boots-brown.webp|64]]
+# Surefooted
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You move through treacherous terrain with confidence and speed.*
 

@@ -1,0 +1,15 @@
+---
+title: "Applied Motivation"
+type: "talent"
+module: "Cosmere RPG - Mistborn Handbook"
+category: "Envoy / Faithful / Talents"
+tags: ["cosmere-rpg", "cosmere-rpg-mistborn-handbook", "talent"]
+aliases: ["Applied Motivation"]
+---
+# Applied Motivation
+
+**Activation:** **8**
+
+*You skillfully motivate others with your words to keep them focused on the goal.*
+
+When you cause a character to recover focus, they recover additional focus equal to half your ranks in **Lore** (rounded up).

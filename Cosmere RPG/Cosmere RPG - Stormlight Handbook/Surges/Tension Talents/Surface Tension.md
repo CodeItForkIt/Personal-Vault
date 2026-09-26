@@ -6,7 +6,7 @@ category: "Tension Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Surface Tension"]
 ---
-![[barrier-ice-shield.webp|64]]
+# Surface Tension
 
 **Activation:** 8
 

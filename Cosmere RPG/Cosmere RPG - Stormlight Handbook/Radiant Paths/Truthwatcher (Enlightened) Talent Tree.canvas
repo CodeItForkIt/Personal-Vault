@@ -1,0 +1,86 @@
+{
+  "nodes": [
+    {
+      "id": "vj4qJugVxhOqzZVM",
+      "type": "file",
+      "file": "Radiant Paths/Truthwatcher (Enlightened)/Talents/Enlightened Talents/Glimpse The Future.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "4eZFu4pyhiKOVl2U",
+      "type": "file",
+      "file": "Radiant Paths/Truthwatcher (Enlightened)/Talents/Enlightened Talents/Search the Past.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "cWazTUIm757TLD1J",
+      "type": "file",
+      "file": "Radiant Paths/Truthwatcher (Enlightened)/Talents/Enlightened Talents/Alter Fortune.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "YT9UfkvNyyHT1B8l",
+      "type": "file",
+      "file": "Radiant Paths/Truthwatcher (Enlightened)/Talents/Enlightened Talents/Vision Void.md",
+      "x": 680,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "pYeVvQX13pT8d6EQ",
+      "type": "file",
+      "file": "Radiant Paths/Truthwatcher (Enlightened)/Talents/Future Sight.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "pYeVvQX13pT8d6EQ",
+      "fromSide": "right",
+      "toNode": "4eZFu4pyhiKOVl2U",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "vj4qJugVxhOqzZVM",
+      "fromSide": "right",
+      "toNode": "YT9UfkvNyyHT1B8l",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "4eZFu4pyhiKOVl2U",
+      "fromSide": "right",
+      "toNode": "YT9UfkvNyyHT1B8l",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "vj4qJugVxhOqzZVM",
+      "fromSide": "right",
+      "toNode": "cWazTUIm757TLD1J",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "pYeVvQX13pT8d6EQ",
+      "fromSide": "right",
+      "toNode": "vj4qJugVxhOqzZVM",
+      "toSide": "left"
+    }
+  ]
+}

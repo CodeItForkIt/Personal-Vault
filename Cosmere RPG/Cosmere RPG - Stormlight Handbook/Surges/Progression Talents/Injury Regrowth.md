@@ -6,7 +6,7 @@ category: "Progression Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Injury Regrowth"]
 ---
-![[blood-cells-disease-green.webp|64]]
+# Injury Regrowth
 
 **Activation:** 2
 

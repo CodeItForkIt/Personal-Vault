@@ -9,21 +9,10 @@ aliases: ["Magnified One (Rival Variant)"]
 # Magnified One (Rival Variant)
 
 **Tier:** 2  
-**Size:** large
-
-| Strength | Speed | Intellect | Willpower | Awareness | Presence |
-|---|---|---|---|---|---|
-| 5 | 1 | 2 | 2 | 5 | 2 |
-
-| Health | Focus | Investiture |
-|---|---|---|
-| 50/50 | 4/4 | 7/7 |
-
-**Speed:** 10 ft.
-
-| ATH | HWP | DIS | INM | LEA | PRC |
-|---|---|---|---|---|---|
-| 2 | 3 | 2 | 2 | 2 | 3 |
+**Size:** large  
+**Attributes:** Strength 5, Speed 1, Intellect 2, Willpower 2, Awareness 5, Presence 2  
+**Resources:** Health 50/50, Focus 4/4, Investiture 7/7  
+**Skills:** ATH 2, HWP 3, DIS 2, INM 2, LEA 2, PRC 3
 
 ### Regenerative Carapace
 *1*
@@ -59,7 +48,7 @@ When the Magnified One (Rival Variant) succeeds on the Grapple action against a 
 ### Magnified Charge
 *2 act*
 
-The Magnified One (Rival Variant) moves up to 25 feet in a straight line without triggering Reactive Strikes. The first time the Magnified One (Rival Variant) comes within 5 feet of each enemy during this move, the Magnified One (Rival Variant) can make a Carapace Weapon attack against that enemy as Free Action. On a hit, the enemy must succeed on *Test: `skill=ath dc=15`* or be knocked Prone.
+The Magnified One (Rival Variant) moves up to 25 feet in a straight line without triggering Reactive Strikes. The first time the Magnified One (Rival Variant) comes within 5 feet of each enemy during this move, the Magnified One (Rival Variant) can make a Carapace Weapon attack against that enemy as 1. On a hit, the enemy must succeed on *Test: `skill=ath dc=15`* or be knocked Prone.
 
 ### Strike: Carapace Weapon
 *1 act*

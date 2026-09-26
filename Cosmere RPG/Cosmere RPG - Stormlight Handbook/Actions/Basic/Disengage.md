@@ -6,7 +6,7 @@ category: "Basic"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "action"]
 aliases: ["Disengage"]
 ---
-![[figure-running-gray.webp|64]]
+# Disengage
 
 You carefully step away from an enemy, defending yourself so they can’t seize the opportunity to attack.
 

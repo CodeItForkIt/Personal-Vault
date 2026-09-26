@@ -9,29 +9,18 @@ aliases: ["Yu-Nerig"]
 # Yu-Nerig
 
 **Tier:** 2  
-**Size:** large
-
-| Strength | Speed | Intellect | Willpower | Awareness | Presence |
-|---|---|---|---|---|---|
-| 5 | 3 | 2 | 3 | 4 | 2 |
-
-| Health | Focus | Investiture |
-|---|---|---|
-| 144/144 | 5/5 | 0 |
-
-**Speed:** 30 ft.
-
-| AGI | ATH | INM | PRC |
-|---|---|---|---|
-| 3 | 3 | 3 | 1 |
+**Size:** large  
+**Attributes:** Strength 5, Speed 3, Intellect 2, Willpower 3, Awareness 4, Presence 2  
+**Resources:** Health 144/144, Focus 5/5, Investiture 0  
+**Skills:** AGI 3, ATH 3, INM 3, PRC 1
 
 ##### Opportunities and Complications
 
 The following options are available when an enemy gains an Opportunity or Complication during a scene with the Yu-Nerig:
 
-**Opportunity.** An enemy can spend Opportunity to prevent the Yu-Nerig from using their Hurl and Vital Toss actions until the end of the Yu-Nerig's next turn.
+**Opportunity.** An enemy can spend O to prevent the Yu-Nerig from using their Hurl and Vital Toss actions until the end of the Yu-Nerig's next turn.
 
-**Complication.** The GM can spend Complication from an enemy's test to have the Yu-Nerig use their Hammer Claw action as Reaction.
+**Complication.** The GM can spend c from an enemy's test to have the Yu-Nerig use their Hammer Claw action as r.
 
 ##### Tactics
 
@@ -72,7 +61,7 @@ The Yu-Nerig flips an enemy who is Restrained in their claw and slams them again
 
 **Graze** `2d6 Keen average`;
 
-**Hit** `2d6 + 8 Keen average`, and the target becomes Restrained by one of the Yu-Nerig's claws while the Yu-Nerig remains within 5 feet of them. As Two Actions, the target or a character who can reach them can make a *Test: `skill=agi dc=16`* or *Test: `skill=ath dc=16`*, ending the Restrained condition on a success.
+**Hit** `2d6 + 8 Keen average`, and the target becomes Restrained by one of the Yu-Nerig's claws while the Yu-Nerig remains within 5 feet of them. As 2, the target or a character who can reach them can make a *Test: `skill=agi dc=16`* or *Test: `skill=ath dc=16`*, ending the Restrained condition on a success.
 
 The Yu-Nerig has two claws, each of which can restrain one enemy. While restraining an enemy in a claw, that claw can only attack the Restrained enemy.
 

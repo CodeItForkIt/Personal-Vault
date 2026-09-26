@@ -6,7 +6,7 @@ category: "Fabrials / Unique Effects"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Disruptor"]
 ---
-![[explosion-flame-lightning-strike.webp|64]]
+# Disruptor
 
 *Tier 3 Unique Fabrial Effect*
 

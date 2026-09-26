@@ -6,7 +6,7 @@ category: "Envoy / Mentor / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Rallying Shout"]
 ---
-![[injury-face-impact-orange.webp|64]]
+# Rallying Shout
 
 **Activation:** 8
 

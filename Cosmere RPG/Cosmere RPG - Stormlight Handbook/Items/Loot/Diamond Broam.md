@@ -6,6 +6,6 @@ category: "Loot"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "loot"]
 aliases: ["Diamond Broam"]
 ---
-![[sphere_diamond_broam.webp|64]]
+# Diamond Broam
 
 

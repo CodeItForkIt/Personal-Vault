@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Backpack"]
 ---
-![[pack-leather-white-tan.webp|64]]
+# Backpack
 
 **Price** 8 mk; **Weight** 5 lb.;
 

@@ -6,9 +6,9 @@ category: "Windrunner / Talents / Honorspren Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Third Ideal (Windrunner)"]
 ---
-![[air-pressure-shield-blue.webp|64]]
+# Third Ideal (Windrunner)
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You seek to advance your Nahel bond even further by speaking the Third Ideal.*
 

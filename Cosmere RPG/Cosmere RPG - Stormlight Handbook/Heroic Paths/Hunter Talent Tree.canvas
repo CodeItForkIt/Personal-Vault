@@ -1,0 +1,415 @@
+{
+  "nodes": [
+    {
+      "id": "eM6FDADNFM0qbrfY",
+      "type": "file",
+      "file": "Heroic Paths/Hunter/Archer/Talents/Backstep.md",
+      "x": 1020,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "JmIEtx2VKgUtOdHJ",
+      "type": "file",
+      "file": "Heroic Paths/Hunter/Assassin/Talents/Cold Eyes.md",
+      "x": 1020,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "YHFcqTd8G2qTOSt1",
+      "type": "file",
+      "file": "Heroic Paths/Hunter/Archer/Talents/Exploit Weakness.md",
+      "x": 1020,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "mV51F7hH5GWeT280",
+      "type": "file",
+      "file": "Heroic Paths/Hunter/Tracker/Talents/Feral Connection.md",
+      "x": 1020,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "htPwaDZ3hJj5aYk3",
+      "type": "file",
+      "file": "Heroic Paths/Hunter/Archer/Talents/Hardy.md",
+      "x": 1020,
+      "y": 480,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "ybB32U1WvxdgNllD",
+      "type": "file",
+      "file": "Heroic Paths/Hunter/Tracker/Talents/Hunters Edge.md",
+      "x": 1020,
+      "y": 600,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "2etdTpaRnwjXAMdt",
+      "type": "file",
+      "file": "Heroic Paths/Hunter/Tracker/Talents/Pack Hunting.md",
+      "x": 1020,
+      "y": 720,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "BDvznUmzKXAll0rm",
+      "type": "file",
+      "file": "Heroic Paths/Hunter/Assassin/Talents/Sidestep.md",
+      "x": 1020,
+      "y": 840,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "z745HfFjKnYCy7Rn",
+      "type": "file",
+      "file": "Heroic Paths/Hunter/Tracker/Talents/Surefooted.md",
+      "x": 1020,
+      "y": 960,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "I1q7LHINifjiVqRg",
+      "type": "file",
+      "file": "Heroic Paths/Hunter/Assassin/Talents/Mighty.md",
+      "x": 1360,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "PkIYb4RAr3I8f7QE",
+      "type": "file",
+      "file": "Heroic Paths/Hunter/Assassin/Talents/Swift Strikes.md",
+      "x": 1360,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "GQDcsoFQx761PeAO",
+      "type": "file",
+      "file": "Heroic Paths/Hunter/Archer/Talents/Unrelenting Salvo.md",
+      "x": 1360,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "y6LxtnGsc7MvjRnu",
+      "type": "file",
+      "file": "Heroic Paths/Hunter/Tracker/Talents/Animal Bond.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "Sl4bFpOhQ3NQWELp",
+      "type": "file",
+      "file": "Heroic Paths/Hunter/Archer/Talents/Combat Training.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "RP0jSccFs6ngFXNo",
+      "type": "file",
+      "file": "Heroic Paths/Hunter/Tracker/Talents/Deadly Trap.md",
+      "x": 340,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "tSarBUrmcyd0Xu29",
+      "type": "file",
+      "file": "Heroic Paths/Hunter/Assassin/Talents/Killing Edge.md",
+      "x": 340,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "orjdjBzRBbUUc7rQ",
+      "type": "file",
+      "file": "Heroic Paths/Hunter/Assassin/Talents/Startling Blow.md",
+      "x": 340,
+      "y": 480,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "A0zpyAQP3R7rxECp",
+      "type": "file",
+      "file": "Heroic Paths/Hunter/Archer/Talents/Tagging Shot.md",
+      "x": 340,
+      "y": 600,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "3nfGn0BOeLq5qgEr",
+      "type": "file",
+      "file": "Heroic Paths/Hunter/Seek Quarry.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "pJ9HqsTAX4dFO9MT",
+      "type": "file",
+      "file": "Heroic Paths/Hunter/Tracker/Talents/Experienced Trapper.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "4JLLsyYfrUi57vDb",
+      "type": "file",
+      "file": "Heroic Paths/Hunter/Assassin/Talents/Fatal Thrust.md",
+      "x": 680,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "LS6b7Siqem0JDPSr",
+      "type": "file",
+      "file": "Heroic Paths/Hunter/Tracker/Talents/Protective Bond.md",
+      "x": 680,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "pyzg1mMZKWhEnaDX",
+      "type": "file",
+      "file": "Heroic Paths/Hunter/Assassin/Talents/Shadowing.md",
+      "x": 680,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "NnQLfQgZnkm978xA",
+      "type": "file",
+      "file": "Heroic Paths/Hunter/Archer/Talents/Sharp Eye.md",
+      "x": 680,
+      "y": 480,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "x81dx7J7uDEnrj5K",
+      "type": "file",
+      "file": "Heroic Paths/Hunter/Archer/Talents/Steady Aim.md",
+      "x": 680,
+      "y": 600,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "LS6b7Siqem0JDPSr",
+      "fromSide": "right",
+      "toNode": "2etdTpaRnwjXAMdt",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "orjdjBzRBbUUc7rQ",
+      "fromSide": "right",
+      "toNode": "4JLLsyYfrUi57vDb",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "3nfGn0BOeLq5qgEr",
+      "fromSide": "right",
+      "toNode": "A0zpyAQP3R7rxECp",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "pyzg1mMZKWhEnaDX",
+      "fromSide": "right",
+      "toNode": "BDvznUmzKXAll0rm",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "htPwaDZ3hJj5aYk3",
+      "fromSide": "right",
+      "toNode": "GQDcsoFQx761PeAO",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "JmIEtx2VKgUtOdHJ",
+      "fromSide": "right",
+      "toNode": "I1q7LHINifjiVqRg",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "pyzg1mMZKWhEnaDX",
+      "fromSide": "right",
+      "toNode": "JmIEtx2VKgUtOdHJ",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge7",
+      "fromNode": "y6LxtnGsc7MvjRnu",
+      "fromSide": "right",
+      "toNode": "LS6b7Siqem0JDPSr",
+      "toSide": "left"
+    },
+    {
+      "id": "edge8",
+      "fromNode": "A0zpyAQP3R7rxECp",
+      "fromSide": "right",
+      "toNode": "NnQLfQgZnkm978xA",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge9",
+      "fromNode": "JmIEtx2VKgUtOdHJ",
+      "fromSide": "right",
+      "toNode": "PkIYb4RAr3I8f7QE",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge10",
+      "fromNode": "3nfGn0BOeLq5qgEr",
+      "fromSide": "right",
+      "toNode": "RP0jSccFs6ngFXNo",
+      "toSide": "left"
+    },
+    {
+      "id": "edge11",
+      "fromNode": "3nfGn0BOeLq5qgEr",
+      "fromSide": "right",
+      "toNode": "Sl4bFpOhQ3NQWELp",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge12",
+      "fromNode": "NnQLfQgZnkm978xA",
+      "fromSide": "right",
+      "toNode": "YHFcqTd8G2qTOSt1",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge13",
+      "fromNode": "x81dx7J7uDEnrj5K",
+      "fromSide": "right",
+      "toNode": "eM6FDADNFM0qbrfY",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge14",
+      "fromNode": "x81dx7J7uDEnrj5K",
+      "fromSide": "right",
+      "toNode": "htPwaDZ3hJj5aYk3",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge15",
+      "fromNode": "LS6b7Siqem0JDPSr",
+      "fromSide": "right",
+      "toNode": "mV51F7hH5GWeT280",
+      "toSide": "left"
+    },
+    {
+      "id": "edge16",
+      "fromNode": "3nfGn0BOeLq5qgEr",
+      "fromSide": "right",
+      "toNode": "orjdjBzRBbUUc7rQ",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge17",
+      "fromNode": "RP0jSccFs6ngFXNo",
+      "fromSide": "right",
+      "toNode": "pJ9HqsTAX4dFO9MT",
+      "toSide": "left"
+    },
+    {
+      "id": "edge18",
+      "fromNode": "tSarBUrmcyd0Xu29",
+      "fromSide": "right",
+      "toNode": "pyzg1mMZKWhEnaDX",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge19",
+      "fromNode": "3nfGn0BOeLq5qgEr",
+      "fromSide": "right",
+      "toNode": "tSarBUrmcyd0Xu29",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge20",
+      "fromNode": "Sl4bFpOhQ3NQWELp",
+      "fromSide": "right",
+      "toNode": "x81dx7J7uDEnrj5K",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge21",
+      "fromNode": "3nfGn0BOeLq5qgEr",
+      "fromSide": "right",
+      "toNode": "y6LxtnGsc7MvjRnu",
+      "toSide": "left"
+    },
+    {
+      "id": "edge22",
+      "fromNode": "pJ9HqsTAX4dFO9MT",
+      "fromSide": "right",
+      "toNode": "ybB32U1WvxdgNllD",
+      "toSide": "left"
+    },
+    {
+      "id": "edge23",
+      "fromNode": "pJ9HqsTAX4dFO9MT",
+      "fromSide": "right",
+      "toNode": "z745HfFjKnYCy7Rn",
+      "toSide": "left"
+    }
+  ]
+}

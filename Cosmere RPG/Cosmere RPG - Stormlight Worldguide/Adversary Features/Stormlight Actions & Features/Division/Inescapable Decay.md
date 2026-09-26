@@ -6,7 +6,7 @@ category: "Stormlight Actions & Features / Division"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "action"]
 aliases: ["Inescapable Decay"]
 ---
-![[hand-claw-fire-blue.webp|64]]
+# Inescapable Decay
 
 **Attack** +6 vs. *Spiritual*; **Reach** 5 ft.; **Targets** one;
 

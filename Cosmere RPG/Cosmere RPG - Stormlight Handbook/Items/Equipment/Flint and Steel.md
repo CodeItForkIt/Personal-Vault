@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Flint and Steel"]
 ---
-![[ICON_Sparkflicker.webp|64]]
+# Flint and Steel
 
 **Price** 4 mk; **Weight** 1.5 lb.;
 

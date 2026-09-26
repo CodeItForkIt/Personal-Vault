@@ -6,7 +6,7 @@ category: "Weapons"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "weapon"]
 aliases: ["Hammer"]
 ---
-![[ICON_Hammer.webp|64]]
+# Hammer
 
 **Damage** 1d10 impact; **Range** Melee; **Traits** Two-Handed; **Expert Traits** Momentum;
 

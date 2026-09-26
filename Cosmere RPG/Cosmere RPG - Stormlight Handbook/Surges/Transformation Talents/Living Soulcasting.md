@@ -6,9 +6,9 @@ category: "Transformation Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Living Soulcasting"]
 ---
-![[strike-body-explode-disintegrate.webp|64]]
+# Living Soulcasting
 
-**Activation:** Two Actions
+**Activation:** 2
 
 *You’ve mastered the subtleties of affecting living flesh with Soulcasting.*
 

@@ -6,7 +6,7 @@ category: "Singer / Forms"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "action"]
 aliases: ["Envoyform"]
 ---
-![[mouth-smile-deception-purple.webp|64]]
+# Envoyform
 
 *Envoyform is an embellished form often used to serve the administrative needs of the Fused. Your tall form towers over others, and your ornate carapace is uniquely alluring. You comprehend any language after brief exposure and can grasp hidden context with the subtlest of cues.*
 

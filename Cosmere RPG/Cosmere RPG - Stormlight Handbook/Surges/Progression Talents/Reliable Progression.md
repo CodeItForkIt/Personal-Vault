@@ -6,9 +6,9 @@ category: "Progression Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Reliable Progression"]
 ---
-![[debuff-chains-ropes-green.webp|64]]
+# Reliable Progression
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *Through adept control of your Stormlight, your Growth and Regrowth become even more dependable.*
 

@@ -6,9 +6,9 @@ category: "Singer"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Forms of Resolve"]
 ---
-![[illusion-evasion-echo-purple.webp|64]]
+# Forms of Resolve
 
-**Activation:** Always Active
+**Activation:** 8
 
 You gain two new singer forms—[[Ancestries/Singer/Forms/Warform|Warform]] and [[Ancestries/Singer/Forms/Workform|Workform]]—which you can transform into using your Change Form.
 

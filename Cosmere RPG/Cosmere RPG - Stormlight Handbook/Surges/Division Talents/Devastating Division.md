@@ -6,9 +6,9 @@ category: "Division Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Devastating Division"]
 ---
-![[barrier-shield-explosion-yellow.webp|64]]
+# Devastating Division
 
-**Activation:** Always Active
+**Activation:** 8
 
 *Your Division is especially potent and destructive.*
 

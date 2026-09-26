@@ -6,6 +6,6 @@ category: "Travel / Lodging"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Wealthy Lodging"]
 ---
-![[house-farmland.webp|64]]
+# Wealthy Lodging
 
 Price of 8 mk per Person per Night.

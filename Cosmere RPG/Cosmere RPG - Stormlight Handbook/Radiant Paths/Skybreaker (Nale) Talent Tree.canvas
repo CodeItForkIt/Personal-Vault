@@ -1,0 +1,47 @@
+{
+  "nodes": [
+    {
+      "id": "EsXLskHqMyCNRino",
+      "type": "file",
+      "file": "Radiant Paths/Skybreaker (Nale)/Talents/Highspren Bond/Third Ideal Nale Skybreaker.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "1zESnbfads843zoK",
+      "type": "file",
+      "file": "Radiant Paths/Skybreaker (Nale)/Talents/Highspren Bond/Second Ideal Nale Skybreaker.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "SJYoDJWK2mtgVmuL",
+      "type": "file",
+      "file": "Radiant Paths/Skybreaker (Nale)/Talents/First Ideal Nale Skybreaker.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "SJYoDJWK2mtgVmuL",
+      "fromSide": "right",
+      "toNode": "1zESnbfads843zoK",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "1zESnbfads843zoK",
+      "fromSide": "right",
+      "toNode": "EsXLskHqMyCNRino",
+      "toSide": "left"
+    }
+  ]
+}

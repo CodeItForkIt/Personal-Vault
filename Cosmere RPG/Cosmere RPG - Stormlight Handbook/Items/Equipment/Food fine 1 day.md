@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Food (fine, 1 day)"]
 ---
-![[plate-fish-grilled-brown.webp|64]]
+# Food (fine, 1 day)
 
 **Price** 25 mk; **Weight** 0.5 lb.;
 

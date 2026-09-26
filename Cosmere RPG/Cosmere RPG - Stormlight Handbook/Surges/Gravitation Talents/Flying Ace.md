@@ -6,9 +6,9 @@ category: "Gravitation Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Flying Ace"]
 ---
-![[buff-flight-wings-blue.webp|64]]
+# Flying Ace
 
-**Activation:** One Action
+**Activation:** 1
 
 *You are a master of the skies, adeptly wielding your weapon while in flight.*
 

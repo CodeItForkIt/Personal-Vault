@@ -9,30 +9,19 @@ aliases: ["Altered One"]
 # Altered One
 
 **Tier:** 3  
-**Size:** medium
-
-| Strength | Speed | Intellect | Willpower | Awareness | Presence |
-|---|---|---|---|---|---|
-| 1 | 3 | 4 | 6 | 4 | 3 |
-
-| Health | Focus | Investiture |
-|---|---|---|
-| 60/60 | 8/8 | 6/6 |
-
+**Size:** medium  
+**Attributes:** Strength 1, Speed 3, Intellect 4, Willpower 6, Awareness 4, Presence 3  
+**Resources:** Health 60/60, Focus 8/8, Investiture 6/6  
 **Deflect:** 2  
-**Speed:** 30 ft.
-
-| AGI | LWP | CRA | DED | DIS | INM | TRS |
-|---|---|---|---|---|---|---|
-| 4 | 4 | 4 | 4 | 4 | 4 | 4 |
+**Skills:** AGI 4, LWP 4, CRA 4, DED 4, DIS 4, INM 4, TRS 4
 
 ##### Opportunities and Complications
 
 The following options are available when an enemy gains an Opportunity or Complication during a scene with the Altered One:
 
-**Opportunity.** An enemy can spend Opportunity to prevent the Altered One from using their Tactical Insight, Surge of Transformation, and Regenerate actions until the end of the Atlered One's next turn.
+**Opportunity.** An enemy can spend O to prevent the Altered One from using their Tactical Insight, Surge of Transformation, and Regenerate actions until the end of the Atlered One's next turn.
 
-**Complication.** The GM can spend Complication from an enemy's test to have the Altered One use their Surge of Transformation action as Reaction. Each target gains a disadvantage on their Agility or Athletics test against that action's effect.
+**Complication.** The GM can spend c from an enemy's test to have the Altered One use their Surge of Transformation action as r. Each target gains a disadvantage on their Agility or Athletics test against that action's effect.
 
 ##### Tactics
 

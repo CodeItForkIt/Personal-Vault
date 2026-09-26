@@ -6,9 +6,9 @@ category: "Truthwatcher (Enlightened) / Talents / Enlightened Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Search the Past"]
 ---
-![[hourglass-brown-orange.webp|64]]
+# Search the Past
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You can attempt to direct your visions to see past events; the further back you look, the harder they are to glimpse.*
 

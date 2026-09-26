@@ -6,9 +6,9 @@ category: "Leader / Officer / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Relentless March"]
 ---
-![[feet-spurred-boots-brown.webp|64]]
+# Relentless March
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You invigorate your troops, helping them push through fear, pain, and exhaustion under the worst of conditions.*
 

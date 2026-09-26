@@ -6,7 +6,7 @@ category: "Singer / Forms"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "action"]
 aliases: ["Stormform"]
 ---
-![[bolt-forked-large-red.webp|64]]
+# Stormform
 
 *Stormform is an elite battle form optimized for physical prowess and honed attacks. You’re covered in finesse-enhancing armored carapace that grows under your skin, poking through in ridges and spikes. You can manipulate and unleash powerful red lighting on your foes.*
 

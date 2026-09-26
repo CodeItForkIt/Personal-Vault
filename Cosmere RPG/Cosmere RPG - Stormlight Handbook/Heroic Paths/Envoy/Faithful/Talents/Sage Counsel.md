@@ -6,9 +6,9 @@ category: "Envoy / Faithful / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Sage Counsel"]
 ---
-![[academics-study-reading-book.webp|64]]
+# Sage Counsel
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You offer reassuring guidance alongside physical assistance, making your allies confident of your approval.*
 

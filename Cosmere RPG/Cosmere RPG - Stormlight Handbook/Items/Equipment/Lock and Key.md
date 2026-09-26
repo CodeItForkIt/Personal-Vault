@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Lock and Key"]
 ---
-![[lock-steel-blue.webp|64]]
+# Lock and Key
 
 **Price** 50 mk; **Weight** 1 lb.;
 

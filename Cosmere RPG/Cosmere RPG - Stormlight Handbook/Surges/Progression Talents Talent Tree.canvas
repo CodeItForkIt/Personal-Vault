@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "id": "Uk85Z6tqJsc7eiHU",
+      "type": "file",
+      "file": "Surges/Progression Talents/Explosive Growth.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "XHWmhXvgRCzpBAKe",
+      "type": "file",
+      "file": "Surges/Progression Talents/Injury Regrowth.md",
+      "x": 0,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "VeoN3LspVMNcadsq",
+      "type": "file",
+      "file": "Surges/Progression Talents/Font of Life.md",
+      "x": 1020,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "sMATY10EQasowg7L",
+      "type": "file",
+      "file": "Surges/Progression Talents/From the Brink.md",
+      "x": 1020,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "bN1e0vRLOwqkGq4k",
+      "type": "file",
+      "file": "Surges/Progression Talents/Extended Regrowth.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "060ywvc6emrmhmfc",
+      "type": "file",
+      "file": "Surges/Progression Talents/Reliable Progression.md",
+      "x": 680,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "JlQbuxbgzKr2j5jc",
+      "type": "file",
+      "file": "Surges/Progression Talents/Overgrowth.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "TGxgdvpE00a3CbxE",
+      "type": "file",
+      "file": "Surges/Progression Talents/Swift Regeneration.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "JlQbuxbgzKr2j5jc",
+      "fromSide": "right",
+      "toNode": "060ywvc6emrmhmfc",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "Uk85Z6tqJsc7eiHU",
+      "fromSide": "right",
+      "toNode": "JlQbuxbgzKr2j5jc",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "XHWmhXvgRCzpBAKe",
+      "fromSide": "right",
+      "toNode": "TGxgdvpE00a3CbxE",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "bN1e0vRLOwqkGq4k",
+      "fromSide": "right",
+      "toNode": "VeoN3LspVMNcadsq",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "060ywvc6emrmhmfc",
+      "fromSide": "right",
+      "toNode": "VeoN3LspVMNcadsq",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "TGxgdvpE00a3CbxE",
+      "fromSide": "right",
+      "toNode": "bN1e0vRLOwqkGq4k",
+      "toSide": "left"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "bN1e0vRLOwqkGq4k",
+      "fromSide": "right",
+      "toNode": "sMATY10EQasowg7L",
+      "toSide": "left"
+    }
+  ]
+}

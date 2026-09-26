@@ -6,7 +6,7 @@ category: "Stormlight Actions & Features / Transformation"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "action"]
 aliases: ["Surge of Transformation"]
 ---
-![[elements-air-earth-fire-water.webp|64]]
+# Surge of Transformation
 
 The Actor Name chooses a Huge (15-foot) or smaller area or object within 30 feet of them that isn't being worn or held, transforming that area or object's essence into another. For example, they might transform empty air into stone or a wooden door into water.
 

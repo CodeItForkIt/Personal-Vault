@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Clothing (common)"]
 ---
-![[shirt-collared-brown.webp|64]]
+# Clothing (common)
 
 **Price** 2 mk; **Weight** 3 lb.;
 

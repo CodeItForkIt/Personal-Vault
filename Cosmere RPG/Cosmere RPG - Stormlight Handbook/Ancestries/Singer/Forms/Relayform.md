@@ -6,7 +6,7 @@ category: "Singer / Forms"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "action"]
 aliases: ["Relayform"]
 ---
-![[feet-winged-boots-brown.webp|64]]
+# Relayform
 
 *Relayform boasts speed and stamina ideal for scouts. Your agile and muscular body is protected in the front by light carapace with smooth edges, and aerodynamic spikes run along the backs of your forearms and calves. You can run great distances and avoid detection.*
 

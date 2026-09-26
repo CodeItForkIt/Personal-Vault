@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Bottle (crem)"]
 ---
-![[ICON_Bottle_Clay.webp|64]]
+# Bottle (crem)
 
 **Price** 0.5 mk; **Weight** 3 lb.;
 

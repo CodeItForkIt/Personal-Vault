@@ -6,6 +6,6 @@ category: "Loot"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "loot"]
 aliases: ["Smokestone Broam"]
 ---
-![[sphere_smokestone_broam.webp|64]]
+# Smokestone Broam
 
 

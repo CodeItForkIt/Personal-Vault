@@ -6,7 +6,7 @@ category: "Fabrials / Unique Effects"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Surge Fabrial"]
 ---
-![[spirit-undead-ghost-blue.webp|64]]
+# Surge Fabrial
 
 *Tier 4 Unique Fabrial Effect*
 

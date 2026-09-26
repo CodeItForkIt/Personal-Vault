@@ -6,9 +6,9 @@ category: "Singer"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Ambitious Mind"]
 ---
-![[eye-ringed-glow-angry-small-red.webp|64]]
+# Ambitious Mind
 
-**Activation:** Always Active
+**Activation:** 8
 
 *Your growing thirst for power opens you to the influence of Odium.*
 

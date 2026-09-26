@@ -6,7 +6,7 @@ category: "Stormlight Actions & Features / Abrasion"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "action"]
 aliases: ["Surge of Abrasion"]
 ---
-![[liquid-blue.webp|64]]
+# Surge of Abrasion
 
 The Actor Name chooses a Large (10-foot) area or object within 30 feet of them to alter the friction of.
 

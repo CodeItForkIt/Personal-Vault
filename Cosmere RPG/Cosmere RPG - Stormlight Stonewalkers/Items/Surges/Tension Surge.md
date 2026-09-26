@@ -6,7 +6,7 @@ category: "Surges"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-stonewalkers", "power"]
 aliases: ["Tension Surge"]
 ---
-![[Tension_Surge-glyph.svg|64]]
+# Tension Surge
 
 The surge of Tension alters the rigidity of objects. This allows you to reinforce flexible materials such as cloth, making them firm and strong like steel.
 
@@ -14,7 +14,7 @@ The surge of Tension alters the rigidity of objects. This allows you to reinforc
 >
 > ***Radiant Orders:** Stoneward, Bondsmith*
 >
-> ***Activation:*** One Action
+> ***Activation:*** *1*
 >
 > *To use this surge, spend 1 or more Investiture to infuse a soft object within your reach; you must have a hand free and touch the target. The infusion uses 1 Investiture each round, and for the duration, the object becomes completely rigid.*
 >

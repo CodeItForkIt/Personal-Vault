@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Unencased Gem (infused)"]
 ---
-![[gem-cluster-blue-white.webp|64]]
+# Unencased Gem (infused)
 
 **Price** 2 mk; **Weight** 0.01 lb;
 

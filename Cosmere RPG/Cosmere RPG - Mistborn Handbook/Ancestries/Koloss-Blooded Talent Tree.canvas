@@ -1,0 +1,79 @@
+{
+  "nodes": [
+    {
+      "id": "QpSPvkY8eRX3mOM9",
+      "type": "file",
+      "file": "Ancestries/Koloss-Blooded/Koloss Recovery.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "2h1Mdsqi9c3IcpL4",
+      "type": "file",
+      "file": "Ancestries/Koloss-Blooded/Unchecked Size.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "0uiS203eDerowKZ9",
+      "type": "file",
+      "file": "Ancestries/Koloss-Blooded/Koloss Stamina.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "FrkF01GOsEuyUU19",
+      "type": "file",
+      "file": "Ancestries/Koloss-Blooded/Rapid Recovery.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "OzjKbflPjtBR8BSe",
+      "type": "file",
+      "file": "Ancestries/Koloss-Blooded/Reactive Recovery.md",
+      "x": 1020,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "0uiS203eDerowKZ9",
+      "fromSide": "right",
+      "toNode": "2h1Mdsqi9c3IcpL4",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "QpSPvkY8eRX3mOM9",
+      "fromSide": "right",
+      "toNode": "FrkF01GOsEuyUU19",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "FrkF01GOsEuyUU19",
+      "fromSide": "right",
+      "toNode": "OzjKbflPjtBR8BSe",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "0uiS203eDerowKZ9",
+      "fromSide": "right",
+      "toNode": "QpSPvkY8eRX3mOM9",
+      "toSide": "left"
+    }
+  ]
+}

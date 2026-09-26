@@ -6,7 +6,7 @@ category: "Basic"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "weapon"]
 aliases: ["Unarmed Strike"]
 ---
-![[unarmed-punch-fist.webp|64]]
+# Unarmed Strike
 
 **Damage** Unique; **Range** Melee; **Traits** Unique; **Expert Traits** Momentum, Offhand;
 

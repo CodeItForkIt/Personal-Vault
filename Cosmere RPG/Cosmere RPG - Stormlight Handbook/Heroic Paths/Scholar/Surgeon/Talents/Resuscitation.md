@@ -6,9 +6,9 @@ category: "Scholar / Surgeon / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Resuscitation"]
 ---
-![[heart-area-circle-red-green.webp|64]]
+# Resuscitation
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You quickly and efficiently treat a mortally wounded creature, seeking to pull them back from the brink by applying a tourniquet, administering an antidote, or even restarting failed organs.*
 

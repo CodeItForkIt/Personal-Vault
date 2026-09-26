@@ -6,7 +6,7 @@ category: "Surges / Tension"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-stonewalkers", "talent"]
 aliases: ["Cloth Mastery"]
 ---
-![[chevrons-down-yellow.webp|64]]
+# Cloth Mastery
 
 **Prerequisite:** Tension 2+; [[Items/Surges/Tension/Rigged Weaponry|Rigged Weaponry]] talent
 

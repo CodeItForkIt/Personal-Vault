@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Lantern (sphere)"]
 ---
-![[lantern-iron-yellow.webp|64]]
+# Lantern (sphere)
 
 **Price** 20 mk; **Weight** 2 lb.;
 

@@ -6,9 +6,9 @@ category: "Scholar / Artifabrian / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Efficient Engineer"]
 ---
-![[construction-carpentry-hammer.webp|64]]
+# Efficient Engineer
 
-**Activation:** Special Activation
+**Activation:** 8
 
 *Solid work begins with practice and fundamentals like measuring twice before each cut. You’ve put in the hours, sweat, tears, and occasional blood to learn the basic tricks of the tinkerer’s trade.*
 

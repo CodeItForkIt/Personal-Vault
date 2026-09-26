@@ -6,9 +6,9 @@ category: "Hunter / Assassin / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Shadowing"]
 ---
-![[silhouette-robe-evil-glow.webp|64]]
+# Shadowing
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You silently skulk toward your target, using cover, crowds, or other camouflage to remain unseen until it’s too late.*
 

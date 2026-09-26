@@ -6,6 +6,6 @@ category: "Features"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "trait"]
 aliases: ["Inured to Poison"]
 ---
-![[poison-skull-herbs-bottle-pink.webp|64]]
+# Inured to Poison
 
 The Actor Name gains an advantage on tests to resist the effects of poison. Additionally, before the Actor Name takes vital damage, they reduce it by 2.

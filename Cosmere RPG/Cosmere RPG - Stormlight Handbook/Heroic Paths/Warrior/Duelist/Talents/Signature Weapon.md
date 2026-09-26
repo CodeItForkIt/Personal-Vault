@@ -6,9 +6,9 @@ category: "Warrior / Duelist / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Signature Weapon"]
 ---
-![[strike-sword-slashing-red.webp|64]]
+# Signature Weapon
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You have trained extensively with a particular weapon and can exploit all the advantages it offers.*
 

@@ -9,29 +9,18 @@ aliases: ["Sleepless"]
 # Sleepless
 
 **Tier:** 3  
-**Size:** medium
-
-| Strength | Speed | Intellect | Willpower | Awareness | Presence |
-|---|---|---|---|---|---|
-| 3 | 3 | 4 | 4 | 6 | 3 |
-
-| Health | Focus | Investiture |
-|---|---|---|
-| 60/60 | 6/6 | 0 |
-
-**Speed:** 30 ft.
-
-| AGI | STL | DIS | INM | LOR | DEC | INS | PRC |
-|---|---|---|---|---|---|---|---|
-| 3 | 4 | 3 | 4 | 2 | 3 | 4 | 4 |
+**Size:** medium  
+**Attributes:** Strength 3, Speed 3, Intellect 4, Willpower 4, Awareness 6, Presence 3  
+**Resources:** Health 60/60, Focus 6/6, Investiture 0  
+**Skills:** AGI 3, STL 4, DIS 3, INM 4, LOR 2, DEC 3, INS 4, PRC 4
 
 ##### Opportunities and Complications
 
 The following options are available when an enemy gains an Opportunity or Complication during a scene with the Sleepless:
 
-**Opportunity.** An enemy can spend Opportunity to prevent the Sleepless from using their Ravage action or Swarm Weapon reaction until the start of the enemy's next turn.
+**Opportunity.** An enemy can spend O to prevent the Sleepless from using their Ravage action or Swarm Weapon reaction until the start of the enemy's next turn.
 
-**Complication.** The GM can spend Complication from an enemy's test to use the Unsettle action as Reaction against one or more enemies within 30 feet of them. The Sleepless must spend 1 focus per enemy targeted (maximum 5).
+**Complication.** The GM can spend c from an enemy's test to use the Unsettle action as r against one or more enemies within 30 feet of them. The Sleepless must spend 1 focus per enemy targeted (maximum 5).
 
 ##### Tactics
 

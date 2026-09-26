@@ -6,7 +6,7 @@ category: "Singer / Forms"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "action"]
 aliases: ["Mediationform"]
 ---
-![[meditation-chi-focus-blue.webp|64]]
+# Mediationform
 
 *Mediationform specializes in communication, whether you’re connecting with new people or teaching those you know well. Your carapace is smooth, and your facial features are well-defined and expressive.*
 

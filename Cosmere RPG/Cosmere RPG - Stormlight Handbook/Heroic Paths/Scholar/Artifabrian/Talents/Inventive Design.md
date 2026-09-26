@@ -6,9 +6,9 @@ category: "Scholar / Artifabrian / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Inventive Design"]
 ---
-![[burner-steel-grey.webp|64]]
+# Inventive Design
 
-**Activation:** Special Activation
+**Activation:** 8
 
 *Your custom fabrials often integrate novel functionalities thanks to your deep knowledge of the stone with which you most commonly work.*
 

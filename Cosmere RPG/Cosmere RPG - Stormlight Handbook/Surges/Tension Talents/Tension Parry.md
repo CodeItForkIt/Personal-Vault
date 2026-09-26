@@ -6,9 +6,9 @@ category: "Tension Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Tension Parry"]
 ---
-![[buckler-wooden-boss-brown.webp|64]]
+# Tension Parry
 
-**Activation:** Reaction
+**Activation:** r
 
 *You stiffen clothing to block incoming attacks.*
 

@@ -6,11 +6,11 @@ category: "Surges / Cohesion"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-stonewalkers", "talent"]
 aliases: ["Sinkhole"]
 ---
-![[projectile-stone-landslide.webp|64]]
+# Sinkhole
 
 **Prerequisite:** [[Items/Surges/Cohesion/Stone Spear|Stone Spear]] talent
 
-**Activation:** One Action
+**Activation:** 1
 
 *You cause the ground to soften so quickly that it can catch anyone standing in it by surprise.*
 

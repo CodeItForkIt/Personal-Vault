@@ -6,7 +6,7 @@ category: "Uncategorized"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "power"]
 aliases: ["Cohesion"]
 ---
-![[Cohesion_Surge-glyph.svg|64]]
+# Cohesion
 
 **Radiant Orders:** Stoneward, Willshaper
 

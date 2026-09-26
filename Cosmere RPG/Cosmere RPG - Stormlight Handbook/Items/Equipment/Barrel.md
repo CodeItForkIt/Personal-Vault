@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Barrel"]
 ---
-![[barrel-oak-banded-tan.webp|64]]
+# Barrel
 
 **Price** 15 mk; **Weight** 70 lb.;
 

@@ -6,9 +6,9 @@ category: "Truthwatcher (Enlightened) / Talents / Enlightened Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Glimpse The Future"]
 ---
-![[clock-spinning-gold-pink.webp|64]]
+# Glimpse The Future
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You have vague visions of future possibilities, giving you some sway to divert your Fortune.*
 

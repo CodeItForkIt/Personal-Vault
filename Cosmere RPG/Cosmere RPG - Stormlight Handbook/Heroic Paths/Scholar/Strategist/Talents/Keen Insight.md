@@ -6,9 +6,9 @@ category: "Scholar / Strategist / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Keen Insight"]
 ---
-![[eye-ringed-glow-angry-teal.webp|64]]
+# Keen Insight
 
-**Activation:** Always Active
+**Activation:** 8
 
 *Everyone has weaknesses—and you have a knack for uncovering and exploiting them.*
 

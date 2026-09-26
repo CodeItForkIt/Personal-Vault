@@ -6,9 +6,9 @@ category: "Windrunner / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["First Ideal (Windrunner)"]
 ---
-![[air-wave-gust-blue.webp|64]]
+# First Ideal (Windrunner)
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You begin the process of bonding an honorspren, giving you some small ability to breathe in and use Stormlight. You might be aware of this nascent bond, or clueless—using the powers subconsciously—until you get closer to speaking the First Ideal.*
 

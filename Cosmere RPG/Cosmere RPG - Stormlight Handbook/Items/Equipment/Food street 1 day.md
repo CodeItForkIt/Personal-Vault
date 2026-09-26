@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Food (street, 1 day)"]
 ---
-![[cooked-kebab-meat-skewer-orange.webp|64]]
+# Food (street, 1 day)
 
 **Price** 3 mk; **Weight** 1.5 lb.;
 

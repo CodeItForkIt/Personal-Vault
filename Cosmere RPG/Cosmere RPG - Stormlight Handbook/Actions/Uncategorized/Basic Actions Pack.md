@@ -6,6 +6,6 @@ category: "Uncategorized"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Basic Actions Pack"]
 ---
-![[thumbsup-approval-like.webp|64]]
+# Basic Actions Pack
 
 Drag this pack onto a character sheet to quickly add **ALL** the basic actions.

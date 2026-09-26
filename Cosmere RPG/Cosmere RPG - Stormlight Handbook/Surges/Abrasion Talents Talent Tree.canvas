@@ -1,0 +1,134 @@
+{
+  "nodes": [
+    {
+      "id": "QYGlAv4ugGLErIcY",
+      "type": "file",
+      "file": "Surges/Abrasion Talents/Distant Surgebinding.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "yyUv4mOWN64xxr5F",
+      "type": "file",
+      "file": "Surges/Abrasion Talents/Graceful Skating.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "31XCknMbvYiwnlus",
+      "type": "file",
+      "file": "Surges/Abrasion Talents/Stormlight Reclamation.md",
+      "x": 340,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "FLNfnvHB7DeHJyLQ",
+      "type": "file",
+      "file": "Surges/Abrasion Talents/Slick Combatant.md",
+      "x": 1020,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "Rm6toI6parq4rvPP",
+      "type": "file",
+      "file": "Surges/Abrasion Talents/Smooth Operator.md",
+      "x": 1020,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "APHQCPPv1bxNe3sp",
+      "type": "file",
+      "file": "Surges/Abrasion Talents/Slippery Target.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "oykB7LSljJitXDco",
+      "type": "file",
+      "file": "Surges/Abrasion Talents/Frictionless Motion.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "EsbRv35tpLFFGTNh",
+      "type": "file",
+      "file": "Surges/Abrasion Talents/Reverse Abrasion.md",
+      "x": 0,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "EsbRv35tpLFFGTNh",
+      "fromSide": "right",
+      "toNode": "31XCknMbvYiwnlus",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "yyUv4mOWN64xxr5F",
+      "fromSide": "right",
+      "toNode": "APHQCPPv1bxNe3sp",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "APHQCPPv1bxNe3sp",
+      "fromSide": "right",
+      "toNode": "FLNfnvHB7DeHJyLQ",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "EsbRv35tpLFFGTNh",
+      "fromSide": "right",
+      "toNode": "QYGlAv4ugGLErIcY",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "APHQCPPv1bxNe3sp",
+      "fromSide": "right",
+      "toNode": "Rm6toI6parq4rvPP",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "QYGlAv4ugGLErIcY",
+      "fromSide": "right",
+      "toNode": "Rm6toI6parq4rvPP",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "oykB7LSljJitXDco",
+      "fromSide": "right",
+      "toNode": "yyUv4mOWN64xxr5F",
+      "toSide": "left",
+      "label": "or"
+    }
+  ]
+}

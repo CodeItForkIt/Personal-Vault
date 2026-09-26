@@ -1,0 +1,143 @@
+{
+  "nodes": [
+    {
+      "id": "Aja6QuPah1RxrTqx",
+      "type": "file",
+      "file": "Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Deepened Bond.md",
+      "x": 1020,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "tiPEvKuTl1ZwX559",
+      "type": "file",
+      "file": "Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Fourth Ideal Edgedancer.md",
+      "x": 1020,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "TPmiz16yerbYcxCV",
+      "type": "file",
+      "file": "Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Take Squire Edgedancer.md",
+      "x": 1020,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "s5DUNMUSHYvNwW4Q",
+      "type": "file",
+      "file": "Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Wound Regeneration.md",
+      "x": 1020,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "LtLkH8x0vVqelBZv",
+      "type": "file",
+      "file": "Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Invested.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "t6AlHJ5deZZ9fjbY",
+      "type": "file",
+      "file": "Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Third Ideal Edgedancer.md",
+      "x": 680,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "AS884zIh6YAlxd9g",
+      "type": "file",
+      "file": "Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Edgedancers Grace.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "JPOpT29NeZxXvdCG",
+      "type": "file",
+      "file": "Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Second Ideal Edgedancer.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "izOBLKvchhL3fXxA",
+      "type": "file",
+      "file": "Radiant Paths/Edgedancer/Talents/First Ideal Edgedancer.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "izOBLKvchhL3fXxA",
+      "fromSide": "right",
+      "toNode": "AS884zIh6YAlxd9g",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "t6AlHJ5deZZ9fjbY",
+      "fromSide": "right",
+      "toNode": "Aja6QuPah1RxrTqx",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "izOBLKvchhL3fXxA",
+      "fromSide": "right",
+      "toNode": "JPOpT29NeZxXvdCG",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "AS884zIh6YAlxd9g",
+      "fromSide": "right",
+      "toNode": "LtLkH8x0vVqelBZv",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "t6AlHJ5deZZ9fjbY",
+      "fromSide": "right",
+      "toNode": "TPmiz16yerbYcxCV",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "LtLkH8x0vVqelBZv",
+      "fromSide": "right",
+      "toNode": "s5DUNMUSHYvNwW4Q",
+      "toSide": "left"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "JPOpT29NeZxXvdCG",
+      "fromSide": "right",
+      "toNode": "t6AlHJ5deZZ9fjbY",
+      "toSide": "left"
+    },
+    {
+      "id": "edge7",
+      "fromNode": "t6AlHJ5deZZ9fjbY",
+      "fromSide": "right",
+      "toNode": "tiPEvKuTl1ZwX559",
+      "toSide": "left"
+    }
+  ]
+}

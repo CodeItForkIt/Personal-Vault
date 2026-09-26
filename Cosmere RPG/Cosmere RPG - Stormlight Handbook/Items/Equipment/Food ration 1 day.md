@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Food (ration, 1 day)"]
 ---
-![[bread-loaf-boule-tan.webp|64]]
+# Food (ration, 1 day)
 
 **Price** 0.2 mk; **Weight** 0.5 lb.;
 

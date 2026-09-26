@@ -6,9 +6,9 @@ category: "Adhesion Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Adhesive Trap"]
 ---
-![[explosion-impact-purple.webp|64]]
+# Adhesive Trap
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You can infuse Adhesion into surfaces, causing anyone who touches them to become stuck.*
 

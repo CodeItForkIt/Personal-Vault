@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Waterskin"]
 ---
-![[waterskin-leather-brown.webp|64]]
+# Waterskin
 
 **Price** 1 mk; **Weight** 1 lb. (empty);
 

@@ -6,9 +6,9 @@ category: "Hunter / Assassin / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Killing Edge"]
 ---
-![[dagger-jeweled-purple.webp|64]]
+# Killing Edge
 
-**Activation:** Always Active
+**Activation:** 8
 
 *Your simple weapons seem humble beside ancient relics or weapons of war, but in your hands, even a rusty knife or pitted sling is as deadly as the finest steel.*
 

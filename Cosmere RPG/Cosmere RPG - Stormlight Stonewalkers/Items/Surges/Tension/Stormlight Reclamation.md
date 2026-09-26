@@ -6,7 +6,7 @@ category: "Surges / Tension"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-stonewalkers", "talent"]
 aliases: ["Stormlight Reclamation"]
 ---
-![[orb-shadow-blue.webp|64]]
+# Stormlight Reclamation
 
 **Prerequisite:** Speak the First Ideal (Stoneward or Bondsmith)
 

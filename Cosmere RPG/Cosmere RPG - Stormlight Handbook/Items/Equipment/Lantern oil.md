@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Lantern (oil)"]
 ---
-![[lantern-iron-yellow.webp|64]]
+# Lantern (oil)
 
 **Price** 20 mk; **Weight** 2 lb.;
 

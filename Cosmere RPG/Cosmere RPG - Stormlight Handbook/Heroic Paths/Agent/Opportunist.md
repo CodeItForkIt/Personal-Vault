@@ -6,9 +6,9 @@ category: "Agent"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Opportunist"]
 ---
-![[silhouette-robe-evil-power.webp|64]]
+# Opportunist
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You instinctively sense moments of consequence. In these moments where the scale teeters between disaster and glory, you can push yourself—and your luck—to tip the outcome in your favor.*
 

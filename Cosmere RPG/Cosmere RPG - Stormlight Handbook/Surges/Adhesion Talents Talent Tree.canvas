@@ -1,0 +1,158 @@
+{
+  "nodes": [
+    {
+      "id": "6JvzvbhND32T6LAk",
+      "type": "file",
+      "file": "Surges/Adhesion Talents/Distant Surgebinding.md",
+      "x": 1700,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "OdpmVW1iUy4tBvZQ",
+      "type": "file",
+      "file": "Surges/Adhesion Talents/Living Adhesion.md",
+      "x": 1700,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "Q01GzulQOnrRSLxK",
+      "type": "file",
+      "file": "Surges/Adhesion Talents/Binding Strike.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "ioZhxCENExFbsOon",
+      "type": "file",
+      "file": "Surges/Adhesion Talents/Stormlight Reclamation.md",
+      "x": 0,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "0MeMfQInYRK23bRy",
+      "type": "file",
+      "file": "Surges/Adhesion Talents/Adhesive Trap.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "tbZxpoZMCsIQ4oIr",
+      "type": "file",
+      "file": "Surges/Adhesion Talents/Extended Adhesion.md",
+      "x": 1360,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "barCEKlT0LCt9Mza",
+      "type": "file",
+      "file": "Surges/Adhesion Talents/Binding Shot.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "lLl7XNqvJ540tedF",
+      "type": "file",
+      "file": "Surges/Adhesion Talents/Superior Bond.md",
+      "x": 1020,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "barCEKlT0LCt9Mza",
+      "fromSide": "right",
+      "toNode": "0MeMfQInYRK23bRy",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "lLl7XNqvJ540tedF",
+      "fromSide": "right",
+      "toNode": "0MeMfQInYRK23bRy",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "ioZhxCENExFbsOon",
+      "fromSide": "right",
+      "toNode": "6JvzvbhND32T6LAk",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "tbZxpoZMCsIQ4oIr",
+      "fromSide": "right",
+      "toNode": "6JvzvbhND32T6LAk",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "tbZxpoZMCsIQ4oIr",
+      "fromSide": "right",
+      "toNode": "OdpmVW1iUy4tBvZQ",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "Q01GzulQOnrRSLxK",
+      "fromSide": "right",
+      "toNode": "barCEKlT0LCt9Mza",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "0MeMfQInYRK23bRy",
+      "fromSide": "right",
+      "toNode": "lLl7XNqvJ540tedF",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge7",
+      "fromNode": "tbZxpoZMCsIQ4oIr",
+      "fromSide": "right",
+      "toNode": "lLl7XNqvJ540tedF",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge8",
+      "fromNode": "6JvzvbhND32T6LAk",
+      "fromSide": "right",
+      "toNode": "tbZxpoZMCsIQ4oIr",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge9",
+      "fromNode": "lLl7XNqvJ540tedF",
+      "fromSide": "right",
+      "toNode": "tbZxpoZMCsIQ4oIr",
+      "toSide": "left",
+      "label": "or"
+    }
+  ]
+}

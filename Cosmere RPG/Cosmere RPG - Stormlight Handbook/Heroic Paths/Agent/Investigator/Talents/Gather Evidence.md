@@ -6,9 +6,9 @@ category: "Agent / Investigator / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Gather Evidence"]
 ---
-![[academics-investigation-puzzles.webp|64]]
+# Gather Evidence
 
-**Activation:** Always Active
+**Activation:** 8
 
 *Observing clues in your environment, you slowly but surely build a mental model of the mysteries before you.*
 

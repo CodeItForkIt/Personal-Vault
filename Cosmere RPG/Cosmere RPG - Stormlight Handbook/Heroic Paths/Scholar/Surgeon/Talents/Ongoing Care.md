@@ -6,9 +6,9 @@ category: "Scholar / Surgeon / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Ongoing Care"]
 ---
-![[heart-hand-gold-green.webp|64]]
+# Ongoing Care
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *Medical care can be an arduous process that requires patience and periodic reassessment. You’ve studied the connection between physical and mental health, learning to support both on the long road to recovery.*
 

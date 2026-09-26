@@ -6,7 +6,7 @@ category: "Singer / Forms"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "action"]
 aliases: ["Nimbleform"]
 ---
-![[feet-winged-boots-glowing-yellow.webp|64]]
+# Nimbleform
 
 *Nimbleform specializes in physical and mental flexibility. Your protective carapace is minimal; instead, you have an increased range of motion and mental focus.*
 

@@ -6,9 +6,9 @@ category: "Agent / Spy / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Mercurial Facade"]
 ---
-![[commoner.webp|64]]
+# Mercurial Facade
 
-**Activation:** Special Action
+**Activation:** \*
 
 *You know poise is essential to any disguise, and you can change your perceived persona simply by altering your gait and presence.*
 

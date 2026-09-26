@@ -6,9 +6,9 @@ category: "Envoy / Diplomat / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Well Dressed"]
 ---
-![[robe-layered-purple.webp|64]]
+# Well Dressed
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You cleverly match your outfits to the occasion, always making the perfect statement.*
 

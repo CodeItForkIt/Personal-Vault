@@ -6,9 +6,9 @@ category: "Envoy / Mentor / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Instill Confidence"]
 ---
-![[peace-luck-insult.webp|64]]
+# Instill Confidence
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *Your presence brings clarity and encouragement, keeping others focused on their goal.*
 

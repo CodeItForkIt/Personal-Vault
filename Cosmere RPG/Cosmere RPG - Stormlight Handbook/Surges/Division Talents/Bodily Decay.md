@@ -6,10 +6,10 @@ category: "Division Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Bodily Decay"]
 ---
-![[blood-corruption-vomit-red.webp|64]]
+# Bodily Decay
 
-**Activation:** Always Active
+**Activation:** \*
 
 *You atrophy the bodies of your enemies, inflicting debilitating wounds.*
 
-When you hit with a **Division** attack, you can spend Opportunity to inflict an injury on one target of that attack.
+When you hit with a **Division** attack, you can spend O to inflict an injury on one target of that attack.

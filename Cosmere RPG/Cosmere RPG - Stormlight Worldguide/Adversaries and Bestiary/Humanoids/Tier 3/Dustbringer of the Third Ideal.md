@@ -9,30 +9,19 @@ aliases: ["Dustbringer of the Third Ideal"]
 # Dustbringer of the Third Ideal
 
 **Tier:** 3  
-**Size:** medium
-
-| Strength | Speed | Intellect | Willpower | Awareness | Presence |
-|---|---|---|---|---|---|
-| 2 | 4 | 4 | 3 | 4 | 1 |
-
-| Health | Focus | Investiture |
-|---|---|---|
-| 47/47 | 5/5 | 6/6 |
-
+**Size:** medium  
+**Attributes:** Strength 2, Speed 4, Intellect 4, Willpower 3, Awareness 4, Presence 1  
+**Resources:** Health 47/47, Focus 5/5, Investiture 6/6  
 **Deflect:** 2  
-**Speed:** 40 ft.
-
-| AGI | LWP | STL | DIS | INM | LEA | PRC | DVS | ABR |
-|---|---|---|---|---|---|---|---|---|
-| 4 | 4 | 4 | 3 | 3 | 4 | 3 | 4 | 3 |
+**Skills:** AGI 4, LWP 4, STL 4, DIS 3, INM 3, LEA 4, PRC 3, DVS 4, ABR 3
 
 ##### Opportunities and Complications
 
 The following options are available when an enemy gains an Opportunity or Complication during a scene with the Dustbringer:
 
-**Opportunity.** An enemy can spend Opportunity to prevent the Dustbringer from using their **Burst of Flame** and **Regenerate** actions until the end of the Dustbringer's next turn.
+**Opportunity.** An enemy can spend O to prevent the Dustbringer from using their **Burst of Flame** and **Regenerate** actions until the end of the Dustbringer's next turn.
 
-**Complication.** The GM can spend Complication from an enemy's test to remove the Investiture cost from the Dustbringer's **Decaying Touch** action and **Skate** free action until the end of the Dustbringer's next turn.
+**Complication.** The GM can spend c from an enemy's test to remove the Investiture cost from the Dustbringer's **Decaying Touch** action and **Skate** free action until the end of the Dustbringer's next turn.
 
 ##### Tactics
 
@@ -53,7 +42,7 @@ While they have 1 Investiture or more, the Dustbringer of the Third Ideal can't 
 
 **Graze** `2d10 Spirit average`;
 
-**Hit** `2d10 + 8 Spirit average`, and the Dustbringer of the Third Ideal can spend 1 focus to use the Disengage action as Free Action.
+**Hit** `2d10 + 8 Spirit average`, and the Dustbringer of the Third Ideal can spend 1 focus to use the Disengage action as 0.
 
 ### Regenerate
 *1 fre*
@@ -82,7 +71,7 @@ The Dustbringer of the Third Ideal targets themself or an ally in reach, ending 
 ### Burst of Flame
 *2 act*
 
-The Dustbringer of the Third Ideal emits a burst of fire that deals `1d12 Energy average` to each character within 10 feet of them and sets unattended objects in that area ablaze. Additionally, the Dustbringer of the Third Ideal can spend 1 focus or more to shower sparks onto that many enemies within 30 feet of them; each target must succeed on an *Test: `skill=agi dc=14`* or lose one One Action on their next turn.
+The Dustbringer of the Third Ideal emits a burst of fire that deals `1d12 Energy average` to each character within 10 feet of them and sets unattended objects in that area ablaze. Additionally, the Dustbringer of the Third Ideal can spend 1 focus or more to shower sparks onto that many enemies within 30 feet of them; each target must succeed on an *Test: `skill=agi dc=14`* or lose one 1 on their next turn.
 
 ### Strike: Shortbow
 *1 act*

@@ -6,7 +6,7 @@ category: "Stoneward"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "path"]
 aliases: ["Stoneward"]
 ---
-![[pg172_path_banner_Stoneward.webp|64]]
+# Stoneward
 
 *A Stoneward reaches one hand out to touch their ally’s shirt, transforming it into a substance harder than diamond. Meanwhile, their other hand scoops into softened stone and flings a handful at an enemy. The ally’s hardened cloth deflects the enemy’s blade just as the resolidified rock slams into the enemy’s chest.*
 
@@ -84,4 +84,4 @@ When a peakspren seeks a prospective Radiant to bond, they tend to value jovial 
 >
 > When a peakspren leaves their rocky hiding place, they appear to be breaking out of the rock. The stone quickly melds back together and becomes whole, leaving no trace of the peakspren’s passage.
 >
-> One Action or One Action **Test Assistance (Costs 1 Focus) .** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, peakspren can help with supporting or coordinating individuals (especially unruly ones), Athletics tests, and Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.
+> 0 or r **Test Assistance (Costs 1 Focus) .** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, peakspren can help with supporting or coordinating individuals (especially unruly ones), Athletics tests, and Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.

@@ -1,0 +1,15 @@
+---
+title: "Steady Aim"
+type: "talent"
+module: "Cosmere RPG - Mistborn Handbook"
+category: "Hunter / Sharpshooter / Talents"
+tags: ["cosmere-rpg", "cosmere-rpg-mistborn-handbook", "talent"]
+aliases: ["Steady Aim"]
+---
+# Steady Aim
+
+**Activation:** **1**
+
+*Your shot finds its mark even across dizzying distances.*
+
+Until the end of your turn, both the short and long ranges of your ranged weapons increase by half, and when you hit with a ranged weapon attack, you deal extra damage equal to your ranks in **Perception**.

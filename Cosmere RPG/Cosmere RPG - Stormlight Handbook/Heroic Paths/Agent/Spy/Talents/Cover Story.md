@@ -6,9 +6,9 @@ category: "Agent / Spy / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Cover Story"]
 ---
-![[academics-merchant-scribe.webp|64]]
+# Cover Story
 
-**Activation:** Always Active
+**Activation:** 8
 
 *By spinning vague rumors into popular gossip, you’ve created a false identity to inhabit.*
 

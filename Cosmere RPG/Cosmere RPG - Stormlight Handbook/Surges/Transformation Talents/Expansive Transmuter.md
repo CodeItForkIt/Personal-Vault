@@ -6,9 +6,9 @@ category: "Transformation Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Expansive Transmuter"]
 ---
-![[projectile-stone-bullet-pink.webp|64]]
+# Expansive Transmuter
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You’ve become so powerful that you can Soulcast larger objects with much greater efficiency.*
 

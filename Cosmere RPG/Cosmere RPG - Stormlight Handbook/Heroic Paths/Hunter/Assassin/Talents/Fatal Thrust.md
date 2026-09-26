@@ -6,9 +6,9 @@ category: "Hunter / Assassin / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Fatal Thrust"]
 ---
-![[strike-dagger-white-orange.webp|64]]
+# Fatal Thrust
 
-**Activation:** Two Actions
+**Activation:** 2
 
 *You aim for your foe’s vitals with callous finesse, hoping to bring the fight to an end before it begins.*
 

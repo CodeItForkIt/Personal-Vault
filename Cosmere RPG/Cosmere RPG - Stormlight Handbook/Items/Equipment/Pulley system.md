@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Pulley system"]
 ---
-![[wheel-wooden.webp|64]]
+# Pulley system
 
 **Price** 100 mk; **Weight** 12 lb.;
 

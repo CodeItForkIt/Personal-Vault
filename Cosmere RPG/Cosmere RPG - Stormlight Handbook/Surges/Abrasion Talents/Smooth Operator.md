@@ -6,9 +6,9 @@ category: "Abrasion Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Smooth Operator"]
 ---
-![[ball-spinning-blue.webp|64]]
+# Smooth Operator
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You’ve become so efficient at infusing yourself with Abrasion that it becomes subconscious, allowing you to slip around with effortless grace.*
 

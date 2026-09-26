@@ -6,11 +6,11 @@ category: "Surges / Cohesion"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-stonewalkers", "talent"]
 aliases: ["Through the Stone"]
 ---
-![[projectile-boulder-dust.webp|64]]
+# Through the Stone
 
 **Prerequisite:** [[Items/Surges/Cohesion/Sinkhole|Sinkhole]] talent
 
-**Activation:** Always Active
+**Activation:** 8
 
 *When you touch stone, you can sense and use your Cohesion through it from a much greater distance.*
 

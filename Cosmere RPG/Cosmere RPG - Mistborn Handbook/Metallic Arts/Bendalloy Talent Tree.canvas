@@ -1,0 +1,138 @@
+{
+  "nodes": [
+    {
+      "id": "aFATuzihyONAlJ5H",
+      "type": "file",
+      "file": "Metallic Arts/Bendalloy/Talents/Allomancy/Defensive Bubble.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "fBxOGkxtyozXrts0",
+      "type": "file",
+      "file": "Metallic Arts/Bendalloy/Talents/Feruchemy/Drop of Prevention.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "MbFBjytf7yFuCS4H",
+      "type": "file",
+      "file": "Metallic Arts/Bendalloy/Talents/Allomancy/Expedited Bubble.md",
+      "x": 340,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "b7s9HTcgAbdFb0mk",
+      "type": "file",
+      "file": "Metallic Arts/Bendalloy/Talents/Allomancy/Quickened Coverup.md",
+      "x": 340,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "gNKJx8HWsJhBb9dK",
+      "type": "file",
+      "file": "Metallic Arts/Bendalloy/Talents/Feruchemy/Steady Nutrition.md",
+      "x": 340,
+      "y": 480,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "9Vxm21ELkReXDy3d",
+      "type": "file",
+      "file": "Metallic Arts/Bendalloy/Talents/Feruchemy/Energy Boost.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "w5TBJWx8n6X568Qs",
+      "type": "file",
+      "file": "Metallic Arts/Bendalloy/Talents/Allomancy/Expanded Bubble.md",
+      "x": 0,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "xGezG3oBR26n6gYH",
+      "type": "file",
+      "file": "Metallic Arts/Bendalloy/Talents/Feruchemy/Proactive Nutrition.md",
+      "x": 0,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "S5LoGc1kULOqcFQU",
+      "type": "file",
+      "file": "Metallic Arts/Bendalloy/Talents/Allomancy/Reflexive Bubble.md",
+      "x": 0,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "LQpcwGG9FpyCd2p6",
+      "type": "file",
+      "file": "Metallic Arts/Bendalloy/Talents/Feruchemy/Poisoners Bane.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "fBxOGkxtyozXrts0",
+      "fromSide": "right",
+      "toNode": "LQpcwGG9FpyCd2p6",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "S5LoGc1kULOqcFQU",
+      "fromSide": "right",
+      "toNode": "MbFBjytf7yFuCS4H",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "S5LoGc1kULOqcFQU",
+      "fromSide": "right",
+      "toNode": "aFATuzihyONAlJ5H",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "w5TBJWx8n6X568Qs",
+      "fromSide": "right",
+      "toNode": "b7s9HTcgAbdFb0mk",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "xGezG3oBR26n6gYH",
+      "fromSide": "right",
+      "toNode": "fBxOGkxtyozXrts0",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "xGezG3oBR26n6gYH",
+      "fromSide": "right",
+      "toNode": "gNKJx8HWsJhBb9dK",
+      "toSide": "left"
+    }
+  ]
+}

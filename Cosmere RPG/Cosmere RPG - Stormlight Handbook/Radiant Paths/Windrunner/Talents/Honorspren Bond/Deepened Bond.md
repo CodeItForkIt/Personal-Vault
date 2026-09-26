@@ -6,9 +6,9 @@ category: "Windrunner / Talents / Honorspren Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Deepened Bond"]
 ---
-![[energy-stream-link-orange.webp|64]]
+# Deepened Bond
 
-**Activation:** Always Active
+**Activation:** 8
 
 *The strength of your Nahel bond now allows your spren to manifest more fully in the Physical Realm.*
 

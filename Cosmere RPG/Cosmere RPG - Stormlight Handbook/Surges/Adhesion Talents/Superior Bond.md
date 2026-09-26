@@ -6,9 +6,9 @@ category: "Adhesion Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Superior Bond"]
 ---
-![[debuff-chains-orb-movement-blue.webp|64]]
+# Superior Bond
 
-**Activation:** Always Active
+**Activation:** 8
 
 *Your Full Lashings can be broken only by the strongest of individuals.*
 

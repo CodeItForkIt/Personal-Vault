@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "FmxXqh78Y7oXaVhD",
+      "type": "file",
+      "file": "Radiant Paths/Dustbringer (Canon)/Talents/First Ideal Canon Dustbringer.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "q1CKS48612T3ig81",
+      "type": "file",
+      "file": "Radiant Paths/Dustbringer (Canon)/Talents/Ashspren Bond/Second Ideal Canon Dustbringer.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "FmxXqh78Y7oXaVhD",
+      "fromSide": "right",
+      "toNode": "q1CKS48612T3ig81",
+      "toSide": "left"
+    }
+  ]
+}

@@ -6,9 +6,9 @@ category: "Division Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Inescapable Spark"]
 ---
-![[bolt-forked-red.webp|64]]
+# Inescapable Spark
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You can send your spark to far greater distances, seeking out targets around corners and through walls and corners.*
 

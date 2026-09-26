@@ -6,7 +6,7 @@ category: "Weapons"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "weapon"]
 aliases: ["Greatsword"]
 ---
-![[ICON_Greatsword.webp|64]]
+# Greatsword
 
 **Damage** 1d10 keen; **Range** Melee; **Traits** Two-Handed; **Expert Traits** Deadly;
 

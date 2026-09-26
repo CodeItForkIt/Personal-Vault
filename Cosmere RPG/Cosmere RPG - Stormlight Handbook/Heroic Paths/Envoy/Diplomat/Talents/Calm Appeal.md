@@ -6,9 +6,9 @@ category: "Envoy / Diplomat / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Calm Appeal"]
 ---
-![[thumbsup-approval-like.webp|64]]
+# Calm Appeal
 
-**Activation:** Special Action
+**Activation:** \*
 
 *You draw on your enemy’s innate desire to live and continue pursuing their goals. Sowing seeds of doubt, you encourage them to reach a compromise.*
 

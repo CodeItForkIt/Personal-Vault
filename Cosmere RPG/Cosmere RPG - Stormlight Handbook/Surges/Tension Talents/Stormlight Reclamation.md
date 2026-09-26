@@ -6,7 +6,7 @@ category: "Tension Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Stormlight Reclamation"]
 ---
-![[orb-shadow-blue.webp|64]]
+# Stormlight Reclamation
 
 **Activation:** 0
 

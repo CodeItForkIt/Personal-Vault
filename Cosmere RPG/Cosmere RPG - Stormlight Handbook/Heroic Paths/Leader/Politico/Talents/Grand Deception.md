@@ -6,7 +6,7 @@ category: "Leader / Politico / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Grand Deception"]
 ---
-![[trading-injustice-scale-gray.webp|64]]
+# Grand Deception
 
 **Activation:** 3
 

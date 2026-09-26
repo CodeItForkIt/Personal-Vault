@@ -6,6 +6,6 @@ category: "Features"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "trait"]
 aliases: ["Flight"]
 ---
-![[raptor-hawk-flying.webp|64]]
+# Flight
 
 Grant the Actor Name a [[Stormlight Handbook/11 - Ch 10 Combat#Flying|Flying]] rate of 30 feet.

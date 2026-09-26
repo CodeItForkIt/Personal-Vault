@@ -6,7 +6,7 @@ category: "Actions"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "action"]
 aliases: ["Launch Boulder"]
 ---
-![[projectile-boulder-yellow.webp|64]]
+# Launch Boulder
 
 **Attack** +14; **Range** 150/600 ft.; **Targets** one;
 

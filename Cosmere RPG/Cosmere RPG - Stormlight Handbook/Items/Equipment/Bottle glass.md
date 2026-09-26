@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Bottle (glass)"]
 ---
-![[ICON_Bottle_Glass.webp|64]]
+# Bottle (glass)
 
 **Price** 1 mk; **Weight** 2 lb.;
 

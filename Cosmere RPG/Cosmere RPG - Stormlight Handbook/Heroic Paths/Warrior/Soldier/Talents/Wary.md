@@ -6,9 +6,9 @@ category: "Warrior / Soldier / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Wary"]
 ---
-![[eye-ringed-glow-angry-small-teal.webp|64]]
+# Wary
 
-**Activation:** Always Active
+**Activation:** 8
 
 *Through your experience living in dangerous locations, you’ve learned to stay focused and respond quickly to unexpected hazards.*
 

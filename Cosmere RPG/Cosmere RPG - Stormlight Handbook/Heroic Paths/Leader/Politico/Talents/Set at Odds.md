@@ -6,7 +6,7 @@ category: "Leader / Politico / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Set at Odds"]
 ---
-![[diplomacy-unity-alliance.webp|64]]
+# Set at Odds
 
 **Activation:** 2
 

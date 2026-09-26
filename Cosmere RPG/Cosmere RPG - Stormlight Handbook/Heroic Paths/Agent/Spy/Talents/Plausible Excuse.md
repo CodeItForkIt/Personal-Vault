@@ -6,9 +6,9 @@ category: "Agent / Spy / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Plausible Excuse"]
 ---
-![[thumbsup-approval-like.webp|64]]
+# Plausible Excuse
 
-**Activation:** Reaction
+**Activation:** r
 
 *Years of covert operations have taught you to dissemble on the spot, concocting a reasonable excuse for the most incriminating of behavior.*
 

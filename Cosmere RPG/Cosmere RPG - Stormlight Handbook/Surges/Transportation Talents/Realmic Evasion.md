@@ -6,9 +6,9 @@ category: "Transportation Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Realmic Evasion"]
 ---
-![[arrows-circling-pink.webp|64]]
+# Realmic Evasion
 
-**Activation:** Reaction
+**Activation:** r
 
 *You dodge danger, momentarily transporting yourself between the Physical and Cognitive Realms, then return after the danger has passed.*
 

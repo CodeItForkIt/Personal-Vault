@@ -6,9 +6,9 @@ category: "Willshaper / Talents / Lightspren Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Third Ideal (Willshaper)"]
 ---
-![[abstract-ribbons-red-orange.webp|64]]
+# Third Ideal (Willshaper)
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You seek to advance your Nahel bond even further by speaking the Third Ideal.*
 

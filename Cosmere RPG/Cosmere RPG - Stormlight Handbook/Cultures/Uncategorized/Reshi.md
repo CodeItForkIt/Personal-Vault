@@ -6,7 +6,7 @@ category: "Uncategorized"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "culture"]
 aliases: ["Reshi"]
 ---
-![[reshi-t.webp|64]]
+# Reshi
 
 The Reshi Isles are a series of misty islands and inhabitable Tai-na greatshell carapaces, each ruled by a monarch. The Tai-na islands roam the Reshi Sea, occasionally colliding in brief conflicts. Reshi people worship these greatshell islands as their gods. Tourism is common on the stationary islands.
 

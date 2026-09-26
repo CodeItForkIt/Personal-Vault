@@ -285,7 +285,7 @@ While Immobilized, your movement rate becomes 0, and you can’t move or be move
 
 While Prone, you are lying flat on the ground. While Prone, you are Slowed and melee attacks against you gain an advantage. You can use the Brace action without cover.
 
-You can stand up and end this condition as One Action. After you do, your movement rate is reduced by 5 until the start of your next turn.
+You can stand up and end this condition as 0. After you do, your movement rate is reduced by 5 until the start of your next turn.
 
 If you become Prone while climbing or flying, you fall and take damage as usual (see [[Stormlight Handbook/11 - Ch 10 Combat#Falling|Falling]] in chapter 10).
 
@@ -393,8 +393,6 @@ Compare the result to the Injury Duration table to determine the duration of you
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Injury Duration]]
 
-[[Stormlight Handbook/17 - Appendix 2 Tables|Injury Duration]]
-
 ### Injury Effects
 
 Each injury remains until it heals (or for permanent injuries, potentially forever). When your character suffers an injury, you decide its effects. To do so, consider what caused the injury and what narrative you’re interested in for your character.
@@ -402,8 +400,6 @@ Each injury remains until it heals (or for permanent injuries, potentially forev
 The Injury Effects table suggests some effects an injury could have and how you might describe it in the story. Feel free to choose any entry on the table, roll a d8 on the table, or work with your GM to create a custom effect.
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Injury Effects]]
-
-[[Stormlight Handbook/17 - Appendix 2 Tables|Injury Effects]]
 
 ### Minor NPCs and Injuries
 

@@ -99,8 +99,6 @@ The Conversation Opportunities and Complications table provides inspiration for 
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Conversation Opportunities and Complications]]
 
-[[Stormlight Handbook/17 - Appendix 2 Tables|Conversation Opportunities and Complications]]
-
 ### Using Abilities in Conversations
 
 While some talents, actions, and other abilities are focused on combat, you might find creative ways to use them for a contribution. Some abilities provide guidance for using them outside of combat (for example, see [[Stormlight Handbook/07 - Ch 6 Surges#Surge Infusions and Durations|Surge Infusions and Durations]] in chapter 6), while others are left to your creativity. It’s always up to the GM whether you can use an ability to contribute, and how.
@@ -159,8 +157,6 @@ If it comes to light that the information can be had for a price, an Inquiry mig
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Inquiry Opportunities and Complications]]
 
-[[Stormlight Handbook/17 - Appendix 2 Tables|Inquiry Opportunities and Complications]]
-
 ## Negotiation
 
 In a **Negotiation**, two or more interested groups are attempting to get something from each other, generally while expending as few resources as possible. Negotiations are a strange amalgam of competition and cooperation, with each side trying to levy every advantage at its disposal. However, for both sides to profit, there must be give and take, or one side might simply walk away.
@@ -170,8 +166,6 @@ At the outset of a Negotiation, the GM and players should discuss what the playe
 If one party stops dealing in good faith (or it’s revealed that they never intended to uphold their end of the bargain), a Negotiation might become a Scheme.
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Negotiation Opportunities and Complications]]
-
-[[Stormlight Handbook/17 - Appendix 2 Tables|Negotiation Opportunities and Complications]]
 
 ![[pg319_Oathgate Negotiation_Artem Demura.webp]]
 
@@ -187,8 +181,6 @@ If a Scheme is ever unveiled to all parties, the conversation likely ends. The u
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Scheme Opportunities and Complications]]
 
-[[Stormlight Handbook/17 - Appendix 2 Tables|Scheme Opportunities and Complications]]
-
 ## Social
 
 During a **Social** conversation, characters seek to form bonds, impress potential allies, and generally build interpersonal connections. Socializing is generally earnest, though that doesn’t mean that all participants must be wholly truthful. Characters may be pursuing hidden agendas, and rival NPCs may be working to undermine the PCs’ efforts.
@@ -198,8 +190,6 @@ At the outset of a Social scene, the GM should ask the players if their characte
 If one or more groups decide to pursue agendas, socializing can shift into any other conversation type as the GM and players see fit.
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Socializing Opportunities and Complications]]
-
-[[Stormlight Handbook/17 - Appendix 2 Tables|Socializing Opportunities and Complications]]
 
 ![[pg320_DalNav_MirandaMeeks.webp]]
 
@@ -229,7 +219,7 @@ This example of gameplay illustrates the flow of a conversation. Lisiril, Jhesh,
 
 **GM:** Okay, go ahead and make a Persuasion test to influence Jorni. Because you’ve never actually met Jorni before, raise the stakes.
 
-*Mia rolls a d20 along with the plot die, rolling a 12 on the d20 with a* Complication*2* *on the plot die. She adds her Persuasion modifier of +4, along with the +2 from the plot die, for a total of 18. That’s higher than Jorni’s Spiritual defense, which the GM set as the DC.*
+*Mia rolls a d20 along with the plot die, rolling a 12 on the d20 with a* C*2* *on the plot die. She adds her Persuasion modifier of +4, along with the +2 from the plot die, for a total of 18. That’s higher than Jorni’s Spiritual defense, which the GM set as the DC.*
 
 **GM:** Well, despite the slightly shady opening, you’re pretty persuasive. Jorni seems interested despite her skepticism.
 
@@ -257,7 +247,7 @@ This example of gameplay illustrates the flow of a conversation. Lisiril, Jhesh,
 
 **Rico (playing Aj):** No problem!
 
-*Taylor rolls a d20 along with the plot die, rolling a 17 on the d20 with a* Complication*4* *on the plot die. They add their Intimidation modifier of +2, along with the +4 from the plot die, for a total of 23. That’s higher than Jorni’s Cognitive defense (which the GM set as the DC).*
+*Taylor rolls a d20 along with the plot die, rolling a 17 on the d20 with a* C*4* *on the plot die. They add their Intimidation modifier of +2, along with the +4 from the plot die, for a total of 23. That’s higher than Jorni’s Cognitive defense (which the GM set as the DC).*
 
 **GM:** Jorni drops the line of questioning. Clearly you’re tough enough that it’s not worth the trouble.
 

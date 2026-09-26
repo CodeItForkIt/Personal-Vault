@@ -10,9 +10,11 @@
 - [[Radiant Paths/Dustbringer/Goals/Speak the Third Ideal|Speak the Third Ideal]]
 
 ### Dustbringer / Talents
+- [[Radiant Paths/Dustbringer/Talents/Dustbringer Talents|Dustbringer Talents]]
 - [[Radiant Paths/Dustbringer/Talents/First Ideal Dustbringer|First Ideal (Dustbringer)]]
 
 #### Dustbringer / Talents / Ashspren Bond
+- [[Radiant Paths/Dustbringer/Talents/Ashspren Bond/Ashspren Bond|Ashspren Bond]]
 - [[Radiant Paths/Dustbringer/Talents/Ashspren Bond/Deepened Bond|Deepened Bond]]
 - [[Radiant Paths/Dustbringer/Talents/Ashspren Bond/Fourth Ideal Dustbringer|Fourth Ideal (Dustbringer)]]
 - [[Radiant Paths/Dustbringer/Talents/Ashspren Bond/Invested|Invested]]
@@ -30,9 +32,12 @@
 - [[Radiant Paths/Dustbringer (Canon)/Goals/Speak the Second Ideal|Speak the Second Ideal]]
 
 ### Dustbringer (Canon) / Talents
+- [[Radiant Paths/Dustbringer (Canon)/Talents/Division Talents|Division Talents]]
+- [[Radiant Paths/Dustbringer (Canon)/Talents/Dustbringer Talents Canon|Dustbringer Talents (Canon)]]
 - [[Radiant Paths/Dustbringer (Canon)/Talents/First Ideal Canon Dustbringer|First Ideal (Canon Dustbringer)]]
 
 #### Dustbringer (Canon) / Talents / Ashspren Bond
+- [[Radiant Paths/Dustbringer (Canon)/Talents/Ashspren Bond/Ashspren Bond|Ashspren Bond]]
 - [[Radiant Paths/Dustbringer (Canon)/Talents/Ashspren Bond/Second Ideal Canon Dustbringer|Second Ideal (Canon Dustbringer)]]
 
 ## Edgedancer
@@ -45,9 +50,11 @@
 - [[Radiant Paths/Edgedancer/Goals/Speak the Third Ideal|Speak the Third Ideal]]
 
 ### Edgedancer / Talents
+- [[Radiant Paths/Edgedancer/Talents/Edgedancer Talents|Edgedancer Talents]]
 - [[Radiant Paths/Edgedancer/Talents/First Ideal Edgedancer|First Ideal (Edgedancer)]]
 
 #### Edgedancer / Talents / Cultivationspren Bond
+- [[Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Cultivationspren Bond|Cultivationspren Bond]]
 - [[Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Deepened Bond|Deepened Bond]]
 - [[Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Edgedancers Grace|Edgedancer's Grace]]
 - [[Radiant Paths/Edgedancer/Talents/Cultivationspren Bond/Fourth Ideal Edgedancer|Fourth Ideal (Edgedancer)]]
@@ -67,12 +74,14 @@
 - [[Radiant Paths/Elsecaller/Goals/Speak the Third Ideal|Speak the Third Ideal]]
 
 ### Elsecaller / Talents
+- [[Radiant Paths/Elsecaller/Talents/Elsecaller Talents|Elsecaller Talents]]
 - [[Radiant Paths/Elsecaller/Talents/First Ideal Elsecaller|First Ideal (Elsecaller)]]
 
 #### Elsecaller / Talents / Inkspren Bond
 - [[Radiant Paths/Elsecaller/Talents/Inkspren Bond/Deepened Bond|Deepened Bond]]
 - [[Radiant Paths/Elsecaller/Talents/Inkspren Bond/Elsecallers Perspicacity|Elsecaller's Perspicacity]]
 - [[Radiant Paths/Elsecaller/Talents/Inkspren Bond/Fourth Ideal Elsecaller|Fourth Ideal (Elsecaller)]]
+- [[Radiant Paths/Elsecaller/Talents/Inkspren Bond/Inkspren Bond|Inkspren Bond]]
 - [[Radiant Paths/Elsecaller/Talents/Inkspren Bond/Invested|Invested]]
 - [[Radiant Paths/Elsecaller/Talents/Inkspren Bond/Second Ideal Elsecaller|Second Ideal (Elsecaller)]]
 - [[Radiant Paths/Elsecaller/Talents/Inkspren Bond/Take Squire Elsecaller|Take Squire (Elsecaller)]]
@@ -90,8 +99,10 @@
 
 ### Lightweaver / Talents
 - [[Radiant Paths/Lightweaver/Talents/First Ideal Lightweaver|First Ideal (Lightweaver)]]
+- [[Radiant Paths/Lightweaver/Talents/Lightweaver Talents|Lightweaver Talents]]
 
 #### Lightweaver / Talents / Cryptic Bond
+- [[Radiant Paths/Lightweaver/Talents/Cryptic Bond/Cryptic Bond|Cryptic Bond]]
 - [[Radiant Paths/Lightweaver/Talents/Cryptic Bond/Deepened Bond|Deepened Bond]]
 - [[Radiant Paths/Lightweaver/Talents/Cryptic Bond/Fourth Ideal Lightweaver|Fourth Ideal (Lightweaver)]]
 - [[Radiant Paths/Lightweaver/Talents/Cryptic Bond/Invested|Invested]]
@@ -112,10 +123,12 @@
 
 ### Skybreaker / Talents
 - [[Radiant Paths/Skybreaker/Talents/First Ideal Skybreaker|First Ideal (Skybreaker)]]
+- [[Radiant Paths/Skybreaker/Talents/Skybreaker Talents|Skybreaker Talents]]
 
 #### Skybreaker / Talents / Highspren Bond
 - [[Radiant Paths/Skybreaker/Talents/Highspren Bond/Deepened Bond|Deepened Bond]]
 - [[Radiant Paths/Skybreaker/Talents/Highspren Bond/Fourth Ideal Skybreaker|Fourth Ideal (Skybreaker)]]
+- [[Radiant Paths/Skybreaker/Talents/Highspren Bond/Highspren Bond|Highspren Bond]]
 - [[Radiant Paths/Skybreaker/Talents/Highspren Bond/Invested|Invested]]
 - [[Radiant Paths/Skybreaker/Talents/Highspren Bond/Second Ideal Skybreaker|Second Ideal (Skybreaker)]]
 - [[Radiant Paths/Skybreaker/Talents/Highspren Bond/Soaring Destruction|Soaring Destruction]]
@@ -132,9 +145,13 @@
 - [[Radiant Paths/Skybreaker (Nale)/Goals/Speak the Third Ideal|Speak the Third Ideal]]
 
 ### Skybreaker (Nale) / Talents
+- [[Radiant Paths/Skybreaker (Nale)/Talents/Division Talents|Division Talents]]
 - [[Radiant Paths/Skybreaker (Nale)/Talents/First Ideal Nale Skybreaker|First Ideal (Nale Skybreaker)]]
+- [[Radiant Paths/Skybreaker (Nale)/Talents/Gravitation Talents|Gravitation Talents]]
+- [[Radiant Paths/Skybreaker (Nale)/Talents/Skybreaker Nale Talents|Skybreaker (Nale) Talents]]
 
 #### Skybreaker (Nale) / Talents / Highspren Bond
+- [[Radiant Paths/Skybreaker (Nale)/Talents/Highspren Bond/Highspren Bond|Highspren Bond]]
 - [[Radiant Paths/Skybreaker (Nale)/Talents/Highspren Bond/Second Ideal Nale Skybreaker|Second Ideal (Nale Skybreaker)]]
 - [[Radiant Paths/Skybreaker (Nale)/Talents/Highspren Bond/Third Ideal Nale Skybreaker|Third Ideal (Nale Skybreaker)]]
 
@@ -149,12 +166,14 @@
 
 ### Stoneward / Talents
 - [[Radiant Paths/Stoneward/Talents/First Ideal Stoneward|First Ideal (Stoneward)]]
+- [[Radiant Paths/Stoneward/Talents/Stoneward Talents|Stoneward Talents]]
 
 #### Stoneward / Talents / Peakspren Bond
 - [[Radiant Paths/Stoneward/Talents/Peakspren Bond/Cohesive Teamwork|Cohesive Teamwork]]
 - [[Radiant Paths/Stoneward/Talents/Peakspren Bond/Deepened Bond|Deepened Bond]]
 - [[Radiant Paths/Stoneward/Talents/Peakspren Bond/Fourth Ideal Stoneward|Fourth Ideal (Stoneward)]]
 - [[Radiant Paths/Stoneward/Talents/Peakspren Bond/Invested|Invested]]
+- [[Radiant Paths/Stoneward/Talents/Peakspren Bond/Peakspren Bond|Peakspren Bond]]
 - [[Radiant Paths/Stoneward/Talents/Peakspren Bond/Second Ideal Stoneward|Second Ideal (Stoneward)]]
 - [[Radiant Paths/Stoneward/Talents/Peakspren Bond/Take Squire Stoneward|Take Squire (Stoneward)]]
 - [[Radiant Paths/Stoneward/Talents/Peakspren Bond/Third Ideal Stoneward|Third Ideal (Stoneward)]]
@@ -171,11 +190,13 @@
 
 ### Truthwatcher / Talents
 - [[Radiant Paths/Truthwatcher/Talents/First Ideal Truthwatcher|First Ideal (Truthwatcher)]]
+- [[Radiant Paths/Truthwatcher/Talents/Truthwatcher Talents|Truthwatcher Talents]]
 
 #### Truthwatcher / Talents / Mistspren Bond
 - [[Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Deepened Bond|Deepened Bond]]
 - [[Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Fourth Ideal Truthwatcher|Fourth Ideal (Truthwatcher)]]
 - [[Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Invested|Invested]]
+- [[Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Mistspren Bond|Mistspren Bond]]
 - [[Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Second Ideal Truthwatcher|Second Ideal (Truthwatcher)]]
 - [[Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Spiritual Healing|Spiritual Healing]]
 - [[Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Take Squire Truthwatcher|Take Squire (Truthwatcher)]]
@@ -187,9 +208,11 @@
 
 ### Truthwatcher (Enlightened) / Talents
 - [[Radiant Paths/Truthwatcher (Enlightened)/Talents/Future Sight|Future Sight]]
+- [[Radiant Paths/Truthwatcher (Enlightened)/Talents/Truthwatcher Enlightened Talents|Truthwatcher (Enlightened) Talents]]
 
 #### Truthwatcher (Enlightened) / Talents / Enlightened Talents
 - [[Radiant Paths/Truthwatcher (Enlightened)/Talents/Enlightened Talents/Alter Fortune|Alter Fortune]]
+- [[Radiant Paths/Truthwatcher (Enlightened)/Talents/Enlightened Talents/Enlightened Talents|Enlightened Talents]]
 - [[Radiant Paths/Truthwatcher (Enlightened)/Talents/Enlightened Talents/Glimpse The Future|Glimpse The Future]]
 - [[Radiant Paths/Truthwatcher (Enlightened)/Talents/Enlightened Talents/Search the Past|Search the Past]]
 - [[Radiant Paths/Truthwatcher (Enlightened)/Talents/Enlightened Talents/Vision Void|Vision Void]]
@@ -205,11 +228,13 @@
 
 ### Willshaper / Talents
 - [[Radiant Paths/Willshaper/Talents/First Ideal Willshaper|First Ideal (Willshaper)]]
+- [[Radiant Paths/Willshaper/Talents/Willshaper Talents|Willshaper Talents]]
 
 #### Willshaper / Talents / Lightspren Bond
 - [[Radiant Paths/Willshaper/Talents/Lightspren Bond/Deepened Bond|Deepened Bond]]
 - [[Radiant Paths/Willshaper/Talents/Lightspren Bond/Fourth Ideal Willshaper|Fourth Ideal (Willshaper)]]
 - [[Radiant Paths/Willshaper/Talents/Lightspren Bond/Invested|Invested]]
+- [[Radiant Paths/Willshaper/Talents/Lightspren Bond/Lightspren Bond|Lightspren Bond]]
 - [[Radiant Paths/Willshaper/Talents/Lightspren Bond/Second Ideal Willshaper|Second Ideal (Willshaper)]]
 - [[Radiant Paths/Willshaper/Talents/Lightspren Bond/Spiritual Cohesion|Spiritual Cohesion]]
 - [[Radiant Paths/Willshaper/Talents/Lightspren Bond/Take Squire Willshaper|Take Squire (Willshaper)]]
@@ -227,10 +252,12 @@
 
 ### Windrunner / Talents
 - [[Radiant Paths/Windrunner/Talents/First Ideal Windrunner|First Ideal (Windrunner)]]
+- [[Radiant Paths/Windrunner/Talents/Windrunner Talents|Windrunner Talents]]
 
 #### Windrunner / Talents / Honorspren Bond
 - [[Radiant Paths/Windrunner/Talents/Honorspren Bond/Deepened Bond|Deepened Bond]]
 - [[Radiant Paths/Windrunner/Talents/Honorspren Bond/Fourth Ideal Windrunner|Fourth Ideal (Windrunner)]]
+- [[Radiant Paths/Windrunner/Talents/Honorspren Bond/Honorspren Bond|Honorspren Bond]]
 - [[Radiant Paths/Windrunner/Talents/Honorspren Bond/Invested|Invested]]
 - [[Radiant Paths/Windrunner/Talents/Honorspren Bond/Reverse Lashing|Reverse Lashing]]
 - [[Radiant Paths/Windrunner/Talents/Honorspren Bond/Second Ideal Windrunner|Second Ideal (Windrunner)]]

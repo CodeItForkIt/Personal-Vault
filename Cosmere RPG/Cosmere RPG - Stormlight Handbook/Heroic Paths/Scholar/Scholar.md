@@ -6,7 +6,7 @@ category: "Scholar"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "path"]
 aliases: ["Scholar"]
 ---
-![[scholar.webp|64]]
+# Scholar
 
 Creativity, acumen, and patience are hallmarks of legendary Scholars. Each time a Desolation sweeps away centuries of progress and scientific advancement, Scholars rise to build Roshar anew.
 

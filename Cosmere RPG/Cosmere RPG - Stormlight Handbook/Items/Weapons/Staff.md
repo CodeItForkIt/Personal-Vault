@@ -6,7 +6,7 @@ category: "Weapons"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "weapon"]
 aliases: ["Staff"]
 ---
-![[ICON_Staff.webp|64]]
+# Staff
 
 **Damage** 1d6 impact; **Range** Melee; **Traits** Discreet, Two-Handed; **Expert Traits** Defensive;
 

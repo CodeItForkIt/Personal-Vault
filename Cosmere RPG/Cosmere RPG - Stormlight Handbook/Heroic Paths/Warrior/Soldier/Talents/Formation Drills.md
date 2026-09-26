@@ -6,9 +6,9 @@ category: "Warrior / Soldier / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Formation Drills"]
 ---
-![[infantry-army.webp|64]]
+# Formation Drills
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You coordinate your allies to march in a defensive formation with you.*
 

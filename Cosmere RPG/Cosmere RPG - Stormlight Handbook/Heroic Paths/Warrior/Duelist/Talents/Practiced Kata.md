@@ -6,9 +6,9 @@ category: "Warrior / Duelist / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Practiced Kata"]
 ---
-![[maneuver-daggers-paired-orange.webp|64]]
+# Practiced Kata
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *Your study of martial kata and other forms has taught you that your stance in conversation is as important as in battle. With practiced poise, you project the exact attitude you want through body language and positioning.*
 

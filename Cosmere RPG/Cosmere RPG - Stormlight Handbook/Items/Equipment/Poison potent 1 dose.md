@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Poison (potent, 1 dose)"]
 ---
-![[potion-jar-corked-labeled-poison-skull-green.webp|64]]
+# Poison (potent, 1 dose)
 
 **Price** 120 mk; **Weight** 0.2 lb.;
 

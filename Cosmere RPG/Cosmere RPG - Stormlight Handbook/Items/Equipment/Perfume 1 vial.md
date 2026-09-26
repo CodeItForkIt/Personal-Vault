@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Perfume (1 vial)"]
 ---
-![[potion-bottle-labeled-stopped-purple.webp|64]]
+# Perfume (1 vial)
 
 **Price** 20 mk; **Weight** 0.5 lb.;
 

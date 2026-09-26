@@ -6,9 +6,9 @@ category: "Cohesion Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Sinkhole"]
 ---
-![[projectile-stone-landslide.webp|64]]
+# Sinkhole
 
-**Activation:** One Action
+**Activation:** 1
 
 *You cause the ground to soften so quickly that it can catch anyone standing in it by surprise.*
 

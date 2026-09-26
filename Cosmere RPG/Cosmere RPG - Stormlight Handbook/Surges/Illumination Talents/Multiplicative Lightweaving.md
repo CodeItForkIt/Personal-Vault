@@ -6,9 +6,9 @@ category: "Illumination Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Multiplicative Lightweaving"]
 ---
-![[projectiles-trio-pink.webp|64]]
+# Multiplicative Lightweaving
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You effortlessly Lightweave multiple illusions at once.*
 

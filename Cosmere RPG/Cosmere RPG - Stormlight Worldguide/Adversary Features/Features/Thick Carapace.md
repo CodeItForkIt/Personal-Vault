@@ -6,7 +6,7 @@ category: "Features"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "trait"]
 aliases: ["Thick Carapace"]
 ---
-![[armor-stone-skin.webp|64]]
+# Thick Carapace
 
 The Actor Name has a natural deflect value of 4.
 

@@ -6,9 +6,9 @@ category: "Leader"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Decisive Command"]
 ---
-![[mouth-teeth-human.webp|64]]
+# Decisive Command
 
-**Activation:** One Action
+**Activation:** 1
 
 *Your voice carries the certainty of steel and your tactical acumen is renowned. This battle-won wisdom benefits those who listen.*
 

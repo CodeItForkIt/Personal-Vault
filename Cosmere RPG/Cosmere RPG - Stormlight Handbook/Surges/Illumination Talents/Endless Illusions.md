@@ -6,9 +6,9 @@ category: "Illumination Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Endless Illusions"]
 ---
-![[clock-stopwatch-white-blue.webp|64]]
+# Endless Illusions
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You’ve become so efficient at powering your illusions that you can maintain them indefinitely.*
 

@@ -6,7 +6,7 @@ category: "Uncommon"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "action"]
 aliases: ["Drain Light"]
 ---
-![[energy-smoke-pink.webp|64]]
+# Drain Light
 
 If the Actor Name isn't at full Investiture, they choose one of the following targets within 5 feet of them, draining the chosen target of power:
 

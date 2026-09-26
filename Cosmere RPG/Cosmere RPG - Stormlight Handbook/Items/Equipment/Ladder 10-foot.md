@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Ladder (10-foot)"]
 ---
-![[ladder.webp|64]]
+# Ladder (10-foot)
 
 **Price** 5 mk; **Weight** 20 lb.;
 

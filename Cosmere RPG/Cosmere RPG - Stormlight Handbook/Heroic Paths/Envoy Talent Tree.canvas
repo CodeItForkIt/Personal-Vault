@@ -1,0 +1,422 @@
+{
+  "nodes": [
+    {
+      "id": "hmmT2sqwX4k2w325",
+      "type": "file",
+      "file": "Heroic Paths/Envoy/Faithful/Talents/Applied Motivation.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "3k8dacQz08IUfI4D",
+      "type": "file",
+      "file": "Heroic Paths/Envoy/Faithful/Talents/Composed.md",
+      "x": 680,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "ESKKSdPMUOEQnIaZ",
+      "type": "file",
+      "file": "Heroic Paths/Envoy/Faithful/Talents/Devoted Presence.md",
+      "x": 680,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "Ye6u1dCDP438KycH",
+      "type": "file",
+      "file": "Heroic Paths/Envoy/Mentor/Talents/Lessons in Patience.md",
+      "x": 680,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "2GOOEZpX05MJipLT",
+      "type": "file",
+      "file": "Heroic Paths/Envoy/Mentor/Talents/Mighty.md",
+      "x": 680,
+      "y": 480,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "p6M9mnkmuY6mjnui",
+      "type": "file",
+      "file": "Heroic Paths/Envoy/Diplomat/Talents/Well Dressed.md",
+      "x": 680,
+      "y": 600,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "bbHjsLZOmr22Gyc4",
+      "type": "file",
+      "file": "Heroic Paths/Envoy/Diplomat/Talents/Withering Retort.md",
+      "x": 680,
+      "y": 720,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "ObDHVO8mAqRCbvya",
+      "type": "file",
+      "file": "Heroic Paths/Envoy/Diplomat/Talents/Calm Appeal.md",
+      "x": 1020,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "CViS3Cni3SQy4QlA",
+      "type": "file",
+      "file": "Heroic Paths/Envoy/Mentor/Talents/Guiding Oration.md",
+      "x": 1020,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "HcYB0IRxKJWjNOa7",
+      "type": "file",
+      "file": "Heroic Paths/Envoy/Diplomat/Talents/High Society Contacts.md",
+      "x": 1020,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "VLNxoXkPD8zvTYfL",
+      "type": "file",
+      "file": "Heroic Paths/Envoy/Mentor/Talents/Instill Confidence.md",
+      "x": 1020,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "dMYQ161k4zraNd1x",
+      "type": "file",
+      "file": "Heroic Paths/Envoy/Faithful/Talents/Stalwart Presence.md",
+      "x": 1020,
+      "y": 480,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "cdhfShE66P7P5oqp",
+      "type": "file",
+      "file": "Heroic Paths/Envoy/Mentor/Talents/Foresight.md",
+      "x": 1360,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "xCI4k8HNGxdInzes",
+      "type": "file",
+      "file": "Heroic Paths/Envoy/Faithful/Talents/Inspired Zeal.md",
+      "x": 1360,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "IVzW4LwsIDeHQoyz",
+      "type": "file",
+      "file": "Heroic Paths/Envoy/Diplomat/Talents/Peaceful Solution.md",
+      "x": 1360,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "FVoAVaOh6sqFjkPz",
+      "type": "file",
+      "file": "Heroic Paths/Envoy/Diplomat/Talents/Practiced Oratory.md",
+      "x": 1360,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "m2zTcFxTXqXc6kEg",
+      "type": "file",
+      "file": "Heroic Paths/Envoy/Mentor/Talents/Rallying Shout.md",
+      "x": 1360,
+      "y": 480,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "6x9Sl6OUTqqbZ0wR",
+      "type": "file",
+      "file": "Heroic Paths/Envoy/Faithful/Talents/Sage Counsel.md",
+      "x": 1360,
+      "y": 600,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "lpv2iV9hjCCe4AOo",
+      "type": "file",
+      "file": "Heroic Paths/Envoy/Diplomat/Talents/Collected.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "DcbAqyCzZGSmG8CG",
+      "type": "file",
+      "file": "Heroic Paths/Envoy/Faithful/Talents/Customary Garb.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "a7JxaGktFBomRJdd",
+      "type": "file",
+      "file": "Heroic Paths/Envoy/Faithful/Talents/Galvanize.md",
+      "x": 340,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "ezvWrjI2yp1L6aTR",
+      "type": "file",
+      "file": "Heroic Paths/Envoy/Mentor/Talents/Practical Demonstration.md",
+      "x": 340,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "A1XdcT5s9G97pDGt",
+      "type": "file",
+      "file": "Heroic Paths/Envoy/Mentor/Talents/Sound Advice.md",
+      "x": 340,
+      "y": 480,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "4DGwBZ4uDLTaKql2",
+      "type": "file",
+      "file": "Heroic Paths/Envoy/Diplomat/Talents/Steadfast Challenge.md",
+      "x": 340,
+      "y": 600,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "l4wRQT2MH0SsxmRQ",
+      "type": "file",
+      "file": "Heroic Paths/Envoy/Rousing Presence.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "ezvWrjI2yp1L6aTR",
+      "fromSide": "right",
+      "toNode": "2GOOEZpX05MJipLT",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "a7JxaGktFBomRJdd",
+      "fromSide": "right",
+      "toNode": "3k8dacQz08IUfI4D",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "l4wRQT2MH0SsxmRQ",
+      "fromSide": "right",
+      "toNode": "4DGwBZ4uDLTaKql2",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "dMYQ161k4zraNd1x",
+      "fromSide": "right",
+      "toNode": "6x9Sl6OUTqqbZ0wR",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "l4wRQT2MH0SsxmRQ",
+      "fromSide": "right",
+      "toNode": "A1XdcT5s9G97pDGt",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "2GOOEZpX05MJipLT",
+      "fromSide": "right",
+      "toNode": "CViS3Cni3SQy4QlA",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "l4wRQT2MH0SsxmRQ",
+      "fromSide": "right",
+      "toNode": "DcbAqyCzZGSmG8CG",
+      "toSide": "left"
+    },
+    {
+      "id": "edge7",
+      "fromNode": "DcbAqyCzZGSmG8CG",
+      "fromSide": "right",
+      "toNode": "ESKKSdPMUOEQnIaZ",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge8",
+      "fromNode": "HcYB0IRxKJWjNOa7",
+      "fromSide": "right",
+      "toNode": "FVoAVaOh6sqFjkPz",
+      "toSide": "left"
+    },
+    {
+      "id": "edge9",
+      "fromNode": "p6M9mnkmuY6mjnui",
+      "fromSide": "right",
+      "toNode": "HcYB0IRxKJWjNOa7",
+      "toSide": "left"
+    },
+    {
+      "id": "edge10",
+      "fromNode": "ObDHVO8mAqRCbvya",
+      "fromSide": "right",
+      "toNode": "IVzW4LwsIDeHQoyz",
+      "toSide": "left"
+    },
+    {
+      "id": "edge11",
+      "fromNode": "bbHjsLZOmr22Gyc4",
+      "fromSide": "right",
+      "toNode": "ObDHVO8mAqRCbvya",
+      "toSide": "left"
+    },
+    {
+      "id": "edge12",
+      "fromNode": "Ye6u1dCDP438KycH",
+      "fromSide": "right",
+      "toNode": "VLNxoXkPD8zvTYfL",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge13",
+      "fromNode": "A1XdcT5s9G97pDGt",
+      "fromSide": "right",
+      "toNode": "Ye6u1dCDP438KycH",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge14",
+      "fromNode": "l4wRQT2MH0SsxmRQ",
+      "fromSide": "right",
+      "toNode": "a7JxaGktFBomRJdd",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge15",
+      "fromNode": "4DGwBZ4uDLTaKql2",
+      "fromSide": "right",
+      "toNode": "bbHjsLZOmr22Gyc4",
+      "toSide": "left"
+    },
+    {
+      "id": "edge16",
+      "fromNode": "VLNxoXkPD8zvTYfL",
+      "fromSide": "right",
+      "toNode": "cdhfShE66P7P5oqp",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge17",
+      "fromNode": "ESKKSdPMUOEQnIaZ",
+      "fromSide": "right",
+      "toNode": "dMYQ161k4zraNd1x",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge18",
+      "fromNode": "l4wRQT2MH0SsxmRQ",
+      "fromSide": "right",
+      "toNode": "ezvWrjI2yp1L6aTR",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge19",
+      "fromNode": "a7JxaGktFBomRJdd",
+      "fromSide": "right",
+      "toNode": "hmmT2sqwX4k2w325",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge20",
+      "fromNode": "l4wRQT2MH0SsxmRQ",
+      "fromSide": "right",
+      "toNode": "lpv2iV9hjCCe4AOo",
+      "toSide": "left"
+    },
+    {
+      "id": "edge21",
+      "fromNode": "CViS3Cni3SQy4QlA",
+      "fromSide": "right",
+      "toNode": "m2zTcFxTXqXc6kEg",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge22",
+      "fromNode": "4DGwBZ4uDLTaKql2",
+      "fromSide": "right",
+      "toNode": "p6M9mnkmuY6mjnui",
+      "toSide": "left"
+    },
+    {
+      "id": "edge23",
+      "fromNode": "hmmT2sqwX4k2w325",
+      "fromSide": "right",
+      "toNode": "xCI4k8HNGxdInzes",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge24",
+      "fromNode": "dMYQ161k4zraNd1x",
+      "fromSide": "right",
+      "toNode": "xCI4k8HNGxdInzes",
+      "toSide": "left",
+      "label": "or"
+    }
+  ]
+}

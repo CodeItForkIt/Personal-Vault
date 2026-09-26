@@ -6,9 +6,9 @@ category: "Envoy / Faithful / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Inspired Zeal"]
 ---
-![[flame-burning-fist-strike.webp|64]]
+# Inspired Zeal
 
-**Activation:** undefined
+**Activation:** \*
 
 *When an ally achieves new heights, your proclamations of their success inspire those around you.*
 

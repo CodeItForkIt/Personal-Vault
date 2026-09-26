@@ -1,0 +1,170 @@
+{
+  "nodes": [
+    {
+      "id": "9N6bkFgk0ZYRjzcH",
+      "type": "file",
+      "file": "Metallic Arts/Electrum/Talents/Feruchemy/Adamant Resolve.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "uTzX7zIpL0yJEE0S",
+      "type": "file",
+      "file": "Metallic Arts/Electrum/Talents/Feruchemy/Endless Agreeability.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "RXYRUweXQY3rNaNz",
+      "type": "file",
+      "file": "Metallic Arts/Electrum/Talents/Feruchemy/Intensity of Purpose.md",
+      "x": 340,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "n4bnTauW3BAkhV2E",
+      "type": "file",
+      "file": "Metallic Arts/Electrum/Talents/Allomancy/Proactive Oracle.md",
+      "x": 340,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "aM1pOPMONfOQNvve",
+      "type": "file",
+      "file": "Metallic Arts/Electrum/Talents/Allomancy/Prophetic Electrum.md",
+      "x": 340,
+      "y": 480,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "SkKqW49GrnOIHlID",
+      "type": "file",
+      "file": "Metallic Arts/Electrum/Talents/Allomancy/Slippery Target.md",
+      "x": 340,
+      "y": 600,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "usIM4vYKqpPsiOvr",
+      "type": "file",
+      "file": "Metallic Arts/Electrum/Talents/Feruchemy/Go With the Flow.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "yZpy9CpYPTxKvCk2",
+      "type": "file",
+      "file": "Metallic Arts/Electrum/Talents/Feruchemy/Hardened Will.md",
+      "x": 0,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "QocJUhQHQ0SSAO4D",
+      "type": "file",
+      "file": "Metallic Arts/Electrum/Talents/Allomancy/Lingering Shadows.md",
+      "x": 0,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "3289IR7SwVjPhBH3",
+      "type": "file",
+      "file": "Metallic Arts/Electrum/Talents/Allomancy/Prescient Reactions.md",
+      "x": 0,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "zEC4L0citlNn2JJN",
+      "type": "file",
+      "file": "Metallic Arts/Electrum/Talents/Feruchemy/Indomitable Essence.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "Wf4H25fE3SlSq8Ct",
+      "type": "file",
+      "file": "Metallic Arts/Electrum/Talents/Allomancy/Theoretical Exercise.md",
+      "x": 680,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "yZpy9CpYPTxKvCk2",
+      "fromSide": "right",
+      "toNode": "9N6bkFgk0ZYRjzcH",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "yZpy9CpYPTxKvCk2",
+      "fromSide": "right",
+      "toNode": "RXYRUweXQY3rNaNz",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "3289IR7SwVjPhBH3",
+      "fromSide": "right",
+      "toNode": "SkKqW49GrnOIHlID",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "n4bnTauW3BAkhV2E",
+      "fromSide": "right",
+      "toNode": "Wf4H25fE3SlSq8Ct",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "3289IR7SwVjPhBH3",
+      "fromSide": "right",
+      "toNode": "aM1pOPMONfOQNvve",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "QocJUhQHQ0SSAO4D",
+      "fromSide": "right",
+      "toNode": "n4bnTauW3BAkhV2E",
+      "toSide": "left"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "usIM4vYKqpPsiOvr",
+      "fromSide": "right",
+      "toNode": "uTzX7zIpL0yJEE0S",
+      "toSide": "left"
+    },
+    {
+      "id": "edge7",
+      "fromNode": "RXYRUweXQY3rNaNz",
+      "fromSide": "right",
+      "toNode": "zEC4L0citlNn2JJN",
+      "toSide": "left"
+    }
+  ]
+}

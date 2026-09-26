@@ -6,7 +6,7 @@ category: "Surges / Tension"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-stonewalkers", "talent"]
 aliases: ["Extended Tension"]
 ---
-![[lava-stone-fire-yellow.webp|64]]
+# Extended Tension
 
 **Prerequisite:** [[Items/Surges/Tension/Stormlight Reclamation|Stormlight Reclamation]] talent
 

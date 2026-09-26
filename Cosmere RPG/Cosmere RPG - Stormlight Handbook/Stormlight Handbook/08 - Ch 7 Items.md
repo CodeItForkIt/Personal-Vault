@@ -88,18 +88,6 @@ Even more importantly, Radiants can draw Stormlight out of the gems to fuel Radi
 
 During step 6 of character creation, you choose one of the following sets of equipment. Each starting kit grants items such as spheres (roll the dice indicated to determine how many marks you start with), weapons or armor (see the [[Stormlight Handbook/08 - Ch 7 Items|Weapons]] tables and [[Stormlight Handbook/08 - Ch 7 Items|Armor]] table later in this chapter), other equipment (see the [[Stormlight Handbook/08 - Ch 7 Items|Equipment]] table later in this chapter), and more.
 
-[[Items/Starting Kits/Academic Kit|Academic Kit]]
-
-[[Items/Starting Kits/Artisan Kit|Artisan Kit]]
-
-[[Items/Starting Kits/Military Kit|Military Kit]]
-
-[[Items/Starting Kits/Courtier Kit|Courtier Kit]]
-
-[[Items/Starting Kits/Prisoner Kit|Prisoner Kit]]
-
-[[Items/Starting Kits/Underworld Kit|Underworld Kit]]
-
 ## Weapons
 
 Since the arrival of the Everstorm, it’s dangerous to travel unarmed, and even the most peaceful characters often take up weapons for self-defense.
@@ -179,19 +167,19 @@ These rules apply to any weapon with that trait listed in its entry on the Weapo
 
 **Cumbersome [X].** To wield this weapon easily, your Strength score must be equal to or greater than the number indicated in brackets. If your Strength is lower than that number, you gain a disadvantage on all attacks using this weapon and are Slowed while wielding it.
 
-**Dangerous.** The GM can spend Complication from an attack with this weapon to cause you to also accidentally graze an ally within the weapon’s reach or range. This deals the usual damage for a graze.
+**Dangerous.** The GM can spend C from an attack with this weapon to cause you to also accidentally graze an ally within the weapon’s reach or range. This deals the usual damage for a graze.
 
-**Deadly.** When you hit a target with this weapon, you can spend Opportunity to cause the target to immediately suffer an injury.
+**Deadly.** When you hit a target with this weapon, you can spend O to cause the target to immediately suffer an injury.
 
 **Defensive.** While wielding this weapon, you can use the [[Actions/Basic/Brace|Brace]] action without cover nearby.
 
 **Discreet.** This weapon is less obtrusive than others, and thus less likely to be confiscated in secure settings. In non-combat scenes, you gain an advantage on any test you make to disguise this weapon, to hide it on your person, or to convince others not to take it from you.
 
-**Fragile.** When you attack with this weapon, the GM can spend Complication to cause it to break after the attack is resolved.
+**Fragile.** When you attack with this weapon, the GM can spend C to cause it to break after the attack is resolved.
 
 **Indirect.** This ranged weapon can arc shots over cover and obscuring terrain. If a target isn’t in your line of effect but you can sense them, you can still attack them with this weapon if there’s a reasonably open path for your projectile to indirectly arc to them. Your target can’t benefit from the [[Actions/Basic/Brace|Brace]] action against attacks made with this weapon.
 
-**Loaded [X].** This weapon stores ammunition equal to the number indicated in brackets. To make a ranged attack with this weapon, you must spend 1 stored ammunition. As 1, you can reload this weapon to full ammunition. The GM can spend Complication from an attack with this weapon to reduce your stored ammunition; after they do, the weapon only has only one shot remaining.
+**Loaded [X].** This weapon stores ammunition equal to the number indicated in brackets. To make a ranged attack with this weapon, you must spend 1 stored ammunition. As 1, you can reload this weapon to full ammunition. The GM can spend C from an attack with this weapon to reduce your stored ammunition; after they do, the weapon only has only one shot remaining.
 
 **Momentum.** When you attack using this weapon, if you already moved at least 10 feet in a straight line toward your target on this turn, you gain an advantage on the attack.
 
@@ -313,7 +301,7 @@ Rosharan [[Items/Weapons/Warhammer|Warhammers]] have hafts as thick as a warrior
 
 **Unique Traits.** If you have the Warhammer specialist expertise, add the following special expert trait:
 
-**Crushing Weight.** When you hit a character of your size or smaller with an attack using this weapon, you can also push them horizontally up to 10 feet. When you do, you can also spend Opportunity to choose any number of other characters of your size or smaller within your reach, pushing them the same direction and distance.
+**Crushing Weight.** When you hit a character of your size or smaller with an attack using this weapon, you can also push them horizontally up to 10 feet. When you do, you can also spend O to choose any number of other characters of your size or smaller within your reach, pushing them the same direction and distance.
 
 ## Armor
 
@@ -343,7 +331,7 @@ These rules apply to any armor with that trait listed in its entry on the Armor 
 
 **Cumbersome [X].** To wear this armor easily, your Strength score must be equal to or greater than the number indicated in brackets. If your Strength is lower than that number, you’re [[Stormlight Handbook/10 - Ch 9 Adventuring#Slowed|Slowed]] while wearing this armor and you gain a disadvantage on all tests that use your Speed attribute.
 
-**Dangerous.** The GM can spend Complication that you gain while wearing this armor to cause your uncontrolled motion to injure an ally with 5 feet of you, dealing 2d6 impact damage.
+**Dangerous.** The GM can spend C that you gain while wearing this armor to cause your uncontrolled motion to injure an ally with 5 feet of you, dealing 2d6 impact damage.
 
 **Presentable.** This unobtrusive armor is presentable to wear in public in a non-military context. You don’t suffer undue attention for wearing this armor or gain a disadvantage on tests for doing so in conversations.
 
@@ -367,7 +355,7 @@ Transporting Shardplate can also be difficult due to its weight, usually requiri
 
 **Charges (4 charges).** Shardplate reinforces itself using Stormlight from its gems. An average set of Shardplate has 4 charges (though special sets might have more). Before you take damage while wearing Shardplate, you can expend a charge to increase your deflect value against that damage by 10. While the armor has at least 1 charge, it is Invested. When the armor runs out of charges, it no longer functions correctly; until recharged, it gains the Cumbersome [6] trait, and it loses the Enhanced Attributes and Invested Ability Protection traits.
 
-**Breakable.** Lucky hits against Shardplate can shatter plates of the armor, causing Stormlight to leak out. After you’re hit by an attack while wearing Shardplate, your opponent can spend Opportunity from that attack to cause your Shardplate to lose 1 charge.
+**Breakable.** Lucky hits against Shardplate can shatter plates of the armor, causing Stormlight to leak out. After you’re hit by an attack while wearing Shardplate, your opponent can spend O from that attack to cause your Shardplate to lose 1 charge.
 
 **Recharging.** Shardplate can be recharged in the usual manner (see [[Stormlight Handbook/08 - Ch 7 Items|Using Items]] at the beginning of this chapter), either via unencased gems or a Radiant. However, Shardplate charges require significantly more Investiture than most fabrials, requiring 5 Investiture or 5 gems (instead of 1) to restore a single charge.
 
@@ -485,7 +473,7 @@ You can use an [[Actions/Basic/Interact|Interact]] action to attach the grapplin
 
 **[[Items/Equipment/Lock and Key|Lock and Key.]]** This sturdy lock can be opened with its included key or a successful DC 20 Thievery test. At the GM’s discretion, locks that require higher DCs may be available at higher prices.
 
-**[[Items/Equipment/Lockpick|Lockpick.]]** You can use a lockpick to gain an advantage on Thievery tests made to pick a lock. After this test is resolved, the GM can spend Complication to cause the lockpick to break.
+**[[Items/Equipment/Lockpick|Lockpick.]]** You can use a lockpick to gain an advantage on Thievery tests made to pick a lock. After this test is resolved, the GM can spend C to cause the lockpick to break.
 
 **[[Items/Equipment/Magnifying Lens|Magnifying Lens.]]** You can use a magnifying lens to gain an advantage on skill tests made to appraise or inspect a small or highly detailed item.
 
@@ -637,7 +625,7 @@ The heatrial expends charges based on what temperature it is set to. For comfort
 
 **[[Items/Fabrials/Standard/Painrial amplifying|Painrial ]](amplifying; 3 charges).** The amplifying painrial increases a target’s sense of pain. It is a melee weapon that uses the Light Weaponry skill and deals 1d6 vital damage. On a hit, you can spend 1 charge to add your skill modifier to the damage one additional time.
 
-**[[Items/Fabrials/Standard/Painrial numbing|Painrial]] (numbing; 3 charges).** The numbing painrial decreases the wearer’s sense of pain. Before you take damage while wearing the painrial, you can use Reaction and spend 1 charge to reduce the damage by 1d4.
+**[[Items/Fabrials/Standard/Painrial numbing|Painrial]] (numbing; 3 charges).** The numbing painrial decreases the wearer’s sense of pain. Before you take damage while wearing the painrial, you can use r and spend 1 charge to reduce the damage by 1d4.
 
 **[[Items/Fabrials/Standard/Repeller|Repeller]] (5 charges).** Each repeller is attuned to a particular Essence or material—such as water, smoke, or another Essence. While activated, the fabrial weakly pushes away the attuned material within a specific radius. Both the material it repels and the radius are determined when the repeller is created. If the repeller is heavier, it pushes the attuned material away from it at a rate of 1 foot per round, until the material is outside the repeller’s radius. If the material is heavier, the repeller instead pushes itself away from the material. This fabrial can’t affect anything being worn or carried by a character. A repeller expends 1 charge for each hour it is active.
 
@@ -657,7 +645,7 @@ When you touch the Soulcaster to an object you want to transform, then tap one o
 
 If a non-Radiant character practices with a Soulcaster long enough, the GM might allow them to invest skill ranks into Transformation when they gain a level, but they still need the Soulcaster to use the surge.
 
-Soulcasters contain three gemstones that they need to function. The vast amounts of Investiture used can cause them to crack. The GM can spend Complication from using the Soulcaster to cause one gem to break. A broken gem must be replaced before the Soulcaster can be used again; doing so requires several hours of work from someone with the Fabrial Crafting specialist expertise.
+Soulcasters contain three gemstones that they need to function. The vast amounts of Investiture used can cause them to crack. The GM can spend C from using the Soulcaster to cause one gem to break. A broken gem must be replaced before the Soulcaster can be used again; doing so requires several hours of work from someone with the Fabrial Crafting specialist expertise.
 
 ![[STORMLIGHT_ITEM_Soulcaster_VINCENT DUTRAIT.webp]]
 
@@ -867,11 +855,9 @@ This section presents the effects you can select for your unique fabrial. The Un
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Unique Fabrial Effect]]
 
-[[Items/Fabrials/Unique Effects/Accelerator|Accelerator]]
+**Armor Augmenter**
 
-[[Items/Fabrials/Unique Effects/Armor Augmenter|Armor Augmenter]]
-
-[[Items/Fabrials/Unique Effects/Ascender|Ascender]]
+**Ascender**
 
 ![[pg271_Custom_fabrials_illustration_MARIE SEEBERGER & SAMI RYTKÖNEN.webp]]
 
@@ -879,30 +865,30 @@ This section presents the effects you can select for your unique fabrial. The Un
 
 *"The glove locked into place. She released one of the distant weights, then carefully relaxed her fist, and the distant weight slowly moved down. Navani went up."*
 
-[[Items/Fabrials/Unique Effects/Bindrial Area|Bindrial (Area)]]
+**Bindrial (Area)**
 
-[[Items/Fabrials/Unique Effects/Bindrial Self|Bindrial (Self)]]
+**Bindrial (Self)**
 
-[[Items/Fabrials/Unique Effects/Compressor|Compressor]]
+**Compressor**
 
-[[Items/Fabrials/Unique Effects/Cremrial|Cremrial]]
+**Cremrial**
 
-[[Items/Fabrials/Unique Effects/Cultivator|Cultivator]]
+**Cultivator**
 
-[[Items/Fabrials/Unique Effects/Disruptor|Disruptor]]
+**Disruptor**
 
-[[Items/Fabrials/Unique Effects/Drainer|Drainer]]
+**Drainer**
 
-[[Items/Fabrials/Unique Effects/Liferial|Liferial]]
+**Liferial**
 
-[[Items/Fabrials/Unique Effects/Lightrial|Lightrial]]
+**Lightrial**
 
-[[Items/Fabrials/Unique Effects/Painrial AmplifyingNumbing|Painrial (Amplifying/Numbing)]]
+**Painrial (Amplifying/Numbing)**
 
 ![[STORMLIGHT_ITEM_Painrial_Augmenter_VINCENT DUTRAIT.webp]]![[STORMLIGHT_ITEM_Painrial_Diminisher_VINCENT DUTRAIT.webp]]
 
 **Painrials - VINCENT DUTRAIT**
 
-[[Items/Fabrials/Unique Effects/Projectile|Projectile]]
+**Projectile**
 
-[[Items/Fabrials/Unique Effects/Surge Fabrial|Surge Fabrial]]
+**Surge Fabrial**

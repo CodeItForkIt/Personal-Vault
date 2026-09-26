@@ -6,7 +6,7 @@ category: "Weapons"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "weapon"]
 aliases: ["Longspear"]
 ---
-![[ICON_longspear.webp|64]]
+# Longspear
 
 **Damage** 1d8 keen; **Range** Melee [+5]; **Traits** Two-Handed; **Expert Traits** Defensive;
 

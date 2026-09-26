@@ -6,6 +6,6 @@ category: "Loot"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "loot"]
 aliases: ["Heliodor Broam"]
 ---
-![[sphere_heliodor_broam.webp|64]]
+# Heliodor Broam
 
 

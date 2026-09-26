@@ -6,7 +6,7 @@ category: "Uncategorized"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "culture"]
 aliases: ["Herdazian"]
 ---
-![[herdazian-t.webp|64]]
+# Herdazian
 
 Herdaz is a verdant nation ruled by a monarch. Most of its territory is taken up by its two hundred and three hog ranches, for which Herdaz is famous. There are also large diasporas of Herdazians in neighboring nations, as nearly half of their population has left their ancestral land seeking opportunities or refuge from a long history of foreign occupation. It’s common for fellow Herdazians in foreign lands to warmly greet each other as cousins.
 

@@ -6,9 +6,9 @@ category: "Lightweaver / Talents / Cryptic Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Invested"]
 ---
-![[silhouette-hold-change-blue.webp|64]]
+# Invested
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You learn to hold and wield greater quantities of Stormlight within yourself.*
 

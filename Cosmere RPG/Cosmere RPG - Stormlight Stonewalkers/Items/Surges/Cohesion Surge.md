@@ -6,7 +6,7 @@ category: "Surges"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-stonewalkers", "power"]
 aliases: ["Cohesion Surge"]
 ---
-![[Cohesion_Surge-glyph.svg|64]]
+# Cohesion Surge
 
 The surge of Cohesion allows you to alter objects down to their very axi—the particles that make up all matter. Often known as Stoneshaping, Cohesion allows even its most inexperienced wielders to mold stone as if it were soft clay.
 

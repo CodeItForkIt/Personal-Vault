@@ -6,9 +6,9 @@ category: "Dustbringer / Talents / Ashspren Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Searing Dust Storm"]
 ---
-![[blast-jet-stream-embers-red.webp|64]]
+# Searing Dust Storm
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You combine the mobility of Abrasion with the destruction of Division to leave trails of dust in your wake. These stinging storms assail enemies foolish enough to enter, leaving them open to attack.*
 

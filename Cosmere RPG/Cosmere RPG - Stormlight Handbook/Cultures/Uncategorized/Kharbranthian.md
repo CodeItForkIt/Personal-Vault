@@ -6,7 +6,7 @@ category: "Uncategorized"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "culture"]
 aliases: ["Kharbranthian"]
 ---
-![[kharbranthian-t.webp|64]]
+# Kharbranthian
 
 Kharbranth, the City of Bells, is an independent citystate that largely practices Vorinism. The mountain that borders the city largely absorbs the initial impact of highstorms, making them milder than in neighboring regions. Once a pirate town, Kharbranth has become a center of academic and medical achievement, supported by robust trade. Healthcare is free to all, including lower castes and foreigners. Prospective surgeons from all over Roshar compete for expensive educations at the Great Concourse of Kharbranth. Scholars of other subjects flock to the Palanaeum, the largest library in Roshar. Innovations like a plumbing system enhanced by heating fabrials earn the city a reputation of luxury.
 

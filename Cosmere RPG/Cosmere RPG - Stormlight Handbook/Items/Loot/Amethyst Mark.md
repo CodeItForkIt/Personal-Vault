@@ -6,6 +6,6 @@ category: "Loot"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "loot"]
 aliases: ["Amethyst Mark"]
 ---
-![[sphere_amethyst_mark.webp|64]]
+# Amethyst Mark
 
 

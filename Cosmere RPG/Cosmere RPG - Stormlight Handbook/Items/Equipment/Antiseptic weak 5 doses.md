@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Antiseptic (weak, 5 doses)"]
 ---
-![[potion-bottle-labeled-medicine-capped-red-black.webp|64]]
+# Antiseptic (weak, 5 doses)
 
 **Price** 25 mk; **Weight** 1 lb.;
 

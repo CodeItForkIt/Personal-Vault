@@ -6,9 +6,9 @@ category: "Agent / Thief / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Underworld Contacts"]
 ---
-![[diplomacy-handshake.webp|64]]
+# Underworld Contacts
 
-**Activation:** Special Action
+**Activation:** \*
 
 *When you travel in circles of ill repute, your patron or follower’s name carries remarkable weight.*
 

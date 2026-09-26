@@ -6,6 +6,6 @@ category: "Loot"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "loot"]
 aliases: ["Ruby Chip"]
 ---
-![[sphere_ruby_chip.webp|64]]
+# Ruby Chip
 
 

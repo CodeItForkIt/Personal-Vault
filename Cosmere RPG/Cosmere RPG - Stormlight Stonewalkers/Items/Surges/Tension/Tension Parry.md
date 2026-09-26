@@ -6,11 +6,11 @@ category: "Surges / Tension"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-stonewalkers", "talent"]
 aliases: ["Tension Parry"]
 ---
-![[buckler-wooden-boss-brown.webp|64]]
+# Tension Parry
 
 **Prerequisite:** Speak the First Ideal (Stoneward or Bondsmith)
 
-**Activation:** Reaction
+**Activation:** r
 
 *You stiffen clothing to block incoming attacks.*
 

@@ -6,9 +6,9 @@ category: "Scholar / Artifabrian / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Overwhelm with Details"]
 ---
-![[intimidation-impressing.webp|64]]
+# Overwhelm with Details
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *When speaking about a topic you’re passionate about, you do so with unsurpassed authority and at unmatched length. The uninitiated can rarely withstand such a torrent of information without becoming lost amid the data.*
 

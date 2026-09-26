@@ -6,7 +6,7 @@ category: "Envoy / Mentor / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Lessons in Patience"]
 ---
-![[injury-body-pain-gray.webp|64]]
+# Lessons in Patience
 
 **Activation:** 8
 

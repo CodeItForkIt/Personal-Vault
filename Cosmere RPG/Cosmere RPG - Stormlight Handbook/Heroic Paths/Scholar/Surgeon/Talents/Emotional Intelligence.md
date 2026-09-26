@@ -6,9 +6,9 @@ category: "Scholar / Surgeon / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Emotional Intelligence"]
 ---
-![[anatomy-organ-brain-pink-red.webp|64]]
+# Emotional Intelligence
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You hone your intuition and understanding of others, enabling you to spot easy-to-miss signs of hidden symptoms and complicated feelings.*
 

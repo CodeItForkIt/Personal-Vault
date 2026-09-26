@@ -6,9 +6,9 @@ category: "Agent / Spy / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Mighty"]
 ---
-![[maneuver-sword-katana-yellow.webp|64]]
+# Mighty
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You deliver your swings, punches, and kicks with practiced efficiency.*
 

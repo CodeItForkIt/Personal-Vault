@@ -6,7 +6,7 @@ category: "Elsecaller / Talents / Inkspren Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Elsecaller's Perspicacity"]
 ---
-![[debuff-energy-hold-levitate-pink.webp|64]]
+# Elsecaller's Perspicacity
 
 **Activation:** 8
 

@@ -6,7 +6,7 @@ category: "Willshaper / Talents / Lightspren Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Spiritual Cohesion"]
 ---
-![[beam-explosion-pink-purple.webp|64]]
+# Spiritual Cohesion
 
 **Activation:** 2
 

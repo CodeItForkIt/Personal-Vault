@@ -9,29 +9,18 @@ aliases: ["Skybreaker of the Fourth Ideal"]
 # Skybreaker of the Fourth Ideal
 
 **Tier:** 4  
-**Size:** medium
-
-| Strength | Speed | Intellect | Willpower | Awareness | Presence |
-|---|---|---|---|---|---|
-| 3 | 3 | 5 | 4 | 5 | 3 |
-
-| Health | Focus | Investiture |
-|---|---|---|
-| 65/65 | 6/6 | 7/7 |
-
-**Speed:** 30 ft.
-
-| AGI | HWP | LWP | DED | DIS | INM | LOR | INS | LEA | PRC | GRV | DVS |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| 5 | 4 | 5 | 4 | 4 | 5 | 3 | 4 | 5 | 3 | 4 | 3 |
+**Size:** medium  
+**Attributes:** Strength 3, Speed 3, Intellect 5, Willpower 4, Awareness 5, Presence 3  
+**Resources:** Health 65/65, Focus 6/6, Investiture 7/7  
+**Skills:** AGI 5, HWP 4, LWP 5, DED 4, DIS 4, INM 5, LOR 3, INS 4, LEA 5, PRC 3, GRV 4, DVS 3
 
 ##### Opportunities and Complications
 
 The following options are available when an enemy gains an Opportunity or Complication during a scene with the Skybreaker of the Fourth Ideal:
 
-**Opportunity.** An enemy can spend Opportunity to prevent the Skybreaker of the Fourth Ideal from using their Offensive Gravitation, Distant Decay, and Regenerate actions until the end of the Skybreaker of the Fourth Ideal's next turn.
+**Opportunity.** An enemy can spend O to prevent the Skybreaker of the Fourth Ideal from using their Offensive Gravitation, Distant Decay, and Regenerate actions until the end of the Skybreaker of the Fourth Ideal's next turn.
 
-**Complication.** The GM can spend Complication from an enemy's test to have the Skybreaker of the Fourth Ideal use their Distant Decay action as Reaction.
+**Complication.** The GM can spend c from an enemy's test to have the Skybreaker of the Fourth Ideal use their Distant Decay action as r.
 
 ##### Tactics
 
@@ -91,7 +80,7 @@ The Skybreaker of the Fourth Ideal is equipped with Shardplate. Before they take
 ### Breakable Armor
 *1*
 
-After the Skybreaker of the Fourth Ideal is hit by an attack, the attacker can spend Opportunity to cause the Skybreaker of the Fourth Ideal's Shardplate to lose 1 charge.
+After the Skybreaker of the Fourth Ideal is hit by an attack, the attacker can spend O to cause the Skybreaker of the Fourth Ideal's Shardplate to lose 1 charge.
 
 ### Inescapable Decay
 *2 act*

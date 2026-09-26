@@ -6,7 +6,7 @@ category: "Stormlight Actions & Features / Tension"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "action"]
 aliases: ["Surge of Tension"]
 ---
-![[trail-streak-pink.webp|64]]
+# Surge of Tension
 
 The Actor Name chooses a Gargantuan (20-foot) or smaller object made of soft materials within their reach, causing it to become rigid and tough.
 

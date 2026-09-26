@@ -6,9 +6,9 @@ category: "Leader / Champion / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Valiant Intervention"]
 ---
-![[illusion-evasion-echo-purple.webp|64]]
+# Valiant Intervention
 
-**Activation:** One Action
+**Activation:** 1
 
 *You dauntlessly approach your opposition, daring them to ignore you at their peril.*
 

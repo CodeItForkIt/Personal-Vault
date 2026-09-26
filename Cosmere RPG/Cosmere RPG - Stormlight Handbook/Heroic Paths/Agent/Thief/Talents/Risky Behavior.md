@@ -6,9 +6,9 @@ category: "Agent / Thief / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Risky Behavior"]
 ---
-![[silhouette-aura-energy.webp|64]]
+# Risky Behavior
 
-**Activation:** Special Action
+**Activation:** \*
 
 *You know that risk and reward are inseparable traveling companions, and you love seeing where this pair takes you.*
 

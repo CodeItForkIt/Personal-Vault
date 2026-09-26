@@ -6,9 +6,9 @@ category: "Hunter / Assassin / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Startling Blow"]
 ---
-![[injury-face-impact-orange.webp|64]]
+# Startling Blow
 
-**Activation:** One Action
+**Activation:** 1
 
 *You unexpectedly strike at your target’s weak point, dizzying your target and creating an opening for your next attack.*
 

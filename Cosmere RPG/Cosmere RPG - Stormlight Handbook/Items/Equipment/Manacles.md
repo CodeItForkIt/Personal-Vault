@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Manacles"]
 ---
-![[ICON_Manacles.webp|64]]
+# Manacles
 
 **Price** 10 mk; **Weight** 6 lb.;
 

@@ -6,7 +6,7 @@ category: "Fabrials / Unique Effects"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Bindrial (Self)"]
 ---
-![[web-spider-caught-hand-purple.webp|64]]
+# Bindrial (Self)
 
 *Tier 1 Unique Fabrial Effect*
 

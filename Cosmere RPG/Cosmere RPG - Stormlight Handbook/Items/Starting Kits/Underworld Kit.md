@@ -6,7 +6,7 @@ category: "Starting Kits"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Underworld Kit"]
 ---
-![[pack-canvas-white-brown.webp|64]]
+# Underworld Kit
 
 **Weapons:** Two light weapons
 

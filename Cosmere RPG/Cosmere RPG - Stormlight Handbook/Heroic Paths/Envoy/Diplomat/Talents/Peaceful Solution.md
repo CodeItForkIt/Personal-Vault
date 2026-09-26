@@ -6,9 +6,9 @@ category: "Envoy / Diplomat / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Peaceful Solution"]
 ---
-![[diplomacy-peace-alliance.webp|64]]
+# Peaceful Solution
 
-**Activation:** Free Action
+**Activation:** 0
 
 *The best battle is one you don’t have to fight. If your calm appeals meet willing hearts, you’d rather end the conflict peacefully.*
 

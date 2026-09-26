@@ -6,7 +6,7 @@ category: "Uncategorized"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "power"]
 aliases: ["Abrasion"]
 ---
-![[Abrasion_Surge-glyph.svg|64]]
+# Abrasion
 
 **Radiant Orders:** Dustbringer, Edgedancer
 

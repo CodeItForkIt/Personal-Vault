@@ -6,9 +6,9 @@ category: "Envoy / Faithful / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Galvanize"]
 ---
-![[orb-fireball-puzzle.webp|64]]
+# Galvanize
 
-**Activation:** Two Actions
+**Activation:** 2
 
 *You speak to an ally with infectious fervor, renewing their focus on your shared goals.*
 

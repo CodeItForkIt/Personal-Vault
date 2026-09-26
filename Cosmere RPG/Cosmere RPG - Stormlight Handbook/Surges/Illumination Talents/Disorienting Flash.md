@@ -6,9 +6,9 @@ category: "Illumination Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Disorienting Flash"]
 ---
-![[explosion-star-glow-blue.webp|64]]
+# Disorienting Flash
 
-**Activation:** Two Actions
+**Activation:** 2
 
 *You create a brief burst of light and sound that attacks the senses of targets near you.*
 

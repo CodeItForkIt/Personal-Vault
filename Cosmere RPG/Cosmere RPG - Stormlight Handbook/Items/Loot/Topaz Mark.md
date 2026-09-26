@@ -6,6 +6,6 @@ category: "Loot"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "loot"]
 aliases: ["Topaz Mark"]
 ---
-![[sphere_topaz_mark.webp|64]]
+# Topaz Mark
 
 

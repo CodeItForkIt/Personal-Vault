@@ -10,209 +10,272 @@ aliases: ["Appendix 2: Tables"]
 
 ## Heroic Paths at a Glance
 
-| Test Result | Theme | Specialties | Starting Skill | Summary of Key Talent |
-|----|----|----|----|----|
-| Agent | A talented operative who solves problems with a keen mind or deft hand. | Investigator<br>Spy<br>Thief | Insight<br> | Opportunist: Reroll the plot die once per round. |
-| Envoy | An insightful negotiator who adeptly influences others. | Diplomat<br>Faithful<br>Mentor | Discipline | Rousing Presence: Make an ally Determined. |
-| Hunter | A skilled sharpshooter and outdoorsperson who seeks and eliminates problems. | Archer<br>Assassin<br>Tracker | Perception | Seek Quarry: Choose one character to pursue and gain an advantage against. |
-| Leader | A poised commander who directs and guides others to be their best. | Champion<br>Officer<br>Politico | Leadership | Decisive Command: Add a d4 “command die” to an ally’s tests. |
-| Scholar | An adroit thinker who excels at planning and building. | Artifabrian<br>Strategist<br>Surgeon | Lore | Erudition: Gain bonus skill ranks that you can reallocate. |
-| Warrior | A fighter who relies on their skill, brute strength, or indomitable will. | Duelist<br>Shardbearer<br>Soldier | Athletics | Vigilant Stance: Gain a fighting stance that makes you more responsive and flexible in combat. |
+<table class="sl-table">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<th><p>Test Result</p></th>
+<th><p>Theme</p></th>
+<th><p>Specialties</p></th>
+<th><p>Starting Skill</p></th>
+<th><p>Summary of Key Talent</p></th>
+</tr>
+&#10;<tr>
+<td><p>Agent</p></td>
+<td><p>A talented operative who solves problems with a keen mind or deft hand.</p></td>
+<td><p>Investigator</p>
+<p>Spy</p>
+<p>Thief</p></td>
+<td><p>Insight</p></td>
+<td><p>Opportunist: Reroll the plot die once per round.</p></td>
+</tr>
+<tr>
+<td><p>Envoy</p></td>
+<td><p>An insightful negotiator who adeptly influences others.</p></td>
+<td><p>Diplomat</p>
+<p>Faithful</p>
+<p>Mentor</p></td>
+<td><p>Discipline</p></td>
+<td><p>Rousing Presence: Make an ally Determined.</p></td>
+</tr>
+<tr>
+<td><p>Hunter</p></td>
+<td><p>A skilled sharpshooter and outdoorsperson who seeks and eliminates problems.</p></td>
+<td><p>Archer</p>
+<p>Assassin</p>
+<p>Tracker</p></td>
+<td><p>Perception</p></td>
+<td><p>Seek Quarry: Choose one character to pursue and gain an advantage against.</p></td>
+</tr>
+<tr>
+<td><p>Leader</p></td>
+<td><p>A poised commander who directs and guides others to be their best.</p></td>
+<td><p>Champion</p>
+<p>Officer</p>
+<p>Politico</p></td>
+<td><p>Leadership</p></td>
+<td><p>Decisive Command: Add a d4 “command die” to an ally’s tests.</p></td>
+</tr>
+<tr>
+<td><p>Scholar</p></td>
+<td><p>An adroit thinker who excels at planning and building.</p></td>
+<td><p>Artifabrian</p>
+<p>Strategist</p>
+<p>Surgeon</p></td>
+<td><p>Lore</p></td>
+<td><p>Erudition: Gain bonus skill ranks that you can reallocate.</p></td>
+</tr>
+<tr>
+<td><p>Warrior</p></td>
+<td><p>A fighter who relies on their skill, brute strength, or indomitable will.</p></td>
+<td><p>Duelist</p>
+<p>Shardbearer</p>
+<p>Soldier</p></td>
+<td><p>Athletics</p></td>
+<td><p>Vigilant Stance: Gain a fighting stance that makes you more responsive and flexible in combat.</p></td>
+</tr>
+</tbody>
+</table>
 
 ## Character Advancement
 
 <table class="sl-table">
-<thead>
-<tr>
-<th>Tier</th>
-<th data-colwidth="79">Character Level</th>
-<th>Attribute Points</th>
-<th>Health Gained</th>
-<th>Maximum Skill Rank</th>
-<th>Skill Ranks</th>
-<th>Talents Gained</th>
-</tr>
-</thead>
 <tbody>
 <tr>
-<td rowspan="5">1</td>
-<td data-colwidth="79">1</td>
-<td>12 attribute points</td>
-<td>10 + STR health</td>
-<td>2</td>
-<td>4 skill ranks (+1 from starting path)</td>
-<td>1 talent from starting path plus ancestry bonus talent</td>
+<th><p>Tier</p></th>
+<th data-colwidth="79"><p>Character Level</p></th>
+<th><p>Attribute Points</p></th>
+<th><p>Health Gained</p></th>
+<th><p>Maximum Skill Rank</p></th>
+<th><p>Skill Ranks</p></th>
+<th><p>Talents Gained</p></th>
+</tr>
+&#10;<tr>
+<td rowspan="5"><p>1</p></td>
+<td data-colwidth="79"><p>1</p></td>
+<td><p>12 attribute points</p></td>
+<td><p>10 + STR health</p></td>
+<td><p>2</p></td>
+<td><p>4 skill ranks (+1 from starting path)</p></td>
+<td><p>1 talent from starting path plus ancestry bonus talent</p></td>
 </tr>
 <tr>
-<td data-colwidth="79">2</td>
-<td>_</td>
-<td>+5 health</td>
-<td>2</td>
-<td>+2 skill ranks</td>
-<td>+1 talent</td>
+<td data-colwidth="79"><p>2</p></td>
+<td><p>_</p></td>
+<td><p>+5 health</p></td>
+<td><p>2</p></td>
+<td><p>+2 skill ranks</p></td>
+<td><p>+1 talent</p></td>
 </tr>
 <tr>
-<td data-colwidth="79">3</td>
-<td>+1 attribute point</td>
-<td>+5 health</td>
-<td>2</td>
-<td>+2 skill ranks</td>
-<td>+1 talent</td>
+<td data-colwidth="79"><p>3</p></td>
+<td><p>+1 attribute point</p></td>
+<td><p>+5 health</p></td>
+<td><p>2</p></td>
+<td><p>+2 skill ranks</p></td>
+<td><p>+1 talent</p></td>
 </tr>
 <tr>
-<td data-colwidth="79">4</td>
-<td>_</td>
-<td>+5 health</td>
-<td>2</td>
-<td>+2 skill ranks</td>
-<td>+1 talent</td>
+<td data-colwidth="79"><p>4</p></td>
+<td><p>_</p></td>
+<td><p>+5 health</p></td>
+<td><p>2</p></td>
+<td><p>+2 skill ranks</p></td>
+<td><p>+1 talent</p></td>
 </tr>
 <tr>
-<td data-colwidth="79">5</td>
-<td>_</td>
-<td>+5 health</td>
-<td>2</td>
-<td>+2 skill ranks</td>
-<td>+1 talent</td>
+<td data-colwidth="79"><p>5</p></td>
+<td><p>_</p></td>
+<td><p>+5 health</p></td>
+<td><p>2</p></td>
+<td><p>+2 skill ranks</p></td>
+<td><p>+1 talent</p></td>
 </tr>
 <tr>
-<td rowspan="5">2</td>
-<td data-colwidth="79">6</td>
-<td>+1 attribute point</td>
-<td>+4 + STR health</td>
-<td>3</td>
-<td>+2 skill ranks</td>
-<td>+1 talent plus ancestry bonus talent</td>
+<td rowspan="5"><p>2</p></td>
+<td data-colwidth="79"><p>6</p></td>
+<td><p>+1 attribute point</p></td>
+<td><p>+4 + STR health</p></td>
+<td><p>3</p></td>
+<td><p>+2 skill ranks</p></td>
+<td><p>+1 talent plus ancestry bonus talent</p></td>
 </tr>
 <tr>
-<td data-colwidth="79">7</td>
-<td>_</td>
-<td>+4 health</td>
-<td>3</td>
-<td>+2 skill ranks</td>
-<td>+1 talent</td>
+<td data-colwidth="79"><p>7</p></td>
+<td><p>_</p></td>
+<td><p>+4 health</p></td>
+<td><p>3</p></td>
+<td><p>+2 skill ranks</p></td>
+<td><p>+1 talent</p></td>
 </tr>
 <tr>
-<td data-colwidth="79">8</td>
-<td>_</td>
-<td>+4 health</td>
-<td>3</td>
-<td>+2 skill ranks</td>
-<td>+1 talent</td>
+<td data-colwidth="79"><p>8</p></td>
+<td><p>_</p></td>
+<td><p>+4 health</p></td>
+<td><p>3</p></td>
+<td><p>+2 skill ranks</p></td>
+<td><p>+1 talent</p></td>
 </tr>
 <tr>
-<td data-colwidth="79">9</td>
-<td>+1 attribute point</td>
-<td>+4 health</td>
-<td>3</td>
-<td>+2 skill ranks</td>
-<td>+1 talent</td>
+<td data-colwidth="79"><p>9</p></td>
+<td><p>+1 attribute point</p></td>
+<td><p>+4 health</p></td>
+<td><p>3</p></td>
+<td><p>+2 skill ranks</p></td>
+<td><p>+1 talent</p></td>
 </tr>
 <tr>
-<td data-colwidth="79">10</td>
-<td>_</td>
-<td>+4 health</td>
-<td>3</td>
-<td>+2 skill ranks</td>
-<td>+1 talent</td>
+<td data-colwidth="79"><p>10</p></td>
+<td><p>_</p></td>
+<td><p>+4 health</p></td>
+<td><p>3</p></td>
+<td><p>+2 skill ranks</p></td>
+<td><p>+1 talent</p></td>
 </tr>
 <tr>
-<td rowspan="5">3</td>
-<td data-colwidth="79">11</td>
-<td>_</td>
-<td>+3 + STR health</td>
-<td>4</td>
-<td>+2 skill ranks</td>
-<td>+1 talent plus ancestry bonus talent</td>
+<td rowspan="5"><p>3</p></td>
+<td data-colwidth="79"><p>11</p></td>
+<td><p>_</p></td>
+<td><p>+3 + STR health</p></td>
+<td><p>4</p></td>
+<td><p>+2 skill ranks</p></td>
+<td><p>+1 talent plus ancestry bonus talent</p></td>
 </tr>
 <tr>
-<td data-colwidth="79">12</td>
-<td>+1 attribute point</td>
-<td>+3 health</td>
-<td>4</td>
-<td>+2 skill ranks</td>
-<td>+1 talent</td>
+<td data-colwidth="79"><p>12</p></td>
+<td><p>+1 attribute point</p></td>
+<td><p>+3 health</p></td>
+<td><p>4</p></td>
+<td><p>+2 skill ranks</p></td>
+<td><p>+1 talent</p></td>
 </tr>
 <tr>
-<td data-colwidth="79">13</td>
-<td>_</td>
-<td>+3 health</td>
-<td>4</td>
-<td>+2 skill ranks</td>
-<td>+1 talent</td>
+<td data-colwidth="79"><p>13</p></td>
+<td><p>_</p></td>
+<td><p>+3 health</p></td>
+<td><p>4</p></td>
+<td><p>+2 skill ranks</p></td>
+<td><p>+1 talent</p></td>
 </tr>
 <tr>
-<td data-colwidth="79">14</td>
-<td>_</td>
-<td>+3 health</td>
-<td>4</td>
-<td>+2 skill ranks</td>
-<td>+1 talent</td>
+<td data-colwidth="79"><p>14</p></td>
+<td><p>_</p></td>
+<td><p>+3 health</p></td>
+<td><p>4</p></td>
+<td><p>+2 skill ranks</p></td>
+<td><p>+1 talent</p></td>
 </tr>
 <tr>
-<td data-colwidth="79">15</td>
-<td>+1 attribute point</td>
-<td>+3 health</td>
-<td>4</td>
-<td>+2 skill ranks</td>
-<td>+1 talent</td>
+<td data-colwidth="79"><p>15</p></td>
+<td><p>+1 attribute point</p></td>
+<td><p>+3 health</p></td>
+<td><p>4</p></td>
+<td><p>+2 skill ranks</p></td>
+<td><p>+1 talent</p></td>
 </tr>
 <tr>
-<td rowspan="5">4</td>
-<td data-colwidth="79">16</td>
-<td>_</td>
-<td>+2 + STR health</td>
-<td>5</td>
-<td>+2 skill ranks</td>
-<td>+1 talent plus ancestry bonus talent</td>
+<td rowspan="5"><p>4</p></td>
+<td data-colwidth="79"><p>16</p></td>
+<td><p>_</p></td>
+<td><p>+2 + STR health</p></td>
+<td><p>5</p></td>
+<td><p>+2 skill ranks</p></td>
+<td><p>+1 talent plus ancestry bonus talent</p></td>
 </tr>
 <tr>
-<td data-colwidth="79">17</td>
-<td>_</td>
-<td>+2 health</td>
-<td>5</td>
-<td>+2 skill ranks</td>
-<td>+1 talent</td>
+<td data-colwidth="79"><p>17</p></td>
+<td><p>_</p></td>
+<td><p>+2 health</p></td>
+<td><p>5</p></td>
+<td><p>+2 skill ranks</p></td>
+<td><p>+1 talent</p></td>
 </tr>
 <tr>
-<td data-colwidth="79">18</td>
-<td>+1 attribute point</td>
-<td>+2 health</td>
-<td>5</td>
-<td>+2 skill ranks</td>
-<td>+1 talent</td>
+<td data-colwidth="79"><p>18</p></td>
+<td><p>+1 attribute point</p></td>
+<td><p>+2 health</p></td>
+<td><p>5</p></td>
+<td><p>+2 skill ranks</p></td>
+<td><p>+1 talent</p></td>
 </tr>
 <tr>
-<td data-colwidth="79">19</td>
-<td>_</td>
-<td>+2 health</td>
-<td>5</td>
-<td>+2 skill ranks</td>
-<td>+1 talent</td>
+<td data-colwidth="79"><p>19</p></td>
+<td><p>_</p></td>
+<td><p>+2 health</p></td>
+<td><p>5</p></td>
+<td><p>+2 skill ranks</p></td>
+<td><p>+1 talent</p></td>
 </tr>
 <tr>
-<td data-colwidth="79">20</td>
-<td>_</td>
-<td>+2 health</td>
-<td>5</td>
-<td>+2 skill ranks</td>
-<td>+1 talent</td>
+<td data-colwidth="79"><p>20</p></td>
+<td><p>_</p></td>
+<td><p>+2 health</p></td>
+<td><p>5</p></td>
+<td><p>+2 skill ranks</p></td>
+<td><p>+1 talent</p></td>
 </tr>
 <tr>
-<td>5</td>
-<td data-colwidth="79">21+</td>
-<td>_</td>
-<td>+1 health</td>
-<td>5</td>
-<td colspan="2">Either +1 skill rank or +1 talent (plus ancestry bonus talent at level 21 only)</td>
+<td><p>5</p></td>
+<td data-colwidth="79"><p>21+</p></td>
+<td><p>_</p></td>
+<td><p>+1 health</p></td>
+<td><p>5</p></td>
+<td colspan="2"><p>Either +1 skill rank or +1 talent (plus ancestry bonus talent at level 21 only)</p></td>
 </tr>
 </tbody>
 </table>
 
 ## Lifting and Carrying Capacity
 
-| Strength | Lifting Capacity | Carrying Capacity |
+|          |                  |                   |
 |----------|------------------|-------------------|
+| Strength | Lifting Capacity | Carrying Capacity |
 | 0        | 100 lb.          | 50 lb.            |
 | 1-2      | 200 lb.          | 100 lb.           |
 | 3-4      | 500 lb.          | 250 lb.           |
@@ -222,8 +285,9 @@ aliases: ["Appendix 2: Tables"]
 
 ## Movement Rate
 
-| Speed | Movement           |
+|       |                    |
 |-------|--------------------|
+| Speed | Movement           |
 | 0     | 20 feet per action |
 | 1-2   | 25 feet per action |
 | 3-4   | 30 feet per action |
@@ -233,8 +297,9 @@ aliases: ["Appendix 2: Tables"]
 
 ## Recovery Die
 
-| Willpower | Recovery Die |
+|           |              |
 |-----------|--------------|
+| Willpower | Recovery Die |
 | 0         | 1d4          |
 | 1-2       | 1d6          |
 | 3-4       | 1d8          |
@@ -244,8 +309,9 @@ aliases: ["Appendix 2: Tables"]
 
 ## Senses Range
 
-| Awareness | Senses Range                  |
+|           |                               |
 |-----------|-------------------------------|
+| Awareness | Senses Range                  |
 | 0         | 5 ft.                         |
 | 1-2       | 10 ft.                        |
 | 3-4       | 20 ft.                        |
@@ -255,8 +321,9 @@ aliases: ["Appendix 2: Tables"]
 
 ## Establishing Connections
 
-| Presence | Time to Establish Connections |
+|  |  |
 |----|----|
+| Presence | Time to Establish Connections |
 | 0 | 1 year |
 | 1-2 | 50 days |
 | 3-4 | 5 days |
@@ -266,8 +333,9 @@ aliases: ["Appendix 2: Tables"]
 
 ## Difficulty Class Examples
 
-| Difficulty        | DC  |
+|                   |     |
 |-------------------|-----|
+| Difficulty        | DC  |
 | Easy              | 10  |
 | Medium            | 15  |
 | Hard              | 20  |
@@ -276,8 +344,9 @@ aliases: ["Appendix 2: Tables"]
 
 ## Skill Examples
 
-| Task | Test DC | Success | Failure | Oppertunity | Complication |
+|  |  |  |  |  |  |
 |----|----|----|----|----|----|
+| Task | Test DC | Success | Failure | Oppertunity | Complication |
 | To reach the window, Janiel tests **Agility** to shimmy ten feet along a high, narrow ledge. | DC 13 | She reaches the window. | Janiel’s foot slips, and she’s now stuck hanging on to the ledge. | She finds a handhold on the route, gaining an advantage on future tests to cross. | She knocks a chunk of stone loose, alerting a nearby guard who investigates the disturbance. |
 | Unable to pick the lock, Vorusht decides to test **Athletics** to break the heavy wooden door instead. | DC 20 | Her boot shatters the door. | Her foot thuds against the door, but the wood holds. | A guard hears the noise and opens the door to see what’s outside. | Vorusht’s foot throbs and she takes 1d4 impact damage. |
 | Caught in the Frostlands at the height of winter, Kennick’s heatrial breaks; he must test **Crafting** to repair it or risk freezing. | DC 18 | He chisels stone into the shape of the broken part. This replacement should keep the heatrial working for at least another week. | Hands shaking from the cold, he realizes he can’t fix the heatrial. Each party member becomes Exhausted [−1] for each day they remain without warmth. | Kennick spots an animal in the distance; he and his companions won’t need to worry about food tonight. | Kennick hurts his hand while attempting to create a replacement part. He makes an injury roll (see “Injuries” in chapter 9) to see how long it takes his hand to recover. |
@@ -299,8 +368,9 @@ aliases: ["Appendix 2: Tables"]
 
 ## Radiant Orders
 
-| Order | Spren | Surges | Philosophy |
+|  |  |  |  |
 |----|----|----|----|
+| Order | Spren | Surges | Philosophy |
 | Dustbringers | Ashspren | Abrasion and Division | Great power requires strong discipline. |
 | Edgedancers | Cultivationspren | Abrasion and Progression | Remember and serve those who others forget. |
 | Elsecallers | Inkspren | Transformation and Transportation | Strive to reach your true potential. |
@@ -316,8 +386,9 @@ aliases: ["Appendix 2: Tables"]
 
 ## Past Sight DC
 
-| Max Time Since Event | Test DC |
+|                      |         |
 |----------------------|---------|
+| Max Time Since Event | Test DC |
 | 1 day                | DC 10   |
 | 10 days              | DC 13   |
 | 50 days              | DC 16   |
@@ -329,8 +400,9 @@ aliases: ["Appendix 2: Tables"]
 
 ## Surge Scaling
 
-| Ranks | Die Size | Effect Size          |
+|       |          |                      |
 |-------|----------|----------------------|
+| Ranks | Die Size | Effect Size          |
 | 1     | d4       | Small (2.5 feet)     |
 | 2     | d6       | Medium (5 feet)      |
 | 3     | d8       | Large (10 feet)      |
@@ -339,8 +411,9 @@ aliases: ["Appendix 2: Tables"]
 
 ## Division Under Pressure
 
-| Material                              | DC    |
+|                                       |       |
 |---------------------------------------|-------|
+| Material                              | DC    |
 | Clear air                             | DC 0  |
 | Vapors like smoke and gas             | DC 5  |
 | Liquids like blood, water, and oil    | DC 10 |
@@ -349,8 +422,9 @@ aliases: ["Appendix 2: Tables"]
 
 ## Transformation Difficulty Classes
 
-|           | Solids | Organics | Liquids | Vapors | Clean Air | Flame\* |
+|           |        |          |         |        |           |         |
 |-----------|--------|----------|---------|--------|-----------|---------|
+|           | Solids | Organics | Liquids | Vapors | Clean Air | Flame\* |
 | Solids    | 10     | 10       | 15      | 20     | 25        | 30      |
 | Organics  | 10     | 10       | 10      | 15     | 20        | 25      |
 | Liquids   | 15     | 10       | 10      | 10     | 15        | 20      |
@@ -362,27 +436,29 @@ aliases: ["Appendix 2: Tables"]
 
 ## Sphere Values in Diamond Marks
 
-| Gemstone | Chip | Mark | Broam |
+|  |  |  |  |
 |----|----|----|----|
-| [[Items/Loot/Diamond Mark\|Diamond]] | 0.2 | 1 | 4 |
-| [[Items/Loot/Garnet Mark\|Garnet]], [[Items/Loot/Heliodor Mark\|heliodor]], [[Items/Loot/Topaz Mark\|topaz]] | 1 | 5 | 20 |
-| [[Items/Loot/Ruby Mark\|Ruby]], [[Items/Loot/Smokestone Mark\|smokestone]], [[Items/Loot/Zircon Mark\|zircon]] | 2 | 10 | 40 |
-| [[Items/Loot/Amethyst Mark\|Amethyst]], [[Items/Loot/Sapphire Mark\|sapphire]] | 5 | 25 | 100 |
-| [[Items/Loot/Emerald Mark\|Emerald]] | 10 | 50 | 200 |
+| Gemstone | Chip | Mark | Broam |
+| [[Items/Loot/Diamond Mark|Diamond]] | 0.2 | 1 | 4 |
+| [[Items/Loot/Garnet Mark|Garnet]], [[Items/Loot/Heliodor Mark|heliodor]], [[Items/Loot/Topaz Mark|topaz]] | 1 | 5 | 20 |
+| [[Items/Loot/Ruby Mark|Ruby]], [[Items/Loot/Smokestone Mark|smokestone]], [[Items/Loot/Zircon Mark|zircon]] | 2 | 10 | 40 |
+| [[Items/Loot/Amethyst Mark|Amethyst]], [[Items/Loot/Sapphire Mark|sapphire]] | 5 | 25 | 100 |
+| [[Items/Loot/Emerald Mark|Emerald]] | 10 | 50 | 200 |
 
 ## Light Weaponry
 
-| Type | Damage | Range | Traits | Expert Traits | Weight | Price |
+|  |  |  |  |  |  |  |
 |----|----|----|----|----|----|----|
-| [[Items/Weapons/Javelin\|Javelin]] | 1d6 keen | Melee | Thrown [30/120] | Indirect | 2 lb. | 20 mk |
-| [[Items/Weapons/Knife\|Knife]] | 1d4 keen | Melee | Discreet | Offhand, Thrown [20/60] | 1 lb. | 8 mk |
-| [[Items/Weapons/Mace\|Mace]] | 1d6 impact | Melee | \_ | Momentum | 3 lb. | 20 mk |
-| [[Items/Weapons/Rapier\|Rapier]] | 1d6 keen | Melee | Quickdraw | Defensive | 2 lb. | 100 mk |
-| [[Items/Weapons/Shortspear\|Shortspear]] | 1d8 keen | Melee | Two-Handed | Unique: loses Two-Handed trait | 3 lb. | 10 mk |
-| [[Items/Weapons/Sidesword\|Sidesword]] | 1d6 keen | Melee | Quickdraw | Offhand | 2 lb. | 40 mk |
-| [[Items/Weapons/Staff\|Staff]] | 1d6 impact | Melee | Discreet, Two-Handed | Defensive | 4 lb. | 1 mk |
-| [[Items/Weapons/Shortbow\|Shortbow]] | 1d6 keen | Ranged [80/320] | Two-Handed | Quickdraw | 2 lb. | 80 mk |
-| [[Items/Weapons/Sling\|Sling]] | 1d4 impact | Ranged [30/120] | Discreet | Indirect | 1 lb. | 2 mk |
+| Type | Damage | Range | Traits | Expert Traits | Weight | Price |
+| [[Items/Weapons/Javelin|Javelin]] | 1d6 keen | Melee | Thrown [30/120] | Indirect | 2 lb. | 20 mk |
+| [[Items/Weapons/Knife|Knife]] | 1d4 keen | Melee | Discreet | Offhand, Thrown [20/60] | 1 lb. | 8 mk |
+| [[Items/Weapons/Mace|Mace]] | 1d6 impact | Melee | \_ | Momentum | 3 lb. | 20 mk |
+| [[Items/Weapons/Rapier|Rapier]] | 1d6 keen | Melee | Quickdraw | Defensive | 2 lb. | 100 mk |
+| [[Items/Weapons/Shortspear|Shortspear]] | 1d8 keen | Melee | Two-Handed | Unique: loses Two-Handed trait | 3 lb. | 10 mk |
+| [[Items/Weapons/Sidesword|Sidesword]] | 1d6 keen | Melee | Quickdraw | Offhand | 2 lb. | 40 mk |
+| [[Items/Weapons/Staff|Staff]] | 1d6 impact | Melee | Discreet, Two-Handed | Defensive | 4 lb. | 1 mk |
+| [[Items/Weapons/Shortbow|Shortbow]] | 1d6 keen | Ranged [80/320] | Two-Handed | Quickdraw | 2 lb. | 80 mk |
+| [[Items/Weapons/Sling|Sling]] | 1d4 impact | Ranged [30/120] | Discreet | Indirect | 1 lb. | 2 mk |
 
 ![[pg247_Light Weaponry_VINCENT DUTRAIT.webp]]
 
@@ -390,17 +466,18 @@ aliases: ["Appendix 2: Tables"]
 
 ## Heavy Weaponry
 
-| Type | Damage | Range | Traits | Expert Traits | Weight | Price |
+|  |  |  |  |  |  |  |
 |----|----|----|----|----|----|----|
-| [[Items/Weapons/Axe\|Axe]] | 1d6 keen | Melee | Thrown [20/60] | Offhand | 2 lb. | 20 mk |
-| [[Items/Weapons/Greatsword\|Greatsword]] | 1d10 keen | Melee | Two-Handed | Deadly | 7 lb. | 200 mk |
-| [[Items/Weapons/Hammer\|Hammer]] | 1d10 impact | Melee | Two-Handed | Momentum | 8 lb. | 40 mk |
-| [[Items/Weapons/Longspear\|Longspear]] | 1d8 keen | Melee [+5] | Two-Handed | Defensive | 9 lb. | 15 mk |
-| [[Items/Weapons/Longsword\|Longsword]] | 1d8 keen | Melee | Quickdraw, Two-Handed | Unique: loses Two-Handed trait | 3 lb. | 60 mk |
-| [[Items/Weapons/Poleaxe\|Poleaxe]] | 1d10 keen | Melee | Two-Handed | Unique: Melee [+5] | 5 lb. | 40 mk |
-| [[Items/Weapons/Shield\|Shield]] | 1d4 impact | Melee | Defensive | Offhand | 2 lb. | 10 mk |
-| [[Items/Weapons/Crossbow\|Crossbow]] | 1d8 keen | Ranged [100/400] | Loaded [1], Two-Handed | Deadly | 7 lb. | 200 mk |
-| [[Items/Weapons/Longbow\|Longbow]] | 1d6 keen | Ranged [150/600] | Two-Handed | Indirect | 3 lb. | 100 mk |
+| Type | Damage | Range | Traits | Expert Traits | Weight | Price |
+| [[Items/Weapons/Axe|Axe]] | 1d6 keen | Melee | Thrown [20/60] | Offhand | 2 lb. | 20 mk |
+| [[Items/Weapons/Greatsword|Greatsword]] | 1d10 keen | Melee | Two-Handed | Deadly | 7 lb. | 200 mk |
+| [[Items/Weapons/Hammer|Hammer]] | 1d10 impact | Melee | Two-Handed | Momentum | 8 lb. | 40 mk |
+| [[Items/Weapons/Longspear|Longspear]] | 1d8 keen | Melee [+5] | Two-Handed | Defensive | 9 lb. | 15 mk |
+| [[Items/Weapons/Longsword|Longsword]] | 1d8 keen | Melee | Quickdraw, Two-Handed | Unique: loses Two-Handed trait | 3 lb. | 60 mk |
+| [[Items/Weapons/Poleaxe|Poleaxe]] | 1d10 keen | Melee | Two-Handed | Unique: Melee [+5] | 5 lb. | 40 mk |
+| [[Items/Weapons/Shield|Shield]] | 1d4 impact | Melee | Defensive | Offhand | 2 lb. | 10 mk |
+| [[Items/Weapons/Crossbow|Crossbow]] | 1d8 keen | Ranged [100/400] | Loaded [1], Two-Handed | Deadly | 7 lb. | 200 mk |
+| [[Items/Weapons/Longbow|Longbow]] | 1d6 keen | Ranged [150/600] | Two-Handed | Indirect | 3 lb. | 100 mk |
 
 ![[pg246_Heavy Weaponry_VINCENT DUTRAIT.webp]]
 
@@ -408,22 +485,109 @@ aliases: ["Appendix 2: Tables"]
 
 ## Special Weapons
 
-| Type | Skill | Damage | Range | Traits | Expert Traits | Weight | Price |
-|----|----|----|----|----|----|----|----|
-| Improvised Weapon<br>[[Items/Weapons/Improvised/Improvised Weapon Light\|Light]]/ [[Items/Weapons/Improvised/Improvised Weapon Heavy\|Heavy]] | Same as similar weapon | 1d6 keen | Melee | Fragile | Unique | \_ | \_ |
-| [[Actions/Basic/Unarmed Strike\|Unarmed Attack]] | Athletics | Unique | Melee | Unique | Momentum, Offhand | Weightless | \_ |
-| [[Items/Weapons/Half-Shard\|Half-Shard]] | Heavy Weaponry | 2d4 impact | Melee | Defensive, Two-Handed, Unique | Momentum | 10 lb. | 2,000 mk |
-| [[Items/Weapons/Shardblade\|Shardblade]] | Heavy Weaponry | 2d8 spirit | Melee | Dangerous, Deadly, Unique | Unique: loses Dangerous trait | 4 lb. | Reward only |
-| [[Items/Weapons/Shardblade Radiant\|Shardblade (Radiant)]] | \* | 2d\* spirit | Melee | Deadly, Unique | \_ | Weightless | Talent only |
-| [[Items/Weapons/Warhammer\|Warhammer]] | Heavy Weaponry | 2d10 impact | Melee | Cumbersome [5] | Unique | 150 lb. | 400 mk |
-| [[Items/Weapons/Grandbow\|Grandbow]] | Heavy Weaponry | 2d6 keen | Ranged [200/800] | Cumersome [5], Two-Handed | Pierce | 20 lb. | 1,000 mk |
+<table class="sl-table">
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+</colgroup>
+<tbody>
+<tr>
+<th data-colwidth="75"><p>Type</p></th>
+<th><p>Skill</p></th>
+<th data-colwidth="79"><p>Damage</p></th>
+<th><p>Range</p></th>
+<th><p>Traits</p></th>
+<th><p>Expert Traits</p></th>
+<th><p>Weight</p></th>
+<th><p>Price</p></th>
+</tr>
+&#10;<tr>
+<td data-colwidth="75"><p>Improvised Weapon</p>
+<p>[[Items/Weapons/Improvised/Improvised Weapon Light|Light]]/ [[Items/Weapons/Improvised/Improvised Weapon Heavy|Heavy]]</p></td>
+<td><p>Same as similar weapon</p></td>
+<td data-colwidth="79"><p>1d6 keen</p></td>
+<td><p>Melee</p></td>
+<td><p>Fragile</p></td>
+<td><p>Unique</p></td>
+<td><p>_</p></td>
+<td><p>_</p></td>
+</tr>
+<tr>
+<td data-colwidth="75"><p>[[Actions/Basic/Unarmed Strike|Unarmed Attack]]</p></td>
+<td><p>Athletics</p></td>
+<td data-colwidth="79"><p>Unique</p></td>
+<td><p>Melee</p></td>
+<td><p>Unique</p></td>
+<td><p>Momentum, Offhand</p></td>
+<td><p>Weightless</p></td>
+<td><p>_</p></td>
+</tr>
+<tr>
+<td data-colwidth="75"><p>[[Items/Weapons/Half-Shard|Half-Shard]]</p></td>
+<td><p>Heavy Weaponry</p></td>
+<td data-colwidth="79"><p>2d4 impact</p></td>
+<td><p>Melee</p></td>
+<td><p>Defensive, Two-Handed, Unique</p></td>
+<td><p>Momentum</p></td>
+<td><p>10 lb.</p></td>
+<td><p>2,000 mk</p></td>
+</tr>
+<tr>
+<td data-colwidth="75"><p>[[Items/Weapons/Shardblade|Shardblade]]</p></td>
+<td><p>Heavy Weaponry</p></td>
+<td data-colwidth="79"><p>2d8 spirit</p></td>
+<td><p>Melee</p></td>
+<td><p>Dangerous, Deadly, Unique</p></td>
+<td><p>Unique: loses Dangerous trait</p></td>
+<td><p>4 lb.</p></td>
+<td><p>Reward only</p></td>
+</tr>
+<tr>
+<td data-colwidth="75"><p>[[Items/Weapons/Shardblade Radiant|Shardblade (Radiant)]]</p></td>
+<td><p>*</p></td>
+<td data-colwidth="79"><p>2d* spirit</p></td>
+<td><p>Melee</p></td>
+<td><p>Deadly, Unique</p></td>
+<td><p>_</p></td>
+<td><p>Weightless</p></td>
+<td><p>Talent only</p></td>
+</tr>
+<tr>
+<td data-colwidth="75"><p>[[Items/Weapons/Warhammer|Warhammer]]</p></td>
+<td><p>Heavy Weaponry</p></td>
+<td data-colwidth="79"><p>2d10 impact</p></td>
+<td><p>Melee</p></td>
+<td><p>Cumbersome [5]</p></td>
+<td><p>Unique</p></td>
+<td><p>150 lb.</p></td>
+<td><p>400 mk</p></td>
+</tr>
+<tr>
+<td data-colwidth="75"><p>[[Items/Weapons/Grandbow|Grandbow]]</p></td>
+<td><p>Heavy Weaponry</p></td>
+<td data-colwidth="79"><p>2d6 keen</p></td>
+<td><p>Ranged [200/800]</p></td>
+<td><p>Cumersome [5], Two-Handed</p></td>
+<td><p>Pierce</p></td>
+<td><p>20 lb.</p></td>
+<td><p>1,000 mk</p></td>
+</tr>
+</tbody>
+</table>
 
 *\*See the “Shardblades and Radiant Shardblades” section\*
 
 ## Unarmed Damage
 
-| Strength | Unarmed Damage         |
+|          |                        |
 |----------|------------------------|
+| Strength | Unarmed Damage         |
 | 0-2      | 1 impact (no die roll) |
 | 3-4      | 1d4 impact             |
 | 5-6      | 1d8 impact             |
@@ -432,24 +596,26 @@ aliases: ["Appendix 2: Tables"]
 
 ## Shardblade Injury Duration
 
-| Injury Roll | Injury |
+|  |  |
 |----|----|
+| Injury Roll | Injury |
 | 16+ | **Flesh Wound.** The character suffers a temporary injury for the remainder of the day. |
 | 1-15 | **Spiritual Injury.** The target suffers a permanent injury. Any severed flesh turns gray and lifeless. Non-Invested healing can’t heal this injury. |
 | 0 or Lower | **Death.** The character dies (see “Death”). |
 
 ## Armor
 
-| Type | Deflect Value | Traits | Expert Traits | Weight | Price |
+|  |  |  |  |  |  |
 |----|----|----|----|----|----|
-| [[Items/Armor/Uniform\|Uniform]] | 0 | Presentable | \_ | 5 lb. | 40 mk |
-| [[Items/Armor/Leather\|Leather]] | 1 | \_ | Presentable | 10 lb. | 60 mk |
-| [[Items/Armor/Chain\|Chain]] | 2 | Cumbersome[3] | Unique: loses Cumbersome trait | 25 lb. | 80 mk |
-| [[Items/Armor/Breastplate\|Breastplate]] | 2 | Cumbersome[3] | Presentable | 30 lb. | 120 mk |
-| [[Items/Armor/Half Plate\|Half Plate]] | 3 | Cumbersome[4] | Unique: Cumbersome[3] instead of Cumbersome[4] | 40 lb. | 400 mk |
-| [[Items/Armor/Full Plate\|Full Plate]] | 4 | Cumbersome[5] | \_ | 55 lb. | 1,600 mk |
-| [[Items/Armor/Shardplate\|Shardplate]] | 5 | Dangerous, Unique | Unique: loses Dangerous trait | 1,400 lb. | Reward Only |
-| [[Items/Armor/Shardplate Radiant\|Shardplate (Radiant)]] | 5 | Unique | \_ | Weightless | Talent Only |
+| Type | Deflect Value | Traits | Expert Traits | Weight | Price |
+| [[Items/Armor/Uniform|Uniform]] | 0 | Presentable | \_ | 5 lb. | 40 mk |
+| [[Items/Armor/Leather|Leather]] | 1 | \_ | Presentable | 10 lb. | 60 mk |
+| [[Items/Armor/Chain|Chain]] | 2 | Cumbersome[3] | Unique: loses Cumbersome trait | 25 lb. | 80 mk |
+| [[Items/Armor/Breastplate|Breastplate]] | 2 | Cumbersome[3] | Presentable | 30 lb. | 120 mk |
+| [[Items/Armor/Half Plate|Half Plate]] | 3 | Cumbersome[4] | Unique: Cumbersome[3] instead of Cumbersome[4] | 40 lb. | 400 mk |
+| [[Items/Armor/Full Plate|Full Plate]] | 4 | Cumbersome[5] | \_ | 55 lb. | 1,600 mk |
+| [[Items/Armor/Shardplate|Shardplate]] | 5 | Dangerous, Unique | Unique: loses Dangerous trait | 1,400 lb. | Reward Only |
+| [[Items/Armor/Shardplate Radiant|Shardplate (Radiant)]] | 5 | Unique | \_ | Weightless | Talent Only |
 
 ![[pg253_Armor_SAMI RYTKÖNEN.webp]]
 
@@ -457,8 +623,9 @@ aliases: ["Appendix 2: Tables"]
 
 ## Wine Effect by Color
 
-| Color | Effect |
+|  |  |
 |----|----|
+| Color | Effect |
 | Pink | Noted as being floral and aiding alertness. Less intoxicating than milk. |
 | Orange | A non-intoxicating wine that tastes of fruit with notes of ginger. Most popular with members of the clergy. |
 | Yellow | Offers a bold and deep flavor “without guilt.” Minimally intoxicating. |
@@ -470,126 +637,132 @@ aliases: ["Appendix 2: Tables"]
 
 ## Equipment
 
-| Name | Weight | Price |
+|  |  |  |
 |----|----|----|
-| [[Items/Equipment/Alcohol 1 serving\|Alcohol (1 Serving)]] | 0.2 lb. | 0.5-50 mk |
-| [[Items/Equipment/Alcohol bottle\|Alcohol (bottle)]] | 2-4 lb. | 1-300 mk |
-| [[Items/Equipment/Anesthetic 5 doses\|Anesthetic (5 doses)]] | 1.5 lb. | 75 mk |
-| [[Items/Equipment/Antiseptic potent 5 doses\|Antiseptic (potent, 5 doses)]] | 1 lb. | 50 mk |
-| [[Items/Equipment/Antiseptic weak 5 doses\|Antiseptic (weak, 5 doses)]] | 1 lb. | 25 mk |
-| [[Items/Equipment/Backpack\|Backpack*]] | 5 lb. | 8 mk |
-| [[Items/Equipment/Barrel\|Barrel*]] | 70 lb. | 15 mk |
-| [[Items/Equipment/Blanket\|Blanket*]] | 2 lb. | 2 mk |
-| [[Items/Equipment/Book reference\|Book (reference)]] | 1-5 lb. | 10-500 mk |
-| [[Items/Equipment/Bottle crem\|Bottle (crem)*]] | 3 lb. | 0.5 mk |
-| [[Items/Equipment/Bottle glass\|Bottle (glass)*]] | 2 lb. | 1 mk |
-| [[Items/Equipment/Bucket\|Bucket*]] | 2 lb. | 1 mk |
-| [[Items/Equipment/Candle\|Candle]] | 0.2 lb. | 0.2 mk |
-| [[Items/Equipment/Case leather\|Case (leather)]] | 1 lb. | 4 mk |
-| [[Items/Equipment/Chain thick 10 feet\|Chain (thick, 10 feet)]] | 10 lb. | 20 mk |
-| [[Items/Equipment/Chain thin 1 foot\|Chain (thin, 1 foot)]] | 0.5 lb. | 20 mk |
-| [[Items/Equipment/Chest\|Chest*]] | 25 lb. | 30 mk |
-| [[Items/Equipment/Clothing common\|Clothing (common)]] | 3 lb. | 2 mk |
-| [[Items/Equipment/Clothing fine\|Clothing (fine)]] | 6 lb. | 50-200 mk |
-| [[Items/Equipment/Clothing ragged\|Clothing (ragged)]] | 1.5 lb. | 0.5 mk |
-| [[Items/Equipment/Crowbar\|Crowbar]] | 3 lb. | 10 mk |
-| [[Items/Equipment/Ear Trumpet\|Ear trumpet]] | 1 lb. | 50 mk |
-| [[Items/Equipment/Flask\|Flask]] or [[Items/Equipment/Tankard\|tankard]]\* | 1 lb. | 1 mk |
-| [[Items/Equipment/Flint and Steel\|Flint and steel]] | 1.5 lb. | 4 mk |
-| [[Items/Equipment/Food ration 1 day\|Food (ration, 1 day)]] | 0.5 lb. | 0.2 mk |
-| [[Items/Equipment/Food street 1 day\|Food (street, 1 day)]] | 1.5 lb. | 3 mk |
-| [[Items/Equipment/Food fine 1 day\|Food (fine, 1 day)]] | 0.5 lb. | 25 mk |
-| [[Items/Equipment/Grappling Hook\|Grappling hook]] | 4 lb. | 10 mk |
-| [[Items/Equipment/Hammer handheld\|Hammer (handheld)*]] | 3 lb. | 4 mk |
-| [[Items/Equipment/Ink 1-ounce bottle\|Ink (1-ounce bottle)*]] | 0.2 lb. | 40 mk |
-| [[Items/Equipment/Ink Pen\|Ink pen*]] | 0.1 lb. | 0.1 mk |
-| [[Items/Equipment/Jug\|Jug]] or [[Items/Equipment/Pitcher\|pitcher]]\* | 4 lb. | 2 mk |
-| [[Items/Equipment/Ladder 10-foot\|Ladder (10-foot)*]] | 20 lb. | 5 mk |
-| [[Items/Equipment/Lantern oil\|Lantern (oil)]] | 2 lb. | 20 mk |
-| [[Items/Equipment/Lantern sphere\|Lantern (sphere)]] | 2 lb. | 20 mk |
-| [[Items/Equipment/Lock and Key\|Lock and key]] | 1 lb. | 50 mk |
-| [[Items/Equipment/Lockpick\|Lockpick]] | 0.5 lb. | 5 mk |
-| [[Items/Equipment/Magnifying Lens\|Magnifying lens]] | 0.2 lb. | 400 mk |
-| [[Items/Equipment/Manacles\|Manacles]] | 6 lb. | 10 mk |
-| [[Items/Equipment/Mirror handheld\|Mirror (handheld)*]] | 2 lb. | 25 mk |
-| [[Items/Equipment/Musical Instrument\|Musical instrument]] | 0.5-20 lb. | 1-50 mk |
-| [[Items/Equipment/Net hunting\|Net (hunting)]] | 5 lb. | 4 mk |
-| [[Items/Equipment/Net fishing\|Net (fishing)]] | 15 lb. | 10 mk |
-| [[Items/Equipment/Oil 1 flask\|Oil (1 flask)]] | 1 lb. | 1 mk |
-| [[Items/Equipment/Paper or Parchment 1 sheet\|Paper or parchment (1 sheet)*]] | 0.1 lb. | 0.5 mk |
-| [[Items/Equipment/Perfume 1 vial\|Perfume (1 vial)*]] | 0.5 lb. | 20 mk |
-| [[Items/Equipment/Pick mining\|Pick (mining)*]] | 10 lb. | 10 mk |
-| [[Items/Equipment/Poison weak 1 dose\|Poison (weak, 1 dose)]] | 0.2 lb. | 20 mk |
-| [[Items/Equipment/Poison effectual 1 dose\|Poison (effectual, 1 dose)]] | 0.2 lb. | 50 mk |
-| [[Items/Equipment/Poison potent 1 dose\|Poison (potent, 1 dose)]] | 0.2 lb. | 120 mk |
-| [[Items/Equipment/Pot iron\|Pot (iron)*]] | 10 lb. | 8 mk |
-| [[Items/Equipment/Pouch\|Pouch*]] | 1 lb. | 1 mk |
-| [[Items/Equipment/Pulley system\|Pulley system]] | 12 lb. | 100 mk |
-| [[Items/Equipment/Rope 50 feet\|Rope (50 feet)]] | 5 lb. | 30 mk |
-| [[Items/Equipment/Sack\|Sack*]] | 0.5 lb. | 0.2 mk |
-| [[Items/Equipment/Scale\|Scale]] | 3 lb. | 20 mk |
-| [[Items/Equipment/Shovel\|Shovel*]] | 5 lb. | 8 mk |
-| [[Items/Equipment/Soap\|Soap*]] | 0.1 lb. | 1 mk |
-| [[Items/Equipment/Spyglass\|Spyglass]] | 1 lb. | 500 mk |
-| [[Items/Equipment/Surgical Supplies\|Surgical supplies]] | 3 lb. | 20 mk |
-| [[Items/Equipment/Tent two-person\|Tent (two-person)*]] | 20 lb. | 10 mk |
-| [[Items/Equipment/Treatment medical 1 dose\|Treatment (medical, 1 dose)]] | 0.2 lb. | 10 mk |
-| [[Items/Equipment/Tuning Fork\|Tuning fork]] | 0.5 lb. | 50 mk |
-| [[Items/Equipment/Unencased Gem infused\|Unencased gem (infused)]] | 0.01 lb. | 2 mk |
-| [[Items/Equipment/Vial glass\|Vial (glass)*]] | 0.2 lb. | 4 mk |
-| [[Items/Equipment/Waterskin\|Waterskin*]] | 1 lb. (empty) | 1 mk |
-| [[Items/Equipment/Wax 1 block\|Wax (1 block)*]] | 0.5 lb. | 2 mk |
-| [[Items/Equipment/Whetstone\|Whetstone*]] | 1 lb. | 0.2 mk |
+| Name | Weight | Price |
+| [[Items/Equipment/Alcohol 1 serving|Alcohol (1 Serving)]] | 0.2 lb. | 0.5-50 mk |
+| [[Items/Equipment/Alcohol bottle|Alcohol (bottle)]] | 2-4 lb. | 1-300 mk |
+| [[Items/Equipment/Anesthetic 5 doses|Anesthetic (5 doses)]] | 1.5 lb. | 75 mk |
+| [[Items/Equipment/Antiseptic potent 5 doses|Antiseptic (potent, 5 doses)]] | 1 lb. | 50 mk |
+| [[Items/Equipment/Antiseptic weak 5 doses|Antiseptic (weak, 5 doses)]] | 1 lb. | 25 mk |
+| [[Items/Equipment/Backpack|Backpack*]] | 5 lb. | 8 mk |
+| [[Items/Equipment/Barrel|Barrel*]] | 70 lb. | 15 mk |
+| [[Items/Equipment/Blanket|Blanket*]] | 2 lb. | 2 mk |
+| [[Items/Equipment/Book reference|Book (reference)]] | 1-5 lb. | 10-500 mk |
+| [[Items/Equipment/Bottle crem|Bottle (crem)*]] | 3 lb. | 0.5 mk |
+| [[Items/Equipment/Bottle glass|Bottle (glass)*]] | 2 lb. | 1 mk |
+| [[Items/Equipment/Bucket|Bucket*]] | 2 lb. | 1 mk |
+| [[Items/Equipment/Candle|Candle]] | 0.2 lb. | 0.2 mk |
+| [[Items/Equipment/Case leather|Case (leather)]] | 1 lb. | 4 mk |
+| [[Items/Equipment/Chain thick 10 feet|Chain (thick, 10 feet)]] | 10 lb. | 20 mk |
+| [[Items/Equipment/Chain thin 1 foot|Chain (thin, 1 foot)]] | 0.5 lb. | 20 mk |
+| [[Items/Equipment/Chest|Chest*]] | 25 lb. | 30 mk |
+| [[Items/Equipment/Clothing common|Clothing (common)]] | 3 lb. | 2 mk |
+| [[Items/Equipment/Clothing fine|Clothing (fine)]] | 6 lb. | 50-200 mk |
+| [[Items/Equipment/Clothing ragged|Clothing (ragged)]] | 1.5 lb. | 0.5 mk |
+| [[Items/Equipment/Crowbar|Crowbar]] | 3 lb. | 10 mk |
+| [[Items/Equipment/Ear Trumpet|Ear trumpet]] | 1 lb. | 50 mk |
+| [[Items/Equipment/Flask|Flask]] or [[Items/Equipment/Tankard|tankard]]\* | 1 lb. | 1 mk |
+| [[Items/Equipment/Flint and Steel|Flint and steel]] | 1.5 lb. | 4 mk |
+| [[Items/Equipment/Food ration 1 day|Food (ration, 1 day)]] | 0.5 lb. | 0.2 mk |
+| [[Items/Equipment/Food street 1 day|Food (street, 1 day)]] | 1.5 lb. | 3 mk |
+| [[Items/Equipment/Food fine 1 day|Food (fine, 1 day)]] | 0.5 lb. | 25 mk |
+| [[Items/Equipment/Grappling Hook|Grappling hook]] | 4 lb. | 10 mk |
+| [[Items/Equipment/Hammer handheld|Hammer (handheld)*]] | 3 lb. | 4 mk |
+| [[Items/Equipment/Ink 1-ounce bottle|Ink (1-ounce bottle)*]] | 0.2 lb. | 40 mk |
+| [[Items/Equipment/Ink Pen|Ink pen*]] | 0.1 lb. | 0.1 mk |
+| [[Items/Equipment/Jug|Jug]] or [[Items/Equipment/Pitcher|pitcher]]\* | 4 lb. | 2 mk |
+| [[Items/Equipment/Ladder 10-foot|Ladder (10-foot)*]] | 20 lb. | 5 mk |
+| [[Items/Equipment/Lantern oil|Lantern (oil)]] | 2 lb. | 20 mk |
+| [[Items/Equipment/Lantern sphere|Lantern (sphere)]] | 2 lb. | 20 mk |
+| [[Items/Equipment/Lock and Key|Lock and key]] | 1 lb. | 50 mk |
+| [[Items/Equipment/Lockpick|Lockpick]] | 0.5 lb. | 5 mk |
+| [[Items/Equipment/Magnifying Lens|Magnifying lens]] | 0.2 lb. | 400 mk |
+| [[Items/Equipment/Manacles|Manacles]] | 6 lb. | 10 mk |
+| [[Items/Equipment/Mirror handheld|Mirror (handheld)*]] | 2 lb. | 25 mk |
+| [[Items/Equipment/Musical Instrument|Musical instrument]] | 0.5-20 lb. | 1-50 mk |
+| [[Items/Equipment/Net hunting|Net (hunting)]] | 5 lb. | 4 mk |
+| [[Items/Equipment/Net fishing|Net (fishing)]] | 15 lb. | 10 mk |
+| [[Items/Equipment/Oil 1 flask|Oil (1 flask)]] | 1 lb. | 1 mk |
+| [[Items/Equipment/Paper or Parchment 1 sheet|Paper or parchment (1 sheet)*]] | 0.1 lb. | 0.5 mk |
+| [[Items/Equipment/Perfume 1 vial|Perfume (1 vial)*]] | 0.5 lb. | 20 mk |
+| [[Items/Equipment/Pick mining|Pick (mining)*]] | 10 lb. | 10 mk |
+| [[Items/Equipment/Poison weak 1 dose|Poison (weak, 1 dose)]] | 0.2 lb. | 20 mk |
+| [[Items/Equipment/Poison effectual 1 dose|Poison (effectual, 1 dose)]] | 0.2 lb. | 50 mk |
+| [[Items/Equipment/Poison potent 1 dose|Poison (potent, 1 dose)]] | 0.2 lb. | 120 mk |
+| [[Items/Equipment/Pot iron|Pot (iron)*]] | 10 lb. | 8 mk |
+| [[Items/Equipment/Pouch|Pouch*]] | 1 lb. | 1 mk |
+| [[Items/Equipment/Pulley system|Pulley system]] | 12 lb. | 100 mk |
+| [[Items/Equipment/Rope 50 feet|Rope (50 feet)]] | 5 lb. | 30 mk |
+| [[Items/Equipment/Sack|Sack*]] | 0.5 lb. | 0.2 mk |
+| [[Items/Equipment/Scale|Scale]] | 3 lb. | 20 mk |
+| [[Items/Equipment/Shovel|Shovel*]] | 5 lb. | 8 mk |
+| [[Items/Equipment/Soap|Soap*]] | 0.1 lb. | 1 mk |
+| [[Items/Equipment/Spyglass|Spyglass]] | 1 lb. | 500 mk |
+| [[Items/Equipment/Surgical Supplies|Surgical supplies]] | 3 lb. | 20 mk |
+| [[Items/Equipment/Tent two-person|Tent (two-person)*]] | 20 lb. | 10 mk |
+| [[Items/Equipment/Treatment medical 1 dose|Treatment (medical, 1 dose)]] | 0.2 lb. | 10 mk |
+| [[Items/Equipment/Tuning Fork|Tuning fork]] | 0.5 lb. | 50 mk |
+| [[Items/Equipment/Unencased Gem infused|Unencased gem (infused)]] | 0.01 lb. | 2 mk |
+| [[Items/Equipment/Vial glass|Vial (glass)*]] | 0.2 lb. | 4 mk |
+| [[Items/Equipment/Waterskin|Waterskin*]] | 1 lb. (empty) | 1 mk |
+| [[Items/Equipment/Wax 1 block|Wax (1 block)*]] | 0.5 lb. | 2 mk |
+| [[Items/Equipment/Whetstone|Whetstone*]] | 1 lb. | 0.2 mk |
 
 ## Lodging
 
-| Lodging | Price per Person per Night |
+|  |  |
 |----|----|
-| [[Items/Travel/Lodging/Stormshelter\|Stormshelter]] | Free to the public (if there's room) |
-| [[Items/Travel/Lodging/Modest Lodging\|Modest]] | 2 mk |
-| [[Items/Travel/Lodging/Comfortable Lodging\|Comfortable]] | 4 mk |
-| [[Items/Travel/Lodging/Wealthy Lodging\|Wealthy]] | 8mk |
-| [[Items/Travel/Lodging/Aristocratic Lodging\|Aristocratic]] | 20 mk |
+| Lodging | Price per Person per Night |
+| [[Items/Travel/Lodging/Stormshelter|Stormshelter]] | Free to the public (if there's room) |
+| [[Items/Travel/Lodging/Modest Lodging|Modest]] | 2 mk |
+| [[Items/Travel/Lodging/Comfortable Lodging|Comfortable]] | 4 mk |
+| [[Items/Travel/Lodging/Wealthy Lodging|Wealthy]] | 8mk |
+| [[Items/Travel/Lodging/Aristocratic Lodging|Aristocratic]] | 20 mk |
 
 ## Mounts
 
-| Mount | Travel Speed | Carrying Capacity | Purchase Price |
+|  |  |  |  |
 |----|----|----|----|
-| [[Items/Travel/Mounts/Chull\|Chull]] | 2 mph | 1,500 lb. | 200 mk |
-| [[Items/Travel/Mounts/Horse\|Horse]] | 4 mph | 500 lb. | 4,000 mk |
-| [[Items/Travel/Mounts/Ryshadium\|Ryshadium]] | 6 mph | 1,000 lb | Reward Only |
+| Mount | Travel Speed | Carrying Capacity | Purchase Price |
+| [[Items/Travel/Mounts/Chull|Chull]] | 2 mph | 1,500 lb. | 200 mk |
+| [[Items/Travel/Mounts/Horse|Horse]] | 4 mph | 500 lb. | 4,000 mk |
+| [[Items/Travel/Mounts/Ryshadium|Ryshadium]] | 6 mph | 1,000 lb | Reward Only |
 
 ## Vehicles
 
-| Vehicle | Type | Travel Speed | Rental Price per Day | Purchase Price |
+|  |  |  |  |  |
 |----|----|----|----|----|
-| [[Items/Travel/Vehicles/Chull cart\|Chull cart]] | Land | 2 mph | 5 mk | 500 mk |
-| [[Items/Travel/Vehicles/Rowboat\|Rowboat]] | Water | 3 mph downstream, 1 mph upstream | 3 mk | 250 mk |
-| [[Items/Travel/Vehicles/Merchant vessel\|Merchant Vessel]] | Water | 5 mph | 50 mk | 10,000 mk |
-| [[Items/Travel/Vehicles/Warship\|Warship]] | Water | 8 mph | 250 mk | 100,000 mk |
+| Vehicle | Type | Travel Speed | Rental Price per Day | Purchase Price |
+| [[Items/Travel/Vehicles/Chull cart|Chull cart]] | Land | 2 mph | 5 mk | 500 mk |
+| [[Items/Travel/Vehicles/Rowboat|Rowboat]] | Water | 3 mph downstream, 1 mph upstream | 3 mk | 250 mk |
+| [[Items/Travel/Vehicles/Merchant vessel|Merchant Vessel]] | Water | 5 mph | 50 mk | 10,000 mk |
+| [[Items/Travel/Vehicles/Warship|Warship]] | Water | 8 mph | 250 mk | 100,000 mk |
 
 ## Standard Fabrials
 
-| Name | Charges | Weight | Purchase Price |
+|  |  |  |  |
 |----|----|----|----|
-| [[Items/Fabrials/Standard/Alerter\|Alerter]] | 5 | 0.5-10 lb. | 500 mk |
-| [[Items/Fabrials/Standard/Attractor\|Attractor]] | 5 | 8 lb. | 750 mk |
-| [[Items/Fabrials/Standard/Clock Fabrial\|Clock Fabrial]] | 3 | 2 lb. | 200 mk |
-| [[Items/Fabrials/Standard/Drainer\|Drainer]] | 2 | 0.5 lb. | 1,000 mk |
-| [[Items/Fabrials/Standard/Emotion Bracelet\|Emotion Bracelet]] | 3 | 0.2 lb. | 200 mk |
-| [[Items/Fabrials/Standard/Freechair\|Freechair]] | \_ | 12 lb. | free or 800 mk |
-| [[Items/Fabrials/Standard/Heatrial\|Heatrial]] | 5 | 1-10 lb. | 50-500 mk |
-| [[Items/Fabrials/Standard/Painrial amplifying\|Painrial (amplifying)]] | 3 | 1 lb. | 750 mk |
-| [[Items/Fabrials/Standard/Painrial numbing\|Painrial (numbing)]] | 3 | 1 lb. | 750 mk |
-| [[Items/Fabrials/Standard/Repeller\|Repeller]] | 5 | 8 lb. | 1,500 mk |
-| [[Items/Fabrials/Standard/Soulcaster\|Soulcaster]] | 5 | 5 lb. | Reward only |
-| [[Items/Fabrials/Standard/Spanreed Pair\|Spanreed (1 pair)]] | 3 | 1 lb. each | 100 mk |
-| [[Items/Fabrials/Standard/Suppressor\|Suppressor]] | 2 | 1 lb. | Reward only |
+| Name | Charges | Weight | Purchase Price |
+| [[Items/Fabrials/Standard/Alerter|Alerter]] | 5 | 0.5-10 lb. | 500 mk |
+| [[Items/Fabrials/Standard/Attractor|Attractor]] | 5 | 8 lb. | 750 mk |
+| [[Items/Fabrials/Standard/Clock Fabrial|Clock Fabrial]] | 3 | 2 lb. | 200 mk |
+| [[Items/Fabrials/Standard/Drainer|Drainer]] | 2 | 0.5 lb. | 1,000 mk |
+| [[Items/Fabrials/Standard/Emotion Bracelet|Emotion Bracelet]] | 3 | 0.2 lb. | 200 mk |
+| [[Items/Fabrials/Standard/Freechair|Freechair]] | \_ | 12 lb. | free or 800 mk |
+| [[Items/Fabrials/Standard/Heatrial|Heatrial]] | 5 | 1-10 lb. | 50-500 mk |
+| [[Items/Fabrials/Standard/Painrial amplifying|Painrial (amplifying)]] | 3 | 1 lb. | 750 mk |
+| [[Items/Fabrials/Standard/Painrial numbing|Painrial (numbing)]] | 3 | 1 lb. | 750 mk |
+| [[Items/Fabrials/Standard/Repeller|Repeller]] | 5 | 8 lb. | 1,500 mk |
+| [[Items/Fabrials/Standard/Soulcaster|Soulcaster]] | 5 | 5 lb. | Reward only |
+| [[Items/Fabrials/Standard/Spanreed Pair|Spanreed (1 pair)]] | 3 | 1 lb. each | 100 mk |
+| [[Items/Fabrials/Standard/Suppressor|Suppressor]] | 2 | 1 lb. | Reward only |
 
 ## Item Crafting Test
 
-| Test Result | Item Quality |
+|  |  |
 |----|----|
+| Test Result | Item Quality |
 | 1-5 | **Utter Failure.** Despite all your time and effort, you fail to produce anything usable. You must start over from scratch. Nothing remains of your initial attempt or materials—it was all consumed in your experiment. |
 | 6-10 | **Shoddy Creation.** Creating this item proves unusually challenging. You create the item, but it has no upgrades and one drawback. |
 | 11-20 | **Typical Creation.** The crafting goes exactly as expected. You create the item with one upgrade and one drawback. |
@@ -598,8 +771,9 @@ aliases: ["Appendix 2: Tables"]
 
 ## Item Upgrades and Drawbacks
 
-| d6 | Upgrade | Drawback |
+|  |  |  |
 |----|----|----|
+| d6 | Upgrade | Drawback |
 | 1 | You salvage enough materials from the scraps to make something else. The item you just crafted has no material cost. | The process requires far more materials than expected. The item costs twice as much to create. |
 | 2 | If made or sold publicly, the item’s superior craftsmanship earns you acclaim among discerning crafters and buyers. | You accidentally damage your tools or facilities. Depending on whose facilities you’re using, this may cost you marks or hurt your reputation. |
 | 3 | Your item is far lighter than normal. Halve its weight. | Your item is far bulkier than normal. Double its weight. |
@@ -609,8 +783,9 @@ aliases: ["Appendix 2: Tables"]
 
 ## Advanced Item Features
 
-| Feature Name | Effect |
+|  |  |
 |----|----|
+| Feature Name | Effect |
 | Adorned | If the item is armor, it gains Presentable as an expert trait thanks to the artistic flourishes you add. |
 | Hidden Compartment | The item has a storage compartment that can contain another object up to one-quarter of the item’s volume. |
 | Lethal Design | If the item is a weapon, when a character makes an injury roll due to this weapon, subtract 3 from the result. |
@@ -619,8 +794,9 @@ aliases: ["Appendix 2: Tables"]
 
 ## Fabrial Crafting Test
 
-| Test Result | Item Quality |
+|  |  |
 |----|----|
+| Test Result | Item Quality |
 | 1-5 | **Utter Failure.** Despite all your time and effort, you fail to produce a working fabrial. You must start over from scratch. The fabrial’s core gemstone is still intact, but you lose any other materials and the spren you captured. |
 | 6-10 | **Shoddy Creation.** Crafting this fabrial takes an additional day, and you find the process unusually challenging. You create the fabrial with one effect, no upgrades, and one drawback. |
 | 11-20 | **Typical Creation.** The crafting goes exactly as expected. You create the fabrial with one effect, one upgrade, and one drawback. |
@@ -629,12 +805,13 @@ aliases: ["Appendix 2: Tables"]
 
 ## Fabrial Upgrades and Drawbacks
 
-| d8 | General Drawbacks | General Upgrades | Requirements |
+|  |  |  |  |
 |----|----|----|----|
+| d8 | General Drawbacks | General Upgrades | Requirements |
 | 1 | **Diminished Attacks.** made with this fabrial gain a disadvantage. | **Amplified Attacks.** made with this fabrial gain an advantage. | Can only be applied to fabrials that have an attack. |
-| 2 | **Delicate.** The GM can spend Complication to deactivate the fabrial until it is repaired with a successful DC 15 Crafting test. | **Reliable.** When making tests with this fabrial, ignore the first Complication you roll with it each scene. When you do, you gain no bonus from it. | Can only be applied to fabrials that require attack tests or other skill tests. |
-| 3 | **Dangerous.** The GM can spend Complication | **Fine-Tuned.** You can spend Opportunity to recover 1d4 focus. | Can only be applied to fabrials that require attack tests or other skill tests. |
-| 4 | **Inefficient.** When you roll Complication while within 5 feet of the activated fabrial, the GM can spend it to expend an additional charge. | **Efficient.** When you roll Opportunity while within 5 feet of the activated fabrial, you can spend it to make the fabrial regain a charge. | Can only be applied to fabrials that expend charges. |
+| 2 | **Delicate.** The GM can spend C to deactivate the fabrial until it is repaired with a successful DC 15 Crafting test. | **Reliable.** When making tests with this fabrial, ignore the first C you roll with it each scene. When you do, you gain no bonus from it. | Can only be applied to fabrials that require attack tests or other skill tests. |
+| 3 | **Dangerous.** The GM can spend C | **Fine-Tuned.** You can spend O to recover 1d4 focus. | Can only be applied to fabrials that require attack tests or other skill tests. |
+| 4 | **Inefficient.** When you roll C while within 5 feet of the activated fabrial, the GM can spend it to expend an additional charge. | **Efficient.** When you roll O while within 5 feet of the activated fabrial, you can spend it to make the fabrial regain a charge. | Can only be applied to fabrials that expend charges. |
 | 5 | **Lower Capacity.** Decrease the fabrial’s maximum charges by 1. | **Higher Capacity.** Increase the fabrial’s maximum charges by 1. | Can only be applied to fabrials that expend charges. |
 | 6 | **Short Ranged.** The fabrial’s range is halved. | **Long Ranged.** The fabrial’s range is doubled. | Can only be applied to fabrials that have a range or a radius. |
 | 7 | **Slower.** Decrease the movement rate of the effect by 50 percent. | **Faster.** Increase the movement rate of the effectby 50 percent. | Can only be applied to fabrials that grant you a movement rate or cause you to move. |
@@ -642,50 +819,117 @@ aliases: ["Appendix 2: Tables"]
 
 ## Advanced Fabrial Features
 
-| Feature Name | Effect |
-|----|----|
-| Expanded Capacity | If the fabrial has charges, increase its maximum charges by 3. |
-| Wide Area | If the fabrial has an attack or other effect that applies to one target, you can spend 2 focus to have it affect each enemy, each ally, or each character within 5 feet of your target instead. If you’re in range, you can choose to affect yourself along with your allies. |
-| Security Lock | The fabrial can be used only by characters who know the security mechanism (such as a hidden button that must be pressed or a secret lever that must be flipped). You decide this mechanism when you create the fabrial. |
-| Quick Activation | Once per scene, the user of the fabrial can spend 1 focus to reduce the action cost to activate it by 1 (or if it is already 1 , it becomes 0). |
-| Timed Activation | By using the Ready action with the fabrial, you can set an internal timing mechanism for an interval of your choice (such as 1 round, 1 minute, or 1 hour). After this interval elapses, the fabrial activates (or deactivates if it was already active). |
-| Extra Effect (unique fabrials<br>only) | Add an additional unique fabrial effect to the fabrial. You must expend an additional gemstone of the effect’s tier to add this effect to the fabrial. Both effects track their charges separately. |
+<table class="sl-table">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<th><p>Feature Name</p></th>
+<th><p>Effect</p></th>
+</tr>
+&#10;<tr>
+<td><p>Expanded Capacity</p></td>
+<td><p>If the fabrial has charges, increase its maximum charges by 3.</p></td>
+</tr>
+<tr>
+<td><p>Wide Area</p></td>
+<td><p>If the fabrial has an attack or other effect that applies to one target, you can spend 2 focus to have it affect each enemy, each ally, or each character within 5 feet of your target instead. If you’re in range, you can choose to affect yourself along with your allies.</p></td>
+</tr>
+<tr>
+<td><p>Security Lock</p></td>
+<td><p>The fabrial can be used only by characters who know the security mechanism (such as a hidden button that must be pressed or a secret lever that must be flipped). You decide this mechanism when you create the fabrial.</p></td>
+</tr>
+<tr>
+<td><p>Quick Activation</p></td>
+<td><p>Once per scene, the user of the fabrial can spend 1 focus to reduce the action cost to activate it by 1 (or if it is already 1 , it becomes 0).</p></td>
+</tr>
+<tr>
+<td><p>Timed Activation</p></td>
+<td><p>By using the Ready action with the fabrial, you can set an internal timing mechanism for an interval of your choice (such as 1 round, 1 minute, or 1 hour). After this interval elapses, the fabrial activates (or deactivates if it was already active).</p></td>
+</tr>
+<tr>
+<td><p>Extra Effect (unique fabrials</p>
+<p>only)</p></td>
+<td><p>Add an additional unique fabrial effect to the fabrial. You must expend an additional gemstone of the effect’s tier to add this effect to the fabrial. Both effects track their charges separately.</p></td>
+</tr>
+</tbody>
+</table>
 
 ## Unique Fabrial Effect
 
-| Tier | Type | Charges |
+|  |  |  |
 |----|----|----|
-| 1 | [[Items/Fabrials/Unique Effects/Bindrial Area\|Bindrial (area)]] | 3 |
-| 1 | [[Items/Fabrials/Unique Effects/Bindrial Self\|Bindrial (self)]] | 5 |
-| 1 | [[Items/Fabrials/Unique Effects/Compressor\|Compressor]] | 3 |
-| 1 | [[Items/Fabrials/Unique Effects/Cremrial\|Cremrial]] | 5 |
-| 1 | [[Items/Fabrials/Unique Effects/Cultivator\|Cultivator]] | 3 |
-| 2 | [[Items/Fabrials/Unique Effects/Accelerator\|Accelerator]] | 3 |
-| 2 | [[Items/Fabrials/Unique Effects/Armor Augmenter\|Armor Augmenter]] | 2 |
-| 2 | [[Items/Fabrials/Unique Effects/Ascender\|Ascender]] | 5 |
-| 2 | [[Items/Fabrials/Unique Effects/Drainer\|Drainer]] | 5 |
-| 2 | [[Items/Fabrials/Unique Effects/Liferial\|Liferial]] | 3 |
-| 2 | [[Items/Fabrials/Unique Effects/Lightrial\|Lightrial]] | 3 |
-| 2 | [[Items/Fabrials/Unique Effects/Painrial AmplifyingNumbing\|Painrial (Amplifying/Numbing)]] | 3 |
-| 2 | [[Items/Fabrials/Unique Effects/Projectile\|Projectile]] | 5 |
-| 3 | [[Items/Fabrials/Unique Effects/Disruptor\|Disruptor]] | 4 |
-| 4 | [[Items/Fabrials/Unique Effects/Surge Fabrial\|Surge Fabrial]] | 4 |
+| Tier | Type | Charges |
+| 1 | [[Items/Fabrials/Unique Effects/Bindrial Area|Bindrial (area)]] | 3 |
+| 1 | [[Items/Fabrials/Unique Effects/Bindrial Self|Bindrial (self)]] | 5 |
+| 1 | [[Items/Fabrials/Unique Effects/Compressor|Compressor]] | 3 |
+| 1 | [[Items/Fabrials/Unique Effects/Cremrial|Cremrial]] | 5 |
+| 1 | [[Items/Fabrials/Unique Effects/Cultivator|Cultivator]] | 3 |
+| 2 | [[Items/Fabrials/Unique Effects/Accelerator|Accelerator]] | 3 |
+| 2 | [[Items/Fabrials/Unique Effects/Armor Augmenter|Armor Augmenter]] | 2 |
+| 2 | [[Items/Fabrials/Unique Effects/Ascender|Ascender]] | 5 |
+| 2 | [[Items/Fabrials/Unique Effects/Drainer|Drainer]] | 5 |
+| 2 | [[Items/Fabrials/Unique Effects/Liferial|Liferial]] | 3 |
+| 2 | [[Items/Fabrials/Unique Effects/Lightrial|Lightrial]] | 3 |
+| 2 | [[Items/Fabrials/Unique Effects/Painrial AmplifyingNumbing|Painrial (Amplifying/Numbing)]] | 3 |
+| 2 | [[Items/Fabrials/Unique Effects/Projectile|Projectile]] | 5 |
+| 3 | [[Items/Fabrials/Unique Effects/Disruptor|Disruptor]] | 4 |
+| 4 | [[Items/Fabrials/Unique Effects/Surge Fabrial|Surge Fabrial]] | 4 |
 
 ## Example Companions by Tier
 
-| PC Tier | Role and Number | NPC Profile Examples | Development Bonuses |
-|----|----|----|----|
-| 1 | 1 Minion | Axehound\*, chull\*, soldier, or other NPC of tier 1 or lower | \_ |
-| 2 | 2 Minions or 1 Rival | Horse\*, guard, citizen, or other NPC of tier 2 or lower<br> | Minion: +2 to all tests, +10 Health |
-| 3 | 3 Minions or 1 Rival | Ryshadium steed, Sleepless, or other non-Boss NPC of tier 3 or lower | Minion: +4 to all tests, +20 health<br>Rival: +2 to all tests, +10 health |
-| 4+ | 5 Minions or 2 Rivals or 1 Boss | Chasmfiend or other NPC of any tier | Minion: +6 to all tests, +40 health<br>Rival: +4 to all tests, +20 health |
+<table class="sl-table">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr>
+<th><p>PC Tier</p></th>
+<th><p>Role and Number</p></th>
+<th><p>NPC Profile Examples</p></th>
+<th><p>Development Bonuses</p></th>
+</tr>
+&#10;<tr>
+<td><p>1</p></td>
+<td><p>1 Minion</p></td>
+<td><p>Axehound*, chull*, soldier, or other NPC of tier 1 or lower</p></td>
+<td><p>_</p></td>
+</tr>
+<tr>
+<td><p>2</p></td>
+<td><p>2 Minions or 1 Rival</p></td>
+<td><p>Horse*, guard, citizen, or other NPC of tier 2 or lower</p></td>
+<td><p>Minion: +2 to all tests, +10 Health</p></td>
+</tr>
+<tr>
+<td><p>3</p></td>
+<td><p>3 Minions or 1 Rival</p></td>
+<td><p>Ryshadium steed, Sleepless, or other non-Boss NPC of tier 3 or lower</p></td>
+<td><p>Minion: +4 to all tests, +20 health</p>
+<p>Rival: +2 to all tests, +10 health</p></td>
+</tr>
+<tr>
+<td><p>4+</p></td>
+<td><p>5 Minions or 2 Rivals or 1 Boss</p></td>
+<td><p>Chasmfiend or other NPC of any tier</p></td>
+<td><p>Minion: +6 to all tests, +40 health</p>
+<p>Rival: +4 to all tests, +20 health</p></td>
+</tr>
+</tbody>
+</table>
 
 *\*See the “Animal Companions” appendix\*
 
 ## Example Fabrial Rewards
 
-| PC Tier | Gem | Premade Fabrial | Unique Fabrial (choose one) |
+|  |  |  |  |
 |----|----|----|----|
+| PC Tier | Gem | Premade Fabrial | Unique Fabrial (choose one) |
 | 1 | Tier 1 gemstone | Half-shard, repeller, Soulcaster (one Essence) | Tier 1 unique fabrial with 1 drawback and 1 upgrade |
 | 2 | Tier 2 gemstone | Grandbow, Soulcaster (two Essences) | Tier 1 unique fabrial with 1 upgrade; or tier 2 effect fabrial with 1 drawback and 1 upgrade |
 | 3 | Tier 3 gemstone | Soulcaster (three Essences) | Tier 1 unique fabrial with 2 upgrades; tier 2 unique fabrial with 1 upgrade; or tier 3 unique fabrial with 1 drawback and 1 upgrade |
@@ -693,8 +937,9 @@ aliases: ["Appendix 2: Tables"]
 
 ## Patron Amenities by Tier
 
-| PC Tier | Amenities |
+|  |  |
 |----|----|
+| PC Tier | Amenities |
 | 1 | Comfortable lodgings and travel |
 | 2 | Wealthy lodgings and travel |
 | 3 | Aristocratic lodgings and travel |
@@ -702,8 +947,9 @@ aliases: ["Appendix 2: Tables"]
 
 ## Highprince Authority
 
-| PC Tier | Tests                                           | Bonus          |
+|         |                                                 |                |
 |---------|-------------------------------------------------|----------------|
+| PC Tier | Tests                                           | Bonus          |
 | 1       | Persuasion                                      | One advantage  |
 | 2       | Intimidation, Persuasion                        | One advantage  |
 | 3       | Intimidation, Persuasion, Leadership            | Two advantages |
@@ -711,8 +957,9 @@ aliases: ["Appendix 2: Tables"]
 
 ## Economic Backing
 
-| PC Tier | Operations Budget |
+|         |                   |
 |---------|-------------------|
+| PC Tier | Operations Budget |
 | 1       | 1,000 mk          |
 | 2       | 5,000 mk          |
 | 3       | 10,000 mk         |
@@ -720,25 +967,28 @@ aliases: ["Appendix 2: Tables"]
 
 ## Shards by Tier
 
-| PC Tier | Shards     |
+|         |            |
 |---------|------------|
+| PC Tier | Shards     |
 | 1       | —          |
 | 2       | Shardblade |
 | 3       | Shardplate |
 
 ## Titles by Tier
 
-| PC Tier | Examples | Material Holdings |
+|  |  |  |
 |----|----|----|
+| PC Tier | Examples | Material Holdings |
 | 1 | Lieutenant, senior researcher, cell leader, bureaucrat, 6th-dahn landed lighteyes | Barracks, laboratory or archive, base of operations, office, or small estate |
-| 2 | Captain, lead researcher, branch leader, 5th-dahn landed lighteyes | Military camp, network of laboratories or archives, network of safehouses, or large estate<br> |
-| 3 | Highmarshal, spymaster, 4th-dahn landed lighteyes | Large military camp, large network of safehouses, or palatial estate<br> |
+| 2 | Captain, lead researcher, branch leader, 5th-dahn landed lighteyes | Military camp, network of laboratories or archives, network of safehouses, or large estate |
+| 3 | Highmarshal, spymaster, 4th-dahn landed lighteyes | Large military camp, large network of safehouses, or palatial estate |
 | 4+ | General or higher, listener member of the Five, 3rd-dahn landed lighteyes | Warcamp or other fortress, palace or equivalent |
 
 ## Injury Duration
 
-| Injury Roll | Duration |
+|  |  |
 |----|----|
+| Injury Roll | Duration |
 | -6 or lower | Death You die (see “Death”). |
 | -5 to 0 | Permanent Injury You suffer a permanent injury. |
 | 1 to 5 | Vicious Injury You suffer a temporary injury with a duration of `6d6` days. |
@@ -747,8 +997,9 @@ aliases: ["Appendix 2: Tables"]
 
 ## Injury Effects
 
-| d8 | Effect | Narrative Suggestions |
+|  |  |  |
 |----|----|----|
+| d8 | Effect | Narrative Suggestions |
 | 1-2 | Exhausted [−1] | Any injury that lowers your overall stamina. |
 | 3 | Exhausted [−2] | Any injury that lowers your overall stamina. |
 | 4-5 | Slowed | Injured leg or foot, or any injury that lowers your overall speed. |
@@ -758,32 +1009,34 @@ aliases: ["Appendix 2: Tables"]
 
 ## Actions and Reactions
 
-| Type                                                     | Cost     |
-|----------------------------------------------------------|----------|
-| [[Actions/Basic/Aid\|Aid]]                         | Reaction |
-| [[Actions/Basic/Avoid Danger\|Avoid Danger]]       | Reaction |
-| [[Actions/Basic/Banter\|Banter]]                   | 0        |
-| [[Actions/Basic/Brace\|Brace]]                     | 1        |
-| [[Actions/Basic/Disengage\|Disengage]]             | 1        |
-| [[Actions/Basic/Dodge\|Dodge]]                     | Reaction |
-| [[Actions/Basic/Drop\|Drop]]                       | 0        |
-| [[Actions/Basic/Gain Advantage\|Gain Advantage]]   | 1        |
-| [[Actions/Basic/Grapple\|Grapple]]                 | 2        |
-| [[Actions/Basic/Interact\|Interact]]               | 1        |
-| [[Actions/Basic/Move\|Move]]                       | 1        |
-| [[Actions/Basic/Reactive Strike\|Reactive Strike]] | Reaction |
-| [[Actions/Basic/Ready\|Ready]]                     | 1        |
-| [[Actions/Basic/Recover\|Recover]]                 | 2        |
-| [[Actions/Basic/Shove\|Shove]]                     | 2        |
-| [[Actions/Basic/Strike\|Strike]]                   | 1        |
-| [[Actions/Basic/Use A Skill\|Use a Skill]]         | 1        |
+|                                                          |      |
+|----------------------------------------------------------|------|
+| Type                                                     | Cost |
+| [[Actions/Basic/Aid|Aid]]                         | r    |
+| [[Actions/Basic/Avoid Danger|Avoid Danger]]       | r    |
+| [[Actions/Basic/Banter|Banter]]                   | 0    |
+| [[Actions/Basic/Brace|Brace]]                     | 1    |
+| [[Actions/Basic/Disengage|Disengage]]             | 1    |
+| [[Actions/Basic/Dodge|Dodge]]                     | r    |
+| [[Actions/Basic/Drop|Drop]]                       | 0    |
+| [[Actions/Basic/Gain Advantage|Gain Advantage]]   | 1    |
+| [[Actions/Basic/Grapple|Grapple]]                 | 2    |
+| [[Actions/Basic/Interact|Interact]]               | 1    |
+| [[Actions/Basic/Move|Move]]                       | 1    |
+| [[Actions/Basic/Reactive Strike|Reactive Strike]] | r    |
+| [[Actions/Basic/Ready|Ready]]                     | 1    |
+| [[Actions/Basic/Recover|Recover]]                 | 2    |
+| [[Actions/Basic/Shove|Shove]]                     | 2    |
+| [[Actions/Basic/Strike|Strike]]                   | 1    |
+| [[Actions/Basic/Use A Skill|Use a Skill]]         | 1    |
 
 *\*You must spend* *1* *for Ready plus any* *1* *needed for the readied action.*
 
 ## Character Sizes
 
-| Character Size | Area Controlled          |
+|                |                          |
 |----------------|--------------------------|
+| Character Size | Area Controlled          |
 | Small          | 2.5 feet                 |
 | Medium         | 5 feet                   |
 | Large          | 10 feet                  |
@@ -792,33 +1045,82 @@ aliases: ["Appendix 2: Tables"]
 
 ## Dangerous Terrain
 
-| Example Terrain | Damage      |
+|                 |             |
 |-----------------|-------------|
+| Example Terrain | Damage      |
 | Wooden spikes   | 1d4 keen    |
 | Blazing fire    | 1d8 energy  |
 | Highstorm winds | 1d12 impact |
 
 ## Combat Opportunities and Complications
 
-| Opportunity | Complication |
-|----|----|
-| Friendly reinforcements arrive. | Enemy reinforcements arrive. |
-| A wounded enemy decides to flee or otherwise surrender. | An ally trips or stumbles, falling Prone. |
-| An innocent bystander escapes to safety. | An ally or innocent is endangered and must<br>be saved. |
-| An enemy is distracted, granting an advantage on attacks against them. | An enemy is alerted to your presence. |
-| An enemy drops their weapon or equipment. | You drop or damage your weapon or equipment. |
-| You spot a vantage point or other environmental feature you can use against your opponent. | The rain picks up, making navigating around the battlefield more difficult. |
-| You spot infused spheres in an opponent’s pouch that you could draw Stormlight from. | Some of your spheres suddenly go dun. |
-| Your spren helps you out, pointing out something or distracting the enemy. | Your spren becomes distracted and can’t help you in a key moment. |
-| You gain a brief respite from the chaos of combat and recover 1 focus. | You’re shaken by something in the combat and lose 1 focus. |
-| You spot a hidden opponent, revealing them to your allies. | You’re too distracted, and an opponent slips away from you without triggering a Reactive Strike. |
-| In the heat of battle, an opponent accidentally reveals a detail you weren’t supposed to know. | You accidentally finish off an enemy you were trying to leave alive for questioning. |
-| You get a bit of extra time to achieve your goal. | You lose time and your goal become more urgent. |
+<table class="sl-table">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<th><p>Opportunity</p></th>
+<th><p>Complication</p></th>
+</tr>
+&#10;<tr>
+<td><p>Friendly reinforcements arrive.</p></td>
+<td><p>Enemy reinforcements arrive.</p></td>
+</tr>
+<tr>
+<td><p>A wounded enemy decides to flee or otherwise surrender.</p></td>
+<td><p>An ally trips or stumbles, falling Prone.</p></td>
+</tr>
+<tr>
+<td><p>An innocent bystander escapes to safety.</p></td>
+<td><p>An ally or innocent is endangered and must</p>
+<p>be saved.</p></td>
+</tr>
+<tr>
+<td><p>An enemy is distracted, granting an advantage on attacks against them.</p></td>
+<td><p>An enemy is alerted to your presence.</p></td>
+</tr>
+<tr>
+<td><p>An enemy drops their weapon or equipment.</p></td>
+<td><p>You drop or damage your weapon or equipment.</p></td>
+</tr>
+<tr>
+<td><p>You spot a vantage point or other environmental feature you can use against your opponent.</p></td>
+<td><p>The rain picks up, making navigating around the battlefield more difficult.</p></td>
+</tr>
+<tr>
+<td><p>You spot infused spheres in an opponent’s pouch that you could draw Stormlight from.</p></td>
+<td><p>Some of your spheres suddenly go dun.</p></td>
+</tr>
+<tr>
+<td><p>Your spren helps you out, pointing out something or distracting the enemy.</p></td>
+<td><p>Your spren becomes distracted and can’t help you in a key moment.</p></td>
+</tr>
+<tr>
+<td><p>You gain a brief respite from the chaos of combat and recover 1 focus.</p></td>
+<td><p>You’re shaken by something in the combat and lose 1 focus.</p></td>
+</tr>
+<tr>
+<td><p>You spot a hidden opponent, revealing them to your allies.</p></td>
+<td><p>You’re too distracted, and an opponent slips away from you without triggering a Reactive Strike.</p></td>
+</tr>
+<tr>
+<td><p>In the heat of battle, an opponent accidentally reveals a detail you weren’t supposed to know.</p></td>
+<td><p>You accidentally finish off an enemy you were trying to leave alive for questioning.</p></td>
+</tr>
+<tr>
+<td><p>You get a bit of extra time to achieve your goal.</p></td>
+<td><p>You lose time and your goal become more urgent.</p></td>
+</tr>
+</tbody>
+</table>
 
 ## Conversation Opportunities and Complications
 
-| Opportunity | Complication |
+|  |  |
 |----|----|
+| Opportunity | Complication |
 | You remember a helpful and relevant fact. | Something you thought you knew turns out to be a lie. |
 | An observer is impressed with you. | An observer is scornful of you. |
 | Your Radiant spren makes a helpful observation. | Your Radiant spren gets distracted by something. |
@@ -826,40 +1128,64 @@ aliases: ["Appendix 2: Tables"]
 
 ## Inquiry Opportunities and Complications
 
-| Opportunity | Complication |
+|  |  |
 |----|----|
+| Opportunity | Complication |
 | Through your questioning, you learn you share an objective (or enemy) with the person you’re questioning. | You accidentally reveal more than intended to the person you’re questioning—or you can spend 2 focus to resist. |
 | Your demeanor sets the person you’re questioning at ease. You gain an advantage on your next test against them. | You offend the person you’re questioning, making further questions difficult. You gain a disadvantage on your next test against them. |
 | A distraction in the environment leaves the other party in disarray. | Someone enters the scene with an unrelated request for the other party. |
 
 ## Negotiation Opportunities and Complications
 
-| Opportunity | Complication |
+|  |  |
 |----|----|
+| Opportunity | Complication |
 | You notice a subtle clue about the resources the other party truly has available. | You tip your hand about the exact resources you possess at the moment—or you can spend 2 focus to resist. |
 | You remember a custom or law that could play in your favor in the negotiation. | The opposing party reveals a barrier to making a deal, and it’s out of their control. |
 | The person you’re dealing with inadvertently reveals that someone else could provide you what you need. | Another bidder enters the scene, which threatens to raise the price unless you can drive them off. |
 
 ## Scheme Opportunities and Complications
 
-| Opportunity | Complication |
+|  |  |
 |----|----|
+| Opportunity | Complication |
 | Your mark unknowingly reveals information about themself, giving details you can later use to corroborate your story. | One of your lies unravels due to an unexpected revelation by a third party. |
 | A neutral NPC mistakes you for a figure of authority or a specific trustworthy individual, corroborating your story. | A seemingly neutral NPC reveals themself to be an agent of the opposition. |
 | An ally enters the scene in a plausible disguise, right on cue to assist you in some way. | Someone from your past comes to collect on a debt at the worst possible time. |
 
 ## Socializing Opportunities and Complications
 
-| Opportunity | Complication |
-|----|----|
-| You notice a subtle hint of someone’s hidden emotional state. | You accidentally make a small cultural blunder<br>or say something that’s contextually gauche. |
-| You take the opportunity to truly relax, recovering 1d4 focus. | You become aggravated or drained by the conversation, losing 1 focus. |
-| You impress the person you’re talking to, making them inclined to help you in the future. | You spot an opportunity to pursue one of your goals, but in a way that would disrupt your current conversation. |
+<table class="sl-table">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<th><p>Opportunity</p></th>
+<th><p>Complication</p></th>
+</tr>
+&#10;<tr>
+<td><p>You notice a subtle hint of someone’s hidden emotional state.</p></td>
+<td><p>You accidentally make a small cultural blunder</p>
+<p>or say something that’s contextually gauche.</p></td>
+</tr>
+<tr>
+<td><p>You take the opportunity to truly relax, recovering 1d4 focus.</p></td>
+<td><p>You become aggravated or drained by the conversation, losing 1 focus.</p></td>
+</tr>
+<tr>
+<td><p>You impress the person you’re talking to, making them inclined to help you in the future.</p></td>
+<td><p>You spot an opportunity to pursue one of your goals, but in a way that would disrupt your current conversation.</p></td>
+</tr>
+</tbody>
+</table>
 
 ## Collective Threshold Examples
 
-| Complexity | Example | Successes | Failures |
+|  |  |  |  |
 |----|----|----|----|
+| Complexity | Example | Successes | Failures |
 | Simple | Apprehending a common criminal (Pursuit) | 4 | 3 |
 | Basic | Determining the function of a mysterious fabrial (Discovery) | \* | 4 |
 | Average | Activating an Oathgate in occupied territory (Mission) | 8 | 4 |
@@ -870,8 +1196,9 @@ aliases: ["Appendix 2: Tables"]
 
 ## Discovery Examples
 
-| Skill | Usage |
+|  |  |
 |----|----|
+| Skill | Usage |
 | Deduction | Interpret a clue within an existing lead. |
 | Insight or Perception | Uncover a new clue by examining people’s reactions or physical evidence. |
 | Intimidation or Persuasion | Coerce or cajole someone into providing a clue or a new lead. |
@@ -883,8 +1210,9 @@ aliases: ["Appendix 2: Tables"]
 
 ## Against the Odds Examples
 
-| Peril | Suggested DC | Effect of Failure |
+|  |  |  |
 |----|----|----|
+| Peril | Suggested DC | Effect of Failure |
 | Dehydration | 14 | Lose all but 1 focus. |
 | Drained Spheres | 10 | Half of your spheres become dun. |
 | Lost Energy | 14 | Become Exhausted [−1]. |
@@ -894,25 +1222,73 @@ aliases: ["Appendix 2: Tables"]
 
 ## Exploration Examples
 
-| Skill | Usage |
-|----|----|
-| Agility or Stealth | Avoid dangerous flora or fauna. |
-| Athletics | Climb to a helpful vantage point or push through hazardous terrain. |
-| Crafting | Build a fire, set a trap, or fashion a helpful device to traverse terrain. |
-| Deduction or<br>Perception | Watch for signs of danger, identify a water source, or spot an incoming threat. |
-| Discipline | Endure a difficult period of low rations or dehydration. |
-| Leadership | Bolster the party’s confidence and determination during a difficult trek. |
-| Lore | Apply your knowledge of biology or geology. |
-| Medicine | Identify a poisonous food source, unclean water, or tainted food. |
-| Survival | Apply your knowledge of animal handling, tracking, and hunting. |
-| Plot Die | Outcome |
-| Opportunity | Discover an item or natural resource that aids in the party’s next scene. |
-| Complication | Stumble across a wild predator; if the endeavor fails, the next scene is a combat. |
+<table class="sl-table">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<th data-colwidth="284"><p>Skill</p></th>
+<th data-colwidth="284"><p>Usage</p></th>
+</tr>
+&#10;<tr>
+<td data-colwidth="284"><p>Agility or Stealth</p></td>
+<td data-colwidth="284"><p>Avoid dangerous flora or fauna.</p></td>
+</tr>
+<tr>
+<td data-colwidth="284"><p>Athletics</p></td>
+<td data-colwidth="284"><p>Climb to a helpful vantage point or push through hazardous terrain.</p></td>
+</tr>
+<tr>
+<td data-colwidth="284"><p>Crafting</p></td>
+<td data-colwidth="284"><p>Build a fire, set a trap, or fashion a helpful device to traverse terrain.</p></td>
+</tr>
+<tr>
+<td data-colwidth="284"><p>Deduction or</p>
+<p>Perception</p></td>
+<td data-colwidth="284"><p>Watch for signs of danger, identify a water source, or spot an incoming threat.</p></td>
+</tr>
+<tr>
+<td data-colwidth="284"><p>Discipline</p></td>
+<td data-colwidth="284"><p>Endure a difficult period of low rations or dehydration.</p></td>
+</tr>
+<tr>
+<td data-colwidth="284"><p>Leadership</p></td>
+<td data-colwidth="284"><p>Bolster the party’s confidence and determination during a difficult trek.</p></td>
+</tr>
+<tr>
+<td data-colwidth="284"><p>Lore</p></td>
+<td data-colwidth="284"><p>Apply your knowledge of biology or geology.</p></td>
+</tr>
+<tr>
+<td data-colwidth="284"><p>Medicine</p></td>
+<td data-colwidth="284"><p>Identify a poisonous food source, unclean water, or tainted food.</p></td>
+</tr>
+<tr>
+<td data-colwidth="284"><p>Survival</p></td>
+<td data-colwidth="284"><p>Apply your knowledge of animal handling, tracking, and hunting.</p></td>
+</tr>
+<tr>
+<td data-colwidth="284" style="color: var(--cosmere-color-white); background-color: var(--cosmere-color-opportunity); padding-top: 0; padding-bottom: 0"><p>Plot Die</p></td>
+<td data-colwidth="284" style="color: var(--cosmere-color-white); background-color: var(--cosmere-color-opportunity); padding-top: 0; padding-bottom: 0"><p>Outcome</p></td>
+</tr>
+<tr>
+<td data-colwidth="284"><p>Opportunity</p></td>
+<td data-colwidth="284"><p>Discover an item or natural resource that aids in the party’s next scene.</p></td>
+</tr>
+<tr>
+<td data-colwidth="284"><p>Complication</p></td>
+<td data-colwidth="284"><p>Stumble across a wild predator; if the endeavor fails, the next scene is a combat.</p></td>
+</tr>
+</tbody>
+</table>
 
 ## Mission Examples
 
-| Skill | Usage |
+|  |  |
 |----|----|
+| Skill | Usage |
 | Agility | Deftly maneuver an unconventional path, like a window ledge or overhead rafters. |
 | Athletics | Quietly knock out a servant or minor guard. |
 | Crafting | Improvise a tool that assists the party’s infiltration efforts, or deactivate a fabrial alarm. |
@@ -928,34 +1304,81 @@ aliases: ["Appendix 2: Tables"]
 
 ## Closing the Distance
 
-| Example | Starting Distance | Escape Distance |
+|  |  |  |
 |----|----|----|
+| Example | Starting Distance | Escape Distance |
 | Running through the hallways of a keep. | 2 | 4 |
 | Running from a chasmfiend in the chasms of the Shattered Plains. | 3 | 6 |
 | Chasing an elusive enemy agent across the cityscape of Rall Elorim. | 4 | 8 |
 
 ## Pursuit Examples
 
-| Skill | Usage |
-|----|----|
-| Agility\* | Nimbly weave through a crowded market to outrun a pursuer or target. |
-| Athletics | Run through obstacles, pushing past them or climbing over them. |
-| Deception\* | Cause a distraction to create a false trail for your pursuers or confuse your target. |
-| Deduction or<br>Insight | Identify a shortcut, guess a target’s next move, or oppose a target’s Deception test. |
-| Intimidation or<br>Persuasion | Convince a bystander to help you find the target or throw off your pursuers. |
-| Perception | Oppose a target’s Stealth test or catch sight of your pursuer closing in. |
-| Stealth\* | Duck out of sight or down a hidden alley. |
-| Thievery | Break into a building to evade a pursuer or pursue a target. |
-| Plot Die | Outcome |
-| Opportunity | A lucky path opens up to you, or an NPC unexpectedly appears to give you aid. |
-| Complication | An innocent bystander is endangered by your actions. |
+<table class="sl-table">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<th data-colwidth="284"><p>Skill</p></th>
+<th data-colwidth="284"><p>Usage</p></th>
+</tr>
+&#10;<tr>
+<td data-colwidth="284"><p>Agility*</p></td>
+<td data-colwidth="284"><p>Nimbly weave through a crowded market to outrun a pursuer or target.</p></td>
+</tr>
+<tr>
+<td data-colwidth="284"><p>Athletics</p></td>
+<td data-colwidth="284"><p>Run through obstacles, pushing past them or climbing over them.</p></td>
+</tr>
+<tr>
+<td data-colwidth="284"><p>Deception*</p></td>
+<td data-colwidth="284"><p>Cause a distraction to create a false trail for your pursuers or confuse your target.</p></td>
+</tr>
+<tr>
+<td data-colwidth="284"><p>Deduction or</p>
+<p>Insight</p></td>
+<td data-colwidth="284"><p>Identify a shortcut, guess a target’s next move, or oppose a target’s Deception test.</p></td>
+</tr>
+<tr>
+<td data-colwidth="284"><p>Intimidation or</p>
+<p>Persuasion</p></td>
+<td data-colwidth="284"><p>Convince a bystander to help you find the target or throw off your pursuers.</p></td>
+</tr>
+<tr>
+<td data-colwidth="284"><p>Perception</p></td>
+<td data-colwidth="284"><p>Oppose a target’s Stealth test or catch sight of your pursuer closing in.</p></td>
+</tr>
+<tr>
+<td data-colwidth="284"><p>Stealth*</p></td>
+<td data-colwidth="284"><p>Duck out of sight or down a hidden alley.</p></td>
+</tr>
+<tr>
+<td data-colwidth="284"><p>Thievery</p></td>
+<td data-colwidth="284"><p>Break into a building to evade a pursuer or pursue a target.</p></td>
+</tr>
+<tr>
+<td data-colwidth="284" style="color: var(--cosmere-color-white); background-color: var(--cosmere-color-opportunity); padding-top: 0; padding-bottom: 0"><p>Plot Die</p></td>
+<td data-colwidth="284" style="color: var(--cosmere-color-white); background-color: var(--cosmere-color-opportunity); padding-top: 0; padding-bottom: 0"><p>Outcome</p></td>
+</tr>
+<tr>
+<td data-colwidth="284"><p>Opportunity</p></td>
+<td data-colwidth="284"><p>A lucky path opens up to you, or an NPC unexpectedly appears to give you aid.</p></td>
+</tr>
+<tr>
+<td data-colwidth="284"><p>Complication</p></td>
+<td data-colwidth="284"><p>An innocent bystander is endangered by your actions.</p></td>
+</tr>
+</tbody>
+</table>
 
 *The skills marked with an asterisk (\*) are especially good options for opposed tests.\*
 
 ## Scaling Adversary Threats
 
-| Party Tier vs Adversary Tier  | Minion Threat | Rival Threat | Boss Threat |
+|                               |               |              |             |
 |-------------------------------|---------------|--------------|-------------|
+| Party Tier vs Adversary Tier  | Minion Threat | Rival Threat | Boss Threat |
 | 3 tiers lower than adversary  | 4             | 8            | 32          |
 | 2 tiers lower than adversary  | 2             | 4            | 16          |
 | 1 tier lower than adversary   | 1             | 2            | 8           |
@@ -966,53 +1389,63 @@ aliases: ["Appendix 2: Tables"]
 
 ## Higher-Level Starting Rewards
 
-<table class="sl-table">
-<thead>
-<tr>
-<th colspan="2"></th>
-<th colspan="4">—Rewards—</th>
-</tr>
-</thead>
+<table class="sl-table" style="width:100%;">
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
 <tbody>
 <tr>
-<td>Starting Tier</td>
-<td>Marks</td>
-<td>Tier 1</td>
-<td>Tier 2</td>
-<td>Tier 3</td>
-<td>Tier 4+</td>
+<th colspan="2"></th>
+<th colspan="4"><p>—Rewards—</p></th>
+</tr>
+&#10;<tr>
+<td><p>Starting Tier</p></td>
+<td><p>Marks</p></td>
+<td><p>Tier 1</p></td>
+<td><p>Tier 2</p></td>
+<td><p>Tier 3</p></td>
+<td><p>Tier 4+</p></td>
 </tr>
 <tr>
-<td>Tier 1<br>(levels 2–5)</td>
-<td>200 mk</td>
-<td>1</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
+<td><p>Tier 1</p>
+<p>(levels 2–5)</p></td>
+<td><p>200 mk</p></td>
+<td><p>1</p></td>
+<td><p>—</p></td>
+<td><p>—</p></td>
+<td><p>—</p></td>
 </tr>
 <tr>
-<td>Tier 2<br>(levels 6–10)</td>
-<td>1,000 mk</td>
-<td>2</td>
-<td>1</td>
-<td>—</td>
-<td>—</td>
+<td><p>Tier 2</p>
+<p>(levels 6–10)</p></td>
+<td><p>1,000 mk</p></td>
+<td><p>2</p></td>
+<td><p>1</p></td>
+<td><p>—</p></td>
+<td><p>—</p></td>
 </tr>
 <tr>
-<td>Tier 3<br>(levels 11–15)</td>
-<td>2,000 mk</td>
-<td>2</td>
-<td>1</td>
-<td>1</td>
-<td>—</td>
+<td><p>Tier 3</p>
+<p>(levels 11–15)</p></td>
+<td><p>2,000 mk</p></td>
+<td><p>2</p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+<td><p>—</p></td>
 </tr>
 <tr>
-<td>Tier 4+<br>(levels 16+)</td>
-<td>5,000 mk</td>
-<td>2</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
+<td><p>Tier 4+</p>
+<p>(levels 16+)</p></td>
+<td><p>5,000 mk</p></td>
+<td><p>2</p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
 </tr>
 </tbody>
 </table>
@@ -1020,78 +1453,76 @@ aliases: ["Appendix 2: Tables"]
 ## Spren Types
 
 <table class="sl-table">
-<thead>
-<tr>
-<th data-colwidth="284">Spren Type</th>
-<th data-colwidth="284">Description</th>
-</tr>
-</thead>
 <tbody>
 <tr>
-<td colspan="2" data-colwidth="284,284" style="color: var(--cosmere-color-white); background-color: var(--cosmere-color-opportunity); padding-top: 0; padding-bottom: 0; font-style: italic"><em>Emotion Spren</em></td>
+<th data-colwidth="284"><p>Spren Type</p></th>
+<th data-colwidth="284"><p>Description</p></th>
+</tr>
+&#10;<tr>
+<td colspan="2" data-colwidth="284,284" style="color: var(--cosmere-color-white); background-color: var(--cosmere-color-opportunity); padding-top: 0; padding-bottom: 0; font-style: italic"><p><em>Emotion Spren</em></p></td>
 </tr>
 <tr>
-<td data-colwidth="284">Angerspren</td>
-<td data-colwidth="284">A red pool bubbling up at a person’s feet.</td>
+<td data-colwidth="284"><p>Angerspren</p></td>
+<td data-colwidth="284"><p>A red pool bubbling up at a person’s feet.</p></td>
 </tr>
 <tr>
-<td data-colwidth="284">Anticipationspren</td>
-<td data-colwidth="284">Red streamers sprouting from the ground and whipping in the air.</td>
+<td data-colwidth="284"><p>Anticipationspren</p></td>
+<td data-colwidth="284"><p>Red streamers sprouting from the ground and whipping in the air.</p></td>
 </tr>
 <tr>
-<td data-colwidth="284">Creationspren</td>
-<td data-colwidth="284">Silvery spren forming into the shapes of objects they’ve recently seen.</td>
+<td data-colwidth="284"><p>Creationspren</p></td>
+<td data-colwidth="284"><p>Silvery spren forming into the shapes of objects they’ve recently seen.</p></td>
 </tr>
 <tr>
-<td data-colwidth="284">Exhaustionspren</td>
-<td data-colwidth="284">Jets of brown dust shooting into the air.</td>
+<td data-colwidth="284"><p>Exhaustionspren</p></td>
+<td data-colwidth="284"><p>Jets of brown dust shooting into the air.</p></td>
 </tr>
 <tr>
-<td data-colwidth="284">Fearspren</td>
-<td data-colwidth="284">Violet blobs wriggling up from the ground at a person’s feet.</td>
+<td data-colwidth="284"><p>Fearspren</p></td>
+<td data-colwidth="284"><p>Violet blobs wriggling up from the ground at a person’s feet.</p></td>
 </tr>
 <tr>
-<td data-colwidth="284">Gloryspren</td>
-<td data-colwidth="284">Golden orbs of light circling in the air.</td>
+<td data-colwidth="284"><p>Gloryspren</p></td>
+<td data-colwidth="284"><p>Golden orbs of light circling in the air.</p></td>
 </tr>
 <tr>
-<td data-colwidth="284">Joyspren</td>
-<td data-colwidth="284">Blue leaves swirling up around a person.</td>
+<td data-colwidth="284"><p>Joyspren</p></td>
+<td data-colwidth="284"><p>Blue leaves swirling up around a person.</p></td>
 </tr>
 <tr>
-<td data-colwidth="284">Painspren</td>
-<td data-colwidth="284">Orange sinuous hands grasping up from the ground.</td>
+<td data-colwidth="284"><p>Painspren</p></td>
+<td data-colwidth="284"><p>Orange sinuous hands grasping up from the ground.</p></td>
 </tr>
 <tr>
-<td data-colwidth="284">Shamespren</td>
-<td data-colwidth="284">Red and white flower petals slowly falling.</td>
+<td data-colwidth="284"><p>Shamespren</p></td>
+<td data-colwidth="284"><p>Red and white flower petals slowly falling.</p></td>
 </tr>
 <tr>
-<td colspan="2" data-colwidth="284,284" style="color: var(--cosmere-color-white); background-color: var(--cosmere-color-opportunity); padding-top: 0; padding-bottom: 0; font-style: italic"><em>Nature Spren</em></td>
+<td colspan="2" data-colwidth="284,284" style="color: var(--cosmere-color-white); background-color: var(--cosmere-color-opportunity); padding-top: 0; padding-bottom: 0; font-style: italic"><p><em>Nature Spren</em></p></td>
 </tr>
 <tr>
-<td data-colwidth="284">Decayspren</td>
-<td data-colwidth="284">Barnacle-like objects clinging to decaying objects.</td>
+<td data-colwidth="284"><p>Decayspren</p></td>
+<td data-colwidth="284"><p>Barnacle-like objects clinging to decaying objects.</p></td>
 </tr>
 <tr>
-<td data-colwidth="284">Flamespren</td>
-<td data-colwidth="284">Dancing humanoid figures made of glowing light inside of fire.</td>
+<td data-colwidth="284"><p>Flamespren</p></td>
+<td data-colwidth="284"><p>Dancing humanoid figures made of glowing light inside of fire.</p></td>
 </tr>
 <tr>
-<td data-colwidth="284">Lifespren</td>
-<td data-colwidth="284">Glowing green specks floating around plant life.</td>
+<td data-colwidth="284"><p>Lifespren</p></td>
+<td data-colwidth="284"><p>Glowing green specks floating around plant life.</p></td>
 </tr>
 <tr>
-<td data-colwidth="284">Rainspren</td>
-<td data-colwidth="284">Blue candles with a single eye where the flame should be.</td>
+<td data-colwidth="284"><p>Rainspren</p></td>
+<td data-colwidth="284"><p>Blue candles with a single eye where the flame should be.</p></td>
 </tr>
 <tr>
-<td data-colwidth="284">Rotspren</td>
-<td data-colwidth="284">Tiny red insect-like spots on infected or rotting flesh.</td>
+<td data-colwidth="284"><p>Rotspren</p></td>
+<td data-colwidth="284"><p>Tiny red insect-like spots on infected or rotting flesh.</p></td>
 </tr>
 <tr>
-<td data-colwidth="284">Windspren</td>
-<td data-colwidth="284">Ribbons of light dancing in the wind and potentially changing shape.</td>
+<td data-colwidth="284"><p>Windspren</p></td>
+<td data-colwidth="284"><p>Ribbons of light dancing in the wind and potentially changing shape.</p></td>
 </tr>
 </tbody>
 </table>

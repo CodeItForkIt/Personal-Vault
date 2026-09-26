@@ -6,7 +6,7 @@ category: "Starting Kits"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Prisoner Kit"]
 ---
-![[debuff-chains-shackles-movement-blue.webp|64]]
+# Prisoner Kit
 
 **Weapons, Armor, and Spheres:** None
 

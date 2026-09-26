@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Clothing (ragged)"]
 ---
-![[shirt-simple-grey.webp|64]]
+# Clothing (ragged)
 
 **Price** 0.5 mk; **Weight** 1.5 lb.;
 

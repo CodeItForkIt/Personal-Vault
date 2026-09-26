@@ -1,0 +1,111 @@
+{
+  "nodes": [
+    {
+      "id": "aMc7ACqUVMoiEVQ6",
+      "type": "file",
+      "file": "Metalborn Paths/Mistborn/Talents/Simultaneous Burn.md",
+      "x": 1020,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "74bUCW2EsiVPtyO1",
+      "type": "file",
+      "file": "Metalborn Paths/Mistborn/Talents/Instinctual Burn.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "PlwWxzoCb9I2vyuD",
+      "type": "file",
+      "file": "Metalborn Paths/Mistborn/Talents/Selective Burn.md",
+      "x": 680,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "8chsyYKZYwaiG2Gl",
+      "type": "file",
+      "file": "Metalborn Paths/Mistborn/Talents/Trace Metals.md",
+      "x": 680,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "6jfUXLeJXeiGeW9h",
+      "type": "file",
+      "file": "Metalborn Paths/Mistborn/Talents/Invested.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "y6oDXmn8bWxBWVYJ",
+      "type": "file",
+      "file": "Metalborn Paths/Mistborn/Talents/Metallic Splash.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "Fn1P6JpToPVLc9qJ",
+      "type": "file",
+      "file": "Metalborn Paths/Mistborn/Talents/Mistborn Snap.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "Fn1P6JpToPVLc9qJ",
+      "fromSide": "right",
+      "toNode": "6jfUXLeJXeiGeW9h",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "y6oDXmn8bWxBWVYJ",
+      "fromSide": "right",
+      "toNode": "74bUCW2EsiVPtyO1",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "6jfUXLeJXeiGeW9h",
+      "fromSide": "right",
+      "toNode": "8chsyYKZYwaiG2Gl",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "y6oDXmn8bWxBWVYJ",
+      "fromSide": "right",
+      "toNode": "PlwWxzoCb9I2vyuD",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "74bUCW2EsiVPtyO1",
+      "fromSide": "right",
+      "toNode": "aMc7ACqUVMoiEVQ6",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "Fn1P6JpToPVLc9qJ",
+      "fromSide": "right",
+      "toNode": "y6oDXmn8bWxBWVYJ",
+      "toSide": "left"
+    }
+  ]
+}

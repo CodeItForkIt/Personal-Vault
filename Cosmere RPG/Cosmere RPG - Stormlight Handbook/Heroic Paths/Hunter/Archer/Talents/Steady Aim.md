@@ -6,9 +6,9 @@ category: "Hunter / Archer / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Steady Aim"]
 ---
-![[person-archery-bow-attack-orange.webp|64]]
+# Steady Aim
 
-**Activation:** One Action
+**Activation:** 1
 
 *Your shot finds its mark even across dizzying distances.*
 

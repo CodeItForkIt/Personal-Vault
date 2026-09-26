@@ -6,9 +6,9 @@ category: "Scholar / Artifabrian / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Deep Study"]
 ---
-![[academics-study-reading-book.webp|64]]
+# Deep Study
 
-**Activation:** Special Activation
+**Activation:** 8
 
 *Driven by academic inquiry, you love nothing more than getting lost in an archive of books, scrolls, and dusty secrets.*
 

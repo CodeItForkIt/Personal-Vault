@@ -9,22 +9,11 @@ aliases: ["Gamish"]
 # Gamish
 
 **Tier:** 1  
-**Size:** medium
-
-| Strength | Speed | Intellect | Willpower | Awareness | Presence |
-|---|---|---|---|---|---|
-| 2 | 2 | 1 | 1 | 2 | 1 |
-
-| Health | Focus | Investiture |
-|---|---|---|
-| 14/14 | 3/3 | 0 |
-
+**Size:** medium  
+**Attributes:** Strength 2, Speed 2, Intellect 1, Willpower 1, Awareness 2, Presence 1  
+**Resources:** Health 14/14, Focus 3/3, Investiture 0  
 **Deflect:** 2  
-**Speed:** 20 ft.
-
-| ATH | HWP | LWP | DIS | INM | PRC |
-|---|---|---|---|---|---|
-| 2 | 2 | 1 | 1 | 2 | 2 |
+**Skills:** ATH 2, HWP 2, LWP 1, DIS 1, INM 2, PRC 2
 
 ##### Tactics
 
@@ -38,7 +27,7 @@ At the start of each scene, if the Gamish has their shield and isn't Surprised, 
 ### Military Tactics
 *1 spe*
 
-Once per round, the Gamish can spend 1 additional focus to use the Aid or Reactive Strike reaction without using their Reaction.
+Once per round, the Gamish can spend 1 additional focus to use the Aid or Reactive Strike reaction without using their r.
 
 ### Shield Bash
 *1 act*

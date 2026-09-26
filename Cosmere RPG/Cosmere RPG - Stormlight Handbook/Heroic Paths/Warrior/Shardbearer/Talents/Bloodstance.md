@@ -6,9 +6,9 @@ category: "Warrior / Shardbearer / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Bloodstance"]
 ---
-![[strike-beam-blood-large-red-purple.webp|64]]
+# Bloodstance
 
-**Activation:** Special Activation
+**Activation:** 1
 
 *You assume a reckless, violent stance that trades defense for deadly power.*
 

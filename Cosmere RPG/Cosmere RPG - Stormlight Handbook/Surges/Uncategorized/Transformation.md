@@ -6,7 +6,7 @@ category: "Uncategorized"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "power"]
 aliases: ["Transformation"]
 ---
-![[Transformation_Surge-glyph.svg|64]]
+# Transformation
 
 **Radiant Orders:** Elsecaller, Lightweaver
 

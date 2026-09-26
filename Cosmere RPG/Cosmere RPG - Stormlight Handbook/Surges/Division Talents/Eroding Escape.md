@@ -6,7 +6,7 @@ category: "Division Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Eroding Escape"]
 ---
-![[portal-vortex-orange.webp|64]]
+# Eroding Escape
 
 **Activation:** 1
 

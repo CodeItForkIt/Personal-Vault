@@ -6,9 +6,9 @@ category: "Windrunner / Talents / Honorspren Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Reverse Lashing"]
 ---
-![[arrows-flying-triple-blue.webp|64]]
+# Reverse Lashing
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You can infuse things with a mix of Adhesion and Gravitation, giving them a weak gravitational pull on specific objects.*
 

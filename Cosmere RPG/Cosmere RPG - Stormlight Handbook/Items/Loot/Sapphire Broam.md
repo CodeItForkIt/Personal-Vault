@@ -6,6 +6,6 @@ category: "Loot"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "loot"]
 aliases: ["Sapphire Broam"]
 ---
-![[sphere_sapphire_broam.webp|64]]
+# Sapphire Broam
 
 

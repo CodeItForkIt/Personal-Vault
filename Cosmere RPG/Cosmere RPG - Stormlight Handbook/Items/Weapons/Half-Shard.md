@@ -6,7 +6,7 @@ category: "Weapons"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "weapon"]
 aliases: ["Half-Shard"]
 ---
-![[heater-steel-engraved-lance-rest.webp|64]]
+# Half-Shard
 
 **Damage** 2d4 impact; **Range** Melee; **Traits** Defensive, Two-Handed, Unique; **Expert Traits** Momentum;
 

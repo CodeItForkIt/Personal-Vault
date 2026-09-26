@@ -6,7 +6,7 @@ category: "Weapons"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "weapon"]
 aliases: ["Rapier"]
 ---
-![[sword-hooked.webp|64]]
+# Rapier
 
 **Damage** 1d6 keen; **Range** Melee; **Traits** Quickdraw; **Expert Traits** Defensive;
 

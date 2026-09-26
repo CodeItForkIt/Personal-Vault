@@ -1,0 +1,151 @@
+{
+  "nodes": [
+    {
+      "id": "GnWvzJCns51HUg2E",
+      "type": "file",
+      "file": "Radiant Paths/Windrunner/Talents/Honorspren Bond/Reverse Lashing.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "OBd4OPmZzoS8bwc1",
+      "type": "file",
+      "file": "Radiant Paths/Windrunner/Talents/Honorspren Bond/Second Ideal Windrunner.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "Ri6XbKI8x39j13tu",
+      "type": "file",
+      "file": "Radiant Paths/Windrunner/Talents/Honorspren Bond/Deepened Bond.md",
+      "x": 1020,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "FoSvbgo8a7A5Ffn7",
+      "type": "file",
+      "file": "Radiant Paths/Windrunner/Talents/Honorspren Bond/Fourth Ideal Windrunner.md",
+      "x": 1020,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "iYa37S4PqAx96rgA",
+      "type": "file",
+      "file": "Radiant Paths/Windrunner/Talents/Honorspren Bond/Take Squire Windrunner.md",
+      "x": 1020,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "a9n52ANqIK9VwlAc",
+      "type": "file",
+      "file": "Radiant Paths/Windrunner/Talents/Honorspren Bond/Wound Regeneration.md",
+      "x": 1020,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "j1Wp2YXGxx195dZv",
+      "type": "file",
+      "file": "Radiant Paths/Windrunner/Talents/Honorspren Bond/Invested.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "jKhwLD9Pgd7PHSB1",
+      "type": "file",
+      "file": "Radiant Paths/Windrunner/Talents/Honorspren Bond/Third Ideal Windrunner.md",
+      "x": 680,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "JmIwFQ7pNdCzaH5L",
+      "type": "file",
+      "file": "Radiant Paths/Windrunner/Talents/First Ideal Windrunner.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "jKhwLD9Pgd7PHSB1",
+      "fromSide": "right",
+      "toNode": "FoSvbgo8a7A5Ffn7",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "JmIwFQ7pNdCzaH5L",
+      "fromSide": "right",
+      "toNode": "GnWvzJCns51HUg2E",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "JmIwFQ7pNdCzaH5L",
+      "fromSide": "right",
+      "toNode": "OBd4OPmZzoS8bwc1",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "jKhwLD9Pgd7PHSB1",
+      "fromSide": "right",
+      "toNode": "Ri6XbKI8x39j13tu",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "j1Wp2YXGxx195dZv",
+      "fromSide": "right",
+      "toNode": "a9n52ANqIK9VwlAc",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "jKhwLD9Pgd7PHSB1",
+      "fromSide": "right",
+      "toNode": "iYa37S4PqAx96rgA",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "GnWvzJCns51HUg2E",
+      "fromSide": "right",
+      "toNode": "j1Wp2YXGxx195dZv",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge7",
+      "fromNode": "OBd4OPmZzoS8bwc1",
+      "fromSide": "right",
+      "toNode": "jKhwLD9Pgd7PHSB1",
+      "toSide": "left",
+      "label": "or"
+    }
+  ]
+}

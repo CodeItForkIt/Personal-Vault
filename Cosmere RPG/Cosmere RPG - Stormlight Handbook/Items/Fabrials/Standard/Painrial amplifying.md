@@ -6,7 +6,7 @@ category: "Fabrials / Standard"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "weapon"]
 aliases: ["Painrial (amplifying)"]
 ---
-![[ICON_Painrial_Augmenter.webp|64]]
+# Painrial (amplifying)
 
 **Price** 750 mk; **Weight** 1 lb.; **Charges** 3;
 

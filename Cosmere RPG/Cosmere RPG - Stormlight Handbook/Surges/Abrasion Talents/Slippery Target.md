@@ -6,9 +6,9 @@ category: "Abrasion Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Slippery Target"]
 ---
-![[crosshair-bars-yellow.webp|64]]
+# Slippery Target
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You make yourself so slick that glancing and hasty blows slide right off you.*
 

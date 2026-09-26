@@ -6,9 +6,9 @@ category: "Abrasion Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Graceful Skating"]
 ---
-![[chevrons-down-yellow.webp|64]]
+# Graceful Skating
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You dynamically skate around the battlefield, easily slipping away from your foes.*
 

@@ -6,6 +6,6 @@ category: "Stormlight Actions & Features / Gravitation"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "trait"]
 aliases: ["Skyborn"]
 ---
-![[birds-flock-fly-yellow.webp|64]]
+# Skyborn
 
 The Actor Name doesn't trigger Reactive Strikes while flying.

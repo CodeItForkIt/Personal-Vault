@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Blanket"]
 ---
-![[cloth-roll-orange.webp|64]]
+# Blanket
 
 **Price** 2 mk; **Weight** 2 lb.;
 

@@ -9,21 +9,10 @@ aliases: ["Brightlord Meridas Amaram"]
 # Brightlord Meridas Amaram
 
 **Tier:** 2  
-**Size:** medium
-
-| Strength | Speed | Intellect | Willpower | Awareness | Presence |
-|---|---|---|---|---|---|
-| 3 | 4 | 2 | 3 | 2 | 4 |
-
-| Health | Focus | Investiture |
-|---|---|---|
-| 40/40 | 5/5 | 0 |
-
-**Speed:** 40 ft.
-
-| AGI | HWP | LWP | DIS | INM | INS | LEA | PRS |
-|---|---|---|---|---|---|---|---|
-| 2 | 3 | 3 | 1 | 2 | 2 | 2 | 2 |
+**Size:** medium  
+**Attributes:** Strength 3, Speed 4, Intellect 2, Willpower 3, Awareness 2, Presence 4  
+**Resources:** Health 40/40, Focus 5/5, Investiture 0  
+**Skills:** AGI 2, HWP 3, LWP 3, DIS 1, INM 2, INS 2, LEA 2, PRS 2
 
 ##### Tactics
 
@@ -34,19 +23,19 @@ Shardbearers are incredible warriors who control the battlefield. A **duelist Sh
 
 The Brightlord Meridas Amaram shifts into one of the following stances, losing the effects of any previous stance and gaining the effects of the new stance:
 
-**Flamestance.** While there's only one enemy within 5 feet of the Brightlord Meridas Amaram and no enemies within 5 feet of them or that enemy, the Brightlord Meridas Amaram can use Free Action to gain One Action, which they can spend only on the Gain Advantage action or on an action that includes an attack test.
+**Flamestance.** While there's only one enemy within 5 feet of the Brightlord Meridas Amaram and no enemies within 5 feet of them or that enemy, the Brightlord Meridas Amaram can use 0 to gain 1, which they can spend only on the Gain Advantage action or on an action that includes an attack test.
 
-**Windstance.** While there are two or more enemies within 5 feet of the Brightlord Meridas Amaram, the Brightlord Meridas Amaram can use Free Action to gain One Action, which they can spend only on the Disengage action or on an action that includes an attack test.
+**Windstance.** While there are two or more enemies within 5 feet of the Brightlord Meridas Amaram, the Brightlord Meridas Amaram can use 0 to gain 1, which they can spend only on the Disengage action or on an action that includes an attack test.
 
 ### Feint
 *1 act*
 
-The Brightlord Meridas Amaram tests Heavy Weaponry against the Cognitive defense of a target within 5 feet of them. If the Brightlord Meridas Amaram succeeds, the target loses Reaction and `1d4` focus. The Brightlord Meridas Amaram can spend Opportunity from this test to use their Change Stance action as Free Action without spending focus.
+The Brightlord Meridas Amaram tests Heavy Weaponry against the Cognitive defense of a target within 5 feet of them. If the Brightlord Meridas Amaram succeeds, the target loses r and `1d4` focus. The Brightlord Meridas Amaram can spend O from this test to use their Change Stance action as 0 without spending focus.
 
 ### Jarring Insight
 *1 act*
 
-The Brightlord Meridas Amaram reads their enemy with practiced ease, making an opposed *Test: `skill=ins`* against the target's Discipline. If the Brightlord Meridas Amaram succeeds, the target loses one One Action at the beginning of their next turn, or if they're in a conversation, the target gains a disadvantage on their next contribution.
+The Brightlord Meridas Amaram reads their enemy with practiced ease, making an opposed *Test: `skill=ins`* against the target's Discipline. If the Brightlord Meridas Amaram succeeds, the target loses one 1 at the beginning of their next turn, or if they're in a conversation, the target gains a disadvantage on their next contribution.
 
 ### Reposition
 *1 rea*

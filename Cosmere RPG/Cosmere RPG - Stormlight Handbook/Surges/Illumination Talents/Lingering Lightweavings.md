@@ -6,9 +6,9 @@ category: "Illumination Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Lingering Lightweavings"]
 ---
-![[runes-triangle-blue.webp|64]]
+# Lingering Lightweavings
 
-**Activation:** One Action
+**Activation:** \*
 
 *You infuse spheres with your Illumination, creating illusions that linger long after you’ve moved away.*
 

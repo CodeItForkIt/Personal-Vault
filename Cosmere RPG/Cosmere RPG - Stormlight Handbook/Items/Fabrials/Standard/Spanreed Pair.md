@@ -6,7 +6,7 @@ category: "Fabrials / Standard"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Spanreed (Pair)"]
 ---
-![[ICON_Spanreed.webp|64]]
+# Spanreed (Pair)
 
 **Price** 100 mk; **Weight** 1 lb. each **Charges** 3;
 

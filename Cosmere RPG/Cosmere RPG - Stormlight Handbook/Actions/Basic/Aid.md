@@ -6,7 +6,7 @@ category: "Basic"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "action"]
 aliases: ["Aid"]
 ---
-![[diplomacy-handshake.webp|64]]
+# Aid
 
 You step in to help an ally. Before an ally makes a skill test, you can use this reaction and spend 1 focus to grant them an advantage on their test.
 

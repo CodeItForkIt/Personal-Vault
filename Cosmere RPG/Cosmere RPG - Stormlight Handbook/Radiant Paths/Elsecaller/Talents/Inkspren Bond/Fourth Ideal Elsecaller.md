@@ -6,9 +6,9 @@ category: "Elsecaller / Talents / Inkspren Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Fourth Ideal (Elsecaller)"]
 ---
-![[rune-sigil-white-pink.webp|64]]
+# Fourth Ideal (Elsecaller)
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You seek to become a full Knight Radiant by speaking the Fourth Ideal.*
 

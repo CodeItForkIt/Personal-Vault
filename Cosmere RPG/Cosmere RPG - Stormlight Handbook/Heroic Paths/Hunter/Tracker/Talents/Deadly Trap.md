@@ -6,9 +6,9 @@ category: "Hunter / Tracker / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Deadly Trap"]
 ---
-![[chain-steel-grey.webp|64]]
+# Deadly Trap
 
-**Activation:** Special Activation
+**Activation:** 2
 
 *You know how to build traps and snares to catch wildlife— or even deadlier game!*
 

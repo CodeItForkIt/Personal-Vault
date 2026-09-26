@@ -6,9 +6,9 @@ category: "Agent / Investigator / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Get 'Em Talking"]
 ---
-![[thumbsup-approval-like.webp|64]]
+# Get 'Em Talking
 
-**Activation:** Always Active
+**Activation:** 2
 
 *With a leading question or cutting remark, you goad others into revealing their motives.*
 

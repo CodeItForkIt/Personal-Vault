@@ -6,7 +6,7 @@ category: "Starting Kits"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Academic Kit"]
 ---
-![[pack-engraved-leather-blue.webp|64]]
+# Academic Kit
 
 **Weapons:** One knife, sling, or staff
 

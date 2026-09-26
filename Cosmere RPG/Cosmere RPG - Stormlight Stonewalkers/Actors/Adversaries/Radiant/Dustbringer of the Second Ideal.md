@@ -9,22 +9,11 @@ aliases: ["Dustbringer of the Second Ideal"]
 # Dustbringer of the Second Ideal
 
 **Tier:** 2  
-**Size:** medium
-
-| Strength | Speed | Intellect | Willpower | Awareness | Presence |
-|---|---|---|---|---|---|
-| 2 | 3 | 3 | 2 | 3 | 1 |
-
-| Health | Focus | Investiture |
-|---|---|---|
-| 40/40 | 4/4 | 5/5 |
-
+**Size:** medium  
+**Attributes:** Strength 2, Speed 3, Intellect 3, Willpower 2, Awareness 3, Presence 1  
+**Resources:** Health 40/40, Focus 4/4, Investiture 5/5  
 **Deflect:** 2  
-**Speed:** 30 ft.
-
-| AGI | LWP | STL | DIS | INM | LEA | PRC | DVS | ABR |
-|---|---|---|---|---|---|---|---|---|
-| 3 | 3 | 3 | 2 | 2 | 2 | 2 | 3 | 2 |
+**Skills:** AGI 3, LWP 3, STL 3, DIS 2, INM 2, LEA 2, PRC 2, DVS 3, ABR 2
 
 ##### Tactics
 
@@ -42,7 +31,7 @@ A **Dustbringer of the Second Ideal** carves a destructive path in and out of me
 ### Burst of Flame
 *3 act*
 
-The Dustbringer of the Second Ideal emits a burst of fire that deals `1d8 Energy average` to each character within 10 feet of them and sets unattended objects in that area ablaze. Additionally, the Dustbringer of the Second Ideal can spend 1 focus or more to shower sparks onto that many enemies within 30 feet of them; each target must succeed on a *Test: `skill=agi dc=14`* or lose one One Action on their next turn.
+The Dustbringer of the Second Ideal emits a burst of fire that deals `1d8 Energy average` to each character within 10 feet of them and sets unattended objects in that area ablaze. Additionally, the Dustbringer of the Second Ideal can spend 1 focus or more to shower sparks onto that many enemies within 30 feet of them; each target must succeed on a *Test: `skill=agi dc=14`* or lose one 1 on their next turn.
 
 ### Eroding Escape
 *1 act*
@@ -69,7 +58,7 @@ While they have 1 Investiture or more, the Dustbringer of the Second Ideal's mov
 
 **Graze** `1d6 Keen average`;
 
-**Hit** `1d6 + 6 Keen average`, and the Dustbringer of the Second Ideal can spend 1 focus to use the Disengage action as Free Action.
+**Hit** `1d6 + 6 Keen average`, and the Dustbringer of the Second Ideal can spend 1 focus to use the Disengage action as 0.
 
 ### Strike: Shortbow
 *1 act*

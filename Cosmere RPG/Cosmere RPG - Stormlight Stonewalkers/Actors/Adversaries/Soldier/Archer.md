@@ -9,22 +9,11 @@ aliases: ["Archer"]
 # Archer
 
 **Tier:** 1  
-**Size:** medium
-
-| Strength | Speed | Intellect | Willpower | Awareness | Presence |
-|---|---|---|---|---|---|
-| 2 | 1 | 2 | 1 | 2 | 1 |
-
-| Health | Focus | Investiture |
-|---|---|---|
-| 12/12 | 3/3 | 0 |
-
+**Size:** medium  
+**Attributes:** Strength 2, Speed 1, Intellect 2, Willpower 1, Awareness 2, Presence 1  
+**Resources:** Health 12/12, Focus 3/3, Investiture 0  
 **Deflect:** 1  
-**Speed:** 10 ft.
-
-| AGI | HWP | LWP | DIS | PRC | SUR |
-|---|---|---|---|---|---|
-| 2 | 2 | 2 | 2 | 2 | 1 |
+**Skills:** AGI 2, HWP 2, LWP 2, DIS 2, PRC 2, SUR 1
 
 ##### Tactics
 
@@ -33,7 +22,7 @@ Soldiers are trained to be effective on a battlefield in their specialized roles
 ### Take Aim
 *1 fre*
 
-On the Archer's first turn of each scene, if they aren't Surprised, they can use the Gain Advantage action as Free Action.
+On the Archer's first turn of each scene, if they aren't Surprised, they can use the Gain Advantage action as 0.
 
 ### Immobilizing Shot
 *1 rea*

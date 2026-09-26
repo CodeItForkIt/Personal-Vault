@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Pot (iron)"]
 ---
-![[cauldron-empty.webp|64]]
+# Pot (iron)
 
 **Price** 8 mk; **Weight** 10 lb.;
 

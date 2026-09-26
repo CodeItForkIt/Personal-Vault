@@ -6,7 +6,7 @@ category: "Stoneward / Talents / Peakspren Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Cohesive Teamwork"]
 ---
-![[armor-shield-barrier-steel.webp|64]]
+# Cohesive Teamwork
 
 **Activation:** 8
 

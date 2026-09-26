@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Treatment (medical, 1 dose)"]
 ---
-![[bowl-herbs-green.webp|64]]
+# Treatment (medical, 1 dose)
 
 **Price** 10 mk; **Weight** 0.2 lb.;
 

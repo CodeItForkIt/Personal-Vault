@@ -6,7 +6,7 @@ category: "Strikes"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "action"]
 aliases: ["Strike: Ranged Weapon"]
 ---
-![[shortbow-recurve-red.webp|64]]
+# Strike: Ranged Weapon
 
 **Attack** +2; **Range** 80/320 ft; **Targets** one;
 

@@ -9,21 +9,10 @@ aliases: ["Midnight Essence"]
 # Midnight Essence
 
 **Tier:** 3  
-**Size:** medium
-
-| Strength | Speed | Intellect | Willpower | Awareness | Presence |
-|---|---|---|---|---|---|
-| 5 | 4 | 1 | 4 | 4 | 2 |
-
-| Health | Focus | Investiture |
-|---|---|---|
-| 52/52 | 6/6 | 0 |
-
-**Speed:** 40 ft.
-
-| AGI | ATH | DEC | PRC | SUR |
-|---|---|---|---|---|
-| 4 | 4 | 2 | 3 | 4 |
+**Size:** medium  
+**Attributes:** Strength 5, Speed 4, Intellect 1, Willpower 4, Awareness 4, Presence 2  
+**Resources:** Health 52/52, Focus 6/6, Investiture 0  
+**Skills:** AGI 4, ATH 4, DEC 2, PRC 3, SUR 4
 
 ##### Tactics
 
@@ -65,4 +54,4 @@ The Midnight Essence's mannerisms unsettle its foes. Each enemy within 5 feet of
 ### Mimic Violence
 *1 rea*
 
-After a character the Midnight Essence can sense within 60 feet of it uses a free action or an action that costs no more than One Action, the Midnight Essence crudely copies the same action, choosing a new target if it wishes. The Midnight Essence must be able to reasonably shift its form to mimic any objects or forces essential to that action, it can't use an action requiring Investiture, and it must spend focus if required by that action.
+After a character the Midnight Essence can sense within 60 feet of it uses a free action or an action that costs no more than 1, the Midnight Essence crudely copies the same action, choosing a new target if it wishes. The Midnight Essence must be able to reasonably shift its form to mimic any objects or forces essential to that action, it can't use an action requiring Investiture, and it must spend focus if required by that action.

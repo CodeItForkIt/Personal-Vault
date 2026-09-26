@@ -6,7 +6,7 @@ category: "Weapons"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "weapon"]
 aliases: ["Warhammer"]
 ---
-![[hammer-double-steel.webp|64]]
+# Warhammer
 
 **Damage** 2d10 impact; **Range** Melee; **Traits** Cumbersome [5]wo-Handed; **Expert Traits** Unique;
 
@@ -18,5 +18,5 @@ Rosharan warhammers have hafts as thick as a warrior’s wrist and a metal head 
 
 If you have the Warhammer specialist expertise, add the following special expert trait:
 
-**Crushing Weight**. When you hit a character of your size or smaller with an attack using this weapon, you can also push them horizontally up to 10 feet. When you do, you can also spend Opportunity to choose any number of other characters of your size or smaller within your reach, pushing them the same direction and distance.\
+**Crushing Weight**. When you hit a character of your size or smaller with an attack using this weapon, you can also push them horizontally up to 10 feet. When you do, you can also spend O to choose any number of other characters of your size or smaller within your reach, pushing them the same direction and distance.\
 \

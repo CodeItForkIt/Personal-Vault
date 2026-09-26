@@ -6,7 +6,7 @@ category: "Transportation Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Cognitive Vision"]
 ---
-![[eye-slit-orange.webp|64]]
+# Cognitive Vision
 
 **Activation:** 8
 

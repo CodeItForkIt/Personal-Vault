@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Bucket"]
 ---
-![[bucket-steel.webp|64]]
+# Bucket
 
 **Price** 1 mk; **Weight** 2 lb.;
 

@@ -1,0 +1,142 @@
+{
+  "nodes": [
+    {
+      "id": "zQj1KWE6fGbg2wqE",
+      "type": "file",
+      "file": "Surges/Division Talents/Bodily Decay.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "trYQ6tv5OgWZIe0b",
+      "type": "file",
+      "file": "Surges/Division Talents/Eroding Escape.md",
+      "x": 0,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "jJrjgnmXGVjSnKcO",
+      "type": "file",
+      "file": "Surges/Division Talents/Igniting Division.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "mZTANhMAq4zSpfRQ",
+      "type": "file",
+      "file": "Surges/Division Talents/Spark Sending.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "pyhIomGRHgbW106V",
+      "type": "file",
+      "file": "Surges/Division Talents/Devastating Division.md",
+      "x": 1020,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "oya1dYHbCLr9rV15",
+      "type": "file",
+      "file": "Surges/Division Talents/Unleashed Entropy.md",
+      "x": 1020,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "IpxVuVemkw1sViSe",
+      "type": "file",
+      "file": "Surges/Division Talents/Gout of Flame.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "Zt9XSGzkKUVeaC6Q",
+      "type": "file",
+      "file": "Surges/Division Talents/Inescapable Spark.md",
+      "x": 680,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "jJrjgnmXGVjSnKcO",
+      "fromSide": "right",
+      "toNode": "IpxVuVemkw1sViSe",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "mZTANhMAq4zSpfRQ",
+      "fromSide": "right",
+      "toNode": "Zt9XSGzkKUVeaC6Q",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "zQj1KWE6fGbg2wqE",
+      "fromSide": "right",
+      "toNode": "jJrjgnmXGVjSnKcO",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "trYQ6tv5OgWZIe0b",
+      "fromSide": "right",
+      "toNode": "mZTANhMAq4zSpfRQ",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "zQj1KWE6fGbg2wqE",
+      "fromSide": "right",
+      "toNode": "mZTANhMAq4zSpfRQ",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "Zt9XSGzkKUVeaC6Q",
+      "fromSide": "right",
+      "toNode": "oya1dYHbCLr9rV15",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "IpxVuVemkw1sViSe",
+      "fromSide": "right",
+      "toNode": "oya1dYHbCLr9rV15",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge7",
+      "fromNode": "IpxVuVemkw1sViSe",
+      "fromSide": "right",
+      "toNode": "pyhIomGRHgbW106V",
+      "toSide": "left",
+      "label": "or"
+    }
+  ]
+}

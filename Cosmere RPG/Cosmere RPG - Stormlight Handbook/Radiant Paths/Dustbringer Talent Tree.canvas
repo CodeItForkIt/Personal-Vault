@@ -1,0 +1,143 @@
+{
+  "nodes": [
+    {
+      "id": "0qgxH4KlAre0SRHJ",
+      "type": "file",
+      "file": "Radiant Paths/Dustbringer/Talents/Ashspren Bond/Invested.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "N2I2BxFIzXaiYIXY",
+      "type": "file",
+      "file": "Radiant Paths/Dustbringer/Talents/Ashspren Bond/Third Ideal Dustbringer.md",
+      "x": 680,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "RFAVBTgvHHNK0rsJ",
+      "type": "file",
+      "file": "Radiant Paths/Dustbringer/Talents/Ashspren Bond/Deepened Bond.md",
+      "x": 1020,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "5CL8objY5Mn32epb",
+      "type": "file",
+      "file": "Radiant Paths/Dustbringer/Talents/Ashspren Bond/Fourth Ideal Dustbringer.md",
+      "x": 1020,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "lgBtie9jNbgesnlx",
+      "type": "file",
+      "file": "Radiant Paths/Dustbringer/Talents/Ashspren Bond/Take Squire Dustbringer.md",
+      "x": 1020,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "W9Uzq2HAsS7BDeR6",
+      "type": "file",
+      "file": "Radiant Paths/Dustbringer/Talents/Ashspren Bond/Wound Regeneration.md",
+      "x": 1020,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "3TNnwNIElLusrzEC",
+      "type": "file",
+      "file": "Radiant Paths/Dustbringer/Talents/First Ideal Dustbringer.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "uGmdfl7MyHR8BovL",
+      "type": "file",
+      "file": "Radiant Paths/Dustbringer/Talents/Ashspren Bond/Searing Dust Storm.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "ypPfkCEc4gHdOOv0",
+      "type": "file",
+      "file": "Radiant Paths/Dustbringer/Talents/Ashspren Bond/Second Ideal Dustbringer.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "uGmdfl7MyHR8BovL",
+      "fromSide": "right",
+      "toNode": "0qgxH4KlAre0SRHJ",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "N2I2BxFIzXaiYIXY",
+      "fromSide": "right",
+      "toNode": "5CL8objY5Mn32epb",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "ypPfkCEc4gHdOOv0",
+      "fromSide": "right",
+      "toNode": "N2I2BxFIzXaiYIXY",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "N2I2BxFIzXaiYIXY",
+      "fromSide": "right",
+      "toNode": "RFAVBTgvHHNK0rsJ",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "0qgxH4KlAre0SRHJ",
+      "fromSide": "right",
+      "toNode": "W9Uzq2HAsS7BDeR6",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "N2I2BxFIzXaiYIXY",
+      "fromSide": "right",
+      "toNode": "lgBtie9jNbgesnlx",
+      "toSide": "left"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "3TNnwNIElLusrzEC",
+      "fromSide": "right",
+      "toNode": "uGmdfl7MyHR8BovL",
+      "toSide": "left"
+    },
+    {
+      "id": "edge7",
+      "fromNode": "3TNnwNIElLusrzEC",
+      "fromSide": "right",
+      "toNode": "ypPfkCEc4gHdOOv0",
+      "toSide": "left"
+    }
+  ]
+}

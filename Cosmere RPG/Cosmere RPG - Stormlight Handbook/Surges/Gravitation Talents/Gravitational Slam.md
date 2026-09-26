@@ -6,9 +6,9 @@ category: "Gravitation Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Gravitational Slam"]
 ---
-![[trail-streak-impact-blue.webp|64]]
+# Gravitational Slam
 
-**Activation:** Always Active
+**Activation:** 8
 
 *Your Basic Lashings become more forceful and potentially dangerous on impact.*
 

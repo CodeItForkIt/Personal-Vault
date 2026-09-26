@@ -6,7 +6,7 @@ category: "Singer / Forms"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "action"]
 aliases: ["Direform"]
 ---
-![[silhouette-aura-energy.webp|64]]
+# Direform
 
 *Direform specializes in unyielding strength and persistence, and this form is commonly used to guard objects or prisoners. You have substantial carapace with a jagged crest of spikes running along your head and shoulders. You’re inclined toward obedience to your superiors but obstinacy with others.*
 

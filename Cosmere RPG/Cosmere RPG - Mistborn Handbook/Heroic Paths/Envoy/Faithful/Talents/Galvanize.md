@@ -1,0 +1,15 @@
+---
+title: "Galvanize"
+type: "talent"
+module: "Cosmere RPG - Mistborn Handbook"
+category: "Envoy / Faithful / Talents"
+tags: ["cosmere-rpg", "cosmere-rpg-mistborn-handbook", "talent"]
+aliases: ["Galvanize"]
+---
+# Galvanize
+
+**Activation:** **2**
+
+*You speak to an ally with infectious fervor, renewing their focus on your shared goals.*
+
+Once per scene, choose an ally you can influence. They can roll their recovery die (no action required) and recover focus equal to the result.

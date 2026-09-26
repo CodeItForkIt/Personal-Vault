@@ -6,7 +6,7 @@ category: "Travel / Mounts"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Ryshadium"]
 ---
-![[horse-tan.webp|64]]
+# Ryshadium
 
 **Pruchase Price** Reward only; **Carrying Capacity** 1,000 lb.; **Travel Speed** 6 mph
 

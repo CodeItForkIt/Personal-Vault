@@ -6,7 +6,7 @@ category: "Hunter / Tracker / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Surefooted"]
 ---
-![[feet-spurred-boots-brown.webp|64]]
+# Surefooted
 
 **Activation:** 8
 

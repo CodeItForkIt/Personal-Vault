@@ -6,6 +6,6 @@ category: "Stormlight Actions & Features / Abrasion"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "action"]
 aliases: ["Skate"]
 ---
-![[ball-spinning-blue.webp|64]]
+# Skate
 
 The Actor Name moves up to their movement rate in a straight line.

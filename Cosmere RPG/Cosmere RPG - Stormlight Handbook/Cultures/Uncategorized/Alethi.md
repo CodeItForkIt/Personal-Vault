@@ -6,7 +6,7 @@ category: "Uncategorized"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "culture"]
 aliases: ["Alethi"]
 ---
-![[alethi-t.webp|64]]
+# Alethi
 
 Alethkar is ruled by a monarch and ten highprinces, and the nation is driven by war and conquest. The Vorin religion is practiced by proxy, with ardents acting as religious servants of the noble class. Gender roles are strictly enforced in Alethi society: women are expected to engage in scholarly and domestic pursuits, and men in warfare and physical labor. However, ardents have more flexibility to exist outside of the harsh gender binary imposed by Vorinism. The lightness of one’s eyes determines their social caste, with the privileged dahn system designated for lighteyes and persecuted nahn for darkeyes. Singers and some darkeyed humans suffer enslavement at the hands of the upper class.
 

@@ -6,7 +6,7 @@ category: "Tension Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Clothsmith"]
 ---
-![[armor-stone-skin.webp|64]]
+# Clothsmith
 
 **Activation:** 8
 

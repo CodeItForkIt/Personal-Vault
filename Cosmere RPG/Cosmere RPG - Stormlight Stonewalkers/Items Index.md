@@ -16,6 +16,7 @@
 - [[Items/Surges/Tension Surge|Tension Surge]]
 
 ### Surges / Cohesion
+- [[Items/Surges/Cohesion/Cohesion Talents|Cohesion Talents]]
 - [[Items/Surges/Cohesion/Flowing Earth|Flowing Earth]]
 - [[Items/Surges/Cohesion/Memories of Stone|Memories of Stone]]
 - [[Items/Surges/Cohesion/Sinkhole|Sinkhole]]
@@ -34,6 +35,7 @@
 - [[Items/Surges/Tension/Stormlight Reclamation|Stormlight Reclamation]]
 - [[Items/Surges/Tension/Surface Tension|Surface Tension]]
 - [[Items/Surges/Tension/Tension Parry|Tension Parry]]
+- [[Items/Surges/Tension/Tension Talents|Tension Talents]]
 
 #### Surges / Tension / Effects
 - [[Items/Surges/Tension/Effects/Hardened Defense|Hardened Defense]]

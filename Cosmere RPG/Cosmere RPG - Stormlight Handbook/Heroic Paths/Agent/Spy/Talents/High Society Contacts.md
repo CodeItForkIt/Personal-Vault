@@ -6,9 +6,9 @@ category: "Agent / Spy / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["High Society Contacts"]
 ---
-![[diplomacy-handshake.webp|64]]
+# High Society Contacts
 
-**Activation:** Special Action
+**Activation:** \*
 
 *Your patron’s name opens doors for you, even in unfamiliar places. By invoking their name or network in the right context, you can expand your influence even further.*
 

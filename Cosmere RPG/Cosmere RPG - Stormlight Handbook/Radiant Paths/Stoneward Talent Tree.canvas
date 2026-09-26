@@ -1,0 +1,143 @@
+{
+  "nodes": [
+    {
+      "id": "e2STynVTwC5MNeMy",
+      "type": "file",
+      "file": "Radiant Paths/Stoneward/Talents/Peakspren Bond/Deepened Bond.md",
+      "x": 1020,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "ToPgPbLD9o0Qzqgs",
+      "type": "file",
+      "file": "Radiant Paths/Stoneward/Talents/Peakspren Bond/Fourth Ideal Stoneward.md",
+      "x": 1020,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "3A2Mpwksffh935go",
+      "type": "file",
+      "file": "Radiant Paths/Stoneward/Talents/Peakspren Bond/Take Squire Stoneward.md",
+      "x": 1020,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "ql3XvSBM0Lmt7eV7",
+      "type": "file",
+      "file": "Radiant Paths/Stoneward/Talents/Peakspren Bond/Wound Regeneration.md",
+      "x": 1020,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "7l0cwhOjfhajaLkE",
+      "type": "file",
+      "file": "Radiant Paths/Stoneward/Talents/Peakspren Bond/Invested.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "Om3W22ZjjNQMlwND",
+      "type": "file",
+      "file": "Radiant Paths/Stoneward/Talents/Peakspren Bond/Third Ideal Stoneward.md",
+      "x": 680,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "LhodX5c5xSrWRuJE",
+      "type": "file",
+      "file": "Radiant Paths/Stoneward/Talents/Peakspren Bond/Cohesive Teamwork.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "MXiVYpxf8JwWJNFR",
+      "type": "file",
+      "file": "Radiant Paths/Stoneward/Talents/Peakspren Bond/Second Ideal Stoneward.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "UAz3oIISKGk6GdVQ",
+      "type": "file",
+      "file": "Radiant Paths/Stoneward/Talents/First Ideal Stoneward.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "Om3W22ZjjNQMlwND",
+      "fromSide": "right",
+      "toNode": "3A2Mpwksffh935go",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "LhodX5c5xSrWRuJE",
+      "fromSide": "right",
+      "toNode": "7l0cwhOjfhajaLkE",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "UAz3oIISKGk6GdVQ",
+      "fromSide": "right",
+      "toNode": "LhodX5c5xSrWRuJE",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "UAz3oIISKGk6GdVQ",
+      "fromSide": "right",
+      "toNode": "MXiVYpxf8JwWJNFR",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "MXiVYpxf8JwWJNFR",
+      "fromSide": "right",
+      "toNode": "Om3W22ZjjNQMlwND",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "Om3W22ZjjNQMlwND",
+      "fromSide": "right",
+      "toNode": "ToPgPbLD9o0Qzqgs",
+      "toSide": "left"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "Om3W22ZjjNQMlwND",
+      "fromSide": "right",
+      "toNode": "e2STynVTwC5MNeMy",
+      "toSide": "left"
+    },
+    {
+      "id": "edge7",
+      "fromNode": "7l0cwhOjfhajaLkE",
+      "fromSide": "right",
+      "toNode": "ql3XvSBM0Lmt7eV7",
+      "toSide": "left"
+    }
+  ]
+}

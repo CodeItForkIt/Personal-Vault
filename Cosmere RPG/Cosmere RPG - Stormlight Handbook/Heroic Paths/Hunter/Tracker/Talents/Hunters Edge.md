@@ -6,7 +6,7 @@ category: "Hunter / Tracker / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Hunter's Edge"]
 ---
-![[stinger-poison-scorpion-brown.webp|64]]
+# Hunter's Edge
 
 **Activation:** 8
 

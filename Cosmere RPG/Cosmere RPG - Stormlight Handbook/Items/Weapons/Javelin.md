@@ -6,7 +6,7 @@ category: "Weapons"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "weapon"]
 aliases: ["Javelin"]
 ---
-![[ICON_Javelin.webp|64]]
+# Javelin
 
 **Damage** 1d6 keen; **Range** Melee; **Traits** Thrown [30/120]; **Expert Traits** Indirect;
 

@@ -6,9 +6,9 @@ category: "Agent / Investigator / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Watchful Eye"]
 ---
-![[hand-eye-black.webp|64]]
+# Watchful Eye
 
-**Activation:** Always Active
+**Activation:** r
 
 *Allies can be an asset or a liability, so you keep an eye on them for their protection and yours.*
 

@@ -1,0 +1,134 @@
+{
+  "nodes": [
+    {
+      "id": "UtYttnJd1XhyDsrD",
+      "type": "file",
+      "file": "Surges/Gravitation Talents/Aerial Squadron.md",
+      "x": 1020,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "BgjA9Q5HhEKxwnwE",
+      "type": "file",
+      "file": "Surges/Gravitation Talents/Master of the Skies.md",
+      "x": 1020,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "RvcmL42cKDgqxFz6",
+      "type": "file",
+      "file": "Surges/Gravitation Talents/Lashing Shot.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "V96AozgccijaSk00",
+      "type": "file",
+      "file": "Surges/Gravitation Talents/Multiple Lashings.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "wt3M2ymKEbBnGr3u",
+      "type": "file",
+      "file": "Surges/Gravitation Talents/Stable Flight.md",
+      "x": 340,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "yz1pgQoNGEMcy7Uj",
+      "type": "file",
+      "file": "Surges/Gravitation Talents/Flying Ace.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "76s4u5PJBAyRTAKF",
+      "type": "file",
+      "file": "Surges/Gravitation Talents/Gravitational Slam.md",
+      "x": 0,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "pHzNRYQbRw1fEAfO",
+      "type": "file",
+      "file": "Surges/Gravitation Talents/Group Flight.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "pHzNRYQbRw1fEAfO",
+      "fromSide": "right",
+      "toNode": "BgjA9Q5HhEKxwnwE",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "RvcmL42cKDgqxFz6",
+      "fromSide": "right",
+      "toNode": "BgjA9Q5HhEKxwnwE",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "76s4u5PJBAyRTAKF",
+      "fromSide": "right",
+      "toNode": "RvcmL42cKDgqxFz6",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "pHzNRYQbRw1fEAfO",
+      "fromSide": "right",
+      "toNode": "UtYttnJd1XhyDsrD",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "76s4u5PJBAyRTAKF",
+      "fromSide": "right",
+      "toNode": "V96AozgccijaSk00",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "wt3M2ymKEbBnGr3u",
+      "fromSide": "right",
+      "toNode": "pHzNRYQbRw1fEAfO",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "yz1pgQoNGEMcy7Uj",
+      "fromSide": "right",
+      "toNode": "wt3M2ymKEbBnGr3u",
+      "toSide": "left",
+      "label": "or"
+    }
+  ]
+}

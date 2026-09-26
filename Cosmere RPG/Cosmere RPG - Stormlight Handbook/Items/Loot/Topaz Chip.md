@@ -6,6 +6,6 @@ category: "Loot"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "loot"]
 aliases: ["Topaz Chip"]
 ---
-![[sphere_topaz_chip.webp|64]]
+# Topaz Chip
 
 

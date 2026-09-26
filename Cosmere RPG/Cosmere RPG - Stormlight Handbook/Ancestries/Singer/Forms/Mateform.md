@@ -6,6 +6,6 @@ category: "Singer / Forms"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "action"]
 aliases: ["Mateform"]
 ---
-![[heart-shadow-red.webp|64]]
+# Mateform
 
 You have bonded with a lifespren, and your form is specialized for reproduction.

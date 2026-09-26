@@ -6,9 +6,9 @@ category: "Adhesion Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Extended Adhesion"]
 ---
-![[clock-stopwatch-white-blue.webp|64]]
+# Extended Adhesion
 
-**Activation:** Always Active
+**Activation:** 8
 
 *Your Full Lashings use less Stormlight, allowing them to last much longer.*
 

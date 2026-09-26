@@ -6,9 +6,9 @@ category: "Skybreaker / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["First Ideal (Skybreaker)"]
 ---
-![[fog-gas-smoke-purple-blue.webp|64]]
+# First Ideal (Skybreaker)
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You begin the process of bonding a highspren, giving you some small ability to breathe in and use Stormlight. You might be aware of this nascent bond, or clueless—using the powers subconsciously—until you get closer to speaking the First Ideal.*
 

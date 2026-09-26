@@ -6,6 +6,6 @@ category: "Features"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "trait"]
 aliases: ["Momentum"]
 ---
-![[arrow-upward-blue.webp|64]]
+# Momentum
 
 If the Actor Name moves at least 10 feet in a straight line toward a target then makes a [Strike] attack against them on that turn, the Actor Name gains an advantage on that attack.

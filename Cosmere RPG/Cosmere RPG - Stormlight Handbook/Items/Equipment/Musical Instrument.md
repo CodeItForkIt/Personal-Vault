@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Musical Instrument"]
 ---
-![[flute-simple-wood.webp|64]]
+# Musical Instrument
 
 **Price** 1–50 mk; **Weight** 0.5–20 lb.;
 

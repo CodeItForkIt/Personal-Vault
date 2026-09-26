@@ -6,9 +6,9 @@ category: "Gravitation Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Group Flight"]
 ---
-![[energy-stream-link-spiral-teal.webp|64]]
+# Group Flight
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You can infuse multiple allies with Gravitation at once.*
 

@@ -6,9 +6,9 @@ category: "Division Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Gout of Flame"]
 ---
-![[beam-jet-stream-spiral-yellow.webp|64]]
+# Gout of Flame
 
-**Activation:** One Action
+**Activation:** 2
 
 *You use Division to spray heat and flame across a wide area.*
 

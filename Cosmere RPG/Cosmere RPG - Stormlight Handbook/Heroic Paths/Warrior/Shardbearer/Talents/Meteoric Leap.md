@@ -6,9 +6,9 @@ category: "Warrior / Shardbearer / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Meteoric Leap"]
 ---
-![[projectile-shock-wave-blue.webp|64]]
+# Meteoric Leap
 
-**Activation:** Special Activation
+**Activation:** 2
 
 *You vault aggressively above your foes and slam into them with your full weight—a leap made all the more terrifying by unyielding Shardplate.*
 

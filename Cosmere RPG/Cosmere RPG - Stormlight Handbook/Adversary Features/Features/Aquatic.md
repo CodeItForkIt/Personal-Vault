@@ -6,6 +6,6 @@ category: "Features"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "trait"]
 aliases: ["Aquatic"]
 ---
-![[wave-water-blue.webp|64]]
+# Aquatic
 
 Swimming doesn't cause the Actor Name to become [[Stormlight Handbook/10 - Ch 9 Adventuring#Slowed|Slowed]].

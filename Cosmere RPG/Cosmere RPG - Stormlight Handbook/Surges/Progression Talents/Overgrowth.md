@@ -6,7 +6,7 @@ category: "Progression Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Overgrowth"]
 ---
-![[leaf-glow-maple-teal.webp|64]]
+# Overgrowth
 
 **Activation:** 8
 

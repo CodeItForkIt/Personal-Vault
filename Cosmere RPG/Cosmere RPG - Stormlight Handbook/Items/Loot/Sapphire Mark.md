@@ -6,6 +6,6 @@ category: "Loot"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "loot"]
 aliases: ["Sapphire Mark"]
 ---
-![[sphere_sapphire_mark.webp|64]]
+# Sapphire Mark
 
 

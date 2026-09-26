@@ -6,6 +6,6 @@ category: "Actions"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "action"]
 aliases: ["Pack Instincts"]
 ---
-![[wolf-howl-moon-forest-blue.webp|64]]
+# Pack Instincts
 
-While within 5 feet of an ally, the Actor Name can use the Gain Advantage action as Free Action.
+While within 5 feet of an ally, the Actor Name can use the Gain Advantage action as 0.

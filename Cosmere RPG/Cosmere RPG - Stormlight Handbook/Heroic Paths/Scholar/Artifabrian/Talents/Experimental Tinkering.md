@@ -6,9 +6,9 @@ category: "Scholar / Artifabrian / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Experimental Tinkering"]
 ---
-![[awl-steel-brown.webp|64]]
+# Experimental Tinkering
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You’ve honed your instinct for when to sacrifice one feature to enhance another; after all, invention relies not only on ingenious breakthroughs, but also on carefully balanced tradeoffs.*
 

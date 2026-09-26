@@ -9,21 +9,10 @@ aliases: ["Ghostblood Enforcer"]
 # Ghostblood Enforcer
 
 **Tier:** 2  
-**Size:** medium
-
-| Strength | Speed | Intellect | Willpower | Awareness | Presence |
-|---|---|---|---|---|---|
-| 3 | 3 | 2 | 3 | 4 | 4 |
-
-| Health | Focus | Investiture |
-|---|---|---|
-| 42/42 | 5/5 | 6/6 |
-
-**Speed:** 30 ft.
-
-| ATH | HWP | LWP | INM | DEC | PRC |
-|---|---|---|---|---|---|
-| 2 | 3 | 3 | 3 | 1 | 3 |
+**Size:** medium  
+**Attributes:** Strength 3, Speed 3, Intellect 2, Willpower 3, Awareness 4, Presence 4  
+**Resources:** Health 42/42, Focus 5/5, Investiture 6/6  
+**Skills:** ATH 2, HWP 3, LWP 3, INM 3, DEC 1, PRC 3
 
 ##### Tactics
 
@@ -32,7 +21,7 @@ A **Ghostblood enforcer** begins combat by striking with their **Dueling Cane**;
 ### Ruthless
 *1*
 
-After the Ghostblood Enforcer knocks an enemy Prone, they can make an additional Strike against that target as Free Action on that turn (even if they've already used that Strike action).
+After the Ghostblood Enforcer knocks an enemy Prone, they can make an additional Strike against that target as 0 on that turn (even if they've already used that Strike action).
 
 ### Burn Pewter
 *2 act*

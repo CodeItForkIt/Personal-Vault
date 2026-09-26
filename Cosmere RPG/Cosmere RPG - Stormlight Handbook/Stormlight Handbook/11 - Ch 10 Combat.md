@@ -60,7 +60,7 @@ Most things you can do during each round are categorized as either an action or 
 
 #### **Gaining Reactions**
 
-At the start of combat, unless you’re Surprised, you gain a **reaction** (Reaction), which you can use any time before the start of your first turn.
+At the start of combat, unless you’re Surprised, you gain a **reaction** (r), which you can use any time before the start of your first turn.
 
 Additionally, at the start of each of your turns, you gain a new reaction, regardless of whether you took a fast or slow turn. (Some talents and other abilities can grant an additional reaction.)
 
@@ -105,8 +105,6 @@ The actions, free actions, and reactions presented in this section are available
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Actions and Reactions]]
 
-[[Stormlight Handbook/17 - Appendix 2 Tables|Actions and Reactions]]
-
 ## Actions
 
 Actions (marked by 1) can only be used on your turn in combat, and each named action can only be used once per turn unless stated otherwise. The same applies to actions from talents and other effects, regardless of whether those are given a specific name.
@@ -115,31 +113,10 @@ Some actions take more time than others. Each action in this book lists how many
 
 On your turn, you can spend your available 1 to use any of the actions listed below, or to use any actions granted by your talents or other effects (such as the Breathe Stormlight action available to Radiants).
 
-[[Actions/Basic/Brace|Brace]]
-
-[[Actions/Basic/Disengage|Disengage]]
-
-[[Actions/Basic/Gain Advantage|Gain Advantage]]
-
-[[Actions/Basic/Interact|Interact]]
-
-[[Actions/Basic/Move|Move]]
-
-[[Actions/Basic/Strike|Strike]]
-
 > [!tip] Special Maneuvers and Precise Shots
 > You aren’t limited to a single way of using your weapons— feel free to come up with unconventional moves. The [[Stormlight Handbook/11 - Ch 10 Combat#Creative Maneuvers|Creative Maneuvers]] section later in this chapter offers guidance on creatively using your weapons.
 
 \
-[[Actions/Basic/Use A Skill|Use A Skill]]
-
-[[Actions/Basic/Grapple|Grapple]]
-
-[[Actions/Basic/Ready|Ready]]
-
-[[Actions/Basic/Recover|Recover]]
-
-[[Actions/Basic/Shove|Shove]]
 
 > [!tip] Improvising Actions
 > This game’s combat rules can help you coordinate many variables in a complex and chaotic scene, but ultimately, rules exist to support you and your character’s story. Your character can accomplish—or at least attempt—nearly anything you can imagine, so don’t feel limited by just the actions in this book.
@@ -152,27 +129,15 @@ On your turn, you can spend your available 1 to use any of the actions listed be
 
 However, like actions, each free action (including those from talents and other effects) can only be used once per turn unless stated otherwise.
 
-[[Actions/Basic/Banter|Banter]]
-
-[[Actions/Basic/Drop|Drop]]
-
 ## Reactions
 
-**Reactions** (marked by Reaction) are used to respond to specific event, known as a **trigger**, that happens on the battlefield. Each reaction describes its specific trigger.
+**Reactions** (marked by r) are used to respond to specific event, known as a **trigger**, that happens on the battlefield. Each reaction describes its specific trigger.
 
 Though reactions can be triggered on your turn, they’re typically triggered on another character’s turn in response to something they do.
 
 You usually only have one reaction per round. If an effect grants you more than one reaction at a time, you can’t simultaneously use both of your reactions on the same trigger, but you can use the same type of reaction on two separate triggering events (for example, you can use [[Actions/Basic/Aid|Aid]] on two separate tests an ally makes on their turn).
 
-You can spend your available Reaction to use any of the reactions listed below, or to use any reactions granted by your talents or other effects.
-
-[[Actions/Basic/Aid|Aid]]
-
-[[Actions/Basic/Avoid Danger|Avoid Danger]]
-
-[[Actions/Basic/Dodge|Dodge]]
-
-[[Actions/Basic/Reactive Strike|Reactive Strike]]
+You can spend your available r to use any of the reactions listed below, or to use any reactions granted by your talents or other effects.
 
 ## Attacking
 
@@ -218,7 +183,7 @@ The result of your skill test determines how much damage you deal to the target:
 
 - **Hit.** If your test succeeds, you **hit** the target. Deal damage equal to the total rolled on the damage dice + your modifier for the skill you used for the test.
 
-- **Critical Hit.** When you hit with an attack, you can find a weakness by spending Opportunity, changing the hit into a **critical hit**. This maximizes the result of your damage dice against all targets of that attack: treat all damage dice as if they rolled their highest number.
+- **Critical Hit.** When you hit with an attack, you can find a weakness by spending O, changing the hit into a **critical hit**. This maximizes the result of your damage dice against all targets of that attack: treat all damage dice as if they rolled their highest number.
 
 > [!tip] Damage Types and Deflect Value
 > Each attack specifies the type of damage it deals. All damage types have the same basic effect, but some enemies might have special protections (or weaknesses) against certain damage types, causing it to do less (or more) damage to them.
@@ -381,8 +346,6 @@ Imagine a character controlling a three-dimensional area that’s shaped roughly
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Character Sizes]]
 
-[[Stormlight Handbook/17 - Appendix 2 Tables|Character Sizes]]
-
 ### Space
 
 Each character fills a **space** the same as their size category. Their space isn’t necessarily the exact area their body fills—it represents the area they can easily affect and move around in.
@@ -463,8 +426,6 @@ You can use nearby obstacles as **cover** if they block an enemy’s line of eff
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Dangerous Terrain]]
 
-[[Stormlight Handbook/17 - Appendix 2 Tables|Dangerous Terrain]]
-
 ## Variant: Using a Grid
 
 In many combats, you can rely on the GM’s descriptions of the environment and combatants, using the theater of your mind to imagine how the action unfolds. However, for more complex fights, some groups find that visual aids help them to keep track of the action and keep everyone on the same page.
@@ -519,8 +480,6 @@ The Combat Opportunities and Complications table provides inspiration for potent
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Combat Opportunities and Complications]]
 
-[[Stormlight Handbook/17 - Appendix 2 Tables|Combat Opportunities and Complications]]
-
 ## Mounted Combat
 
 If you wish, you can ride a mount in combat. To ride a mount, the mount must be larger than you and logically capable of carrying you. The GM is the final arbiter of what you can use as a mount.
@@ -531,11 +490,11 @@ To safely mount or dismount, you must use 2.
 
 While riding a mount, you occupy the same space as the mount, and when you move on your turn, you use their movement rate instead of your own.
 
-Under normal conditions, you don’t need to make a skill test to move the mount. For difficult maneuvers, the GM might call for a Survival test to steer your mount, raising the stakes if the mount is resisting. The GM can spend Complication from this test—or from other tests you make while riding—to make you fall from the mount and land [[Stormlight Handbook/10 - Ch 9 Adventuring#Prone|Prone]] on the ground.
+Under normal conditions, you don’t need to make a skill test to move the mount. For difficult maneuvers, the GM might call for a Survival test to steer your mount, raising the stakes if the mount is resisting. The GM can spend C from this test—or from other tests you make while riding—to make you fall from the mount and land [[Stormlight Handbook/10 - Ch 9 Adventuring#Prone|Prone]] on the ground.
 
 ### Using Mount Abilities
 
-If you have a utility expertise in riding your particular mount (such as an expertise in Riding Horses), you can activate abilities from their profile by spending your own resources (including focus, 1, and Reaction). These abilities happen on your turn, not on a separate turn for the mount. If you don’t have expertise in riding that mount, they take no actions of their own.
+If you have a utility expertise in riding your particular mount (such as an expertise in Riding Horses), you can activate abilities from their profile by spending your own resources (including focus, 1, and r). These abilities happen on your turn, not on a separate turn for the mount. If you don’t have expertise in riding that mount, they take no actions of their own.
 
 ## Attacking Mounts
 

@@ -6,7 +6,7 @@ category: "Envoy / Mentor / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Guiding Oration"]
 ---
-![[diplomacy-handshake-gray.webp|64]]
+# Guiding Oration
 
 **Activation:** 8
 

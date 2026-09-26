@@ -6,7 +6,7 @@ category: "Fabrials / Unique Effects"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Accelerator"]
 ---
-![[trail-streak-zigzag-teal.webp|64]]
+# Accelerator
 
 *Tier 2 Unique Fabrial Effect*
 

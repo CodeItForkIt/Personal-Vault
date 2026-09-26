@@ -6,6 +6,6 @@ category: "Loot"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "loot"]
 aliases: ["Ruby Mark"]
 ---
-![[sphere_ruby_mark.webp|64]]
+# Ruby Mark
 
 

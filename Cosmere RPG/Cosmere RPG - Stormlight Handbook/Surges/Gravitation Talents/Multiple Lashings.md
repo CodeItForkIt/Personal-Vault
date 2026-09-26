@@ -6,9 +6,9 @@ category: "Gravitation Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Multiple Lashings"]
 ---
-![[portal-vortex-orange.webp|64]]
+# Multiple Lashings
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You can apply multiple Basic Lashings to an enemy.*
 

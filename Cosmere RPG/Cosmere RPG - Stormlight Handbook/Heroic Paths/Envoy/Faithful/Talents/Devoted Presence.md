@@ -6,9 +6,9 @@ category: "Envoy / Faithful / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Devoted Presence"]
 ---
-![[sihouette-hold-beam-green.webp|64]]
+# Devoted Presence
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *Your words fill your compatriots with purpose, helping them shrug off discomfort or surprise.*
 

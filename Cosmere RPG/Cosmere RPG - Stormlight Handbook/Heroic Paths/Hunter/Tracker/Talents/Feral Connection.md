@@ -6,7 +6,7 @@ category: "Hunter / Tracker / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Feral Connection"]
 ---
-![[fang-tooth-blood-red.webp|64]]
+# Feral Connection
 
 **Activation:** 8
 

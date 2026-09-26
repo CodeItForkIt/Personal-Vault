@@ -9,6 +9,7 @@
 - [[Ancestries/Singer/Forms of Mystery|Forms of Mystery]]
 - [[Ancestries/Singer/Forms of Resolve|Forms of Resolve]]
 - [[Ancestries/Singer/Forms of Wisdom|Forms of Wisdom]]
+- [[Ancestries/Singer/Singer Talents|Singer Talents]]
 
 ### Singer / Forms
 - [[Ancestries/Singer/Forms/Artform|Artform]]

@@ -6,7 +6,7 @@ category: "Skybreaker (Nale) / Goals"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "goal"]
 aliases: ["Speak the Third Ideal"]
 ---
-![[wind-vortex-swirl-blue-purple.webp|64]]
+# Speak the Third Ideal
 
 *You seek to advance your Nahel bond even further by speaking the Third Ideal.*
 

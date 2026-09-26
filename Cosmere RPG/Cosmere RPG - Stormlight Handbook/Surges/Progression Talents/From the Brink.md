@@ -6,7 +6,7 @@ category: "Progression Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["From the Brink"]
 ---
-![[arrows-circling-green.webp|64]]
+# From the Brink
 
 **Activation:** 3
 

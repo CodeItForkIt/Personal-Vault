@@ -6,7 +6,7 @@ category: "Armor"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "armor"]
 aliases: ["Leather"]
 ---
-![[ICON_leather.webp|64]]
+# Leather
 
 **Deflect Value** 1; **Traits** —; **Expert Traits** Presentable;
 

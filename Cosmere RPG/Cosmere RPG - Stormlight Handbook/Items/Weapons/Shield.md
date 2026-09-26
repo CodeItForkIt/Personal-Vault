@@ -6,7 +6,7 @@ category: "Weapons"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "weapon"]
 aliases: ["Shield"]
 ---
-![[ICON_Shield.webp|64]]
+# Shield
 
 **Damage** 1d4 impact; **Range** Melee; **Traits** Defensive; **Expert Traits** Offhand;
 

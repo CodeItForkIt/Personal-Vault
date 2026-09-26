@@ -6,6 +6,6 @@ category: "Features"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "trait"]
 aliases: ["Sleek"]
 ---
-![[trail-streak-impact-blue.webp|64]]
+# Sleek
 
 The Actor Name counts as one size smaller when squeezing through smaller spaces.

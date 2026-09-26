@@ -6,7 +6,7 @@ category: "Fabrials / Unique Effects"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Compressor"]
 ---
-![[mail-chain-steel.webp|64]]
+# Compressor
 
 *Tier 1 Unique Fabrial Effect*
 

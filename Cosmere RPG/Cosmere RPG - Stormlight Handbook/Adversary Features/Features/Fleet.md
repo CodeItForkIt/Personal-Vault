@@ -6,6 +6,6 @@ category: "Features"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "trait"]
 aliases: ["Fleet"]
 ---
-![[angel-wings-gray.webp|64]]
+# Fleet
 
 The Actor Name's fly speed increases by 10 feet.

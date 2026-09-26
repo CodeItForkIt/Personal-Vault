@@ -6,6 +6,6 @@ category: "Features"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "trait"]
 aliases: ["Enhanced Senses"]
 ---
-![[wind-stream-blue-gray.webp|64]]
+# Enhanced Senses
 
 The Actor Name gains an advantage on non-attack tests that rely on smell.

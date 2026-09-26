@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Pick (mining)"]
 ---
-![[pickaxe-steel-white.webp|64]]
+# Pick (mining)
 
 **Price** 10 mk; **Weight** 10 lb.;
 

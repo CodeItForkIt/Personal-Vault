@@ -6,7 +6,7 @@ category: "Basic"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "action"]
 aliases: ["Avoid Danger"]
 ---
-![[debuff-energy-snare-blue.webp|64]]
+# Avoid Danger
 
 When you’re imperiled by your surroundings—such as standing under a falling boulder or being shoved off a balcony—you can use this reaction to attempt to save yourself. This might allow you to catch yourself before you fall, to dodge out of the way of a boulder, or to similarly avoid the danger.
 

@@ -1,0 +1,413 @@
+{
+  "nodes": [
+    {
+      "id": "FXooyuXWUSexTu4R",
+      "type": "file",
+      "file": "Heroic Paths/Leader/Officer/Talents/Synchronized Assault.md",
+      "x": 1700,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "mGQWy3qwY0F1og7Y",
+      "type": "file",
+      "file": "Heroic Paths/Leader/Officer/Talents/Customary Garb.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "BYKSGAwJmVbvnUnX",
+      "type": "file",
+      "file": "Heroic Paths/Leader/Champion/Talents/Hardy.md",
+      "x": 680,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "C9QFP1zlQ8T243jk",
+      "type": "file",
+      "file": "Heroic Paths/Leader/Champion/Talents/Imposing Posture.md",
+      "x": 680,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "ypPI6pxJ7dtWWTwu",
+      "type": "file",
+      "file": "Heroic Paths/Leader/Politico/Talents/Rumormonger.md",
+      "x": 680,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "llqd4p3VcLJ3yEkd",
+      "type": "file",
+      "file": "Heroic Paths/Leader/Officer/Talents/Well-Supplied.md",
+      "x": 680,
+      "y": 480,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "0kqPFGu6w2JFIEdR",
+      "type": "file",
+      "file": "Heroic Paths/Leader/Officer/Talents/Authority.md",
+      "x": 1360,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "XXReIlt3Q0qrLSlo",
+      "type": "file",
+      "file": "Heroic Paths/Leader/Champion/Talents/Demonstrative Command.md",
+      "x": 1360,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "FxQ3RzXo2qfdwIwu",
+      "type": "file",
+      "file": "Heroic Paths/Leader/Politico/Talents/Grand Deception.md",
+      "x": 1360,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "AjH4mRbyXQe7TU8A",
+      "type": "file",
+      "file": "Heroic Paths/Leader/Officer/Talents/Relentless March.md",
+      "x": 1360,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "2KdDpZvqSlabwO8i",
+      "type": "file",
+      "file": "Heroic Paths/Leader/Champion/Talents/Resilient Hero.md",
+      "x": 1360,
+      "y": 480,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "fRk9Zstfy5DjeKaa",
+      "type": "file",
+      "file": "Heroic Paths/Leader/Politico/Talents/Set at Odds.md",
+      "x": 1360,
+      "y": 600,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "7kWqpGcFPLVeR1JT",
+      "type": "file",
+      "file": "Heroic Paths/Leader/Champion/Talents/Combat Coordination.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "j8zXDojhoUhZOAlw",
+      "type": "file",
+      "file": "Heroic Paths/Leader/Officer/Talents/Composed.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "pKrVE866Zuk92Cpi",
+      "type": "file",
+      "file": "Heroic Paths/Leader/Politico/Talents/Cutthroat Tactics.md",
+      "x": 340,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "zhek5iq9kEGPvb84",
+      "type": "file",
+      "file": "Heroic Paths/Leader/Politico/Talents/Tactical Ploy.md",
+      "x": 340,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "kgdZIGU9Zs9spuu2",
+      "type": "file",
+      "file": "Heroic Paths/Leader/Officer/Talents/Through the Fray.md",
+      "x": 340,
+      "y": 480,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "yFWkmaGMs359A7DB",
+      "type": "file",
+      "file": "Heroic Paths/Leader/Champion/Talents/Valiant Intervention.md",
+      "x": 340,
+      "y": 600,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "Q5uVSRZmWOVrZL7m",
+      "type": "file",
+      "file": "Heroic Paths/Leader/Politico/Talents/Baleful.md",
+      "x": 1020,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "fArcKPczWhA0Bq3a",
+      "type": "file",
+      "file": "Heroic Paths/Leader/Officer/Talents/Confident Command.md",
+      "x": 1020,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "ry2CQOWUYfRrRI9r",
+      "type": "file",
+      "file": "Heroic Paths/Leader/Champion/Talents/Mighty.md",
+      "x": 1020,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "PWyeAbWBKCg17CsO",
+      "type": "file",
+      "file": "Heroic Paths/Leader/Champion/Talents/Resolute Stand.md",
+      "x": 1020,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "wkSHu7iXS3F2iW9v",
+      "type": "file",
+      "file": "Heroic Paths/Leader/Politico/Talents/Shrewd Command.md",
+      "x": 1020,
+      "y": 480,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "b7ZnSp5qk2QJdknV",
+      "type": "file",
+      "file": "Heroic Paths/Leader/Politico/Talents/Well Dressed.md",
+      "x": 1020,
+      "y": 600,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "UEaOm4P2UFcrP1Z8",
+      "type": "file",
+      "file": "Heroic Paths/Leader/Decisive Command.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "fArcKPczWhA0Bq3a",
+      "fromSide": "right",
+      "toNode": "0kqPFGu6w2JFIEdR",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "PWyeAbWBKCg17CsO",
+      "fromSide": "right",
+      "toNode": "2KdDpZvqSlabwO8i",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "UEaOm4P2UFcrP1Z8",
+      "fromSide": "right",
+      "toNode": "7kWqpGcFPLVeR1JT",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "fArcKPczWhA0Bq3a",
+      "fromSide": "right",
+      "toNode": "AjH4mRbyXQe7TU8A",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "yFWkmaGMs359A7DB",
+      "fromSide": "right",
+      "toNode": "BYKSGAwJmVbvnUnX",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "7kWqpGcFPLVeR1JT",
+      "fromSide": "right",
+      "toNode": "C9QFP1zlQ8T243jk",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "0kqPFGu6w2JFIEdR",
+      "fromSide": "right",
+      "toNode": "FXooyuXWUSexTu4R",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge7",
+      "fromNode": "wkSHu7iXS3F2iW9v",
+      "fromSide": "right",
+      "toNode": "FxQ3RzXo2qfdwIwu",
+      "toSide": "left"
+    },
+    {
+      "id": "edge8",
+      "fromNode": "BYKSGAwJmVbvnUnX",
+      "fromSide": "right",
+      "toNode": "PWyeAbWBKCg17CsO",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge9",
+      "fromNode": "ypPI6pxJ7dtWWTwu",
+      "fromSide": "right",
+      "toNode": "Q5uVSRZmWOVrZL7m",
+      "toSide": "left"
+    },
+    {
+      "id": "edge10",
+      "fromNode": "PWyeAbWBKCg17CsO",
+      "fromSide": "right",
+      "toNode": "XXReIlt3Q0qrLSlo",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge11",
+      "fromNode": "ypPI6pxJ7dtWWTwu",
+      "fromSide": "right",
+      "toNode": "b7ZnSp5qk2QJdknV",
+      "toSide": "left"
+    },
+    {
+      "id": "edge12",
+      "fromNode": "mGQWy3qwY0F1og7Y",
+      "fromSide": "right",
+      "toNode": "fArcKPczWhA0Bq3a",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge13",
+      "fromNode": "Q5uVSRZmWOVrZL7m",
+      "fromSide": "right",
+      "toNode": "fRk9Zstfy5DjeKaa",
+      "toSide": "left"
+    },
+    {
+      "id": "edge14",
+      "fromNode": "UEaOm4P2UFcrP1Z8",
+      "fromSide": "right",
+      "toNode": "j8zXDojhoUhZOAlw",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge15",
+      "fromNode": "UEaOm4P2UFcrP1Z8",
+      "fromSide": "right",
+      "toNode": "kgdZIGU9Zs9spuu2",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge16",
+      "fromNode": "j8zXDojhoUhZOAlw",
+      "fromSide": "right",
+      "toNode": "llqd4p3VcLJ3yEkd",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge17",
+      "fromNode": "kgdZIGU9Zs9spuu2",
+      "fromSide": "right",
+      "toNode": "mGQWy3qwY0F1og7Y",
+      "toSide": "left"
+    },
+    {
+      "id": "edge18",
+      "fromNode": "UEaOm4P2UFcrP1Z8",
+      "fromSide": "right",
+      "toNode": "pKrVE866Zuk92Cpi",
+      "toSide": "left"
+    },
+    {
+      "id": "edge19",
+      "fromNode": "C9QFP1zlQ8T243jk",
+      "fromSide": "right",
+      "toNode": "ry2CQOWUYfRrRI9r",
+      "toSide": "left"
+    },
+    {
+      "id": "edge20",
+      "fromNode": "ypPI6pxJ7dtWWTwu",
+      "fromSide": "right",
+      "toNode": "wkSHu7iXS3F2iW9v",
+      "toSide": "left"
+    },
+    {
+      "id": "edge21",
+      "fromNode": "UEaOm4P2UFcrP1Z8",
+      "fromSide": "right",
+      "toNode": "yFWkmaGMs359A7DB",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge22",
+      "fromNode": "pKrVE866Zuk92Cpi",
+      "fromSide": "right",
+      "toNode": "ypPI6pxJ7dtWWTwu",
+      "toSide": "left"
+    },
+    {
+      "id": "edge23",
+      "fromNode": "UEaOm4P2UFcrP1Z8",
+      "fromSide": "right",
+      "toNode": "zhek5iq9kEGPvb84",
+      "toSide": "left"
+    }
+  ]
+}

@@ -14,8 +14,9 @@ As with all worlds in the cosmere, the Rosharan pronunciation of words varies by
 
 **Pronunciations**
 
-| Name                  | Pronunciations             |
+|                       |                            |
 |-----------------------|----------------------------|
+| Name                  | Pronunciations             |
 | Adolin                | AY-doh-lin                 |
 | Adonalsium            | AY-doh-NAHL-see-uhm        |
 | Aharietiam            | ah-HAR-YET-yahm            |

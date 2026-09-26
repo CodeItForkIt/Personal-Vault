@@ -9,21 +9,10 @@ aliases: ["Elite Shardbearer"]
 # Elite Shardbearer
 
 **Tier:** 3  
-**Size:** medium
-
-| Strength | Speed | Intellect | Willpower | Awareness | Presence |
-|---|---|---|---|---|---|
-| 3 | 4 | 1 | 5 | 3 | 4 |
-
-| Health | Focus | Investiture |
-|---|---|---|
-| 55/55 | 7/7 | 0 |
-
-**Speed:** 40 ft.
-
-| AGI | HWP | LWP | DIS | INM | LEA | PRC | PRS |
-|---|---|---|---|---|---|---|---|
-| 4 | 5 | 4 | 3 | 4 | 5 | 4 | 4 |
+**Size:** medium  
+**Attributes:** Strength 3, Speed 4, Intellect 1, Willpower 5, Awareness 3, Presence 4  
+**Resources:** Health 55/55, Focus 7/7, Investiture 0  
+**Skills:** AGI 4, HWP 5, LWP 4, DIS 3, INM 4, LEA 5, PRC 4, PRS 4
 
 ##### Tactics
 
@@ -37,7 +26,7 @@ The Elite Shardbearer is equipped with Shardplate. Before they take damage, they
 ### Breakable Armor
 *1*
 
-After the Elite Shardbearer is hit by an attack, the attacker can spend Opportunity to cause the Elite Shardbearer's Shardplate to lose 1 charge.
+After the Elite Shardbearer is hit by an attack, the attacker can spend O to cause the Elite Shardbearer's Shardplate to lose 1 charge.
 
 ### Test Blow
 *1 act*
@@ -55,7 +44,7 @@ The Elite Shardbearer shifts into one of the following stances, losing the effec
 
 **Bloodstance.** The Elite Shardbearer's Opportunity range for attack tests and physical tests increases by 2, and their Physical, Cognitive, and Spiritual defenses decrease by 2.
 
-**Flamestance.** While there's only one enemy within 5 feet of the Elite Shardbearer and no allies within 5 feet of them or that enemy, the Elite Shardbearer can use Free Action to gain One Action, which they can spend only on the Gain Advantage action or on an action that includes an attack test.
+**Flamestance.** While there's only one enemy within 5 feet of the Elite Shardbearer and no allies within 5 feet of them or that enemy, the Elite Shardbearer can use 0 to gain 1, which they can spend only on the Gain Advantage action or on an action that includes an attack test.
 
 **Ironstance.** After an enemy within 5 feet of the elite misses or grazes them with an attack, the Elite Shardbearer can use the Reactive Strike reaction against that enemy as if they had voluntarily left the Elite Shardbearer's reach.
 

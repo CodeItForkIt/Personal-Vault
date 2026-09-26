@@ -6,7 +6,7 @@ category: "Travel / Mounts"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Horse"]
 ---
-![[horses.webp|64]]
+# Horse
 
 **Purchase Price** 4,000 mk; **Carrying Capacity** 500 lb.; **Travel Speed** 4 mph
 

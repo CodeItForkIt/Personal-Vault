@@ -6,9 +6,9 @@ category: "Warrior / Duelist / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Wit's End"]
 ---
-![[strike-polearm-light-orange.webp|64]]
+# Wit's End
 
-**Activation:** Two Actions
+**Activation:** 2
 
 *Battles are won and lost in moments of brief inattention or exhaustion. You create and exploit these opportunities, patiently waiting to vanquish your foe in a single stroke.*
 

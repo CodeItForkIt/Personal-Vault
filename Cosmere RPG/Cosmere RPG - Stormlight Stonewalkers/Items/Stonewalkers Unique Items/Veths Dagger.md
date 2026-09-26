@@ -6,7 +6,7 @@ category: "Stonewalkers Unique Items"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-stonewalkers", "weapon"]
 aliases: ["Veth's Dagger"]
 ---
-![[ICON_Knife_glyph.webp|64]]
+# Veth's Dagger
 
 **Damage** 1d4 keen; **Range** Melee; **Traits** Discreet; **Expert Traits** Offhand, Thrown [20/60];
 

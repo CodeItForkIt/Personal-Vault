@@ -6,9 +6,9 @@ category: "Hunter / Assassin / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Cold Eyes"]
 ---
-![[silhouette-robe-evil-power.webp|64]]
+# Cold Eyes
 
-**Activation:** Always Active
+**Activation:** 8
 
 *As you eliminate one target, your gaze instinctively slides to the next threat.*
 

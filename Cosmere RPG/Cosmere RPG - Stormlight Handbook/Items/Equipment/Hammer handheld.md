@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Hammer (handheld)"]
 ---
-![[hammer-maul-steel-grey.webp|64]]
+# Hammer (handheld)
 
 **Price** 4 mk; **Weight** 3 lb.;
 

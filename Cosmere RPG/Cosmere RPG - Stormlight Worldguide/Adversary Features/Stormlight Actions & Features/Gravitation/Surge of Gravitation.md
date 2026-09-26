@@ -6,7 +6,7 @@ category: "Stormlight Actions & Features / Gravitation"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "action"]
 aliases: ["Surge of Gravitation"]
 ---
-![[orb-beam-pink.webp|64]]
+# Surge of Gravitation
 
 The Actor Name performs a Basic Lashing on a Huge (15-foot) or smaller character or non-Invested object within their reach that isn't being worn or carried. An object Lashed in this way moves up to 30 feet in any direction. An ally Lashed this way gains a 30-foot flying rate until the end of the Actor Name's next turn, but that ally can only fly using the Move action once per turn.
 

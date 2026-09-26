@@ -6,7 +6,7 @@ category: "Transportation Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Realmwalker"]
 ---
-![[runes-star-pentagon-magenta.webp|64]]
+# Realmwalker
 
 **Activation:** 8
 

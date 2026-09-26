@@ -6,7 +6,7 @@ category: "Hunter"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "path"]
 aliases: ["Hunter"]
 ---
-![[hunter.webp|64]]
+# Hunter
 
 The thrill of the chase thrums in a Hunter’s mind as they patiently surveil. No detail is too small or insignificant to ignore. Experience teaches the most important lesson: you don’t have to be more powerful than your quarry, so long as you’re better prepared.
 

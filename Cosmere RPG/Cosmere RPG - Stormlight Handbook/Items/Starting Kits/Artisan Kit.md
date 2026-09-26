@@ -6,7 +6,7 @@ category: "Starting Kits"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Artisan Kit"]
 ---
-![[chest-reinforced-steel-red.webp|64]]
+# Artisan Kit
 
 **Weapons:** One hammer or light weapon (your choice)
 

@@ -9,29 +9,18 @@ aliases: ["Flowing One"]
 # Flowing One
 
 **Tier:** 2  
-**Size:** medium
-
-| Strength | Speed | Intellect | Willpower | Awareness | Presence |
-|---|---|---|---|---|---|
-| 1 | 6 | 1 | 4 | 3 | 2 |
-
-| Health | Focus | Investiture |
-|---|---|---|
-| 45/45 | 6/6 | 5/5 |
-
-**Speed:** 60 ft.
-
-| AGI | LWP | DIS | PRC | SUR | ABR |
-|---|---|---|---|---|---|
-| 3 | 3 | 3 | 3 | 3 | 3 |
+**Size:** medium  
+**Attributes:** Strength 1, Speed 6, Intellect 1, Willpower 4, Awareness 3, Presence 2  
+**Resources:** Health 45/45, Focus 6/6, Investiture 5/5  
+**Skills:** AGI 3, LWP 3, DIS 3, PRC 3, SUR 3, ABR 3
 
 ##### Opportunities and Complications
 
 The following options are available when an enemy gains an Opportunity or Complication during a scene with the Flowing One:
 
-**Opportunity.** An enemy can spend Opportunity to prevent the Flowing One from using their Mobile feature and their Surge of Abrasion, Regenerate, and Skate actions until the end of the Flowing One's next turn.
+**Opportunity.** An enemy can spend O to prevent the Flowing One from using their Mobile feature and their Surge of Abrasion, Regenerate, and Skate actions until the end of the Flowing One's next turn.
 
-**Complication.** The GM can spend Complication from an enemy's test to remove the focus costs for the Flowing One's Coarse Grip action and Skate free action until the end of the Flowing One's next turn.
+**Complication.** The GM can spend c from an enemy's test to remove the focus costs for the Flowing One's Coarse Grip action and Skate free action until the end of the Flowing One's next turn.
 
 ##### Tactics
 
@@ -40,7 +29,7 @@ A **Flowing One** is an adroit opponent who swiftly manipulates friction on the 
 ### Mobile
 *1*
 
-When the Flowing One willingly moves on their turn, they can choose to pause moving and use another action before finishing their available movement. They can resume that movement as Free Action any time before the end of their turn.
+When the Flowing One willingly moves on their turn, they can choose to pause moving and use another action before finishing their available movement. They can resume that movement as 0 any time before the end of their turn.
 
 ### Twin Daggers
 *1 fre*
@@ -66,12 +55,12 @@ Depending on the nature of the alteration, this can cause an effect in that area
 ### Coarse Grip
 *1 fre*
 
-The Flowing One strategically increases the friction of some parts of their body. Until the end of their next turn, their Physical tests have an Opportunity range of 18-20, and they can spend Opportunity on any Physical test to knock an enemy within 5 feet prone.
+The Flowing One strategically increases the friction of some parts of their body. Until the end of their next turn, their Physical tests have an Opportunity range of 18-20, and they can spend O on any Physical test to knock an enemy within 5 feet prone.
 
 ### Deft Dodge
 *1 rea*
 
-Before an attack hits the Flowing One, they change that hit to a graze, then they can use the Disengage action as Free Action.
+Before an attack hits the Flowing One, they change that hit to a graze, then they can use the Disengage action as 0.
 
 ### Skate
 *1 fre*

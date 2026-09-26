@@ -6,6 +6,6 @@ category: "Actions"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "action"]
 aliases: ["Firemoss"]
 ---
-![[fog-gas-smoke-brown.webp|64]]
+# Firemoss
 
 The Actor Name grinds firemoss and inhales the smoke, regaining 6 focus.

@@ -6,7 +6,7 @@ category: "Dustbringer / Talents / Ashspren Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Invested"]
 ---
-![[silhouette-hold-change-blue.webp|64]]
+# Invested
 
 **Activation:** 8
 

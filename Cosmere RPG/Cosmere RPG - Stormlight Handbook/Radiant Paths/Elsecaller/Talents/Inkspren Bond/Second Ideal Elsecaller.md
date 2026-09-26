@@ -6,9 +6,9 @@ category: "Elsecaller / Talents / Inkspren Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Second Ideal (Elsecaller)"]
 ---
-![[circled-gem-pink.webp|64]]
+# Second Ideal (Elsecaller)
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You seek to deepen your Nahel bond with your inkspren by speaking the Second Ideal.*
 
@@ -16,4 +16,4 @@ You gain the goal [[Radiant Paths/Elsecaller/Goals/Speak the Second Ideal|Speak 
 
 - You become **Empowered** until the end of that scene.
 
-- Your [[Actions/Stormlight/Enhance|Enhance]] action becomes more powerful. While your current Investiture is 1 or greater, you can use Enhance as One Action, and you don’t need to spend Investiture to use this action or maintain its effect.
+- Your [[Actions/Stormlight/Enhance|Enhance]] action becomes more powerful. While your current Investiture is 1 or greater, you can use Enhance as 0, and you don’t need to spend Investiture to use this action or maintain its effect.

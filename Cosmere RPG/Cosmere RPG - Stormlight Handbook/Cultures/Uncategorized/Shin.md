@@ -6,7 +6,7 @@ category: "Uncategorized"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "culture"]
 aliases: ["Shin"]
 ---
-![[shin-t.webp|64]]
+# Shin
 
 The isolated nation of Shinovar is governed by Stone Shamans who believe that stone is sacred and that it shouldn’t be broken or walked on by commoners. A mountain range offers Shinovar significant protection from highstorms, which are already lighter so far west. Non-native crops and animals flourish here, even those that wouldn’t survive anywhere else on Roshar.
 

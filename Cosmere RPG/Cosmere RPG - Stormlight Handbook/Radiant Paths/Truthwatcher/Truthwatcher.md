@@ -6,7 +6,7 @@ category: "Truthwatcher"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "path"]
 aliases: ["Truthwatcher"]
 ---
-![[pg180_path_banner_Truthwatcher.webp|64]]
+# Truthwatcher
 
 *A stormform creeps through a back alley, hunting a fleeing man—then vines burst from an illusory wall and pin the Regal to the opposite building. A Truthwatcher follows the branches from his disguised branching path, then he grins. Works every time.*
 
@@ -44,10 +44,15 @@ Thousands of years after the Recreance, only a few Truthwatchers have appeared. 
 
 Enlightened Truthwatchers bond to mistspren that became willingly corrupted by the Unmade Sja-anat. This alters the spren’s appearance and the abilities granted by their spren bond. These unusual powers include future sight, which is believed to be related to Odium and Voidbinding. Renarin Kholin and the Enlightened mistspren Glys were the first known pair of this new type of Radiant, and they’ve begun carefully recruiting to bolster their number for the continued war against Odium.
 
-> [!note]- Enlightened Truthwatchers
-> With your GM’s permission, you might be able to bond with a mistspren who has been Enlightened by Sja-anat. As an Enlightened Truthwatcher, you begin having visions of the past and future. When you bond this mistspren, you gain the Future Sight key talent from the Enlightened talent tree (see the end of this “Truthwatcher” entry). Later, after you speak the First Ideal, you can choose additional talents from this talent tree, in addition to the talents from your Truthwatcher path.
->
-> As these Truthwatchers continue experimenting with the surge, they usually become adept in Spiritual Lightweaving, which excels in affecting hearts and minds. When choosing Illumination talents, you’re encouraged to select talents from the left side of the tree. These talents include Distracting Illusion, Disorienting Flash, Spiritual Illumination, and Painful Truth; you might also choose Endless Illusions in addition to or instead of Painful Truth.
+<div id="secret-PDD06WuzwCEMYhv7" class="section secret">
+
+#### Enlightened Truthwatchers
+
+With your GM’s permission, you might be able to bond with a mistspren who has been Enlightened by Sja-anat. As an Enlightened Truthwatcher, you begin having visions of the past and future. When you bond this mistspren, you gain the Future Sight key talent from the Enlightened talent tree (see the end of this “Truthwatcher” entry). Later, after you speak the First Ideal, you can choose additional talents from this talent tree, in addition to the talents from your Truthwatcher path.
+
+As these Truthwatchers continue experimenting with the surge, they usually become adept in Spiritual Lightweaving, which excels in affecting hearts and minds. When choosing Illumination talents, you’re encouraged to select talents from the left side of the tree. These talents include Distracting Illusion, Disorienting Flash, Spiritual Illumination, and Painful Truth; you might also choose Endless Illusions in addition to or instead of Painful Truth.
+
+</div>
 
 ### Mistspren
 
@@ -91,4 +96,4 @@ Mistspren who have been Enlightened seem to take on new and simpler names such a
 >
 > Additionally, Enlightened mistspren can hide within the body of non-sapient characters and remain within them. If they do so with a cremling, the mistspren gains some control of it; however, at the GM’s discretion, you may need to spend some focus for the cremling to perform complex tasks or act against its instincts.
 >
-> One Action or One Action **Test Assistance (Costs 1 Focus) .** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, mistspren can help with approaching and engaging in new experiences, understanding others’ perspectives, Persuasion tests, and Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.
+> 0 or r **Test Assistance (Costs 1 Focus) .** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, mistspren can help with approaching and engaging in new experiences, understanding others’ perspectives, Persuasion tests, and Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.

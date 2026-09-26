@@ -6,9 +6,9 @@ category: "Scholar / Strategist / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Composed"]
 ---
-![[silhouette-aura-energy.webp|64]]
+# Composed
 
-**Activation:** Always Active
+**Activation:** 8
 
 *Through practiced composure, you push your limits without becoming distracted or losing track of threats.*
 

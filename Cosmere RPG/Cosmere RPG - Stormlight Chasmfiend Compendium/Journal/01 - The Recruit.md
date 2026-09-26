@@ -63,23 +63,37 @@ To persuade Ezriah to consider joining the Knights Radiant or to otherwise stop 
 
 If a character is not actively contributing to the conversation, ask them to make a Perception test (DC 13). On a success, they notice Selik pull a spanreed out of his pocket and twist its ruby—as if signaling someone.
 
-If a character gains an Opportunity (Opportunity) or Complication (Complication), use the Conscientious Objector Opportunities and Complications table for inspiration.
+If a character gains an Opportunity (O) or Complication (C), use the Conscientious Objector Opportunities and Complications table for inspiration.
 
 **Conscientious Objector Opportunities and Complications**
 
-| **Result** | **Example** |
+|  |  |
 |----|----|
-| Opportunity | The crowd murmurs, impressed by your argument. A few of Ezriah’s supporters disperse, leaving the plaza. |
-| Complication | The crowd seems increasingly agitated. Lose 1 focus as they shout over you. |
+| **Result** | **Example** |
+| O | The crowd murmurs, impressed by your argument. A few of Ezriah’s supporters disperse, leaving the plaza. |
+| C | The crowd seems increasingly agitated. Lose 1 focus as they shout over you. |
 
 ![[portrait_Ezriah.webp]]
 
 > [!example] Roleplaying
 > ![[portrait_Ezriah.webp]]
 
-| **Roleplaying Ezriah** |
-|----|
-| **Characteristics:** Outspoken, opinionated, selfless.<br>**Goal:** To save lives by promoting peace.<br>**Appearance:** Ezriah (“EZ-ree-uh”; she/her) is a serious-looking young woman whose short red-and-black hair indicates her Veden heritage.<br>In a culture that celebrates conquest, Ezriah yearns for peace. As a youth, she was sent away from Vedenar to become a ward of House Roion, eventually serving as a scribe at the Shattered Plains. While she endured the War of Reckoning, her family was slain in the Veden civil war. Now, her primary motivation is to save as many lives as possible. |
+<table class="sl-rp-img">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<th><p><strong>Roleplaying Ezriah</strong></p></th>
+</tr>
+&#10;<tr>
+<td><p><strong>Characteristics:</strong> Outspoken, opinionated, selfless.</p>
+<p><strong>Goal:</strong> To save lives by promoting peace.</p>
+<p><strong>Appearance:</strong> Ezriah (“EZ-ree-uh”; she/her) is a serious-looking young woman whose short red-and-black hair indicates her Veden heritage.</p>
+<p>In a culture that celebrates conquest, Ezriah yearns for peace. As a youth, she was sent away from Vedenar to become a ward of House Roion, eventually serving as a scribe at the Shattered Plains. While she endured the War of Reckoning, her family was slain in the Veden civil war. Now, her primary motivation is to save as many lives as possible.</p></td>
+</tr>
+</tbody>
+</table>
 
 ## Resisting Influence
 
@@ -116,14 +130,15 @@ During combat, characters might try to interact with the following elements of t
 
 **Stone Buildings.** The homes in this area are 20 feet tall and relatively easy to climb (DC 10 Athletics). Any character on a rooftop gains an advantage on Perception tests targeting characters below. A character who falls from a rooftop takes `2d6` Impact damage.
 
-If a character gains an Opportunity (Opportunity) or Complication (Complication), use the Shardbearer Assault table for inspiration.
+If a character gains an Opportunity (O) or Complication (C), use the Shardbearer Assault table for inspiration.
 
 **Shardbearer Assault Opportunities and Complications**
 
-| **Result** | **Example** |
+|  |  |
 |----|----|
-| Opportunity | Ezriah uses her Radiant abilities to heal herself or another character within reach, recovering `1d8 + 5` health. |
-| Complication | A nearby citizen dies, slain by an errant slice from Eranniv’s Shardblade. |
+| **Result** | **Example** |
+| O | Ezriah uses her Radiant abilities to heal herself or another character within reach, recovering `1d8 + 5` health. |
+| C | A nearby citizen dies, slain by an errant slice from Eranniv’s Shardblade. |
 
 ![[map-1_varikev-market-square.webp]]
 

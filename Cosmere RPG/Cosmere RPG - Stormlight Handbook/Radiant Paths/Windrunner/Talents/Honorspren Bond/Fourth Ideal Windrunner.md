@@ -6,9 +6,9 @@ category: "Windrunner / Talents / Honorspren Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Fourth Ideal (Windrunner)"]
 ---
-![[fog-gas-smoke-dense-blue.webp|64]]
+# Fourth Ideal (Windrunner)
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You seek to become a full Knight Radiant by speaking the Fourth Ideal.*
 

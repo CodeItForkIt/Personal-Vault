@@ -6,7 +6,7 @@ category: "Weapons"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "weapon"]
 aliases: ["Axe"]
 ---
-![[ICON_Axe.webp|64]]
+# Axe
 
 **Damage** 1d6 keen; **Range** Melee; **Traits** Thrown [20/60]; **Expert Traits** Offhand;
 

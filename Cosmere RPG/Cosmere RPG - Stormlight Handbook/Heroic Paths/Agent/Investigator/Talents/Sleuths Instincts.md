@@ -6,9 +6,9 @@ category: "Agent / Investigator / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Sleuth's Instincts"]
 ---
-![[gaming-gambling-dice-gray.webp|64]]
+# Sleuth's Instincts
 
-**Activation:** Always Active
+**Activation:** r
 
 *When cracking mysteries, you know that “why” can be as important as “who” or “how.” Once you understand motivations, other details easily fall into place.*
 

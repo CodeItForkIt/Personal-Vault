@@ -6,7 +6,7 @@ category: "Hunter / Tracker / Actions"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "action"]
 aliases: ["Entangling Trap"]
 ---
-![[net-tan.webp|64]]
+# Entangling Trap
 
 **Targets:** Cognitive defense
 

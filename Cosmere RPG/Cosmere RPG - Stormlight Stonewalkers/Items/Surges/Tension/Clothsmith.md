@@ -6,7 +6,7 @@ category: "Surges / Tension"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-stonewalkers", "talent"]
 aliases: ["Clothsmith"]
 ---
-![[armor-stone-skin.webp|64]]
+# Clothsmith
 
 **Prerequisite:** [[Items/Surges/Tension/Cloth Mastery|Cloth Mastery]] talent or [[Items/Surges/Tension/Surface Tension|Surface Tension]] talent
 

@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Candle"]
 ---
-![[candle-unlit-tan.webp|64]]
+# Candle
 
 **Price** 0.2 mk; **Weight** 0.2 lb.;
 

@@ -6,7 +6,7 @@ category: "Uncategorized"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "power"]
 aliases: ["Transportation"]
 ---
-![[Transportation_Surge-glyph.svg|64]]
+# Transportation
 
 **Radiant Orders:** Elsecaller, Willshaper
 

@@ -1,0 +1,154 @@
+{
+  "nodes": [
+    {
+      "id": "5ktPPsvsy3pgu5c4",
+      "type": "file",
+      "file": "Metallic Arts/Bronze/Talents/Allomancy/Cosmere Seeker.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "KNlUnl5aa84ATfg7",
+      "type": "file",
+      "file": "Metallic Arts/Bronze/Talents/Allomancy/Detected Defense.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "g5iRMwEYELFBixm4",
+      "type": "file",
+      "file": "Metallic Arts/Bronze/Talents/Allomancy/Ever Seeking.md",
+      "x": 340,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "d650OhD4tITETA5C",
+      "type": "file",
+      "file": "Metallic Arts/Bronze/Talents/Feruchemy/Focused Sentry.md",
+      "x": 340,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "iKhfAOxZG4fG1H4E",
+      "type": "file",
+      "file": "Metallic Arts/Bronze/Talents/Feruchemy/Power Nap.md",
+      "x": 340,
+      "y": 480,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "EksqX4B7XYEMC9kE",
+      "type": "file",
+      "file": "Metallic Arts/Bronze/Talents/Allomancy/Reserve Seeker.md",
+      "x": 340,
+      "y": 600,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "Y77cXm8Btk5Hn8cQ",
+      "type": "file",
+      "file": "Metallic Arts/Bronze/Talents/Feruchemy/Awake and Alert.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "nCrApNlXJRbAhoje",
+      "type": "file",
+      "file": "Metallic Arts/Bronze/Talents/Allomancy/Distant Seeker.md",
+      "x": 0,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "3L337WyLufTum1eg",
+      "type": "file",
+      "file": "Metallic Arts/Bronze/Talents/Feruchemy/Drowsy Storing.md",
+      "x": 0,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "TLdhf3McjLcUookK",
+      "type": "file",
+      "file": "Metallic Arts/Bronze/Talents/Allomancy/Pulse Adept.md",
+      "x": 0,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "vw6gUHbz3EfYIg2m",
+      "type": "file",
+      "file": "Metallic Arts/Bronze/Talents/Feruchemy/Instant Sleep.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "TLdhf3McjLcUookK",
+      "fromSide": "right",
+      "toNode": "5ktPPsvsy3pgu5c4",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "TLdhf3McjLcUookK",
+      "fromSide": "right",
+      "toNode": "EksqX4B7XYEMC9kE",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "TLdhf3McjLcUookK",
+      "fromSide": "right",
+      "toNode": "KNlUnl5aa84ATfg7",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "Y77cXm8Btk5Hn8cQ",
+      "fromSide": "right",
+      "toNode": "d650OhD4tITETA5C",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "nCrApNlXJRbAhoje",
+      "fromSide": "right",
+      "toNode": "g5iRMwEYELFBixm4",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "Y77cXm8Btk5Hn8cQ",
+      "fromSide": "right",
+      "toNode": "iKhfAOxZG4fG1H4E",
+      "toSide": "left"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "iKhfAOxZG4fG1H4E",
+      "fromSide": "right",
+      "toNode": "vw6gUHbz3EfYIg2m",
+      "toSide": "left"
+    }
+  ]
+}

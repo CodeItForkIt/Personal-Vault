@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Poison (effectual, 1 dose)"]
 ---
-![[potion-flask-capped-yellow-green.webp|64]]
+# Poison (effectual, 1 dose)
 
 **Price** 50 mk; **Weight** 0.2 lb.;
 

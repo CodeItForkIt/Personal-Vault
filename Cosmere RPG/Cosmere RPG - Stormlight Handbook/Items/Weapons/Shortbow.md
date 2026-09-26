@@ -6,7 +6,7 @@ category: "Weapons"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "weapon"]
 aliases: ["Shortbow"]
 ---
-![[ICON_Shortbow.webp|64]]
+# Shortbow
 
 **Damage** 1d6 keen; **Range** Ranged [80/320]; **Traits** Two-Handed; **Expert Traits** Quickdraw;
 

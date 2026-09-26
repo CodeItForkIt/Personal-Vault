@@ -6,9 +6,9 @@ category: "Agent / Investigator / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Quick Analysis"]
 ---
-![[ball-spinning-blue.webp|64]]
+# Quick Analysis
 
-**Activation:** Always Active
+**Activation:** 0
 
 *Your mind quickly files and organizes data, and you swiftly act on that information while under pressure.*
 

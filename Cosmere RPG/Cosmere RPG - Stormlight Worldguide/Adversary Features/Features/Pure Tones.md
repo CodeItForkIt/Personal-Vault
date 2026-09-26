@@ -6,6 +6,6 @@ category: "Features"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "trait"]
 aliases: ["Pure Tones"]
 ---
-![[music-singing-voice-blue.webp|64]]
+# Pure Tones
 
 The Actor Name ignores the Disoriented condition while standing on or submerged in solid stone.

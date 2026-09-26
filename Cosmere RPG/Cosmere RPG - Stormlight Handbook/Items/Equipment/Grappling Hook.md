@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Grappling Hook"]
 ---
-![[chain-hook-grey.webp|64]]
+# Grappling Hook
 
 **Price** 10 mk; **Weight** 4 lb.;
 

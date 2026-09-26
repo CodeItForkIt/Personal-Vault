@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Tankard"]
 ---
-![[alcohol-beer-stein-wooden-metal-brown.webp|64]]
+# Tankard
 
 **Price** 1 mk; **Weight** 1 lb.;
 

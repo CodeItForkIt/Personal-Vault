@@ -6,7 +6,7 @@ category: "Weapons / Improvised"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "weapon"]
 aliases: ["Improvised Weapon (Light)"]
 ---
-![[whip-red-yellow.webp|64]]
+# Improvised Weapon (Light)
 
 **Damage** 1d — ; **Range** —; **Traits** Fragile; **Expert Traits** Unique;
 

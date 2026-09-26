@@ -6,9 +6,9 @@ category: "Transportation Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Elsegate"]
 ---
-![[silhouette-grow-shrink-blue.webp|64]]
+# Elsegate
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You can create more stable perpendicularities that allow you to transport yourself and others to highly Invested locations, even across a significant distance.*
 

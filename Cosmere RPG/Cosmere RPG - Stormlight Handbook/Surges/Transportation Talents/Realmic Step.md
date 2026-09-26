@@ -6,7 +6,7 @@ category: "Transportation Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Realmic Step"]
 ---
-![[debuff-energy-snare-purple-pink.webp|64]]
+# Realmic Step
 
 **Activation:** 1
 

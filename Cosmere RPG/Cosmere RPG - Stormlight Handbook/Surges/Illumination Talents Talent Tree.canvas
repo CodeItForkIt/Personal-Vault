@@ -1,0 +1,134 @@
+{
+  "nodes": [
+    {
+      "id": "sEVHTooCph5HPCnI",
+      "type": "file",
+      "file": "Surges/Illumination Talents/Distracting Illusion.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "FtGz2Wa7VV9Ktbz3",
+      "type": "file",
+      "file": "Surges/Illumination Talents/Lingering Lightweavings.md",
+      "x": 0,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "cjves5mi7S1rYQLK",
+      "type": "file",
+      "file": "Surges/Illumination Talents/Disorienting Flash.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "yUCHkcoL2uuQMfCc",
+      "type": "file",
+      "file": "Surges/Illumination Talents/Stormlight Reclamation.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "dGpoT7fjAp5Yywyz",
+      "type": "file",
+      "file": "Surges/Illumination Talents/Multiplicative Lightweaving.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "CHBKsFMA1BTN0RWp",
+      "type": "file",
+      "file": "Surges/Illumination Talents/Spiritual Illumination.md",
+      "x": 680,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "Cx0GltHEOSJarZoP",
+      "type": "file",
+      "file": "Surges/Illumination Talents/Endless Illusions.md",
+      "x": 1020,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "EZcT4tMYbzA1FiOJ",
+      "type": "file",
+      "file": "Surges/Illumination Talents/Painful Truth.md",
+      "x": 1020,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "cjves5mi7S1rYQLK",
+      "fromSide": "right",
+      "toNode": "CHBKsFMA1BTN0RWp",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "dGpoT7fjAp5Yywyz",
+      "fromSide": "right",
+      "toNode": "Cx0GltHEOSJarZoP",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "CHBKsFMA1BTN0RWp",
+      "fromSide": "right",
+      "toNode": "Cx0GltHEOSJarZoP",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "CHBKsFMA1BTN0RWp",
+      "fromSide": "right",
+      "toNode": "EZcT4tMYbzA1FiOJ",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "sEVHTooCph5HPCnI",
+      "fromSide": "right",
+      "toNode": "cjves5mi7S1rYQLK",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "yUCHkcoL2uuQMfCc",
+      "fromSide": "right",
+      "toNode": "dGpoT7fjAp5Yywyz",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "sEVHTooCph5HPCnI",
+      "fromSide": "right",
+      "toNode": "yUCHkcoL2uuQMfCc",
+      "toSide": "left",
+      "label": "or"
+    }
+  ]
+}

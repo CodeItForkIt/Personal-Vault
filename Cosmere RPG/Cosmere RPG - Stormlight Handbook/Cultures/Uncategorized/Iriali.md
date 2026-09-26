@@ -6,7 +6,7 @@ category: "Uncategorized"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "culture"]
 aliases: ["Iriali"]
 ---
-![[iriali-t.webp|64]]
+# Iriali
 
 Iri is ruled by three monarchs. The Iriali descended long ago from offworlders, and most follow the religion of the One. They believe their mission in life is to obtain a vast diversity of experiences so they can eventually merge their consciousnesses together at the end of the Long Trail and become one being of extensive knowledge and understanding. Their destined journey is said to consist of seven worlds, of which they consider Roshar the fourth. It is unknown when they must leave for the fifth, so they remain ever vigilant and prepared.
 

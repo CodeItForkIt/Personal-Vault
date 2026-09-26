@@ -6,7 +6,7 @@ category: "Stonewalkers Unique Items"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-stonewalkers", "weapon"]
 aliases: ["Raysium Knife"]
 ---
-![[ICON_Knife_raysium.webp|64]]
+# Raysium Knife
 
 **Damage** 1d4 keen; **Range** Melee; **Traits** Discreet, Unique; **Expert Traits** Offhand, Thrown [20/60];
 

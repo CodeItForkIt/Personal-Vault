@@ -6,9 +6,9 @@ category: "Illumination Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Spiritual Illumination"]
 ---
-![[explosion-star-glow-silhouette.webp|64]]
+# Spiritual Illumination
 
-**Activation:** One Action
+**Activation:** 1
 
 *You use Lightweaving to show your allies inspiring possibilities of who they could become.*
 

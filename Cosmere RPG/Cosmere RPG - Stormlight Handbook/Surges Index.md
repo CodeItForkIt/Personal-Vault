@@ -1,6 +1,7 @@
 # Surges
 
 ## Abrasion Talents
+- [[Surges/Abrasion Talents/Abrasion Talents|Abrasion Talents]]
 - [[Surges/Abrasion Talents/Distant Surgebinding|Distant Surgebinding]]
 - [[Surges/Abrasion Talents/Frictionless Motion|Frictionless Motion]]
 - [[Surges/Abrasion Talents/Graceful Skating|Graceful Skating]]
@@ -11,6 +12,7 @@
 - [[Surges/Abrasion Talents/Stormlight Reclamation|Stormlight Reclamation]]
 
 ## Adhesion Talents
+- [[Surges/Adhesion Talents/Adhesion Talents|Adhesion Talents]]
 - [[Surges/Adhesion Talents/Adhesive Trap|Adhesive Trap]]
 - [[Surges/Adhesion Talents/Binding Shot|Binding Shot]]
 - [[Surges/Adhesion Talents/Binding Strike|Binding Strike]]
@@ -21,6 +23,7 @@
 - [[Surges/Adhesion Talents/Superior Bond|Superior Bond]]
 
 ## Cohesion Talents
+- [[Surges/Cohesion Talents/Cohesion Talents|Cohesion Talents]]
 - [[Surges/Cohesion Talents/Flowing Earth|Flowing Earth]]
 - [[Surges/Cohesion Talents/Memories of Stone|Memories of Stone]]
 - [[Surges/Cohesion Talents/Sinkhole|Sinkhole]]
@@ -33,6 +36,7 @@
 ## Division Talents
 - [[Surges/Division Talents/Bodily Decay|Bodily Decay]]
 - [[Surges/Division Talents/Devastating Division|Devastating Division]]
+- [[Surges/Division Talents/Division Talents|Division Talents]]
 - [[Surges/Division Talents/Eroding Escape|Eroding Escape]]
 - [[Surges/Division Talents/Gout of Flame|Gout of Flame]]
 - [[Surges/Division Talents/Igniting Division|Igniting Division]]
@@ -43,6 +47,7 @@
 ## Gravitation Talents
 - [[Surges/Gravitation Talents/Aerial Squadron|Aerial Squadron]]
 - [[Surges/Gravitation Talents/Flying Ace|Flying Ace]]
+- [[Surges/Gravitation Talents/Gravitation Talents|Gravitation Talents]]
 - [[Surges/Gravitation Talents/Gravitational Slam|Gravitational Slam]]
 - [[Surges/Gravitation Talents/Group Flight|Group Flight]]
 - [[Surges/Gravitation Talents/Lashing Shot|Lashing Shot]]
@@ -54,6 +59,7 @@
 - [[Surges/Illumination Talents/Disorienting Flash|Disorienting Flash]]
 - [[Surges/Illumination Talents/Distracting Illusion|Distracting Illusion]]
 - [[Surges/Illumination Talents/Endless Illusions|Endless Illusions]]
+- [[Surges/Illumination Talents/Illumination Talents|Illumination Talents]]
 - [[Surges/Illumination Talents/Lingering Lightweavings|Lingering Lightweavings]]
 - [[Surges/Illumination Talents/Multiplicative Lightweaving|Multiplicative Lightweaving]]
 - [[Surges/Illumination Talents/Painful Truth|Painful Truth]]
@@ -67,6 +73,7 @@
 - [[Surges/Progression Talents/From the Brink|From the Brink]]
 - [[Surges/Progression Talents/Injury Regrowth|Injury Regrowth]]
 - [[Surges/Progression Talents/Overgrowth|Overgrowth]]
+- [[Surges/Progression Talents/Progression Talents|Progression Talents]]
 - [[Surges/Progression Talents/Reliable Progression|Reliable Progression]]
 - [[Surges/Progression Talents/Swift Regeneration|Swift Regeneration]]
 
@@ -79,6 +86,7 @@
 - [[Surges/Tension Talents/Stormlight Reclamation|Stormlight Reclamation]]
 - [[Surges/Tension Talents/Surface Tension|Surface Tension]]
 - [[Surges/Tension Talents/Tension Parry|Tension Parry]]
+- [[Surges/Tension Talents/Tension Talents|Tension Talents]]
 
 ### Tension Talents / Effects
 - [[Surges/Tension Talents/Effects/Hardened Defense|Hardened Defense]]
@@ -92,6 +100,7 @@
 - [[Surges/Transformation Talents/Persistent Transformation|Persistent Transformation]]
 - [[Surges/Transformation Talents/Soulcast Defense|Soulcast Defense]]
 - [[Surges/Transformation Talents/Soulcast Parry|Soulcast Parry]]
+- [[Surges/Transformation Talents/Transformation Talents|Transformation Talents]]
 
 ## Transportation Talents
 - [[Surges/Transportation Talents/Cognitive Farsight|Cognitive Farsight]]
@@ -102,6 +111,7 @@
 - [[Surges/Transportation Talents/Realmic Step|Realmic Step]]
 - [[Surges/Transportation Talents/Realmwalker|Realmwalker]]
 - [[Surges/Transportation Talents/Shared Transportation|Shared Transportation]]
+- [[Surges/Transportation Talents/Transportation Talents|Transportation Talents]]
 
 ## Uncategorized
 - [[Surges/Uncategorized/Abrasion|Abrasion]]

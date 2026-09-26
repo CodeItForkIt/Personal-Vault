@@ -6,6 +6,6 @@ category: "Stormlight Actions & Features / Shared"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "trait"]
 aliases: ["Investiture Hunger"]
 ---
-![[eye-ringed-glow-angry-teal.webp|64]]
+# Investiture Hunger
 
 The Actor Name can sense the use of Investiture within 5 miles of them.

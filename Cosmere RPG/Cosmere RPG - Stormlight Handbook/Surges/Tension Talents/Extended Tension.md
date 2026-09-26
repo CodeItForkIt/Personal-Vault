@@ -6,7 +6,7 @@ category: "Tension Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Extended Tension"]
 ---
-![[lava-stone-fire-yellow.webp|64]]
+# Extended Tension
 
 **Activation:** 8
 

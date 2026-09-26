@@ -6,6 +6,6 @@ category: "Loot"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "loot"]
 aliases: ["Ruby Broam"]
 ---
-![[sphere_ruby_broam.webp|64]]
+# Ruby Broam
 
 

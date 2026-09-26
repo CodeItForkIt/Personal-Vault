@@ -6,9 +6,9 @@ category: "Warrior / Soldier / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Defensive Position"]
 ---
-![[shield-block-gray-yellow.webp|64]]
+# Defensive Position
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You’ve learned when to withdraw and when to commit to a position, holding it unflinchingly.*
 

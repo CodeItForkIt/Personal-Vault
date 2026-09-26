@@ -6,7 +6,7 @@ category: "Strikes"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "action"]
 aliases: ["Strike: Claws"]
 ---
-![[claw-curved-jagged-gray.webp|64]]
+# Strike: Claws
 
 **Attack** +11; **Reach** 10 ft.; **Targets** one;
 

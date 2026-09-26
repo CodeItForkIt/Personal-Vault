@@ -9,21 +9,10 @@ aliases: ["Erraniv"]
 # Erraniv
 
 **Tier:** 2  
-**Size:** medium
-
-| Strength | Speed | Intellect | Willpower | Awareness | Presence |
-|---|---|---|---|---|---|
-| 3 | 3 | 1 | 3 | 3 | 2 |
-
-| Health | Focus | Investiture |
-|---|---|---|
-| 70/40 | 8/5 | 0 |
-
-**Speed:** 30 ft.
-
-| AGI | ATH | HWP | DIS | INM | LEA | PRC |
-|---|---|---|---|---|---|---|
-| 2 | 2 | 2 | 1 | 2 | 2 | 2 |
+**Size:** medium  
+**Attributes:** Strength 3, Speed 3, Intellect 1, Willpower 3, Awareness 3, Presence 2  
+**Resources:** Health 70/40, Focus 8/5, Investiture 0  
+**Skills:** AGI 2, ATH 2, HWP 2, DIS 1, INM 2, LEA 2, PRC 2
 
 ### Strike: Slam
 *1 act*
@@ -77,7 +66,7 @@ Before the Erraniv is unwillingly moved or knocked Prone, they ignore that effec
 ### Breakable Armor
 *1*
 
-After the Erraniv is hit by an attack, the attacker can spend Opportunity to cause the Erraniv's Shardplate to lose 1 charge.
+After the Erraniv is hit by an attack, the attacker can spend O to cause the Erraniv's Shardplate to lose 1 charge.
 
 ### Strike: Shardblade
 *1 act*

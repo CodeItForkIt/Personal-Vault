@@ -6,9 +6,9 @@ category: "Lightweaver / Talents / Cryptic Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Third Ideal (Lightweaver)"]
 ---
-![[explosion-star-blue-yellow.webp|64]]
+# Third Ideal (Lightweaver)
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You seek to advance your Nahel bond even further by speaking the Third Ideal.*
 

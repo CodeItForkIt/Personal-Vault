@@ -6,7 +6,7 @@ category: "Leader"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "path"]
 aliases: ["Leader"]
 ---
-![[leader.webp|64]]
+# Leader
 
 Beacons of encouragement and direction, leaders oversee the efforts of others. Some are born with an unquenchable thirst for power and influence. Others solemnly accept their calling out of a sense of duty. Either way, skilled leadership requires both natural aptitude and dedicated learning. Mistakes are unavoidable, and indecision is a costly pitfall.
 

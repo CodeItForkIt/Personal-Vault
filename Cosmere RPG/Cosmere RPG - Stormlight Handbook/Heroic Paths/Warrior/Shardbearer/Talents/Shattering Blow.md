@@ -6,9 +6,9 @@ category: "Warrior / Shardbearer / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Shattering Blow"]
 ---
-![[shield-damaged-broken-gold.webp|64]]
+# Shattering Blow
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *Whether striking a barricaded door, a Shardbearer, or a hapless enemy on the field, you know how to break through weak points or send foes flying with a precise, two-handed blow.*
 

@@ -6,7 +6,7 @@ category: "Skybreaker"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "path"]
 aliases: ["Skybreaker"]
 ---
-![[pg164_path_banner_Skybreaker.webp|64]]
+# Skybreaker
 
 *A Skybreaker announces his presence at a residence as he sends his highspren partner to invisibly scout the interior. After waiting the requisite time with no response, he decays the door into dust. The infractions within abound, from improper facility maintenance to unlawful bondage and mistreatment of captives. The Skybreaker notes each infraction while freeing the prisoners, then begins his hunt for the perpetrators.*
 
@@ -86,19 +86,24 @@ Nale’s faction of highspren don’t form a bond until their Skybreaker speaks 
 >
 > **Physical Interaction.** Highspren are nearly incorporeal in the Physical Realm, but they don’t have the ability to pass through objects. They lack malleable forms but are mostly two-dimensional; as a result, they can't shrink down, but can pass through very thin openings.
 >
-> One Action or One Action **Test Assistance (Costs 1 Focus) .** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, highspren can help with investigating crimes and determining guilt or innocent, Intimidation tests, and Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.
+> 0 or r **Test Assistance (Costs 1 Focus) .** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, highspren can help with investigating crimes and determining guilt or innocent, Intimidation tests, and Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.
 
 ------------------------------------------------------------------------
 
-> [!note]- GM Tip: Skybreakers and Canon
-> Within the Stormlight Archive books, Skybreakers who serve Nale can’t even breathe in Stormlight upon speaking the First Ideal, let alone use surges. (However, it’s possible that independent Skybreakers who don’t follow Nale might ignore these restrictions.) If your group wishes to emulate this element of canon in your own game, Nale’s Skybreakers gain their abilities as follows:
+<div id="secret-UqZRrg9BN4mJ7mDX" class="section secret">
+
+#### GM Tip: Skybreakers and Canon
+
+Within the Stormlight Archive books, Skybreakers who serve Nale can’t even breathe in Stormlight upon speaking the First Ideal, let alone use surges. (However, it’s possible that independent Skybreakers who don’t follow Nale might ignore these restrictions.) If your group wishes to emulate this element of canon in your own game, Nale’s Skybreakers gain their abilities as follows:
+
+> **Second Ideal Goal.** Upon completing their “Speak the Second Ideal” goal, a Skybreaker gains access to Investiture and to the Breathe Stormlight, Enhance, and Regenerate actions. They also gain the surge of Gravitation and can choose its talents.
 >
-> > **Second Ideal Goal.** Upon completing their “Speak the Second Ideal” goal, a Skybreaker gains access to Investiture and to the Breathe Stormlight, Enhance, and Regenerate actions. They also gain the surge of Gravitation and can choose its talents.
-> >
-> > **Third Ideal Goal.** Upon completing their “Speak the Third Ideal” goal, a Skybreaker gains the surge of Division and can choose its talents.
+> **Third Ideal Goal.** Upon completing their “Speak the Third Ideal” goal, a Skybreaker gains the surge of Division and can choose its talents.
+
+To accomplish this delayed progression, replace the entire First Ideal talent with the following.
+
+> **First Ideal.** When you acquire this talent, your maximum health increases by 1 per level. This applies to all previous and future levels; for example, if you choose this talent at level 3, retroactively increase your maximum health by 3.
 >
-> To accomplish this delayed progression, replace the entire First Ideal talent with the following.
->
-> > **First Ideal.** When you acquire this talent, your maximum health increases by 1 per level. This applies to all previous and future levels; for example, if you choose this talent at level 3, retroactively increase your maximum health by 3.
-> >
-> > Additionally, you gain the goal “Speak the First Ideal.” After you complete this goal, you become Empowered until the end of that scene, and your maximum and current focus increase by a number equal to your tier. When your tier increases by 1, your maximum and current focus do as well.
+> Additionally, you gain the goal “Speak the First Ideal.” After you complete this goal, you become Empowered until the end of that scene, and your maximum and current focus increase by a number equal to your tier. When your tier increases by 1, your maximum and current focus do as well.
+
+</div>

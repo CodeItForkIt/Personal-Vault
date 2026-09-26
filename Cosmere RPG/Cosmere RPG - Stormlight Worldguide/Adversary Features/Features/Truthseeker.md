@@ -6,6 +6,6 @@ category: "Features"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "trait"]
 aliases: ["Truthseeker"]
 ---
-![[lens-blue.webp|64]]
+# Truthseeker
 
 The Actor Name gains an advantage on Deduction and Insight tests made to ascertain truth.

@@ -6,7 +6,7 @@ category: "Singer / Forms"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "action"]
 aliases: ["Workform"]
 ---
-![[buff-strength-muscle-damage.webp|64]]
+# Workform
 
 *Workform specializes in labor. This form helps you see tasks through to completion, granting you determination and stamina. You have a rugged body with modest carapace ridges.*
 

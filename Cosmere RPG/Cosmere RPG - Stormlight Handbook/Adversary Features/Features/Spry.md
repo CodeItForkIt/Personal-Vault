@@ -6,6 +6,6 @@ category: "Features"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "trait"]
 aliases: ["Spry"]
 ---
-![[feet-spurred-boots-brown.webp|64]]
+# Spry
 
 The Actor Name isnt affected by difficult terrain.

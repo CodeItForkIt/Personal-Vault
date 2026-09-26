@@ -6,9 +6,9 @@ category: "Elsecaller / Talents / Inkspren Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Take Squire (Elsecaller)"]
 ---
-![[commoner.webp|64]]
+# Take Squire (Elsecaller)
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You begin taking other people under your wing, allowing them to breathe Stormlight and use surges before they’ve established their own Nahel bond.*
 

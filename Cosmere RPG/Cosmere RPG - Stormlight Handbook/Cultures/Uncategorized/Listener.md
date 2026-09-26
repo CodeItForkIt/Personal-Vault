@@ -6,7 +6,7 @@ category: "Uncategorized"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "culture"]
 aliases: ["Listener"]
 ---
-![[singer-culture-t.webp|64]]
+# Listener
 
 The listeners are a group of singers who defied Odium long ago and settled near the Shattered Plains. Through oral tradition, they retained their sense of identity during “the long sleep,” a time when they lost access to nearly all of their forms.
 

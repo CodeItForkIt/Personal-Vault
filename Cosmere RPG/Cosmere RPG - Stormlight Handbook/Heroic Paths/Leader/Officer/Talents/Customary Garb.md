@@ -6,9 +6,9 @@ category: "Leader / Officer / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Customary Garb"]
 ---
-![[robe-layered-white.webp|64]]
+# Customary Garb
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You’ve worn your uniform or traditional clothing for so long that it feels like a second skin, freeing your movements and granting you a deep well of confidence.*
 

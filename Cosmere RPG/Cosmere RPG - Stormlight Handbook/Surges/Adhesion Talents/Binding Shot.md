@@ -6,9 +6,9 @@ category: "Adhesion Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Binding Shot"]
 ---
-![[arrow-flying-white-blue.webp|64]]
+# Binding Shot
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You “paint” your ammunition with Adhesion before throwing or firing it at a target, transferring the infusion to one of your target’s possessions.*
 

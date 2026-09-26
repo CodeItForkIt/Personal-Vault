@@ -6,7 +6,7 @@ category: "Stormlight Actions & Features / Division"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "action"]
 aliases: ["Surge of Division"]
 ---
-![[explosion-lava-stone-red.webp|64]]
+# Surge of Division
 
 The Actor Name chooses a Large (10-foot) object within 30 feet of them that isn't being worn or held, or a portion of such an object, destroying it in a manner of their choosing.
 

@@ -6,9 +6,9 @@ category: "Hunter / Archer / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Combat Training"]
 ---
-![[swords-parry-block-blue.webp|64]]
+# Combat Training
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You’ve been trained in the basics of weaponry and elementary battle tactics.*
 

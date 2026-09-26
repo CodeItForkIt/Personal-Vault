@@ -6,7 +6,7 @@ category: "Stormlight Actions & Features / Tension"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "action"]
 aliases: ["Strike: Whip"]
 ---
-![[tail-strike-bone-orange.webp|64]]
+# Strike: Whip
 
 **Attack** +14; **Reach** 20 ft.; **Targets** one;
 

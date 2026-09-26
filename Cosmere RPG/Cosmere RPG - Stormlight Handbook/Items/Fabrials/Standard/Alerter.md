@@ -6,7 +6,7 @@ category: "Fabrials / Standard"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Alerter"]
 ---
-![[ICON_Alerter.webp|64]]
+# Alerter
 
 **Price** 500 mk; **Weight** 0.5-10 lb.; **Charges** 5;
 

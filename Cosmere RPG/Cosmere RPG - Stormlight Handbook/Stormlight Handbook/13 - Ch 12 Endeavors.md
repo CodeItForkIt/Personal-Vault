@@ -70,8 +70,6 @@ If your group reaches the needed number of successes, you attain your goal, but 
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Collective Threshold Examples]]
 
-[[Stormlight Handbook/17 - Appendix 2 Tables|Collective Threshold Examples]]
-
 #### **Flexible Thresholds**
 
 These thresholds aren’t a concrete rule, merely a guide on when it might feel satisfying to complete the endeavor. If you do something spectacular on your turn, the GM might count it as two successes. Conversely, if your group reaches the needed number of successes, but the GM feels the objective isn’t quite met in the narrative, they might secretly require another success or two. (If extending an endeavor like this, the GM should keep momentum by lowering upcoming DCs and moving the story toward completion.)
@@ -151,8 +149,6 @@ Any skill can be used in an endeavor, but the Discovery Examples table presents 
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Discovery Examples]]
 
-[[Stormlight Handbook/17 - Appendix 2 Tables|Discovery Examples]]
-
 ![[pg326_Navani-Raboniel piece_Jessica Liu.webp]]
 
 **JESSICA LIU**
@@ -211,15 +207,11 @@ Once per Exploration, a party may face perils above and beyond the typical woes 
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Against the Odds Examples]]
 
-[[Stormlight Handbook/17 - Appendix 2 Tables|Against the Odds Examples]]
-
 ## Exploration Examples
 
 Any skill can be used in an endeavor, but the Exploration Examples table presents inspiration for how characters might accomplish some tasks, along with an example of Opportunities and Complications.
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Exploration Examples]]
-
-[[Stormlight Handbook/17 - Appendix 2 Tables|Exploration Examples]]
 
 ## Mission Endeavors
 
@@ -254,8 +246,6 @@ For example, perhaps the party is breaking into the estate of a high-ranking viz
 Any skill can be used in an endeavor, but the Mission Examples table presents inspiration for how characters might accomplish some tasks, along with an example of Opportunities and Complications.
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Mission Examples]]
-
-[[Stormlight Handbook/17 - Appendix 2 Tables|Mission Examples]]
 
 ## Pursuit Endeavors
 
@@ -305,15 +295,11 @@ The Closing the Distance table offers some suggested distances.
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Closing the Distance]]
 
-[[Stormlight Handbook/17 - Appendix 2 Tables|Closing the Distance]]
-
 ## Pursuit Examples
 
 Any skill can be used in an endeavor, but the Pursuit Examples table presents inspiration for how characters might accomplish some tasks, along with an example of Opportunities and Complications. The skills marked with an asterisk (\*) are especially good options for opposed tests, as discussed earlier.
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Pursuit Examples]]
-
-[[Stormlight Handbook/17 - Appendix 2 Tables|Pursuit Examples]]
 
 ## Example Endeavor
 
@@ -347,7 +333,7 @@ This example of gameplay illustrates the flow of an endeavor. Lisiril, Jhesh, an
 
 **Game Master (GM):** It’s not a very big cave, but there are a couple tunnels to search. Test Stealth and raise the stakes!
 
-*Rico rolls a d20 along with the plot die, rolling a 2 on the d20 with a* Complication*4* *on the plot die. He adds his Stealth modifier of +4, along with the +4 from the plot die, for a total of 10. That’s lower than the thieves’ Spiritual defense (which the GM set as the DC).*
+*Rico rolls a d20 along with the plot die, rolling a 2 on the d20 with a* C*4* *on the plot die. He adds his Stealth modifier of +4, along with the +4 from the plot die, for a total of 10. That’s lower than the thieves’ Spiritual defense (which the GM set as the DC).*
 
 **Rico (playing Aj):** Uh, that’s a 10 with a Complication.
 
@@ -359,7 +345,7 @@ This example of gameplay illustrates the flow of an endeavor. Lisiril, Jhesh, an
 
 **Game Master (GM):** Make a Perception test for him, but raise the stakes because the thieves are already alerted!
 
-*Mia rolls a d20 along with the plot die, rolling a 14 on the d20 with a* Complication*2* *on the plot die. She adds her Perception modifier of +3, along with the +2 from the plot die, for a total of 19. That’s higher than the DC the GM set.*
+*Mia rolls a d20 along with the plot die, rolling a 14 on the d20 with a* C*2* *on the plot die. She adds her Perception modifier of +3, along with the +2 from the plot die, for a total of 19. That’s higher than the DC the GM set.*
 
 **Game Master (GM):** Scriven's inky form blends with the darkness as he slinks off to look around. Shortly afterward, he returns and says he thinks he’s found it! It’s hidden away in a cubby in the cave wall just to your left. Unfortunately, the cubby is cut from the other side, down a tunnel past the thieves. With that said, on to the second round!
 

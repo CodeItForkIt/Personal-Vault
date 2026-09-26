@@ -9,22 +9,11 @@ aliases: ["Thrill Berserker"]
 # Thrill Berserker
 
 **Tier:** 1  
-**Size:** medium
-
-| Strength | Speed | Intellect | Willpower | Awareness | Presence |
-|---|---|---|---|---|---|
-| 2 | 2 | 1 | 3 | 2 | 2 |
-
-| Health | Focus | Investiture |
-|---|---|---|
-| 22/22 | 5/5 | 0 |
-
+**Size:** medium  
+**Attributes:** Strength 2, Speed 2, Intellect 1, Willpower 3, Awareness 2, Presence 2  
+**Resources:** Health 22/22, Focus 5/5, Investiture 0  
 **Deflect:** 2  
-**Speed:** 20 ft.
-
-| ATH | HWP | LWP | INM | LEA | PRC |
-|---|---|---|---|---|---|
-| 2 | 2 | 1 | 2 | 1 | 2 |
+**Skills:** ATH 2, HWP 2, LWP 1, INM 2, LEA 1, PRC 2
 
 ##### Tactics
 
@@ -33,7 +22,7 @@ A **Thrill berserker** rushes into battle, undeterred by formidable enemies and 
 ### Infectious Thrill
 *1*
 
-When an enemy rolls a Complication on an attack test against the Thrill Berserker, the enemy gains a +3 bonus to that d20 roll. Regardless of whether the attack hits or misses, if any other characters are within 5 feet of the Thrill Berserker, the enemy must choose one. The enemy's attack also grazes the chosen character (without spending focus).
+When an enemy rolls a c on an attack test against the Thrill Berserker, the enemy gains a +3 bonus to that d20 roll. Regardless of whether the attack hits or misses, if any other characters are within 5 feet of the Thrill Berserker, the enemy must choose one. The enemy's attack also grazes the chosen character (without spending focus).
 
 ### Shield Bash
 *1 act*

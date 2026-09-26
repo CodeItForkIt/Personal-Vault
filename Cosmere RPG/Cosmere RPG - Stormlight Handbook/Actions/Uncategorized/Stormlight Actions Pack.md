@@ -6,7 +6,7 @@ category: "Uncategorized"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "action"]
 aliases: ["Stormlight Actions Pack"]
 ---
-![[hand-sparks-smoke-teal.webp|64]]
+# Stormlight Actions Pack
 
 Drag this pack onto a character sheet to quickly add the basic stormlight actions. These include:
 

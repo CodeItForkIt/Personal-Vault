@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Tent (two-person)"]
 ---
-![[tent.webp|64]]
+# Tent (two-person)
 
 **Price** 10 mk; **Weight** 20 lb.;
 

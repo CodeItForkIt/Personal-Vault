@@ -6,7 +6,7 @@ category: "Uncategorized"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "culture"]
 aliases: ["Thaylen"]
 ---
-![[thaylen-t.webp|64]]
+# Thaylen
 
 The island nation of Thaylenah is ruled by a monarch who is elected by merchant councils and naval officers. The nation thrives on international trade by land and sea, and it rewards particularly industrious merchants with increased social status. Although the nation is Vorin, Thaylens are more flexible with their faith and tend to ignore or relax customs rigidly upheld in Jah Keved and Alethkar.
 

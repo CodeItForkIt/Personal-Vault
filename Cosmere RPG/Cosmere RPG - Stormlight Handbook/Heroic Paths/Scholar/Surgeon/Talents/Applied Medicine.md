@@ -6,9 +6,9 @@ category: "Scholar / Surgeon / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Applied Medicine"]
 ---
-![[bowl-liquid-pink-yellow-green.webp|64]]
+# Applied Medicine
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You’ve studied chemistry, anatomy, social behavior, and much more. Thanks to this broad foundation, you practice the complex art of healing with flexibility and confidence.*
 

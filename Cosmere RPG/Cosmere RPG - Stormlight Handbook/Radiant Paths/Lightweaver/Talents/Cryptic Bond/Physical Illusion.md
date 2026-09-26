@@ -6,9 +6,9 @@ category: "Lightweaver / Talents / Cryptic Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Physical Illusion"]
 ---
-![[explosion-beam-impact-silhouette.webp|64]]
+# Physical Illusion
 
-**Activation:** Two Actions
+**Activation:** 2
 
 *By mixing Transformation and Illumination, you create illusions with weight and tangibility.*
 

@@ -6,7 +6,7 @@ category: "Singer / Forms"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "action"]
 aliases: ["Nightform"]
 ---
-![[silhouette-robe-evil-glow.webp|64]]
+# Nightform
 
 *Nightform grants unpredictable visions of the future, and your senses become more acute, especially at night. Petal-like carapace grows from your skull, framing your ears and enhancing your ability to perceive rhythms. In various lights, your carapace reflects different iridescent patterns.*
 

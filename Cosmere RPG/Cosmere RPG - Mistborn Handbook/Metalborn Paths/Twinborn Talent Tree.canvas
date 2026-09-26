@@ -1,0 +1,205 @@
+{
+  "nodes": [
+    {
+      "id": "BUBKKGTMnyc2ySE8",
+      "type": "file",
+      "file": "Metalborn Paths/Twinborn/Talents/Compound Recursion.md",
+      "x": 1020,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "0L26yXIa0jP49qgQ",
+      "type": "file",
+      "file": "Metalborn Paths/Twinborn/Talents/Metallic Synergy.md",
+      "x": 1020,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "v1D3ZAozkf6TOk8z",
+      "type": "file",
+      "file": "Metalborn Paths/Twinborn/Talents/Twinborn Heritage.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "oSQRo3YAtbEJZXYq",
+      "type": "file",
+      "file": "Metalborn Paths/Twinborn/Talents/Expanded Metalminds.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "2CSBnd4ye8HeMYwZ",
+      "type": "file",
+      "file": "Metalborn Paths/Twinborn/Talents/Fast Storing.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "BZXJPftJZfu0HTQD",
+      "type": "file",
+      "file": "Metalborn Paths/Twinborn/Talents/Instinctual Burn.md",
+      "x": 340,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "A41G6DewXfXWbHMp",
+      "type": "file",
+      "file": "Metalborn Paths/Twinborn/Talents/Invested.md",
+      "x": 340,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "gvIrOLCQxHgTS87U",
+      "type": "file",
+      "file": "Metalborn Paths/Twinborn/Talents/Alloyed Resonance.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "A8Q2mpCLdrQ4OBUk",
+      "type": "file",
+      "file": "Metalborn Paths/Twinborn/Talents/Compounder.md",
+      "x": 680,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "icCoRBsQSeuvrNJu",
+      "type": "file",
+      "file": "Metalborn Paths/Twinborn/Talents/Embedded Metalmind.md",
+      "x": 680,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "xA0Dlw8BetjgF1NZ",
+      "type": "file",
+      "file": "Metalborn Paths/Twinborn/Talents/Instinctual Tap.md",
+      "x": 680,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "r4IQ7gYOUrg10eYh",
+      "type": "file",
+      "file": "Metalborn Paths/Twinborn/Talents/Trace Metals.md",
+      "x": 680,
+      "y": 480,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "gvIrOLCQxHgTS87U",
+      "fromSide": "right",
+      "toNode": "0L26yXIa0jP49qgQ",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "v1D3ZAozkf6TOk8z",
+      "fromSide": "right",
+      "toNode": "2CSBnd4ye8HeMYwZ",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "v1D3ZAozkf6TOk8z",
+      "fromSide": "right",
+      "toNode": "A41G6DewXfXWbHMp",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "oSQRo3YAtbEJZXYq",
+      "fromSide": "right",
+      "toNode": "A8Q2mpCLdrQ4OBUk",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "A41G6DewXfXWbHMp",
+      "fromSide": "right",
+      "toNode": "A8Q2mpCLdrQ4OBUk",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "A8Q2mpCLdrQ4OBUk",
+      "fromSide": "right",
+      "toNode": "BUBKKGTMnyc2ySE8",
+      "toSide": "left"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "v1D3ZAozkf6TOk8z",
+      "fromSide": "right",
+      "toNode": "BZXJPftJZfu0HTQD",
+      "toSide": "left"
+    },
+    {
+      "id": "edge7",
+      "fromNode": "oSQRo3YAtbEJZXYq",
+      "fromSide": "right",
+      "toNode": "gvIrOLCQxHgTS87U",
+      "toSide": "left"
+    },
+    {
+      "id": "edge8",
+      "fromNode": "A41G6DewXfXWbHMp",
+      "fromSide": "right",
+      "toNode": "gvIrOLCQxHgTS87U",
+      "toSide": "left"
+    },
+    {
+      "id": "edge9",
+      "fromNode": "oSQRo3YAtbEJZXYq",
+      "fromSide": "right",
+      "toNode": "icCoRBsQSeuvrNJu",
+      "toSide": "left"
+    },
+    {
+      "id": "edge10",
+      "fromNode": "v1D3ZAozkf6TOk8z",
+      "fromSide": "right",
+      "toNode": "oSQRo3YAtbEJZXYq",
+      "toSide": "left"
+    },
+    {
+      "id": "edge11",
+      "fromNode": "A41G6DewXfXWbHMp",
+      "fromSide": "right",
+      "toNode": "r4IQ7gYOUrg10eYh",
+      "toSide": "left"
+    },
+    {
+      "id": "edge12",
+      "fromNode": "2CSBnd4ye8HeMYwZ",
+      "fromSide": "right",
+      "toNode": "xA0Dlw8BetjgF1NZ",
+      "toSide": "left"
+    }
+  ]
+}

@@ -6,7 +6,7 @@ category: "Transportation Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Elsecalling"]
 ---
-![[silhouette-hold-change-blue.webp|64]]
+# Elsecalling
 
 **Activation:** 2
 

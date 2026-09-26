@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Net (hunting)"]
 ---
-![[net-simple-brown.webp|64]]
+# Net (hunting)
 
 **Price** 4 mk; **Weight** 5 lb.;
 

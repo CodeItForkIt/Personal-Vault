@@ -6,7 +6,7 @@ category: "Stormlight Actions & Features / Division"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "action"]
 aliases: ["Devastating Touch"]
 ---
-![[hand-claw-fire-blue.webp|64]]
+# Devastating Touch
 
 **Attack** +9; **Reach** 5 ft.; **Targets** one;
 

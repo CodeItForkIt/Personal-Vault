@@ -9,31 +9,20 @@ aliases: ["Crime Boss"]
 # Crime Boss
 
 **Tier:** 1  
-**Size:** medium
-
-| Strength | Speed | Intellect | Willpower | Awareness | Presence |
-|---|---|---|---|---|---|
-| 2 | 3 | 5 | 2 | 2 | 4 |
-
-| Health | Focus | Investiture |
-|---|---|---|
-| 50/50 | 6/6 | 0 |
-
+**Size:** medium  
+**Attributes:** Strength 2, Speed 3, Intellect 5, Willpower 2, Awareness 2, Presence 4  
+**Resources:** Health 50/50, Focus 6/6, Investiture 0  
 **Deflect:** 1  
-**Speed:** 30 ft.  
-**Senses:** 20 ft.
-
-| LWP | THV | DED | DIS | INM | DEC | LEA | PRC | PRS |
-|---|---|---|---|---|---|---|---|---|
-| 3 | 2 | 3 | 4 | 4 | 3 | 3 | 3 | 2 |
+**Senses:** 20 ft.  
+**Skills:** LWP 3, THV 2, DED 3, DIS 4, INM 4, DEC 3, LEA 3, PRC 3, PRS 2
 
 ##### Opportunities and Complications
 
 The following options are available when an enemy gains an Opportunity or Complication during a scene with the crime boss:
 
-**Opportunity.** An enemy can spend Opportunity to prevent the crime boss from using their **Compelling Leader** feature and **Don't Disappoint Me** reaction until the end of the crime boss's next turn.
+**Opportunity.** An enemy can spend O to prevent the crime boss from using their **Compelling Leader** feature and **Don't Disappoint Me** reaction until the end of the crime boss's next turn.
 
-**Complication.** The GM can spend Complication from an enemy's test to either have the crime boss reveal additional **Cunning Preparations** (no action required), or to use Reaction to call up to 2 more underlings (such as [[Adversaries and Bestiary/Humanoids/Tier 1/Thief|Thieves]] or [[Adversaries and Bestiary/Humanoids/Tier 1/Bandit|Bandits]]) to join them.
+**Complication.** The GM can spend c from an enemy's test to either have the crime boss reveal additional **Cunning Preparations** (no action required), or to use r to call up to 2 more underlings (such as [[Adversaries and Bestiary/Humanoids/Tier 1/Thief|Thieves]] or [[Adversaries and Bestiary/Humanoids/Tier 1/Bandit|Bandits]]) to join them.
 
 ##### Tactics
 

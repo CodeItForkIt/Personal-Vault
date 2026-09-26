@@ -6,9 +6,9 @@ category: "Scholar / Strategist / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Deep Contemplation"]
 ---
-![[meditation-chi-focus-blue.webp|64]]
+# Deep Contemplation
 
-**Activation:** Two Actions
+**Activation:** 2
 
 *You methodically search your mental archives for facts and information to help resolve your current situation.*
 

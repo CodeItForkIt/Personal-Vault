@@ -6,7 +6,7 @@ category: "Weapons"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "weapon"]
 aliases: ["Longsword"]
 ---
-![[ICON_Longsword.webp|64]]
+# Longsword
 
 **Damage** 1d8 keen; **Range** Melee; **Traits** Quickdraw, Two-Handed; **Expert Traits** Unique: loses Two-Handed trait;
 

@@ -1,0 +1,13 @@
+---
+title: "Poleaxe"
+type: "weapon"
+module: "Cosmere RPG - Mistborn Handbook"
+category: "Weapons"
+tags: ["cosmere-rpg", "cosmere-rpg-mistborn-handbook", "weapon"]
+aliases: ["Poleaxe"]
+---
+# Poleaxe
+
+**Damage** 1d10 keen; **Range** Melee; **Traits** Two-Handed; **Expert Traits** Unique: Melee [+5];
+
+**Type** Heavy Weapon; **Weapons Skill** Heavy; **Price** 20 bx; **Weight** 5 lb;

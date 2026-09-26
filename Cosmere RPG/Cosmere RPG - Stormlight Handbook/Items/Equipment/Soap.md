@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Soap"]
 ---
-![[soap.webp|64]]
+# Soap
 
 **Price** 1 mk; **Weight** 0.1 lb.;
 

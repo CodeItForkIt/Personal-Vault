@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Oil (1 flask)"]
 ---
-![[potion-flask-corked-yellow.webp|64]]
+# Oil (1 flask)
 
 **Price** 1 mk; **Weight** 1 lb.;
 

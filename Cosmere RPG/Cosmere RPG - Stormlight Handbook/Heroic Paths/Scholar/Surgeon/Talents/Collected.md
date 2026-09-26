@@ -6,9 +6,9 @@ category: "Scholar / Surgeon / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Collected"]
 ---
-![[illusion-evasion-echo-purple.webp|64]]
+# Collected
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You’ve learned to be mindful of your immediate goals without losing sight of your deeper value, keeping you even-keeled amid chaos.*
 

@@ -6,9 +6,9 @@ category: "Leader / Champion / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Demonstrative Command"]
 ---
-![[control-influence-rally-purple.webp|64]]
+# Demonstrative Command
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You set an example from the front, applying your advice to your own actions.*
 

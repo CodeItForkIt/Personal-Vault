@@ -112,8 +112,6 @@ Depending on how much damage the ship took during the skyeel battle, this endeav
 
 #### [[Journal/11 - Appendix C Tables|Ship Integrity]]
 
-[[Journal/11 - Appendix C Tables|Ship Integrity]]
-
 ### Everstorm Hazards
 
 The party’s approaches to this endeavor should be guided by the hazards of the storm. Before each contribution, present one of the following hazards for the PCs to respond to:
@@ -133,8 +131,6 @@ During these hazards, the characters might notice wails of agony from the singer
 If a character gains an Opportunity or Complication, use the Everstorm Opportunities and Complications table for inspiration.
 
 #### [[Journal/11 - Appendix C Tables|Everstorm Opportunities and Complications]]
-
-[[Journal/11 - Appendix C Tables|Everstorm Opportunities and Complications]]
 
 ### Voidspren
 
@@ -306,8 +302,6 @@ If a character gains an Opportunity or Complication, use the Hexi Trenches Oppor
 
 #### [[Journal/11 - Appendix C Tables|Hexi Trenches Opportunities and Complications]]
 
-[[Journal/11 - Appendix C Tables|Hexi Trenches Opportunities and Complications]]
-
 ### Aftermath
 
 When the rearguard is defeated, the party can search the camp, speak with Axoq, and question any survivors. A PC can interrogate one of Ylt’s rearguard by succeeding on an Intimidation or Persuasion test against the acolyte’s Spiritual defense. On a success, the acolyte reveals that Ylt and Kaiana have headed onwards through the foothills to the Valley. They also reveal the direction in which the two went.
@@ -366,7 +360,7 @@ All PCs should receive a unique vision, so if there are four PCs in your party, 
 
 ### After the Visions
 
-Each vision ends with the PC noticing a thick carpet of mist forming, making it impossible to sense distance or space. As the PCs find themselves in this cloudy white space, they must each make a DC 12 Discipline test. On a failure, a PC is shaken by their visions and must either spend 1 focus or be Disoriented during the first round of the next combat (see [[Journal/04 - 04 Into the Valley#Truthwatcher’s Folly|Truthwatcher’s Folly]]).
+Each vision ends with the PC noticing a thick carpet of mist forming, making it impossible to sense distance or space. As the PCs find themselves in this cloudy white space, they must each make a DC 12 Discipline test. On a failure, a PC is shaken by their visions and must either spend 1 focus or be Disoriented during the first round of the next combat (see [[Journal/04 - 04 Into the Valley|Truthwatcher’s Folly]]).
 
 When the visions are over, any aid the PCs received or harm they sustained within the vision disappears. With the party reunited, progress to the next section.
 
@@ -473,8 +467,6 @@ The following effect is active during this combat:
 If a character gains an Opportunity or Complication, use the Grove Opportunities and Complications table for inspiration.
 
 #### [[Journal/11 - Appendix C Tables|Grove Opportunities and Complications]]
-
-[[Journal/11 - Appendix C Tables|Grove Opportunities and Complications]]
 
 ### Resolving the Combat
 
@@ -584,8 +576,6 @@ The PC can accept or reject her offer, but they only get one offer and can’t b
 If Kaiana is with the party, she refrains from asking a boon of the Nightwatcher.
 
 #### [[Journal/11 - Appendix C Tables|Boons and Curses]]
-
-[[Journal/11 - Appendix C Tables|Boons and Curses]]
 
 ### Leaving the Valley
 

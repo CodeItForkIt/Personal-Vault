@@ -6,9 +6,9 @@ category: "Leader / Officer / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Well-Supplied"]
 ---
-![[sack-open-grain-red-tan.webp|64]]
+# Well-Supplied
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You adeptly move the wheels of the military machine, acquiring the supplies needed to keep your unit in fighting shape.*
 

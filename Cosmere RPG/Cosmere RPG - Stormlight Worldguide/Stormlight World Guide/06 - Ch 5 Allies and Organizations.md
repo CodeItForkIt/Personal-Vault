@@ -97,11 +97,9 @@ The coalition might offer goals like the following:
 
 ### Patron Benefit: Coalition of Monarchs
 
-In addition to offering amenities, the coalition’s authority extends in part to you. When in member nations, you can invoke their patronage to gain an advantage on various tests, as shown on the Coalition Patron Advantages table. However, when you invoke the coalition’s name, the GM might spend Complication from this test to introduce various challenges, as not everyone in the member nations feels the same way about Dalinar’s coalition.
+In addition to offering amenities, the coalition’s authority extends in part to you. When in member nations, you can invoke their patronage to gain an advantage on various tests, as shown on the Coalition Patron Advantages table. However, when you invoke the coalition’s name, the GM might spend C from this test to introduce various challenges, as not everyone in the member nations feels the same way about Dalinar’s coalition.
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Coalition Patron Advantages]]
-
-[[Stormlight World Guide/13 - Appendix D Tables|Coalition Patron Advantages]]
 
 ## Jasnah
 
@@ -229,8 +227,6 @@ Alternatively, one of the members of Bridge Four can take you on as a Windrunner
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Windrunner Flight Frequency]]
 
-[[Stormlight World Guide/13 - Appendix D Tables|Windrunner Flight Frequency]]
-
 ## Shallan
 
 Shallan Davar is a Veden scholar and a Lightweaver of the Knights Radiant. Witty, clever, and brave, she discovered Urithiru and saved her allies during the rise of the Everstorm. Though Shallan has faced great adversity, she’s learning not to be suffocated by her past, and instead to boldly stride toward the future.
@@ -284,8 +280,6 @@ In addition to offering amenities, Shallan can provide help from one of her Ligh
 Alternatively, Shallan can take you on as a Lightweaver squire instead of granting the above benefit.
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Opposed Lightweaving Tests]]
-
-[[Stormlight World Guide/13 - Appendix D Tables|Opposed Lightweaving Tests]]
 
 ## Szeth
 
@@ -393,13 +387,11 @@ Venli might offer goals like the following:
 
 ### Patron Benefit: Venli
 
-Venli can provide you with connections to singers who resist Odium’s authority, and she can provide amenities when you’re traveling in areas inhabited by singers. Additionally, she can teach you much about Fused society because of her time working for them. When using her knowledge while in Odium-held territory, you gain an advantage on various tests based on your tier, as shown on the Venli Advantages table. However, the GM might spend Complication from these tests to introduce various challenges, as some of Venli’s information is out of date.
+Venli can provide you with connections to singers who resist Odium’s authority, and she can provide amenities when you’re traveling in areas inhabited by singers. Additionally, she can teach you much about Fused society because of her time working for them. When using her knowledge while in Odium-held territory, you gain an advantage on various tests based on your tier, as shown on the Venli Advantages table. However, the GM might spend C from these tests to introduce various challenges, as some of Venli’s information is out of date.
 
 Alternatively, Venli can take you on as a Willshaper squire instead of granting the above benefit.
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Venli Patron Advantages]]
-
-[[Stormlight World Guide/13 - Appendix D Tables|Venli Patron Advantages]]
 
 ## Navani
 
@@ -768,8 +760,6 @@ For PCs who are willing to risk association, the Skybreakers might offer goals l
 In addition to offering amenities (usually those of the local law enforcement), the order can dispatch a Skybreaker to fly your group around Roshar if you can contact them and persuade them that your mission aligns with their Ideals. This Skybreaker won’t knowingly fly you into any kind of danger or enemy territory that would require Gravitation tests to navigate. The amount of time it takes for them to arrive and help you is at the GM’s discretion based on your current circumstances. The Skybreaker Flight Frequency table lists how often you can call for this help, depending on your tier.
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Skybreaker Flight Frequency]]
-
-[[Stormlight World Guide/13 - Appendix D Tables|Skybreaker Flight Frequency]]
 
 ## Sons of Honor
 

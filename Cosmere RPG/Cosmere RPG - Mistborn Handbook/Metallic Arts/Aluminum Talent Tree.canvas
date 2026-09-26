@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "by5QO9zOpkoZGulm",
+      "type": "file",
+      "file": "Metallic Arts/Aluminum/Talents/Feruchemy/Adept Introspection.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "vQHhmlHXthhISrrX",
+      "type": "file",
+      "file": "Metallic Arts/Aluminum/Talents/Feruchemy/Core Drive.md",
+      "x": 0,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "JvWPKH4xN1lU5bXM",
+      "type": "file",
+      "file": "Metallic Arts/Aluminum/Talents/Feruchemy/Unshakeable Quintessence.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "by5QO9zOpkoZGulm",
+      "fromSide": "right",
+      "toNode": "JvWPKH4xN1lU5bXM",
+      "toSide": "left"
+    }
+  ]
+}

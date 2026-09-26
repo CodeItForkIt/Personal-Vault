@@ -6,9 +6,9 @@ category: "Skybreaker / Talents / Highspren Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Fourth Ideal (Skybreaker)"]
 ---
-![[fog-gas-smoke-swirling-gray.webp|64]]
+# Fourth Ideal (Skybreaker)
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You seek to become a full Knight Radiant by speaking the Fourth Ideal.*
 

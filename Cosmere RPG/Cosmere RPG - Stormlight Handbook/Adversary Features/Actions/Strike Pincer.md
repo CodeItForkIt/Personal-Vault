@@ -6,7 +6,7 @@ category: "Actions"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "action"]
 aliases: ["Strike: Pincer"]
 ---
-![[pincer-crab-brown.webp|64]]
+# Strike: Pincer
 
 **Attack** +4; **Reach** 10 ft.; **Targets** one;
 

@@ -6,7 +6,7 @@ category: "Uncategorized"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "ancestry"]
 aliases: ["Human"]
 ---
-![[human-ancestry-card.webp|64]]
+# Human
 
 Most of Roshar is divided into human-ruled nations with majority-human populations.
 

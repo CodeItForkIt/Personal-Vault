@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Chain (thick, 10 feet)"]
 ---
-![[chain-steel-grey.webp|64]]
+# Chain (thick, 10 feet)
 
 **Price** 20 mk; **Weight** 10 lb.;
 

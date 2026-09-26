@@ -6,9 +6,9 @@ category: "Agent / Investigator / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Hardy"]
 ---
-![[heart-glowing-red.webp|64]]
+# Hardy
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You’ve trained your body to endure pain and fatigue, keeping you in the fight until the bitter end.*
 

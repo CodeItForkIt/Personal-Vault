@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Scale"]
 ---
-![[scale-balances-merchant-brown.webp|64]]
+# Scale
 
 **Price** 20 mk; **Weight** 3 lb.;
 

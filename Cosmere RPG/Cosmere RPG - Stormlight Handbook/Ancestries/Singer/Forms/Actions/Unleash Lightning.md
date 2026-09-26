@@ -6,7 +6,7 @@ category: "Singer / Forms / Actions"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "action"]
 aliases: ["Unleash Lightning"]
 ---
-![[bolt-strike-sparks-purple.webp|64]]
+# Unleash Lightning
 
 Your body crackles with the Everstorm’s unnatural red lightning, which you can unleash in a violent arc. Spend 1 focus or 1 Investiture to make a ranged Discipline attack against the Physical defense of a target within 60 feet of you. Roll `2d8` energy damage. On a hit, the target is also **Disoriented** until the end of their next turn. If you have recently taken on stormform, the GM might raise the stakes on this attack due to the unpredictability of the arcing lightning.
 

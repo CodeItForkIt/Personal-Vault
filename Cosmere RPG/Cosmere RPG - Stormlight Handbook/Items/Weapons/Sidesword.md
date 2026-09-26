@@ -6,7 +6,7 @@ category: "Weapons"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "weapon"]
 aliases: ["Sidesword"]
 ---
-![[ICON_Shortsword.webp|64]]
+# Sidesword
 
 **Damage** 1d6 keen; **Range** Melee; **Traits** Quickdraw; **Expert Traits** Offhand;
 

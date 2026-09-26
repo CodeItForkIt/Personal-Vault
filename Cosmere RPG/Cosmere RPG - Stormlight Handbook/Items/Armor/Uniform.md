@@ -6,7 +6,7 @@ category: "Armor"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "armor"]
 aliases: ["Uniform"]
 ---
-![[ICON_Uniform.webp|64]]
+# Uniform
 
 **Deflect Value** 0; **Traits** Presentable; **Expert Traits** —;
 

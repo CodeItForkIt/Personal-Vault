@@ -6,9 +6,9 @@ category: "Leader / Politico / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Shrewd Command"]
 ---
-![[wave-halt-stop.webp|64]]
+# Shrewd Command
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *With a biting word or strategic glance, you cut to the heart of a conversation.*
 

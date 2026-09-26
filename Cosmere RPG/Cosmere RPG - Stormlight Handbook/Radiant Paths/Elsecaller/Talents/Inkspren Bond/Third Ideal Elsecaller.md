@@ -6,9 +6,9 @@ category: "Elsecaller / Talents / Inkspren Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Third Ideal (Elsecaller)"]
 ---
-![[rune-sigil-black-pink.webp|64]]
+# Third Ideal (Elsecaller)
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You seek to advance your Nahel bond even further by speaking the Third Ideal.*
 

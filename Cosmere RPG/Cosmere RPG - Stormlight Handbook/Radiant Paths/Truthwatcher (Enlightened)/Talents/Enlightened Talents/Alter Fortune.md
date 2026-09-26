@@ -6,9 +6,9 @@ category: "Truthwatcher (Enlightened) / Talents / Enlightened Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Alter Fortune"]
 ---
-![[star-rising-purple.webp|64]]
+# Alter Fortune
 
-**Activation:** Reaction
+**Activation:** r
 
 *You use your glimpses of possibilities to control the outcome of events.*
 

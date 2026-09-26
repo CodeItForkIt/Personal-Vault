@@ -6,7 +6,7 @@ category: "Actions"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "action"]
 aliases: ["Strike: Hooves"]
 ---
-![[hooves-cloven-brown.webp|64]]
+# Strike: Hooves
 
 **Attack** +6; **Reach** 5 ft.; **Targets** one;
 

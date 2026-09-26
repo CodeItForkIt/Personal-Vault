@@ -6,11 +6,11 @@ category: "Surges / Cohesion"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-stonewalkers", "talent"]
 aliases: ["True Stoneshaping"]
 ---
-![[barrier-stone-brown-green.webp|64]]
+# True Stoneshaping
 
 **Prerequisite:** Cohesion 2+; [[Items/Surges/Cohesion/Tunneling|Tunneling]] talent
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You no longer simply soften stone—you assert your will on it, molding it into complex shapes with a mere command.*
 

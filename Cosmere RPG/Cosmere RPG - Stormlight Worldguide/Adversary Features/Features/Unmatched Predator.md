@@ -6,6 +6,6 @@ category: "Features"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "trait"]
 aliases: ["Unmatched Predator"]
 ---
-![[bear-roar-bite-brown-green.webp|64]]
+# Unmatched Predator
 
 The Actor Name can use their \<Action\> action twice on their turn (without spending focus to do so).

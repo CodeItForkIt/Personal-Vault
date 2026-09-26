@@ -6,9 +6,9 @@ category: "Singer"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Forms of Expansion"]
 ---
-![[abstract-ribbons-red-orange.webp|64]]
+# Forms of Expansion
 
-**Activation:** Always Active
+**Activation:** 8
 
 You gain two new forms of power—[[Ancestries/Singer/Forms/Envoyform|Envoyform]] and [[Ancestries/Singer/Forms/Relayform|Relayform]]—which you can transform into using your [[Ancestries/Singer/Change Form|Change Form]].
 

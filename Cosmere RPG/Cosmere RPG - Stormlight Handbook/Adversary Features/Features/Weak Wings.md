@@ -6,6 +6,6 @@ category: "Features"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "trait"]
 aliases: ["Weak Wings"]
 ---
-![[wing-batlike-purple-blue.webp|64]]
+# Weak Wings
 
 The Actor Name can't fly further than their flying rate on a turn, even if they use the Move action again.

@@ -6,7 +6,7 @@ category: "Uncategorized"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "ancestry"]
 aliases: ["Singer"]
 ---
-![[singer-ancestry-card.webp|64]]
+# Singer
 
 Singers are the indigenous population of Roshar, though this knowledge was suppressed by the humans and lost for many Desolations. Singers can change forms by bonding spren during highstorms, altering the singer’s appearance and abilities. Their intellectual and emotional capacities are equal to those of humans— but unlike humans, whose abilities generally remain constant, singer forms have the remarkable ability to temporarily amplify some abilities while others lie dormant.
 

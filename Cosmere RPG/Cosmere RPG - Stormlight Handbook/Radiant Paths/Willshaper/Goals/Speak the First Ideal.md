@@ -6,7 +6,7 @@ category: "Willshaper / Goals"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "goal"]
 aliases: ["Speak the First Ideal"]
 ---
-![[trail-streak-pink.webp|64]]
+# Speak the First Ideal
 
 *You begin the process of bonding a lightspren, giving you some small ability to breathe in and use Stormlight. You might be aware of this nascent bond, or clueless—using the powers subconsciously—until you get closer to speaking the First Ideal.*
 

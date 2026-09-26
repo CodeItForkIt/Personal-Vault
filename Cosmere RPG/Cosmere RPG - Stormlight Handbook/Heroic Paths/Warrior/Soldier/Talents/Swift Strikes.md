@@ -6,9 +6,9 @@ category: "Warrior / Soldier / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Swift Strikes"]
 ---
-![[strikes-sword-scimitar.webp|64]]
+# Swift Strikes
 
-**Activation:** One Action
+**Activation:** 1
 
 You instinctively follow the tempo of battle, keeping the pressure on your foes at critical moments.
 

@@ -6,9 +6,9 @@ category: "Leader / Politico / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Rumormonger"]
 ---
-![[music-singing-voice-blue.webp|64]]
+# Rumormonger
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *In social circles where rumors swirl and eddy, your patron’s name creates vast ripples.*
 

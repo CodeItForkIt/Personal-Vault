@@ -1,0 +1,11 @@
+---
+title: "Disengage"
+type: "action"
+module: "Cosmere RPG - Mistborn Handbook"
+category: "Basic"
+tags: ["cosmere-rpg", "cosmere-rpg-mistborn-handbook", "action"]
+aliases: ["Disengage"]
+---
+# Disengage
+
+You carefully step away from an enemy, defending yourself so they can’t seize the opportunity to attack. Move 5 feet without triggering [[Actions/Basic/Reactive Strike|Reactive Strikes]].

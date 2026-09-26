@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Sack"]
 ---
-![[duffel-simple-leather.webp|64]]
+# Sack
 
 **Price** 0.2 mk; **Weight** 0.5 lb.;
 

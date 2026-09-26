@@ -9,21 +9,10 @@ aliases: ["Direform Regal"]
 # Direform Regal
 
 **Tier:** 2  
-**Size:** medium
-
-| Strength | Speed | Intellect | Willpower | Awareness | Presence |
-|---|---|---|---|---|---|
-| 5 | 3 | 1 | 3 | 3 | 1 |
-
-| Health | Focus | Investiture |
-|---|---|---|
-| 42/42 | 5/5 | 5/5 |
-
-**Speed:** 30 ft.
-
-| AGI | ATH | HWP | LWP | DIS | INM | PRC |
-|---|---|---|---|---|---|---|
-| 2 | 3 | 3 | 3 | 3 | 3 | 2 |
+**Size:** medium  
+**Attributes:** Strength 5, Speed 3, Intellect 1, Willpower 3, Awareness 3, Presence 1  
+**Resources:** Health 42/42, Focus 5/5, Investiture 5/5  
+**Skills:** AGI 2, ATH 3, HWP 3, LWP 3, DIS 3, INM 3, PRC 2
 
 ##### Tactics
 
@@ -57,7 +46,7 @@ Before the Direform Regal is unwillingly moved or knocked Prone, they ignore tha
 ### Tackle
 *1 rea*
 
-When an enemy triggers a Reactive Strike from the Direform Regal, the Direform Regal can instead attempt to Grapple the enemy as Reaction, spending focus as if they made a Reactive Strike. If the Grapple succeeds, the enemy also takes `1d6 Keen average` from the Direform Regal's carapace spikes.
+When an enemy triggers a Reactive Strike from the Direform Regal, the Direform Regal can instead attempt to Grapple the enemy as r, spending focus as if they made a Reactive Strike. If the Grapple succeeds, the enemy also takes `1d6 Keen average` from the Direform Regal's carapace spikes.
 
 ### Strike: Hammer
 *1 act*

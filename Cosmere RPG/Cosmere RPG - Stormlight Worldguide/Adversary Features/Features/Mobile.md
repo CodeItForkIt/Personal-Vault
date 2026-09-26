@@ -6,6 +6,6 @@ category: "Features"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "trait"]
 aliases: ["Mobile"]
 ---
-![[figure-running-gray.webp|64]]
+# Mobile
 
-When the Actor Name willingly moves on their turn, they can choose to pause moving and use another action before finishing their available movement. They can resume that movement as Free Action any time before the end of their turn.
+When the Actor Name willingly moves on their turn, they can choose to pause moving and use another action before finishing their available movement. They can resume that movement as 0 any time before the end of their turn.

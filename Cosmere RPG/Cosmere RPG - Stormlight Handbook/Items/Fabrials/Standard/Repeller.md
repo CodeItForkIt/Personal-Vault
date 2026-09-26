@@ -6,7 +6,7 @@ category: "Fabrials / Standard"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Repeller"]
 ---
-![[crosshair-triple-strike-orange.webp|64]]
+# Repeller
 
 **Price** 1,500 mk; **Weight** 8 lb.; **Charges** 5;
 

@@ -6,7 +6,7 @@ category: "Stormlight"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-stonewalkers", "action"]
 aliases: ["Breathe Stormlight"]
 ---
-![[scream-wail-shout-teal.webp|64]]
+# Breathe Stormlight
 
 You draw Stormlight from your infused spheres into yourself; if you have enough spheres, you recover **Investiture** up to your maximum.
 

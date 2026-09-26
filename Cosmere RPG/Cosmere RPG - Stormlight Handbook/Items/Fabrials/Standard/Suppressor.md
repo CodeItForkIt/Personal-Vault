@@ -6,7 +6,7 @@ category: "Fabrials / Standard"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Suppressor"]
 ---
-![[debuff-energy-hold-pink.webp|64]]
+# Suppressor
 
 **Price** Reward only; **Weight** 1 lb.; **Charges** 2;
 

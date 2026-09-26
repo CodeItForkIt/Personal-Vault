@@ -6,6 +6,6 @@ category: "Features"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "trait"]
 aliases: ["Hearty"]
 ---
-![[crosses-trio-red.webp|64]]
+# Hearty
 
 Increase the Actor Name's health by 10.

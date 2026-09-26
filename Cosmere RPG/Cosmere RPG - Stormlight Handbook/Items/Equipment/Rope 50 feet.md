@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Rope (50 feet)"]
 ---
-![[ICON_Rope.webp|64]]
+# Rope (50 feet)
 
 **Price** 30 mk; **Weight** 5 lb.;
 

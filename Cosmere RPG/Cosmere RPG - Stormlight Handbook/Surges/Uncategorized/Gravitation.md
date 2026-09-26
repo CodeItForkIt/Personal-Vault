@@ -6,7 +6,7 @@ category: "Uncategorized"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "power"]
 aliases: ["Gravitation"]
 ---
-![[Gravitation_Surge-glyph.svg|64]]
+# Gravitation
 
 **Radiant Orders:** Skybreaker, Windrunner
 

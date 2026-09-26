@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Jug"]
 ---
-![[jug-wrapped-red.webp|64]]
+# Jug
 
 **Price** 2 mk; **Weight** 4 lb.;
 

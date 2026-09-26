@@ -6,7 +6,7 @@ category: "Edgedancer"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "path"]
 aliases: ["Edgedancer"]
 ---
-![[pg140_path_banner_Edgedancer.webp|64]]
+# Edgedancer
 
 *A blur skates through the conflict—and behind her, her cultivationspren partner follows in a line of crystal-studded vines. The Edgedancer slides over obstacles and through narrow gaps as enemies futilely slash at the air in her wake. Everywhere she glides, allies’ wounds knit, glowing with Stormlight, while enemies find themselves with cuts and bruises they scarcely have time to register.*
 
@@ -86,4 +86,4 @@ While other spren usually regard Nahel bonds and the return of the Radiants with
 >
 > **Physical Interaction.** Cultivationspren are nearly incorporeal in the Physical Realm. They can’t pass through objects, but they’re made of thin vines, enabling them to pass through gaps with a diameter of 1 inch.
 >
-> One Action or One Action **Test Assistance (Costs 1 Focus) .** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, cultivationspren can help with finding common ground or similarly understanding someone you don’t share a culture or language with (though they must still speak at least one language), Insight tests, and Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.
+> 0 or r **Test Assistance (Costs 1 Focus) .** Your spren uses their knowledge and experiences to grant you an advantage on a specific test. Typically, cultivationspren can help with finding common ground or similarly understanding someone you don’t share a culture or language with (though they must still speak at least one language), Insight tests, and Lore tests related to topics they’re familiar with, though your spren may be able to help in additional ways.

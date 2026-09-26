@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Case (leather)"]
 ---
-![[case-scroll-leather-tan.webp|64]]
+# Case (leather)
 
 **Price** 4 mk; **Weight** 1 lb.;
 

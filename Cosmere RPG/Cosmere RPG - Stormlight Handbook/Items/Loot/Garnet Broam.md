@@ -6,6 +6,6 @@ category: "Loot"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "loot"]
 aliases: ["Garnet Broam"]
 ---
-![[sphere_garnet_broam.webp|64]]
+# Garnet Broam
 
 

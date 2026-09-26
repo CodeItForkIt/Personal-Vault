@@ -6,9 +6,9 @@ category: "Leader / Officer / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Authority"]
 ---
-![[silhouette-hold-change-blue.webp|64]]
+# Authority
 
-**Activation:** Always Active
+**Activation:** 8
 
 *Your command experience helps you coordinate larger groups across greater distances.*
 

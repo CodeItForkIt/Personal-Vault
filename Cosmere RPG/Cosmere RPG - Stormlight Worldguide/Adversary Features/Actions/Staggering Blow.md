@@ -6,7 +6,7 @@ category: "Actions"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "action"]
 aliases: ["Staggering Blow"]
 ---
-![[shield-damaged-broken-brown.webp|64]]
+# Staggering Blow
 
 **Attack** +5; **Reach** 5 ft.; **Targets** one;
 

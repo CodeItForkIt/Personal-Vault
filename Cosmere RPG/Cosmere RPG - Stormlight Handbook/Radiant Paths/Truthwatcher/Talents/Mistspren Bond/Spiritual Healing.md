@@ -6,9 +6,9 @@ category: "Truthwatcher / Talents / Mistspren Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Spiritual Healing"]
 ---
-![[day-night-sunset-sunrise.webp|64]]
+# Spiritual Healing
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You mix Illumination and Regrowth to skillfully repair the mind and soul.*
 

@@ -59,7 +59,7 @@ The seas of Shadesmar are filled with an incalculable number of objects. If you�
 
 The most reliable way to find the bead you want is to spend time sorting through hundreds of them. When you take a short rest, you can forgo recovery and instead spend your time searching through the beads of the sea. When you do, you can usually identify a bead that matches the general criteria you’re looking for, which you can then carry with you for later use. The beads you can find are up to the GM’s discretion; you’re unlikely to find a specific unique object, but within reason, you can usually find something that meets your general needs.
 
-If you instead need to find a bead quickly, you can Use a Skill to make an Insight test; on a success, you find that bead. The DC of this test is set by the GM based on how specific and rare of an object you’re looking for. The GM is encouraged to raise the stakes on this test, and they can spend Complication to present an object that has challenging consequences. For example, if you’re looking for a lantern but roll a Complication, you might find a piece of broken glass instead.
+If you instead need to find a bead quickly, you can Use a Skill to make an Insight test; on a success, you find that bead. The DC of this test is set by the GM based on how specific and rare of an object you’re looking for. The GM is encouraged to raise the stakes on this test, and they can spend C to present an object that has challenging consequences. For example, if you’re looking for a lantern but roll a Complication, you might find a piece of broken glass instead.
 
 ### Manifesting Objects From Beads
 
@@ -72,8 +72,6 @@ An object replicated in this way continues to exist in the Physical Realm while 
 Your ranks in Discipline determine how large of an object you can attempt to manifest, as shown on the Manifested Bead Size chart. The object can’t exceed that size in width, length, or height.
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Manifested Bead Size]]
-
-[[Stormlight World Guide/13 - Appendix D Tables|Manifested Bead Size]]
 
 #### **Manifesting an Object**
 
@@ -97,8 +95,6 @@ Your ranks in Crafting determine how large of an object or structure you can att
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Bead Structure Size]]
 
-[[Stormlight World Guide/13 - Appendix D Tables|Bead Structure Size]]
-
 #### **Creating a Structure**
 
 To create an object or structure from beads, choose a bead that represents the object you want to create, then infuse 1 Investiture or more into it. Other nearby beads immediately form around it to create the structure. The structure expends 1 Investiture each round; when all infused Investiture is expended, the latticework collapses and the beads scatter.
@@ -113,7 +109,7 @@ Skilled Lightweavers and Elsecallers can even Soulcast from Shadesmar. If you ha
 
 The beads of Shadesmar are seemingly drawn to Investiture. In their masses, they can form waves and swirl dangerously around Surgebinders who are using their powers.
 
-When you test a surge skill while near a sea of beads, raise the stakes. You can spend Opportunity to direct the flow of the beads around yourself, allowing you to move up to 15 feet without triggering a Reactive Strike. However, the GM can spend Complication to cause the swirling beads to knock you off your feet, dealing 1d6 impact damage and potentially pushing you into the sea.
+When you test a surge skill while near a sea of beads, raise the stakes. You can spend O to direct the flow of the beads around yourself, allowing you to move up to 15 feet without triggering a Reactive Strike. However, the GM can spend C to cause the swirling beads to knock you off your feet, dealing 1d6 impact damage and potentially pushing you into the sea.
 
 ## Flames of People
 
@@ -223,7 +219,7 @@ During gameplay, lesser spren mostly act as interesting set dressing for the gro
 
 - **Discerning Emotions.** Since emotion spren are more visible than in the Physical Realm, characters gain an advantage on tests to discern the true emotions or motives of a person in Shadesmar.
 
-- **Flaring Tempers.** When tempers begin to heat and negative emotions begin to flare, the GM should raise the stakes on social tests. The GM can spend Complication to cause nearby angerspren to take interest (see [[Stormlight World Guide/09 - Ch 8 Adversaries and Bestiary|Chapter 8]] for their stat block) for their stat block).
+- **Flaring Tempers.** When tempers begin to heat and negative emotions begin to flare, the GM should raise the stakes on social tests. The GM can spend C to cause nearby angerspren to take interest (see [[Stormlight World Guide/09 - Ch 8 Adversaries and Bestiary|Chapter 8]] for their stat block) for their stat block).
 
 ## Radiant Spren Societies
 
@@ -378,8 +374,6 @@ The Shadesmar Opportunities and Complications table suggests some ideas for pote
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Shadesmar Opportunities and Complications]]
 
-[[Stormlight World Guide/13 - Appendix D Tables|Shadesmar Opportunities and Complications]]
-
 ## Shadesmar Scenes
 
 Shadesmar is rife with strange experiences and lurking dangers. As the adventurers traverse this realm, the GM can use scenes to escalate the narrative. For each day of travel (or at the GM’s discretion), roll a d20 and consult the Shadesmar Scenes table; a random scene occurs on a roll of 11 or higher.
@@ -387,8 +381,6 @@ Shadesmar is rife with strange experiences and lurking dangers. As the adventure
 When a scene occurs, use the scene indicated on the table or choose your own. The following descriptions suggest details for each scene. If you roll a scene you’ve already used, feel free to change some details (like the type of spren or Fused encountered), choose a new scene, or create one of your own.
 
 #### [[Stormlight World Guide/13 - Appendix D Tables|Shadesmar Scenes]]
-
-[[Stormlight World Guide/13 - Appendix D Tables|Shadesmar Scenes]]
 
 ## Bandits
 

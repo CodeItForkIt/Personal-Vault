@@ -6,7 +6,7 @@ category: "Fabrials / Unique Effects"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Armor Augmenter"]
 ---
-![[shield-barrier-deflect-teal.webp|64]]
+# Armor Augmenter
 
 *Tier 2 Unique Fabrial Effect*
 

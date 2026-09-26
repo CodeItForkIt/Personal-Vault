@@ -6,7 +6,7 @@ category: "Tension Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Cloth Mastery"]
 ---
-![[chevrons-down-yellow.webp|64]]
+# Cloth Mastery
 
 **Activation:** 8
 

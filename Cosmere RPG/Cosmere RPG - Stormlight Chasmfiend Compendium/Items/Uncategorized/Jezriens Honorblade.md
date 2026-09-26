@@ -6,7 +6,7 @@ category: "Uncategorized"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-chasmfiend-compendium", "weapon"]
 aliases: ["Jezrien’s Honorblade"]
 ---
-![[ICON_honorblade_jezrien.webp|64]]
+# Jezrien’s Honorblade
 
 **Damage** 2d10 spirit; **Range** Melee; **Skill** Heavy Weaponry or Light Weaponry; **Traits** Dangerous, Deadly, Unique; **Expert Traits** Unique (loses Dangerous trait)
 

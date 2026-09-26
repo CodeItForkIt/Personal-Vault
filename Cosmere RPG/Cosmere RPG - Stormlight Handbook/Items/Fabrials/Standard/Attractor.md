@@ -6,7 +6,7 @@ category: "Fabrials / Standard"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Attractor"]
 ---
-![[target-strike-triple-blue.webp|64]]
+# Attractor
 
 **Price** 750 mk; **Weight** 8 lb.; **Charges** 5;
 

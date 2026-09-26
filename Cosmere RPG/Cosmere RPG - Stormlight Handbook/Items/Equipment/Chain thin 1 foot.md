@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Chain (thin, 1 foot)"]
 ---
-![[chain-brass-yellow.webp|64]]
+# Chain (thin, 1 foot)
 
 **Price** 20 mk; **Weight** 0.5 lb.;
 

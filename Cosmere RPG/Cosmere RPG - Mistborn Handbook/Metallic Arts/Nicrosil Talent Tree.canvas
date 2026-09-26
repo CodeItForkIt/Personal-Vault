@@ -1,0 +1,56 @@
+{
+  "nodes": [
+    {
+      "id": "5otxIUTnOj2PeTdM",
+      "type": "file",
+      "file": "Metallic Arts/Nicrosil/Talents/Allomancy/Assisted Burst.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "HQ70RcTIX7tTAKJc",
+      "type": "file",
+      "file": "Metallic Arts/Nicrosil/Talents/Allomancy/Proactive Nicroburst.md",
+      "x": 0,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "NjPiURatk43lfsSN",
+      "type": "file",
+      "file": "Metallic Arts/Nicrosil/Talents/Allomancy/Unexpected Burst.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "97MIplImNB9h5c05",
+      "type": "file",
+      "file": "Metallic Arts/Nicrosil/Talents/Allomancy/Bursting Grasp.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "HQ70RcTIX7tTAKJc",
+      "fromSide": "right",
+      "toNode": "97MIplImNB9h5c05",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "97MIplImNB9h5c05",
+      "fromSide": "right",
+      "toNode": "NjPiURatk43lfsSN",
+      "toSide": "left"
+    }
+  ]
+}

@@ -6,9 +6,9 @@ category: "Gravitation Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Master of the Skies"]
 ---
-![[debuff-energy-hold-levitate-blue-yellow.webp|64]]
+# Master of the Skies
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You’ve become so efficient at infusing yourself with Gravitation that it becomes subconscious, allowing you to endlessly soar.*
 

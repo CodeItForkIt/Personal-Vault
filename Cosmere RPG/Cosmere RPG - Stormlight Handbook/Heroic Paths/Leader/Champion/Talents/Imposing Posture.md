@@ -6,9 +6,9 @@ category: "Leader / Champion / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Imposing Posture"]
 ---
-![[intimidation-impressing.webp|64]]
+# Imposing Posture
 
-**Activation:** Always Active
+**Activation:** 8
 
 *On and off the battlefield, your powerful physique sends a clear message to your foes.*
 

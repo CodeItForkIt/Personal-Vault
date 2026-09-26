@@ -6,9 +6,9 @@ category: "Adhesion Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Living Adhesion"]
 ---
-![[silhouette-fall-slip-prone.webp|64]]
+# Living Adhesion
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You can apply Adhesion directly to other living beings, sticking their bodies to surfaces.*
 

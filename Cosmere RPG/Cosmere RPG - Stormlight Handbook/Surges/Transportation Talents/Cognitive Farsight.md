@@ -6,7 +6,7 @@ category: "Transportation Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Cognitive Farsight"]
 ---
-![[eye-tendrils-web-purple.webp|64]]
+# Cognitive Farsight
 
 **Activation:** 8
 

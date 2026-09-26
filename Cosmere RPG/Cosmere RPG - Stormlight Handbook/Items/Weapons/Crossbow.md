@@ -6,7 +6,7 @@ category: "Weapons"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "weapon"]
 aliases: ["Crossbow"]
 ---
-![[ICON_Crossbow.webp|64]]
+# Crossbow
 
 **Damage** 1d8 keen; **Range** Ranged [100/400]; **Traits** Loaded [1], Two-Handed; **Expert Traits** Deadly;
 

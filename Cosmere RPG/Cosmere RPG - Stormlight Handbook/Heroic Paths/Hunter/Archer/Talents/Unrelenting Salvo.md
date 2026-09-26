@@ -6,9 +6,9 @@ category: "Hunter / Archer / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Unrelenting Salvo"]
 ---
-![[arrows-flying-salvo-blue.webp|64]]
+# Unrelenting Salvo
 
-**Activation:** Always Active
+**Activation:** 8
 
 *Drawing the bowstring with impressive speed, you fire again, using your first arrow’s path as your guide.*
 

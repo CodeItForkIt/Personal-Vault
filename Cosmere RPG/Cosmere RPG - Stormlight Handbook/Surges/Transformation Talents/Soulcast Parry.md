@@ -6,9 +6,9 @@ category: "Transformation Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Soulcast Parry"]
 ---
-![[shield-barrier-deflect-teal.webp|64]]
+# Soulcast Parry
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You can use Soulcasting to defend against even more immediate threats.*
 

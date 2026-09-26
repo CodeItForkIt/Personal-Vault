@@ -6,7 +6,7 @@ category: "Basic"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "action"]
 aliases: ["Banter"]
 ---
-![[scream-wail-shout-teal.webp|64]]
+# Banter
 
 You can freely speak at any point during your turn, and other characters can briefly respond. However, because each round is only about 10 seconds of time, the GM might limit you to only a couple sentences per turn.
 

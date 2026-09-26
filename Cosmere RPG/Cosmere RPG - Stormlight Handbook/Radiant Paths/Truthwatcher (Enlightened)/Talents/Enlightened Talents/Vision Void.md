@@ -6,9 +6,9 @@ category: "Truthwatcher (Enlightened) / Talents / Enlightened Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Vision Void"]
 ---
-![[orb-beam-pink.webp|64]]
+# Vision Void
 
-**Activation:** Special Activation
+**Activation:** 8
 
 *Thanks to your ability to see the future and change its course, you and your nearby allies create a black spot in the future sight of others.*
 

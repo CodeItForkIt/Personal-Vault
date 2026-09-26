@@ -36,13 +36,13 @@ Before running this chapter, the players should create character connections wit
 
 During this chapter, Ylt sends his mentee Kaiana and a group of bandit zealots to ambush the Alethi caravan carrying Taln’s Honorblade. The Eyes of Pala plan to distract the caravan’s guards while Kaiana steals the Blade.
 
-Taszo’s role in this adventure is to help you communicate key information and set off the events that pull the party into the adventure. Familiarize yourself with [[Journal/14 - 01 Honor Beyond the Storm#Taszo’s Story|Taszo’s Story]] and ensure the following occur:
+Taszo’s role in this adventure is to help you communicate key information and set off the events that pull the party into the adventure. Familiarize yourself with [[Journal/14 - 01 Honor Beyond the Storm|Taszo’s Story]] and ensure the following occur:
 
-- The PCs witness [[Journal/14 - 01 Honor Beyond the Storm#Ellar’s Outburst|Ellar’s Outburst]].
+- The PCs witness [[Journal/14 - 01 Honor Beyond the Storm|Ellar’s Outburst]].
 
 - Taszo initiates a discussion about the Honorblade in [[Journal/14 - 01 Honor Beyond the Storm#Suspicions Revealed|Suspicions Revealed]].
 
-- The PCs have the chance to realize the bandits are a diversion for the theft of the Honorblade. If the PCs don’t figure this out, Taszo does so in [[Journal/14 - 01 Honor Beyond the Storm#Taszo’s Realization|Taszo’s Realization]].
+- The PCs have the chance to realize the bandits are a diversion for the theft of the Honorblade. If the PCs don’t figure this out, Taszo does so in [[Journal/14 - 01 Honor Beyond the Storm|Taszo’s Realization]].
 
 - Taszo asks the party to take over his quest in [[Journal/14 - 01 Honor Beyond the Storm#A Promise|A Promise]].
 
@@ -139,8 +139,6 @@ The Alethi merchant is **[[Actors/Adversaries/Named/Ch. 1/Nen|Nen]]** (commoner,
 
 #### [[Journal/11 - Appendix C Tables|Caravan Gossip]]
 
-[[Journal/11 - Appendix C Tables|Caravan Gossip]]
-
 ## House Kholin Caravan
 
 The party can integrate themselves with the Kholin caravan and learn some gossip by being useful to Bordin’s soldiers. If the PCs approach the Kholin caravan, read the following:
@@ -173,8 +171,6 @@ Alternatively, the commotion surrounding highstorm preparations allows any chara
 If the PCs linger here—either because Ellar allows them to or because they remain unnoticed—they can overhear interesting gossip with a successful DC 14 Perception test. You can choose or roll for gossip from the Caravan Gossip table.
 
 #### [[Journal/11 - Appendix C Tables|Caravan Gossip]]
-
-[[Journal/11 - Appendix C Tables|Caravan Gossip]]
 
 ### Bordin and the Guarded Wagon
 
@@ -328,8 +324,6 @@ If a character gains an Opportunity or Complication, use the Wagon Opportunities
 
 #### [[Journal/11 - Appendix C Tables|Wagon Opportunities and Complications]]
 
-[[Journal/11 - Appendix C Tables|Wagon Opportunities and Complications]]
-
 #### **Resolving the Endeavor**
 
 The endeavor succeeds if the party accrues 3 successes before 3 failures, or if they otherwise complete the objective.
@@ -420,8 +414,6 @@ If a character gains an Opportunity or Complication, use the Road Ambush Opportu
 
 #### [[Journal/11 - Appendix C Tables|Road Ambush Opportunities and Complications]]
 
-[[Journal/11 - Appendix C Tables|Road Ambush Opportunities and Complications]]
-
 ## Ambush at the Caravan
 
 If the PCs are trying to get into the locked Honorblade wagon when the bandits attack, add two additional **[[Actors/Adversaries/Bandit|bandits]]** to those attacking the party.
@@ -437,8 +429,6 @@ Characters might try to investigate or interact with the following elements of t
 If a character gains an Opportunity or Complication, use the Caravan Ambush Opportunities and Complications table for inspiration.
 
 #### [[Journal/11 - Appendix C Tables|Caravan Ambush Opportunities and Complications]]
-
-[[Journal/11 - Appendix C Tables|Caravan Ambush Opportunities and Complications]]
 
 ![[pg028_Map 1-2 The Caravan_EDUARDO NONATO CAVALCANTE.webp]]
 
@@ -459,7 +449,7 @@ The defeated bandits carry their weapons and 1d6 marks each, and one bandit carr
 
 As a follower of Ylt, one bandit has a crudely tattooed Truthwatcher glyph on their wrist; any PC who saw Kaiana recognizes this glyph matches the one painted on her face. Characters with the Religion expertise or who succeed on a DC 14 Lore test identify the glyph as a variant of “Palah,” one of the ten fundamental glyphs of Vorin theology. Palah is associated with emeralds, plant life, knowledge, and generosity.
 
-Taszo finds this glyph if the characters don’t, which leads to [[Journal/14 - 01 Honor Beyond the Storm#Taszo’s Realization|Taszo’s Realization]].
+Taszo finds this glyph if the characters don’t, which leads to [[Journal/14 - 01 Honor Beyond the Storm|Taszo’s Realization]].
 
 ## Into the Storm
 
@@ -539,8 +529,6 @@ During the combat with Veth (see **map 1.3**), the following effects are active:
 - **Leaving Shelter.** Following Ylt and Kaiana into the storm is impossible without the Stormlight healing that protects them both. If a PC moves more than 50 feet away from the Covenant Stone, warn that they will be exposed to the full force of the highstorm. If a PC enters the storm anyway, they take 6 (`1d12`) impact damage at the start of each of their turns.
 
 #### [[Journal/11 - Appendix C Tables|Highstorm Effects]]
-
-[[Journal/11 - Appendix C Tables|Highstorm Effects]]
 
 ![[pg031_Map 1-3 Battle with Veth_EDUARDO NONATO CAVALCANTE.webp]]
 

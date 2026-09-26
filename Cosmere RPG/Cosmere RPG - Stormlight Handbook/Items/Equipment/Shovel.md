@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Shovel"]
 ---
-![[shovel-spade-steel-brown-grey.webp|64]]
+# Shovel
 
 **Price** 8 mk; **Weight** 5 lb.;
 

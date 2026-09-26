@@ -6,6 +6,6 @@ category: "Uncommon"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "trait"]
 aliases: ["Plodding Pace"]
 ---
-![[snail-movement-tan.webp|64]]
+# Plodding Pace
 
 The Actor Name can only use the Move action once per turn.

@@ -6,9 +6,9 @@ category: "Scholar / Artifabrian / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Fine Handiwork"]
 ---
-![[map-chart-tan.webp|64]]
+# Fine Handiwork
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *Your dedication to quality and love for innovation ensure that your designs stand out from the crowd.*
 

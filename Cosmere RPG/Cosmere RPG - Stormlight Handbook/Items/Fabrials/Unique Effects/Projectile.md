@@ -6,7 +6,7 @@ category: "Fabrials / Unique Effects"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Projectile"]
 ---
-![[arrowhead-glowing-blue.webp|64]]
+# Projectile
 
 *Tier 2 Unique Fabrial Effect*
 

@@ -1,0 +1,17 @@
+---
+title: "Rumormonger"
+type: "talent"
+module: "Cosmere RPG - Mistborn Handbook"
+category: "Leader / Politico / Talents"
+tags: ["cosmere-rpg", "cosmere-rpg-mistborn-handbook", "talent"]
+aliases: ["Rumormonger"]
+---
+# Rumormonger
+
+**Activation:** **\***
+
+*In social circles where rumors swirl and eddy, your patron’s name creates vast ripples.*
+
+When you make a test to spread misinformation or gather rumors, you can spend 2 focus to add an Opportunity to the result.
+
+Additionally, when you acquire this talent, gain a utility expertise in Scandal.

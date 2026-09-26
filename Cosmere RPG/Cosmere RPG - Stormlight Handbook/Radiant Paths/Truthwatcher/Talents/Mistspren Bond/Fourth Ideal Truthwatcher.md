@@ -6,9 +6,9 @@ category: "Truthwatcher / Talents / Mistspren Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Fourth Ideal (Truthwatcher)"]
 ---
-![[silhouette-stealth-shadow.webp|64]]
+# Fourth Ideal (Truthwatcher)
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You seek to become a full Knight Radiant by speaking the Fourth Ideal.*
 

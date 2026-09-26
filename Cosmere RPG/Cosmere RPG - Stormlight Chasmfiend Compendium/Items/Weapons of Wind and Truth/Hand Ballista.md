@@ -6,7 +6,7 @@ category: "Weapons of Wind and Truth"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-chasmfiend-compendium", "weapon"]
 aliases: ["Hand Ballista"]
 ---
-![[ICON_ballista_hand.webp|64]]
+# Hand Ballista
 
 **Damage** 1d8 keen; **Range** Ranged [100/400]; **Traits** Cumbersome[3], Loaded [1], Two-Handed; **Expert Traits** Unique;
 

@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Poison (weak, 1 dose)"]
 ---
-![[potion-tube-corked-green.webp|64]]
+# Poison (weak, 1 dose)
 
 **Price** 20 mk; **Weight** 0.2 lb.;
 

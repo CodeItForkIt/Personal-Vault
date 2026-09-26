@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Clothing (fine)"]
 ---
-![[robe-collared-blue.webp|64]]
+# Clothing (fine)
 
 **Price** 50–200 mk; **Weight** 6 lb.;
 

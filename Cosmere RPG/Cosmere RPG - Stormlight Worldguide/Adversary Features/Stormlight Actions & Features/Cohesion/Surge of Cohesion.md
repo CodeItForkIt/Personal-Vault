@@ -6,7 +6,7 @@ category: "Stormlight Actions & Features / Cohesion"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "action"]
 aliases: ["Surge of Cohesion"]
 ---
-![[laval-stone-orange.webp|64]]
+# Surge of Cohesion
 
 The Actor Name chooses a Large (10-foot) or smaller area or object within 30 feet of them that is made of stone or earth and that isn't being worn or held. That object or area changes shape in a manner they choose, though not violently enough to cause damage.
 

@@ -9,21 +9,10 @@ aliases: ["Khornak"]
 # Khornak
 
 **Tier:** 1  
-**Size:** medium
-
-| Strength | Speed | Intellect | Willpower | Awareness | Presence |
-|---|---|---|---|---|---|
-| 3 | 2 | 0 | 2 | 2 | 0 |
-
-| Health | Focus | Investiture |
-|---|---|---|
-| 26/26 | 4/4 | 0 |
-
-**Speed:** 20 ft.
-
-| ATH | STL | PRC | SUR |
-|---|---|---|---|
-| 2 | 2 | 1 | 2 |
+**Size:** medium  
+**Attributes:** Strength 3, Speed 2, Intellect 0, Willpower 2, Awareness 2, Presence 0  
+**Resources:** Health 26/26, Focus 4/4, Investiture 0  
+**Skills:** ATH 2, STL 2, PRC 1, SUR 2
 
 ##### Tactics
 
@@ -53,7 +42,7 @@ The Khornak moves up to 15 feet in any direction while dragging an enemy they ha
 
 **Graze** `1d8 Impact average`;
 
-**Hit** `1d8 + 5 Impact average`, and the target becomes Restrained by the Khornak's jaw while the Khornak remains within 5 feet of them. The Khornak can spend 1 focus to also make the target Afflicted [`1d4 Vital`] until the target regains at least 1 health. As Two Actions, the target or a character who can reach them can make a *Test: `skill=agi dc=16`* or *Test: `skill=ath dc=16`*, ending the Restrained condition on a success.
+**Hit** `1d8 + 5 Impact average`, and the target becomes Restrained by the Khornak's jaw while the Khornak remains within 5 feet of them. The Khornak can spend 1 focus to also make the target Afflicted [`1d4 Vital`] until the target regains at least 1 health. As 2, the target or a character who can reach them can make a *Test: `skill=agi dc=16`* or *Test: `skill=ath dc=16`*, ending the Restrained condition on a success.
 
 While the Khornak is restraining this target, the Khornak can't make another Crushing Jaw attack.
 

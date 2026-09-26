@@ -6,7 +6,7 @@ category: "Basic"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "action"]
 aliases: ["Interact"]
 ---
-![[air-smoke-casting.webp|64]]
+# Interact
 
 You quickly interact with an object you can reach. Unlike the [[Actions/Basic/Use A Skill|Use a Skill]] action, this action usually doesn’t require a skill test. For example, you might Interact to:
 

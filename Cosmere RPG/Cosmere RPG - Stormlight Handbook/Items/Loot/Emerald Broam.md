@@ -6,6 +6,6 @@ category: "Loot"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "loot"]
 aliases: ["Emerald Broam"]
 ---
-![[sphere_emerald_broam.webp|64]]
+# Emerald Broam
 
 

@@ -6,6 +6,6 @@ category: "Features"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "trait"]
 aliases: ["Furtive"]
 ---
-![[shadow-stealth-eyes-purple.webp|64]]
+# Furtive
 
 Sneaking doesn't cause the Actor Name to become [[Stormlight Handbook/10 - Ch 9 Adventuring#Slowed|Slowed]].

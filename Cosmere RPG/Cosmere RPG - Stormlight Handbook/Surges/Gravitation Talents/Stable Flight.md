@@ -6,9 +6,9 @@ category: "Gravitation Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Stable Flight"]
 ---
-![[buff-flight-wings-runes-blue.webp|64]]
+# Stable Flight
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You’re an expert in launching attacks from afar in mid-flight.*
 

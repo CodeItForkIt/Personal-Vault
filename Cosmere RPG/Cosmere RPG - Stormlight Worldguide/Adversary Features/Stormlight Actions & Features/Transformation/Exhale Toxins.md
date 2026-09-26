@@ -6,7 +6,7 @@ category: "Stormlight Actions & Features / Transformation"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "action"]
 aliases: ["Exhale Toxins"]
 ---
-![[pouring-gas-smoke-liquid.webp|64]]
+# Exhale Toxins
 
 **Attack** +10; **Reach** 10 ft., **Targets** one;
 

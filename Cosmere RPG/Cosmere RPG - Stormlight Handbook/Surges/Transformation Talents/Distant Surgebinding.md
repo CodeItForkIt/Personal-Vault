@@ -6,9 +6,9 @@ category: "Transformation Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Distant Surgebinding"]
 ---
-![[trail-streak-pink.webp|64]]
+# Distant Surgebinding
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You can Soulcast from a greater distance.*
 

@@ -6,9 +6,9 @@ category: "Abrasion Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Reverse Abrasion"]
 ---
-![[debuff-energy-hold-blue-yellow.webp|64]]
+# Reverse Abrasion
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *Instead of making objects frictionless with Abrasion, you can now increase friction.*
 

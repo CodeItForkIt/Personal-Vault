@@ -1,0 +1,177 @@
+{
+  "nodes": [
+    {
+      "id": "WuhyYgIeIcDHnnrV",
+      "type": "file",
+      "file": "Metallic Arts/Chromium/Talents/Allomancy/Metalmind Siphoner.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "JXuEKOKwMAWd7OJB",
+      "type": "file",
+      "file": "Metallic Arts/Chromium/Talents/Feruchemy/Nexus of Fortune.md",
+      "x": 680,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "vwmcwMZgD7v5EsvT",
+      "type": "file",
+      "file": "Metallic Arts/Chromium/Talents/Allomancy/Evasive Leecher.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "mb4uxQMW4FOLvTTk",
+      "type": "file",
+      "file": "Metallic Arts/Chromium/Talents/Allomancy/Hyperleech.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "i0IDrr5BAXCC4owv",
+      "type": "file",
+      "file": "Metallic Arts/Chromium/Talents/Feruchemy/Right Place.md",
+      "x": 340,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "NtQCk2bNDdjfX4b0",
+      "type": "file",
+      "file": "Metallic Arts/Chromium/Talents/Feruchemy/Right Time.md",
+      "x": 340,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "0xYe664agDwpiB1c",
+      "type": "file",
+      "file": "Metallic Arts/Chromium/Talents/Feruchemy/Share Fate.md",
+      "x": 340,
+      "y": 480,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "vwJoQLYLFzBADxmf",
+      "type": "file",
+      "file": "Metallic Arts/Chromium/Talents/Allomancy/Simultaneous Leeching.md",
+      "x": 340,
+      "y": 600,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "dKoLki5is5WcrUHD",
+      "type": "file",
+      "file": "Metallic Arts/Chromium/Talents/Allomancy/Draining Grasp.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "CG10I0btFAVjFpeH",
+      "type": "file",
+      "file": "Metallic Arts/Chromium/Talents/Feruchemy/Not Quite Yet.md",
+      "x": 0,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "2uvJvfkyAHbkNauM",
+      "type": "file",
+      "file": "Metallic Arts/Chromium/Talents/Allomancy/Reactive Leech.md",
+      "x": 0,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "sbfLNbC44bTxI8r4",
+      "type": "file",
+      "file": "Metallic Arts/Chromium/Talents/Feruchemy/Whispers of Destiny.md",
+      "x": 0,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "CG10I0btFAVjFpeH",
+      "fromSide": "right",
+      "toNode": "0xYe664agDwpiB1c",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "i0IDrr5BAXCC4owv",
+      "fromSide": "right",
+      "toNode": "JXuEKOKwMAWd7OJB",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "sbfLNbC44bTxI8r4",
+      "fromSide": "right",
+      "toNode": "NtQCk2bNDdjfX4b0",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "mb4uxQMW4FOLvTTk",
+      "fromSide": "right",
+      "toNode": "WuhyYgIeIcDHnnrV",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "sbfLNbC44bTxI8r4",
+      "fromSide": "right",
+      "toNode": "i0IDrr5BAXCC4owv",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "2uvJvfkyAHbkNauM",
+      "fromSide": "right",
+      "toNode": "mb4uxQMW4FOLvTTk",
+      "toSide": "left"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "dKoLki5is5WcrUHD",
+      "fromSide": "right",
+      "toNode": "mb4uxQMW4FOLvTTk",
+      "toSide": "left"
+    },
+    {
+      "id": "edge7",
+      "fromNode": "dKoLki5is5WcrUHD",
+      "fromSide": "right",
+      "toNode": "vwJoQLYLFzBADxmf",
+      "toSide": "left"
+    },
+    {
+      "id": "edge8",
+      "fromNode": "2uvJvfkyAHbkNauM",
+      "fromSide": "right",
+      "toNode": "vwmcwMZgD7v5EsvT",
+      "toSide": "left"
+    }
+  ]
+}

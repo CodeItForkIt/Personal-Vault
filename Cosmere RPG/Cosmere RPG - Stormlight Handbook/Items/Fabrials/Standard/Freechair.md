@@ -6,7 +6,7 @@ category: "Fabrials / Standard"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Freechair"]
 ---
-![[ICON_Freechair.webp|64]]
+# Freechair
 
 **Price** Free or 800 mk; **Weight** 12 lb.; **Charges** unlimited;
 

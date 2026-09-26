@@ -6,9 +6,9 @@ category: "Leader / Champion / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Resilient Hero"]
 ---
-![[shield-barrier-glowing-blue.webp|64]]
+# Resilient Hero
 
-**Activation:** Reaction
+**Activation:** r
 
 *You summon your last reserves and press forward despite grievous wounds.*
 

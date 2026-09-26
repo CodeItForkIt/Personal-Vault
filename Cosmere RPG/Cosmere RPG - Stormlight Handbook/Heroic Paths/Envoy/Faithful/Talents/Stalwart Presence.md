@@ -6,9 +6,9 @@ category: "Envoy / Faithful / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Stalwart Presence"]
 ---
-![[shield-barrier-glowing-blue.webp|64]]
+# Stalwart Presence
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *Your words carry the certainty of your beliefs, bolstering the endurance of even those who don’t share your faith.*
 

@@ -6,7 +6,7 @@ category: "Travel / Mounts"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Chull"]
 ---
-![[bug-beetle-gold-green.webp|64]]
+# Chull
 
 **Purchase Price** 200 mk; **Carrying Capacity** 1,500 lb.; **Travel Speed** 2 mph
 

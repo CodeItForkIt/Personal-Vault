@@ -6,7 +6,7 @@ category: "Strikes"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "action"]
 aliases: ["Strike: Bite"]
 ---
-![[mouth-teeth-long-red.webp|64]]
+# Strike: Bite
 
 **Attack** +4; **Reach** 5 ft.; **Targets** one;
 

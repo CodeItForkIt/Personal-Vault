@@ -6,7 +6,7 @@ category: "Starting Kits"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Military Kit"]
 ---
-![[pack-leather-white-tan.webp|64]]
+# Military Kit
 
 **Weapons:** Two non-special weapons
 

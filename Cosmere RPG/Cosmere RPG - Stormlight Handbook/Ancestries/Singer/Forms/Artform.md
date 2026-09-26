@@ -6,7 +6,7 @@ category: "Singer / Forms"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "action"]
 aliases: ["Artform"]
 ---
-![[music-notes-sound-blue.webp|64]]
+# Artform
 
 *Artform specializes in creative expression. You gain a heightened awareness of the rhythms, colors, and other aspects of the world around you. If you have carapace, it’s purely cosmetic, representing radical self-expression.*
 

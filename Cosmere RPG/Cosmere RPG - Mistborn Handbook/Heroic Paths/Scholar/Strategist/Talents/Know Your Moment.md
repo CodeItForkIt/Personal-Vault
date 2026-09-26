@@ -1,0 +1,15 @@
+---
+title: "Know Your Moment"
+type: "talent"
+module: "Cosmere RPG - Mistborn Handbook"
+category: "Scholar / Strategist / Talents"
+tags: ["cosmere-rpg", "cosmere-rpg-mistborn-handbook", "talent"]
+aliases: ["Know Your Moment"]
+---
+# Know Your Moment
+
+**Activation:** **8**
+
+*Conflict follows its own beat, rising and falling as powers struggle for dominance. Your knowledge of strategy, rhetoric, and history guides you on when to act for greatest effect.*
+
+After the beginning of each round, each of your defenses increases by 2 until the start of your turn.

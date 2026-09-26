@@ -6,7 +6,7 @@ category: "Surges / Tension"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-stonewalkers", "talent"]
 aliases: ["Fine Control"]
 ---
-![[mask-yellow-orange.webp|64]]
+# Fine Control
 
 **Prerequisite:** [[Items/Surges/Tension/Cloth Mastery|Cloth Mastery]] talent
 

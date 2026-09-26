@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Paper or Parchment (1 sheet)"]
 ---
-![[paper-plain-white.webp|64]]
+# Paper or Parchment (1 sheet)
 
 **Price** 0.5 mk; **Weight** 0.1 lb.;
 

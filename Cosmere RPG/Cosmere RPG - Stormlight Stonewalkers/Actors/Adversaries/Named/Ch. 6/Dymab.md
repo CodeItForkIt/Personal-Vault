@@ -9,29 +9,18 @@ aliases: ["Dymab"]
 # Dymab
 
 **Tier:** 2  
-**Size:** medium
-
-| Strength | Speed | Intellect | Willpower | Awareness | Presence |
-|---|---|---|---|---|---|
-| 3 | 5 | 1 | 6 | 4 | 2 |
-
-| Health | Focus | Investiture |
-|---|---|---|
-| 45/45 | 8/8 | 6/6 |
-
-**Speed:** 50 ft.
-
-| AGI | LWP | STL | DIS | INS | PRC | SUR |
-|---|---|---|---|---|---|---|
-| 2 | 3 | 2 | 3 | 2 | 3 | 2 |
+**Size:** medium  
+**Attributes:** Strength 3, Speed 5, Intellect 1, Willpower 6, Awareness 4, Presence 2  
+**Resources:** Health 45/45, Focus 8/8, Investiture 6/6  
+**Skills:** AGI 2, LWP 3, STL 2, DIS 3, INS 2, PRC 3, SUR 2
 
 ##### Opportunities and Complications
 
 The following options are available when an enemy gains an Opportunity or Complication during a scene with the Deepest One:
 
-**Opportunity.** An enemy can spend Opportunity to prevent the Deepest One from using their Surge of Cohesion and Regenerate actions until the end of the Deepest One's next turn. Additionally, if the Deepest One is submerged, they immediately emerge from that surface.
+**Opportunity.** An enemy can spend O to prevent the Deepest One from using their Surge of Cohesion and Regenerate actions until the end of the Deepest One's next turn. Additionally, if the Deepest One is submerged, they immediately emerge from that surface.
 
-**Complication.** The GM can spend Complication from an enemy's test to have the Deepest One use their abilities more efficiently. Until the end of their next turn, the Deepest One becomes Focused, and they don't need to spend Investiture to use their features or actions.
+**Complication.** The GM can spend c from an enemy's test to have the Deepest One use their abilities more efficiently. Until the end of their next turn, the Deepest One becomes Focused, and they don't need to spend Investiture to use their features or actions.
 
 ##### Tactics
 
@@ -57,7 +46,7 @@ Before the Dymab takes impact or keen damage from a non-wooden source, they can 
 
 The Dymab strangles a target they can sense within 5 feet of them. The target must succeed on a *Test: `skill=agi dc=17`* or become Restrained while the Deepest One remains within 5 feet of them. If the Restrained target is also Prone, they begin suffocating and are Afflicted [`2d10 Vital`] until they remove either the Restrained or Prone condition.
 
-As Two Actions, the Restrained target can make a *Test: `skill=agi dc=17`*, removing the Restraind condition on a success. If the Dymab takes at least 20 damage on a single turn, the target escapes and is no longer Restrained.
+As 2, the Restrained target can make a *Test: `skill=agi dc=17`*, removing the Restraind condition on a success. If the Dymab takes at least 20 damage on a single turn, the target escapes and is no longer Restrained.
 
 ### Surge of Cohesion
 *1 act*
@@ -69,7 +58,7 @@ Depending on the nature of the reshaping, this can cause an effect such as creat
 ### Entrap
 *1 rea*
 
-When an enemy triggers a Reactive Strike from the Dymab while the Dymab is submerged, the Dymab can instead use their Grasping Hands as Reaction, spending focus as if they made a Reactive Strike.
+When an enemy triggers a Reactive Strike from the Dymab while the Dymab is submerged, the Dymab can instead use their Grasping Hands as r, spending focus as if they made a Reactive Strike.
 
 ### Regenerate
 *1 fre*

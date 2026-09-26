@@ -6,7 +6,7 @@ category: "Strikes"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "action"]
 aliases: ["Strike: Melee Weapon (Keen)"]
 ---
-![[spear-flared-gray.webp|64]]
+# Strike: Melee Weapon (Keen)
 
 **Attack** +2; **Reach** 5 ft.; **Targets** one;
 

@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Whetstone"]
 ---
-![[masonry-block-cube-grey-teal.webp|64]]
+# Whetstone
 
 **Price** 0.2 mk; **Weight** 1 lb.;
 

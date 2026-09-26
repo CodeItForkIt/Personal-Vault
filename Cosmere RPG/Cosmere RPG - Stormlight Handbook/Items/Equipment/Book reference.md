@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Book (reference)"]
 ---
-![[ICON_Book.webp|64]]
+# Book (reference)
 
 **Price** 10–500 mk; **Weight** 1–5 lb.;
 

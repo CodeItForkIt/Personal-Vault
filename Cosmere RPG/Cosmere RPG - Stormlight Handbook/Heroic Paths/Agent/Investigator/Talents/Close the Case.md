@@ -6,9 +6,9 @@ category: "Agent / Investigator / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Close the Case"]
 ---
-![[figure-running-gray.webp|64]]
+# Close the Case
 
-**Activation:** Always Active
+**Activation:** 3
 
 *You’ve compiled information on your target’s motive and circumstances. Now, by pressing on your target’s desires, weaknesses, or guilt, you can convince them to back down.*
 

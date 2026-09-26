@@ -6,9 +6,9 @@ category: "Transportation Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Shared Transportation"]
 ---
-![[silhouette-hold-beam-blue.webp|64]]
+# Shared Transportation
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You can keep your miniature perpendicularities open long enough to bring others along.*
 

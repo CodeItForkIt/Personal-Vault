@@ -6,11 +6,11 @@ category: "Surges / Cohesion"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-stonewalkers", "talent"]
 aliases: ["Memories of Stone"]
 ---
-![[mask-stone-eyes-orange.webp|64]]
+# Memories of Stone
 
 **Prerequisite:** Speak the First Ideal (Willshaper or Stoneward)
 
-**Activation:** Two Actions
+**Activation:** 2
 
 *Your deepening knowledge of the earth allows you to commune with stone itself, gaining visions of things the stone has seen.*
 

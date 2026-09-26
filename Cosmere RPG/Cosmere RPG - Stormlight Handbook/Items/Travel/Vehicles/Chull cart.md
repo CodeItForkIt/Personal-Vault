@@ -6,6 +6,6 @@ category: "Travel / Vehicles"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Chull cart"]
 ---
-![[wagon.webp|64]]
+# Chull cart
 
 **Purchase Price** 500 mk; **Rental Price per Day** 5 mk; **Travel Speed** 2 mph; **Type** Land

@@ -6,7 +6,7 @@ category: "Weapons"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "weapon"]
 aliases: ["Poleaxe"]
 ---
-![[ICON_Poleaxe.webp|64]]
+# Poleaxe
 
 **Damage** 1d10 keen; **Range** Melee; **Traits** Two-Handed; **Expert Traits** Unique: Melee [+5];
 

@@ -6,6 +6,6 @@ category: "Warrior"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "action"]
 aliases: ["End Stance"]
 ---
-![[silhouette-grow-shrink-tan.webp|64]]
+# End Stance
 
 Ends the current stance.

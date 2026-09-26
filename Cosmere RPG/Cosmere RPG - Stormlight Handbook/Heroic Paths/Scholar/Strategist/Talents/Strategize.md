@@ -6,9 +6,9 @@ category: "Scholar / Strategist / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Strategize"]
 ---
-![[academics-investigation-study-blue.webp|64]]
+# Strategize
 
-**Activation:** Two Actions
+**Activation:** \*
 
 *You carefully observe and assess your problem from novel angles, creating a cunning plan to remove an obstacle, gain the edge, or counter a foe’s next move.*
 

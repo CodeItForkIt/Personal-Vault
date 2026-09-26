@@ -6,7 +6,7 @@ category: "Tension Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Fine Control"]
 ---
-![[mask-yellow-orange.webp|64]]
+# Fine Control
 
 **Activation:** 2
 

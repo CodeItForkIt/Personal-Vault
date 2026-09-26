@@ -6,9 +6,9 @@ category: "Division Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Igniting Division"]
 ---
-![[blast-jet-stream-embers-red.webp|64]]
+# Igniting Division
 
-**Activation:** Always Active
+**Activation:** \*
 
 *You can make anything burn, even materials that are usually nonflammable.*
 

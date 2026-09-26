@@ -6,7 +6,7 @@ category: "Surges / Tension"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-stonewalkers", "talent"]
 aliases: ["Surface Tension"]
 ---
-![[barrier-ice-shield.webp|64]]
+# Surface Tension
 
 **Prerequisite:** [[Items/Surges/Tension/Extended Tension|Extended Tension]] talent
 

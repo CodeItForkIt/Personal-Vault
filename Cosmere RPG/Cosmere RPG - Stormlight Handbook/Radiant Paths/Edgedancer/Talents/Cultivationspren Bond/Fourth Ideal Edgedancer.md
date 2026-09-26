@@ -6,9 +6,9 @@ category: "Edgedancer / Talents / Cultivationspren Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Fourth Ideal (Edgedancer)"]
 ---
-![[shield-barrier-flaming-pentagon-green.webp|64]]
+# Fourth Ideal (Edgedancer)
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You seek to become a full Knight Radiant by speaking the Fourth Ideal.*
 

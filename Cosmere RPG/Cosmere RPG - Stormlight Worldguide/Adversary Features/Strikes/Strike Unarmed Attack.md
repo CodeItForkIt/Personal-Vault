@@ -6,7 +6,7 @@ category: "Strikes"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "action"]
 aliases: ["Strike: Unarmed Attack"]
 ---
-![[unarmed-punch-fist-blue.webp|64]]
+# Strike: Unarmed Attack
 
 **Attack** +14; **Reach** 10 ft.; **Targets** one;
 

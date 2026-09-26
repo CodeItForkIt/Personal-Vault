@@ -6,7 +6,7 @@ category: "Fabrials / Standard"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Heatrial"]
 ---
-![[ICON_Heatrial.webp|64]]
+# Heatrial
 
 Price 50-500 mk; Weight 1-10 lb.; Charges 5;
 

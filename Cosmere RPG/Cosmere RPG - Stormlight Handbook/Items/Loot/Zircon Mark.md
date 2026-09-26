@@ -6,6 +6,6 @@ category: "Loot"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "loot"]
 aliases: ["Zircon Mark"]
 ---
-![[sphere_zircon_mark.webp|64]]
+# Zircon Mark
 
 

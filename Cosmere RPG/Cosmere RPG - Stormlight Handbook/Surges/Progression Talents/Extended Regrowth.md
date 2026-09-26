@@ -6,7 +6,7 @@ category: "Progression Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Extended Regrowth"]
 ---
-![[sihouette-hold-beam-green.webp|64]]
+# Extended Regrowth
 
 **Activation:** 8
 

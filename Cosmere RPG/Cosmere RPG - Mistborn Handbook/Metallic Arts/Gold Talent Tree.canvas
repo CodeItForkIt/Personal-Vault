@@ -1,0 +1,106 @@
+{
+  "nodes": [
+    {
+      "id": "uOSattMCR0R4TU1c",
+      "type": "file",
+      "file": "Metallic Arts/Gold/Talents/Feruchemy/Expedited Bloodmaking.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "vhuZkTdIU9YLZev7",
+      "type": "file",
+      "file": "Metallic Arts/Gold/Talents/Feruchemy/Run From Death.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "uMBRBz6PX5b8AVJh",
+      "type": "file",
+      "file": "Metallic Arts/Gold/Talents/Feruchemy/Subconscious Bloodmaking.md",
+      "x": 340,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "QZwUMxY0pyELuqqD",
+      "type": "file",
+      "file": "Metallic Arts/Gold/Talents/Allomancy/Alloy of Self.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "DtOHtEI571i8Yuzj",
+      "type": "file",
+      "file": "Metallic Arts/Gold/Talents/Allomancy/Golden Opportunities.md",
+      "x": 0,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "KFLNamdztsnFNWTX",
+      "type": "file",
+      "file": "Metallic Arts/Gold/Talents/Feruchemy/Injury Specialist.md",
+      "x": 0,
+      "y": 240,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "ckbG28q1F2NPv6J7",
+      "type": "file",
+      "file": "Metallic Arts/Gold/Talents/Feruchemy/Reflexive Bloodmaker.md",
+      "x": 0,
+      "y": 360,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "h3eXc0UmLyKMrOgM",
+      "type": "file",
+      "file": "Metallic Arts/Gold/Talents/Feruchemy/Instant Regeneration.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "uOSattMCR0R4TU1c",
+      "fromSide": "right",
+      "toNode": "h3eXc0UmLyKMrOgM",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "ckbG28q1F2NPv6J7",
+      "fromSide": "right",
+      "toNode": "uMBRBz6PX5b8AVJh",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "KFLNamdztsnFNWTX",
+      "fromSide": "right",
+      "toNode": "uOSattMCR0R4TU1c",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "ckbG28q1F2NPv6J7",
+      "fromSide": "right",
+      "toNode": "vhuZkTdIU9YLZev7",
+      "toSide": "left"
+    }
+  ]
+}

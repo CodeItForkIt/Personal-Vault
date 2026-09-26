@@ -6,7 +6,7 @@ category: "Willshaper / Goals"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "goal"]
 aliases: ["Speak the Fourth Ideal"]
 ---
-![[buff-flight-wings-runes-purple-orange.webp|64]]
+# Speak the Fourth Ideal
 
 *You seek to become a full Knight Radiant by speaking the Fourth Ideal.*
 

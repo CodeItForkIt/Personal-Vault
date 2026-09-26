@@ -9,22 +9,11 @@ aliases: ["Assassin"]
 # Assassin
 
 **Tier:** 2  
-**Size:** medium
-
-| Strength | Speed | Intellect | Willpower | Awareness | Presence |
-|---|---|---|---|---|---|
-| 1 | 5 | 2 | 3 | 3 | 2 |
-
-| Health | Focus | Investiture |
-|---|---|---|
-| 40/40 | 5/5 | 0 |
-
+**Size:** medium  
+**Attributes:** Strength 1, Speed 5, Intellect 2, Willpower 3, Awareness 3, Presence 2  
+**Resources:** Health 40/40, Focus 5/5, Investiture 0  
 **Deflect:** 1  
-**Speed:** 50 ft.
-
-| AGI | ATH | LWP | STL | CRA | DED | INM | DEC | PRC |
-|---|---|---|---|---|---|---|---|---|
-| 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 |
+**Skills:** AGI 3, ATH 3, LWP 3, STL 3, CRA 3, DED 3, INM 3, DEC 3, PRC 3
 
 ##### Tactics
 
@@ -46,7 +35,7 @@ While the Assassin is in cover or an area where their enemy's primary sense is o
 **Hit** `1d4 + 8 Keen average`, and if the Assassin had at least one advantage on this attack, they can spend 1 focus to deal an extra `4d4 Keen average`.
 
 ### Killer Instinct
-After the Assassin ends a Move action within 5 feet of an enemy, if the Assassin moved at least 20 feet this turn, they can use the Gain Advantage action as Free Action.
+After the Assassin ends a Move action within 5 feet of an enemy, if the Assassin moved at least 20 feet this turn, they can use the Gain Advantage action as 0.
 
 ### Twist the Knife
 Once per turn, when the Assassin grazes, they can add their attack test modifier to that graze's damage.

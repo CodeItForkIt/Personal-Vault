@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Surgical Supplies"]
 ---
-![[ICON_Surgery_Kit.webp|64]]
+# Surgical Supplies
 
 **Price** 20 mk; **Weight** 3 lb.;
 

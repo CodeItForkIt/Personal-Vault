@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Pouch"]
 ---
-![[coinpouch-simple-leather-tan.webp|64]]
+# Pouch
 
 **Price** 1 mk; **Weight** 1 lb.;
 

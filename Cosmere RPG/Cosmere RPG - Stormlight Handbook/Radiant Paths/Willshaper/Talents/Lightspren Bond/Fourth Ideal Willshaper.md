@@ -6,9 +6,9 @@ category: "Willshaper / Talents / Lightspren Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Fourth Ideal (Willshaper)"]
 ---
-![[buff-flight-wings-runes-purple-orange.webp|64]]
+# Fourth Ideal (Willshaper)
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You seek to become a full Knight Radiant by speaking the Fourth Ideal.*
 

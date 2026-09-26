@@ -1,0 +1,126 @@
+{
+  "nodes": [
+    {
+      "id": "E693J8mlzCmTTysg",
+      "type": "file",
+      "file": "Surges/Cohesion Talents/True Stoneshaping.md",
+      "x": 1020,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "KvRS1iQi9HcU7u09",
+      "type": "file",
+      "file": "Surges/Cohesion Talents/Unbound Cohesion.md",
+      "x": 1020,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "KciFl7EBz7Vfwg5i",
+      "type": "file",
+      "file": "Surges/Cohesion Talents/Through the Stone.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "JxIl9dgWxYLJg1FS",
+      "type": "file",
+      "file": "Surges/Cohesion Talents/Tunneling.md",
+      "x": 680,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "n9tAKfW29OP0uQu7",
+      "type": "file",
+      "file": "Surges/Cohesion Talents/Sinkhole.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "hgW94SCq5QOOaF09",
+      "type": "file",
+      "file": "Surges/Cohesion Talents/Flowing Earth.md",
+      "x": 1360,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "pDsnFXl1F6lwFNqs",
+      "type": "file",
+      "file": "Surges/Cohesion Talents/Memories of Stone.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "ivTp0yyTbw9d3NgG",
+      "type": "file",
+      "file": "Surges/Cohesion Talents/Stone Spear.md",
+      "x": 0,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "JxIl9dgWxYLJg1FS",
+      "fromSide": "right",
+      "toNode": "E693J8mlzCmTTysg",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "n9tAKfW29OP0uQu7",
+      "fromSide": "right",
+      "toNode": "JxIl9dgWxYLJg1FS",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "n9tAKfW29OP0uQu7",
+      "fromSide": "right",
+      "toNode": "KciFl7EBz7Vfwg5i",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "KciFl7EBz7Vfwg5i",
+      "fromSide": "right",
+      "toNode": "KvRS1iQi9HcU7u09",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "E693J8mlzCmTTysg",
+      "fromSide": "right",
+      "toNode": "hgW94SCq5QOOaF09",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "ivTp0yyTbw9d3NgG",
+      "fromSide": "right",
+      "toNode": "n9tAKfW29OP0uQu7",
+      "toSide": "left",
+      "label": "or"
+    }
+  ]
+}

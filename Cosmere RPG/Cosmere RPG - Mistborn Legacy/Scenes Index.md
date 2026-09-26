@@ -1,0 +1,35 @@
+# Scenes
+
+- 1.1: Velstane's
+- 1.2: The Secret Crucible, Lower Levels
+- 1.3: Canal Checkpoint
+- Grab and Go
+- Heart of the Crucible
+- 2.1: Seeris Manor Hedge Maze
+- Cat and Mouse
+- The Ballroom
+- 3.1: Outside Kandor Construction
+- 3.2: Duvall’s Library and Laboratory
+- An Explosive Development
+- Haught Infirmary
+- 4.1: Venture’s Military Camp
+- 4.3: Confrontation at the Docks
+- Red Dawn in Luthadel
+- 5.1: Gallery Map
+- 5.2: National Archives Lower Level
+- 5.3: Beldre Square
+- Race Position Tracker
+- 6.1: Crew Hideout
+- 6.3: University Tunnels
+- 6.2: University of Elendel Campus Map
+- 7.1: The Train to Weathering
+- 7.3: Feltrel Shootout
+- 7.2: Weathering
+- 8.1: Tekiel Tower
+- The Ironspine Building and Tekiel Tower
+- 9.2: Old Luthadel Ruins
+- The Trio's Base Camp
+- 4.2: Eternity Vault / 9.1: The Vault Cavern
+- Downtime in Elendel (Era 2)
+- Downtime In Luthadel (Era 1)
+- Landing

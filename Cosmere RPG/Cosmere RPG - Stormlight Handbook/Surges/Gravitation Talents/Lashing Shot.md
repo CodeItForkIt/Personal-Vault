@@ -6,9 +6,9 @@ category: "Gravitation Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Lashing Shot"]
 ---
-![[projectile-boulder-yellow.webp|64]]
+# Lashing Shot
 
-**Activation:** Two Actions
+**Activation:** 2
 
 *You apply multiple Basic Lashings to an object, launching it with several times the force of gravity.*
 

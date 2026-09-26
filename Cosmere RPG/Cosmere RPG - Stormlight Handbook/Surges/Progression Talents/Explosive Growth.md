@@ -6,7 +6,7 @@ category: "Progression Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Explosive Growth"]
 ---
-![[root-vine-entwined-thorns.webp|64]]
+# Explosive Growth
 
 **Activation:** 2
 

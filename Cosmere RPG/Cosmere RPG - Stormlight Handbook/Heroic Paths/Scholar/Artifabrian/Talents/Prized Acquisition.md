@@ -6,9 +6,9 @@ category: "Scholar / Artifabrian / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Prized Acquisition"]
 ---
-![[gem-cut-faceted-square-purple.webp|64]]
+# Prized Acquisition
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *Through good fortune or hard work, you’ve acquired a gemstone of sufficient quality to practice crafting fabrials.*
 

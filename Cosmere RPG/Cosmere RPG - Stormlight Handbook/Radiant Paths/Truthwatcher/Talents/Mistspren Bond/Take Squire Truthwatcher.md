@@ -6,9 +6,9 @@ category: "Truthwatcher / Talents / Mistspren Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Take Squire (Truthwatcher)"]
 ---
-![[commoner.webp|64]]
+# Take Squire (Truthwatcher)
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You begin taking other people under your wing, allowing them to breathe Stormlight and use surges before they’ve established their own Nahel bond.*
 

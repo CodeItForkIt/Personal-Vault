@@ -6,7 +6,7 @@ category: "Willshaper / Talents / Lightspren Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Deepened Bond"]
 ---
-![[energy-stream-link-orange.webp|64]]
+# Deepened Bond
 
 **Activation:** 8
 

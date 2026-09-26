@@ -6,7 +6,7 @@ category: "Weapons"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "weapon"]
 aliases: ["Shardblade"]
 ---
-![[ICON_Shardblade.webp|64]]
+# Shardblade
 
 **Damage** 2d8 spirit; **Range** Melee; **Traits** Dangerous, Deadly, Unique; **Expert Traits** Unique: loses Dangerous trait;
 

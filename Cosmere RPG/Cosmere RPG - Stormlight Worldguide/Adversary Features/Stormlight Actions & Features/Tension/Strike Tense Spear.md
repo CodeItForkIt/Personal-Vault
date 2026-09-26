@@ -6,7 +6,7 @@ category: "Stormlight Actions & Features / Tension"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-worldguide", "action"]
 aliases: ["Strike: Tense Spear"]
 ---
-![[tail-strike-bone-orange.webp|64]]
+# Strike: Tense Spear
 
 **Attack** +14; **Reach** 15 ft.; **Targets** one;
 

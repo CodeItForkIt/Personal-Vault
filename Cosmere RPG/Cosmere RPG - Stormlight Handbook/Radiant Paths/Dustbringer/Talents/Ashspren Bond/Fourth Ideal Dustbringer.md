@@ -6,9 +6,9 @@ category: "Dustbringer / Talents / Ashspren Bond"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Fourth Ideal (Dustbringer)"]
 ---
-![[wind-vortex-swirl-red.webp|64]]
+# Fourth Ideal (Dustbringer)
 
-**Activation:** Special Activation
+**Activation:** \*
 
 *You seek to become a full Knight Radiant by speaking the Fourth Ideal.*
 

@@ -6,7 +6,7 @@ category: "Weapons"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "weapon"]
 aliases: ["Longbow"]
 ---
-![[ICON_Longbow.webp|64]]
+# Longbow
 
 **Damage** 1d6 keen; **Range** Ranged [150/600]; **Traits** Two-Handed; **Expert Traits** Indirect;
 

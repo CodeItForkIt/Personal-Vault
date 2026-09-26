@@ -6,6 +6,6 @@ category: "Loot"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "loot"]
 aliases: ["Heliodor Chip"]
 ---
-![[sphere_heliodor_chip.webp|64]]
+# Heliodor Chip
 
 

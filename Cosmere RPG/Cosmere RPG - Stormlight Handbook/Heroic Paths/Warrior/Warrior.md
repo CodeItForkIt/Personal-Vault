@@ -6,7 +6,7 @@ category: "Warrior"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "path"]
 aliases: ["Warrior"]
 ---
-![[warrior.webp|64]]
+# Warrior
 
 Roshar is a world riven by conflict, and many of its people follow the path of the Warrior, whether for good or ill. A Warrior might view fighting as a calling, an ethos, a profession, or simply an unpleasant necessity for survival—but in all cases, battle follows the Warrior like a shadow.
 

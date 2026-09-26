@@ -6,7 +6,7 @@ category: "Armor"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "armor"]
 aliases: ["Full Plate"]
 ---
-![[ICON_Full_Plate.webp|64]]
+# Full Plate
 
 **Deflect Value** 4; **Traits** Cumbersome [5]; **Expert Traits** —;
 

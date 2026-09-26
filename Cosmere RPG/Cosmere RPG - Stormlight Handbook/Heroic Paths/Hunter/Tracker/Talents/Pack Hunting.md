@@ -6,9 +6,9 @@ category: "Hunter / Tracker / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Pack Hunting"]
 ---
-![[paw-print-pair-purple.webp|64]]
+# Pack Hunting
 
-**Activation:** Reaction
+**Activation:** r
 
 *Like a predator who hunts in groups, you expose your quarry’s weaknesses, enabling your allies to fight alongside you with terrifying coordination.*
 

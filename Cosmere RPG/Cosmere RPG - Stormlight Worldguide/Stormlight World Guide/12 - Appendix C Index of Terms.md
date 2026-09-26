@@ -166,7 +166,7 @@ Bondsmiths (Radiant order): See also Knights Radiant.
 
 Braize:
 
-[[Stormlight World Guide/04 - Ch 3 Cosmology and Religion|Rosharan System]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion#Power and Works|Power and Works]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#Binding the Enemy|Binding the Enemy]], [[Stormlight World Guide/05 - Ch 4 History of Roshar|Era of Solitude]]
+[[Stormlight World Guide/04 - Ch 3 Cosmology and Religion|Rosharan System]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion|Power and Works]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#Binding the Enemy|Binding the Enemy]], [[Stormlight World Guide/05 - Ch 4 History of Roshar|Era of Solitude]]
 
 brands, Fused: See Fused brands.
 
@@ -242,11 +242,11 @@ Cryptics (Radiant spren):
 
 Cultivation (Shard):
 
-[[Stormlight World Guide/02 - Ch 1 The World#Radiant Spren|Radiant Spren]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion|Roshar’s Three Shards]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion#Cultivation|Cultivation]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#Before Humankind|Before Humankind]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#The Night of Sorrows|The Night of Sorrows]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations|Lift]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations|The Diagram]], [[Stormlight World Guide/08 - Ch 7 Shadesmar#Cultivation’s Perpendicularity|Cultivation’s Perpendicularity]]
+[[Stormlight World Guide/02 - Ch 1 The World#Radiant Spren|Radiant Spren]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion|Roshar’s Three Shards]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion#Cultivation|Cultivation]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#Before Humankind|Before Humankind]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#The Night of Sorrows|The Night of Sorrows]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations|Lift]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations|The Diagram]], [[Stormlight World Guide/08 - Ch 7 Shadesmar|Cultivation’s Perpendicularity]]
 
 Cultivation’s Perpendicularity:
 
-[[Stormlight World Guide/02 - Ch 1 The World|Chapter 1: The World]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#The Night of Sorrows|The Night of Sorrows]], [[Stormlight World Guide/08 - Ch 7 Shadesmar#Cultivation’s Perpendicularity|Cultivation’s Perpendicularity]]
+[[Stormlight World Guide/02 - Ch 1 The World|Chapter 1: The World]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#The Night of Sorrows|The Night of Sorrows]], [[Stormlight World Guide/08 - Ch 7 Shadesmar|Cultivation’s Perpendicularity]]
 
 cultivationspren (Radiant spren):
 
@@ -280,7 +280,7 @@ Davar, Shallan:
 
 Dawnchant:
 
-[[Stormlight World Guide/03 - Ch 2 Nations and Cultures#Age of the Dawnsingers|Age of the Dawnsingers]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations#Dalinar’s Visions|Dalinar’s Visions]]
+[[Stormlight World Guide/03 - Ch 2 Nations and Cultures#Age of the Dawnsingers|Age of the Dawnsingers]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations|Dalinar’s Visions]]
 
 Dawnsingers:
 
@@ -436,7 +436,7 @@ Frostlands:
 
 Fused:
 
-[[Stormlight World Guide/03 - Ch 2 Nations and Cultures#Age of the Dawnsingers|Age of the Dawnsingers]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion#Terrestrial Planets|Terrestrial Planets]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion#Power and Works|Power and Works]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion#Listener Gods: The Fused|Listener Gods: The Fused]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#First Desolation|First Desolation]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#A World at War|A World at War]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#Last Stand|Last Stand]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations|Venli]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations|Odium’s Forces]], [[Stormlight World Guide/07 - Ch 6 Points of Interest|Occupied Alethkar]], [[Stormlight World Guide/08 - Ch 7 Shadesmar#Voidspren and Fused|Voidspren and Fused]], [[Stormlight World Guide/09 - Ch 8 Adversaries and Bestiary|Fused]]
+[[Stormlight World Guide/03 - Ch 2 Nations and Cultures#Age of the Dawnsingers|Age of the Dawnsingers]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion#Terrestrial Planets|Terrestrial Planets]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion|Power and Works]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion#Listener Gods: The Fused|Listener Gods: The Fused]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#First Desolation|First Desolation]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#A World at War|A World at War]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#Last Stand|Last Stand]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations|Venli]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations|Odium’s Forces]], [[Stormlight World Guide/07 - Ch 6 Points of Interest|Occupied Alethkar]], [[Stormlight World Guide/08 - Ch 7 Shadesmar#Voidspren and Fused|Voidspren and Fused]], [[Stormlight World Guide/09 - Ch 8 Adversaries and Bestiary|Fused]]
 
 Fused brands:
 
@@ -508,7 +508,7 @@ Heraldic Epochs:
 
 Heralds:
 
-[[Stormlight World Guide/04 - Ch 3 Cosmology and Religion#Honor|Honor]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion|Heralds]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion#Vorinism|Vorinism]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#False History|Prehistory]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#The Night of Sorrows|The Night of Sorrows]]
+[[Stormlight World Guide/04 - Ch 3 Cosmology and Religion#Honor|Honor]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion|Heralds]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion#Vorinism|Vorinism]], [[Stormlight World Guide/05 - Ch 4 History of Roshar|Prehistory]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#The Night of Sorrows|The Night of Sorrows]]
 
 Herdaz:
 
@@ -666,7 +666,7 @@ Kholin, Aesudan:
 
 Kholin, Dalinar:
 
-[[Stormlight World Guide/03 - Ch 2 Nations and Cultures#History|History]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#War on the Shattered Plains|War on the Shattered Plains]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#Battle of Thaylen Field|Battle of Thaylen Field]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#Contest of Champions|Contest of Champions]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations|Coalition of Monarchs]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations#Dalinar’s Visions|Dalinar’s Visions]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations#Assassinations of Leaders|Assassinations of Leaders]], [[Stormlight World Guide/07 - Ch 6 Points of Interest#Plateaus|Plateaus]], [[Stormlight World Guide/07 - Ch 6 Points of Interest|Urithiru]]
+[[Stormlight World Guide/03 - Ch 2 Nations and Cultures#History|History]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#War on the Shattered Plains|War on the Shattered Plains]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#Battle of Thaylen Field|Battle of Thaylen Field]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#Contest of Champions|Contest of Champions]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations|Coalition of Monarchs]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations|Dalinar’s Visions]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations#Assassinations of Leaders|Assassinations of Leaders]], [[Stormlight World Guide/07 - Ch 6 Points of Interest#Plateaus|Plateaus]], [[Stormlight World Guide/07 - Ch 6 Points of Interest|Urithiru]]
 
 Kholin, Elhokar:
 
@@ -674,7 +674,7 @@ Kholin, Elhokar:
 
 Kholin, Gavilar:
 
-[[Stormlight World Guide/03 - Ch 2 Nations and Cultures#History|History]], [[Stormlight World Guide/03 - Ch 2 Nations and Cultures#The Listeners’ Fate|The Listeners’ Fate]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#Legacy of the Sunmaker|Legacy of the Sunmaker]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations#Gavilar|Gavilar]]
+[[Stormlight World Guide/03 - Ch 2 Nations and Cultures#History|History]], [[Stormlight World Guide/03 - Ch 2 Nations and Cultures|The Listeners’ Fate]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#Legacy of the Sunmaker|Legacy of the Sunmaker]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations#Gavilar|Gavilar]]
 
 Kholin, Gavinor:
 
@@ -710,7 +710,7 @@ Knights Radiant:
 
 Koravellium Avast:
 
-[[Stormlight World Guide/04 - Ch 3 Cosmology and Religion#Vessel|Vessel]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#Before Humankind|Before Humankind]]
+[[Stormlight World Guide/04 - Ch 3 Cosmology and Religion|Vessel]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#Before Humankind|Before Humankind]]
 
 larkin (adversary):
 
@@ -736,7 +736,7 @@ liespren: See Cryptics.
 
 Lifelight:
 
-[[Stormlight World Guide/04 - Ch 3 Cosmology and Religion#Power and Works|Power and Works]]
+[[Stormlight World Guide/04 - Ch 3 Cosmology and Religion|Power and Works]]
 
 Lift:
 
@@ -876,7 +876,7 @@ nightform Regal (adversary): See also Regal forms.
 
 Nightwatcher, the (Bondsmith spren):
 
-[[Stormlight World Guide/02 - Ch 1 The World#Unique Spren|Unique Spren]], [[Stormlight World Guide/03 - Ch 2 Nations and Cultures#Emul|Emul]], [[Stormlight World Guide/03 - Ch 2 Nations and Cultures#After the Everstorm|After the Everstorm]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion#Power and Works|Power and Works]]
+[[Stormlight World Guide/02 - Ch 1 The World#Unique Spren|Unique Spren]], [[Stormlight World Guide/03 - Ch 2 Nations and Cultures#Emul|Emul]], [[Stormlight World Guide/03 - Ch 2 Nations and Cultures#After the Everstorm|After the Everstorm]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion|Power and Works]]
 
 nimbleform (singer form):
 
@@ -912,7 +912,7 @@ old gods, the:
 
 Old Magic:
 
-[[Stormlight World Guide/02 - Ch 1 The World#Unique Spren|Unique Spren]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion#Power and Works|Power and Works]]
+[[Stormlight World Guide/02 - Ch 1 The World#Unique Spren|Unique Spren]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion|Power and Works]]
 
 One, the:
 
@@ -1018,7 +1018,7 @@ Recreance: See Day of Recreance.
 
 Regal forms:
 
-[[Stormlight World Guide/03 - Ch 2 Nations and Cultures#The Listeners’ Fate|The Listeners’ Fate]], [[Stormlight World Guide/03 - Ch 2 Nations and Cultures#Singer Forms|Singer Forms]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#Stormform|Stormform]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations|Venli]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations#Regals|Regals]], [[Stormlight World Guide/09 - Ch 8 Adversaries and Bestiary|Regal]]
+[[Stormlight World Guide/03 - Ch 2 Nations and Cultures|The Listeners’ Fate]], [[Stormlight World Guide/03 - Ch 2 Nations and Cultures#Singer Forms|Singer Forms]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#Stormform|Stormform]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations|Venli]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations#Regals|Regals]], [[Stormlight World Guide/09 - Ch 8 Adversaries and Bestiary|Regal]]
 
 Reshi (ethnicity):
 
@@ -1334,7 +1334,7 @@ Sunmaker:
 
 Surgebinding:
 
-[[Stormlight World Guide/02 - Ch 1 The World#Properties|Properties]], [[Stormlight World Guide/02 - Ch 1 The World|Surgebinding]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#First Desolation|First Desolation]]
+[[Stormlight World Guide/02 - Ch 1 The World|Properties]], [[Stormlight World Guide/02 - Ch 1 The World|Surgebinding]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#First Desolation|First Desolation]]
 
 surges:
 
@@ -1470,7 +1470,7 @@ Unkalaki (ethnicity):
 
 Unmade:
 
-[[Stormlight World Guide/04 - Ch 3 Cosmology and Religion#Power and Works|Power and Works]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion|The Unmade]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations#Unmade|Unmade]]
+[[Stormlight World Guide/04 - Ch 3 Cosmology and Religion|Power and Works]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion|The Unmade]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations#Unmade|Unmade]]
 
 Urithiru:
 
@@ -1492,7 +1492,7 @@ Vedenar:
 
 Venli:
 
-[[Stormlight World Guide/03 - Ch 2 Nations and Cultures#The Listeners’ Fate|The Listeners’ Fate]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#Stormform|Stormform]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#A World at War|A World at War]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#Battle of Thaylen Field|Battle of Thaylen Field]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#Journeys of Discovery|Journeys of Discovery]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations|Venli]]
+[[Stormlight World Guide/03 - Ch 2 Nations and Cultures|The Listeners’ Fate]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#Stormform|Stormform]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#A World at War|A World at War]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#Battle of Thaylen Field|Battle of Thaylen Field]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#Journeys of Discovery|Journeys of Discovery]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations|Venli]]
 
 Veristitalians:
 
@@ -1508,15 +1508,15 @@ Voice, the:
 
 Voidbringers:
 
-[[Stormlight World Guide/03 - Ch 2 Nations and Cultures#Age of the Dawnsingers|Age of the Dawnsingers]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion#Power and Works|Power and Works]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#False History|False History]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#A World at War|A World at War]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations|Jasnah]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations#Voidbringers|Voidbringers]]
+[[Stormlight World Guide/03 - Ch 2 Nations and Cultures#Age of the Dawnsingers|Age of the Dawnsingers]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion|Power and Works]], [[Stormlight World Guide/05 - Ch 4 History of Roshar|False History]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#A World at War|A World at War]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations|Jasnah]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations#Voidbringers|Voidbringers]]
 
 Voidlight:
 
-[[Stormlight World Guide/04 - Ch 3 Cosmology and Religion#Power and Works|Power and Works]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion#Listener Gods: The Fused|Listener Gods: The Fused]], [[Stormlight World Guide/09 - Ch 8 Adversaries and Bestiary#Altered One|Altered One]]
+[[Stormlight World Guide/04 - Ch 3 Cosmology and Religion|Power and Works]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion#Listener Gods: The Fused|Listener Gods: The Fused]], [[Stormlight World Guide/09 - Ch 8 Adversaries and Bestiary#Altered One|Altered One]]
 
 Voidspren:
 
-[[Stormlight World Guide/02 - Ch 1 The World#Voidspren|Voidspren]], [[Stormlight World Guide/03 - Ch 2 Nations and Cultures#Regal Forms|Regal Forms]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion#Power and Works|Power and Works]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#A World at War|A World at War]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations#Regals|Regals]]
+[[Stormlight World Guide/02 - Ch 1 The World#Voidspren|Voidspren]], [[Stormlight World Guide/03 - Ch 2 Nations and Cultures#Regal Forms|Regal Forms]], [[Stormlight World Guide/04 - Ch 3 Cosmology and Religion|Power and Works]], [[Stormlight World Guide/05 - Ch 4 History of Roshar#A World at War|A World at War]], [[Stormlight World Guide/06 - Ch 5 Allies and Organizations#Regals|Regals]]
 
 Vorin kingdoms:
 

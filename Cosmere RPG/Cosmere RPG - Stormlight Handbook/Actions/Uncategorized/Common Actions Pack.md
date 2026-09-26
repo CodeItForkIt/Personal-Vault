@@ -6,7 +6,7 @@ category: "Uncategorized"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Common Actions Pack"]
 ---
-![[unarmed-punch-fist-yellow-red.webp|64]]
+# Common Actions Pack
 
 Drag this pack onto a character sheet to quickly add commonly used basic actions. These include:
 

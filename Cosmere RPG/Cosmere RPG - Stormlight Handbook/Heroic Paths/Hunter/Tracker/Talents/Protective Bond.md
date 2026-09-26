@@ -6,7 +6,7 @@ category: "Hunter / Tracker / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Protective Bond"]
 ---
-![[stinger-spine-horn-blood.webp|64]]
+# Protective Bond
 
 **Activation:** 1
 

@@ -6,7 +6,7 @@ category: "Singer / Forms"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "action"]
 aliases: ["Warform"]
 ---
-![[control-influence-rally-purple.webp|64]]
+# Warform
 
 *Warform specializes in combat, increasing your strength and stamina. Your body is large and covered with fierce carapace, which protects you like armor. Any aversions you might usually have to violence, pain, and death become slightly less pronounced in warform.*
 

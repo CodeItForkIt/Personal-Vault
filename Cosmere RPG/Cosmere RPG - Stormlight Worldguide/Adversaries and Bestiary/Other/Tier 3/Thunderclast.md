@@ -9,29 +9,18 @@ aliases: ["Thunderclast"]
 # Thunderclast
 
 **Tier:** 3  
-**Size:** gargantuan
-
-| Strength | Speed | Intellect | Willpower | Awareness | Presence |
-|---|---|---|---|---|---|
-| 9 | 5 | 2 | 7 | 4 | 2 |
-
-| Health | Focus | Investiture |
-|---|---|---|
-| 215/215 | 11/11 | 0 |
-
-**Speed:** 50 ft.
-
-| ATH | INM |
-|---|---|
-| 4 | 4 |
+**Size:** gargantuan  
+**Attributes:** Strength 9, Speed 5, Intellect 2, Willpower 7, Awareness 4, Presence 2  
+**Resources:** Health 215/215, Focus 11/11, Investiture 0  
+**Skills:** ATH 4, INM 4
 
 ##### Opportunities and Complications
 
 The following options are available when an enemy gains an Opportunity or Complication during a scene with the Thunderclast:
 
-**Opportunity.** An enemy can spend Opportunity to prevent the Thunderclast from using their Crushing Palm action or spending focus until the end of the Thunderclast's next turn.
+**Opportunity.** An enemy can spend O to prevent the Thunderclast from using their Crushing Palm action or spending focus until the end of the Thunderclast's next turn.
 
-**Complication.** The GM can spend Complication from an enemy's test to have the Thunderclast use their Crushing Palm action as Reaction. The target gains a disadvantage on the Athletics test against this action.
+**Complication.** The GM can spend c from an enemy's test to have the Thunderclast use their Crushing Palm action as r. The target gains a disadvantage on the Athletics test against this action.
 
 ##### Tactics
 

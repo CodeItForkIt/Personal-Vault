@@ -9,29 +9,18 @@ aliases: ["Focused One"]
 # Focused One
 
 **Tier:** 4  
-**Size:** large
-
-| Strength | Speed | Intellect | Willpower | Awareness | Presence |
-|---|---|---|---|---|---|
-| 9 | 0 | 3 | 5 | 4 | 5 |
-
-| Health | Focus | Investiture |
-|---|---|---|
-| 190/190 | 11/11 | 7/7 |
-
-**Speed:** 0 ft.
-
-| ATH | HWP | DIS | INS | LEA | PRC | PRS | TSN |
-|---|---|---|---|---|---|---|---|
-| 5 | 5 | 5 | 4 | 5 | 4 | 5 | 5 |
+**Size:** large  
+**Attributes:** Strength 9, Speed 0, Intellect 3, Willpower 5, Awareness 4, Presence 5  
+**Resources:** Health 190/190, Focus 11/11, Investiture 7/7  
+**Skills:** ATH 5, HWP 5, DIS 5, INS 4, LEA 5, PRC 4, PRS 5, TSN 5
 
 ##### Opportunities and Complications
 
 The following options are available when an enemy gains an Opportunity or Complication during a scene with the Focused One:
 
-**Opportunity.** An enemy can spend Opportunity either to end the Focused One's Tight Form early, or to prevent the Focused One from using their Tight Form and from spending Investiture until the end of the Focused One's next turn.
+**Opportunity.** An enemy can spend O either to end the Focused One's Tight Form early, or to prevent the Focused One from using their Tight Form and from spending Investiture until the end of the Focused One's next turn.
 
-**Complication.** The GM can spend Complication from an enemy's test to have the Focused One use their Tight form as Reaction without spending focus. Alternatively, if they're already in Tight Form, the Complication can be spent to use the Grapple action as Reaction, gaining an advantage on its athletics test.
+**Complication.** The GM can spend c from an enemy's test to have the Focused One use their Tight form as r without spending focus. Alternatively, if they're already in Tight Form, the c can be spent to use the Grapple action as r, gaining an advantage on its athletics test.
 
 ##### Tactics
 

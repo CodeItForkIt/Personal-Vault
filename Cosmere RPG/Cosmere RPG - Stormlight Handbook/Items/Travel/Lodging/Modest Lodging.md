@@ -6,6 +6,6 @@ category: "Travel / Lodging"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Modest Lodging"]
 ---
-![[lumbermill.webp|64]]
+# Modest Lodging
 
 Price of 2 mk per Person per Night.

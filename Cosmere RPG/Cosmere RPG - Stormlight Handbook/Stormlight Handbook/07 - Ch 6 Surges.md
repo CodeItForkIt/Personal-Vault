@@ -58,15 +58,13 @@ Unless otherwise specified, you can’t infuse an object if either its width, le
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Surge Scaling]]
 
-[[Stormlight Handbook/17 - Appendix 2 Tables|Surge Scaling]]
-
 ### Surge Attacks
 
 If your surge allows you to make an attack, these follow the standard rules in the [[Stormlight Handbook/11 - Ch 10 Combat|Attacking]] section of chapter 10. Keep the following rules in mind:
 
 - If you can’t sense the target, your test gains a disadvantage.
 
-- On a hit, add your surge skill modifier to the damage. If you want, you can spend Opportunity to turn your hit into a critical hit.
+- On a hit, add your surge skill modifier to the damage. If you want, you can spend O to turn your hit into a critical hit.
 
 - On a miss, you can spend 1 focus per target to graze instead.
 
@@ -147,7 +145,7 @@ The surge of Abrasion alters the frictional force on an object’s surface, usua
 
 \
 
-[[Surges/Uncategorized/Abrasion|Abrasion Surge]]
+**Abrasion Surge**
 
 ## Using Abrasion
 
@@ -171,39 +169,23 @@ When another character steps on or otherwise interacts with a surface or object 
 
 ## Abrasion Talents
 
-The following talents, presented here in alphabetical order, appear in the [[Surges/Abrasion Talents/Abrasion Talents Talent Tree.canvas|Abrasion talent tree]] for the Dustbringer and Edgedancer paths.
+The following talents, presented here in alphabetical order, appear in the [[Surges/Abrasion Talents/Abrasion Talents|Abrasion talent tree]] for the Dustbringer and Edgedancer paths.
 
 \
 
-[[Surges/Abrasion Talents/Distant Surgebinding|Distant Surgebinding]]
+\
 
 \
 
-[[Surges/Abrasion Talents/Frictionless Motion|Frictionless Motion]]
+\
 
 \
 
-[[Surges/Abrasion Talents/Graceful Skating|Graceful Skating]]
+\
 
 \
 
-[[Surges/Abrasion Talents/Reverse Abrasion|Reverse Abrasion]]
-
 \
-
-[[Surges/Abrasion Talents/Slick Combatant|Slick Combatant]]
-
-\
-
-[[Surges/Abrasion Talents/Slippery Target|Slippery Target]]
-
-\
-
-[[Surges/Abrasion Talents/Smooth Operator|Smooth Operator]]
-
-\
-
-[[Surges/Abrasion Talents/Stormlight Reclamation|Stormlight Reclamation]]
 
 ## Adhesion (Presence)
 
@@ -213,7 +195,7 @@ The surge of Adhesion binds things together. These can be physical objects, or f
 
 \
 
-[[Surges/Uncategorized/Adhesion|Adhesion Surge]]
+**Adhesion Surge**
 
 ## Using Adhesion
 
@@ -245,39 +227,23 @@ A character can try to break apart two objects you’ve Lashed together. To do s
 
 ## Adhesion Talents
 
-The following talents, presented here in alphabetical order, appear in the [[Surges/Adhesion Talents/Adhesion Talents Talent Tree.canvas|Adhesion talent tree]] for the Windrunner path.
+The following talents, presented here in alphabetical order, appear in the [[Surges/Adhesion Talents/Adhesion Talents|Adhesion talent tree]] for the Windrunner path.
 
 \
 
-[[Surges/Adhesion Talents/Adhesive Trap|Adhesive Trap]]
+\
 
 \
 
-[[Surges/Adhesion Talents/Binding Shot|Binding Shot]]
+\
 
 \
 
-[[Surges/Adhesion Talents/Binding Strike|Binding Strike]]
+\
 
 \
 
-[[Surges/Adhesion Talents/Distant Surgebinding|Distant Surgebinding]]
-
 \
-
-[[Surges/Adhesion Talents/Extended Adhesion|Extended Adhesion]]
-
-\
-
-[[Surges/Adhesion Talents/Living Adhesion|Living Adhesion]]
-
-\
-
-[[Surges/Adhesion Talents/Stormlight Reclamation|Stormlight Reclamation]]
-
-\
-
-[[Surges/Adhesion Talents/Superior Bond|Superior Bond]]
 
 ## Cohesion (Willpower)
 
@@ -287,7 +253,7 @@ The surge of Cohesion allows you to alter objects down to their very axi—the p
 
 \
 
-[[Surges/Uncategorized/Cohesion|Cohesion Surge]]
+**Cohesion Surge**
 
 ## Using Cohesion
 
@@ -313,39 +279,23 @@ When a Cohesion infusion runs out, the stone returns to its previously rigid sta
 
 ## Cohesion Talents
 
-The following talents, presented here in alphabetical order, appear in the [[Surges/Cohesion Talents/Cohesion Talents Talent Tree.canvas|Cohesion talent tree]] for the Stoneward and Willshaper paths.
+The following talents, presented here in alphabetical order, appear in the [[Surges/Cohesion Talents/Cohesion Talents|Cohesion talent tree]] for the Stoneward and Willshaper paths.
 
 \
 
-[[Surges/Cohesion Talents/Flowing Earth|Flowing Earth]]
+\
 
 \
 
-[[Surges/Cohesion Talents/Memories of Stone|Memories of Stone]]
+\
 
 \
 
-[[Surges/Cohesion Talents/Sinkhole|Sinkhole]]
+\
 
 \
 
-[[Surges/Cohesion Talents/Stone Spear|Stone Spear]]
-
 \
-
-[[Surges/Cohesion Talents/Through the Stone|Through the Stone]]
-
-\
-
-[[Surges/Cohesion Talents/True Stoneshaping|True Stoneshaping]]
-
-\
-
-[[Surges/Cohesion Talents/Tunneling|Tunneling]]
-
-\
-
-[[Surges/Cohesion Talents/Unbound Cohesion|Unbound Cohesion]]
 
 ## Division (Intellect)
 
@@ -355,7 +305,7 @@ The surge of Division allows you to destroy and decay, causing your target to at
 
 \
 
-[[Surges/Uncategorized/Division|Division Surge]]
+**Division Surge**
 
 ## Using Division
 
@@ -373,8 +323,6 @@ It requires considerable concentration and accuracy to use Division while moving
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Division Under Pressure]]
 
-[[Stormlight Handbook/17 - Appendix 2 Tables|Division Under Pressure]]
-
 You can’t target materials in this way while they’re in the body of an unwilling living character; instead, target the character’s Spiritual defense as described in the Division surge.
 
 *He exhaled Stormlight in a rush, infusing the stones around him with a mounting destruction. The column became char, the stone itself set alight. Szeth ripped from it, trailing ash.*
@@ -385,39 +333,23 @@ If a character is willing, you can easily destroy an object in their possession.
 
 ## Division Talents
 
-The following talents, presented here in alphabetical order, appear in the [[Surges/Division Talents/Division Talents Talent Tree.canvas|Division talent tree]] for the Dustbringer and Skybreaker paths.
+The following talents, presented here in alphabetical order, appear in the [[Surges/Division Talents/Division Talents|Division talent tree]] for the Dustbringer and Skybreaker paths.
 
 \
 
-[[Surges/Division Talents/Bodily Decay|Bodily Decay]]
+\
 
 \
 
-[[Surges/Division Talents/Devastating Division|Devastating Division]]
+\
 
 \
 
-[[Surges/Division Talents/Eroding Escape|Eroding Escape]]
+\
 
 \
 
-[[Surges/Division Talents/Gout of Flame|Gout of Flame]]
-
 \
-
-[[Surges/Division Talents/Igniting Division|Igniting Division]]
-
-\
-
-[[Surges/Division Talents/Inescapable Spark|Inescapable Spark]]
-
-\
-
-[[Surges/Division Talents/Spark Sending|Spark Sending]]
-
-\
-
-[[Surges/Division Talents/Unleashed Entropy|Unleashed Entropy]]
 
 ## Gravitation (Awareness)
 
@@ -427,7 +359,7 @@ The surge of Gravitation can change the direction and magnitude of an object’s
 
 \
 
-[[Surges/Uncategorized/Gravitation|Gravitation Surge]]
+**Gravitation Surge**
 
 ## Using Gravitation
 
@@ -451,39 +383,23 @@ When flying or moving something with a Basic Lashing, you don’t usually need t
 
 ## Gravitation Talents
 
-The following talents, presented here in alphabetical order, appear in the [[Surges/Gravitation Talents/Gravitation Talents Talent Tree.canvas|Gravitation talent tree]] for the Skybreaker and Windrunner paths.
+The following talents, presented here in alphabetical order, appear in the [[Surges/Gravitation Talents/Gravitation Talents|Gravitation talent tree]] for the Skybreaker and Windrunner paths.
 
 \
 
-[[Surges/Gravitation Talents/Aerial Squadron|Aerial Squadron]]
+\
 
 \
 
-[[Surges/Gravitation Talents/Flying Ace|Flying Ace]]
+\
 
 \
 
-[[Surges/Gravitation Talents/Gravitational Slam|Gravitational Slam]]
+\
 
 \
 
-[[Surges/Gravitation Talents/Group Flight|Group Flight]]
-
 \
-
-[[Surges/Gravitation Talents/Lashing Shot|Lashing Shot]]
-
-\
-
-[[Surges/Gravitation Talents/Master of the Skies|Master of the Skies]]
-
-\
-
-[[Surges/Gravitation Talents/Multiple Lashings|Multiple Lashings]]
-
-\
-
-[[Surges/Gravitation Talents/Stable Flight|Stable Flight]]
 
 \
 
@@ -499,7 +415,7 @@ The surge of Illumination can create convincing illusions, both visual and audit
 
 \
 
-[[Surges/Uncategorized/Illumination|Illumination Surge]]
+**Illumination Surge**
 
 ## Using Illumination
 
@@ -535,39 +451,23 @@ Tests aren’t the only way to detect an illusion (or to become suspicious of on
 
 ## Illumination Talents
 
-The following talents, presented here in alphabetical order, appear in the [[Surges/Illumination Talents/Illumination Talents Talent Tree.canvas|Illumination talent tree]] for the Lightweaver and Truthwatcher paths.
+The following talents, presented here in alphabetical order, appear in the [[Surges/Illumination Talents/Illumination Talents|Illumination talent tree]] for the Lightweaver and Truthwatcher paths.
 
 \
 
-[[Surges/Illumination Talents/Disorienting Flash|Disorienting Flash]]
+\
 
 \
 
-[[Surges/Illumination Talents/Distracting Illusion|Distracting Illusion]]
+\
 
 \
 
-[[Surges/Illumination Talents/Endless Illusions|Endless Illusions]]
+\
 
 \
 
-[[Surges/Illumination Talents/Lingering Lightweavings|Lingering Lightweavings]]
-
 \
-
-[[Surges/Illumination Talents/Multiplicative Lightweaving|Multiplicative Lightweaving]]
-
-\
-
-[[Surges/Illumination Talents/Painful Truth|Painful Truth]]
-
-\
-
-[[Surges/Illumination Talents/Spiritual Illumination|Spiritual Illumination]]
-
-\
-
-[[Surges/Illumination Talents/Stormlight Reclamation|Stormlight Reclamation]]
 
 ## Progression (Awareness)
 
@@ -577,7 +477,7 @@ The surge of Progression controls the growth and healing of living things. Its t
 
 \
 
-[[Surges/Uncategorized/Progression|Progression Surge]]
+**Progression Surge**
 
 ## Using Progression
 
@@ -593,39 +493,23 @@ Regrowth heals by transforming the target’s Physical form to better match thei
 
 ## Progression Talents
 
-The following talents, presented here in alphabetical order, appear in the [[Surges/Progression Talents/Progression Talents Talent Tree.canvas|Progression talent tree]] for the Edgedancer and Truthwatcher paths.
+The following talents, presented here in alphabetical order, appear in the [[Surges/Progression Talents/Progression Talents|Progression talent tree]] for the Edgedancer and Truthwatcher paths.
 
 \
 
-[[Surges/Progression Talents/Explosive Growth|Explosive Growth]]
+\
 
 \
 
-[[Surges/Progression Talents/Extended Regrowth|Extended Regrowth]]
+\
 
 \
 
-[[Surges/Progression Talents/Font of Life|Font of Life]]
+\
 
 \
 
-[[Surges/Progression Talents/From the Brink|From the Brink]]
-
 \
-
-[[Surges/Progression Talents/Injury Regrowth|Injury Regrowth]]
-
-\
-
-[[Surges/Progression Talents/Overgrowth|Overgrowth]]
-
-\
-
-[[Surges/Progression Talents/Reliable Progression|Reliable Progression]]
-
-\
-
-[[Surges/Progression Talents/Swift Regeneration|Swift Regeneration]]
 
 ## Tension (Strength)
 
@@ -635,7 +519,7 @@ The surge of Tension alters the rigidity of objects. This allows you to reinforc
 
 \
 
-[[Surges/Uncategorized/Tension|Tension Surge]]
+**Tension Surge**
 
 ## Using Tension
 
@@ -663,39 +547,23 @@ A character can try to bend an object you’ve stiffened with your Tension. To d
 
 ## Tension Talents
 
-The following talents, presented here in alphabetical order, appear in the [[Surges/Tension Talents/Tension Talents Talent Tree.canvas|Tension talent tree]] for the Stoneward path.
+The following talents, presented here in alphabetical order, appear in the [[Surges/Tension Talents/Tension Talents|Tension talent tree]] for the Stoneward path.
 
 \
 
-[[Surges/Tension Talents/Cloth Mastery|Cloth Mastery]]
+\
 
 \
 
-[[Surges/Tension Talents/Clothsmith|Clothsmith]]
+\
 
 \
 
-[[Surges/Tension Talents/Extended Tension|Extended Tension]]
+\
 
 \
 
-[[Surges/Tension Talents/Fine Control|Fine Control]]
-
 \
-
-[[Surges/Tension Talents/Rigged Weaponry|Rigged Weaponry]]
-
-\
-
-[[Surges/Tension Talents/Stormlight Reclamation|Stormlight Reclamation]]
-
-\
-
-[[Surges/Tension Talents/Surface Tension|Surface Tension]]
-
-\
-
-[[Surges/Tension Talents/Tension Parry|Tension Parry]]
 
 ## Transformation (Willpower)
 
@@ -705,11 +573,9 @@ The surge of Transformation transforms one material into another. Often called *
 
 \
 
-[[Surges/Uncategorized/Transformation|Transformation Surge]]
+**Transformation Surge**
 
 #### [[Stormlight Handbook/17 - Appendix 2 Tables|Transformation Difficulty Classes]]
-
-[[Stormlight Handbook/17 - Appendix 2 Tables|Transformation Difficulty Classes]]
 
 ## Using Transformation
 
@@ -732,39 +598,23 @@ It’s up to you and your GM to resolve such creative uses. In general, if your 
 
 ## Transformation Talents
 
-The following talents, presented here in alphabetical order, appear in the [[Surges/Transformation Talents/Transformation Talents Talent Tree.canvas|Transformation talent tree]] for the Elsecaller and Lightweaver paths.
+The following talents, presented here in alphabetical order, appear in the [[Surges/Transformation Talents/Transformation Talents|Transformation talent tree]] for the Elsecaller and Lightweaver paths.
 
 \
 
-[[Surges/Transformation Talents/Bloodcasting|Bloodcasting]]
+\
 
 \
 
-[[Surges/Transformation Talents/Distant Surgebinding|Distant Surgebinding]]
+\
 
 \
 
-[[Surges/Transformation Talents/Expansive Transmuter|Expansive Transmuter]]
+\
 
 \
 
-[[Surges/Transformation Talents/Flamecasting|Flamecasting]]
-
 \
-
-[[Surges/Transformation Talents/Living Soulcasting|Living Soulcasting]]
-
-\
-
-[[Surges/Transformation Talents/Persistent Transformation|Persistent Transformation]]
-
-\
-
-[[Surges/Transformation Talents/Soulcast Defense|Soulcast Defense]]
-
-\
-
-[[Surges/Transformation Talents/Soulcast Parry|Soulcast Parry]]
 
 ## Transportation (Intellect)
 
@@ -774,11 +624,11 @@ The surge of Transportation allows you to transition yourself and others between
 
 \
 
-[[Surges/Uncategorized/Transportation|Transportation Surge]]
+**Transportation Surge**
 
 ## Transportation Talents
 
-The following talents, presented here in alphabetical order, appear in the [[Surges/Transportation Talents/Transportation Talents Talent Tree.canvas|Transportation talent tree]] for the Elsecaller and Willshaper paths.
+The following talents, presented here in alphabetical order, appear in the [[Surges/Transportation Talents/Transportation Talents|Transportation talent tree]] for the Elsecaller and Willshaper paths.
 
 ![[pg239_Elsecaller Transportation_RANDY VARGAS.webp]]
 
@@ -790,32 +640,16 @@ The following talents, presented here in alphabetical order, appear in the [[Sur
 
 \
 
-[[Surges/Transportation Talents/Cognitive Farsight|Cognitive Farsight]]
+\
 
 \
 
-[[Surges/Transportation Talents/Cognitive Vision|Cognitive Vision]]
+\
 
 \
 
-[[Surges/Transportation Talents/Elsecalling|Elsecalling]]
+\
 
 \
 
-[[Surges/Transportation Talents/Elsegate|Elsegate]]
-
 \
-
-[[Surges/Transportation Talents/Realmic Evasion|Realmic Evasion]]
-
-\
-
-[[Surges/Transportation Talents/Realmic Step|Realmic Step]]
-
-\
-
-[[Surges/Transportation Talents/Realmwalker|Realmwalker]]
-
-\
-
-[[Surges/Transportation Talents/Shared Transportation|Shared Transportation]]

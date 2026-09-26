@@ -6,7 +6,7 @@ category: "Dustbringer / Goals"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "goal"]
 aliases: ["Speak the Third Ideal"]
 ---
-![[fog-gas-smoke-swirling-orange.webp|64]]
+# Speak the Third Ideal
 
 *You seek to advance your Nahel bond even further by speaking the Third Ideal.*
 

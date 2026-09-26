@@ -1,0 +1,17 @@
+---
+title: "Surefooted"
+type: "talent"
+module: "Cosmere RPG - Mistborn Handbook"
+category: "Warrior / Brawler / Talents"
+tags: ["cosmere-rpg", "cosmere-rpg-mistborn-handbook", "talent"]
+aliases: ["Surefooted"]
+---
+# Surefooted
+
+**Activation:** **8**
+
+*You move through treacherous terrain with confidence and speed.*
+
+When you acquire this talent, increase your movement rate by 10.
+
+Additionally, before you take damage from dangerous terrain or falling, reduce that damage by 2 × your tier.

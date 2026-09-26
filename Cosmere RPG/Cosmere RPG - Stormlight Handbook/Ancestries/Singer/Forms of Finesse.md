@@ -6,9 +6,9 @@ category: "Singer"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Forms of Finesse"]
 ---
-![[air-wave-gust-blue.webp|64]]
+# Forms of Finesse
 
-**Activation:** Always Active
+**Activation:** 8
 
 You gain two new singer forms—[[Ancestries/Singer/Forms/Artform|Artform]] and [[Ancestries/Singer/Forms/Nimbleform|Nimbleform]]—which you can transform into using your Change Form.
 

@@ -6,7 +6,7 @@ category: "Weapons"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "weapon"]
 aliases: ["Mace"]
 ---
-![[ICON_Mace.webp|64]]
+# Mace
 
 **Damage** 1d6 impact; **Range** Melee; **Traits** —; **Expert Traits** Momentum;
 

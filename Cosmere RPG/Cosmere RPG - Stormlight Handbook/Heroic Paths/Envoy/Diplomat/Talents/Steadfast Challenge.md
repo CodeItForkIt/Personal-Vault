@@ -6,9 +6,9 @@ category: "Envoy / Diplomat / Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Steadfast Challenge"]
 ---
-![[humanoid-single-yellow.webp|64]]
+# Steadfast Challenge
 
-**Activation:** One Action
+**Activation:** 1
 
 *You stand firm, locking eyes with your opponent and speaking a challenge with unnerving calm.*
 

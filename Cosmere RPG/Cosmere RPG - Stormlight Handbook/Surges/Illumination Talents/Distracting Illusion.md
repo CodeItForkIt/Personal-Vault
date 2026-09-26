@@ -6,9 +6,9 @@ category: "Illumination Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Distracting Illusion"]
 ---
-![[ring-circle-smoke-blue.webp|64]]
+# Distracting Illusion
 
-**Activation:** One Action
+**Activation:** 1
 
 *You create a moving, illusory copy of someone to distract your enemies.*
 

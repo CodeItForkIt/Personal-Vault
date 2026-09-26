@@ -6,7 +6,7 @@ category: "Uncategorized"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "culture"]
 aliases: ["Unkalaki"]
 ---
-![[unkalaki-t.webp|64]]
+# Unkalaki
 
 The Horneater Peaks are each ruled by a patriarch called a nuatoma. Atop these steep and inhospitably icy mountains, warm crater lakes form cozy microclimates where crops flourish in balmy humidity. Unkalaki people refer to these lakes as oceans. Traditional family structures dictate each son’s occupation according to their birth order; the first two sons are assigned as hunters or farmers, the third as a craftsman, and the fourth as a warrior. Occupations for other genders tend to be more individualized and diverse.
 

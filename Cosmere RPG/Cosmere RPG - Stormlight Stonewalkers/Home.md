@@ -11,5 +11,4 @@ tags: ["cosmere-rpg", "moc"]
 - [[Scenes Index|Scenes]]
 
 ## Talent Trees
-- [[Items/Surges/Cohesion Talents Talent Tree.canvas|Cohesion Talents (Items)]]
-- [[Items/Surges/Tension Talents Talent Tree.canvas|Tension Talents (Items)]]
+- [[Items/Surges Talent Tree.canvas|Surges (Items)]]

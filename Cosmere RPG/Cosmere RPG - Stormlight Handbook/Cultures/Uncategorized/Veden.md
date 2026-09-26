@@ -6,7 +6,7 @@ category: "Uncategorized"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "culture"]
 aliases: ["Veden"]
 ---
-![[veden-t.webp|64]]
+# Veden
 
 Jah Keved is ruled by a king and highprinces. Social orders for lighteyes and darkeyes are maintained and endorsed by Vorinism, the primary religion of Vedens. The Holy Enclave in the city of Valath is the center of the faith. Despite border disputes with Alethkar, the two nations remain cordial. There are four major ethnic groups within the borders of Jah Keved: Bav, Siln, Veden, and Unkalaki. Vedens, who comprise the majority, share many physical traits with the Alethi, though they most commonly have black or red hair. Their language is close enough to Alethi to be mutually intelligible. Fashion trends are also closely tied between the two nations.
 

@@ -47,7 +47,7 @@ This castle, Ashiqqil Keep, defends the trails into Emul’s eastern territory. 
 
 This skirmish is part of the Eighty’s War, a seven- year-long conflict in which the Tukari attempt to wrest control of the capital city Sesemalex Dar from Emul. For Emul, Sesemalex Dar is their ancestral homeland, which they claim was given to them by the Heralds. Meanwhile, Tukar fights for their tyrannical leader, the “god-priest Tezim,” who sees the port city as rightfully his.
 
-Sesemalex Dar is many miles to the west, but the Tukari are attacking strategic targets across the Emuli border. They’ve captured Ashiqqil Keep because it defends an important mountain pass, and they’ve claimed a powerful prisoner inside. This prisoner is Vanzi, an imprisoned Emuli with Radiant abilities (see [[Journal/05 - 05 The Eightys War#Nale’s Prisoner|Nale’s Prisoner]] later in this chapter). Though the Herald Nale doesn’t intervene in the battle, he has arrived to preside over Vanzi’s final judgment and execution.
+Sesemalex Dar is many miles to the west, but the Tukari are attacking strategic targets across the Emuli border. They’ve captured Ashiqqil Keep because it defends an important mountain pass, and they’ve claimed a powerful prisoner inside. This prisoner is Vanzi, an imprisoned Emuli with Radiant abilities (see [[Journal/05 - 05 The Eightys War|Nale’s Prisoner]] later in this chapter). Though the Herald Nale doesn’t intervene in the battle, he has arrived to preside over Vanzi’s final judgment and execution.
 
 ### Battle Phases
 
@@ -99,7 +99,7 @@ The endeavor succeeds if the party accrues 3 successes before 2 failures, or if 
 
 **Failure.** The party learns only basic information: The Emuli forces are outmatched and suffered major losses in a previous assault. The Emuli soldiers look like civilians in mismatched armor, while the Tukari are well-organized and hold a fortified position. Without aid, the Emuli will surely lose this battle.
 
-**Success.** The party learns everything listed in “Failure” above. They additionally learn the details (mentioned in the later [[Journal/05 - 05 The Eightys War#Nale’s Prisoner|Nale’s Prisoner]] section) about Vanzi, the Emuli Radiant captured in the fall of the keep. The Tukari are also rumored to have a “Voidbringer champion” fighting on their side. Characters who join the Emuli forces after gathering this information gain the Determined condition.
+**Success.** The party learns everything listed in “Failure” above. They additionally learn the details (mentioned in the later [[Journal/05 - 05 The Eightys War|Nale’s Prisoner]] section) about Vanzi, the Emuli Radiant captured in the fall of the keep. The Tukari are also rumored to have a “Voidbringer champion” fighting on their side. Characters who join the Emuli forces after gathering this information gain the Determined condition.
 
 #### **The Assault Begins**
 
@@ -135,7 +135,7 @@ Eight Tukari **[[Actors/Adversaries/Soldier/Archer|archers]]** are stationed on 
 
 #### **Tukari Tactics**
 
-Unless the Tukari archers find themselves in melee with a PC, they focus fire on anyone holding the ram, using their Immobilizing Shot (Reaction) to target the closest characters.
+Unless the Tukari archers find themselves in melee with a PC, they focus fire on anyone holding the ram, using their Immobilizing Shot (r) to target the closest characters.
 
 #### **The Gate and the Battering Ram**
 
@@ -155,7 +155,7 @@ If a PC is one of the people holding the ram, they can Use a Skill (1) to make a
 
 #### **Triggering the Event**
 
-If you fill all three slots with Opportunities, see the “Ashiqqil Gate Falls” outcome in the [[Journal/05 - 05 The Eightys War#Phase Outcome|Phase Outcome]] section.
+If you fill all three slots with Opportunities, see the “Ashiqqil Gate Falls” outcome in the [[Journal/05 - 05 The Eightys War|Phase Outcome]] section.
 
 ### Battlefield Effects
 
@@ -170,8 +170,6 @@ The following effects are active during this phase of the battle:
 If a character gains an Opportunity or Complication, use the Tukari Opportunities and Complications table for inspiration.
 
 #### [[Journal/11 - Appendix C Tables|Tukari Opportunities and Complications]]
-
-[[Journal/11 - Appendix C Tables|Tukari Opportunities and Complications]]
 
 ### Phase Outcome
 
@@ -197,7 +195,7 @@ The lead soldier is **[[Actors/Adversaries/Named/Ch. 5/Gamish|Gamish]]** (spear 
 
 ### Phase Objective
 
-The characters can rally the troops by convincing Gamish and those listening that the fight can be won. If they choose to do so, run a conversation with Gamish (see [[Journal/05 - 05 The Eightys War#Phase Outcome|Phase Outcome]]).
+The characters can rally the troops by convincing Gamish and those listening that the fight can be won. If they choose to do so, run a conversation with Gamish (see [[Journal/05 - 05 The Eightys War|Phase Outcome]]).
 
 ### Resisting Influence
 
@@ -209,7 +207,7 @@ The conversation succeeds if the PCs convince Gamish to stay, either by making a
 
 - **Success.** Inspired, Gamish calls out to other soldiers on the battlefield, who shout back with a rallying cry. He and three other spear infantry charge forward, pick up the battering ram, and bring down the gate with one final heave. At this point, the PCs can choose to [[Journal/05 - 05 The Eightys War#Make a Break for It|Make a Break for It]] or [[Journal/05 - 05 The Eightys War#Storm the Keep|Storm the Keep]].
 
-- **Failure.** No reinforcements arrive and the Emuli forces begin to retreat. Move straight to the [[Journal/05 - 05 The Eightys War#Phase Outcome|Phase Outcome]] subsection of the "Storm the Keep" section to play out the end of the battle.
+- **Failure.** No reinforcements arrive and the Emuli forces begin to retreat. Move straight to the [[Journal/05 - 05 The Eightys War|Phase Outcome]] subsection of the "Storm the Keep" section to play out the end of the battle.
 
 ## Make a Break for It
 
@@ -260,8 +258,6 @@ The following effect is active during this phase of the battle:
 If a character gains an Opportunity or Complication, use the Final Push Opportunities and Complications table for inspiration.
 
 #### [[Journal/11 - Appendix C Tables|Final Push Opportunities and Complications]]
-
-[[Journal/11 - Appendix C Tables|Final Push Opportunities and Complications]]
 
 ### Phase Outcome
 
@@ -441,7 +437,7 @@ The Measured Response is captained by **[[Actors/Adversaries/Named/Ch. 5/Vaqqui|
 
 Vaqqui and crew arrive in Sesemalex Dar the day after the party’s arrival. They stay in port for one day to load and unload before moving onward to Rall Elorim. The PCs therefore have two days of downtime to spend in the city, plus sixty-five days of downtime during their sea voyage (see [[Journal/05 - 05 The Eightys War#Downtime in Port and at Sea|Downtime in Port and at Sea]]).
 
-Once the ship leaves port, the party has a chance to reminisce on their adventures so far; proceed to [[Journal/05 - 05 The Eightys War#The Captain’s Table|The Captain’s Table]].
+Once the ship leaves port, the party has a chance to reminisce on their adventures so far; proceed to [[Journal/05 - 05 The Eightys War|The Captain’s Table]].
 
 ![[Vaqqui_portrait.webp]]
 

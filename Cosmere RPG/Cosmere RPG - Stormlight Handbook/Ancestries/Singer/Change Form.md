@@ -6,9 +6,9 @@ category: "Singer"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Change Form"]
 ---
-![[silhouette-hold-beam-blue.webp|64]]
+# Change Form
 
-**Activation:** Three Actions
+**Activation:** 3
 
 *You learn to bond a spren during highstorms and change your form. This transformation alters not only your appearance, but your physical, cognitive, and spiritual strengths, and even your personality.*
 

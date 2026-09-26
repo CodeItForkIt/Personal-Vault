@@ -6,7 +6,7 @@ category: "Equipment"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "equipment"]
 aliases: ["Pitcher"]
 ---
-![[jug-terracotta-orange.webp|64]]
+# Pitcher
 
 **Price** 2 mk; **Weight** 4 lb.;
 

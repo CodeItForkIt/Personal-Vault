@@ -9,21 +9,10 @@ aliases: ["Axies the Collector"]
 # Axies the Collector
 
 **Tier:** 3  
-**Size:** medium
-
-| Strength | Speed | Intellect | Willpower | Awareness | Presence |
-|---|---|---|---|---|---|
-| 3 | 4 | 6 | 4 | 6 | 3 |
-
-| Health | Focus | Investiture |
-|---|---|---|
-| 60/60 | 6/6 | 0 |
-
-**Speed:** 40 ft.
-
-| AGI | STL | THV | DED | DIS | LOR | DEC | INS | PRC |
-|---|---|---|---|---|---|---|---|---|
-| 2 | 4 | 4 | 2 | 1 | 4 | 2 | 4 | 4 |
+**Size:** medium  
+**Attributes:** Strength 3, Speed 4, Intellect 6, Willpower 4, Awareness 6, Presence 3  
+**Resources:** Health 60/60, Focus 6/6, Investiture 0  
+**Skills:** AGI 2, STL 4, THV 4, DED 2, DIS 1, LOR 4, DEC 2, INS 4, PRC 4
 
 ##### Tactics
 
@@ -42,7 +31,7 @@ Axies the Collector must raise the stakes when making a risky or difficult skill
 ### Fun Fact
 *1 act*
 
-Axies the Collector chooses an ally he can influence within 20 feet of him, then makes a *Test: `skill=lor dc=15`* and raises the stakes. On a success, the chosen ally gains 2 focus. Whether the test succeeds or fails, on Opportunity, that ally's next test gains an advantage, and on Complication, that ally's next test gains a disadvantage.
+Axies the Collector chooses an ally he can influence within 20 feet of him, then makes a *Test: `skill=lor dc=15`* and raises the stakes. On a success, the chosen ally gains 2 focus. Whether the test succeeds or fails, on O, that ally's next test gains an advantage, and on c, that ally's next test gains a disadvantage.
 
 ### Shift Form
 *2 act*

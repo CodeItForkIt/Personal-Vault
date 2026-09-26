@@ -6,6 +6,6 @@ category: "Features"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "trait"]
 aliases: ["Minion"]
 ---
-![[silhouette-hold-change-blue.webp|64]]
+# Minion
 
 The Actor Name's attacks can't critically hit, and they're immediately defeated when they suffer an injury.

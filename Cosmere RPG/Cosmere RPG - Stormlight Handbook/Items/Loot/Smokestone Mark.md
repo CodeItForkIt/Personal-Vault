@@ -6,6 +6,6 @@ category: "Loot"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "loot"]
 aliases: ["Smokestone Mark"]
 ---
-![[sphere_smokestone_mark.webp|64]]
+# Smokestone Mark
 
 

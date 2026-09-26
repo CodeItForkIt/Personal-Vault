@@ -6,9 +6,9 @@ category: "Transformation Talents"
 tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "talent"]
 aliases: ["Flamecasting"]
 ---
-![[flame-burning-embers-yellow.webp|64]]
+# Flamecasting
 
-**Activation:** Always Active
+**Activation:** 8
 
 *You’ve learned the difficult art of Soulcasting Essences directly into instantaneous bursts of flame.*
 

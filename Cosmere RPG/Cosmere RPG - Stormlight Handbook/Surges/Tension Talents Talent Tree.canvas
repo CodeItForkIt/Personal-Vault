@@ -1,0 +1,134 @@
+{
+  "nodes": [
+    {
+      "id": "NcvZI9uIS7cuphfR",
+      "type": "file",
+      "file": "Surges/Tension Talents/Stormlight Reclamation.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "tT2mdNFJilCqU3au",
+      "type": "file",
+      "file": "Surges/Tension Talents/Tension Parry.md",
+      "x": 0,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "3v2KeHceTkpNLTke",
+      "type": "file",
+      "file": "Surges/Tension Talents/Cloth Mastery.md",
+      "x": 680,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "VOxHvsEimGiD3MZo",
+      "type": "file",
+      "file": "Surges/Tension Talents/Surface Tension.md",
+      "x": 680,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "Jq6MJ337FIXaj1jp",
+      "type": "file",
+      "file": "Surges/Tension Talents/Extended Tension.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "OqKtCELvYYHBKZwQ",
+      "type": "file",
+      "file": "Surges/Tension Talents/Rigged Weaponry.md",
+      "x": 340,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "3zOTAzorf94tOLvj",
+      "type": "file",
+      "file": "Surges/Tension Talents/Clothsmith.md",
+      "x": 1020,
+      "y": 0,
+      "width": 280,
+      "height": 90
+    },
+    {
+      "id": "o7H4cgXED34k1YSb",
+      "type": "file",
+      "file": "Surges/Tension Talents/Fine Control.md",
+      "x": 1020,
+      "y": 120,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "OqKtCELvYYHBKZwQ",
+      "fromSide": "right",
+      "toNode": "3v2KeHceTkpNLTke",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "3v2KeHceTkpNLTke",
+      "fromSide": "right",
+      "toNode": "3zOTAzorf94tOLvj",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "VOxHvsEimGiD3MZo",
+      "fromSide": "right",
+      "toNode": "3zOTAzorf94tOLvj",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "NcvZI9uIS7cuphfR",
+      "fromSide": "right",
+      "toNode": "Jq6MJ337FIXaj1jp",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "tT2mdNFJilCqU3au",
+      "fromSide": "right",
+      "toNode": "OqKtCELvYYHBKZwQ",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "Jq6MJ337FIXaj1jp",
+      "fromSide": "right",
+      "toNode": "VOxHvsEimGiD3MZo",
+      "toSide": "left",
+      "label": "or"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "3v2KeHceTkpNLTke",
+      "fromSide": "right",
+      "toNode": "o7H4cgXED34k1YSb",
+      "toSide": "left",
+      "label": "or"
+    }
+  ]
+}
